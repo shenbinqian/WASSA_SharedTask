@@ -19,3 +19,7 @@ DL.py and DLrg.py can be used for finetuning deep learning models (Roberta) for 
 ## tabular.py
 
 Tabular.py can be used for running experiments of combining essays, articles, numerical and categorical features for emotion classification and empathy/distress prediction.
+
+## Environments
+
+The default embedding method for statistical ML models is universal sentence encoder (USE) which requires Tensorflow environment, while deep learning methods require pytorch environment. Special attention needs to be paid on tabular.py, which requires python 3.7 and transformer 3.0.
