@@ -8,14 +8,14 @@ CSV and TSV files contain all texts and other varibles for emotion classfication
 
 Data_viz.py can be used to visualise the distribution of these data. Preprocessing.py and utils.py can be used to wrangle these data for training purposes.
 
-## sML.py
+## Statistical Learning -- sML.py and ensemble.py
 
-Experiments of statistical machine learning models for emotion classification and empathy/distress prediction.
+sML.py can be used for running of statistical machine learning models for emotion classification and empathy/distress prediction. Ensemble.py can be used for ensemble statistical ML models.
 
-## DL.py and DLrg.py
+## Deep Learning -- DL.py and DLrg.py
 
-Experiments of finetuning deep learning models (Roberta)for emotion classification and empathy/distress prediction.
+DL.py and DLrg.py can be used for finetuning deep learning models (Roberta) for emotion classification and empathy/distress prediction.
 
 ## tabular.py
 
-Experiments of combining essays, articles, numerical and categorical features for emotion classification and empathy/distress prediction.
+Tabular.py can be used for running experiments of combining essays, articles, numerical and categorical features for emotion classification and empathy/distress prediction.
