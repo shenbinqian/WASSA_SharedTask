@@ -1,0 +1,27 @@
+=====================> [[('Awwwww this whole situation is so sad !', None, None, None, 1), ('The poor squirrel , the poor residents .', None, None, None, 1), ('I hope everyone is okay !', None, None, None, 1), ('The fate of the squirrel is probably fine , tho .', None, None, None, 1), ("I 'm glad they got rabies shots", None, None, None, 0), ('cus', None, None, None, 0), ('taking any chances', None, None, None, 0), ('with that is a really bad idea .', None, None, None, 1), ("While maybe it 's not a high risk , it 's a high-enough risk", None, None, None, 0), ('that it should be taken seriously .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ('they got to the hospital', None, None, None, 0), ('and got treatment quickly !!', None, None, None, 1)]]
+Leaf:  N Summary Awwwww this whole situation is so sad !
+Leaf:  N Elaborate The poor squirrel , the poor residents .
+Leaf:  S span I hope everyone is okay !
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The fate of the squirrel is probably fine , tho .
+Leaf:  N Explanation I 'm glad they got rabies shots
+Leaf:  N Explanation cus
+Leaf:  N Elaborate taking any chances
+Leaf:  S span with that is a really bad idea .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate While maybe it 's not a high risk , it 's a high-enough risk
+Leaf:  S span that it should be taken seriously .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm glad
+Leaf:  N Joint they got to the hospital
+Leaf:  N Joint and got treatment quickly !!
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Awwwww this whole situation is so sad !', None, None, None, 1), ('The poor squirrel , the poor residents .', None, None, None, 1), ('I hope everyone is okay !', None, None, None, 1), ('The fate of the squirrel is probably fine , tho .', None, None, None, 1), ("I 'm glad they got rabies shots", None, None, None, 0), ('cus', None, None, None, 0), ('taking any chances', None, None, None, 0), ('with that is a really bad idea .', None, None, None, 1), ("While maybe it 's not a high risk , it 's a high-enough risk", None, None, None, 0), ('that it should be taken seriously .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ('they got to the hospital', None, None, None, 0), ('and got treatment quickly !!', None, None, None, 1)]

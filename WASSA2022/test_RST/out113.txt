@@ -1,0 +1,29 @@
+=====================> [[('Can you imagine this ?', None, None, None, 1), ('How is it a solution to corruption at all to just ban bills of money', None, None, None, 0), ('that would mostly affect lower income people ?', None, None, None, 1), ('There are a ton of poor people in India', None, None, None, 0), ('who would be affected like this , money', None, None, None, 0), ('they worked hard for', None, None, None, 0), ("and suddenly they ca n't use it", None, None, None, 0), ('without having to take time at the bank', None, None, None, 0), ('to get new bills ,', None, None, None, 0), ("and of course since it was n't prepared for , people ca n't even do that .", None, None, None, 1), ('Such a ridiculous idea .', None, None, None, 1), ('I feel so badly for the people', None, None, None, 0), ('affected by this .', None, None, None, 1), ('Have you ever heard of anything so stupid ?', None, None, None, 1)]]
+Leaf:  N Joint Can you imagine this ?
+Leaf:  N Elaborate How is it a solution to corruption at all to just ban bills of money
+Leaf:  S span that would mostly affect lower income people ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate There are a ton of poor people in India
+Leaf:  N Elaborate who would be affected like this , money
+Leaf:  S span they worked hard for
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Manner-Means and suddenly they ca n't use it
+Leaf:  N Enablement without having to take time at the bank
+Leaf:  S span to get new bills ,
+Inner:  S span None Enablement NS
+Inner:  N Temporal None Manner-Means NS
+Inner:  N Cause None Temporal NN
+Leaf:  N Cause and of course since it was n't prepared for , people ca n't even do that .
+Inner:  N Evaluation None Cause NN
+Leaf:  N Evaluation Such a ridiculous idea .
+Leaf:  N Elaborate I feel so badly for the people
+Leaf:  S span affected by this .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span Have you ever heard of anything so stupid ?
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Can you imagine this ?', None, None, None, 1), ('How is it a solution to corruption at all to just ban bills of money', None, None, None, 0), ('that would mostly affect lower income people ?', None, None, None, 1), ('There are a ton of poor people in India', None, None, None, 0), ('who would be affected like this , money', None, None, None, 0), ('they worked hard for', None, None, None, 0), ("and suddenly they ca n't use it", None, None, None, 0), ('without having to take time at the bank', None, None, None, 0), ('to get new bills ,', None, None, None, 0), ("and of course since it was n't prepared for , people ca n't even do that .", None, None, None, 1), ('Such a ridiculous idea .', None, None, None, 1), ('I feel so badly for the people', None, None, None, 0), ('affected by this .', None, None, None, 1), ('Have you ever heard of anything so stupid ?', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('I am not sure', None, None, None, 0), ('who Pete Burns was ,', None, None, None, 0), ('but it seems like he was the singer for the band Dead or Alive recently passed away .', None, None, None, 1), ('He was famous for appearing in the reality show Celebrity Big Brother .', None, None, None, 1), ('He was also famous for new look', None, None, None, 0), ('after he received plastic surgery .', None, None, None, 1), ('Looks like he enjoyed his life and music meant a lot to him .', None, None, None, 1)]]
+Leaf:  S span I am not sure
+Leaf:  N Attribution who Pete Burns was ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it seems like he was the singer for the band Dead or Alive recently passed away .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint He was famous for appearing in the reality show Celebrity Big Brother .
+Leaf:  N Background He was also famous for new look
+Leaf:  S span after he received plastic surgery .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Looks like he enjoyed his life and music meant a lot to him .
+Inner:  Root None None Elaborate NS
+[('I am not sure', None, None, None, 0), ('who Pete Burns was ,', None, None, None, 0), ('but it seems like he was the singer for the band Dead or Alive recently passed away .', None, None, None, 1), ('He was famous for appearing in the reality show Celebrity Big Brother .', None, None, None, 1), ('He was also famous for new look', None, None, None, 0), ('after he received plastic surgery .', None, None, None, 1), ('Looks like he enjoyed his life and music meant a lot to him .', None, None, None, 1)]

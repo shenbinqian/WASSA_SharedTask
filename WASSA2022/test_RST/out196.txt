@@ -1,0 +1,21 @@
+=====================> [[('If I am being completely honest ,', None, None, None, 0), ("I do n't really care about BP dropping oil in the ocean .", None, None, None, 1), ('I am focused on pursuing my dreams right now .', None, None, None, 1), ("That 's all that matters to me .", None, None, None, 1), ("I guess it 's unfortunate , however ,", None, None, None, 0), ('accidents happen', None, None, None, 0), ("and that 's life . As long as they take responsibility for their actions", None, None, None, 0), ('and do what they can', None, None, None, 0), ('to clean up the spill ,', None, None, None, 0), ("then that 's what matters .", None, None, None, 1)]]
+Leaf:  S span If I am being completely honest ,
+Leaf:  N Condition I do n't really care about BP dropping oil in the ocean .
+Inner:  N Evaluation None Condition SN
+Leaf:  S span I am focused on pursuing my dreams right now .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span That 's all that matters to me .
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span I guess it 's unfortunate , however ,
+Leaf:  N Evaluation accidents happen
+Leaf:  N Joint and that 's life . As long as they take responsibility for their actions
+Leaf:  N Enablement and do what they can
+Leaf:  S span to clean up the spill ,
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Leaf:  N Condition then that 's what matters .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Evaluation NS
+Inner:  N Contrast None Evaluation SN
+Inner:  Root None None Contrast NN
+[('If I am being completely honest ,', None, None, None, 0), ("I do n't really care about BP dropping oil in the ocean .", None, None, None, 1), ('I am focused on pursuing my dreams right now .', None, None, None, 1), ("That 's all that matters to me .", None, None, None, 1), ("I guess it 's unfortunate , however ,", None, None, None, 0), ('accidents happen', None, None, None, 0), ("and that 's life . As long as they take responsibility for their actions", None, None, None, 0), ('and do what they can', None, None, None, 0), ('to clean up the spill ,', None, None, None, 0), ("then that 's what matters .", None, None, None, 1)]

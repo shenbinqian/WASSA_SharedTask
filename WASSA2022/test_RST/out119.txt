@@ -1,0 +1,39 @@
+=====================> [[("I 'm so tired", None, None, None, 0), ('of seeing people forget', None, None, None, 0), ('what tolerance and acceptance is supposed to be about .', None, None, None, 1), ('People', None, None, None, 0), ("who do n't like something", None, None, None, 0), ('suddenly feel as if they have a right', None, None, None, 0), ('to react violently to what they dislike .', None, None, None, 1), ('What happened to the golden rule', None, None, None, 0), ('and letting people live the way', None, None, None, 0), ('the want to', None, None, None, 0), ('as long', None, None, None, 0), ("as it is n't hurting you ? Instead", None, None, None, 0), (', we attack what we dislike', None, None, None, 0), ('and seek to hurt those', None, None, None, 0), ('that have a different opinion from us .', None, None, None, 1), ('We have to remember we all have to tolerate others', None, None, None, 0), ('and accept them', None, None, None, 0), ('as they are', None, None, None, 0), ('if we too want the same in return .', None, None, None, 1)]]
+Leaf:  N Explanation I 'm so tired
+Leaf:  S span of seeing people forget
+Leaf:  N Attribution what tolerance and acceptance is supposed to be about .
+Inner:  S span None Attribution SN
+Inner:  N Summary None Explanation NS
+Leaf:  N Elaborate People
+Leaf:  S span who do n't like something
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate suddenly feel as if they have a right
+Leaf:  S span to react violently to what they dislike .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Joint What happened to the golden rule
+Leaf:  N Elaborate and letting people live the way
+Leaf:  S span the want to
+Inner:  N Condition None Elaborate NS
+Leaf:  S span as long
+Inner:  N Joint None Condition NS
+Inner:  N Condition None Joint NN
+Leaf:  S span as it is n't hurting you ? Instead
+Inner:  S span None Condition NS
+Leaf:  N Joint , we attack what we dislike
+Leaf:  N Elaborate and seek to hurt those
+Leaf:  S span that have a different opinion from us .
+Inner:  N Joint None Elaborate NS
+Inner:  N Comparison None Joint NN
+Inner:  S span None Comparison SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint We have to remember we all have to tolerate others
+Leaf:  N Elaborate and accept them
+Leaf:  S span as they are
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if we too want the same in return .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("I 'm so tired", None, None, None, 0), ('of seeing people forget', None, None, None, 0), ('what tolerance and acceptance is supposed to be about .', None, None, None, 1), ('People', None, None, None, 0), ("who do n't like something", None, None, None, 0), ('suddenly feel as if they have a right', None, None, None, 0), ('to react violently to what they dislike .', None, None, None, 1), ('What happened to the golden rule', None, None, None, 0), ('and letting people live the way', None, None, None, 0), ('the want to', None, None, None, 0), ('as long', None, None, None, 0), ("as it is n't hurting you ? Instead", None, None, None, 0), (', we attack what we dislike', None, None, None, 0), ('and seek to hurt those', None, None, None, 0), ('that have a different opinion from us .', None, None, None, 1), ('We have to remember we all have to tolerate others', None, None, None, 0), ('and accept them', None, None, None, 0), ('as they are', None, None, None, 0), ('if we too want the same in return .', None, None, None, 1)]

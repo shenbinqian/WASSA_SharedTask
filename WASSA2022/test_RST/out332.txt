@@ -1,0 +1,17 @@
+=====================> [[('I feel', None, None, None, 0), ('like this guy needs to be punished !', None, None, None, 1), ('Look at what he did ,', None, None, None, 0), ('his actions directly caused this animal to have to be put down ,', None, None, None, 0), ('after suffering in pain all that time . How awful is that ? Also , this guy seemed to have no real motive .', None, None, None, 1), ('It seemed like he just did it for shits and giggles .', None, None, None, 1), ("That 's even more messed up .", None, None, None, 1), ('He needs to seriously be punished .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like this guy needs to be punished !
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Look at what he did ,
+Leaf:  N Temporal his actions directly caused this animal to have to be put down ,
+Leaf:  S span after suffering in pain all that time . How awful is that ? Also , this guy seemed to have no real motive .
+Inner:  N Summary None Temporal NS
+Leaf:  S span It seemed like he just did it for shits and giggles .
+Inner:  N Evaluation None Summary NS
+Leaf:  S span That 's even more messed up .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span He needs to seriously be punished .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I feel', None, None, None, 0), ('like this guy needs to be punished !', None, None, None, 1), ('Look at what he did ,', None, None, None, 0), ('his actions directly caused this animal to have to be put down ,', None, None, None, 0), ('after suffering in pain all that time . How awful is that ? Also , this guy seemed to have no real motive .', None, None, None, 1), ('It seemed like he just did it for shits and giggles .', None, None, None, 1), ("That 's even more messed up .", None, None, None, 1), ('He needs to seriously be punished .', None, None, None, 1)]

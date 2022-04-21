@@ -1,0 +1,43 @@
+=====================> [[("I do n't understand", None, None, None, 0), ('why people think', None, None, None, 0), ('this is okay .', None, None, None, 1), ('Yes , I understand', None, None, None, 0), ('there are rebels', None, None, None, 0), ('and those rebels may do something to America or other countries ,', None, None, None, 0), ('but there has to be a better way . The civilians are starving !', None, None, None, 1), ("It does n't make any sense ,", None, None, None, 0), ('the article said', None, None, None, 0), ('they gave civilians and rebels a chance the leave ,', None, None, None, 0), ("so what 's the point ? The rebels can say", None, None, None, 0), ("they have n't left ,", None, None, None, 0), ('and then do leave', None, None, None, 0), ("and now it 's just civilians .", None, None, None, 1), ('I know ,', None, None, None, 0), ("I do n't know war ,", None, None, None, 0), ("and I 'm not educated on it enough ,", None, None, None, 0), ("but I just ca n't get it out of my head", None, None, None, 0), ('how any military power is willing to kill ten times more innocent people', None, None, None, 0), ('to get a few', None, None, None, 0), ("who are n't .", None, None, None, 1)]]
+Leaf:  S span I do n't understand
+Leaf:  S span why people think
+Leaf:  N Attribution this is okay .
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Yes , I understand
+Leaf:  N Elaborate there are rebels
+Leaf:  S span and those rebels may do something to America or other countries ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but there has to be a better way . The civilians are starving !
+Inner:  N Attribution None Contrast SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation It does n't make any sense ,
+Leaf:  S span the article said
+Leaf:  N Attribution they gave civilians and rebels a chance the leave ,
+Inner:  N Cause None Attribution SN
+Leaf:  S span so what 's the point ? The rebels can say
+Leaf:  N Temporal they have n't left ,
+Leaf:  N Temporal and then do leave
+Inner:  N Attribution None Temporal NN
+Inner:  N Temporal None Attribution SN
+Leaf:  N Temporal and now it 's just civilians .
+Inner:  N Cause None Temporal NN
+Inner:  S span None Cause NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate I know ,
+Leaf:  N Joint I do n't know war ,
+Leaf:  N Joint and I 'm not educated on it enough ,
+Inner:  S span None Joint NN
+Leaf:  N Elaborate but I just ca n't get it out of my head
+Leaf:  N Enablement how any military power is willing to kill ten times more innocent people
+Leaf:  N Elaborate to get a few
+Leaf:  S span who are n't .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[("I do n't understand", None, None, None, 0), ('why people think', None, None, None, 0), ('this is okay .', None, None, None, 1), ('Yes , I understand', None, None, None, 0), ('there are rebels', None, None, None, 0), ('and those rebels may do something to America or other countries ,', None, None, None, 0), ('but there has to be a better way . The civilians are starving !', None, None, None, 1), ("It does n't make any sense ,", None, None, None, 0), ('the article said', None, None, None, 0), ('they gave civilians and rebels a chance the leave ,', None, None, None, 0), ("so what 's the point ? The rebels can say", None, None, None, 0), ("they have n't left ,", None, None, None, 0), ('and then do leave', None, None, None, 0), ("and now it 's just civilians .", None, None, None, 1), ('I know ,', None, None, None, 0), ("I do n't know war ,", None, None, None, 0), ("and I 'm not educated on it enough ,", None, None, None, 0), ("but I just ca n't get it out of my head", None, None, None, 0), ('how any military power is willing to kill ten times more innocent people', None, None, None, 0), ('to get a few', None, None, None, 0), ("who are n't .", None, None, None, 1)]

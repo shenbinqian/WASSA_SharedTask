@@ -1,0 +1,21 @@
+=====================> [[('Hello , I read an article', None, None, None, 0), ('that was very upsetting to me .', None, None, None, 1), ('It was about how an armed officer shot and killed an unarmed man in Tulsa , Oklahoma .', None, None, None, 1), ('They had funeral services for him .', None, None, None, 1), ('He was a father to four children .', None, None, None, 1), ('I can not imagine the grief', None, None, None, 0), ('they are experiencing .', None, None, None, 1), ('I feel so sad for them', None, None, None, 0), ('and i wish', None, None, None, 0), ('we did not have to live in a world with prejudices .', None, None, None, 1)]]
+Leaf:  N Elaborate Hello , I read an article
+Leaf:  S span that was very upsetting to me .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It was about how an armed officer shot and killed an unarmed man in Tulsa , Oklahoma .
+Leaf:  S span They had funeral services for him .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He was a father to four children .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I can not imagine the grief
+Leaf:  S span they are experiencing .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I feel so sad for them
+Leaf:  S span and i wish
+Leaf:  N Attribution we did not have to live in a world with prejudices .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Hello , I read an article', None, None, None, 0), ('that was very upsetting to me .', None, None, None, 1), ('It was about how an armed officer shot and killed an unarmed man in Tulsa , Oklahoma .', None, None, None, 1), ('They had funeral services for him .', None, None, None, 1), ('He was a father to four children .', None, None, None, 1), ('I can not imagine the grief', None, None, None, 0), ('they are experiencing .', None, None, None, 1), ('I feel so sad for them', None, None, None, 0), ('and i wish', None, None, None, 0), ('we did not have to live in a world with prejudices .', None, None, None, 1)]

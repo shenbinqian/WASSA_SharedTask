@@ -1,0 +1,15 @@
+=====================> [[('Hey can you believe', None, None, None, 0), ('this flesh eating bacteria stuff is getting scary now', None, None, None, 0), ('this guy got it', None, None, None, 0), ('from falling off his bike', None, None, None, 0), ("it was n't even from swimming", None, None, None, 0), ('it seems like this flesh eating bacteria is becoming more and more prevalent in our society', None, None, None, 0), ('we have to be real careful with the overprescribing antibiotics', None, None, None, 0)]]
+Leaf:  S span Hey can you believe
+Leaf:  N Elaborate this flesh eating bacteria stuff is getting scary now
+Leaf:  N Same-Unit this guy got it
+Leaf:  N Temporal from falling off his bike
+Leaf:  N Temporal it was n't even from swimming
+Inner:  N Same-Unit None Temporal NN
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Leaf:  S span it seems like this flesh eating bacteria is becoming more and more prevalent in our society
+Inner:  S span None Attribution NS
+Leaf:  N Background we have to be real careful with the overprescribing antibiotics
+Inner:  Root None None Background SN
+[('Hey can you believe', None, None, None, 0), ('this flesh eating bacteria stuff is getting scary now', None, None, None, 0), ('this guy got it', None, None, None, 0), ('from falling off his bike', None, None, None, 0), ("it was n't even from swimming", None, None, None, 0), ('it seems like this flesh eating bacteria is becoming more and more prevalent in our society', None, None, None, 0), ('we have to be real careful with the overprescribing antibiotics', None, None, None, 0)]

@@ -1,0 +1,21 @@
+=====================> [[('I wanted to tell you something', None, None, None, 0), ('I read about contacts .', None, None, None, 1), ('There are many people out there', None, None, None, 0), ('getting infections from contacts .', None, None, None, 1), ('Some of the causes are sleeping or napping with them .', None, None, None, 1), ('Another cause is wearing them past the recommended time', None, None, None, 0), ('you should wear them .', None, None, None, 1), ('Another is soaking them in tap water .', None, None, None, 1), ('Be careful', None, None, None, 0), ('as some of the problems are very serious !', None, None, None, 1)]]
+Leaf:  N Elaborate I wanted to tell you something
+Leaf:  S span I read about contacts .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There are many people out there
+Leaf:  S span getting infections from contacts .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Some of the causes are sleeping or napping with them .
+Leaf:  N Elaborate Another cause is wearing them past the recommended time
+Leaf:  S span you should wear them .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Another is soaking them in tap water .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation Be careful
+Leaf:  S span as some of the problems are very serious !
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I wanted to tell you something', None, None, None, 0), ('I read about contacts .', None, None, None, 1), ('There are many people out there', None, None, None, 0), ('getting infections from contacts .', None, None, None, 1), ('Some of the causes are sleeping or napping with them .', None, None, None, 1), ('Another cause is wearing them past the recommended time', None, None, None, 0), ('you should wear them .', None, None, None, 1), ('Another is soaking them in tap water .', None, None, None, 1), ('Be careful', None, None, None, 0), ('as some of the problems are very serious !', None, None, None, 1)]

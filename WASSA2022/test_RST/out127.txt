@@ -1,0 +1,33 @@
+=====================> [[('Have you heard', None, None, None, 0), ('that garden ponds can cause a virus', None, None, None, 0), ('that can make people sick ?', None, None, None, 1), ('I just read this extremely concerning article about something', None, None, None, 0), ('called a rhonnavirus', None, None, None, 0), ('( spelling ? )', None, None, None, 0), ("that can happen in some people 's garden ponds .", None, None, None, 1), ('The CDC is warning homeowners', None, None, None, 0), ('to ensure', None, None, None, 0), ("they take precautions and care when installing a pond in their gardens and caring for them . After reading the article , I began to wonder how many circumstances like this are currently happening in peoples ' yards , with other viruses that have yet to be discovered ?", None, None, None, 1), ('I suspect', None, None, None, 0), ('that the only reason', None, None, None, 0), ('this was discovered', None, None, None, 0), ('is because someone just happened to be testing soil and water runoff in a particular neighborhood ,', None, None, None, 0), ('and they accidentally discovered this pathogen .', None, None, None, 1), ('What if they checked every yard , garden , and pond in every patch of American s', None, None, None, 0)]]
+Leaf:  S span Have you heard
+Leaf:  N Elaborate that garden ponds can cause a virus
+Leaf:  S span that can make people sick ?
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate I just read this extremely concerning article about something
+Leaf:  N Evaluation called a rhonnavirus
+Leaf:  S span ( spelling ? )
+Inner:  S span None Evaluation NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit that can happen in some people 's garden ponds .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Enablement The CDC is warning homeowners
+Leaf:  S span to ensure
+Leaf:  N Attribution they take precautions and care when installing a pond in their gardens and caring for them . After reading the article , I began to wonder how many circumstances like this are currently happening in peoples ' yards , with other viruses that have yet to be discovered ?
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Summary None Elaborate NS
+Inner:  N Evaluation None Summary SN
+Leaf:  S span I suspect
+Leaf:  N Cause that the only reason
+Leaf:  S span this was discovered
+Inner:  N Same-Unit None Cause NS
+Leaf:  S span is because someone just happened to be testing soil and water runoff in a particular neighborhood ,
+Leaf:  N Cause and they accidentally discovered this pathogen .
+Inner:  N Same-Unit None Cause SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Cause None Attribution SN
+Leaf:  S span What if they checked every yard , garden , and pond in every patch of American s
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('Have you heard', None, None, None, 0), ('that garden ponds can cause a virus', None, None, None, 0), ('that can make people sick ?', None, None, None, 1), ('I just read this extremely concerning article about something', None, None, None, 0), ('called a rhonnavirus', None, None, None, 0), ('( spelling ? )', None, None, None, 0), ("that can happen in some people 's garden ponds .", None, None, None, 1), ('The CDC is warning homeowners', None, None, None, 0), ('to ensure', None, None, None, 0), ("they take precautions and care when installing a pond in their gardens and caring for them . After reading the article , I began to wonder how many circumstances like this are currently happening in peoples ' yards , with other viruses that have yet to be discovered ?", None, None, None, 1), ('I suspect', None, None, None, 0), ('that the only reason', None, None, None, 0), ('this was discovered', None, None, None, 0), ('is because someone just happened to be testing soil and water runoff in a particular neighborhood ,', None, None, None, 0), ('and they accidentally discovered this pathogen .', None, None, None, 1), ('What if they checked every yard , garden , and pond in every patch of American s', None, None, None, 0)]

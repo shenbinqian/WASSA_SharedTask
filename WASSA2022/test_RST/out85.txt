@@ -1,0 +1,27 @@
+=====================> [[('I believe', None, None, None, 0), ("that it 's a shame for anybody to have to endure a beating", None, None, None, 0), ('or go through a robbery .', None, None, None, 1), ('I may disagree with her support of Hillary Clinton ,', None, None, None, 0), ("but that 's besides the point .", None, None, None, 1), ('People need to stop targeting celebrities or anybody for that matter .', None, None, None, 1), ('These people have families and lives to live .', None, None, None, 1), ("I ca n't think of any type of law", None, None, None, 0), ('that can be passed', None, None, None, 0), ('to stop this from happening ,', None, None, None, 0), ('but we should expect more from people in our society .', None, None, None, 1), ('We need to make an example of the perpetrator', None, None, None, 0), ("so this does n't happen again .", None, None, None, 1)]]
+Leaf:  S span I believe
+Leaf:  N Joint that it 's a shame for anybody to have to endure a beating
+Leaf:  N Joint or go through a robbery .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I may disagree with her support of Hillary Clinton ,
+Leaf:  N Contrast but that 's besides the point .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation People need to stop targeting celebrities or anybody for that matter .
+Leaf:  S span These people have families and lives to live .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I ca n't think of any type of law
+Leaf:  N Enablement that can be passed
+Leaf:  S span to stop this from happening ,
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but we should expect more from people in our society .
+Leaf:  N Enablement We need to make an example of the perpetrator
+Leaf:  S span so this does n't happen again .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('I believe', None, None, None, 0), ("that it 's a shame for anybody to have to endure a beating", None, None, None, 0), ('or go through a robbery .', None, None, None, 1), ('I may disagree with her support of Hillary Clinton ,', None, None, None, 0), ("but that 's besides the point .", None, None, None, 1), ('People need to stop targeting celebrities or anybody for that matter .', None, None, None, 1), ('These people have families and lives to live .', None, None, None, 1), ("I ca n't think of any type of law", None, None, None, 0), ('that can be passed', None, None, None, 0), ('to stop this from happening ,', None, None, None, 0), ('but we should expect more from people in our society .', None, None, None, 1), ('We need to make an example of the perpetrator', None, None, None, 0), ("so this does n't happen again .", None, None, None, 1)]

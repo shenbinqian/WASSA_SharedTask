@@ -1,0 +1,31 @@
+=====================> [[('Did you know', None, None, None, 0), ('that empathy has dipped very low in people ?', None, None, None, 1), ('This is concerning', None, None, None, 0), ('and explains our treatment of refugees .', None, None, None, 1), ('Have you heard of the MSF exhibit ?', None, None, None, 1), ('When you visit they simulate a refugee situation with you', None, None, None, 0), ('playing the role of the refugee .', None, None, None, 1), ('Many of them are personal experiences .', None, None, None, 1), ('You got through what they did', None, None, None, 0), ('and it opens your eyes to their plight .', None, None, None, 1), ('I think', None, None, None, 0), ('this is a great idea', None, None, None, 0), ('because it will make people see', None, None, None, 0), ('how much these refugees need help .', None, None, None, 1), ('I hope many people go .', None, None, None, 1)]]
+Leaf:  S span Did you know
+Leaf:  N Attribution that empathy has dipped very low in people ?
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint This is concerning
+Leaf:  N Joint and explains our treatment of refugees .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Have you heard of the MSF exhibit ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate When you visit they simulate a refugee situation with you
+Leaf:  S span playing the role of the refugee .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Many of them are personal experiences .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span You got through what they did
+Leaf:  N Cause and it opens your eyes to their plight .
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Explanation this is a great idea
+Leaf:  S span because it will make people see
+Leaf:  N Attribution how much these refugees need help .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Explanation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope many people go .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Did you know', None, None, None, 0), ('that empathy has dipped very low in people ?', None, None, None, 1), ('This is concerning', None, None, None, 0), ('and explains our treatment of refugees .', None, None, None, 1), ('Have you heard of the MSF exhibit ?', None, None, None, 1), ('When you visit they simulate a refugee situation with you', None, None, None, 0), ('playing the role of the refugee .', None, None, None, 1), ('Many of them are personal experiences .', None, None, None, 1), ('You got through what they did', None, None, None, 0), ('and it opens your eyes to their plight .', None, None, None, 1), ('I think', None, None, None, 0), ('this is a great idea', None, None, None, 0), ('because it will make people see', None, None, None, 0), ('how much these refugees need help .', None, None, None, 1), ('I hope many people go .', None, None, None, 1)]

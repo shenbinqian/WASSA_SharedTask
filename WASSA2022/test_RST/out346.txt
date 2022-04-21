@@ -1,0 +1,21 @@
+=====================> [[('This turkey breaks my heart .', None, None, None, 1), ('These poor people keep getting pummeled with horrible earthquakes .', None, None, None, 1), ('The one in 2011', None, None, None, 0), ('that killed close to 200 people and now this one .', None, None, None, 1), ('I imagine living in such devastation', None, None, None, 0), ('and it ’s hard to imagine .', None, None, None, 1), ('One minute you ’re living normal life', None, None, None, 0), ('and the next everything is rubble .', None, None, None, 1), ('It ’s insane that things like this happen .', None, None, None, 1), ('Those poor people .', None, None, None, 1)]]
+Leaf:  N Topic-Change This turkey breaks my heart .
+Leaf:  N Elaborate These poor people keep getting pummeled with horrible earthquakes .
+Leaf:  N Elaborate The one in 2011
+Leaf:  S span that killed close to 200 people and now this one .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast I imagine living in such devastation
+Leaf:  N Contrast and it ’s hard to imagine .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Contrast One minute you ’re living normal life
+Leaf:  N Contrast and the next everything is rubble .
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It ’s insane that things like this happen .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Those poor people .
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[('This turkey breaks my heart .', None, None, None, 1), ('These poor people keep getting pummeled with horrible earthquakes .', None, None, None, 1), ('The one in 2011', None, None, None, 0), ('that killed close to 200 people and now this one .', None, None, None, 1), ('I imagine living in such devastation', None, None, None, 0), ('and it ’s hard to imagine .', None, None, None, 1), ('One minute you ’re living normal life', None, None, None, 0), ('and the next everything is rubble .', None, None, None, 1), ('It ’s insane that things like this happen .', None, None, None, 1), ('Those poor people .', None, None, None, 1)]

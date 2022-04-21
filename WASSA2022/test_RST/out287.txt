@@ -1,0 +1,15 @@
+=====================> [[('What did I just read today ?', None, None, None, 1), ('A teacher punished for exercising his free speech right .', None, None, None, 1), ('What is our country turning into ?', None, None, None, 1), ('How can you suspend a teacher for comparing two political figures ?', None, None, None, 1), ('This is highly unacceptable', None, None, None, 0), ('and it is an attack against free speech .', None, None, None, 1), ('Civil rights groups should be up against this suspension of the teacher .', None, None, None, 1)]]
+Leaf:  N Joint What did I just read today ?
+Leaf:  N Summary A teacher punished for exercising his free speech right .
+Leaf:  N Summary What is our country turning into ?
+Leaf:  S span How can you suspend a teacher for comparing two political figures ?
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint This is highly unacceptable
+Leaf:  N Joint and it is an attack against free speech .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Civil rights groups should be up against this suspension of the teacher .
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  Root None None Joint NN
+[('What did I just read today ?', None, None, None, 1), ('A teacher punished for exercising his free speech right .', None, None, None, 1), ('What is our country turning into ?', None, None, None, 1), ('How can you suspend a teacher for comparing two political figures ?', None, None, None, 1), ('This is highly unacceptable', None, None, None, 0), ('and it is an attack against free speech .', None, None, None, 1), ('Civil rights groups should be up against this suspension of the teacher .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('This is so tragic', None, None, None, 0), ("but also really shows what 's going on around the world", None, None, None, 0), ('and why I think our government and NATO are trying to do the right thing', None, None, None, 0), ('by ousting ISIS and the other terrorist factions .', None, None, None, 1), ('I think', None, None, None, 0), ('if people just realized', None, None, None, 0), ('that a lot of terrorism happens abroad', None, None, None, 0), ('and not just here in the US', None, None, None, 0), ("maybe we 'll get some more sympathy for others", None, None, None, 0), ('and kind of understand', None, None, None, 0), ("that it 's a global problem , and a sad one .", None, None, None, 1)]]
+Leaf:  N Joint This is so tragic
+Leaf:  N Joint but also really shows what 's going on around the world
+Leaf:  N Manner-Means and why I think our government and NATO are trying to do the right thing
+Leaf:  S span by ousting ISIS and the other terrorist factions .
+Inner:  N Joint None Manner-Means NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  S span if people just realized
+Leaf:  N Joint that a lot of terrorism happens abroad
+Leaf:  N Joint and not just here in the US
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Joint maybe we 'll get some more sympathy for others
+Leaf:  S span and kind of understand
+Leaf:  N Attribution that it 's a global problem , and a sad one .
+Inner:  N Joint None Attribution SN
+Inner:  N Condition None Joint NN
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('This is so tragic', None, None, None, 0), ("but also really shows what 's going on around the world", None, None, None, 0), ('and why I think our government and NATO are trying to do the right thing', None, None, None, 0), ('by ousting ISIS and the other terrorist factions .', None, None, None, 1), ('I think', None, None, None, 0), ('if people just realized', None, None, None, 0), ('that a lot of terrorism happens abroad', None, None, None, 0), ('and not just here in the US', None, None, None, 0), ("maybe we 'll get some more sympathy for others", None, None, None, 0), ('and kind of understand', None, None, None, 0), ("that it 's a global problem , and a sad one .", None, None, None, 1)]

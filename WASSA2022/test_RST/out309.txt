@@ -1,0 +1,39 @@
+=====================> [[('The BLM movement is nothing more than a home grown hate group', None, None, None, 0), ('just like ANTIFA is .', None, None, None, 1), ('People', None, None, None, 0), ('that block traffic and highways', None, None, None, 0), ('SHOULD be arrested', None, None, None, 0), ('because they are blocking traffic and preventing emergency vehicles from getting to people', None, None, None, 0), ('that desperatley need help', None, None, None, 0), ('that have had nothing to do with any of the crap going on with that group . 99 % of the time , officers are dealing with people', None, None, None, 0), ('that are evading arrest', None, None, None, 0), ('and have to use force because of ... evading arrest .', None, None, None, 1), ('Most of the time', None, None, None, 0), ('the people', None, None, None, 0), ('they are dealing with', None, None, None, 0), ('are straight up thugs', None, None, None, 0), ('that deserve what they got .', None, None, None, 1), ('If they are honestly doing things by law', None, None, None, 0), ('then things should be seriously fine .', None, None, None, 1), ('Most of the time , cops just dont go and beat a black person for no reason other than their skin color .', None, None, None, 1), ("It 's 2019 . not 1910 .", None, None, None, 1)]]
+Leaf:  N Comparison The BLM movement is nothing more than a home grown hate group
+Leaf:  S span just like ANTIFA is .
+Inner:  N Summary None Comparison NS
+Leaf:  N Elaborate People
+Leaf:  S span that block traffic and highways
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit SHOULD be arrested
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Elaborate because they are blocking traffic and preventing emergency vehicles from getting to people
+Leaf:  S span that desperatley need help
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate that have had nothing to do with any of the crap going on with that group . 99 % of the time , officers are dealing with people
+Leaf:  N Joint that are evading arrest
+Leaf:  N Joint and have to use force because of ... evading arrest .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Leaf:  N Elaborate Most of the time
+Leaf:  N Elaborate the people
+Leaf:  S span they are dealing with
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate are straight up thugs
+Leaf:  S span that deserve what they got .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span If they are honestly doing things by law
+Leaf:  N Condition then things should be seriously fine .
+Inner:  N Joint None Condition SN
+Leaf:  N Joint Most of the time , cops just dont go and beat a black person for no reason other than their skin color .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span It 's 2019 . not 1910 .
+Inner:  Root None None Elaborate NS
+[('The BLM movement is nothing more than a home grown hate group', None, None, None, 0), ('just like ANTIFA is .', None, None, None, 1), ('People', None, None, None, 0), ('that block traffic and highways', None, None, None, 0), ('SHOULD be arrested', None, None, None, 0), ('because they are blocking traffic and preventing emergency vehicles from getting to people', None, None, None, 0), ('that desperatley need help', None, None, None, 0), ('that have had nothing to do with any of the crap going on with that group . 99 % of the time , officers are dealing with people', None, None, None, 0), ('that are evading arrest', None, None, None, 0), ('and have to use force because of ... evading arrest .', None, None, None, 1), ('Most of the time', None, None, None, 0), ('the people', None, None, None, 0), ('they are dealing with', None, None, None, 0), ('are straight up thugs', None, None, None, 0), ('that deserve what they got .', None, None, None, 1), ('If they are honestly doing things by law', None, None, None, 0), ('then things should be seriously fine .', None, None, None, 1), ('Most of the time , cops just dont go and beat a black person for no reason other than their skin color .', None, None, None, 1), ("It 's 2019 . not 1910 .", None, None, None, 1)]

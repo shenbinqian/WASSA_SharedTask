@@ -1,0 +1,25 @@
+=====================> [[('Reading about things like this make me incredibly sad .', None, None, None, 1), ("It 's horrible that innocent people , those", None, None, None, 0), ('just living in the countries', None, None, None, 0), ('we or another', None, None, None, 0), ('choose to invade , get caught in the crossfire ,', None, None, None, 0), ('and have their lives ruined ,', None, None, None, 0), ('or ended ,', None, None, None, 0), ('by war .', None, None, None, 1), ('I wish', None, None, None, 0), ("that we did n't feel", None, None, None, 0), ('as though we had to go to war all the time ,', None, None, None, 0), ('and continue this cycle .', None, None, None, 1)]]
+Leaf:  N Explanation Reading about things like this make me incredibly sad .
+Leaf:  N Elaborate It 's horrible that innocent people , those
+Leaf:  N Elaborate just living in the countries
+Leaf:  N Elaborate we or another
+Leaf:  S span choose to invade , get caught in the crossfire ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Summary and have their lives ruined ,
+Leaf:  S span or ended ,
+Inner:  N Same-Unit None Summary NS
+Leaf:  N Same-Unit by war .
+Inner:  N Temporal None Same-Unit NN
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span I wish
+Leaf:  N Elaborate that we did n't feel
+Leaf:  N Joint as though we had to go to war all the time ,
+Leaf:  N Joint and continue this cycle .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Reading about things like this make me incredibly sad .', None, None, None, 1), ("It 's horrible that innocent people , those", None, None, None, 0), ('just living in the countries', None, None, None, 0), ('we or another', None, None, None, 0), ('choose to invade , get caught in the crossfire ,', None, None, None, 0), ('and have their lives ruined ,', None, None, None, 0), ('or ended ,', None, None, None, 0), ('by war .', None, None, None, 1), ('I wish', None, None, None, 0), ("that we did n't feel", None, None, None, 0), ('as though we had to go to war all the time ,', None, None, None, 0), ('and continue this cycle .', None, None, None, 1)]

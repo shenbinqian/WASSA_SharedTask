@@ -1,0 +1,21 @@
+=====================> [[('The tie between sleep and mental health has long been clear to me .', None, None, None, 1), ('I know on a personal level , I need a minimum of 8 hours of sleep every night', None, None, None, 0), ("or I soon start losing my mind . It 's not just that though , it 's the disturbances .", None, None, None, 1), ('Anyone who has dealt with nighttime disturbances knows', None, None, None, 0), ('you can spend 8 hours in bed ,', None, None, None, 0), ("but unless it 's quality sleep it 's not helpful . I feel terrible for those", None, None, None, 0), ('suffering from PTSD', None, None, None, 0), ("who ca n't sleep well", None, None, None, 0), ('- I hope', None, None, None, 0), ("there 's a solution for them .", None, None, None, 1)]]
+Leaf:  N Elaborate The tie between sleep and mental health has long been clear to me .
+Leaf:  N Temporal I know on a personal level , I need a minimum of 8 hours of sleep every night
+Leaf:  N Temporal or I soon start losing my mind . It 's not just that though , it 's the disturbances .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span Anyone who has dealt with nighttime disturbances knows
+Leaf:  N Attribution you can spend 8 hours in bed ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but unless it 's quality sleep it 's not helpful . I feel terrible for those
+Leaf:  N Elaborate suffering from PTSD
+Leaf:  S span who ca n't sleep well
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span - I hope
+Leaf:  N Attribution there 's a solution for them .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The tie between sleep and mental health has long been clear to me .', None, None, None, 1), ('I know on a personal level , I need a minimum of 8 hours of sleep every night', None, None, None, 0), ("or I soon start losing my mind . It 's not just that though , it 's the disturbances .", None, None, None, 1), ('Anyone who has dealt with nighttime disturbances knows', None, None, None, 0), ('you can spend 8 hours in bed ,', None, None, None, 0), ("but unless it 's quality sleep it 's not helpful . I feel terrible for those", None, None, None, 0), ('suffering from PTSD', None, None, None, 0), ("who ca n't sleep well", None, None, None, 0), ('- I hope', None, None, None, 0), ("there 's a solution for them .", None, None, None, 1)]

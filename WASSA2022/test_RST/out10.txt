@@ -1,0 +1,25 @@
+=====================> [[('It was so sad to read about the people and animals suffering', None, None, None, 0), ('because of weather .', None, None, None, 1), ('Weather change is hard on everybody .', None, None, None, 1), ('I feel sad for the animals and people', None, None, None, 0), ('because I can put myself in there shoe', None, None, None, 0), ('and feel', None, None, None, 0), ('what it must be like .', None, None, None, 1), ('I hope', None, None, None, 0), ('things like this do not happen again', None, None, None, 0), ('but it might and it is scary to think', None, None, None, 0), ('that something like this could happen', None, None, None, 0), ('where I live as well .', None, None, None, 1)]]
+Leaf:  N Cause It was so sad to read about the people and animals suffering
+Leaf:  S span because of weather .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Evaluation Weather change is hard on everybody .
+Leaf:  N Explanation I feel sad for the animals and people
+Leaf:  N Joint because I can put myself in there shoe
+Leaf:  N Enablement and feel
+Leaf:  S span what it must be like .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Attribution things like this do not happen again
+Inner:  S span None Attribution SN
+Leaf:  S span but it might and it is scary to think
+Leaf:  N Elaborate that something like this could happen
+Leaf:  S span where I live as well .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('It was so sad to read about the people and animals suffering', None, None, None, 0), ('because of weather .', None, None, None, 1), ('Weather change is hard on everybody .', None, None, None, 1), ('I feel sad for the animals and people', None, None, None, 0), ('because I can put myself in there shoe', None, None, None, 0), ('and feel', None, None, None, 0), ('what it must be like .', None, None, None, 1), ('I hope', None, None, None, 0), ('things like this do not happen again', None, None, None, 0), ('but it might and it is scary to think', None, None, None, 0), ('that something like this could happen', None, None, None, 0), ('where I live as well .', None, None, None, 1)]

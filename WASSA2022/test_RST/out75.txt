@@ -1,0 +1,29 @@
+=====================> [[('As a person', None, None, None, 0), ('who grew up around large birds', None, None, None, 0), ('and knows', None, None, None, 0), ('how temperamental they can be ,', None, None, None, 0), ('I was really curious where the story was going to go .', None, None, None, 1), ('It made me laugh', None, None, None, 0), ('that the officers were able to catch the runaway so easily', None, None, None, 0), ('without any humans or birds', None, None, None, 0), ('getting hurt', None, None, None, 0), ("when I 'm sure", None, None, None, 0), ('the thought of trying made them more than a little nervous . The world needs more nice stories like this', None, None, None, 0), ('and I hope', None, None, None, 0), ('the emu got a stern talking to', None, None, None, 0), ('when it got home .', None, None, None, 1)]]
+Leaf:  N Elaborate As a person
+Leaf:  N Joint who grew up around large birds
+Leaf:  S span and knows
+Leaf:  N Attribution how temperamental they can be ,
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I was really curious where the story was going to go .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It made me laugh
+Leaf:  N Background that the officers were able to catch the runaway so easily
+Leaf:  N Elaborate without any humans or birds
+Leaf:  S span getting hurt
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span when I 'm sure
+Leaf:  N Attribution the thought of trying made them more than a little nervous . The world needs more nice stories like this
+Inner:  S span None Attribution SN
+Inner:  N Joint None Contrast NS
+Leaf:  S span and I hope
+Leaf:  N Temporal the emu got a stern talking to
+Leaf:  S span when it got home .
+Inner:  N Attribution None Temporal NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('As a person', None, None, None, 0), ('who grew up around large birds', None, None, None, 0), ('and knows', None, None, None, 0), ('how temperamental they can be ,', None, None, None, 0), ('I was really curious where the story was going to go .', None, None, None, 1), ('It made me laugh', None, None, None, 0), ('that the officers were able to catch the runaway so easily', None, None, None, 0), ('without any humans or birds', None, None, None, 0), ('getting hurt', None, None, None, 0), ("when I 'm sure", None, None, None, 0), ('the thought of trying made them more than a little nervous . The world needs more nice stories like this', None, None, None, 0), ('and I hope', None, None, None, 0), ('the emu got a stern talking to', None, None, None, 0), ('when it got home .', None, None, None, 1)]

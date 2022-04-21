@@ -1,0 +1,19 @@
+=====================> [[('Another day , another deadly fight .', None, None, None, 1), ('Nothing ever seems to change .', None, None, None, 1), ('Sometimes I wonder', None, None, None, 0), ('if humanity will survive in the long run .', None, None, None, 1), ('Sometimes I wonder', None, None, None, 0), ('if we even deserve to survive in the long run .', None, None, None, 1), ('Look at what we do to this planet and to each other .', None, None, None, 1), ('For centuries animals existed in relative peace .', None, None, None, 1), ('At least they would consume their victims for nutrition .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Another day , another deadly fight .
+Leaf:  N Joint Nothing ever seems to change .
+Leaf:  S span Sometimes I wonder
+Leaf:  N Attribution if humanity will survive in the long run .
+Inner:  N Joint None Attribution SN
+Leaf:  S span Sometimes I wonder
+Leaf:  N Attribution if we even deserve to survive in the long run .
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Background Look at what we do to this planet and to each other .
+Leaf:  N Elaborate For centuries animals existed in relative peace .
+Leaf:  S span At least they would consume their victims for nutrition .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Joint None Explanation NS
+Inner:  N Textual-Organization None Joint NN
+Inner:  Root None None Textual-Organization NN
+[('Another day , another deadly fight .', None, None, None, 1), ('Nothing ever seems to change .', None, None, None, 1), ('Sometimes I wonder', None, None, None, 0), ('if humanity will survive in the long run .', None, None, None, 1), ('Sometimes I wonder', None, None, None, 0), ('if we even deserve to survive in the long run .', None, None, None, 1), ('Look at what we do to this planet and to each other .', None, None, None, 1), ('For centuries animals existed in relative peace .', None, None, None, 1), ('At least they would consume their victims for nutrition .', None, None, None, 1)]

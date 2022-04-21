@@ -1,0 +1,17 @@
+=====================> [[('It is sad', None, None, None, 0), ('what a fire outbreak can do .', None, None, None, 1), ('I feel devastated', None, None, None, 0), ('after reading the news of the recent fire outbreak at an apartment complex in Arizona .', None, None, None, 1), ('Up to 11 people were injured with one person in critical condition .', None, None, None, 1), ('Thanks to the fire service', None, None, None, 0), ('for putting out the fire on time .', None, None, None, 1), ('Proper care should be taken always to put a stop to a future occurrence .', None, None, None, 1)]]
+Leaf:  S span It is sad
+Leaf:  N Attribution what a fire outbreak can do .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Background I feel devastated
+Leaf:  N Elaborate after reading the news of the recent fire outbreak at an apartment complex in Arizona .
+Leaf:  S span Up to 11 people were injured with one person in critical condition .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Thanks to the fire service
+Leaf:  S span for putting out the fire on time .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Proper care should be taken always to put a stop to a future occurrence .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is sad', None, None, None, 0), ('what a fire outbreak can do .', None, None, None, 1), ('I feel devastated', None, None, None, 0), ('after reading the news of the recent fire outbreak at an apartment complex in Arizona .', None, None, None, 1), ('Up to 11 people were injured with one person in critical condition .', None, None, None, 1), ('Thanks to the fire service', None, None, None, 0), ('for putting out the fire on time .', None, None, None, 1), ('Proper care should be taken always to put a stop to a future occurrence .', None, None, None, 1)]

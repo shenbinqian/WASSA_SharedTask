@@ -1,0 +1,15 @@
+=====================> [[('I have no reaction to that article ,', None, None, None, 0), ("and there 's no chance", None, None, None, 0), ('I would write a message to friends about it .', None, None, None, 1), ("I do n't know much about either Pakistan or Turkey or their relationship or the leaders involved ,", None, None, None, 0), ('and I have no opinion on it .', None, None, None, 1), ("I 'm writing now just for the character minimum .", None, None, None, 1), ('Characters characters characters characters characters characters characters characters .', None, None, None, 1)]]
+Leaf:  N Joint I have no reaction to that article ,
+Leaf:  N Elaborate and there 's no chance
+Leaf:  S span I would write a message to friends about it .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint I do n't know much about either Pakistan or Turkey or their relationship or the leaders involved ,
+Leaf:  N Joint and I have no opinion on it .
+Inner:  N Joint None Joint NN
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Elaborate I 'm writing now just for the character minimum .
+Leaf:  S span Characters characters characters characters characters characters characters characters .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('I have no reaction to that article ,', None, None, None, 0), ("and there 's no chance", None, None, None, 0), ('I would write a message to friends about it .', None, None, None, 1), ("I do n't know much about either Pakistan or Turkey or their relationship or the leaders involved ,", None, None, None, 0), ('and I have no opinion on it .', None, None, None, 1), ("I 'm writing now just for the character minimum .", None, None, None, 1), ('Characters characters characters characters characters characters characters characters .', None, None, None, 1)]

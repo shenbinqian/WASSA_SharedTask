@@ -1,0 +1,25 @@
+=====================> [[('seems like paris is getting worse and worse every year .', None, None, None, 1), ('ever since they brought in all those refugees', None, None, None, 0), ('i believe', None, None, None, 0), ('the crime rates has risen', None, None, None, 0), ('and risen .', None, None, None, 1), ('things are getting out of control .', None, None, None, 1), ('where are the police ?', None, None, None, 1), ('why is nothing being done', None, None, None, 0), ('to stop the rise in crime ?', None, None, None, 1), ('even celebs are getting robbed or attacked in public .', None, None, None, 1), ('this is getting insane .', None, None, None, 1), ('it keeps getting worse also .', None, None, None, 1)]]
+Leaf:  N Explanation seems like paris is getting worse and worse every year .
+Leaf:  S span ever since they brought in all those refugees
+Leaf:  S span i believe
+Leaf:  N Same-Unit the crime rates has risen
+Leaf:  N Same-Unit and risen .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Temporal None Attribution SN
+Inner:  N Summary None Temporal SN
+Leaf:  S span things are getting out of control .
+Inner:  N Summary None Summary NS
+Leaf:  N Joint where are the police ?
+Leaf:  N Elaborate why is nothing being done
+Leaf:  S span to stop the rise in crime ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint even celebs are getting robbed or attacked in public .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Comparison this is getting insane .
+Leaf:  N Comparison it keeps getting worse also .
+Inner:  S span None Comparison NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('seems like paris is getting worse and worse every year .', None, None, None, 1), ('ever since they brought in all those refugees', None, None, None, 0), ('i believe', None, None, None, 0), ('the crime rates has risen', None, None, None, 0), ('and risen .', None, None, None, 1), ('things are getting out of control .', None, None, None, 1), ('where are the police ?', None, None, None, 1), ('why is nothing being done', None, None, None, 0), ('to stop the rise in crime ?', None, None, None, 1), ('even celebs are getting robbed or attacked in public .', None, None, None, 1), ('this is getting insane .', None, None, None, 1), ('it keeps getting worse also .', None, None, None, 1)]

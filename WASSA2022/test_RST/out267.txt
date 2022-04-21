@@ -1,0 +1,17 @@
+=====================> [[('I feel sad', None, None, None, 0), ('and depressed', None, None, None, 0), ('reading the article ,', None, None, None, 0), ('the people have lost their source of livelihood , adequate provisions', None, None, None, 0), ('and compensation needs to be put in place .', None, None, None, 1), ('The region should be given utmost priority', None, None, None, 0), ("so as to restore the town to it 's previous glory .", None, None, None, 1), ('I really feel for the people of the community and the fishermen', None, None, None, 0)]]
+Leaf:  N Joint I feel sad
+Leaf:  N Background and depressed
+Leaf:  S span reading the article ,
+Inner:  N Joint None Background NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint the people have lost their source of livelihood , adequate provisions
+Leaf:  N Joint and compensation needs to be put in place .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Enablement The region should be given utmost priority
+Leaf:  S span so as to restore the town to it 's previous glory .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I really feel for the people of the community and the fishermen
+Inner:  Root None None Elaborate NS
+[('I feel sad', None, None, None, 0), ('and depressed', None, None, None, 0), ('reading the article ,', None, None, None, 0), ('the people have lost their source of livelihood , adequate provisions', None, None, None, 0), ('and compensation needs to be put in place .', None, None, None, 1), ('The region should be given utmost priority', None, None, None, 0), ("so as to restore the town to it 's previous glory .", None, None, None, 1), ('I really feel for the people of the community and the fishermen', None, None, None, 0)]

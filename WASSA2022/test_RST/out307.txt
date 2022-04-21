@@ -1,0 +1,39 @@
+=====================> [[('Global warming is not happening right now', None, None, None, 0), ('and we are actually in the middle', None, None, None, 0), ('of entering an ice age', None, None, None, 0), ('if you look at all of the scientific research', None, None, None, 0), ('that is currently being done .', None, None, None, 1), ('The Atlantic and pacific oceans are actually cooler', None, None, None, 0), ('than they have been in a very long time', None, None, None, 0), ('even though the current SST values are high .', None, None, None, 1), ('We are also in an El Nino or a neutral el nino phase', None, None, None, 0), ('which means that the atlantic is much cooler than normal .', None, None, None, 1), ('Honest to good people need to read', None, None, None, 0), ('and learn about scientific things instead of worrying about plastic freaking straws', None, None, None, 0), ('and banning them .', None, None, None, 1), ('It is honestly disgusting to drink out of just regular cups especially in restaurants', None, None, None, 0), ("considering you do n't know exactly how clean said", None, None, None, 0), ('glass actually is', None, None, None, 0), ('and can get cold sores easily that way .', None, None, None, 1), ('Gross as heck and dumb this is not a thing', None, None, None, 0), ('and', None, None, None, 0)]]
+Leaf:  N Joint Global warming is not happening right now
+Leaf:  N Elaborate and we are actually in the middle
+Leaf:  S span of entering an ice age
+Inner:  N Attribution None Elaborate NS
+Leaf:  N Elaborate if you look at all of the scientific research
+Leaf:  S span that is currently being done .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Attribution NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Comparison The Atlantic and pacific oceans are actually cooler
+Leaf:  N Comparison than they have been in a very long time
+Inner:  N Contrast None Comparison NN
+Leaf:  S span even though the current SST values are high .
+Inner:  N Joint None Contrast NS
+Leaf:  N Evaluation We are also in an El Nino or a neutral el nino phase
+Leaf:  S span which means that the atlantic is much cooler than normal .
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint Honest to good people need to read
+Leaf:  N Joint and learn about scientific things instead of worrying about plastic freaking straws
+Leaf:  N Joint and banning them .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation It is honestly disgusting to drink out of just regular cups especially in restaurants
+Leaf:  N Elaborate considering you do n't know exactly how clean said
+Leaf:  S span glass actually is
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and can get cold sores easily that way .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Gross as heck and dumb this is not a thing
+Leaf:  N Joint and
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Global warming is not happening right now', None, None, None, 0), ('and we are actually in the middle', None, None, None, 0), ('of entering an ice age', None, None, None, 0), ('if you look at all of the scientific research', None, None, None, 0), ('that is currently being done .', None, None, None, 1), ('The Atlantic and pacific oceans are actually cooler', None, None, None, 0), ('than they have been in a very long time', None, None, None, 0), ('even though the current SST values are high .', None, None, None, 1), ('We are also in an El Nino or a neutral el nino phase', None, None, None, 0), ('which means that the atlantic is much cooler than normal .', None, None, None, 1), ('Honest to good people need to read', None, None, None, 0), ('and learn about scientific things instead of worrying about plastic freaking straws', None, None, None, 0), ('and banning them .', None, None, None, 1), ('It is honestly disgusting to drink out of just regular cups especially in restaurants', None, None, None, 0), ("considering you do n't know exactly how clean said", None, None, None, 0), ('glass actually is', None, None, None, 0), ('and can get cold sores easily that way .', None, None, None, 1), ('Gross as heck and dumb this is not a thing', None, None, None, 0), ('and', None, None, None, 0)]

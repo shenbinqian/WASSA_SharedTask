@@ -1,0 +1,23 @@
+=====================> [[('I really feel for the mom and family in this situation .', None, None, None, 1), ('I mean obviously this was an accident ,', None, None, None, 0), ('everyone leaves their windows open here and there ,', None, None, None, 0), ('and you would think', None, None, None, 0), ('that with a screen your baby would be safe .', None, None, None, 1), ("But I 'm sure", None, None, None, 0), ('this mom ,', None, None, None, 0), ('who already feel terrible ,', None, None, None, 0), ('will be getting backlash', None, None, None, 0), ('and parent warriors', None, None, None, 0), ('commenting on how bad of a mom she is .', None, None, None, 1)]]
+Leaf:  N Explanation I really feel for the mom and family in this situation .
+Leaf:  N Joint I mean obviously this was an accident ,
+Leaf:  N Joint everyone leaves their windows open here and there ,
+Leaf:  S span and you would think
+Leaf:  N Attribution that with a screen your baby would be safe .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Explanation NS
+Leaf:  S span But I 'm sure
+Leaf:  N Elaborate this mom ,
+Leaf:  S span who already feel terrible ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint will be getting backlash
+Leaf:  N Elaborate and parent warriors
+Leaf:  S span commenting on how bad of a mom she is .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Contrast None Attribution SN
+Inner:  Root None None Contrast NN
+[('I really feel for the mom and family in this situation .', None, None, None, 1), ('I mean obviously this was an accident ,', None, None, None, 0), ('everyone leaves their windows open here and there ,', None, None, None, 0), ('and you would think', None, None, None, 0), ('that with a screen your baby would be safe .', None, None, None, 1), ("But I 'm sure", None, None, None, 0), ('this mom ,', None, None, None, 0), ('who already feel terrible ,', None, None, None, 0), ('will be getting backlash', None, None, None, 0), ('and parent warriors', None, None, None, 0), ('commenting on how bad of a mom she is .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Friends , formerly college students in Australia , met for coffee', None, None, None, 0), ('and one of them dropped dead from cyanide poisoning .', None, None, None, 1), ('One of them is on trial ,', None, None, None, 0), ('accused of poisoning their friend .', None, None, None, 1), ('The media has jumped in', None, None, None, 0), ("and it 's a circus .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('who poisoned the victim ,', None, None, None, 0), ('but someone did .', None, None, None, 1), ('How evil and awful that is .', None, None, None, 1), ('God only knows .', None, None, None, 1)]]
+Leaf:  N Temporal Friends , formerly college students in Australia , met for coffee
+Leaf:  N Temporal and one of them dropped dead from cyanide poisoning .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate One of them is on trial ,
+Leaf:  S span accused of poisoning their friend .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause The media has jumped in
+Leaf:  S span and it 's a circus .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I do n't know
+Leaf:  N Attribution who poisoned the victim ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but someone did .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span How evil and awful that is .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span God only knows .
+Inner:  Root None None Evaluation NS
+[('Friends , formerly college students in Australia , met for coffee', None, None, None, 0), ('and one of them dropped dead from cyanide poisoning .', None, None, None, 1), ('One of them is on trial ,', None, None, None, 0), ('accused of poisoning their friend .', None, None, None, 1), ('The media has jumped in', None, None, None, 0), ("and it 's a circus .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('who poisoned the victim ,', None, None, None, 0), ('but someone did .', None, None, None, 1), ('How evil and awful that is .', None, None, None, 1), ('God only knows .', None, None, None, 1)]

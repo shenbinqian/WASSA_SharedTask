@@ -1,0 +1,19 @@
+=====================> [[('It really does make me sad to hear about something like this', None, None, None, 0), ('because halloween is such a peaceful but fun time .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('what I would do', None, None, None, 0), ('if this kind of thing happened to people', None, None, None, 0), ('who are close to me .', None, None, None, 1), ('It makes me kind of scared to even think about going trick or treating', None, None, None, 0), ('because of random things like this', None, None, None, 0), ('that can happen', None, None, None, 0)]]
+Leaf:  N Explanation It really does make me sad to hear about something like this
+Leaf:  S span because halloween is such a peaceful but fun time .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I am not sure
+Leaf:  N Condition what I would do
+Leaf:  N Elaborate if this kind of thing happened to people
+Leaf:  S span who are close to me .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Condition NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Explanation It makes me kind of scared to even think about going trick or treating
+Leaf:  N Elaborate because of random things like this
+Leaf:  S span that can happen
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('It really does make me sad to hear about something like this', None, None, None, 0), ('because halloween is such a peaceful but fun time .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('what I would do', None, None, None, 0), ('if this kind of thing happened to people', None, None, None, 0), ('who are close to me .', None, None, None, 1), ('It makes me kind of scared to even think about going trick or treating', None, None, None, 0), ('because of random things like this', None, None, None, 0), ('that can happen', None, None, None, 0)]

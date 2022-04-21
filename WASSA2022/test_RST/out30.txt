@@ -1,0 +1,19 @@
+=====================> [[("It 's incredibly sad that this happens .", None, None, None, 1), ('While we do need to move to more environmentally sound methods', None, None, None, 0), ('of producing energy ,', None, None, None, 0), ('it sucks that innocent birds are caught in the path of this progress .', None, None, None, 1), ('I hope', None, None, None, 0), ('we learn new ways', None, None, None, 0), ('to deter them from flying into them ,', None, None, None, 0), ('and can better protect the world ,', None, None, None, 0), ('while we try to counter our damage to it .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's incredibly sad that this happens .
+Leaf:  N Elaborate While we do need to move to more environmentally sound methods
+Leaf:  S span of producing energy ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast it sucks that innocent birds are caught in the path of this progress .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I hope
+Leaf:  N Elaborate we learn new ways
+Leaf:  S span to deter them from flying into them ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Temporal and can better protect the world ,
+Leaf:  S span while we try to counter our damage to it .
+Inner:  N Joint None Temporal NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("It 's incredibly sad that this happens .", None, None, None, 1), ('While we do need to move to more environmentally sound methods', None, None, None, 0), ('of producing energy ,', None, None, None, 0), ('it sucks that innocent birds are caught in the path of this progress .', None, None, None, 1), ('I hope', None, None, None, 0), ('we learn new ways', None, None, None, 0), ('to deter them from flying into them ,', None, None, None, 0), ('and can better protect the world ,', None, None, None, 0), ('while we try to counter our damage to it .', None, None, None, 1)]

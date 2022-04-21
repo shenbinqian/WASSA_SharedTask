@@ -1,0 +1,27 @@
+=====================> [[('The article', None, None, None, 0), ('I just read', None, None, None, 0), ('was fascinating to me .', None, None, None, 1), ('Apparently children in sports have a high rate of injury ,', None, None, None, 0), ("and it 's probably not the sports", None, None, None, 0), ('you think .', None, None, None, 1), ('Like for example , Paintball is less likely to cause eye injury to people', None, None, None, 0), ('than cycling is .', None, None, None, 1), ('Basketball is the top ,', None, None, None, 0), ('but I guess that makes sense .', None, None, None, 1), ("I do n't get why kids are n't forced to wear eye protection", None, None, None, 0), ("when they 're doing dangerous sports ,", None, None, None, 0), ('we need to do better for the kids .', None, None, None, 1)]]
+Leaf:  N Elaborate The article
+Leaf:  S span I just read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was fascinating to me .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint Apparently children in sports have a high rate of injury ,
+Leaf:  N Elaborate and it 's probably not the sports
+Leaf:  S span you think .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Comparison Like for example , Paintball is less likely to cause eye injury to people
+Leaf:  S span than cycling is .
+Inner:  N Joint None Comparison NS
+Leaf:  N Evaluation Basketball is the top ,
+Leaf:  S span but I guess that makes sense .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Background I do n't get why kids are n't forced to wear eye protection
+Leaf:  S span when they 're doing dangerous sports ,
+Inner:  N Evaluation None Background NS
+Leaf:  S span we need to do better for the kids .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The article', None, None, None, 0), ('I just read', None, None, None, 0), ('was fascinating to me .', None, None, None, 1), ('Apparently children in sports have a high rate of injury ,', None, None, None, 0), ("and it 's probably not the sports", None, None, None, 0), ('you think .', None, None, None, 1), ('Like for example , Paintball is less likely to cause eye injury to people', None, None, None, 0), ('than cycling is .', None, None, None, 1), ('Basketball is the top ,', None, None, None, 0), ('but I guess that makes sense .', None, None, None, 1), ("I do n't get why kids are n't forced to wear eye protection", None, None, None, 0), ("when they 're doing dangerous sports ,", None, None, None, 0), ('we need to do better for the kids .', None, None, None, 1)]

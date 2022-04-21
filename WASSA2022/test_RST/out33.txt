@@ -1,0 +1,25 @@
+=====================> [[('Please read this .', None, None, None, 1), ('We need to find a balance somehow .', None, None, None, 1), ('I understand the need for the pipelines but to destroy the artifacts', None, None, None, 0), ('and the potential risks', None, None, None, 0), ("I do n't believe", None, None, None, 0), ('will out away the benefits .', None, None, None, 1), ('There has to be a solution', None, None, None, 0), ('somewhere', None, None, None, 0), ("but I 'm not sure where .", None, None, None, 1), ("It 's disturbing and concerning on many levels .", None, None, None, 1), ("But I do n't know", None, None, None, 0), ('where the answer lies unfortunately .', None, None, None, 1)]]
+Leaf:  N Evaluation Please read this .
+Leaf:  N Evaluation We need to find a balance somehow .
+Leaf:  N Same-Unit I understand the need for the pipelines but to destroy the artifacts
+Leaf:  N Same-Unit and the potential risks
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Same-Unit I do n't believe
+Leaf:  N Same-Unit will out away the benefits .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Leaf:  N Same-Unit There has to be a solution
+Leaf:  N Same-Unit somewhere
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span but I 'm not sure where .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate It 's disturbing and concerning on many levels .
+Leaf:  S span But I do n't know
+Leaf:  N Attribution where the answer lies unfortunately .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Please read this .', None, None, None, 1), ('We need to find a balance somehow .', None, None, None, 1), ('I understand the need for the pipelines but to destroy the artifacts', None, None, None, 0), ('and the potential risks', None, None, None, 0), ("I do n't believe", None, None, None, 0), ('will out away the benefits .', None, None, None, 1), ('There has to be a solution', None, None, None, 0), ('somewhere', None, None, None, 0), ("but I 'm not sure where .", None, None, None, 1), ("It 's disturbing and concerning on many levels .", None, None, None, 1), ("But I do n't know", None, None, None, 0), ('where the answer lies unfortunately .', None, None, None, 1)]

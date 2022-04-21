@@ -1,0 +1,17 @@
+=====================> [[('Have you seen this ?', None, None, None, 1), ('From the article - “ execution by firing squad ,', None, None, None, 0), ('if implemented properly ,', None, None, None, 0), ('would result in a substantially lesser risk of harm ” Less harm ???? A shooting squad will inflict less harm ?', None, None, None, 1), ("What are we living in the the 1800 's now ?", None, None, None, 1), ('You know', None, None, None, 0), ('I support the death penalty in some cases ,', None, None, None, 0), ('but a shooting squad is ridiculous and completely inhumane !', None, None, None, 1)]]
+Leaf:  N Textual-Organization Have you seen this ?
+Leaf:  N Same-Unit From the article - “ execution by firing squad ,
+Leaf:  S span if implemented properly ,
+Leaf:  N Condition would result in a substantially lesser risk of harm ” Less harm ???? A shooting squad will inflict less harm ?
+Inner:  N Same-Unit None Condition SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span What are we living in the the 1800 's now ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span You know
+Leaf:  S span I support the death penalty in some cases ,
+Leaf:  N Contrast but a shooting squad is ridiculous and completely inhumane !
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Have you seen this ?', None, None, None, 1), ('From the article - “ execution by firing squad ,', None, None, None, 0), ('if implemented properly ,', None, None, None, 0), ('would result in a substantially lesser risk of harm ” Less harm ???? A shooting squad will inflict less harm ?', None, None, None, 1), ("What are we living in the the 1800 's now ?", None, None, None, 1), ('You know', None, None, None, 0), ('I support the death penalty in some cases ,', None, None, None, 0), ('but a shooting squad is ridiculous and completely inhumane !', None, None, None, 1)]

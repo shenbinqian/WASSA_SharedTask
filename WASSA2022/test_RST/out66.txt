@@ -1,0 +1,23 @@
+=====================> [[('Hey did you see this article about the guy', None, None, None, 0), ('they got for those bombings awhile back ?', None, None, None, 1), ('The kid is only 28 years old .', None, None, None, 1), ('What makes someone', None, None, None, 0), ('that young want to carry out such awful acts , can you imagine ?', None, None, None, 1), ('It seems like such a waste of potential and life to devote your life at that age to some kind of holy war .', None, None, None, 1), ('They say', None, None, None, 0), ('he was inspired by bin Laden', None, None, None, 0), ('and the FBI even checked him out', None, None, None, 0), ('before but nothing ever came of it .', None, None, None, 1), ('Such a shame .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey did you see this article about the guy
+Leaf:  S span they got for those bombings awhile back ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The kid is only 28 years old .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate What makes someone
+Leaf:  S span that young want to carry out such awful acts , can you imagine ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate It seems like such a waste of potential and life to devote your life at that age to some kind of holy war .
+Leaf:  S span They say
+Leaf:  N Joint he was inspired by bin Laden
+Leaf:  N Temporal and the FBI even checked him out
+Leaf:  S span before but nothing ever came of it .
+Inner:  N Joint None Temporal NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Such a shame .
+Inner:  Root None None Evaluation NS
+[('Hey did you see this article about the guy', None, None, None, 0), ('they got for those bombings awhile back ?', None, None, None, 1), ('The kid is only 28 years old .', None, None, None, 1), ('What makes someone', None, None, None, 0), ('that young want to carry out such awful acts , can you imagine ?', None, None, None, 1), ('It seems like such a waste of potential and life to devote your life at that age to some kind of holy war .', None, None, None, 1), ('They say', None, None, None, 0), ('he was inspired by bin Laden', None, None, None, 0), ('and the FBI even checked him out', None, None, None, 0), ('before but nothing ever came of it .', None, None, None, 1), ('Such a shame .', None, None, None, 1)]

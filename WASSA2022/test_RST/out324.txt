@@ -1,0 +1,17 @@
+=====================> [[('You ever read something', None, None, None, 0), ('that starts out bad', None, None, None, 0), ('and then just progressively more what the eff ? Yeah , that was pretty much what reading this article was like .', None, None, None, 1), ('I mean , I sort of understood', None, None, None, 0), ('when it was just shooting ,', None, None, None, 0), ('but then it became more clear', None, None, None, 0), ("that this was n't hunting it was deliberate killing and then kinda torture with the mutilation and everything .", None, None, None, 1), ("That 's just sick .", None, None, None, 1)]]
+Leaf:  N Elaborate You ever read something
+Leaf:  N Temporal that starts out bad
+Leaf:  N Temporal and then just progressively more what the eff ? Yeah , that was pretty much what reading this article was like .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background I mean , I sort of understood
+Leaf:  S span when it was just shooting ,
+Inner:  N Contrast None Background NS
+Leaf:  S span but then it became more clear
+Leaf:  N Attribution that this was n't hunting it was deliberate killing and then kinda torture with the mutilation and everything .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span That 's just sick .
+Inner:  Root None None Evaluation NS
+[('You ever read something', None, None, None, 0), ('that starts out bad', None, None, None, 0), ('and then just progressively more what the eff ? Yeah , that was pretty much what reading this article was like .', None, None, None, 1), ('I mean , I sort of understood', None, None, None, 0), ('when it was just shooting ,', None, None, None, 0), ('but then it became more clear', None, None, None, 0), ("that this was n't hunting it was deliberate killing and then kinda torture with the mutilation and everything .", None, None, None, 1), ("That 's just sick .", None, None, None, 1)]

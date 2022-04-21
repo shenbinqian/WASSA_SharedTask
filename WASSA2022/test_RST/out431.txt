@@ -1,0 +1,31 @@
+=====================> [[('I was very moved', None, None, None, 0), ('while reading this story .', None, None, None, 1), ("I 've long thought", None, None, None, 0), ('the foster care system was in need of a complete overhaul .', None, None, None, 1), ('The kids', None, None, None, 0), ('that go into these places', None, None, None, 0), ('do not receive the support or care', None, None, None, 0), ('that they need', None, None, None, 0), ('to survive really . We hear stories every day of kids from theses places growing into adults', None, None, None, 0), ('that later join the prison system', None, None, None, 0), ('or fall into crime .', None, None, None, 1), ("It 's very disheartening .", None, None, None, 1), ('And by the time', None, None, None, 0), ('they come to realize their mistakes ,', None, None, None, 0), ('most of their lives have already pass them by .', None, None, None, 1)]]
+Leaf:  N Background I was very moved
+Leaf:  S span while reading this story .
+Inner:  N Elaborate None Background NS
+Leaf:  S span I 've long thought
+Leaf:  N Attribution the foster care system was in need of a complete overhaul .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The kids
+Leaf:  S span that go into these places
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate do not receive the support or care
+Leaf:  S span that they need
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate to survive really . We hear stories every day of kids from theses places growing into adults
+Leaf:  N Joint that later join the prison system
+Leaf:  N Joint or fall into crime .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate It 's very disheartening .
+Leaf:  N Elaborate And by the time
+Leaf:  S span they come to realize their mistakes ,
+Leaf:  N Background most of their lives have already pass them by .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I was very moved', None, None, None, 0), ('while reading this story .', None, None, None, 1), ("I 've long thought", None, None, None, 0), ('the foster care system was in need of a complete overhaul .', None, None, None, 1), ('The kids', None, None, None, 0), ('that go into these places', None, None, None, 0), ('do not receive the support or care', None, None, None, 0), ('that they need', None, None, None, 0), ('to survive really . We hear stories every day of kids from theses places growing into adults', None, None, None, 0), ('that later join the prison system', None, None, None, 0), ('or fall into crime .', None, None, None, 1), ("It 's very disheartening .", None, None, None, 1), ('And by the time', None, None, None, 0), ('they come to realize their mistakes ,', None, None, None, 0), ('most of their lives have already pass them by .', None, None, None, 1)]

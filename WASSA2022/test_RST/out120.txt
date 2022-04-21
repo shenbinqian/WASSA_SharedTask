@@ -1,0 +1,31 @@
+=====================> [[('Equal pay for equal work has been around a long time', None, None, None, 0), ("and is n't it funny that no one is making a big fuss", None, None, None, 0), ('when women are the higher paid people for a change .', None, None, None, 1), ('I think', None, None, None, 0), ('the whole fashion industry needs an overall', None, None, None, 0), ('to begin with', None, None, None, 0), ('for making women feel', None, None, None, 0), ('they need products', None, None, None, 0), ('to be beautiful', None, None, None, 0), ('and setting unrealistic standards for looks ,', None, None, None, 0), ("so it should n't surprise anyone", None, None, None, 0), ('that there would be a pay scale issue as well .', None, None, None, 1), ('If we worked harder', None, None, None, 0), ('to be fair in all things', None, None, None, 0), ('these types of issues would sort out as well .', None, None, None, 1)]]
+Leaf:  N Joint Equal pay for equal work has been around a long time
+Leaf:  N Background and is n't it funny that no one is making a big fuss
+Leaf:  S span when women are the higher paid people for a change .
+Inner:  N Joint None Background NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  N Elaborate the whole fashion industry needs an overall
+Leaf:  S span to begin with
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span for making women feel
+Leaf:  N Enablement they need products
+Leaf:  S span to be beautiful
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and setting unrealistic standards for looks ,
+Inner:  S span None Joint NN
+Leaf:  S span so it should n't surprise anyone
+Leaf:  N Attribution that there would be a pay scale issue as well .
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Enablement If we worked harder
+Leaf:  S span to be fair in all things
+Inner:  S span None Enablement NS
+Leaf:  N Condition these types of issues would sort out as well .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Equal pay for equal work has been around a long time', None, None, None, 0), ("and is n't it funny that no one is making a big fuss", None, None, None, 0), ('when women are the higher paid people for a change .', None, None, None, 1), ('I think', None, None, None, 0), ('the whole fashion industry needs an overall', None, None, None, 0), ('to begin with', None, None, None, 0), ('for making women feel', None, None, None, 0), ('they need products', None, None, None, 0), ('to be beautiful', None, None, None, 0), ('and setting unrealistic standards for looks ,', None, None, None, 0), ("so it should n't surprise anyone", None, None, None, 0), ('that there would be a pay scale issue as well .', None, None, None, 1), ('If we worked harder', None, None, None, 0), ('to be fair in all things', None, None, None, 0), ('these types of issues would sort out as well .', None, None, None, 1)]

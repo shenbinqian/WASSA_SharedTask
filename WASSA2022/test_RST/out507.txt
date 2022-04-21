@@ -1,0 +1,39 @@
+=====================> [[('I had no idea', None, None, None, 0), ('that bananas had such a crazy history .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('that talks', None, None, None, 0), ('about how difficult it is to grow and keep banana trees healthy .', None, None, None, 1), ('The banana', None, None, None, 0), ('we know today', None, None, None, 0), ('is seedless and edible by a genetic accident . A lot of time and money has been spent', None, None, None, 0), ('to keep producing bananas .', None, None, None, 1), ('One of the things', None, None, None, 0), ('they have to do', None, None, None, 0), ('is keep using fungicides', None, None, None, 0), ('to combat disease .', None, None, None, 1), ('These are harmful to the environment and to people .', None, None, None, 1), ('It seems like that should just stop .', None, None, None, 1), ('Keep what banana trees you can ,', None, None, None, 0), ('and plant other things', None, None, None, 0), ("that are n't so fragile .", None, None, None, 1), ("We should n't use toxic chemicals .", None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Attribution that bananas had such a crazy history .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I just read an article
+Leaf:  S span that talks
+Leaf:  N Attribution about how difficult it is to grow and keep banana trees healthy .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The banana
+Leaf:  S span we know today
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is seedless and edible by a genetic accident . A lot of time and money has been spent
+Inner:  N Enablement None Same-Unit NN
+Leaf:  S span to keep producing bananas .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate One of the things
+Leaf:  S span they have to do
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement is keep using fungicides
+Leaf:  S span to combat disease .
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span These are harmful to the environment and to people .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It seems like that should just stop .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint Keep what banana trees you can ,
+Leaf:  N Elaborate and plant other things
+Leaf:  S span that are n't so fragile .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint We should n't use toxic chemicals .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I had no idea', None, None, None, 0), ('that bananas had such a crazy history .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('that talks', None, None, None, 0), ('about how difficult it is to grow and keep banana trees healthy .', None, None, None, 1), ('The banana', None, None, None, 0), ('we know today', None, None, None, 0), ('is seedless and edible by a genetic accident . A lot of time and money has been spent', None, None, None, 0), ('to keep producing bananas .', None, None, None, 1), ('One of the things', None, None, None, 0), ('they have to do', None, None, None, 0), ('is keep using fungicides', None, None, None, 0), ('to combat disease .', None, None, None, 1), ('These are harmful to the environment and to people .', None, None, None, 1), ('It seems like that should just stop .', None, None, None, 1), ('Keep what banana trees you can ,', None, None, None, 0), ('and plant other things', None, None, None, 0), ("that are n't so fragile .", None, None, None, 1), ("We should n't use toxic chemicals .", None, None, None, 1)]

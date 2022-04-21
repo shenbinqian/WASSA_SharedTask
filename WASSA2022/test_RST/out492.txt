@@ -1,0 +1,33 @@
+=====================> [[('We are destroying this beautiful planet and all of the beautiful , innocent creatures', None, None, None, 0), ('that share it with us in the process .', None, None, None, 1), ('How can human beings be so blind to the damage', None, None, None, 0), ('we are causing .', None, None, None, 1), ("It 's like we think", None, None, None, 0), ('that we are the only living things', None, None, None, 0), ('that matter', None, None, None, 0), ('and the Earth is only here for us', None, None, None, 0), ('to use', None, None, None, 0), ('as we see fit .', None, None, None, 1), ('We need to start protecting the planet', None, None, None, 0), ('before it is too late . We are now affecting other species with our stupidity and ignorance .', None, None, None, 1), ('If things keep on the course', None, None, None, 0), ('we are on now there', None, None, None, 0), ('will be nothing left for future generations .', None, None, None, 1), ('This makes me so sad and afraid .', None, None, None, 1)]]
+Leaf:  N Elaborate We are destroying this beautiful planet and all of the beautiful , innocent creatures
+Leaf:  S span that share it with us in the process .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate How can human beings be so blind to the damage
+Leaf:  S span we are causing .
+Inner:  N Summary None Elaborate NS
+Leaf:  S span It 's like we think
+Leaf:  N Elaborate that we are the only living things
+Leaf:  S span that matter
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and the Earth is only here for us
+Leaf:  S span to use
+Inner:  N Condition None Elaborate NS
+Leaf:  S span as we see fit .
+Inner:  N Joint None Condition NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Attribution We need to start protecting the planet
+Leaf:  S span before it is too late . We are now affecting other species with our stupidity and ignorance .
+Inner:  N Explanation None Attribution NS
+Leaf:  N Elaborate If things keep on the course
+Leaf:  S span we are on now there
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will be nothing left for future generations .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This makes me so sad and afraid .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('We are destroying this beautiful planet and all of the beautiful , innocent creatures', None, None, None, 0), ('that share it with us in the process .', None, None, None, 1), ('How can human beings be so blind to the damage', None, None, None, 0), ('we are causing .', None, None, None, 1), ("It 's like we think", None, None, None, 0), ('that we are the only living things', None, None, None, 0), ('that matter', None, None, None, 0), ('and the Earth is only here for us', None, None, None, 0), ('to use', None, None, None, 0), ('as we see fit .', None, None, None, 1), ('We need to start protecting the planet', None, None, None, 0), ('before it is too late . We are now affecting other species with our stupidity and ignorance .', None, None, None, 1), ('If things keep on the course', None, None, None, 0), ('we are on now there', None, None, None, 0), ('will be nothing left for future generations .', None, None, None, 1), ('This makes me so sad and afraid .', None, None, None, 1)]

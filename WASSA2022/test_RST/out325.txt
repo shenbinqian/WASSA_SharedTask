@@ -1,0 +1,25 @@
+=====================> [[('I thought', None, None, None, 0), ('the idea of the protest was really cool', None, None, None, 0), ('in that it had such a specific message .', None, None, None, 1), ('Like , people can hear statistics', None, None, None, 0), ('and not really grasp what it means ,', None, None, None, 0), ('but', None, None, None, 0), ('by having them walk out at the 70 % mark', None, None, None, 0), ('just makes it so clear', None, None, None, 0), ('how different the wages really are .', None, None, None, 1), ('I super support this movement', None, None, None, 0), ('and think', None, None, None, 0), ('people should work accordingly .', None, None, None, 1)]]
+Leaf:  S span I thought
+Leaf:  N Background the idea of the protest was really cool
+Leaf:  S span in that it had such a specific message .
+Inner:  N Attribution None Background NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal Like , people can hear statistics
+Leaf:  N Temporal and not really grasp what it means ,
+Inner:  S span None Temporal NN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Same-Unit but
+Leaf:  N Same-Unit by having them walk out at the 70 % mark
+Leaf:  S span just makes it so clear
+Leaf:  N Attribution how different the wages really are .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Joint I super support this movement
+Leaf:  S span and think
+Leaf:  N Attribution people should work accordingly .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I thought', None, None, None, 0), ('the idea of the protest was really cool', None, None, None, 0), ('in that it had such a specific message .', None, None, None, 1), ('Like , people can hear statistics', None, None, None, 0), ('and not really grasp what it means ,', None, None, None, 0), ('but', None, None, None, 0), ('by having them walk out at the 70 % mark', None, None, None, 0), ('just makes it so clear', None, None, None, 0), ('how different the wages really are .', None, None, None, 1), ('I super support this movement', None, None, None, 0), ('and think', None, None, None, 0), ('people should work accordingly .', None, None, None, 1)]

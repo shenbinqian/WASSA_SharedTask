@@ -1,0 +1,21 @@
+=====================> [[('There is nothing very surprising in this article ,', None, None, None, 0), ('although I am surprised', None, None, None, 0), ("how long it 's gone on .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('why we have to do this at Guantanamo ,', None, None, None, 0), ('since we are perfectly capable of keeping these people completely secure here .', None, None, None, 1), ("Even though we 're fighting a brutal enemy ,", None, None, None, 0), ('these abuses need to stop ,', None, None, None, 0), ('we need to be the better people here .', None, None, None, 1), ('Information needs to be obtained , but not at the cost of our humanity .', None, None, None, 1)]]
+Leaf:  N Contrast There is nothing very surprising in this article ,
+Leaf:  S span although I am surprised
+Leaf:  N Attribution how long it 's gone on .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Contrast NS
+Leaf:  S span I do n't know
+Leaf:  N Explanation why we have to do this at Guantanamo ,
+Leaf:  S span since we are perfectly capable of keeping these people completely secure here .
+Inner:  N Attribution None Explanation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Even though we 're fighting a brutal enemy ,
+Leaf:  S span these abuses need to stop ,
+Leaf:  N Explanation we need to be the better people here .
+Inner:  N Contrast None Explanation SN
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint Information needs to be obtained , but not at the cost of our humanity .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  Root None None Joint NN
+[('There is nothing very surprising in this article ,', None, None, None, 0), ('although I am surprised', None, None, None, 0), ("how long it 's gone on .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('why we have to do this at Guantanamo ,', None, None, None, 0), ('since we are perfectly capable of keeping these people completely secure here .', None, None, None, 1), ("Even though we 're fighting a brutal enemy ,", None, None, None, 0), ('these abuses need to stop ,', None, None, None, 0), ('we need to be the better people here .', None, None, None, 1), ('Information needs to be obtained , but not at the cost of our humanity .', None, None, None, 1)]

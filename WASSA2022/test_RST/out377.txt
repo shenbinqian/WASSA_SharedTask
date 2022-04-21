@@ -1,0 +1,33 @@
+=====================> [[('I know', None, None, None, 0), ('that I tend to get on my high-horse about political and world issues ,', None, None, None, 0), ("but it 's just a shame that we are not taking care of the climate globally .", None, None, None, 1), ('Sweden just put out a study', None, None, None, 0), ('that showed', None, None, None, 0), ('that air pollution might be impacting young children even more so than adults .', None, None, None, 1), ('Children are much less powerful', None, None, None, 0), ('to control this situation ,', None, None, None, 0), ('but they are suffering the most .', None, None, None, 1), ('It seems like nitrogen dioxide might be playing a major part', None, None, None, 0), ("in making the environment 's air pollution so that it impacts the development of young children ,", None, None, None, 0), ('and the increased rates of psychological problems might be attributed to nitrogen dioxide .', None, None, None, 1), ('I hope that more research is done on this ,', None, None, None, 0), ('and I hope', None, None, None, 0), ('that we can find some way', None, None, None, 0), ('to take environmental issues more seriously .', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Attribution that I tend to get on my high-horse about political and world issues ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but it 's just a shame that we are not taking care of the climate globally .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Elaborate Sweden just put out a study
+Leaf:  S span that showed
+Leaf:  N Attribution that air pollution might be impacting young children even more so than adults .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement Children are much less powerful
+Leaf:  S span to control this situation ,
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span but they are suffering the most .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It seems like nitrogen dioxide might be playing a major part
+Leaf:  S span in making the environment 's air pollution so that it impacts the development of young children ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and the increased rates of psychological problems might be attributed to nitrogen dioxide .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I hope that more research is done on this ,
+Leaf:  S span and I hope
+Leaf:  N Elaborate that we can find some way
+Leaf:  S span to take environmental issues more seriously .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I know', None, None, None, 0), ('that I tend to get on my high-horse about political and world issues ,', None, None, None, 0), ("but it 's just a shame that we are not taking care of the climate globally .", None, None, None, 1), ('Sweden just put out a study', None, None, None, 0), ('that showed', None, None, None, 0), ('that air pollution might be impacting young children even more so than adults .', None, None, None, 1), ('Children are much less powerful', None, None, None, 0), ('to control this situation ,', None, None, None, 0), ('but they are suffering the most .', None, None, None, 1), ('It seems like nitrogen dioxide might be playing a major part', None, None, None, 0), ("in making the environment 's air pollution so that it impacts the development of young children ,", None, None, None, 0), ('and the increased rates of psychological problems might be attributed to nitrogen dioxide .', None, None, None, 1), ('I hope that more research is done on this ,', None, None, None, 0), ('and I hope', None, None, None, 0), ('that we can find some way', None, None, None, 0), ('to take environmental issues more seriously .', None, None, None, 1)]

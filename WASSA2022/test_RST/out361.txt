@@ -1,0 +1,39 @@
+=====================> [[('Wow bureaucracy sucks .', None, None, None, 1), ('I feel pretty empathetic with the person here ,', None, None, None, 0), ('because I know', None, None, None, 0), ("what it 's like to be on the phone", None, None, None, 0), ('trying to sort things out with the government .', None, None, None, 1), ('It is extremely annoying ,', None, None, None, 0), ('because they just do not have to care about your problems .', None, None, None, 1), ('Their problem is how much time', None, None, None, 0), ("they have to spend on any given thing , but your problems , no , your problems are not their problems unless you make it their problem . Really annoying . They do n't want to help . In general the identity system our society has", None, None, None, 0), ('is very bad and easily exploited ;', None, None, None, 0), ('we rely just on trust for it to work .', None, None, None, 1), ('One thing about the article', None, None, None, 0), ("that did n't make sense to me though", None, None, None, 0), ('was that the suspect was identified purely by fingerprinting .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('that is really how it works .', None, None, None, 1), ("Maybe this story is n't real ?", None, None, None, 1), ('If so', None, None, None, 0), ('I might feel a littl', None, None, None, 0)]]
+Leaf:  N Evaluation Wow bureaucracy sucks .
+Leaf:  N Explanation I feel pretty empathetic with the person here ,
+Leaf:  N Elaborate because I know
+Leaf:  N Elaborate what it 's like to be on the phone
+Leaf:  S span trying to sort things out with the government .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation It is extremely annoying ,
+Leaf:  S span because they just do not have to care about your problems .
+Inner:  N Explanation None Explanation NS
+Leaf:  N Elaborate Their problem is how much time
+Leaf:  S span they have to spend on any given thing , but your problems , no , your problems are not their problems unless you make it their problem . Really annoying . They do n't want to help . In general the identity system our society has
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is very bad and easily exploited ;
+Inner:  S span None Same-Unit NN
+Inner:  N Explanation None Explanation NS
+Leaf:  S span we rely just on trust for it to work .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate One thing about the article
+Leaf:  S span that did n't make sense to me though
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was that the suspect was identified purely by fingerprinting .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I do n't think
+Leaf:  N Attribution that is really how it works .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Maybe this story is n't real ?
+Leaf:  S span If so
+Leaf:  N Condition I might feel a littl
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow bureaucracy sucks .', None, None, None, 1), ('I feel pretty empathetic with the person here ,', None, None, None, 0), ('because I know', None, None, None, 0), ("what it 's like to be on the phone", None, None, None, 0), ('trying to sort things out with the government .', None, None, None, 1), ('It is extremely annoying ,', None, None, None, 0), ('because they just do not have to care about your problems .', None, None, None, 1), ('Their problem is how much time', None, None, None, 0), ("they have to spend on any given thing , but your problems , no , your problems are not their problems unless you make it their problem . Really annoying . They do n't want to help . In general the identity system our society has", None, None, None, 0), ('is very bad and easily exploited ;', None, None, None, 0), ('we rely just on trust for it to work .', None, None, None, 1), ('One thing about the article', None, None, None, 0), ("that did n't make sense to me though", None, None, None, 0), ('was that the suspect was identified purely by fingerprinting .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('that is really how it works .', None, None, None, 1), ("Maybe this story is n't real ?", None, None, None, 1), ('If so', None, None, None, 0), ('I might feel a littl', None, None, None, 0)]

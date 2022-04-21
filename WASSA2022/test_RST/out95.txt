@@ -1,0 +1,27 @@
+=====================> [[('I believe', None, None, None, 0), ('we all have someone in our lives', None, None, None, 0), ('suffering from PTSD ,', None, None, None, 0), ('whether we know it or not .', None, None, None, 1), ('I know', None, None, None, 0), ('it takes quite a lot of courage and strength', None, None, None, 0), ('( and persistence )', None, None, None, 0), ('to get PTSD diagnosed and treated .', None, None, None, 1), ('Please know', None, None, None, 0), ("that you 're loved and supported .", None, None, None, 1), ('Any way I can help get the word', None, None, None, 0), ('I will ,', None, None, None, 0), ('I just need the messaging .', None, None, None, 1)]]
+Leaf:  S span I believe
+Leaf:  N Elaborate we all have someone in our lives
+Leaf:  S span suffering from PTSD ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span whether we know it or not .
+Inner:  N Attribution None Contrast NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Elaborate it takes quite a lot of courage and strength
+Leaf:  S span ( and persistence )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit to get PTSD diagnosed and treated .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Please know
+Leaf:  N Attribution that you 're loved and supported .
+Inner:  N Condition None Attribution SN
+Leaf:  S span Any way I can help get the word
+Leaf:  N Evaluation I will ,
+Leaf:  S span I just need the messaging .
+Inner:  N Enablement None Evaluation NS
+Inner:  S span None Enablement SN
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I believe', None, None, None, 0), ('we all have someone in our lives', None, None, None, 0), ('suffering from PTSD ,', None, None, None, 0), ('whether we know it or not .', None, None, None, 1), ('I know', None, None, None, 0), ('it takes quite a lot of courage and strength', None, None, None, 0), ('( and persistence )', None, None, None, 0), ('to get PTSD diagnosed and treated .', None, None, None, 1), ('Please know', None, None, None, 0), ("that you 're loved and supported .", None, None, None, 1), ('Any way I can help get the word', None, None, None, 0), ('I will ,', None, None, None, 0), ('I just need the messaging .', None, None, None, 1)]

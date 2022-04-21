@@ -1,0 +1,17 @@
+=====================> [[('Hey Look at this article can you believe', None, None, None, 0), ('that', None, None, None, 0), ('even though the media makes it seem like more cops are dying on the line of duty', None, None, None, 0), ('that actually it is the opposite and less cops are dying', None, None, None, 0), ('I think', None, None, None, 0), ('that the whole thing shows how cops are trying to gain sympathy', None, None, None, 0), ('when in fact they are the ones', None, None, None, 0), ('killing innocents', None, None, None, 0)]]
+Leaf:  S span Hey Look at this article can you believe
+Leaf:  N Same-Unit that
+Leaf:  S span even though the media makes it seem like more cops are dying on the line of duty
+Leaf:  N Contrast that actually it is the opposite and less cops are dying
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I think
+Leaf:  N Contrast that the whole thing shows how cops are trying to gain sympathy
+Leaf:  N Elaborate when in fact they are the ones
+Leaf:  S span killing innocents
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hey Look at this article can you believe', None, None, None, 0), ('that', None, None, None, 0), ('even though the media makes it seem like more cops are dying on the line of duty', None, None, None, 0), ('that actually it is the opposite and less cops are dying', None, None, None, 0), ('I think', None, None, None, 0), ('that the whole thing shows how cops are trying to gain sympathy', None, None, None, 0), ('when in fact they are the ones', None, None, None, 0), ('killing innocents', None, None, None, 0)]

@@ -1,0 +1,29 @@
+=====================> [[('XXX -', None, None, None, 0), ('I stumbled across and article', None, None, None, 0), ('that I believe will satisfy our requirements for the Business Management project this semester .', None, None, None, 1), ('Chapter 11 bankruptcy of an American retailer', None, None, None, 0), ('( American Apparel ) .', None, None, None, 1), ('Actually , there are two instances of chapter 11 ,', None, None, None, 0), ('so we have options available', None, None, None, 0), ("regarding which financial angle to approach this with . Additionally , it satisfies the CEO 's failed turnaround strategy", None, None, None, 0), ('and we may be able to work in the extra credit', None, None, None, 0), ('because there was sexual improprieties at the executive level . Actions', None, None, None, 0), ("which could be conveyed as a factor in the company 's inevitable business disruption . The company has global operations ,", None, None, None, 0), ("so the country of focus also has some wiggle room with respect to what country 's financial system", None, None, None, 0), ('we would like', None, None, None, 0), ('to focus on .', None, None, None, 1)]]
+Leaf:  N Elaborate XXX -
+Leaf:  N Elaborate I stumbled across and article
+Leaf:  S span that I believe will satisfy our requirements for the Business Management project this semester .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Chapter 11 bankruptcy of an American retailer
+Leaf:  S span ( American Apparel ) .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Actually , there are two instances of chapter 11 ,
+Leaf:  N Elaborate so we have options available
+Leaf:  N Comparison regarding which financial angle to approach this with . Additionally , it satisfies the CEO 's failed turnaround strategy
+Leaf:  N Comparison and we may be able to work in the extra credit
+Inner:  N Cause None Comparison NN
+Leaf:  N Elaborate because there was sexual improprieties at the executive level . Actions
+Leaf:  S span which could be conveyed as a factor in the company 's inevitable business disruption . The company has global operations ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate so the country of focus also has some wiggle room with respect to what country 's financial system
+Leaf:  N Elaborate we would like
+Leaf:  S span to focus on .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Inner:  N Cause None Cause SN
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('XXX -', None, None, None, 0), ('I stumbled across and article', None, None, None, 0), ('that I believe will satisfy our requirements for the Business Management project this semester .', None, None, None, 1), ('Chapter 11 bankruptcy of an American retailer', None, None, None, 0), ('( American Apparel ) .', None, None, None, 1), ('Actually , there are two instances of chapter 11 ,', None, None, None, 0), ('so we have options available', None, None, None, 0), ("regarding which financial angle to approach this with . Additionally , it satisfies the CEO 's failed turnaround strategy", None, None, None, 0), ('and we may be able to work in the extra credit', None, None, None, 0), ('because there was sexual improprieties at the executive level . Actions', None, None, None, 0), ("which could be conveyed as a factor in the company 's inevitable business disruption . The company has global operations ,", None, None, None, 0), ("so the country of focus also has some wiggle room with respect to what country 's financial system", None, None, None, 0), ('we would like', None, None, None, 0), ('to focus on .', None, None, None, 1)]

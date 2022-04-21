@@ -1,0 +1,27 @@
+=====================> [[('She wanted help', None, None, None, 0), ('but nobody helped her .', None, None, None, 1), ('It is a shame .', None, None, None, 1), ('If someone needs help', None, None, None, 0), ('they should get it .', None, None, None, 1), ('You should never push them away .', None, None, None, 1), ('She was crying for help', None, None, None, 0), ('and never got it .', None, None, None, 1), ('She was suicidal', None, None, None, 0), ('and they did nothing .', None, None, None, 1), ('That is very wrong .', None, None, None, 1), ('Somebody should have stepped in .', None, None, None, 1), ('They should feel bad and very guilty for what they did .', None, None, None, 1)]]
+Leaf:  N Contrast She wanted help
+Leaf:  N Contrast but nobody helped her .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate It is a shame .
+Leaf:  S span If someone needs help
+Leaf:  N Condition they should get it .
+Inner:  N Joint None Condition SN
+Leaf:  N Joint You should never push them away .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Temporal She was crying for help
+Leaf:  N Temporal and never got it .
+Inner:  S span None Temporal NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint She was suicidal
+Leaf:  N Joint and they did nothing .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation That is very wrong .
+Leaf:  N Evaluation Somebody should have stepped in .
+Leaf:  S span They should feel bad and very guilty for what they did .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('She wanted help', None, None, None, 0), ('but nobody helped her .', None, None, None, 1), ('It is a shame .', None, None, None, 1), ('If someone needs help', None, None, None, 0), ('they should get it .', None, None, None, 1), ('You should never push them away .', None, None, None, 1), ('She was crying for help', None, None, None, 0), ('and never got it .', None, None, None, 1), ('She was suicidal', None, None, None, 0), ('and they did nothing .', None, None, None, 1), ('That is very wrong .', None, None, None, 1), ('Somebody should have stepped in .', None, None, None, 1), ('They should feel bad and very guilty for what they did .', None, None, None, 1)]

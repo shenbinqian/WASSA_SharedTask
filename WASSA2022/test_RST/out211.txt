@@ -1,0 +1,23 @@
+=====================> [[('I never knew', None, None, None, 0), ('that this couple had worn vials around their necklaces .', None, None, None, 1), ('Can you imagine that ?', None, None, None, 1), ('I mean , she was filming Tomb Raider', None, None, None, 0), ("and he Monster 's something .", None, None, None, 1), ("That 's a coincidence and probably their inside joke about something related ,", None, None, None, 0), ("but it 's still strange .", None, None, None, 1), ("Do n't you think so ?", None, None, None, 1), ('When I was dating around ,', None, None, None, 0), ('I never had strange habits like that ,', None, None, None, 0), ("but I do n't know ...", None, None, None, 1)]]
+Leaf:  S span I never knew
+Leaf:  N Attribution that this couple had worn vials around their necklaces .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation Can you imagine that ?
+Leaf:  N Joint I mean , she was filming Tomb Raider
+Leaf:  N Joint and he Monster 's something .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span That 's a coincidence and probably their inside joke about something related ,
+Leaf:  N Contrast but it 's still strange .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Do n't you think so ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span When I was dating around ,
+Leaf:  N Background I never had strange habits like that ,
+Inner:  S span None Background SN
+Leaf:  N Contrast but I do n't know ...
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I never knew', None, None, None, 0), ('that this couple had worn vials around their necklaces .', None, None, None, 1), ('Can you imagine that ?', None, None, None, 1), ('I mean , she was filming Tomb Raider', None, None, None, 0), ("and he Monster 's something .", None, None, None, 1), ("That 's a coincidence and probably their inside joke about something related ,", None, None, None, 0), ("but it 's still strange .", None, None, None, 1), ("Do n't you think so ?", None, None, None, 1), ('When I was dating around ,', None, None, None, 0), ('I never had strange habits like that ,', None, None, None, 0), ("but I do n't know ...", None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I feel sad', None, None, None, 0), ('reading about the cancer story .', None, None, None, 1), ('The most disturbing part of cancer is one one really knows the cause .', None, None, None, 1), ('Cases of cancer is always scary to me', None, None, None, 0), ('and like the narrator said', None, None, None, 0), (', it is an unending cycle', None, None, None, 0), ('of tearing down', None, None, None, 0), ('and building up .', None, None, None, 1), ('I wish I have some powers', None, None, None, 0), ('to stop all these sickness .', None, None, None, 1), ('I really do .', None, None, None, 1), ('I give a lot of respect to the medical and pharmaceutical industry', None, None, None, 0), ('they are doing a lot .', None, None, None, 1)]]
+Leaf:  N Background I feel sad
+Leaf:  S span reading about the cancer story .
+Inner:  N Explanation None Background NS
+Leaf:  S span The most disturbing part of cancer is one one really knows the cause .
+Inner:  N Summary None Explanation NS
+Leaf:  N Joint Cases of cancer is always scary to me
+Leaf:  S span and like the narrator said
+Leaf:  N Elaborate , it is an unending cycle
+Leaf:  N Joint of tearing down
+Leaf:  N Joint and building up .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I wish I have some powers
+Leaf:  S span to stop all these sickness .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I really do .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I give a lot of respect to the medical and pharmaceutical industry
+Leaf:  S span they are doing a lot .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('I feel sad', None, None, None, 0), ('reading about the cancer story .', None, None, None, 1), ('The most disturbing part of cancer is one one really knows the cause .', None, None, None, 1), ('Cases of cancer is always scary to me', None, None, None, 0), ('and like the narrator said', None, None, None, 0), (', it is an unending cycle', None, None, None, 0), ('of tearing down', None, None, None, 0), ('and building up .', None, None, None, 1), ('I wish I have some powers', None, None, None, 0), ('to stop all these sickness .', None, None, None, 1), ('I really do .', None, None, None, 1), ('I give a lot of respect to the medical and pharmaceutical industry', None, None, None, 0), ('they are doing a lot .', None, None, None, 1)]

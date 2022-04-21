@@ -1,0 +1,33 @@
+=====================> [[('There you are enjoying a nice day at an amusement park ,', None, None, None, 0), ('and all of as sudden you are dead .', None, None, None, 1), ('By no fault of your own ,', None, None, None, 0), ('and', None, None, None, 0), ('while riding a ride', None, None, None, 0), ('labelled as family friendly ,', None, None, None, 0), ('you and everyone', None, None, None, 0), ('riding with you', None, None, None, 0), ('is dead , suddenly .', None, None, None, 1), ('Thus is the world', None, None, None, 0), ('we live in .', None, None, None, 1), ('High tech machinery', None, None, None, 0), ('built for thrill', None, None, None, 0), ('that serves millions of people a year .', None, None, None, 1), ('But every once in a while one of these machines breaks ,', None, None, None, 0), ('and human lives are the cost .', None, None, None, 1)]]
+Leaf:  S span There you are enjoying a nice day at an amusement park ,
+Leaf:  N Background and all of as sudden you are dead .
+Inner:  N Explanation None Background SN
+Leaf:  N Joint By no fault of your own ,
+Leaf:  N Same-Unit and
+Leaf:  N Elaborate while riding a ride
+Leaf:  S span labelled as family friendly ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate you and everyone
+Leaf:  S span riding with you
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is dead , suddenly .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate Thus is the world
+Leaf:  S span we live in .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate High tech machinery
+Leaf:  S span built for thrill
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that serves millions of people a year .
+Inner:  S span None Elaborate NS
+Leaf:  N Cause But every once in a while one of these machines breaks ,
+Leaf:  S span and human lives are the cost .
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('There you are enjoying a nice day at an amusement park ,', None, None, None, 0), ('and all of as sudden you are dead .', None, None, None, 1), ('By no fault of your own ,', None, None, None, 0), ('and', None, None, None, 0), ('while riding a ride', None, None, None, 0), ('labelled as family friendly ,', None, None, None, 0), ('you and everyone', None, None, None, 0), ('riding with you', None, None, None, 0), ('is dead , suddenly .', None, None, None, 1), ('Thus is the world', None, None, None, 0), ('we live in .', None, None, None, 1), ('High tech machinery', None, None, None, 0), ('built for thrill', None, None, None, 0), ('that serves millions of people a year .', None, None, None, 1), ('But every once in a while one of these machines breaks ,', None, None, None, 0), ('and human lives are the cost .', None, None, None, 1)]

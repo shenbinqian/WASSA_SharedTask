@@ -1,0 +1,49 @@
+=====================> [[('I think', None, None, None, 0), ('as a parent you will find this very interesting .', None, None, None, 1), ('There is a study from Denmark', None, None, None, 0), ('that people', None, None, None, 0), ('who take the pill .', None, None, None, 1), ('That can be concerning for people', None, None, None, 0), ('that take the pill for health reasons', None, None, None, 0), ('and also to keep from having unnecessary pregnancy .', None, None, None, 1), ('I think that is really a cause from concern . I think', None, None, None, 0), ('that the pill is something that a lot of people take', None, None, None, 0), ('but if they know about the side effect of it with the depression', None, None, None, 0), ('they may not want to take it .', None, None, None, 1), ('I think', None, None, None, 0), ('that it can cause concern', None, None, None, 0), ('because of the things', None, None, None, 0), ('that will happen', None, None, None, 0), ('after they do not take the pill . There is a risk of pregnancy and that can cause issues down the road . I think that we need to research it further', None, None, None, 0), ('and see', None, None, None, 0), ('how we can turn it around', None, None, None, 0), ('and make it positive . I think', None, None, None, 0), ('you should really read this', None, None, None, 0), ('and tell me', None, None, None, 0), ('what you think about it .', None, None, None, 1), ('I thi', None, None, None, 0)]]
+Leaf:  S span I think
+Leaf:  N Attribution as a parent you will find this very interesting .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate There is a study from Denmark
+Leaf:  N Elaborate that people
+Leaf:  S span who take the pill .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate That can be concerning for people
+Leaf:  N Joint that take the pill for health reasons
+Leaf:  N Joint and also to keep from having unnecessary pregnancy .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think that is really a cause from concern . I think
+Leaf:  N Contrast that the pill is something that a lot of people take
+Leaf:  S span but if they know about the side effect of it with the depression
+Leaf:  N Condition they may not want to take it .
+Inner:  N Contrast None Condition SN
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Explanation that it can cause concern
+Leaf:  N Elaborate because of the things
+Leaf:  N Background that will happen
+Leaf:  S span after they do not take the pill . There is a risk of pregnancy and that can cause issues down the road . I think that we need to research it further
+Inner:  N Joint None Background NS
+Leaf:  N Joint and see
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Temporal how we can turn it around
+Leaf:  N Temporal and make it positive . I think
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Leaf:  N Joint you should really read this
+Leaf:  S span and tell me
+Leaf:  N Attribution what you think about it .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Topic-Change I thi
+Inner:  Root None None Topic-Change NN
+[('I think', None, None, None, 0), ('as a parent you will find this very interesting .', None, None, None, 1), ('There is a study from Denmark', None, None, None, 0), ('that people', None, None, None, 0), ('who take the pill .', None, None, None, 1), ('That can be concerning for people', None, None, None, 0), ('that take the pill for health reasons', None, None, None, 0), ('and also to keep from having unnecessary pregnancy .', None, None, None, 1), ('I think that is really a cause from concern . I think', None, None, None, 0), ('that the pill is something that a lot of people take', None, None, None, 0), ('but if they know about the side effect of it with the depression', None, None, None, 0), ('they may not want to take it .', None, None, None, 1), ('I think', None, None, None, 0), ('that it can cause concern', None, None, None, 0), ('because of the things', None, None, None, 0), ('that will happen', None, None, None, 0), ('after they do not take the pill . There is a risk of pregnancy and that can cause issues down the road . I think that we need to research it further', None, None, None, 0), ('and see', None, None, None, 0), ('how we can turn it around', None, None, None, 0), ('and make it positive . I think', None, None, None, 0), ('you should really read this', None, None, None, 0), ('and tell me', None, None, None, 0), ('what you think about it .', None, None, None, 1), ('I thi', None, None, None, 0)]

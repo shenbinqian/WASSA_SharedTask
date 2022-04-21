@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about the protests in late 2016 , after the election .', None, None, None, 1), ('I think', None, None, None, 0), ('this is the first time', None, None, None, 0), ("I 've reread an article", None, None, None, 0), ('written back then .', None, None, None, 1), ("It 's interesting to see", None, None, None, 0), ('that just what the protesters said', None, None, None, 0), ('about Trump back then has all held up perfectly .', None, None, None, 1), ('Their fears were completely valid .', None, None, None, 1), ('It makes me angry', None, None, None, 0), ('that the Republican party has allowed this to continue for almost 4 years now .', None, None, None, 1), ("I 'm embarrassed for the country .", None, None, None, 1)]]
+Leaf:  N Temporal I just read an article about the protests in late 2016 , after the election .
+Leaf:  S span I think
+Leaf:  N Elaborate this is the first time
+Leaf:  N Elaborate I 've reread an article
+Leaf:  S span written back then .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's interesting to see
+Leaf:  N Same-Unit that just what the protesters said
+Leaf:  N Same-Unit about Trump back then has all held up perfectly .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Their fears were completely valid .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It makes me angry
+Leaf:  N Attribution that the Republican party has allowed this to continue for almost 4 years now .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Temporal None Evaluation NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span I 'm embarrassed for the country .
+Inner:  Root None None Evaluation NS
+[('I just read an article about the protests in late 2016 , after the election .', None, None, None, 1), ('I think', None, None, None, 0), ('this is the first time', None, None, None, 0), ("I 've reread an article", None, None, None, 0), ('written back then .', None, None, None, 1), ("It 's interesting to see", None, None, None, 0), ('that just what the protesters said', None, None, None, 0), ('about Trump back then has all held up perfectly .', None, None, None, 1), ('Their fears were completely valid .', None, None, None, 1), ('It makes me angry', None, None, None, 0), ('that the Republican party has allowed this to continue for almost 4 years now .', None, None, None, 1), ("I 'm embarrassed for the country .", None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('This is another unfortunately relatable article', None, None, None, 0), ('about what we are doing about climate change', None, None, None, 0), ('and how it is already affecting our earth .', None, None, None, 1), ('We are not doing enough', None, None, None, 0), ('and this article goes into how Australia had the hottest summer on record in 2013 .', None, None, None, 1), ('Things are getting worse year by year', None, None, None, 0), ('and we are not doing much', None, None, None, 0), ('to change our carbon footprint .', None, None, None, 1), ('It also goes onto say', None, None, None, 0), ('how trump believes', None, None, None, 0), ('the whole thing of climate change is a hoax', None, None, None, 0), ('and that is why he has left the paris agreement', None, None, None, 0), ('to help prevent climate change .', None, None, None, 1), ('It is a very good read .', None, None, None, 1)]]
+Leaf:  N Elaborate This is another unfortunately relatable article
+Leaf:  N Joint about what we are doing about climate change
+Leaf:  N Joint and how it is already affecting our earth .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate We are not doing enough
+Leaf:  N Joint and this article goes into how Australia had the hottest summer on record in 2013 .
+Leaf:  N Joint Things are getting worse year by year
+Leaf:  N Enablement and we are not doing much
+Leaf:  S span to change our carbon footprint .
+Inner:  N Joint None Enablement NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span It also goes onto say
+Leaf:  S span how trump believes
+Leaf:  N Attribution the whole thing of climate change is a hoax
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate and that is why he has left the paris agreement
+Leaf:  S span to help prevent climate change .
+Inner:  N Cause None Elaborate NS
+Inner:  N Attribution None Cause NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It is a very good read .
+Inner:  Root None None Evaluation NS
+[('This is another unfortunately relatable article', None, None, None, 0), ('about what we are doing about climate change', None, None, None, 0), ('and how it is already affecting our earth .', None, None, None, 1), ('We are not doing enough', None, None, None, 0), ('and this article goes into how Australia had the hottest summer on record in 2013 .', None, None, None, 1), ('Things are getting worse year by year', None, None, None, 0), ('and we are not doing much', None, None, None, 0), ('to change our carbon footprint .', None, None, None, 1), ('It also goes onto say', None, None, None, 0), ('how trump believes', None, None, None, 0), ('the whole thing of climate change is a hoax', None, None, None, 0), ('and that is why he has left the paris agreement', None, None, None, 0), ('to help prevent climate change .', None, None, None, 1), ('It is a very good read .', None, None, None, 1)]

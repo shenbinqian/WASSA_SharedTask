@@ -1,0 +1,31 @@
+=====================> [[('It is so sad', None, None, None, 0), ('that you can not go anywhere', None, None, None, 0), ('without having to worry about guns .', None, None, None, 1), ('I worry all the time', None, None, None, 0), ('when I am out about a shooting happen . It is so sad that the people in charge will not do anything about it', None, None, None, 0), ('and just continue to let people die .', None, None, None, 1), ('I really think', None, None, None, 0), ('that every place should have security and possible metal detectors . I am interested', None, None, None, 0), ('to see if this place had security', None, None, None, 0), ('and if so how did the person get the gun in the club', None, None, None, 0), ('or if he was shot outside ,', None, None, None, 0), ('It is sad', None, None, None, 0), ('that you can no longer go out', None, None, None, 0), ('and just have fun', None, None, None, 0), ('and have to worry about being hurt .', None, None, None, 1)]]
+Leaf:  S span It is so sad
+Leaf:  N Background that you can not go anywhere
+Leaf:  S span without having to worry about guns .
+Inner:  N Attribution None Background NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Background I worry all the time
+Leaf:  N Joint when I am out about a shooting happen . It is so sad that the people in charge will not do anything about it
+Leaf:  N Joint and just continue to let people die .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Background NS
+Leaf:  S span I really think
+Leaf:  S span that every place should have security and possible metal detectors . I am interested
+Leaf:  N Joint to see if this place had security
+Leaf:  N Joint and if so how did the person get the gun in the club
+Leaf:  N Joint or if he was shot outside ,
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is sad
+Leaf:  N Joint that you can no longer go out
+Leaf:  N Joint and just have fun
+Leaf:  N Joint and have to worry about being hurt .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('It is so sad', None, None, None, 0), ('that you can not go anywhere', None, None, None, 0), ('without having to worry about guns .', None, None, None, 1), ('I worry all the time', None, None, None, 0), ('when I am out about a shooting happen . It is so sad that the people in charge will not do anything about it', None, None, None, 0), ('and just continue to let people die .', None, None, None, 1), ('I really think', None, None, None, 0), ('that every place should have security and possible metal detectors . I am interested', None, None, None, 0), ('to see if this place had security', None, None, None, 0), ('and if so how did the person get the gun in the club', None, None, None, 0), ('or if he was shot outside ,', None, None, None, 0), ('It is sad', None, None, None, 0), ('that you can no longer go out', None, None, None, 0), ('and just have fun', None, None, None, 0), ('and have to worry about being hurt .', None, None, None, 1)]

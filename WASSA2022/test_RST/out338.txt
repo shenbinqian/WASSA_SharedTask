@@ -1,0 +1,23 @@
+=====================> [[('I am just not sure', None, None, None, 0), ('why anyone would be afraid or nervous', None, None, None, 0), ('to talk to someone', None, None, None, 0), ('that could potentially help them out with a problem .', None, None, None, 1), ('There is always someone out there', None, None, None, 0), ('who can talk to you', None, None, None, 0), ('and help you ,', None, None, None, 0), ('but this person did not see it that way', None, None, None, 0), ('and now they are going to be worse off', None, None, None, 0), ('and probably have a lot of bills', None, None, None, 0), ('to pay', None, None, None, 0)]]
+Leaf:  S span I am just not sure
+Leaf:  N Enablement why anyone would be afraid or nervous
+Leaf:  N Elaborate to talk to someone
+Leaf:  S span that could potentially help them out with a problem .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate There is always someone out there
+Leaf:  N Joint who can talk to you
+Leaf:  N Joint and help you ,
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  S span but this person did not see it that way
+Leaf:  N Joint and now they are going to be worse off
+Leaf:  N Elaborate and probably have a lot of bills
+Leaf:  S span to pay
+Inner:  N Joint None Elaborate NS
+Inner:  N Cause None Joint NN
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I am just not sure', None, None, None, 0), ('why anyone would be afraid or nervous', None, None, None, 0), ('to talk to someone', None, None, None, 0), ('that could potentially help them out with a problem .', None, None, None, 1), ('There is always someone out there', None, None, None, 0), ('who can talk to you', None, None, None, 0), ('and help you ,', None, None, None, 0), ('but this person did not see it that way', None, None, None, 0), ('and now they are going to be worse off', None, None, None, 0), ('and probably have a lot of bills', None, None, None, 0), ('to pay', None, None, None, 0)]

@@ -1,0 +1,21 @@
+=====================> [[('Hello friend i will like to tell you', None, None, None, 0), ('that India', None, None, None, 0), ('to ratify Paris climate deal in October —', None, None, None, 0), ("India , one of the world 's largest greenhouse gas emitters , will ratify the Paris global climate agreement pact next month ,", None, None, None, 0), ('Prime Minister Narendra Modi has said .', None, None, None, 1), ('CO2 emissions are believed to be the driving force behind climate change .', None, None, None, 1), ("The Paris deal is the world 's first comprehensive climate agreement .", None, None, None, 1), ('It will only come into force legally', None, None, None, 0), ('after it is ratified by at least 55 countries ,', None, None, None, 0), ('which between them produce 55 % of global carbon emissions .', None, None, None, 1)]]
+Leaf:  S span Hello friend i will like to tell you
+Leaf:  N Enablement that India
+Leaf:  S span to ratify Paris climate deal in October —
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution India , one of the world 's largest greenhouse gas emitters , will ratify the Paris global climate agreement pact next month ,
+Leaf:  S span Prime Minister Narendra Modi has said .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span CO2 emissions are believed to be the driving force behind climate change .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The Paris deal is the world 's first comprehensive climate agreement .
+Leaf:  N Condition It will only come into force legally
+Leaf:  N Elaborate after it is ratified by at least 55 countries ,
+Leaf:  S span which between them produce 55 % of global carbon emissions .
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello friend i will like to tell you', None, None, None, 0), ('that India', None, None, None, 0), ('to ratify Paris climate deal in October —', None, None, None, 0), ("India , one of the world 's largest greenhouse gas emitters , will ratify the Paris global climate agreement pact next month ,", None, None, None, 0), ('Prime Minister Narendra Modi has said .', None, None, None, 1), ('CO2 emissions are believed to be the driving force behind climate change .', None, None, None, 1), ("The Paris deal is the world 's first comprehensive climate agreement .", None, None, None, 1), ('It will only come into force legally', None, None, None, 0), ('after it is ratified by at least 55 countries ,', None, None, None, 0), ('which between them produce 55 % of global carbon emissions .', None, None, None, 1)]

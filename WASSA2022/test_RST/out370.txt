@@ -1,0 +1,21 @@
+=====================> [[('And I complain about the snowstorms and rain', None, None, None, 0), ('we get in the north east .', None, None, None, 1), ('It boggles my mind', None, None, None, 0), ('that there are actually seasons', None, None, None, 0), ('where things are more likely to catch fire in the south .', None, None, None, 1), ("It feels like fire should n't be a form of weather .", None, None, None, 1), ('I really know nothing about wild fires', None, None, None, 0), ("or how they 're contained .", None, None, None, 1), ('I tend to try to avoid negative news ,', None, None, None, 0), ("Though now I 'm embarrassed by my lack of knowledge .", None, None, None, 1)]]
+Leaf:  N Elaborate And I complain about the snowstorms and rain
+Leaf:  S span we get in the north east .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It boggles my mind
+Leaf:  N Elaborate that there are actually seasons
+Leaf:  S span where things are more likely to catch fire in the south .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It feels like fire should n't be a form of weather .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint I really know nothing about wild fires
+Leaf:  N Joint or how they 're contained .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast I tend to try to avoid negative news ,
+Leaf:  S span Though now I 'm embarrassed by my lack of knowledge .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('And I complain about the snowstorms and rain', None, None, None, 0), ('we get in the north east .', None, None, None, 1), ('It boggles my mind', None, None, None, 0), ('that there are actually seasons', None, None, None, 0), ('where things are more likely to catch fire in the south .', None, None, None, 1), ("It feels like fire should n't be a form of weather .", None, None, None, 1), ('I really know nothing about wild fires', None, None, None, 0), ("or how they 're contained .", None, None, None, 1), ('I tend to try to avoid negative news ,', None, None, None, 0), ("Though now I 'm embarrassed by my lack of knowledge .", None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('scientists have been studying the zika virus for some time now', None, None, None, 0), ("and still , do n't know much about it .", None, None, None, 1), ('it is a big threat to humans everywhere though .', None, None, None, 1), ('zika is mainly carried by mosquitos', None, None, None, 0), ('and contact with an infected mosquito will give you the virus .', None, None, None, 1), ('however , you can get it from having sex with someone', None, None, None, 0), ('that has the virus', None, None, None, 0), ('even if they are not showing symptoms yet .', None, None, None, 1), ('that is horrible .', None, None, None, 1)]]
+Leaf:  N Temporal scientists have been studying the zika virus for some time now
+Leaf:  N Temporal and still , do n't know much about it .
+Inner:  S span None Temporal NN
+Leaf:  N Evaluation it is a big threat to humans everywhere though .
+Inner:  N Explanation None Evaluation SN
+Leaf:  S span zika is mainly carried by mosquitos
+Leaf:  N Cause and contact with an infected mosquito will give you the virus .
+Inner:  N Contrast None Cause SN
+Leaf:  N Elaborate however , you can get it from having sex with someone
+Leaf:  S span that has the virus
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span even if they are not showing symptoms yet .
+Inner:  N Contrast None Contrast NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span that is horrible .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('scientists have been studying the zika virus for some time now', None, None, None, 0), ("and still , do n't know much about it .", None, None, None, 1), ('it is a big threat to humans everywhere though .', None, None, None, 1), ('zika is mainly carried by mosquitos', None, None, None, 0), ('and contact with an infected mosquito will give you the virus .', None, None, None, 1), ('however , you can get it from having sex with someone', None, None, None, 0), ('that has the virus', None, None, None, 0), ('even if they are not showing symptoms yet .', None, None, None, 1), ('that is horrible .', None, None, None, 1)]

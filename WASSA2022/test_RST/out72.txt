@@ -1,0 +1,25 @@
+=====================> [[('Few things are as stressful for me', None, None, None, 0), ('as thinking about global warming , not always so much', None, None, None, 0), ('because of how severe and imminent it is ,', None, None, None, 0), ("but largely because so many people do n't believe", None, None, None, 0), ("it 's actually happening .", None, None, None, 1), ('It seems as though the chances', None, None, None, 0), ('of getting anything done', None, None, None, 0), ('that will really help toward reversing the trend ,', None, None, None, 0), ('toward trying to restore the ecosystems and species', None, None, None, 0), ('that are already being affected ,', None, None, None, 0), ("when a large portion of the country does n't think", None, None, None, 0), ('any of it is real .', None, None, None, 1)]]
+Leaf:  N Comparison Few things are as stressful for me
+Leaf:  N Cause as thinking about global warming , not always so much
+Leaf:  S span because of how severe and imminent it is ,
+Inner:  N Same-Unit None Cause NS
+Leaf:  S span but largely because so many people do n't believe
+Leaf:  N Attribution it 's actually happening .
+Inner:  N Same-Unit None Attribution SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Elaborate It seems as though the chances
+Leaf:  N Elaborate of getting anything done
+Leaf:  N Joint that will really help toward reversing the trend ,
+Leaf:  N Elaborate toward trying to restore the ecosystems and species
+Leaf:  S span that are already being affected ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span when a large portion of the country does n't think
+Leaf:  N Attribution any of it is real .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('Few things are as stressful for me', None, None, None, 0), ('as thinking about global warming , not always so much', None, None, None, 0), ('because of how severe and imminent it is ,', None, None, None, 0), ("but largely because so many people do n't believe", None, None, None, 0), ("it 's actually happening .", None, None, None, 1), ('It seems as though the chances', None, None, None, 0), ('of getting anything done', None, None, None, 0), ('that will really help toward reversing the trend ,', None, None, None, 0), ('toward trying to restore the ecosystems and species', None, None, None, 0), ('that are already being affected ,', None, None, None, 0), ("when a large portion of the country does n't think", None, None, None, 0), ('any of it is real .', None, None, None, 1)]

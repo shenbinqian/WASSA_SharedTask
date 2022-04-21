@@ -1,0 +1,23 @@
+=====================> [[('Hey did you hear about this giant forest fire', None, None, None, 0), ('?', None, None, None, 1), ("It 's lighting up a huge section of Appalachia right now across a bunch of states .", None, None, None, 1), ("It 's so bad in Georgia", None, None, None, 0), ("they 're telling people to stay inside", None, None, None, 0), ('because the haze from the fires is bad for you', None, None, None, 0), ('to breathe in .', None, None, None, 1), ("I ca n't imagine how old some of those trees are", None, None, None, 0), ('and the fire is something like the size of Manhattan', None, None, None, 0), ("and it 's all just going to be gone .", None, None, None, 1), ("It 's such a devastating loss .", None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey did you hear about this giant forest fire
+Leaf:  N Textual-Organization ?
+Inner:  N Elaborate None Textual-Organization NN
+Leaf:  N Elaborate It 's lighting up a huge section of Appalachia right now across a bunch of states .
+Leaf:  S span It 's so bad in Georgia
+Leaf:  N Explanation they 're telling people to stay inside
+Leaf:  N Elaborate because the haze from the fires is bad for you
+Leaf:  S span to breathe in .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Explanation NS
+Inner:  N Joint None Explanation SN
+Leaf:  N Joint I ca n't imagine how old some of those trees are
+Leaf:  N Joint and the fire is something like the size of Manhattan
+Leaf:  N Joint and it 's all just going to be gone .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's such a devastating loss .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey did you hear about this giant forest fire', None, None, None, 0), ('?', None, None, None, 1), ("It 's lighting up a huge section of Appalachia right now across a bunch of states .", None, None, None, 1), ("It 's so bad in Georgia", None, None, None, 0), ("they 're telling people to stay inside", None, None, None, 0), ('because the haze from the fires is bad for you', None, None, None, 0), ('to breathe in .', None, None, None, 1), ("I ca n't imagine how old some of those trees are", None, None, None, 0), ('and the fire is something like the size of Manhattan', None, None, None, 0), ("and it 's all just going to be gone .", None, None, None, 1), ("It 's such a devastating loss .", None, None, None, 1)]

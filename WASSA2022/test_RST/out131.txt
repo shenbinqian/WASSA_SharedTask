@@ -1,0 +1,27 @@
+=====================> [[('Hey man , I just read this article about smokers and cancer and stuff', None, None, None, 0), ('and I think', None, None, None, 0), ('you should have a look .', None, None, None, 1), ('I know', None, None, None, 0), ('you like to smoke', None, None, None, 0), ('but I think', None, None, None, 0), ('you should try to cut back a bit .', None, None, None, 1), ("I do n't want you to end up with cancer man .", None, None, None, 1), ('The risk is really high', None, None, None, 0), ('and I care about you dude .', None, None, None, 1), ('I think', None, None, None, 0), ("we 're too young", None, None, None, 0), ('to have to start worrying about cancer and death and stuff man .', None, None, None, 1)]]
+Leaf:  N Evaluation Hey man , I just read this article about smokers and cancer and stuff
+Leaf:  S span and I think
+Leaf:  N Attribution you should have a look .
+Inner:  N Evaluation None Attribution SN
+Inner:  N Elaborate None Evaluation NN
+Leaf:  S span I know
+Leaf:  N Attribution you like to smoke
+Inner:  S span None Attribution SN
+Leaf:  S span but I think
+Leaf:  N Attribution you should try to cut back a bit .
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  N Explanation I do n't want you to end up with cancer man .
+Leaf:  N Joint The risk is really high
+Leaf:  N Joint and I care about you dude .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I think
+Leaf:  N Elaborate we 're too young
+Leaf:  S span to have to start worrying about cancer and death and stuff man .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Hey man , I just read this article about smokers and cancer and stuff', None, None, None, 0), ('and I think', None, None, None, 0), ('you should have a look .', None, None, None, 1), ('I know', None, None, None, 0), ('you like to smoke', None, None, None, 0), ('but I think', None, None, None, 0), ('you should try to cut back a bit .', None, None, None, 1), ("I do n't want you to end up with cancer man .", None, None, None, 1), ('The risk is really high', None, None, None, 0), ('and I care about you dude .', None, None, None, 1), ('I think', None, None, None, 0), ("we 're too young", None, None, None, 0), ('to have to start worrying about cancer and death and stuff man .', None, None, None, 1)]

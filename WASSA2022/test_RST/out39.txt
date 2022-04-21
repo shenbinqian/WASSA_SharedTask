@@ -1,0 +1,21 @@
+=====================> [[('This is so sad .', None, None, None, 1), ('This woman tried to get help for depression', None, None, None, 0), ("and could n't get what she needed .", None, None, None, 1), ("I ca n't imagine the pain", None, None, None, 0), ('that she must have felt .', None, None, None, 1), ('Also her family must be really upset', None, None, None, 0), ('that they could still have her', None, None, None, 0), ('if she had just gotten the help', None, None, None, 0), ('that she had sought .', None, None, None, 1), ('No one should have to go through this with the medical system . So sad .', None, None, None, 1)]]
+Leaf:  N Elaborate This is so sad .
+Leaf:  N Temporal This woman tried to get help for depression
+Leaf:  N Temporal and could n't get what she needed .
+Inner:  N Summary None Temporal NN
+Leaf:  N Elaborate I ca n't imagine the pain
+Leaf:  S span that she must have felt .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span Also her family must be really upset
+Leaf:  N Condition that they could still have her
+Leaf:  N Elaborate if she had just gotten the help
+Leaf:  S span that she had sought .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span No one should have to go through this with the medical system . So sad .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is so sad .', None, None, None, 1), ('This woman tried to get help for depression', None, None, None, 0), ("and could n't get what she needed .", None, None, None, 1), ("I ca n't imagine the pain", None, None, None, 0), ('that she must have felt .', None, None, None, 1), ('Also her family must be really upset', None, None, None, 0), ('that they could still have her', None, None, None, 0), ('if she had just gotten the help', None, None, None, 0), ('that she had sought .', None, None, None, 1), ('No one should have to go through this with the medical system . So sad .', None, None, None, 1)]

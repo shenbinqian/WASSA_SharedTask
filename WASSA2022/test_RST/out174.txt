@@ -1,0 +1,19 @@
+=====================> [[('We think', None, None, None, 0), ("it 's awful that so many in South America have to deal with Zika .", None, None, None, 1), ('I have a friend in Venezuela', None, None, None, 0), ('who lost a brother', None, None, None, 0), ("and almost died himself . But I do n't hear a lot of talk", None, None, None, 0), ('about how the temps in the US are at record highs .', None, None, None, 1), ("IF we do n't get Zika under control", None, None, None, 0), ("we 'll be seeing far more transmissions in the US , especially in the South", None, None, None, 0), ('where we live .', None, None, None, 1)]]
+Leaf:  S span We think
+Leaf:  N Attribution it 's awful that so many in South America have to deal with Zika .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I have a friend in Venezuela
+Leaf:  N Joint who lost a brother
+Leaf:  N Elaborate and almost died himself . But I do n't hear a lot of talk
+Leaf:  S span about how the temps in the US are at record highs .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span IF we do n't get Zika under control
+Leaf:  N Elaborate we 'll be seeing far more transmissions in the US , especially in the South
+Leaf:  S span where we live .
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('We think', None, None, None, 0), ("it 's awful that so many in South America have to deal with Zika .", None, None, None, 1), ('I have a friend in Venezuela', None, None, None, 0), ('who lost a brother', None, None, None, 0), ("and almost died himself . But I do n't hear a lot of talk", None, None, None, 0), ('about how the temps in the US are at record highs .', None, None, None, 1), ("IF we do n't get Zika under control", None, None, None, 0), ("we 'll be seeing far more transmissions in the US , especially in the South", None, None, None, 0), ('where we live .', None, None, None, 1)]

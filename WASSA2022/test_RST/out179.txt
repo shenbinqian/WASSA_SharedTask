@@ -1,0 +1,33 @@
+=====================> [[('This article is crazy .', None, None, None, 1), ('A man ,', None, None, None, 0), ('disturbed by his declined card ,', None, None, None, 0), ('returned', None, None, None, 0), ('and shot up a Starbucks ? Another reaffirmation of the fact', None, None, None, 0), ('that we as a country need to place more of an emphasis on mental health programs .', None, None, None, 1), ('Most of the people', None, None, None, 0), ('who perform these types of acts have shown signs', None, None, None, 0), ('of being disturbed', None, None, None, 0), ('long before they commit dangerous acts .', None, None, None, 1), ('We are failing people .', None, None, None, 1), ('I feel sorry for the hispanic male', None, None, None, 0), ('that was the initial subject', None, None, None, 0), ('for having to go through that trouble', None, None, None, 0), ('but I am glad', None, None, None, 0), ('that the police follow up with tips in the interest of public safety .', None, None, None, 1)]]
+Leaf:  N Summary This article is crazy .
+Leaf:  N Elaborate A man ,
+Leaf:  S span disturbed by his declined card ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit returned
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and shot up a Starbucks ? Another reaffirmation of the fact
+Leaf:  S span that we as a country need to place more of an emphasis on mental health programs .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Most of the people
+Leaf:  N Elaborate who perform these types of acts have shown signs
+Leaf:  S span of being disturbed
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span long before they commit dangerous acts .
+Inner:  S span None Attribution NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span We are failing people .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Elaborate I feel sorry for the hispanic male
+Leaf:  S span that was the initial subject
+Inner:  N Cause None Elaborate NS
+Leaf:  S span for having to go through that trouble
+Inner:  S span None Cause NS
+Leaf:  S span but I am glad
+Leaf:  N Attribution that the police follow up with tips in the interest of public safety .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('This article is crazy .', None, None, None, 1), ('A man ,', None, None, None, 0), ('disturbed by his declined card ,', None, None, None, 0), ('returned', None, None, None, 0), ('and shot up a Starbucks ? Another reaffirmation of the fact', None, None, None, 0), ('that we as a country need to place more of an emphasis on mental health programs .', None, None, None, 1), ('Most of the people', None, None, None, 0), ('who perform these types of acts have shown signs', None, None, None, 0), ('of being disturbed', None, None, None, 0), ('long before they commit dangerous acts .', None, None, None, 1), ('We are failing people .', None, None, None, 1), ('I feel sorry for the hispanic male', None, None, None, 0), ('that was the initial subject', None, None, None, 0), ('for having to go through that trouble', None, None, None, 0), ('but I am glad', None, None, None, 0), ('that the police follow up with tips in the interest of public safety .', None, None, None, 1)]

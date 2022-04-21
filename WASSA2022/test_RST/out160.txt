@@ -1,0 +1,21 @@
+=====================> [[('As someone', None, None, None, 0), ('diagnosed with PTSD , please give this article a read .', None, None, None, 1), ('I believe', None, None, None, 0), ('this illness is often incorrectly stigmatized and misunderstood ,', None, None, None, 0), ('and this article does an excellent job', None, None, None, 0), ('at getting others to understand a glimpse', None, None, None, 0), ('of what the illness is like for war veterans .', None, None, None, 1), ('Though I think', None, None, None, 0), ('this article should have also articulated what PTSD is like for non-war survivors ,', None, None, None, 0), ('this article still does a thorough job at educating others .', None, None, None, 1)]]
+Leaf:  N Elaborate As someone
+Leaf:  S span diagnosed with PTSD , please give this article a read .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I believe
+Leaf:  N Attribution this illness is often incorrectly stigmatized and misunderstood ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and this article does an excellent job
+Leaf:  N Elaborate at getting others to understand a glimpse
+Leaf:  S span of what the illness is like for war veterans .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Though I think
+Leaf:  N Attribution this article should have also articulated what PTSD is like for non-war survivors ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast this article still does a thorough job at educating others .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('As someone', None, None, None, 0), ('diagnosed with PTSD , please give this article a read .', None, None, None, 1), ('I believe', None, None, None, 0), ('this illness is often incorrectly stigmatized and misunderstood ,', None, None, None, 0), ('and this article does an excellent job', None, None, None, 0), ('at getting others to understand a glimpse', None, None, None, 0), ('of what the illness is like for war veterans .', None, None, None, 1), ('Though I think', None, None, None, 0), ('this article should have also articulated what PTSD is like for non-war survivors ,', None, None, None, 0), ('this article still does a thorough job at educating others .', None, None, None, 1)]

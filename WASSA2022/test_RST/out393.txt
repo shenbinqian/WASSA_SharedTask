@@ -1,0 +1,25 @@
+=====================> [[('I feel so bad for the people', None, None, None, 0), ('that died .', None, None, None, 1), ('You know I love Paris ,', None, None, None, 0), ('and I have family there .', None, None, None, 1), ('You know', None, None, None, 0), ('my grandmother was born', None, None, None, 0), ('and lived her life there .', None, None, None, 1), ('I have a personal tie to the city .', None, None, None, 1), ("It sounds as if Sting 's performance was welcomed ,", None, None, None, 0), ('but I am equally happy', None, None, None, 0), ('that the Eagles of Death Metal leader was denied entry .', None, None, None, 1), ('What a bigoted assumption for him to make .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel so bad for the people
+Leaf:  S span that died .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint You know I love Paris ,
+Leaf:  N Joint and I have family there .
+Inner:  N Joint None Joint NN
+Leaf:  S span You know
+Leaf:  N Joint my grandmother was born
+Leaf:  N Joint and lived her life there .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I have a personal tie to the city .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Contrast It sounds as if Sting 's performance was welcomed ,
+Leaf:  S span but I am equally happy
+Leaf:  N Attribution that the Eagles of Death Metal leader was denied entry .
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span What a bigoted assumption for him to make .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I feel so bad for the people', None, None, None, 0), ('that died .', None, None, None, 1), ('You know I love Paris ,', None, None, None, 0), ('and I have family there .', None, None, None, 1), ('You know', None, None, None, 0), ('my grandmother was born', None, None, None, 0), ('and lived her life there .', None, None, None, 1), ('I have a personal tie to the city .', None, None, None, 1), ("It sounds as if Sting 's performance was welcomed ,", None, None, None, 0), ('but I am equally happy', None, None, None, 0), ('that the Eagles of Death Metal leader was denied entry .', None, None, None, 1), ('What a bigoted assumption for him to make .', None, None, None, 1)]

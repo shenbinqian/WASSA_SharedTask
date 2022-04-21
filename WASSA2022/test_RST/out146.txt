@@ -1,0 +1,27 @@
+=====================> [[('Angelina Jolie is weird .', None, None, None, 1), ('I think', None, None, None, 0), ('she is attracted to men', None, None, None, 0), ('who are like wounded birds .', None, None, None, 1), ('I do not know', None, None, None, 0), ('what was wrong with Brad Pitt ,', None, None, None, 0), ('but I am pretty sure he had some kind of problem', None, None, None, 0), ('that', None, None, None, 0), ('she thought', None, None, None, 0), ('she could fix .', None, None, None, 1), ('I could not care less about the personal lives of most people in entertainment .', None, None, None, 1), ('I feel', None, None, None, 0), ('people pay way too much attention to these people .', None, None, None, 1)]]
+Leaf:  N Explanation Angelina Jolie is weird .
+Leaf:  S span I think
+Leaf:  N Elaborate she is attracted to men
+Leaf:  S span who are like wounded birds .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I do not know
+Leaf:  N Attribution what was wrong with Brad Pitt ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but I am pretty sure he had some kind of problem
+Leaf:  N Attribution that
+Leaf:  S span she thought
+Leaf:  N Attribution she could fix .
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation I could not care less about the personal lives of most people in entertainment .
+Leaf:  S span I feel
+Leaf:  N Attribution people pay way too much attention to these people .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Angelina Jolie is weird .', None, None, None, 1), ('I think', None, None, None, 0), ('she is attracted to men', None, None, None, 0), ('who are like wounded birds .', None, None, None, 1), ('I do not know', None, None, None, 0), ('what was wrong with Brad Pitt ,', None, None, None, 0), ('but I am pretty sure he had some kind of problem', None, None, None, 0), ('that', None, None, None, 0), ('she thought', None, None, None, 0), ('she could fix .', None, None, None, 1), ('I could not care less about the personal lives of most people in entertainment .', None, None, None, 1), ('I feel', None, None, None, 0), ('people pay way too much attention to these people .', None, None, None, 1)]

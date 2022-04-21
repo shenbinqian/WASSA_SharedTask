@@ -1,0 +1,23 @@
+=====================> [[('i thought', None, None, None, 0), ('the author did a very good job', None, None, None, 0), ('describing the artist and the influences .', None, None, None, 1), ('I am not really a musical person', None, None, None, 0), ('but I do love music .', None, None, None, 1), ('I tried to imagine myself as being influenced by a musical artist', None, None, None, 0), ('but it is a bit difficult .', None, None, None, 1), ('i transferred it into poetry', None, None, None, 0), ('and had an easier time .', None, None, None, 1), ('I am a poet ,', None, None, None, 0), ('although I did once dream of being a music writer .', None, None, None, 1)]]
+Leaf:  S span i thought
+Leaf:  N Elaborate the author did a very good job
+Leaf:  S span describing the artist and the influences .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I am not really a musical person
+Leaf:  N Contrast but I do love music .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I tried to imagine myself as being influenced by a musical artist
+Leaf:  N Contrast but it is a bit difficult .
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Joint i transferred it into poetry
+Leaf:  N Joint and had an easier time .
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Contrast I am a poet ,
+Leaf:  S span although I did once dream of being a music writer .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('i thought', None, None, None, 0), ('the author did a very good job', None, None, None, 0), ('describing the artist and the influences .', None, None, None, 1), ('I am not really a musical person', None, None, None, 0), ('but I do love music .', None, None, None, 1), ('I tried to imagine myself as being influenced by a musical artist', None, None, None, 0), ('but it is a bit difficult .', None, None, None, 1), ('i transferred it into poetry', None, None, None, 0), ('and had an easier time .', None, None, None, 1), ('I am a poet ,', None, None, None, 0), ('although I did once dream of being a music writer .', None, None, None, 1)]

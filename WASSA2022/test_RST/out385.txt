@@ -1,0 +1,25 @@
+=====================> [[('This is so very sad to me .', None, None, None, 1), ('It is hard to see how a country could outlaw a primitive natural way of life .', None, None, None, 1), ('It is who these people are', None, None, None, 0), ('who is to say', None, None, None, 0), ("it 's right or wrong everyone is different .", None, None, None, 1), ('Going to jail or punishing people for that is not going to do anything', None, None, None, 0), ('but make them want to be more prideful of it .', None, None, None, 1), ('I dont think', None, None, None, 0), ('it does any hurt to the country', None, None, None, 0), ('and is such an old way', None, None, None, 0), ('of thinking', None, None, None, 0), ('it is crazy that in this day and age these laws still exist !', None, None, None, 1)]]
+Leaf:  N Explanation This is so very sad to me .
+Leaf:  S span It is hard to see how a country could outlaw a primitive natural way of life .
+Inner:  N Explanation None Explanation NS
+Leaf:  N Elaborate It is who these people are
+Leaf:  S span who is to say
+Leaf:  N Attribution it 's right or wrong everyone is different .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast Going to jail or punishing people for that is not going to do anything
+Leaf:  N Contrast but make them want to be more prideful of it .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I dont think
+Leaf:  N Attribution it does any hurt to the country
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and is such an old way
+Leaf:  S span of thinking
+Leaf:  N Attribution it is crazy that in this day and age these laws still exist !
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This is so very sad to me .', None, None, None, 1), ('It is hard to see how a country could outlaw a primitive natural way of life .', None, None, None, 1), ('It is who these people are', None, None, None, 0), ('who is to say', None, None, None, 0), ("it 's right or wrong everyone is different .", None, None, None, 1), ('Going to jail or punishing people for that is not going to do anything', None, None, None, 0), ('but make them want to be more prideful of it .', None, None, None, 1), ('I dont think', None, None, None, 0), ('it does any hurt to the country', None, None, None, 0), ('and is such an old way', None, None, None, 0), ('of thinking', None, None, None, 0), ('it is crazy that in this day and age these laws still exist !', None, None, None, 1)]

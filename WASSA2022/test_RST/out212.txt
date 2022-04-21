@@ -1,0 +1,17 @@
+=====================> [[('Remember watching black and white television and the people', None, None, None, 0), ('that always made the " Lassie " jokes .', None, None, None, 1), ('Boy stuck in the well ,', None, None, None, 0), ('and the family is unresponsive .', None, None, None, 1), ("Does this play a role today ? Really ? I do n't think so ,", None, None, None, 0), ('but it is amazing to see such stories of groups of people rescuing people in danger ,', None, None, None, 0), ('even though you never see anything like that', None, None, None, 0), ("unless it 's on the news or the internet .", None, None, None, 1)]]
+Leaf:  N Elaborate Remember watching black and white television and the people
+Leaf:  S span that always made the " Lassie " jokes .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Boy stuck in the well ,
+Leaf:  N Joint and the family is unresponsive .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Does this play a role today ? Really ? I do n't think so ,
+Leaf:  N Contrast but it is amazing to see such stories of groups of people rescuing people in danger ,
+Leaf:  N Condition even though you never see anything like that
+Leaf:  S span unless it 's on the news or the internet .
+Inner:  S span None Condition NS
+Inner:  N Contrast None Contrast NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Remember watching black and white television and the people', None, None, None, 0), ('that always made the " Lassie " jokes .', None, None, None, 1), ('Boy stuck in the well ,', None, None, None, 0), ('and the family is unresponsive .', None, None, None, 1), ("Does this play a role today ? Really ? I do n't think so ,", None, None, None, 0), ('but it is amazing to see such stories of groups of people rescuing people in danger ,', None, None, None, 0), ('even though you never see anything like that', None, None, None, 0), ("unless it 's on the news or the internet .", None, None, None, 1)]

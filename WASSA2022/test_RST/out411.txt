@@ -1,0 +1,47 @@
+=====================> [[('Hey Ariel , did you read the article about RHONY Julie ?', None, None, None, 1), ('If you did ,', None, None, None, 0), ('you will see Michael and Schafer were involved .', None, None, None, 1), ('Michael rented it from Schafer .', None, None, None, 1), ('It was a phenomenal rental price', None, None, None, 0), ('- more than $ 20,000 . Can you imagine ? Anyone , they both are in a terrible disagreement and lawsuit .', None, None, None, 1), ('The leasee is stating', None, None, None, 0), ('there are many problems with the apartment', None, None, None, 0), ('that were never corrected by the lessor .', None, None, None, 1), ('The owner of the apartment is claiming the now tenant', None, None, None, 0), ('making up items', None, None, None, 0), ('in order to cause breach of contract .', None, None, None, 1), ('He has no grounds', None, None, None, 0), ('to do that', None, None, None, 0), ('with so each are suing each other .', None, None, None, 1), ('It will be interesting to see how this is resolved .', None, None, None, 1), ("It 's alarming how much litigation", None, None, None, 0), ('we now face', None, None, None, 0), ('instead of just sitting down like grownups', None, None, None, 0), ('and deciding', None, None, None, 0), ('how we can reach a conclusion', None, None, None, 0), ('that is fair to both parties .', None, None, None, 1), ('Very sa', None, None, None, 0)]]
+Leaf:  N Topic-Comment Hey Ariel , did you read the article about RHONY Julie ?
+Leaf:  S span If you did ,
+Leaf:  N Condition you will see Michael and Schafer were involved .
+Inner:  N Elaborate None Condition SN
+Leaf:  N Elaborate Michael rented it from Schafer .
+Leaf:  N Elaborate It was a phenomenal rental price
+Leaf:  S span - more than $ 20,000 . Can you imagine ? Anyone , they both are in a terrible disagreement and lawsuit .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The leasee is stating
+Leaf:  N Elaborate there are many problems with the apartment
+Leaf:  S span that were never corrected by the lessor .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The owner of the apartment is claiming the now tenant
+Leaf:  N Enablement making up items
+Leaf:  S span in order to cause breach of contract .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate He has no grounds
+Leaf:  S span to do that
+Inner:  S span None Elaborate NS
+Leaf:  N Cause with so each are suing each other .
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It will be interesting to see how this is resolved .
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Elaborate It 's alarming how much litigation
+Leaf:  S span we now face
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Joint instead of just sitting down like grownups
+Leaf:  S span and deciding
+Leaf:  N Elaborate how we can reach a conclusion
+Leaf:  S span that is fair to both parties .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Very sa
+Inner:  Root None None Evaluation NS
+[('Hey Ariel , did you read the article about RHONY Julie ?', None, None, None, 1), ('If you did ,', None, None, None, 0), ('you will see Michael and Schafer were involved .', None, None, None, 1), ('Michael rented it from Schafer .', None, None, None, 1), ('It was a phenomenal rental price', None, None, None, 0), ('- more than $ 20,000 . Can you imagine ? Anyone , they both are in a terrible disagreement and lawsuit .', None, None, None, 1), ('The leasee is stating', None, None, None, 0), ('there are many problems with the apartment', None, None, None, 0), ('that were never corrected by the lessor .', None, None, None, 1), ('The owner of the apartment is claiming the now tenant', None, None, None, 0), ('making up items', None, None, None, 0), ('in order to cause breach of contract .', None, None, None, 1), ('He has no grounds', None, None, None, 0), ('to do that', None, None, None, 0), ('with so each are suing each other .', None, None, None, 1), ('It will be interesting to see how this is resolved .', None, None, None, 1), ("It 's alarming how much litigation", None, None, None, 0), ('we now face', None, None, None, 0), ('instead of just sitting down like grownups', None, None, None, 0), ('and deciding', None, None, None, 0), ('how we can reach a conclusion', None, None, None, 0), ('that is fair to both parties .', None, None, None, 1), ('Very sa', None, None, None, 0)]

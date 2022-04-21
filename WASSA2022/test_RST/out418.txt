@@ -1,0 +1,31 @@
+=====================> [[('Stories', None, None, None, 0), ('like these always make me think about people', None, None, None, 0), ('I know', None, None, None, 0), ('who have fought cancer .', None, None, None, 1), ("I do n't really follow the movies of Val Kilmer or Michael Douglas ,", None, None, None, 0), ('but I admire them', None, None, None, 0), ('for having the strength', None, None, None, 0), ('to fight their diseases .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('their money also helps ,', None, None, None, 0), ('which is and advantage', None, None, None, 0), ("a lot of people less fortunate do n't have .", None, None, None, 1), ('I wish', None, None, None, 0), ("money was n't a factor", None, None, None, 0), ('when it came to fighting illness .', None, None, None, 1)]]
+Leaf:  N Elaborate Stories
+Leaf:  N Elaborate like these always make me think about people
+Leaf:  S span I know
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span who have fought cancer .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't really follow the movies of Val Kilmer or Michael Douglas ,
+Leaf:  N Explanation but I admire them
+Leaf:  N Elaborate for having the strength
+Leaf:  S span to fight their diseases .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Explanation NS
+Inner:  N Joint None Contrast SN
+Leaf:  S span I 'm sure
+Leaf:  N Evaluation their money also helps ,
+Leaf:  N Elaborate which is and advantage
+Leaf:  S span a lot of people less fortunate do n't have .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Evaluation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I wish
+Leaf:  N Background money was n't a factor
+Leaf:  S span when it came to fighting illness .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Stories', None, None, None, 0), ('like these always make me think about people', None, None, None, 0), ('I know', None, None, None, 0), ('who have fought cancer .', None, None, None, 1), ("I do n't really follow the movies of Val Kilmer or Michael Douglas ,", None, None, None, 0), ('but I admire them', None, None, None, 0), ('for having the strength', None, None, None, 0), ('to fight their diseases .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('their money also helps ,', None, None, None, 0), ('which is and advantage', None, None, None, 0), ("a lot of people less fortunate do n't have .", None, None, None, 1), ('I wish', None, None, None, 0), ("money was n't a factor", None, None, None, 0), ('when it came to fighting illness .', None, None, None, 1)]

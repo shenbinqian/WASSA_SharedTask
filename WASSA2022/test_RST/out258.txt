@@ -1,0 +1,31 @@
+=====================> [[('This is very disturbing', None, None, None, 0), ('and needs to be more common knowledge .', None, None, None, 1), ("Many do n't know of or are n't aware of the atrocities", None, None, None, 0), ('that are taking place .', None, None, None, 1), ("I 'm currently reading a book The Last Girl", None, None, None, 0), ('that goes along with this ,', None, None, None, 0), ('as she was kidnapped , raped , and tortured by ISIS', None, None, None, 0), ("and I 'm shocked by how much was going on ,", None, None, None, 0), ('and how much', None, None, None, 0), ('that I ( someone', None, None, None, 0), ('who follows the news closely )', None, None, None, 0), ('did not know . We are very sheltered in our lives , especially in terms of security ,', None, None, None, 0), ('and need to really dig deep', None, None, None, 0), ('to find out the truth', None, None, None, 0), ('of what is happening out there .', None, None, None, 1)]]
+Leaf:  N Joint This is very disturbing
+Leaf:  N Joint and needs to be more common knowledge .
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Many do n't know of or are n't aware of the atrocities
+Leaf:  S span that are taking place .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I 'm currently reading a book The Last Girl
+Leaf:  N Background that goes along with this ,
+Leaf:  S span as she was kidnapped , raped , and tortured by ISIS
+Inner:  S span None Background NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint and I 'm shocked by how much was going on ,
+Leaf:  N Elaborate and how much
+Leaf:  N Elaborate that I ( someone
+Leaf:  S span who follows the news closely )
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit did not know . We are very sheltered in our lives , especially in terms of security ,
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Leaf:  N Enablement and need to really dig deep
+Leaf:  N Elaborate to find out the truth
+Leaf:  S span of what is happening out there .
+Inner:  S span None Elaborate NS
+Inner:  N Comparison None Enablement NS
+Inner:  N Same-Unit None Comparison SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This is very disturbing', None, None, None, 0), ('and needs to be more common knowledge .', None, None, None, 1), ("Many do n't know of or are n't aware of the atrocities", None, None, None, 0), ('that are taking place .', None, None, None, 1), ("I 'm currently reading a book The Last Girl", None, None, None, 0), ('that goes along with this ,', None, None, None, 0), ('as she was kidnapped , raped , and tortured by ISIS', None, None, None, 0), ("and I 'm shocked by how much was going on ,", None, None, None, 0), ('and how much', None, None, None, 0), ('that I ( someone', None, None, None, 0), ('who follows the news closely )', None, None, None, 0), ('did not know . We are very sheltered in our lives , especially in terms of security ,', None, None, None, 0), ('and need to really dig deep', None, None, None, 0), ('to find out the truth', None, None, None, 0), ('of what is happening out there .', None, None, None, 1)]

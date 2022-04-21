@@ -1,0 +1,21 @@
+=====================> [[('This is absolutely terrible !!', None, None, None, 1), ('The mother should sue the building management AND the elevator maintenance company .', None, None, None, 1), ("I 've never lived in a building with an elevator", None, None, None, 0), ('except at college', None, None, None, 0), ("and I 'm not sure", None, None, None, 0), ('how normal it is to have these issues .', None, None, None, 1), ("It 's crazy that a resident had been struck by an elevator in the past though .", None, None, None, 1), ("The building management is 100 % liable and should n't be able to rent buildings anymore", None, None, None, 0), ('as there was no warning', None, None, None, 0), ('that the elevator was out of service .', None, None, None, 1)]]
+Leaf:  N Cause This is absolutely terrible !!
+Leaf:  S span The mother should sue the building management AND the elevator maintenance company .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I 've never lived in a building with an elevator
+Leaf:  N Temporal except at college
+Inner:  N Joint None Temporal SN
+Leaf:  S span and I 'm not sure
+Leaf:  N Attribution how normal it is to have these issues .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It 's crazy that a resident had been struck by an elevator in the past though .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background The building management is 100 % liable and should n't be able to rent buildings anymore
+Leaf:  N Elaborate as there was no warning
+Leaf:  S span that the elevator was out of service .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is absolutely terrible !!', None, None, None, 1), ('The mother should sue the building management AND the elevator maintenance company .', None, None, None, 1), ("I 've never lived in a building with an elevator", None, None, None, 0), ('except at college', None, None, None, 0), ("and I 'm not sure", None, None, None, 0), ('how normal it is to have these issues .', None, None, None, 1), ("It 's crazy that a resident had been struck by an elevator in the past though .", None, None, None, 1), ("The building management is 100 % liable and should n't be able to rent buildings anymore", None, None, None, 0), ('as there was no warning', None, None, None, 0), ('that the elevator was out of service .', None, None, None, 1)]

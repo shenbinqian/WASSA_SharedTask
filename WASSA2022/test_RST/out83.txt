@@ -1,0 +1,33 @@
+=====================> [[('I feel', None, None, None, 0), ('that Zika is still a threat to many', None, None, None, 0), ('and I feel', None, None, None, 0), ("that it 's a shame that the need for vaccinations abate 's after such a short time .", None, None, None, 1), ('There is no way', None, None, None, 0), ('of telling', None, None, None, 0), ('when these diseases can strike again', None, None, None, 0), ('and more people will be harmed .', None, None, None, 1), ('I believe', None, None, None, 0), ("it 's up to the government to mandate", None, None, None, 0), ('that we have vaccinations on hand .', None, None, None, 1), ('And that should also go for the West Nile Virus and other strains of disease', None, None, None, 0), ('that have affected people worldwide .', None, None, None, 1), ("It 's better that we are prepared to help not just our own citizens , but people all across the globe .", None, None, None, 1), ('We are the richest country in the world', None, None, None, 0), ('and I expect more from us in this regard .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution that Zika is still a threat to many
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I feel
+Leaf:  N Attribution that it 's a shame that the need for vaccinations abate 's after such a short time .
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate There is no way
+Leaf:  S span of telling
+Leaf:  N Cause when these diseases can strike again
+Leaf:  S span and more people will be harmed .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span I believe
+Leaf:  S span it 's up to the government to mandate
+Leaf:  N Attribution that we have vaccinations on hand .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate And that should also go for the West Nile Virus and other strains of disease
+Leaf:  S span that have affected people worldwide .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's better that we are prepared to help not just our own citizens , but people all across the globe .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint We are the richest country in the world
+Leaf:  N Joint and I expect more from us in this regard .
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('I feel', None, None, None, 0), ('that Zika is still a threat to many', None, None, None, 0), ('and I feel', None, None, None, 0), ("that it 's a shame that the need for vaccinations abate 's after such a short time .", None, None, None, 1), ('There is no way', None, None, None, 0), ('of telling', None, None, None, 0), ('when these diseases can strike again', None, None, None, 0), ('and more people will be harmed .', None, None, None, 1), ('I believe', None, None, None, 0), ("it 's up to the government to mandate", None, None, None, 0), ('that we have vaccinations on hand .', None, None, None, 1), ('And that should also go for the West Nile Virus and other strains of disease', None, None, None, 0), ('that have affected people worldwide .', None, None, None, 1), ("It 's better that we are prepared to help not just our own citizens , but people all across the globe .", None, None, None, 1), ('We are the richest country in the world', None, None, None, 0), ('and I expect more from us in this regard .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Why do we live in such a messed up world ?', None, None, None, 1), ('Why is it that people fleeing for their lives are denied access to countries', None, None, None, 0), ('where they would be safe from harm .', None, None, None, 1), ('If someone is literally fleeing for their life ,', None, None, None, 0), ('then something must be done .', None, None, None, 1), ('Why do we stand by idly', None, None, None, 0), ('and allow such atrocities to take place in the first place ?', None, None, None, 1), ('Why does it all have to get so bad', None, None, None, 0), ('before anyone gets involved ?', None, None, None, 1), ('We are all humans ,', None, None, None, 0), ("our lives are worth just as much as everyone else 's ,", None, None, None, 0), ('why do we allow some to suffer so much ?', None, None, None, 1)]]
+Leaf:  N Joint Why do we live in such a messed up world ?
+Leaf:  N Elaborate Why is it that people fleeing for their lives are denied access to countries
+Leaf:  S span where they would be safe from harm .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span If someone is literally fleeing for their life ,
+Leaf:  N Condition then something must be done .
+Inner:  S span None Condition SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Why do we stand by idly
+Leaf:  N Joint and allow such atrocities to take place in the first place ?
+Inner:  N Joint None Joint NN
+Leaf:  S span Why does it all have to get so bad
+Leaf:  N Condition before anyone gets involved ?
+Inner:  N Joint None Condition SN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint We are all humans ,
+Leaf:  N Joint our lives are worth just as much as everyone else 's ,
+Inner:  S span None Joint NN
+Leaf:  N Cause why do we allow some to suffer so much ?
+Inner:  N Joint None Cause SN
+Inner:  Root None None Joint NN
+[('Why do we live in such a messed up world ?', None, None, None, 1), ('Why is it that people fleeing for their lives are denied access to countries', None, None, None, 0), ('where they would be safe from harm .', None, None, None, 1), ('If someone is literally fleeing for their life ,', None, None, None, 0), ('then something must be done .', None, None, None, 1), ('Why do we stand by idly', None, None, None, 0), ('and allow such atrocities to take place in the first place ?', None, None, None, 1), ('Why does it all have to get so bad', None, None, None, 0), ('before anyone gets involved ?', None, None, None, 1), ('We are all humans ,', None, None, None, 0), ("our lives are worth just as much as everyone else 's ,", None, None, None, 0), ('why do we allow some to suffer so much ?', None, None, None, 1)]

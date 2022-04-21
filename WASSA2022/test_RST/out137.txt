@@ -1,0 +1,23 @@
+=====================> [[('To me , this is a non story .', None, None, None, 1), ('A poorly performing comic series was shut down .', None, None, None, 1), ('Also ,', None, None, None, 0), ("if you 're going to make your content political ,", None, None, None, 0), ('wearing feminist shirts ,', None, None, None, 0), ('expect political backlash .', None, None, None, 1), ("I do n't consider myself a feminist ,", None, None, None, 0), ("but I 'm in favor of equal rights across the board .", None, None, None, 1), ('This however , is just a typical story of a struggling entity ,', None, None, None, 0), ('that is trying to put blame', None, None, None, 0), ("where it is n't .", None, None, None, 1)]]
+Leaf:  N Joint To me , this is a non story .
+Leaf:  N Joint A poorly performing comic series was shut down .
+Inner:  N Joint None Joint NN
+Leaf:  N Same-Unit Also ,
+Leaf:  N Manner-Means if you 're going to make your content political ,
+Leaf:  S span wearing feminist shirts ,
+Inner:  S span None Manner-Means NS
+Leaf:  N Condition expect political backlash .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't consider myself a feminist ,
+Leaf:  N Contrast but I 'm in favor of equal rights across the board .
+Inner:  S span None Contrast SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate This however , is just a typical story of a struggling entity ,
+Leaf:  N Elaborate that is trying to put blame
+Leaf:  S span where it is n't .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('To me , this is a non story .', None, None, None, 1), ('A poorly performing comic series was shut down .', None, None, None, 1), ('Also ,', None, None, None, 0), ("if you 're going to make your content political ,", None, None, None, 0), ('wearing feminist shirts ,', None, None, None, 0), ('expect political backlash .', None, None, None, 1), ("I do n't consider myself a feminist ,", None, None, None, 0), ("but I 'm in favor of equal rights across the board .", None, None, None, 1), ('This however , is just a typical story of a struggling entity ,', None, None, None, 0), ('that is trying to put blame', None, None, None, 0), ("where it is n't .", None, None, None, 1)]

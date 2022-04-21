@@ -1,0 +1,37 @@
+=====================> [[("Wow , is n't that always the way ?", None, None, None, 1), ('We are bombarded by information', None, None, None, 0), ('that we need', None, None, None, 0), ('to improve our health', None, None, None, 0), ('by adding all these things to our diet', None, None, None, 0), ('in order to feel better', None, None, None, 0), ("because we 're not getting the nutrients", None, None, None, 0), ('we need', None, None, None, 0), ('from what we eat anymore .', None, None, None, 1), ('Then we find out', None, None, None, 0), ('by taking the stuff', None, None, None, 0), ('that is supposed to help us get better', None, None, None, 0), ('can in fact make it worse .', None, None, None, 1), ('That is why we need to realize', None, None, None, 0), ('as a society', None, None, None, 0), ('taking pills', None, None, None, 0), ("is n't the fix ,", None, None, None, 0), ('just eating a healthier well balanced diet is safer .', None, None, None, 1)]]
+Leaf:  N Summary Wow , is n't that always the way ?
+Leaf:  N Elaborate We are bombarded by information
+Leaf:  S span that we need
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to improve our health
+Inner:  N Manner-Means None Enablement NS
+Leaf:  N Enablement by adding all these things to our diet
+Leaf:  S span in order to feel better
+Inner:  N Cause None Enablement NS
+Leaf:  N Elaborate because we 're not getting the nutrients
+Leaf:  S span we need
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit from what we eat anymore .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Cause NS
+Inner:  N Temporal None Manner-Means NS
+Leaf:  S span Then we find out
+Leaf:  N Elaborate by taking the stuff
+Leaf:  S span that is supposed to help us get better
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can in fact make it worse .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Temporal None Attribution SN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Same-Unit That is why we need to realize
+Leaf:  N Same-Unit as a society
+Leaf:  N Same-Unit taking pills
+Leaf:  N Same-Unit is n't the fix ,
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span just eating a healthier well balanced diet is safer .
+Inner:  N Same-Unit None Evaluation NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("Wow , is n't that always the way ?", None, None, None, 1), ('We are bombarded by information', None, None, None, 0), ('that we need', None, None, None, 0), ('to improve our health', None, None, None, 0), ('by adding all these things to our diet', None, None, None, 0), ('in order to feel better', None, None, None, 0), ("because we 're not getting the nutrients", None, None, None, 0), ('we need', None, None, None, 0), ('from what we eat anymore .', None, None, None, 1), ('Then we find out', None, None, None, 0), ('by taking the stuff', None, None, None, 0), ('that is supposed to help us get better', None, None, None, 0), ('can in fact make it worse .', None, None, None, 1), ('That is why we need to realize', None, None, None, 0), ('as a society', None, None, None, 0), ('taking pills', None, None, None, 0), ("is n't the fix ,", None, None, None, 0), ('just eating a healthier well balanced diet is safer .', None, None, None, 1)]

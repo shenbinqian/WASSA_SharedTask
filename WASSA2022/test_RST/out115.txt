@@ -1,0 +1,23 @@
+=====================> [[('Wow , this is a sad one .', None, None, None, 1), ('Can you imagine that poor family', None, None, None, 0), ('losing both of them at once ?', None, None, None, 1), ('Over what should have been a fun time ?', None, None, None, 1), ('This is so sad .', None, None, None, 1), ('I hope', None, None, None, 0), ('they at least both died instantly', None, None, None, 0), ("and did n't have to suffer ,", None, None, None, 0), ('the whole story about the helicopters not being able to get to them sounds ominous .', None, None, None, 1), ('I hope', None, None, None, 0), ('there was no suffering .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , this is a sad one .
+Leaf:  N Elaborate Can you imagine that poor family
+Leaf:  S span losing both of them at once ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Over what should have been a fun time ?
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This is so sad .
+Leaf:  S span I hope
+Leaf:  N Joint they at least both died instantly
+Leaf:  N Joint and did n't have to suffer ,
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  S span the whole story about the helicopters not being able to get to them sounds ominous .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Attribution there was no suffering .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow , this is a sad one .', None, None, None, 1), ('Can you imagine that poor family', None, None, None, 0), ('losing both of them at once ?', None, None, None, 1), ('Over what should have been a fun time ?', None, None, None, 1), ('This is so sad .', None, None, None, 1), ('I hope', None, None, None, 0), ('they at least both died instantly', None, None, None, 0), ("and did n't have to suffer ,", None, None, None, 0), ('the whole story about the helicopters not being able to get to them sounds ominous .', None, None, None, 1), ('I hope', None, None, None, 0), ('there was no suffering .', None, None, None, 1)]

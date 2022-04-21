@@ -1,0 +1,19 @@
+=====================> [[('April I just read a very interesting article', None, None, None, 0), ('concerning climate change .', None, None, None, 1), ('It is hard for me to believe', None, None, None, 0), ('that there are still deniers out there on climate change .', None, None, None, 1), ('Especially when 375 top scientists and 30 prize winners all state with certainty humans are the cause .', None, None, None, 1), ('If we do not take action', None, None, None, 0), ('now we are going to leave a Horrible planet for our kids , grand kids and their kids .', None, None, None, 1), ('This is something', None, None, None, 0), ('that we need to address on a daily basis .', None, None, None, 1)]]
+Leaf:  N Elaborate April I just read a very interesting article
+Leaf:  S span concerning climate change .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is hard for me to believe
+Leaf:  N Attribution that there are still deniers out there on climate change .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Especially when 375 top scientists and 30 prize winners all state with certainty humans are the cause .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span If we do not take action
+Leaf:  N Condition now we are going to leave a Horrible planet for our kids , grand kids and their kids .
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is something
+Leaf:  S span that we need to address on a daily basis .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('April I just read a very interesting article', None, None, None, 0), ('concerning climate change .', None, None, None, 1), ('It is hard for me to believe', None, None, None, 0), ('that there are still deniers out there on climate change .', None, None, None, 1), ('Especially when 375 top scientists and 30 prize winners all state with certainty humans are the cause .', None, None, None, 1), ('If we do not take action', None, None, None, 0), ('now we are going to leave a Horrible planet for our kids , grand kids and their kids .', None, None, None, 1), ('This is something', None, None, None, 0), ('that we need to address on a daily basis .', None, None, None, 1)]

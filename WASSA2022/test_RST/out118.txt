@@ -1,0 +1,31 @@
+=====================> [[("I 'm tired", None, None, None, 0), ('of seeing all these police shootouts .', None, None, None, 1), ('Why is it', None, None, None, 0), ('we always want to look at if the police were doing wrong', None, None, None, 0), ('rather than focusing on the fact', None, None, None, 0), ('that often times the person shot is defying police .', None, None, None, 1), ("I 'm not saying", None, None, None, 0), ('that means cops get to just shoot ,', None, None, None, 0), ('but', None, None, None, 0), ('if you are pulled over , run ,', None, None, None, 0), ('have a weapon', None, None, None, 0), ('and refuse to follow instructions', None, None, None, 0), ('what do you think will happen ?', None, None, None, 1), ('People just need to comply with the cops', None, None, None, 0), ('and most of these shootouts can be avoided .', None, None, None, 1)]]
+Leaf:  N Cause I 'm tired
+Leaf:  S span of seeing all these police shootouts .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate Why is it
+Leaf:  N Contrast we always want to look at if the police were doing wrong
+Leaf:  N Elaborate rather than focusing on the fact
+Leaf:  S span that often times the person shot is defying police .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I 'm not saying
+Leaf:  N Attribution that means cops get to just shoot ,
+Inner:  S span None Attribution SN
+Leaf:  N Same-Unit but
+Leaf:  N Joint if you are pulled over , run ,
+Leaf:  N Joint have a weapon
+Leaf:  N Joint and refuse to follow instructions
+Inner:  S span None Joint NN
+Leaf:  N Condition what do you think will happen ?
+Inner:  N Joint None Condition SN
+Inner:  N Same-Unit None Joint NN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span People just need to comply with the cops
+Leaf:  N Condition and most of these shootouts can be avoided .
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[("I 'm tired", None, None, None, 0), ('of seeing all these police shootouts .', None, None, None, 1), ('Why is it', None, None, None, 0), ('we always want to look at if the police were doing wrong', None, None, None, 0), ('rather than focusing on the fact', None, None, None, 0), ('that often times the person shot is defying police .', None, None, None, 1), ("I 'm not saying", None, None, None, 0), ('that means cops get to just shoot ,', None, None, None, 0), ('but', None, None, None, 0), ('if you are pulled over , run ,', None, None, None, 0), ('have a weapon', None, None, None, 0), ('and refuse to follow instructions', None, None, None, 0), ('what do you think will happen ?', None, None, None, 1), ('People just need to comply with the cops', None, None, None, 0), ('and most of these shootouts can be avoided .', None, None, None, 1)]

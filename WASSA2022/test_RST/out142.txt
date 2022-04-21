@@ -1,0 +1,19 @@
+=====================> [[('I just read am article about the malfunction of a flume ride in Australia .', None, None, None, 1), ("It 's wild", None, None, None, 0), ('because I was just at an amusement park with a similar attraction not two weeks ago .', None, None, None, 1), ('Anyway , apparently several people died', None, None, None, 0), ('by being ground up by machinery .', None, None, None, 1), ('The whole things sounds awful .', None, None, None, 1), ('Apparently , the park has decided to remain closed until after their funerals', None, None, None, 0), ('and even gave a memorial service on the grounds .', None, None, None, 1), ('The display sounded very touching .', None, None, None, 1)]]
+Leaf:  N Evaluation I just read am article about the malfunction of a flume ride in Australia .
+Leaf:  N Explanation It 's wild
+Leaf:  S span because I was just at an amusement park with a similar attraction not two weeks ago .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause Anyway , apparently several people died
+Leaf:  S span by being ground up by machinery .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The whole things sounds awful .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint Apparently , the park has decided to remain closed until after their funerals
+Leaf:  N Joint and even gave a memorial service on the grounds .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span The display sounded very touching .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read am article about the malfunction of a flume ride in Australia .', None, None, None, 1), ("It 's wild", None, None, None, 0), ('because I was just at an amusement park with a similar attraction not two weeks ago .', None, None, None, 1), ('Anyway , apparently several people died', None, None, None, 0), ('by being ground up by machinery .', None, None, None, 1), ('The whole things sounds awful .', None, None, None, 1), ('Apparently , the park has decided to remain closed until after their funerals', None, None, None, 0), ('and even gave a memorial service on the grounds .', None, None, None, 1), ('The display sounded very touching .', None, None, None, 1)]

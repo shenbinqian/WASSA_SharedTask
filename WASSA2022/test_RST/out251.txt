@@ -1,0 +1,37 @@
+=====================> [[('Reading this breaks my heart .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how I would feel', None, None, None, 0), ('and what I would do in this situation .', None, None, None, 1), ('I have so much respect for these elderly who are going without food', None, None, None, 0), ('to make sure', None, None, None, 0), ('the young kids have enough', None, None, None, 0), ('to eat .', None, None, None, 1), ('I started feeling their same fears and dying alone , or being stuck under a collapsed building for days ,', None, None, None, 0), ('waiting to die .', None, None, None, 1), ("I also ca n't help", None, None, None, 0), ('but think', None, None, None, 0), ('what it must be like for the adult children', None, None, None, 0), ('who want to flee to another country', None, None, None, 0), ("but their elderly parents do n't want to .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('if I could leave my parents alone in a war torn country .', None, None, None, 1), ('I would want them with me !', None, None, None, 1)]]
+Leaf:  N Explanation Reading this breaks my heart .
+Leaf:  S span I wonder
+Leaf:  N Joint how I would feel
+Leaf:  N Joint and what I would do in this situation .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Enablement I have so much respect for these elderly who are going without food
+Leaf:  S span to make sure
+Leaf:  N Elaborate the young kids have enough
+Leaf:  S span to eat .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Leaf:  N Elaborate I started feeling their same fears and dying alone , or being stuck under a collapsed building for days ,
+Leaf:  S span waiting to die .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Condition I also ca n't help
+Leaf:  S span but think
+Leaf:  N Elaborate what it must be like for the adult children
+Leaf:  N Contrast who want to flee to another country
+Leaf:  S span but their elderly parents do n't want to .
+Inner:  S span None Contrast NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Condition NS
+Leaf:  S span I do n't know
+Leaf:  N Attribution if I could leave my parents alone in a war torn country .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I would want them with me !
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Reading this breaks my heart .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how I would feel', None, None, None, 0), ('and what I would do in this situation .', None, None, None, 1), ('I have so much respect for these elderly who are going without food', None, None, None, 0), ('to make sure', None, None, None, 0), ('the young kids have enough', None, None, None, 0), ('to eat .', None, None, None, 1), ('I started feeling their same fears and dying alone , or being stuck under a collapsed building for days ,', None, None, None, 0), ('waiting to die .', None, None, None, 1), ("I also ca n't help", None, None, None, 0), ('but think', None, None, None, 0), ('what it must be like for the adult children', None, None, None, 0), ('who want to flee to another country', None, None, None, 0), ("but their elderly parents do n't want to .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('if I could leave my parents alone in a war torn country .', None, None, None, 1), ('I would want them with me !', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Hello friend I will like to let you know', None, None, None, 0), ('Leonard Cohen Died In His Sleep After A Fall , Manager Says —', None, None, None, 0), ('Songwriter and poet Leonard Cohen died in his sleep after a fall in his Los Angeles home in the middle of the night ,', None, None, None, 0), ('his manager has said .', None, None, None, 1), ('“ The death was sudden , unexpected , and peaceful , ”', None, None, None, 0), ('his manager Robert Kory said in a statement', None, None, None, 0), ('published on the Cohencentric website .', None, None, None, 1), ('Cohen , music ’s man of letters', None, None, None, 0), ('whose songs fused religious imagery with themes of redemption and sexual desire ,', None, None, None, 0), ('died on Nov. 7 ,', None, None, None, 0), ('He was 82', None, None, None, 0), ('when he died .', None, None, None, 1)]]
+Leaf:  S span Hello friend I will like to let you know
+Leaf:  N Attribution Leonard Cohen Died In His Sleep After A Fall , Manager Says —
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution Songwriter and poet Leonard Cohen died in his sleep after a fall in his Los Angeles home in the middle of the night ,
+Leaf:  S span his manager has said .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Attribution “ The death was sudden , unexpected , and peaceful , ”
+Leaf:  N Elaborate his manager Robert Kory said in a statement
+Leaf:  S span published on the Cohencentric website .
+Inner:  S span None Elaborate NS
+Inner:  S span None Attribution NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Cohen , music ’s man of letters
+Leaf:  S span whose songs fused religious imagery with themes of redemption and sexual desire ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit died on Nov. 7 ,
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate He was 82
+Leaf:  S span when he died .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello friend I will like to let you know', None, None, None, 0), ('Leonard Cohen Died In His Sleep After A Fall , Manager Says —', None, None, None, 0), ('Songwriter and poet Leonard Cohen died in his sleep after a fall in his Los Angeles home in the middle of the night ,', None, None, None, 0), ('his manager has said .', None, None, None, 1), ('“ The death was sudden , unexpected , and peaceful , ”', None, None, None, 0), ('his manager Robert Kory said in a statement', None, None, None, 0), ('published on the Cohencentric website .', None, None, None, 1), ('Cohen , music ’s man of letters', None, None, None, 0), ('whose songs fused religious imagery with themes of redemption and sexual desire ,', None, None, None, 0), ('died on Nov. 7 ,', None, None, None, 0), ('He was 82', None, None, None, 0), ('when he died .', None, None, None, 1)]

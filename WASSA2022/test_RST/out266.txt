@@ -1,0 +1,27 @@
+=====================> [[('He friend ,', None, None, None, 0), ('after reading an article', None, None, None, 0), ('i saw', None, None, None, 0), ('online', None, None, None, 0), ('i have this feeling in me ,', None, None, None, 0), ('i feel so so emotional', None, None, None, 0), ('and need someone to talk .', None, None, None, 1), ('I want to let my feelings out .', None, None, None, 1), ('I always wonder', None, None, None, 0), ('why i feel emotionally connected to what i read or watch ,', None, None, None, 0), ('i try to keep my emotions in check', None, None, None, 0), ("but i ca n't control the way", None, None, None, 0), ('i feel or react to what happens around me .', None, None, None, 1)]]
+Leaf:  N Same-Unit He friend ,
+Leaf:  N Elaborate after reading an article
+Leaf:  N Same-Unit i saw
+Leaf:  N Same-Unit online
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit i have this feeling in me ,
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint i feel so so emotional
+Leaf:  N Joint and need someone to talk .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I want to let my feelings out .
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  S span I always wonder
+Leaf:  N Attribution why i feel emotionally connected to what i read or watch ,
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span i try to keep my emotions in check
+Leaf:  N Elaborate but i ca n't control the way
+Leaf:  S span i feel or react to what happens around me .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('He friend ,', None, None, None, 0), ('after reading an article', None, None, None, 0), ('i saw', None, None, None, 0), ('online', None, None, None, 0), ('i have this feeling in me ,', None, None, None, 0), ('i feel so so emotional', None, None, None, 0), ('and need someone to talk .', None, None, None, 1), ('I want to let my feelings out .', None, None, None, 1), ('I always wonder', None, None, None, 0), ('why i feel emotionally connected to what i read or watch ,', None, None, None, 0), ('i try to keep my emotions in check', None, None, None, 0), ("but i ca n't control the way", None, None, None, 0), ('i feel or react to what happens around me .', None, None, None, 1)]

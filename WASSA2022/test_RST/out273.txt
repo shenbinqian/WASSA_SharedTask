@@ -1,0 +1,27 @@
+=====================> [[('The horror of terrorism is unspeakable with comfort', None, None, None, 0), ('many are dead', None, None, None, 0), ('the best', None, None, None, 0), ('we could do', None, None, None, 0), ('is mourn', None, None, None, 0), ('and honour them in whatever way', None, None, None, 0), ('we can .', None, None, None, 1), ('I am so sad', None, None, None, 0), ('reading about the past event', None, None, None, 0), ('recorded in this article the number of lives lost and those fatally injured .', None, None, None, 1), ('May their soul rest in gentle peace', None, None, None, 0), ('and may the fight for justice not end', None, None, None, 0), ('till justice prevails .', None, None, None, 1)]]
+Leaf:  N Elaborate The horror of terrorism is unspeakable with comfort
+Leaf:  S span many are dead
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate the best
+Leaf:  S span we could do
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint is mourn
+Leaf:  N Elaborate and honour them in whatever way
+Leaf:  S span we can .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Background I am so sad
+Leaf:  N Elaborate reading about the past event
+Leaf:  S span recorded in this article the number of lives lost and those fatally injured .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint May their soul rest in gentle peace
+Leaf:  N Condition and may the fight for justice not end
+Leaf:  S span till justice prevails .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The horror of terrorism is unspeakable with comfort', None, None, None, 0), ('many are dead', None, None, None, 0), ('the best', None, None, None, 0), ('we could do', None, None, None, 0), ('is mourn', None, None, None, 0), ('and honour them in whatever way', None, None, None, 0), ('we can .', None, None, None, 1), ('I am so sad', None, None, None, 0), ('reading about the past event', None, None, None, 0), ('recorded in this article the number of lives lost and those fatally injured .', None, None, None, 1), ('May their soul rest in gentle peace', None, None, None, 0), ('and may the fight for justice not end', None, None, None, 0), ('till justice prevails .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Climate change can affect a variety of animals in many different and catastrophic ways .', None, None, None, 1), ('Melomys are an animal', None, None, None, 0), ('that may have been affected by climate change .', None, None, None, 1), ('They are now extinct', None, None, None, 0), ('and one of the reasons', None, None, None, 0), ('researchers and scientists are looking at', None, None, None, 0), ('is climate change .', None, None, None, 1), ('However there is much debate', None, None, None, 0), ('to say', None, None, None, 0), ('it was just climate change .', None, None, None, 1)]]
+Leaf:  N Elaborate Climate change can affect a variety of animals in many different and catastrophic ways .
+Leaf:  N Elaborate Melomys are an animal
+Leaf:  S span that may have been affected by climate change .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They are now extinct
+Leaf:  N Elaborate and one of the reasons
+Leaf:  S span researchers and scientists are looking at
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is climate change .
+Inner:  N Background None Same-Unit NN
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate However there is much debate
+Leaf:  S span to say
+Leaf:  N Attribution it was just climate change .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Climate change can affect a variety of animals in many different and catastrophic ways .', None, None, None, 1), ('Melomys are an animal', None, None, None, 0), ('that may have been affected by climate change .', None, None, None, 1), ('They are now extinct', None, None, None, 0), ('and one of the reasons', None, None, None, 0), ('researchers and scientists are looking at', None, None, None, 0), ('is climate change .', None, None, None, 1), ('However there is much debate', None, None, None, 0), ('to say', None, None, None, 0), ('it was just climate change .', None, None, None, 1)]

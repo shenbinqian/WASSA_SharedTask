@@ -1,0 +1,35 @@
+=====================> [[('The Great Barrier Reef is an amazing , awesome natural feature', None, None, None, 0), ('that we need', None, None, None, 0), ('to dedicate ourselves to saving .', None, None, None, 1), ("It 's absolutely heartbreaking to see how quickly these areas have been destroyed", None, None, None, 0), ('and how humans have impacted that .', None, None, None, 1), ('If we can do so much damage', None, None, None, 0), ('without even trying ,', None, None, None, 0), ('imagine how much good we can do', None, None, None, 0), ('if we focus ourselves', None, None, None, 0), ('and have a goal in mind .', None, None, None, 1), ("There 's still a chance", None, None, None, 0), ('to help out', None, None, None, 0), ('and ensure', None, None, None, 0), ('that this reef', None, None, None, 0), ('( and other areas of our environment )', None, None, None, 0), ('are intact for future generations , for the sea life , and for endangered species .', None, None, None, 1), ('We need to make this world a better place for everyone to live .', None, None, None, 1)]]
+Leaf:  N Elaborate The Great Barrier Reef is an amazing , awesome natural feature
+Leaf:  N Enablement that we need
+Leaf:  S span to dedicate ourselves to saving .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's absolutely heartbreaking to see how quickly these areas have been destroyed
+Leaf:  N Joint and how humans have impacted that .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Manner-Means If we can do so much damage
+Leaf:  S span without even trying ,
+Inner:  S span None Manner-Means NS
+Leaf:  N Condition imagine how much good we can do
+Inner:  N Condition None Condition SN
+Leaf:  N Joint if we focus ourselves
+Leaf:  N Joint and have a goal in mind .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Condition NS
+Leaf:  N Elaborate There 's still a chance
+Leaf:  N Joint to help out
+Leaf:  S span and ensure
+Leaf:  N Elaborate that this reef
+Leaf:  S span ( and other areas of our environment )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are intact for future generations , for the sea life , and for endangered species .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span We need to make this world a better place for everyone to live .
+Inner:  Root None None Evaluation NS
+[('The Great Barrier Reef is an amazing , awesome natural feature', None, None, None, 0), ('that we need', None, None, None, 0), ('to dedicate ourselves to saving .', None, None, None, 1), ("It 's absolutely heartbreaking to see how quickly these areas have been destroyed", None, None, None, 0), ('and how humans have impacted that .', None, None, None, 1), ('If we can do so much damage', None, None, None, 0), ('without even trying ,', None, None, None, 0), ('imagine how much good we can do', None, None, None, 0), ('if we focus ourselves', None, None, None, 0), ('and have a goal in mind .', None, None, None, 1), ("There 's still a chance", None, None, None, 0), ('to help out', None, None, None, 0), ('and ensure', None, None, None, 0), ('that this reef', None, None, None, 0), ('( and other areas of our environment )', None, None, None, 0), ('are intact for future generations , for the sea life , and for endangered species .', None, None, None, 1), ('We need to make this world a better place for everyone to live .', None, None, None, 1)]

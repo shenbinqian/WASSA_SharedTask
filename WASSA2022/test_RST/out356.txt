@@ -1,0 +1,27 @@
+=====================> [[('I was so upset', None, None, None, 0), ('to read about this ,', None, None, None, 0), ('I mean , these things happen with the best of intentions and in an effort', None, None, None, 0), ('to really protect people ,', None, None, None, 0), ('but could you imagine ?', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("you 've heard about this by now", None, None, None, 0), ("but here 's the link .", None, None, None, 1), ('Really sad to see', None, None, None, 0), ('that the attempts', None, None, None, 0), ('at stopping terrorism', None, None, None, 0), ('can harm so many innocents ,', None, None, None, 0), ('Really saddening .', None, None, None, 1)]]
+Leaf:  N Cause I was so upset
+Leaf:  S span to read about this ,
+Inner:  N Explanation None Cause NS
+Leaf:  N Elaborate I mean , these things happen with the best of intentions and in an effort
+Leaf:  S span to really protect people ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but could you imagine ?
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I 'm sure
+Leaf:  N Attribution you 've heard about this by now
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Topic-Comment but here 's the link .
+Inner:  S span None Topic-Comment NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Really sad to see
+Leaf:  N Elaborate that the attempts
+Leaf:  S span at stopping terrorism
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can harm so many innocents ,
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Really saddening .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I was so upset', None, None, None, 0), ('to read about this ,', None, None, None, 0), ('I mean , these things happen with the best of intentions and in an effort', None, None, None, 0), ('to really protect people ,', None, None, None, 0), ('but could you imagine ?', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("you 've heard about this by now", None, None, None, 0), ("but here 's the link .", None, None, None, 1), ('Really sad to see', None, None, None, 0), ('that the attempts', None, None, None, 0), ('at stopping terrorism', None, None, None, 0), ('can harm so many innocents ,', None, None, None, 0), ('Really saddening .', None, None, None, 1)]

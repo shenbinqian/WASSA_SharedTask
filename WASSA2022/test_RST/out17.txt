@@ -1,0 +1,23 @@
+=====================> [[('So', None, None, None, 0), ('because of the Pulse Nightclub incident , many people needed blood', None, None, None, 0), ('since many people were injured and killed .', None, None, None, 1), ('It is such a weird policy', None, None, None, 0), ('that bisexual and gay men can not donate blood .', None, None, None, 1), ('Maybe thy fear', None, None, None, 0), ('that they will spread disease', None, None, None, 0), ('but an alternative needs to happen .', None, None, None, 1), ('Those people should have the right', None, None, None, 0), ('to donate blood', None, None, None, 0), ("as long as they do n't carry disease .", None, None, None, 1)]]
+Leaf:  N Same-Unit So
+Leaf:  N Same-Unit because of the Pulse Nightclub incident , many people needed blood
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span since many people were injured and killed .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate It is such a weird policy
+Leaf:  S span that bisexual and gay men can not donate blood .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span Maybe thy fear
+Leaf:  N Attribution that they will spread disease
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but an alternative needs to happen .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Those people should have the right
+Leaf:  S span to donate blood
+Inner:  N Condition None Elaborate NS
+Leaf:  S span as long as they do n't carry disease .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('So', None, None, None, 0), ('because of the Pulse Nightclub incident , many people needed blood', None, None, None, 0), ('since many people were injured and killed .', None, None, None, 1), ('It is such a weird policy', None, None, None, 0), ('that bisexual and gay men can not donate blood .', None, None, None, 1), ('Maybe thy fear', None, None, None, 0), ('that they will spread disease', None, None, None, 0), ('but an alternative needs to happen .', None, None, None, 1), ('Those people should have the right', None, None, None, 0), ('to donate blood', None, None, None, 0), ("as long as they do n't carry disease .", None, None, None, 1)]

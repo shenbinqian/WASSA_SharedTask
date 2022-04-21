@@ -1,0 +1,23 @@
+=====================> [[('The article', None, None, None, 0), ('that I read', None, None, None, 0), ('discusses an increase in discrimination complaints against airlines .', None, None, None, 1), ('The article states', None, None, None, 0), ('that these complaints are becoming more prevalent .', None, None, None, 1), ('I feel worried for the people', None, None, None, 0), ('who are making these claims ,', None, None, None, 0), ('if they are in fact substantiated .', None, None, None, 1), ('We have seen a number of disturbing incidents on airlines recently', None, None, None, 0), ('and it is worrying', None, None, None, 0), ('that this may be the new normal .', None, None, None, 1)]]
+Leaf:  N Elaborate The article
+Leaf:  S span that I read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit discusses an increase in discrimination complaints against airlines .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span The article states
+Leaf:  N Attribution that these complaints are becoming more prevalent .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I feel worried for the people
+Leaf:  S span who are making these claims ,
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if they are in fact substantiated .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span We have seen a number of disturbing incidents on airlines recently
+Leaf:  S span and it is worrying
+Leaf:  N Attribution that this may be the new normal .
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause SN
+Inner:  Root None None Elaborate NS
+[('The article', None, None, None, 0), ('that I read', None, None, None, 0), ('discusses an increase in discrimination complaints against airlines .', None, None, None, 1), ('The article states', None, None, None, 0), ('that these complaints are becoming more prevalent .', None, None, None, 1), ('I feel worried for the people', None, None, None, 0), ('who are making these claims ,', None, None, None, 0), ('if they are in fact substantiated .', None, None, None, 1), ('We have seen a number of disturbing incidents on airlines recently', None, None, None, 0), ('and it is worrying', None, None, None, 0), ('that this may be the new normal .', None, None, None, 1)]

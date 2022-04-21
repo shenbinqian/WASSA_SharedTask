@@ -1,0 +1,21 @@
+=====================> [[('This was a very interesting article', None, None, None, 0), ('we need', None, None, None, 0), ('to be more careful about the way', None, None, None, 0), ('we build dams', None, None, None, 0), ('there is a lot of factors', None, None, None, 0), ('that need to be taken in consideration such as the local indigenous communities', None, None, None, 0), ('that live along the river banks', None, None, None, 0), ('and depend on the fish and other wildlife', None, None, None, 0), ('to eat .', None, None, None, 1), ('A dam can increase the levels of mercury of these animals', None, None, None, 0)]]
+Leaf:  N Attribution This was a very interesting article
+Leaf:  N Same-Unit we need
+Leaf:  N Elaborate to be more careful about the way
+Leaf:  S span we build dams
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate there is a lot of factors
+Leaf:  N Elaborate that need to be taken in consideration such as the local indigenous communities
+Leaf:  N Joint that live along the river banks
+Leaf:  N Elaborate and depend on the fish and other wildlife
+Leaf:  S span to eat .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Explanation NS
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span A dam can increase the levels of mercury of these animals
+Inner:  Root None None Elaborate NS
+[('This was a very interesting article', None, None, None, 0), ('we need', None, None, None, 0), ('to be more careful about the way', None, None, None, 0), ('we build dams', None, None, None, 0), ('there is a lot of factors', None, None, None, 0), ('that need to be taken in consideration such as the local indigenous communities', None, None, None, 0), ('that live along the river banks', None, None, None, 0), ('and depend on the fish and other wildlife', None, None, None, 0), ('to eat .', None, None, None, 1), ('A dam can increase the levels of mercury of these animals', None, None, None, 0)]

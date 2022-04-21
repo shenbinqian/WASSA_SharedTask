@@ -1,0 +1,23 @@
+=====================> [[('How sad is it that there are illegal dealers of these animals', None, None, None, 0), ('who are clearly just in it for the money .', None, None, None, 1), ('They do not properly take care of these animals ,', None, None, None, 0), ('this poor animal is going to be disabled for life', None, None, None, 0), ('because of greed .', None, None, None, 1), ('They should be arrested for this ,', None, None, None, 0), ('this needs to stop . This is also like phony dog breeders', None, None, None, 0), ('who do not properly take care of the dogs', None, None, None, 0), ('that are being bred ,', None, None, None, 0), ('they are just in it', None, None, None, 0), ('for selling puppies', None, None, None, 0)]]
+Leaf:  N Elaborate How sad is it that there are illegal dealers of these animals
+Leaf:  S span who are clearly just in it for the money .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause They do not properly take care of these animals ,
+Leaf:  N Cause this poor animal is going to be disabled for life
+Leaf:  S span because of greed .
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation They should be arrested for this ,
+Leaf:  N Elaborate this needs to stop . This is also like phony dog breeders
+Leaf:  N Elaborate who do not properly take care of the dogs
+Leaf:  S span that are being bred ,
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation they are just in it
+Leaf:  S span for selling puppies
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('How sad is it that there are illegal dealers of these animals', None, None, None, 0), ('who are clearly just in it for the money .', None, None, None, 1), ('They do not properly take care of these animals ,', None, None, None, 0), ('this poor animal is going to be disabled for life', None, None, None, 0), ('because of greed .', None, None, None, 1), ('They should be arrested for this ,', None, None, None, 0), ('this needs to stop . This is also like phony dog breeders', None, None, None, 0), ('who do not properly take care of the dogs', None, None, None, 0), ('that are being bred ,', None, None, None, 0), ('they are just in it', None, None, None, 0), ('for selling puppies', None, None, None, 0)]

@@ -1,0 +1,35 @@
+=====================> [[('Ugh , I feel', None, None, None, 0), ('like these cases are common', None, None, None, 0), ('or at least the media makes it seem like they are ,', None, None, None, 0), ('but this is an especially weird one ,', None, None, None, 0), ("do n't you think ?", None, None, None, 1), ('Like why were the parents accepting it ?', None, None, None, 1), ('What are those dynamics ?', None, None, None, 1), ('They were so open about it ,', None, None, None, 0), ('how did it go on so long', None, None, None, 0), ('without anyone realizing sooner', None, None, None, 0), ('and putting a stop to it .', None, None, None, 1), ('I hope', None, None, None, 0), ('the kid gets the support', None, None, None, 0), ('he needs', None, None, None, 0), ('because I feel', None, None, None, 0), ('like he had too many adults around him', None, None, None, 0), ('accepting it for too long .', None, None, None, 1)]]
+Leaf:  S span Ugh , I feel
+Leaf:  N Joint like these cases are common
+Leaf:  N Joint or at least the media makes it seem like they are ,
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Evaluation but this is an especially weird one ,
+Leaf:  S span do n't you think ?
+Inner:  N Evaluation None Evaluation NS
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Joint Like why were the parents accepting it ?
+Leaf:  N Joint What are those dynamics ?
+Inner:  N Joint None Joint NN
+Leaf:  N Joint They were so open about it ,
+Leaf:  N Background how did it go on so long
+Leaf:  N Joint without anyone realizing sooner
+Leaf:  N Joint and putting a stop to it .
+Inner:  S span None Joint NN
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate the kid gets the support
+Leaf:  S span he needs
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because I feel
+Leaf:  N Elaborate like he had too many adults around him
+Leaf:  S span accepting it for too long .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Ugh , I feel', None, None, None, 0), ('like these cases are common', None, None, None, 0), ('or at least the media makes it seem like they are ,', None, None, None, 0), ('but this is an especially weird one ,', None, None, None, 0), ("do n't you think ?", None, None, None, 1), ('Like why were the parents accepting it ?', None, None, None, 1), ('What are those dynamics ?', None, None, None, 1), ('They were so open about it ,', None, None, None, 0), ('how did it go on so long', None, None, None, 0), ('without anyone realizing sooner', None, None, None, 0), ('and putting a stop to it .', None, None, None, 1), ('I hope', None, None, None, 0), ('the kid gets the support', None, None, None, 0), ('he needs', None, None, None, 0), ('because I feel', None, None, None, 0), ('like he had too many adults around him', None, None, None, 0), ('accepting it for too long .', None, None, None, 1)]

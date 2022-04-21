@@ -1,0 +1,19 @@
+=====================> [[("It 's hard to believe", None, None, None, 0), ('that people can take sports so seriously .', None, None, None, 1), ("It 's almost like it was a life and death struggle for these people .", None, None, None, 1), ('Even though I love sports ,', None, None, None, 0), ('this is something', None, None, None, 0), ("that I 'll never understand .", None, None, None, 1), ("Why ca n't people just go to have fun", None, None, None, 0), ('and enjoy their favorite team ?', None, None, None, 1), ('Hopefully the police will catch the person responsible for hurting that kid .', None, None, None, 1)]]
+Leaf:  S span It 's hard to believe
+Leaf:  N Attribution that people can take sports so seriously .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span It 's almost like it was a life and death struggle for these people .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Even though I love sports ,
+Leaf:  N Elaborate this is something
+Leaf:  S span that I 'll never understand .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint Why ca n't people just go to have fun
+Leaf:  N Joint and enjoy their favorite team ?
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Hopefully the police will catch the person responsible for hurting that kid .
+Inner:  Root None None Cause NS
+[("It 's hard to believe", None, None, None, 0), ('that people can take sports so seriously .', None, None, None, 1), ("It 's almost like it was a life and death struggle for these people .", None, None, None, 1), ('Even though I love sports ,', None, None, None, 0), ('this is something', None, None, None, 0), ("that I 'll never understand .", None, None, None, 1), ("Why ca n't people just go to have fun", None, None, None, 0), ('and enjoy their favorite team ?', None, None, None, 1), ('Hopefully the police will catch the person responsible for hurting that kid .', None, None, None, 1)]

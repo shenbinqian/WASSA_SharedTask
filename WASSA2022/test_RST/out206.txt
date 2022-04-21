@@ -1,0 +1,21 @@
+=====================> [[('This article breaks my heart .', None, None, None, 1), ('These poor animals just need somewhere to be safe', None, None, None, 0), ("and they ca n't even get that at this zoo .", None, None, None, 1), ('I hope', None, None, None, 0), ('that they rescue workers find places', None, None, None, 0), ('to put these animals', None, None, None, 0), ('or return them to their home', None, None, None, 0), ('so that they can live out the rest of their lives with the happiness', None, None, None, 0), ('they deserve .', None, None, None, 1), ('No one should ever harm animals .', None, None, None, 1)]]
+Leaf:  N Summary This article breaks my heart .
+Leaf:  N Joint These poor animals just need somewhere to be safe
+Leaf:  N Joint and they ca n't even get that at this zoo .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I hope
+Leaf:  N Elaborate that they rescue workers find places
+Leaf:  N Joint to put these animals
+Leaf:  N Joint or return them to their home
+Inner:  S span None Joint NN
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate so that they can live out the rest of their lives with the happiness
+Leaf:  S span they deserve .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span No one should ever harm animals .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This article breaks my heart .', None, None, None, 1), ('These poor animals just need somewhere to be safe', None, None, None, 0), ("and they ca n't even get that at this zoo .", None, None, None, 1), ('I hope', None, None, None, 0), ('that they rescue workers find places', None, None, None, 0), ('to put these animals', None, None, None, 0), ('or return them to their home', None, None, None, 0), ('so that they can live out the rest of their lives with the happiness', None, None, None, 0), ('they deserve .', None, None, None, 1), ('No one should ever harm animals .', None, None, None, 1)]

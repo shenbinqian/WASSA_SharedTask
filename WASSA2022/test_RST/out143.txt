@@ -1,0 +1,19 @@
+=====================> [[('Just read an article on lead and copper contamination in American water systems .', None, None, None, 1), ('The EPA has been almost completely silent on the subject', None, None, None, 0), ('and I think', None, None, None, 0), ('we both know why .', None, None, None, 1), ('The wealthy drip filtered and distilled water and the poor drink tap water .', None, None, None, 1), ("Those in charge do n't care in the least", None, None, None, 0), ("how many Flint 's there are", None, None, None, 0), ('as long as they can get their Perrier .', None, None, None, 1), ('The whole thing makes me sick to my stomach about the state of our country .', None, None, None, 1)]]
+Leaf:  N Elaborate Just read an article on lead and copper contamination in American water systems .
+Leaf:  N Joint The EPA has been almost completely silent on the subject
+Leaf:  S span and I think
+Leaf:  N Attribution we both know why .
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint The wealthy drip filtered and distilled water and the poor drink tap water .
+Leaf:  S span Those in charge do n't care in the least
+Leaf:  N Attribution how many Flint 's there are
+Inner:  N Condition None Attribution SN
+Leaf:  S span as long as they can get their Perrier .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The whole thing makes me sick to my stomach about the state of our country .
+Inner:  Root None None Evaluation NS
+[('Just read an article on lead and copper contamination in American water systems .', None, None, None, 1), ('The EPA has been almost completely silent on the subject', None, None, None, 0), ('and I think', None, None, None, 0), ('we both know why .', None, None, None, 1), ('The wealthy drip filtered and distilled water and the poor drink tap water .', None, None, None, 1), ("Those in charge do n't care in the least", None, None, None, 0), ("how many Flint 's there are", None, None, None, 0), ('as long as they can get their Perrier .', None, None, None, 1), ('The whole thing makes me sick to my stomach about the state of our country .', None, None, None, 1)]

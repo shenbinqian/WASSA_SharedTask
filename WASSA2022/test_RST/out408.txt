@@ -1,0 +1,27 @@
+=====================> [[('This is an absolute clusterfuck .', None, None, None, 1), ('What the hell ?', None, None, None, 1), ('How does banning the currency even really help .', None, None, None, 1), ('Sure I guess', None, None, None, 0), ('if there was the infrastructure in place', None, None, None, 0), ('to force the deposits ,', None, None, None, 0), ("but there 's no real reason", None, None, None, 0), ('this made sense .', None, None, None, 1), ('I guess if people are willing to go along with it , sure , but this is a disaster at best . People are suffering undually', None, None, None, 0), ('because of this ban ,', None, None, None, 0), ("and I do n't know", None, None, None, 0), ('if the end result will be any good .', None, None, None, 1), ('People are just trying to cope .', None, None, None, 1)]]
+Leaf:  N Summary This is an absolute clusterfuck .
+Leaf:  N Joint What the hell ?
+Leaf:  N Evaluation How does banning the currency even really help .
+Leaf:  N Condition Sure I guess
+Leaf:  N Elaborate if there was the infrastructure in place
+Leaf:  S span to force the deposits ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but there 's no real reason
+Leaf:  S span this made sense .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Condition NS
+Leaf:  N Cause I guess if people are willing to go along with it , sure , but this is a disaster at best . People are suffering undually
+Leaf:  S span because of this ban ,
+Inner:  N Joint None Cause NS
+Leaf:  S span and I do n't know
+Leaf:  N Attribution if the end result will be any good .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span People are just trying to cope .
+Inner:  Root None None Evaluation NS
+[('This is an absolute clusterfuck .', None, None, None, 1), ('What the hell ?', None, None, None, 1), ('How does banning the currency even really help .', None, None, None, 1), ('Sure I guess', None, None, None, 0), ('if there was the infrastructure in place', None, None, None, 0), ('to force the deposits ,', None, None, None, 0), ("but there 's no real reason", None, None, None, 0), ('this made sense .', None, None, None, 1), ('I guess if people are willing to go along with it , sure , but this is a disaster at best . People are suffering undually', None, None, None, 0), ('because of this ban ,', None, None, None, 0), ("and I do n't know", None, None, None, 0), ('if the end result will be any good .', None, None, None, 1), ('People are just trying to cope .', None, None, None, 1)]

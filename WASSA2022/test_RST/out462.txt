@@ -1,0 +1,23 @@
+=====================> [[('I find it relaxing', None, None, None, 0), ('that the facts from the global warming is exaggerated .', None, None, None, 1), ('No doubt , the earth is warming up real fast', None, None, None, 0), ('and we need to kick in proactive measures', None, None, None, 0), ('to steam this', None, None, None, 0), ('but we shouldnt overwhelm ourselves with outrageous figures .', None, None, None, 1), ('I love the fact', None, None, None, 0), ('that top environmental guys are coming to say', None, None, None, 0), ('it is all exaggerated', None, None, None, 0), ('but then , we shouldnt relax', None, None, None, 0), ('... we need to fight this to the end .', None, None, None, 1)]]
+Leaf:  S span I find it relaxing
+Leaf:  N Attribution that the facts from the global warming is exaggerated .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span No doubt , the earth is warming up real fast
+Leaf:  N Enablement and we need to kick in proactive measures
+Leaf:  S span to steam this
+Inner:  N Explanation None Enablement NS
+Inner:  N Contrast None Explanation SN
+Leaf:  N Contrast but we shouldnt overwhelm ourselves with outrageous figures .
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate I love the fact
+Leaf:  S span that top environmental guys are coming to say
+Leaf:  N Attribution it is all exaggerated
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Evaluation but then , we shouldnt relax
+Leaf:  S span ... we need to fight this to the end .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I find it relaxing', None, None, None, 0), ('that the facts from the global warming is exaggerated .', None, None, None, 1), ('No doubt , the earth is warming up real fast', None, None, None, 0), ('and we need to kick in proactive measures', None, None, None, 0), ('to steam this', None, None, None, 0), ('but we shouldnt overwhelm ourselves with outrageous figures .', None, None, None, 1), ('I love the fact', None, None, None, 0), ('that top environmental guys are coming to say', None, None, None, 0), ('it is all exaggerated', None, None, None, 0), ('but then , we shouldnt relax', None, None, None, 0), ('... we need to fight this to the end .', None, None, None, 1)]

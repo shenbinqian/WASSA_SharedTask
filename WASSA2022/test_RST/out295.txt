@@ -1,0 +1,23 @@
+=====================> [[('This is so alarming .', None, None, None, 1), ('I thought', None, None, None, 0), ('that world had moved on', None, None, None, 0), ('but so see someone', None, None, None, 0), ('who was awarded a noble become an accomplice to an genocide', None, None, None, 0), ('is so frustrating .', None, None, None, 1), ('I really wish', None, None, None, 0), ('that we could do more', None, None, None, 0), ('to save these unfortunates souls', None, None, None, 0), ('who are being punished for their religion . Hopefully , at some point these people will be held accountable for their actions', None, None, None, 0), ('but it seems that for now , all we can do is to pray for these helpless fellow human beings .', None, None, None, 1)]]
+Leaf:  N Explanation This is so alarming .
+Leaf:  S span I thought
+Leaf:  N Attribution that world had moved on
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but so see someone
+Leaf:  S span who was awarded a noble become an accomplice to an genocide
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is so frustrating .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I really wish
+Leaf:  N Enablement that we could do more
+Leaf:  N Elaborate to save these unfortunates souls
+Leaf:  S span who are being punished for their religion . Hopefully , at some point these people will be held accountable for their actions
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but it seems that for now , all we can do is to pray for these helpless fellow human beings .
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('This is so alarming .', None, None, None, 1), ('I thought', None, None, None, 0), ('that world had moved on', None, None, None, 0), ('but so see someone', None, None, None, 0), ('who was awarded a noble become an accomplice to an genocide', None, None, None, 0), ('is so frustrating .', None, None, None, 1), ('I really wish', None, None, None, 0), ('that we could do more', None, None, None, 0), ('to save these unfortunates souls', None, None, None, 0), ('who are being punished for their religion . Hopefully , at some point these people will be held accountable for their actions', None, None, None, 0), ('but it seems that for now , all we can do is to pray for these helpless fellow human beings .', None, None, None, 1)]

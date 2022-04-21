@@ -1,0 +1,23 @@
+=====================> [[('It is awful that this happened', None, None, None, 0), ('because it happened to my grandfather years ago', None, None, None, 0), ('before he died .', None, None, None, 1), ('It is worse', None, None, None, 0), ('that is was a well known Person', None, None, None, 0), ('who many admire', None, None, None, 0), ('and grew up', None, None, None, 0), ('watching as young people .', None, None, None, 1), ('I watched Monty Python as well growing up .', None, None, None, 1), ('I found it to be a great comedy', None, None, None, 0), ('and that is why it is so sad to hear that this happened to a television icon .', None, None, None, 1)]]
+Leaf:  N Explanation It is awful that this happened
+Leaf:  N Temporal because it happened to my grandfather years ago
+Leaf:  S span before he died .
+Inner:  S span None Temporal NS
+Inner:  N Comparison None Explanation NS
+Leaf:  S span It is worse
+Leaf:  N Elaborate that is was a well known Person
+Leaf:  S span who many admire
+Inner:  N Joint None Elaborate NS
+Leaf:  N Background and grew up
+Leaf:  S span watching as young people .
+Inner:  N Joint None Background NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Evaluation I watched Monty Python as well growing up .
+Leaf:  N Evaluation I found it to be a great comedy
+Leaf:  S span and that is why it is so sad to hear that this happened to a television icon .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is awful that this happened', None, None, None, 0), ('because it happened to my grandfather years ago', None, None, None, 0), ('before he died .', None, None, None, 1), ('It is worse', None, None, None, 0), ('that is was a well known Person', None, None, None, 0), ('who many admire', None, None, None, 0), ('and grew up', None, None, None, 0), ('watching as young people .', None, None, None, 1), ('I watched Monty Python as well growing up .', None, None, None, 1), ('I found it to be a great comedy', None, None, None, 0), ('and that is why it is so sad to hear that this happened to a television icon .', None, None, None, 1)]

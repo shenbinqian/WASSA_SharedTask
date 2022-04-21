@@ -1,0 +1,21 @@
+=====================> [[('I hate Trump with the fiercest passion .', None, None, None, 1), ("I 've never denounced a president before ,", None, None, None, 0), ('but I will not acknowledge this lunatic as the leader of the nation', None, None, None, 0), ('I live in .', None, None, None, 1), ('Look at all of his simple minded zealots attacking people !', None, None, None, 1), ('How is this okay ? How can anybody be okay with this ? These people need to be locked up and removed from society ,', None, None, None, 0), ("as they 're clearly a danger to others .", None, None, None, 1), ("Trump 's rhetoric is just making his supporters feel", None, None, None, 0), ('like they can literally get away with assault .', None, None, None, 1), ('Screw Trump .', None, None, None, 1)]]
+Leaf:  N Elaborate I hate Trump with the fiercest passion .
+Leaf:  S span I 've never denounced a president before ,
+Leaf:  N Elaborate but I will not acknowledge this lunatic as the leader of the nation
+Leaf:  S span I live in .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Look at all of his simple minded zealots attacking people !
+Leaf:  N Explanation How is this okay ? How can anybody be okay with this ? These people need to be locked up and removed from society ,
+Leaf:  S span as they 're clearly a danger to others .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Leaf:  N Enablement Trump 's rhetoric is just making his supporters feel
+Leaf:  S span like they can literally get away with assault .
+Inner:  N Evaluation None Enablement NS
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Screw Trump .
+Inner:  Root None None Evaluation NS
+[('I hate Trump with the fiercest passion .', None, None, None, 1), ("I 've never denounced a president before ,", None, None, None, 0), ('but I will not acknowledge this lunatic as the leader of the nation', None, None, None, 0), ('I live in .', None, None, None, 1), ('Look at all of his simple minded zealots attacking people !', None, None, None, 1), ('How is this okay ? How can anybody be okay with this ? These people need to be locked up and removed from society ,', None, None, None, 0), ("as they 're clearly a danger to others .", None, None, None, 1), ("Trump 's rhetoric is just making his supporters feel", None, None, None, 0), ('like they can literally get away with assault .', None, None, None, 1), ('Screw Trump .', None, None, None, 1)]

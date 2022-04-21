@@ -1,0 +1,25 @@
+=====================> [[('People', None, None, None, 0), ('who steal and leak nudes are literally garbage human beings .', None, None, None, 1), ('They think', None, None, None, 0), ('they own the rights to literally everything', None, None, None, 0), ("and do n't care about the people", None, None, None, 0), ('they hurt along the way at all .', None, None, None, 1), ('And the people', None, None, None, 0), ('who then go and seek out the leaked information', None, None, None, 0), ('are just as bad ;', None, None, None, 0), ('we \'re too susceptible to " forbidden fruit "', None, None, None, 0), ("and do n't take into account the people", None, None, None, 0), ("we 're hurting .", None, None, None, 1)]]
+Leaf:  N Elaborate People
+Leaf:  S span who steal and leak nudes are literally garbage human beings .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They think
+Leaf:  N Attribution they own the rights to literally everything
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and do n't care about the people
+Leaf:  S span they hurt along the way at all .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate And the people
+Leaf:  S span who then go and seek out the leaked information
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are just as bad ;
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Joint we 're too susceptible to " forbidden fruit "
+Leaf:  N Elaborate and do n't take into account the people
+Leaf:  S span we 're hurting .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('People', None, None, None, 0), ('who steal and leak nudes are literally garbage human beings .', None, None, None, 1), ('They think', None, None, None, 0), ('they own the rights to literally everything', None, None, None, 0), ("and do n't care about the people", None, None, None, 0), ('they hurt along the way at all .', None, None, None, 1), ('And the people', None, None, None, 0), ('who then go and seek out the leaked information', None, None, None, 0), ('are just as bad ;', None, None, None, 0), ('we \'re too susceptible to " forbidden fruit "', None, None, None, 0), ("and do n't take into account the people", None, None, None, 0), ("we 're hurting .", None, None, None, 1)]

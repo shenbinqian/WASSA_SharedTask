@@ -1,0 +1,21 @@
+=====================> [[('I was just reading an article', None, None, None, 0), ('about how Leonard Cohen recently died .', None, None, None, 1), ('I think', None, None, None, 0), ('it is sad that a great songwrite like this passed away ,', None, None, None, 0), ('but it sounds like it might have just been his time .', None, None, None, 1), ('Obviously maybe his family was keeping the true story under wraps because ,', None, None, None, 0), ('as we all know ,', None, None, None, 0), ('many of these famous rock singers heavily abused drugs and alcohol ,', None, None, None, 0), ('but as far as we know', None, None, None, 0), ('he just passed away in his sleep .', None, None, None, 1)]]
+Leaf:  N Elaborate I was just reading an article
+Leaf:  S span about how Leonard Cohen recently died .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution it is sad that a great songwrite like this passed away ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but it sounds like it might have just been his time .
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Same-Unit Obviously maybe his family was keeping the true story under wraps because ,
+Leaf:  S span as we all know ,
+Leaf:  N Elaborate many of these famous rock singers heavily abused drugs and alcohol ,
+Inner:  N Same-Unit None Elaborate SN
+Inner:  S span None Same-Unit NN
+Leaf:  S span but as far as we know
+Leaf:  N Attribution he just passed away in his sleep .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I was just reading an article', None, None, None, 0), ('about how Leonard Cohen recently died .', None, None, None, 1), ('I think', None, None, None, 0), ('it is sad that a great songwrite like this passed away ,', None, None, None, 0), ('but it sounds like it might have just been his time .', None, None, None, 1), ('Obviously maybe his family was keeping the true story under wraps because ,', None, None, None, 0), ('as we all know ,', None, None, None, 0), ('many of these famous rock singers heavily abused drugs and alcohol ,', None, None, None, 0), ('but as far as we know', None, None, None, 0), ('he just passed away in his sleep .', None, None, None, 1)]

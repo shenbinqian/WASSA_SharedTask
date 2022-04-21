@@ -1,0 +1,27 @@
+=====================> [[("I 'm hoping", None, None, None, 0), ('some of my science friends can help me out here .', None, None, None, 1), ('I know', None, None, None, 0), ('this is important information ,', None, None, None, 0), ("but I 'm having a hard time", None, None, None, 0), ('interpeting it .', None, None, None, 1), ('Of course climate change is happening ,', None, None, None, 0), ('but what are the most important impacts ?', None, None, None, 1), ('Is it ,', None, None, None, 0), ('as they say ,', None, None, None, 0), ('the change in biodiversity ?', None, None, None, 1), ('How animals are evolving ?', None, None, None, 1), ("What 's the deal here ?", None, None, None, 1)]]
+Leaf:  S span I 'm hoping
+Leaf:  N Attribution some of my science friends can help me out here .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution this is important information ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but I 'm having a hard time
+Leaf:  S span interpeting it .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Summary None Elaborate NS
+Leaf:  S span Of course climate change is happening ,
+Leaf:  N Contrast but what are the most important impacts ?
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Evaluation Is it ,
+Leaf:  S span as they say ,
+Inner:  N Same-Unit None Evaluation NS
+Leaf:  N Same-Unit the change in biodiversity ?
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint How animals are evolving ?
+Leaf:  N Joint What 's the deal here ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[("I 'm hoping", None, None, None, 0), ('some of my science friends can help me out here .', None, None, None, 1), ('I know', None, None, None, 0), ('this is important information ,', None, None, None, 0), ("but I 'm having a hard time", None, None, None, 0), ('interpeting it .', None, None, None, 1), ('Of course climate change is happening ,', None, None, None, 0), ('but what are the most important impacts ?', None, None, None, 1), ('Is it ,', None, None, None, 0), ('as they say ,', None, None, None, 0), ('the change in biodiversity ?', None, None, None, 1), ('How animals are evolving ?', None, None, None, 1), ("What 's the deal here ?", None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Keith is a person', None, None, None, 0), ('who is willing to save the Albatross from house mice .', None, None, None, 1), ('Those animals are getting killed', None, None, None, 0), ('because of those rodents', None, None, None, 0), ('and he is doing whatever', None, None, None, 0), ('he can', None, None, None, 0), ('in order to prolong their lives .', None, None, None, 1), ('He does not celebrate birthdays', None, None, None, 0), ('and chooses to place bait traps on the island', None, None, None, 0), ('in order to kill as many rodents', None, None, None, 0), ('that he can .', None, None, None, 1)]]
+Leaf:  N Elaborate Keith is a person
+Leaf:  S span who is willing to save the Albatross from house mice .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause Those animals are getting killed
+Leaf:  S span because of those rodents
+Inner:  N Cause None Cause NS
+Leaf:  N Elaborate and he is doing whatever
+Leaf:  S span he can
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span in order to prolong their lives .
+Inner:  N Cause None Enablement NS
+Inner:  S span None Cause NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint He does not celebrate birthdays
+Leaf:  N Enablement and chooses to place bait traps on the island
+Leaf:  N Elaborate in order to kill as many rodents
+Leaf:  S span that he can .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Keith is a person', None, None, None, 0), ('who is willing to save the Albatross from house mice .', None, None, None, 1), ('Those animals are getting killed', None, None, None, 0), ('because of those rodents', None, None, None, 0), ('and he is doing whatever', None, None, None, 0), ('he can', None, None, None, 0), ('in order to prolong their lives .', None, None, None, 1), ('He does not celebrate birthdays', None, None, None, 0), ('and chooses to place bait traps on the island', None, None, None, 0), ('in order to kill as many rodents', None, None, None, 0), ('that he can .', None, None, None, 1)]

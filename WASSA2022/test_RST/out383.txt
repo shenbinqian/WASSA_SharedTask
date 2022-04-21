@@ -1,0 +1,25 @@
+=====================> [[('This article was a little tough for me to understand between religion and violence and different countries .', None, None, None, 1), ('I feel sad for all the iraqis', None, None, None, 0), ('that are innocent', None, None, None, 0), ('and just dealing with brutality as a consequence of a few bad seeds .', None, None, None, 1), ('Being used as human shields', None, None, None, 0), ('and having there whole village', None, None, None, 0), ('torn to pieces', None, None, None, 0), ("I do n't know", None, None, None, 0), ('if I would want to stay', None, None, None, 0), ('and rebuild in the same place .', None, None, None, 1), ('It seems as if nothing changes', None, None, None, 0), ('and violence will never go away for these poor people .', None, None, None, 1)]]
+Leaf:  N Elaborate This article was a little tough for me to understand between religion and violence and different countries .
+Leaf:  N Elaborate I feel sad for all the iraqis
+Leaf:  N Joint that are innocent
+Leaf:  N Joint and just dealing with brutality as a consequence of a few bad seeds .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Temporal Being used as human shields
+Leaf:  N Elaborate and having there whole village
+Leaf:  S span torn to pieces
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Leaf:  S span I do n't know
+Leaf:  N Joint if I would want to stay
+Leaf:  N Joint and rebuild in the same place .
+Inner:  N Attribution None Joint NN
+Inner:  N Background None Attribution SN
+Inner:  N Explanation None Background SN
+Leaf:  N Joint It seems as if nothing changes
+Leaf:  N Joint and violence will never go away for these poor people .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('This article was a little tough for me to understand between religion and violence and different countries .', None, None, None, 1), ('I feel sad for all the iraqis', None, None, None, 0), ('that are innocent', None, None, None, 0), ('and just dealing with brutality as a consequence of a few bad seeds .', None, None, None, 1), ('Being used as human shields', None, None, None, 0), ('and having there whole village', None, None, None, 0), ('torn to pieces', None, None, None, 0), ("I do n't know", None, None, None, 0), ('if I would want to stay', None, None, None, 0), ('and rebuild in the same place .', None, None, None, 1), ('It seems as if nothing changes', None, None, None, 0), ('and violence will never go away for these poor people .', None, None, None, 1)]

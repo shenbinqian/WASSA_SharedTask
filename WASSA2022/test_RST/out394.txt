@@ -1,0 +1,23 @@
+=====================> [[('This article is absurd .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('there are people out there', None, None, None, 0), ('seeking children', None, None, None, 0), ('and convincing them to kill themselves .', None, None, None, 1), ('I can not imagine the pain of those parents .', None, None, None, 1), ('I love my son so much', None, None, None, 0), ('and just reading this makes me want to be sure to spend the next possible second with him .', None, None, None, 1), ("I ca n't imagine someone", None, None, None, 0), ('wanting to take such a life .', None, None, None, 1), ('I hope police get to the bottom of this complex situation fast .', None, None, None, 1)]]
+Leaf:  N Explanation This article is absurd .
+Leaf:  S span I ca n't believe
+Leaf:  N Elaborate there are people out there
+Leaf:  N Joint seeking children
+Leaf:  N Joint and convincing them to kill themselves .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I can not imagine the pain of those parents .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I love my son so much
+Leaf:  N Joint and just reading this makes me want to be sure to spend the next possible second with him .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I ca n't imagine someone
+Leaf:  S span wanting to take such a life .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Leaf:  N Attribution I hope police get to the bottom of this complex situation fast .
+Inner:  Root None None Attribution SN
+[('This article is absurd .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('there are people out there', None, None, None, 0), ('seeking children', None, None, None, 0), ('and convincing them to kill themselves .', None, None, None, 1), ('I can not imagine the pain of those parents .', None, None, None, 1), ('I love my son so much', None, None, None, 0), ('and just reading this makes me want to be sure to spend the next possible second with him .', None, None, None, 1), ("I ca n't imagine someone", None, None, None, 0), ('wanting to take such a life .', None, None, None, 1), ('I hope police get to the bottom of this complex situation fast .', None, None, None, 1)]

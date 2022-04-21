@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about civilian casualties in Yemen from the airstrikes', None, None, None, 0), ('that get dropped over there .', None, None, None, 1), ('It was really sad to read about these normal people dying .', None, None, None, 1), ('They leave their homes in the morning', None, None, None, 0), ('to go to their normal jobs ,', None, None, None, 0), ('some are taxi drivers or ice cream men ,', None, None, None, 0), ('and they just have to hope a bomb isnt dropped on them .', None, None, None, 1), ("I ca n't imagine what living in that kind of environment must be like .", None, None, None, 1), ('How do you find the will', None, None, None, 0), ('to get up', None, None, None, 0), ('and leave the house everyday ?', None, None, None, 1), ('Imagine not being able to remove your family from that situation ?', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about civilian casualties in Yemen from the airstrikes
+Leaf:  S span that get dropped over there .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It was really sad to read about these normal people dying .
+Leaf:  N Enablement They leave their homes in the morning
+Leaf:  S span to go to their normal jobs ,
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint some are taxi drivers or ice cream men ,
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and they just have to hope a bomb isnt dropped on them .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I ca n't imagine what living in that kind of environment must be like .
+Leaf:  N Elaborate How do you find the will
+Leaf:  N Joint to get up
+Leaf:  N Joint and leave the house everyday ?
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Imagine not being able to remove your family from that situation ?
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about civilian casualties in Yemen from the airstrikes', None, None, None, 0), ('that get dropped over there .', None, None, None, 1), ('It was really sad to read about these normal people dying .', None, None, None, 1), ('They leave their homes in the morning', None, None, None, 0), ('to go to their normal jobs ,', None, None, None, 0), ('some are taxi drivers or ice cream men ,', None, None, None, 0), ('and they just have to hope a bomb isnt dropped on them .', None, None, None, 1), ("I ca n't imagine what living in that kind of environment must be like .", None, None, None, 1), ('How do you find the will', None, None, None, 0), ('to get up', None, None, None, 0), ('and leave the house everyday ?', None, None, None, 1), ('Imagine not being able to remove your family from that situation ?', None, None, None, 1)]

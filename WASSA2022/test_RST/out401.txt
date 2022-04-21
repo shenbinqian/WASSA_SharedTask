@@ -1,0 +1,37 @@
+=====================> [[(':', None, None, None, 0), ('This really upsets me ,', None, None, None, 0), ('he has been in the US for 37 years .', None, None, None, 1), ('It is not his fault', None, None, None, 0), ('that the people', None, None, None, 0), ('who adopted him and adoption system', None, None, None, 0), ('did not do their job right .', None, None, None, 1), ('Everyone has had troubles or something', None, None, None, 0), ('they are not proud of .', None, None, None, 1), ('Just because he has made mistakes in the past does not make him less then any other American who has had mistakes .', None, None, None, 1), ('This sickens me', None, None, None, 0), ('that they are going to send him back to a place that he basically does not know at all . The fact that he was adopted by a American family', None, None, None, 0), ('and allowed to live her for so long should be good enough .', None, None, None, 1), ('How was a child', None, None, None, 0), ('to know', None, None, None, 0), ("that their parent 's did n't actually get him a green card .", None, None, None, 1), ('This makes me so sad', None, None, None, 0), ('that this is what our Country has become .', None, None, None, 1)]]
+Leaf:  N Evaluation :
+Leaf:  N Explanation This really upsets me ,
+Leaf:  S span he has been in the US for 37 years .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span It is not his fault
+Leaf:  N Elaborate that the people
+Leaf:  S span who adopted him and adoption system
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit did not do their job right .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Everyone has had troubles or something
+Leaf:  S span they are not proud of .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Just because he has made mistakes in the past does not make him less then any other American who has had mistakes .
+Leaf:  S span This sickens me
+Leaf:  N Joint that they are going to send him back to a place that he basically does not know at all . The fact that he was adopted by a American family
+Leaf:  N Joint and allowed to live her for so long should be good enough .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate How was a child
+Leaf:  S span to know
+Leaf:  N Attribution that their parent 's did n't actually get him a green card .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span This makes me so sad
+Leaf:  N Attribution that this is what our Country has become .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[(':', None, None, None, 0), ('This really upsets me ,', None, None, None, 0), ('he has been in the US for 37 years .', None, None, None, 1), ('It is not his fault', None, None, None, 0), ('that the people', None, None, None, 0), ('who adopted him and adoption system', None, None, None, 0), ('did not do their job right .', None, None, None, 1), ('Everyone has had troubles or something', None, None, None, 0), ('they are not proud of .', None, None, None, 1), ('Just because he has made mistakes in the past does not make him less then any other American who has had mistakes .', None, None, None, 1), ('This sickens me', None, None, None, 0), ('that they are going to send him back to a place that he basically does not know at all . The fact that he was adopted by a American family', None, None, None, 0), ('and allowed to live her for so long should be good enough .', None, None, None, 1), ('How was a child', None, None, None, 0), ('to know', None, None, None, 0), ("that their parent 's did n't actually get him a green card .", None, None, None, 1), ('This makes me so sad', None, None, None, 0), ('that this is what our Country has become .', None, None, None, 1)]

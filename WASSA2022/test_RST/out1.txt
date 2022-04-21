@@ -1,0 +1,29 @@
+=====================> [[('Hello Friend , i am writing to you', None, None, None, 0), ('as regards an article', None, None, None, 0), ('i read', None, None, None, 0), ('and i will also like to let you how i felt about the article .', None, None, None, 1), ('I was really sad and gutted', None, None, None, 0), ('by what transpired in the article .', None, None, None, 1), ('It was about an inmate with the name Richardson .', None, None, None, 1), ('Richardson normally stay alone in his cell room ,', None, None, None, 0), ('but on this day another inmate was brought to him', None, None, None, 0), ('to start living with Richardson in his cell room', None, None, None, 0), ('the nickname of the Cell room mate was The prophet', None, None, None, 0), ('which has previous record of assaulting about 20 other inmate .', None, None, None, 1), ('This also lead to the assault of Richardson', None, None, None, 0), ('which really mad me sad .', None, None, None, 1)]]
+Leaf:  N Manner-Means Hello Friend , i am writing to you
+Leaf:  N Elaborate as regards an article
+Leaf:  S span i read
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and i will also like to let you how i felt about the article .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate I was really sad and gutted
+Leaf:  S span by what transpired in the article .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It was about an inmate with the name Richardson .
+Leaf:  S span Richardson normally stay alone in his cell room ,
+Leaf:  N Enablement but on this day another inmate was brought to him
+Leaf:  S span to start living with Richardson in his cell room
+Inner:  N Contrast None Enablement NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate the nickname of the Cell room mate was The prophet
+Leaf:  S span which has previous record of assaulting about 20 other inmate .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Evaluation This also lead to the assault of Richardson
+Leaf:  S span which really mad me sad .
+Inner:  S span None Evaluation NS
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello Friend , i am writing to you', None, None, None, 0), ('as regards an article', None, None, None, 0), ('i read', None, None, None, 0), ('and i will also like to let you how i felt about the article .', None, None, None, 1), ('I was really sad and gutted', None, None, None, 0), ('by what transpired in the article .', None, None, None, 1), ('It was about an inmate with the name Richardson .', None, None, None, 1), ('Richardson normally stay alone in his cell room ,', None, None, None, 0), ('but on this day another inmate was brought to him', None, None, None, 0), ('to start living with Richardson in his cell room', None, None, None, 0), ('the nickname of the Cell room mate was The prophet', None, None, None, 0), ('which has previous record of assaulting about 20 other inmate .', None, None, None, 1), ('This also lead to the assault of Richardson', None, None, None, 0), ('which really mad me sad .', None, None, None, 1)]

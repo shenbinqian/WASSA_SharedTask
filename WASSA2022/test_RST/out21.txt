@@ -1,0 +1,31 @@
+=====================> [[('This article was about the crisis in Syria', None, None, None, 0), ('that is currently going on .', None, None, None, 1), ('Families are struggling with no end in sight .', None, None, None, 1), ("It 's horrible conditions over there", None, None, None, 0), ('and impossible to get themselves out .', None, None, None, 1), ('Elderly people', None, None, None, 0), ('who have been retired', None, None, None, 0), ('and worked for so long ,', None, None, None, 0), ('are faced with the horrible scenario', None, None, None, 0), ('of fighting for every little bit of resources', None, None, None, 0), ('they can find .', None, None, None, 1), ("Younger families do n't have a supply of anything", None, None, None, 0), ('to fall back on .', None, None, None, 1), ('They fearful', None, None, None, 0), ('they will die at any moment .', None, None, None, 1)]]
+Leaf:  N Elaborate This article was about the crisis in Syria
+Leaf:  S span that is currently going on .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Families are struggling with no end in sight .
+Leaf:  N Joint It 's horrible conditions over there
+Leaf:  N Joint and impossible to get themselves out .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Elderly people
+Leaf:  N Joint who have been retired
+Leaf:  N Joint and worked for so long ,
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate are faced with the horrible scenario
+Leaf:  N Elaborate of fighting for every little bit of resources
+Leaf:  S span they can find .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate Younger families do n't have a supply of anything
+Leaf:  S span to fall back on .
+Inner:  N Summary None Elaborate NS
+Leaf:  S span They fearful
+Leaf:  N Attribution they will die at any moment .
+Inner:  S span None Attribution SN
+Inner:  S span None Summary NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This article was about the crisis in Syria', None, None, None, 0), ('that is currently going on .', None, None, None, 1), ('Families are struggling with no end in sight .', None, None, None, 1), ("It 's horrible conditions over there", None, None, None, 0), ('and impossible to get themselves out .', None, None, None, 1), ('Elderly people', None, None, None, 0), ('who have been retired', None, None, None, 0), ('and worked for so long ,', None, None, None, 0), ('are faced with the horrible scenario', None, None, None, 0), ('of fighting for every little bit of resources', None, None, None, 0), ('they can find .', None, None, None, 1), ("Younger families do n't have a supply of anything", None, None, None, 0), ('to fall back on .', None, None, None, 1), ('They fearful', None, None, None, 0), ('they will die at any moment .', None, None, None, 1)]

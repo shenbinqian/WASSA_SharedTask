@@ -1,0 +1,25 @@
+=====================> [[('Have you heard about the poaching of tigers', None, None, None, 0), ('and how prevalent it is ?', None, None, None, 1), ('I just read an article', None, None, None, 0), ('about how all these efforts were made', None, None, None, 0), ('to make sure', None, None, None, 0), ('the tiger population started growing ,', None, None, None, 0), ('and it did for years . But recently lots of tigers have been dying', None, None, None, 0), ('and it seems like it is due to humans .', None, None, None, 1), ('How terrible of a person must you be to be able to walk up to a giant cute tiger', None, None, None, 0), ('and just kill it for no reason .', None, None, None, 1), ('Humans are the absolute worst thing', None, None, None, 0), ('that ever happened to this planet .', None, None, None, 1)]]
+Leaf:  N Elaborate Have you heard about the poaching of tigers
+Leaf:  S span and how prevalent it is ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I just read an article
+Leaf:  N Enablement about how all these efforts were made
+Leaf:  S span to make sure
+Leaf:  N Attribution the tiger population started growing ,
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Leaf:  N Cause and it did for years . But recently lots of tigers have been dying
+Leaf:  S span and it seems like it is due to humans .
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal How terrible of a person must you be to be able to walk up to a giant cute tiger
+Leaf:  N Temporal and just kill it for no reason .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Humans are the absolute worst thing
+Leaf:  S span that ever happened to this planet .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Have you heard about the poaching of tigers', None, None, None, 0), ('and how prevalent it is ?', None, None, None, 1), ('I just read an article', None, None, None, 0), ('about how all these efforts were made', None, None, None, 0), ('to make sure', None, None, None, 0), ('the tiger population started growing ,', None, None, None, 0), ('and it did for years . But recently lots of tigers have been dying', None, None, None, 0), ('and it seems like it is due to humans .', None, None, None, 1), ('How terrible of a person must you be to be able to walk up to a giant cute tiger', None, None, None, 0), ('and just kill it for no reason .', None, None, None, 1), ('Humans are the absolute worst thing', None, None, None, 0), ('that ever happened to this planet .', None, None, None, 1)]

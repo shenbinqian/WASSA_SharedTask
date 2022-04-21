@@ -1,0 +1,25 @@
+=====================> [[('This article is heartbreaking !', None, None, None, 1), ('You need to read it .', None, None, None, 1), ('Its all about microcephaly , a mental impairment', None, None, None, 0), ('that can be mild to a severe condition', None, None, None, 0), ('babies are born with', None, None, None, 0), ('that are related to Zika infections .', None, None, None, 1), ("Mothers do n't even know", None, None, None, 0), ('until the last stage of pregnancy', None, None, None, 0), ('whether their babies are effected or not ,', None, None, None, 0), ('can you Imagine ?', None, None, None, 1), ("Wow , would n't it be great if this article was required reading for all government voting representatives", None, None, None, 0), ("when it comes to women 's issues !", None, None, None, 1)]]
+Leaf:  N Summary This article is heartbreaking !
+Leaf:  S span You need to read it .
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate Its all about microcephaly , a mental impairment
+Leaf:  S span that can be mild to a severe condition
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate babies are born with
+Leaf:  S span that are related to Zika infections .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Mothers do n't even know
+Leaf:  S span until the last stage of pregnancy
+Leaf:  N Attribution whether their babies are effected or not ,
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span can you Imagine ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Background Wow , would n't it be great if this article was required reading for all government voting representatives
+Leaf:  S span when it comes to women 's issues !
+Inner:  N Textual-Organization None Background NS
+Inner:  Root None None Textual-Organization NN
+[('This article is heartbreaking !', None, None, None, 1), ('You need to read it .', None, None, None, 1), ('Its all about microcephaly , a mental impairment', None, None, None, 0), ('that can be mild to a severe condition', None, None, None, 0), ('babies are born with', None, None, None, 0), ('that are related to Zika infections .', None, None, None, 1), ("Mothers do n't even know", None, None, None, 0), ('until the last stage of pregnancy', None, None, None, 0), ('whether their babies are effected or not ,', None, None, None, 0), ('can you Imagine ?', None, None, None, 1), ("Wow , would n't it be great if this article was required reading for all government voting representatives", None, None, None, 0), ("when it comes to women 's issues !", None, None, None, 1)]

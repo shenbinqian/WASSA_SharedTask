@@ -1,0 +1,27 @@
+=====================> [[('This is horrific really and truly .', None, None, None, 1), ("I did n't know", None, None, None, 0), ('that something', None, None, None, 0), ('called gay conversion therapy', None, None, None, 0), ('existed', None, None, None, 0), ('and that it was done by extreme Christian people .', None, None, None, 1), ("That is not what the bible teaches you to do and be like . Families do n't do stuff like that to one another", None, None, None, 0), ('if they are truly family', None, None, None, 0), ('and truly love you .', None, None, None, 1), ("I would n't blame this person", None, None, None, 0), ('for cutting off their family', None, None, None, 0), ('and turning their backs on the Christian faith as a whole .', None, None, None, 1), ("This person 's family and church community turned their backs on this person .", None, None, None, 1)]]
+Leaf:  N Elaborate This is horrific really and truly .
+Leaf:  S span I did n't know
+Leaf:  N Elaborate that something
+Leaf:  S span called gay conversion therapy
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit existed
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and that it was done by extreme Christian people .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition That is not what the bible teaches you to do and be like . Families do n't do stuff like that to one another
+Leaf:  N Joint if they are truly family
+Leaf:  N Joint and truly love you .
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I would n't blame this person
+Leaf:  N Joint for cutting off their family
+Leaf:  N Joint and turning their backs on the Christian faith as a whole .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span This person 's family and church community turned their backs on this person .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is horrific really and truly .', None, None, None, 1), ("I did n't know", None, None, None, 0), ('that something', None, None, None, 0), ('called gay conversion therapy', None, None, None, 0), ('existed', None, None, None, 0), ('and that it was done by extreme Christian people .', None, None, None, 1), ("That is not what the bible teaches you to do and be like . Families do n't do stuff like that to one another", None, None, None, 0), ('if they are truly family', None, None, None, 0), ('and truly love you .', None, None, None, 1), ("I would n't blame this person", None, None, None, 0), ('for cutting off their family', None, None, None, 0), ('and turning their backs on the Christian faith as a whole .', None, None, None, 1), ("This person 's family and church community turned their backs on this person .", None, None, None, 1)]

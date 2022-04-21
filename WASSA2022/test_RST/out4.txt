@@ -1,0 +1,27 @@
+=====================> [[('Hello friend , I will like to tell you', None, None, None, 0), ('Qatar loses 3 troops', None, None, None, 0), ('serving with Saudi coalition in Yemen —', None, None, None, 0), ('The Gulf nation of Qatar says', None, None, None, 0), ('three of its soldiers have been killed', None, None, None, 0), ('while participating in Saudi-led military operations in Yemen .', None, None, None, 1), ("It was Qatar 's biggest known loss of life in the conflict since its first reported ground deployment there last September . The Qatari military says", None, None, None, 0), ('the deaths occurred on Monday', None, None, None, 0), ('but did not provide any details .', None, None, None, 1), ('The military statement ,', None, None, None, 0), ('carried by the official Qatar News Agency ,', None, None, None, 0), ('identified the three', None, None, None, 0), ('killed soldiers as Mohammed Awad Salim , Mohammed Dawood Khayal and Mohammed Nasser Mohammed .', None, None, None, 1)]]
+Leaf:  S span Hello friend , I will like to tell you
+Leaf:  N Elaborate Qatar loses 3 troops
+Leaf:  S span serving with Saudi coalition in Yemen —
+Inner:  N Attribution None Elaborate NS
+Inner:  N Summary None Attribution SN
+Leaf:  S span The Gulf nation of Qatar says
+Leaf:  N Background three of its soldiers have been killed
+Leaf:  S span while participating in Saudi-led military operations in Yemen .
+Inner:  N Attribution None Background NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It was Qatar 's biggest known loss of life in the conflict since its first reported ground deployment there last September . The Qatari military says
+Leaf:  N Contrast the deaths occurred on Monday
+Leaf:  S span but did not provide any details .
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The military statement ,
+Leaf:  S span carried by the official Qatar News Agency ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate identified the three
+Leaf:  S span killed soldiers as Mohammed Awad Salim , Mohammed Dawood Khayal and Mohammed Nasser Mohammed .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Hello friend , I will like to tell you', None, None, None, 0), ('Qatar loses 3 troops', None, None, None, 0), ('serving with Saudi coalition in Yemen —', None, None, None, 0), ('The Gulf nation of Qatar says', None, None, None, 0), ('three of its soldiers have been killed', None, None, None, 0), ('while participating in Saudi-led military operations in Yemen .', None, None, None, 1), ("It was Qatar 's biggest known loss of life in the conflict since its first reported ground deployment there last September . The Qatari military says", None, None, None, 0), ('the deaths occurred on Monday', None, None, None, 0), ('but did not provide any details .', None, None, None, 1), ('The military statement ,', None, None, None, 0), ('carried by the official Qatar News Agency ,', None, None, None, 0), ('identified the three', None, None, None, 0), ('killed soldiers as Mohammed Awad Salim , Mohammed Dawood Khayal and Mohammed Nasser Mohammed .', None, None, None, 1)]

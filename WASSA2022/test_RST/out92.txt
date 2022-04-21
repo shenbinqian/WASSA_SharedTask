@@ -1,0 +1,19 @@
+=====================> [[("So here 's the thing .", None, None, None, 1), ('ISIS is trying to claim this guy ,', None, None, None, 0), ("but really , they have n't shown any evidence .", None, None, None, 1), ('I would be far more willing to say', None, None, None, 0), ('he \'s a home-grown terrorist than a " jihadi "', None, None, None, 0), ('- I mean , the guy oved here', None, None, None, 0), ('when he was 3 months old !', None, None, None, 1), ("He 's just as american as whitey mc white", None, None, None, 0), ('who decides to run over protestors .', None, None, None, 1)]]
+Leaf:  N Elaborate So here 's the thing .
+Leaf:  N Contrast ISIS is trying to claim this guy ,
+Leaf:  S span but really , they have n't shown any evidence .
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span I would be far more willing to say
+Leaf:  N Explanation he 's a home-grown terrorist than a " jihadi "
+Leaf:  N Temporal - I mean , the guy oved here
+Leaf:  S span when he was 3 months old !
+Inner:  S span None Temporal NS
+Inner:  N Attribution None Explanation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate He 's just as american as whitey mc white
+Leaf:  S span who decides to run over protestors .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("So here 's the thing .", None, None, None, 1), ('ISIS is trying to claim this guy ,', None, None, None, 0), ("but really , they have n't shown any evidence .", None, None, None, 1), ('I would be far more willing to say', None, None, None, 0), ('he \'s a home-grown terrorist than a " jihadi "', None, None, None, 0), ('- I mean , the guy oved here', None, None, None, 0), ('when he was 3 months old !', None, None, None, 1), ("He 's just as american as whitey mc white", None, None, None, 0), ('who decides to run over protestors .', None, None, None, 1)]

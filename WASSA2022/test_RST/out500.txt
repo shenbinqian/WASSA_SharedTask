@@ -1,0 +1,17 @@
+=====================> [[('Schools have been a breeding ground for insults and bullying for a very , very long time .', None, None, None, 1), ('Why is it that people only address this', None, None, None, 0), ('when they have someone in particular', None, None, None, 0), ('that they want to blame for it ?', None, None, None, 1), ("It 's always ignored any other day .", None, None, None, 1), ("Children suffer for years on end through the school system . It 's such a shame that the media does n't spend more time", None, None, None, 0), ('covering this', None, None, None, 0), ('and shedding more light on it .', None, None, None, 1)]]
+Leaf:  N Topic-Comment Schools have been a breeding ground for insults and bullying for a very , very long time .
+Leaf:  N Background Why is it that people only address this
+Leaf:  N Elaborate when they have someone in particular
+Leaf:  S span that they want to blame for it ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Summary None Topic-Comment NS
+Leaf:  N Joint It 's always ignored any other day .
+Leaf:  N Elaborate Children suffer for years on end through the school system . It 's such a shame that the media does n't spend more time
+Leaf:  N Joint covering this
+Leaf:  N Joint and shedding more light on it .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('Schools have been a breeding ground for insults and bullying for a very , very long time .', None, None, None, 1), ('Why is it that people only address this', None, None, None, 0), ('when they have someone in particular', None, None, None, 0), ('that they want to blame for it ?', None, None, None, 1), ("It 's always ignored any other day .", None, None, None, 1), ("Children suffer for years on end through the school system . It 's such a shame that the media does n't spend more time", None, None, None, 0), ('covering this', None, None, None, 0), ('and shedding more light on it .', None, None, None, 1)]

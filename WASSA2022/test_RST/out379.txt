@@ -1,0 +1,35 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('that leprosy seems to be cropping again .', None, None, None, 1), ('You know', None, None, None, 0), ('I lived in Hawaii ,', None, None, None, 0), ("but I do n't know", None, None, None, 0), ('if you knew', None, None, None, 0), ('that Molokai was a leper colony .', None, None, None, 1), ('They shipped people with leprosy off to Molokai', None, None, None, 0), ('that had leprosy ,', None, None, None, 0), ('and the island is widely known as the leper island .', None, None, None, 1), ("It 's beautiful now , but it 's a shame that so many people had to suffer from leprosy at the time ,", None, None, None, 0), ("and now it 's popping up in SQUIRRELS ? So , that makes three mammals", None, None, None, 0), ('that have been found to be able to carry the illness .', None, None, None, 1), ('I hope', None, None, None, 0), ('that they can contain it', None, None, None, 0), ('and that the squirrel population does not have it spread too far ,', None, None, None, 0), ("and that it does n't spread to people as well !", None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution that leprosy seems to be cropping again .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span You know
+Leaf:  N Contrast I lived in Hawaii ,
+Leaf:  S span but I do n't know
+Leaf:  S span if you knew
+Leaf:  N Attribution that Molokai was a leper colony .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  N Attribution None Contrast NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate They shipped people with leprosy off to Molokai
+Leaf:  S span that had leprosy ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and the island is widely known as the leper island .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It 's beautiful now , but it 's a shame that so many people had to suffer from leprosy at the time ,
+Leaf:  N Elaborate and now it 's popping up in SQUIRRELS ? So , that makes three mammals
+Leaf:  S span that have been found to be able to carry the illness .
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Joint that they can contain it
+Leaf:  N Joint and that the squirrel population does not have it spread too far ,
+Leaf:  N Joint and that it does n't spread to people as well !
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I ca n't believe", None, None, None, 0), ('that leprosy seems to be cropping again .', None, None, None, 1), ('You know', None, None, None, 0), ('I lived in Hawaii ,', None, None, None, 0), ("but I do n't know", None, None, None, 0), ('if you knew', None, None, None, 0), ('that Molokai was a leper colony .', None, None, None, 1), ('They shipped people with leprosy off to Molokai', None, None, None, 0), ('that had leprosy ,', None, None, None, 0), ('and the island is widely known as the leper island .', None, None, None, 1), ("It 's beautiful now , but it 's a shame that so many people had to suffer from leprosy at the time ,", None, None, None, 0), ("and now it 's popping up in SQUIRRELS ? So , that makes three mammals", None, None, None, 0), ('that have been found to be able to carry the illness .', None, None, None, 1), ('I hope', None, None, None, 0), ('that they can contain it', None, None, None, 0), ('and that the squirrel population does not have it spread too far ,', None, None, None, 0), ("and that it does n't spread to people as well !", None, None, None, 1)]

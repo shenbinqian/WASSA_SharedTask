@@ -1,0 +1,17 @@
+=====================> [[('I really do not like', None, None, None, 0), ('when people are told what to do and what not to do .', None, None, None, 1), ('When they are banning smoking in public essentially , I just do not like that at all .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('there should be a tax on unhealthy foods or cola as well .', None, None, None, 1), ('If people want to do that kind of thing ,', None, None, None, 0), ('who are are to tell them', None, None, None, 0), ('that they can not do that', None, None, None, 0)]]
+Leaf:  N Background I really do not like
+Leaf:  S span when people are told what to do and what not to do .
+Inner:  N Background None Background NS
+Leaf:  S span When they are banning smoking in public essentially , I just do not like that at all .
+Inner:  N Evaluation None Background NS
+Leaf:  S span I am not sure
+Leaf:  N Attribution there should be a tax on unhealthy foods or cola as well .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span If people want to do that kind of thing ,
+Leaf:  S span who are are to tell them
+Leaf:  N Attribution that they can not do that
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  Root None None Elaborate NS
+[('I really do not like', None, None, None, 0), ('when people are told what to do and what not to do .', None, None, None, 1), ('When they are banning smoking in public essentially , I just do not like that at all .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('there should be a tax on unhealthy foods or cola as well .', None, None, None, 1), ('If people want to do that kind of thing ,', None, None, None, 0), ('who are are to tell them', None, None, None, 0), ('that they can not do that', None, None, None, 0)]

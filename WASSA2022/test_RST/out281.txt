@@ -1,0 +1,47 @@
+=====================> [[('Hey , my friends are awesome and amazing', None, None, None, 0), ("and the one 's", None, None, None, 0), ('who have stuck around', None, None, None, 0), ('have given me so much life and love ,', None, None, None, 0), ('I really appreciate them', None, None, None, 0), ("and I do n't know what to do anymore with them , I have so much love for how they treat me", None, None, None, 0), ('and they always give me the help', None, None, None, 0), ('I need', None, None, None, 0), ('to make sure', None, None, None, 0), ('I am able to keep going', None, None, None, 0), ('because without them some things in life would be really hard .', None, None, None, 1), ("But I 'm more than happy about what is going on . So from that understanding my friends are everything to me", None, None, None, 0), ('and they always have my back ,', None, None, None, 0), ("I could n't even make out what I want to say in complete words", None, None, None, 0), ('because I just feel', None, None, None, 0), ('that we have so much to give to each other', None, None, None, 0), ('like how they help me out ,', None, None, None, 0), ('I always do my best to help them out', None, None, None, 0), ('because I want to see them do good', None, None, None, 0), ('and see them flourish the same way', None, None, None, 0), ('they want', None, None, None, 0), ('to see me flourish', None, None, None, 0), ('and thin', None, None, None, 0)]]
+Leaf:  N Joint Hey , my friends are awesome and amazing
+Leaf:  N Elaborate and the one 's
+Leaf:  S span who have stuck around
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have given me so much life and love ,
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I really appreciate them
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and I do n't know what to do anymore with them , I have so much love for how they treat me
+Leaf:  N Elaborate and they always give me the help
+Leaf:  S span I need
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to make sure
+Leaf:  N Attribution I am able to keep going
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Enablement NS
+Leaf:  S span because without them some things in life would be really hard .
+Inner:  N Joint None Explanation NS
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint But I 'm more than happy about what is going on . So from that understanding my friends are everything to me
+Leaf:  N Joint and they always have my back ,
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation I could n't even make out what I want to say in complete words
+Leaf:  S span because I just feel
+Leaf:  N Elaborate that we have so much to give to each other
+Leaf:  S span like how they help me out ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation I always do my best to help them out
+Leaf:  N Joint because I want to see them do good
+Leaf:  N Elaborate and see them flourish the same way
+Leaf:  S span they want
+Leaf:  N Joint to see me flourish
+Leaf:  N Joint and thin
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey , my friends are awesome and amazing', None, None, None, 0), ("and the one 's", None, None, None, 0), ('who have stuck around', None, None, None, 0), ('have given me so much life and love ,', None, None, None, 0), ('I really appreciate them', None, None, None, 0), ("and I do n't know what to do anymore with them , I have so much love for how they treat me", None, None, None, 0), ('and they always give me the help', None, None, None, 0), ('I need', None, None, None, 0), ('to make sure', None, None, None, 0), ('I am able to keep going', None, None, None, 0), ('because without them some things in life would be really hard .', None, None, None, 1), ("But I 'm more than happy about what is going on . So from that understanding my friends are everything to me", None, None, None, 0), ('and they always have my back ,', None, None, None, 0), ("I could n't even make out what I want to say in complete words", None, None, None, 0), ('because I just feel', None, None, None, 0), ('that we have so much to give to each other', None, None, None, 0), ('like how they help me out ,', None, None, None, 0), ('I always do my best to help them out', None, None, None, 0), ('because I want to see them do good', None, None, None, 0), ('and see them flourish the same way', None, None, None, 0), ('they want', None, None, None, 0), ('to see me flourish', None, None, None, 0), ('and thin', None, None, None, 0)]

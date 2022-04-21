@@ -1,0 +1,19 @@
+=====================> [[('I like this articles .', None, None, None, 1), ('It is a private message.And', None, None, None, 0), ('i am share with my friends and relative in social media .', None, None, None, 1), ('It is very interesting .', None, None, None, 1), ('It is different ways', None, None, None, 0), ('of viewing the world.Some may have strong sense of smell ,', None, None, None, 0), ('and their experiences are filtered through aromas and scents.he sense of touch , taste and hearing can also be ways', None, None, None, 0), ('of connecting to the political .', None, None, None, 1), ('It is very interesting and improve our knowledge .', None, None, None, 1)]]
+Leaf:  N Elaborate I like this articles .
+Leaf:  N Elaborate It is a private message.And
+Leaf:  S span i am share with my friends and relative in social media .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is very interesting .
+Leaf:  N Elaborate It is different ways
+Leaf:  S span of viewing the world.Some may have strong sense of smell ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and their experiences are filtered through aromas and scents.he sense of touch , taste and hearing can also be ways
+Leaf:  S span of connecting to the political .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It is very interesting and improve our knowledge .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I like this articles .', None, None, None, 1), ('It is a private message.And', None, None, None, 0), ('i am share with my friends and relative in social media .', None, None, None, 1), ('It is very interesting .', None, None, None, 1), ('It is different ways', None, None, None, 0), ('of viewing the world.Some may have strong sense of smell ,', None, None, None, 0), ('and their experiences are filtered through aromas and scents.he sense of touch , taste and hearing can also be ways', None, None, None, 0), ('of connecting to the political .', None, None, None, 1), ('It is very interesting and improve our knowledge .', None, None, None, 1)]

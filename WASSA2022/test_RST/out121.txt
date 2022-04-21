@@ -1,0 +1,25 @@
+=====================> [[('Climate change is real , man .', None, None, None, 1), ("It 's effecting us in all kinds of ways .", None, None, None, 1), ("It 's only going to get worse as well .", None, None, None, 1), ("It 's effecting the kind of trees", None, None, None, 0), ('that exist in forests .', None, None, None, 1), ('The way animals are surviving .', None, None, None, 1), ('The kind of bugs', None, None, None, 0), ('that survive .', None, None, None, 1), ("It 's all connected to climate change .", None, None, None, 1), ('We are destroying this planet', None, None, None, 0), ('and we need to do something about it', None, None, None, 0), ('otherwise it will be too late .', None, None, None, 1)]]
+Leaf:  N Elaborate Climate change is real , man .
+Leaf:  N Joint It 's effecting us in all kinds of ways .
+Leaf:  N Joint It 's only going to get worse as well .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It 's effecting the kind of trees
+Leaf:  S span that exist in forests .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint The way animals are surviving .
+Leaf:  N Elaborate The kind of bugs
+Leaf:  S span that survive .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span It 's all connected to climate change .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span We are destroying this planet
+Leaf:  S span and we need to do something about it
+Leaf:  N Condition otherwise it will be too late .
+Inner:  N Evaluation None Condition SN
+Inner:  N Topic-Comment None Evaluation SN
+Inner:  Root None None Topic-Comment NN
+[('Climate change is real , man .', None, None, None, 1), ("It 's effecting us in all kinds of ways .", None, None, None, 1), ("It 's only going to get worse as well .", None, None, None, 1), ("It 's effecting the kind of trees", None, None, None, 0), ('that exist in forests .', None, None, None, 1), ('The way animals are surviving .', None, None, None, 1), ('The kind of bugs', None, None, None, 0), ('that survive .', None, None, None, 1), ("It 's all connected to climate change .", None, None, None, 1), ('We are destroying this planet', None, None, None, 0), ('and we need to do something about it', None, None, None, 0), ('otherwise it will be too late .', None, None, None, 1)]

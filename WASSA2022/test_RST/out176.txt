@@ -1,0 +1,19 @@
+=====================> [[('I just read the most disturbing article about the violence in Syria .', None, None, None, 1), ('One out of every people have died', None, None, None, 0), ('as a result of the turmoil .', None, None, None, 1), ('People are fleeing their homes', None, None, None, 0), ('to make an extremely dangerous journey', None, None, None, 0), ('and dying', None, None, None, 0), ('while trying to escape .', None, None, None, 1), ('It is a horrible situation', None, None, None, 0), ('and I would love to figure out how to help !', None, None, None, 1)]]
+Leaf:  N Elaborate I just read the most disturbing article about the violence in Syria .
+Leaf:  N Cause One out of every people have died
+Leaf:  S span as a result of the turmoil .
+Inner:  N Summary None Cause NS
+Leaf:  N Enablement People are fleeing their homes
+Leaf:  S span to make an extremely dangerous journey
+Inner:  N Joint None Enablement NS
+Leaf:  N Background and dying
+Leaf:  S span while trying to escape .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is a horrible situation
+Leaf:  S span and I would love to figure out how to help !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read the most disturbing article about the violence in Syria .', None, None, None, 1), ('One out of every people have died', None, None, None, 0), ('as a result of the turmoil .', None, None, None, 1), ('People are fleeing their homes', None, None, None, 0), ('to make an extremely dangerous journey', None, None, None, 0), ('and dying', None, None, None, 0), ('while trying to escape .', None, None, None, 1), ('It is a horrible situation', None, None, None, 0), ('and I would love to figure out how to help !', None, None, None, 1)]

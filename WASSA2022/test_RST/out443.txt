@@ -1,0 +1,15 @@
+=====================> [[('The senseless attacks on mankind does not make our situation any better as a people .', None, None, None, 1), ('We should be able to come together in this moment', None, None, None, 0), ('and really try to understand the root cause for these issues .', None, None, None, 1), ('I should really write a letter to the government', None, None, None, 0), ('and try to make sure', None, None, None, 0), ('that we see things on the same page .', None, None, None, 1), ('Not that it would though .', None, None, None, 1)]]
+Leaf:  N Elaborate The senseless attacks on mankind does not make our situation any better as a people .
+Leaf:  N Joint We should be able to come together in this moment
+Leaf:  N Joint and really try to understand the root cause for these issues .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint I should really write a letter to the government
+Leaf:  S span and try to make sure
+Leaf:  N Attribution that we see things on the same page .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Leaf:  S span Not that it would though .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The senseless attacks on mankind does not make our situation any better as a people .', None, None, None, 1), ('We should be able to come together in this moment', None, None, None, 0), ('and really try to understand the root cause for these issues .', None, None, None, 1), ('I should really write a letter to the government', None, None, None, 0), ('and try to make sure', None, None, None, 0), ('that we see things on the same page .', None, None, None, 1), ('Not that it would though .', None, None, None, 1)]

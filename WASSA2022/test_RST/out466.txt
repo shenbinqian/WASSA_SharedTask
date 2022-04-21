@@ -1,0 +1,25 @@
+=====================> [[('I feel bad for the poor people', None, None, None, 0), ('trying to leave their countries .', None, None, None, 1), ('They are dying for no reason .', None, None, None, 1), ('They just want a better life .', None, None, None, 1), ('It is a shame .', None, None, None, 1), ('I wish', None, None, None, 0), ('this did not have to happen to them .', None, None, None, 1), ('Everyone should have a place', None, None, None, 0), ('to live', None, None, None, 0), ('where they do not have to flee .', None, None, None, 1), ('These countries are so dangerous', None, None, None, 0), ("that they ca n't stand to stay .", None, None, None, 1)]]
+Leaf:  N Elaborate I feel bad for the poor people
+Leaf:  S span trying to leave their countries .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They are dying for no reason .
+Leaf:  S span They just want a better life .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is a shame .
+Leaf:  S span I wish
+Leaf:  N Attribution this did not have to happen to them .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Everyone should have a place
+Leaf:  N Elaborate to live
+Leaf:  S span where they do not have to flee .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Cause These countries are so dangerous
+Leaf:  S span that they ca n't stand to stay .
+Inner:  S span None Cause NS
+Inner:  Root None None Explanation NS
+[('I feel bad for the poor people', None, None, None, 0), ('trying to leave their countries .', None, None, None, 1), ('They are dying for no reason .', None, None, None, 1), ('They just want a better life .', None, None, None, 1), ('It is a shame .', None, None, None, 1), ('I wish', None, None, None, 0), ('this did not have to happen to them .', None, None, None, 1), ('Everyone should have a place', None, None, None, 0), ('to live', None, None, None, 0), ('where they do not have to flee .', None, None, None, 1), ('These countries are so dangerous', None, None, None, 0), ("that they ca n't stand to stay .", None, None, None, 1)]

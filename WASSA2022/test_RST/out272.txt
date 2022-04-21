@@ -1,0 +1,25 @@
+=====================> [[('this event is a horrible and unspeakable one', None, None, None, 0), ("i totally do n't see", None, None, None, 0), ('the point of life', None, None, None, 0), ('if both parents can do such a thing on a 13 year old child', None, None, None, 0), ('and move on with life .', None, None, None, 1), ('no matter the struggle or situation', None, None, None, 0), ('this is so inhuman and insane', None, None, None, 0), ('to even consider as a way out', None, None, None, 0), ('to meet end needs .', None, None, None, 1), ('Well i just hope the daughter get to build a new life', None, None, None, 0), ('and mentally erase the trauma', None, None, None, 0), ('she has been through .', None, None, None, 1)]]
+Leaf:  N Cause this event is a horrible and unspeakable one
+Leaf:  S span i totally do n't see
+Leaf:  N Attribution the point of life
+Inner:  N Condition None Attribution SN
+Leaf:  N Joint if both parents can do such a thing on a 13 year old child
+Leaf:  N Joint and move on with life .
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span no matter the struggle or situation
+Leaf:  N Cause this is so inhuman and insane
+Leaf:  N Elaborate to even consider as a way out
+Leaf:  S span to meet end needs .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Well i just hope the daughter get to build a new life
+Leaf:  N Elaborate and mentally erase the trauma
+Leaf:  S span she has been through .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('this event is a horrible and unspeakable one', None, None, None, 0), ("i totally do n't see", None, None, None, 0), ('the point of life', None, None, None, 0), ('if both parents can do such a thing on a 13 year old child', None, None, None, 0), ('and move on with life .', None, None, None, 1), ('no matter the struggle or situation', None, None, None, 0), ('this is so inhuman and insane', None, None, None, 0), ('to even consider as a way out', None, None, None, 0), ('to meet end needs .', None, None, None, 1), ('Well i just hope the daughter get to build a new life', None, None, None, 0), ('and mentally erase the trauma', None, None, None, 0), ('she has been through .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('this entire thing is bad', None, None, None, 0), ('because', None, None, None, 0), ('when you start letting people like this get their way', None, None, None, 0), ('it can make for things have problems ,', None, None, None, 0), ('because you can see', None, None, None, 0), ('how they really just start abusing their power', None, None, None, 0), ('and they start making decisions at least in my opinion', None, None, None, 0), ("that does n't really make any sense", None, None, None, 0), ('and I would just like for them to start thinking', None, None, None, 0), ('about what they are doing .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution this entire thing is bad
+Inner:  N Explanation None Attribution SN
+Leaf:  N Explanation because
+Leaf:  S span when you start letting people like this get their way
+Leaf:  N Cause it can make for things have problems ,
+Inner:  S span None Cause SN
+Inner:  N Explanation None Explanation NS
+Leaf:  S span because you can see
+Leaf:  N Joint how they really just start abusing their power
+Leaf:  N Elaborate and they start making decisions at least in my opinion
+Leaf:  S span that does n't really make any sense
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and I would just like for them to start thinking
+Leaf:  N Attribution about what they are doing .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('I think', None, None, None, 0), ('this entire thing is bad', None, None, None, 0), ('because', None, None, None, 0), ('when you start letting people like this get their way', None, None, None, 0), ('it can make for things have problems ,', None, None, None, 0), ('because you can see', None, None, None, 0), ('how they really just start abusing their power', None, None, None, 0), ('and they start making decisions at least in my opinion', None, None, None, 0), ("that does n't really make any sense", None, None, None, 0), ('and I would just like for them to start thinking', None, None, None, 0), ('about what they are doing .', None, None, None, 1)]

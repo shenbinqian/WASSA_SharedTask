@@ -1,0 +1,37 @@
+=====================> [[('Check out this article about coal mining in India .', None, None, None, 1), ('Seems incredibly grim', None, None, None, 0), ('- can you imagine living somewhere like this ?', None, None, None, 1), ('The fact', None, None, None, 0), ('that there are thousands of elephant attacks on humans actually seems unbelievable .', None, None, None, 1), ('" Forests are being cleared for coal mining', None, None, None, 0), ('and wild elephants are entering villages in search of food', None, None, None, 0), ('and attacking people .', None, None, None, 1), ("Photojournalist Subrata Biswas has documented the fallout of India 's dependence on coal .", None, None, None, 1), ('" As thousands of acres of forest land are destroyed', None, None, None, 0), ('to mining ,', None, None, None, 0), ('foraging elephants', None, None, None, 0), ('attracted by the crops in the fields', None, None, None, 0), ('often enter villages ,', None, None, None, 0), ('resulting in an alarmingly high number of human-elephant conflict situations , "', None, None, None, 0), ('says Biswas .', None, None, None, 1), ('Officials estimate', None, None, None, 0), ('elephants have been responsible for 8,657 incidents of property damage and 99,152 incidents of crop damage in Chhattisg "', None, None, None, 0)]]
+Leaf:  N Same-Unit Check out this article about coal mining in India .
+Leaf:  N Evaluation Seems incredibly grim
+Leaf:  S span - can you imagine living somewhere like this ?
+Inner:  N Joint None Evaluation NS
+Leaf:  N Elaborate The fact
+Leaf:  S span that there are thousands of elephant attacks on humans actually seems unbelievable .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Temporal " Forests are being cleared for coal mining
+Leaf:  N Joint and wild elephants are entering villages in search of food
+Leaf:  N Joint and attacking people .
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  N Same-Unit None Explanation NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate Photojournalist Subrata Biswas has documented the fallout of India 's dependence on coal .
+Leaf:  N Enablement " As thousands of acres of forest land are destroyed
+Leaf:  S span to mining ,
+Inner:  S span None Enablement NS
+Leaf:  N Elaborate foraging elephants
+Leaf:  S span attracted by the crops in the fields
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit often enter villages ,
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span resulting in an alarmingly high number of human-elephant conflict situations , "
+Inner:  N Background None Cause NS
+Inner:  N Attribution None Background SN
+Leaf:  S span says Biswas .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span Officials estimate
+Leaf:  N Attribution elephants have been responsible for 8,657 incidents of property damage and 99,152 incidents of crop damage in Chhattisg "
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Check out this article about coal mining in India .', None, None, None, 1), ('Seems incredibly grim', None, None, None, 0), ('- can you imagine living somewhere like this ?', None, None, None, 1), ('The fact', None, None, None, 0), ('that there are thousands of elephant attacks on humans actually seems unbelievable .', None, None, None, 1), ('" Forests are being cleared for coal mining', None, None, None, 0), ('and wild elephants are entering villages in search of food', None, None, None, 0), ('and attacking people .', None, None, None, 1), ("Photojournalist Subrata Biswas has documented the fallout of India 's dependence on coal .", None, None, None, 1), ('" As thousands of acres of forest land are destroyed', None, None, None, 0), ('to mining ,', None, None, None, 0), ('foraging elephants', None, None, None, 0), ('attracted by the crops in the fields', None, None, None, 0), ('often enter villages ,', None, None, None, 0), ('resulting in an alarmingly high number of human-elephant conflict situations , "', None, None, None, 0), ('says Biswas .', None, None, None, 1), ('Officials estimate', None, None, None, 0), ('elephants have been responsible for 8,657 incidents of property damage and 99,152 incidents of crop damage in Chhattisg "', None, None, None, 0)]

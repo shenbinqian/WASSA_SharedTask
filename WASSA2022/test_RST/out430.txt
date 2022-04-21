@@ -1,0 +1,33 @@
+=====================> [[('We as a society have to work together', None, None, None, 0), ('to help other countries in need .', None, None, None, 1), ('Drought is happening all over the world .', None, None, None, 1), ('There needs to be something done , needs to be better land and water management , need to be less devastation and waste of resources .', None, None, None, 1), ('Climate change is real', None, None, None, 0), ('and the world is getting more and more unpredictable every year .', None, None, None, 1), ('It is crazy', None, None, None, 0), ('that a major river', None, None, None, 0), ('that has flowed for , who knows thousands of years', None, None, None, 0), ('dries up', None, None, None, 0), ('and kills many of the animals and plants', None, None, None, 0), ('that live there .', None, None, None, 1), ('Years and years of drought ravashing Australia .', None, None, None, 1), ('There has to be better ways', None, None, None, 0), ('to combat this', None, None, None, 0), ('so that people and the environment can co-exist .', None, None, None, 1)]]
+Leaf:  N Enablement We as a society have to work together
+Leaf:  S span to help other countries in need .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Evaluation Drought is happening all over the world .
+Leaf:  S span There needs to be something done , needs to be better land and water management , need to be less devastation and waste of resources .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Climate change is real
+Leaf:  N Joint and the world is getting more and more unpredictable every year .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It is crazy
+Leaf:  N Elaborate that a major river
+Leaf:  S span that has flowed for , who knows thousands of years
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint dries up
+Leaf:  N Elaborate and kills many of the animals and plants
+Leaf:  S span that live there .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Cause None Evaluation NS
+Leaf:  N Topic-Comment Years and years of drought ravashing Australia .
+Leaf:  N Elaborate There has to be better ways
+Leaf:  S span to combat this
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span so that people and the environment can co-exist .
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('We as a society have to work together', None, None, None, 0), ('to help other countries in need .', None, None, None, 1), ('Drought is happening all over the world .', None, None, None, 1), ('There needs to be something done , needs to be better land and water management , need to be less devastation and waste of resources .', None, None, None, 1), ('Climate change is real', None, None, None, 0), ('and the world is getting more and more unpredictable every year .', None, None, None, 1), ('It is crazy', None, None, None, 0), ('that a major river', None, None, None, 0), ('that has flowed for , who knows thousands of years', None, None, None, 0), ('dries up', None, None, None, 0), ('and kills many of the animals and plants', None, None, None, 0), ('that live there .', None, None, None, 1), ('Years and years of drought ravashing Australia .', None, None, None, 1), ('There has to be better ways', None, None, None, 0), ('to combat this', None, None, None, 0), ('so that people and the environment can co-exist .', None, None, None, 1)]

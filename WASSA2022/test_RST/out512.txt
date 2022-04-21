@@ -1,0 +1,13 @@
+=====================> [[('I like this articles .', None, None, None, 1), ('I is very interesting.It is hate crimes against Muslims spiked last year to their highest level in more han a decade an increase', None, None, None, 0), ('experts and ad vacates say', None, None, None, 0), ('was fuled by anger over terrorist attacks', None, None, None, 0), ('and anti is rhetorical on the campaign', None, None, None, 0), ('trail.It is very interesting i am share with my friends and others .', None, None, None, 1)]]
+Leaf:  N Evaluation I like this articles .
+Leaf:  N Elaborate I is very interesting.It is hate crimes against Muslims spiked last year to their highest level in more han a decade an increase
+Leaf:  S span experts and ad vacates say
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was fuled by anger over terrorist attacks
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and anti is rhetorical on the campaign
+Leaf:  S span trail.It is very interesting i am share with my friends and others .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I like this articles .', None, None, None, 1), ('I is very interesting.It is hate crimes against Muslims spiked last year to their highest level in more han a decade an increase', None, None, None, 0), ('experts and ad vacates say', None, None, None, 0), ('was fuled by anger over terrorist attacks', None, None, None, 0), ('and anti is rhetorical on the campaign', None, None, None, 0), ('trail.It is very interesting i am share with my friends and others .', None, None, None, 1)]

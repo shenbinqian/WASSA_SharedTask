@@ -1,0 +1,27 @@
+=====================> [[('Some protesters say', None, None, None, 0), ('they were spat on', None, None, None, 0), ('and called racial slurs .', None, None, None, 1), ('I thought about my experiences with these people and feel', None, None, None, 0), ('if that happened', None, None, None, 0), ('than they would likely attack', None, None, None, 0), ('who ever did it .', None, None, None, 1), ('These people are usually violent', None, None, None, 0), ('and try to play the victim card for media attention .', None, None, None, 1), ('If it did happen', None, None, None, 0), ('than it is awful', None, None, None, 0), ('and people should be arrested .', None, None, None, 1), ('It would be awful to see people treated that way .', None, None, None, 1)]]
+Leaf:  S span Some protesters say
+Leaf:  N Joint they were spat on
+Leaf:  N Joint and called racial slurs .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I thought about my experiences with these people and feel
+Leaf:  S span if that happened
+Leaf:  N Elaborate than they would likely attack
+Leaf:  S span who ever did it .
+Inner:  N Condition None Elaborate NS
+Inner:  N Attribution None Condition SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint These people are usually violent
+Leaf:  N Joint and try to play the victim card for media attention .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span If it did happen
+Leaf:  N Joint than it is awful
+Leaf:  N Joint and people should be arrested .
+Inner:  N Condition None Joint NN
+Inner:  N Evaluation None Condition SN
+Leaf:  S span It would be awful to see people treated that way .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Some protesters say', None, None, None, 0), ('they were spat on', None, None, None, 0), ('and called racial slurs .', None, None, None, 1), ('I thought about my experiences with these people and feel', None, None, None, 0), ('if that happened', None, None, None, 0), ('than they would likely attack', None, None, None, 0), ('who ever did it .', None, None, None, 1), ('These people are usually violent', None, None, None, 0), ('and try to play the victim card for media attention .', None, None, None, 1), ('If it did happen', None, None, None, 0), ('than it is awful', None, None, None, 0), ('and people should be arrested .', None, None, None, 1), ('It would be awful to see people treated that way .', None, None, None, 1)]

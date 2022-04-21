@@ -1,0 +1,23 @@
+=====================> [[('I find this article about the sharp rise in airline associated racism complaints extremely alarming .', None, None, None, 1), ('It is another testament to our current culture', None, None, None, 0), ('that people of colors of all kinds face vile people', None, None, None, 0), ('while doing ordinary things', None, None, None, 0), ('and not bothering anyone else .', None, None, None, 1), ('I can not imagine facing such hardships .', None, None, None, 1), ('We should all be kinder and more compassionate to our fellow citizens', None, None, None, 0), ('and those of us', None, None, None, 0), ('who remain unaffected', None, None, None, 0), ('should speak up', None, None, None, 0), ('when we see racist situations .', None, None, None, 1)]]
+Leaf:  N Elaborate I find this article about the sharp rise in airline associated racism complaints extremely alarming .
+Leaf:  N Elaborate It is another testament to our current culture
+Leaf:  N Temporal that people of colors of all kinds face vile people
+Leaf:  N Joint while doing ordinary things
+Leaf:  N Joint and not bothering anyone else .
+Inner:  S span None Joint NN
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I can not imagine facing such hardships .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint We should all be kinder and more compassionate to our fellow citizens
+Leaf:  N Elaborate and those of us
+Leaf:  S span who remain unaffected
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Condition should speak up
+Leaf:  S span when we see racist situations .
+Inner:  N Same-Unit None Condition NS
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I find this article about the sharp rise in airline associated racism complaints extremely alarming .', None, None, None, 1), ('It is another testament to our current culture', None, None, None, 0), ('that people of colors of all kinds face vile people', None, None, None, 0), ('while doing ordinary things', None, None, None, 0), ('and not bothering anyone else .', None, None, None, 1), ('I can not imagine facing such hardships .', None, None, None, 1), ('We should all be kinder and more compassionate to our fellow citizens', None, None, None, 0), ('and those of us', None, None, None, 0), ('who remain unaffected', None, None, None, 0), ('should speak up', None, None, None, 0), ('when we see racist situations .', None, None, None, 1)]

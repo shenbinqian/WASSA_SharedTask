@@ -1,0 +1,27 @@
+=====================> [[("I love reading about women 's achievements", None, None, None, 0), ("and this list of twenty iconic moments in women 's sports history was beautiful .", None, None, None, 1), ('Hearing the stories of women', None, None, None, 0), ('who have overcome obstacles like sexism and injuries', None, None, None, 0), ('to rise to the top of their field is truly inspiring .', None, None, None, 1), ('I remember', None, None, None, 0), ('hearing about Nadia Comăneci', None, None, None, 0), ('when I was younger ,', None, None, None, 0), ('about how truly impressive it was that she became the first woman', None, None, None, 0), ('to score a perfect 10 .', None, None, None, 1), ('I spent years imagining', None, None, None, 0), ('being in the Olympics', None, None, None, 0), ('and doing something equally phenomenal in equestrian events .', None, None, None, 1)]]
+Leaf:  N Joint I love reading about women 's achievements
+Leaf:  N Joint and this list of twenty iconic moments in women 's sports history was beautiful .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate Hearing the stories of women
+Leaf:  N Cause who have overcome obstacles like sexism and injuries
+Leaf:  S span to rise to the top of their field is truly inspiring .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I remember
+Leaf:  N Temporal hearing about Nadia Comăneci
+Leaf:  S span when I was younger ,
+Inner:  N Same-Unit None Temporal NS
+Leaf:  N Elaborate about how truly impressive it was that she became the first woman
+Leaf:  S span to score a perfect 10 .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Cause None Attribution SN
+Leaf:  S span I spent years imagining
+Leaf:  N Joint being in the Olympics
+Leaf:  N Joint and doing something equally phenomenal in equestrian events .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[("I love reading about women 's achievements", None, None, None, 0), ("and this list of twenty iconic moments in women 's sports history was beautiful .", None, None, None, 1), ('Hearing the stories of women', None, None, None, 0), ('who have overcome obstacles like sexism and injuries', None, None, None, 0), ('to rise to the top of their field is truly inspiring .', None, None, None, 1), ('I remember', None, None, None, 0), ('hearing about Nadia Comăneci', None, None, None, 0), ('when I was younger ,', None, None, None, 0), ('about how truly impressive it was that she became the first woman', None, None, None, 0), ('to score a perfect 10 .', None, None, None, 1), ('I spent years imagining', None, None, None, 0), ('being in the Olympics', None, None, None, 0), ('and doing something equally phenomenal in equestrian events .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('something', None, None, None, 0), ('like this would happen .', None, None, None, 1), ('Who attacks officers', None, None, None, 0), ('trying to save wildlife ?', None, None, None, 1), ('The poacher was the one', None, None, None, 0), ('breaking the law', None, None, None, 0), ('and doing bad things', None, None, None, 0), ('and yet , the villagers attack those', None, None, None, 0), ('arresting him ?', None, None, None, 1), ('Seems wrong', None, None, None, 0), ('and just explains', None, None, None, 0), ('why it is so hard for anyone to protect the wildlife there .', None, None, None, 1), ('If even the villagers are working against you ,', None, None, None, 0), ('how can you stop the poaching ?', None, None, None, 1), ('Makes me sick and so sad to see this kind of thing happening .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Elaborate something
+Leaf:  S span like this would happen .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Who attacks officers
+Leaf:  S span trying to save wildlife ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The poacher was the one
+Leaf:  N Joint breaking the law
+Leaf:  N Joint and doing bad things
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and yet , the villagers attack those
+Leaf:  S span arresting him ?
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Seems wrong
+Leaf:  S span and just explains
+Leaf:  N Attribution why it is so hard for anyone to protect the wildlife there .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span If even the villagers are working against you ,
+Leaf:  N Condition how can you stop the poaching ?
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Makes me sick and so sad to see this kind of thing happening .
+Inner:  Root None None Evaluation NS
+[("I ca n't believe", None, None, None, 0), ('something', None, None, None, 0), ('like this would happen .', None, None, None, 1), ('Who attacks officers', None, None, None, 0), ('trying to save wildlife ?', None, None, None, 1), ('The poacher was the one', None, None, None, 0), ('breaking the law', None, None, None, 0), ('and doing bad things', None, None, None, 0), ('and yet , the villagers attack those', None, None, None, 0), ('arresting him ?', None, None, None, 1), ('Seems wrong', None, None, None, 0), ('and just explains', None, None, None, 0), ('why it is so hard for anyone to protect the wildlife there .', None, None, None, 1), ('If even the villagers are working against you ,', None, None, None, 0), ('how can you stop the poaching ?', None, None, None, 1), ('Makes me sick and so sad to see this kind of thing happening .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('Crazy and senseless .', None, None, None, 1), ('Downright evil I would say .', None, None, None, 1), ("I do n't know know", None, None, None, 0), ('how people can be ok with the killing of hundreds of others', None, None, None, 0), ('regardless of their religion or status or whatever . Just sickening . This is like a cult ,', None, None, None, 0), ('this is no longer fighting for religious freedom or anything like that .', None, None, None, 1), ('I would say', None, None, None, 0), ('these kinds of people just enjoy murder . Like a group of psychopaths .', None, None, None, 1)]]
+Leaf:  N Joint Crazy and senseless .
+Leaf:  N Joint Downright evil I would say .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I do n't know know
+Leaf:  N Contrast how people can be ok with the killing of hundreds of others
+Leaf:  N Joint regardless of their religion or status or whatever . Just sickening . This is like a cult ,
+Leaf:  N Joint this is no longer fighting for religious freedom or anything like that .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Contrast NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I would say
+Leaf:  N Attribution these kinds of people just enjoy murder . Like a group of psychopaths .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Crazy and senseless .', None, None, None, 1), ('Downright evil I would say .', None, None, None, 1), ("I do n't know know", None, None, None, 0), ('how people can be ok with the killing of hundreds of others', None, None, None, 0), ('regardless of their religion or status or whatever . Just sickening . This is like a cult ,', None, None, None, 0), ('this is no longer fighting for religious freedom or anything like that .', None, None, None, 1), ('I would say', None, None, None, 0), ('these kinds of people just enjoy murder . Like a group of psychopaths .', None, None, None, 1)]

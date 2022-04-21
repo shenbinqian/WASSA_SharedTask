@@ -1,0 +1,17 @@
+=====================> [[('yo dude , there was some lady', None, None, None, 0), ('driving around topless', None, None, None, 0), ('sending selfie snaps of herself to her boyfriend .', None, None, None, 1), ('like really how dumb is that ?', None, None, None, 1), ('she was in a moving vehicle , behind the wheel ,', None, None, None, 0), ('and decides ,', None, None, None, 0), ('hey let me send my boyfriend pics of my boobs ?!?!', None, None, None, 1), ('someone could have been injured or or killed due to her negligence .', None, None, None, 1)]]
+Leaf:  N Elaborate yo dude , there was some lady
+Leaf:  N Elaborate driving around topless
+Leaf:  S span sending selfie snaps of herself to her boyfriend .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span like really how dumb is that ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint she was in a moving vehicle , behind the wheel ,
+Leaf:  S span and decides ,
+Leaf:  N Attribution hey let me send my boyfriend pics of my boobs ?!?!
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span someone could have been injured or or killed due to her negligence .
+Inner:  Root None None Evaluation NS
+[('yo dude , there was some lady', None, None, None, 0), ('driving around topless', None, None, None, 0), ('sending selfie snaps of herself to her boyfriend .', None, None, None, 1), ('like really how dumb is that ?', None, None, None, 1), ('she was in a moving vehicle , behind the wheel ,', None, None, None, 0), ('and decides ,', None, None, None, 0), ('hey let me send my boyfriend pics of my boobs ?!?!', None, None, None, 1), ('someone could have been injured or or killed due to her negligence .', None, None, None, 1)]

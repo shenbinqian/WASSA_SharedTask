@@ -1,0 +1,37 @@
+=====================> [[('Oh Ariel', None, None, None, 0), ('- another devastating article', None, None, None, 0), ('to read about horrendous droughts in the West .', None, None, None, 1), ('We all knew about California ,', None, None, None, 0), ('but I had no idea', None, None, None, 0), ('about what was happening in Nevada .', None, None, None, 1), ('To me , it is much worse . There is an Indiana Tribe called Yomba .', None, None, None, 1), ('The drought has hurt them not only physically but emotionally and mentally . There has been abuse , violence , and many other happenings because of lack of rain and snow in the mountains .', None, None, None, 1), ('How can we help these folks ? Horses and cattle are dying .', None, None, None, 1), ('Old means of attaining water are not working .', None, None, None, 1), ('We have to do something .', None, None, None, 1), ('No one even knows about them nor really cares . I care ,', None, None, None, 0), ('you will care', None, None, None, 0), ('after reading , we have to use our knowledge', None, None, None, 0), ('to help these folks .', None, None, None, 1), ("It 's so very upsetting . I just ca n't find a solution", None, None, None, 0), ('presently and thought', None, None, None, 0), ('maybe you could help', None, None, None, 0)]]
+Leaf:  N Elaborate Oh Ariel
+Leaf:  N Elaborate - another devastating article
+Leaf:  S span to read about horrendous droughts in the West .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast We all knew about California ,
+Leaf:  N Elaborate but I had no idea
+Leaf:  S span about what was happening in Nevada .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate To me , it is much worse . There is an Indiana Tribe called Yomba .
+Leaf:  S span The drought has hurt them not only physically but emotionally and mentally . There has been abuse , violence , and many other happenings because of lack of rain and snow in the mountains .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Leaf:  N Joint How can we help these folks ? Horses and cattle are dying .
+Leaf:  N Joint Old means of attaining water are not working .
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Elaborate We have to do something .
+Leaf:  N Joint No one even knows about them nor really cares . I care ,
+Leaf:  N Background you will care
+Leaf:  S span after reading , we have to use our knowledge
+Inner:  N Enablement None Background NS
+Leaf:  S span to help these folks .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Temporal It 's so very upsetting . I just ca n't find a solution
+Leaf:  S span presently and thought
+Leaf:  N Attribution maybe you could help
+Inner:  N Temporal None Attribution SN
+Inner:  S span None Temporal NN
+Inner:  N Background None Evaluation NS
+Inner:  Root None None Background SN
+[('Oh Ariel', None, None, None, 0), ('- another devastating article', None, None, None, 0), ('to read about horrendous droughts in the West .', None, None, None, 1), ('We all knew about California ,', None, None, None, 0), ('but I had no idea', None, None, None, 0), ('about what was happening in Nevada .', None, None, None, 1), ('To me , it is much worse . There is an Indiana Tribe called Yomba .', None, None, None, 1), ('The drought has hurt them not only physically but emotionally and mentally . There has been abuse , violence , and many other happenings because of lack of rain and snow in the mountains .', None, None, None, 1), ('How can we help these folks ? Horses and cattle are dying .', None, None, None, 1), ('Old means of attaining water are not working .', None, None, None, 1), ('We have to do something .', None, None, None, 1), ('No one even knows about them nor really cares . I care ,', None, None, None, 0), ('you will care', None, None, None, 0), ('after reading , we have to use our knowledge', None, None, None, 0), ('to help these folks .', None, None, None, 1), ("It 's so very upsetting . I just ca n't find a solution", None, None, None, 0), ('presently and thought', None, None, None, 0), ('maybe you could help', None, None, None, 0)]

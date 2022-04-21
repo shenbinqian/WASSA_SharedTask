@@ -1,0 +1,23 @@
+=====================> [[('It is terrible that they are having a war again .', None, None, None, 1), ('People are dying', None, None, None, 0), ('and it is a shame .', None, None, None, 1), ('They should worry about their people . Buildings are destroyed ,', None, None, None, 0), ('power is out . Families are destroyed .', None, None, None, 1), ('War is terrible', None, None, None, 0), ('and should never happen .', None, None, None, 1), ('I think', None, None, None, 0), ('it is terrible it is happening again .', None, None, None, 1), ('It should not happen at all', None, None, None, 0), ('and is terrible .', None, None, None, 1)]]
+Leaf:  N Evaluation It is terrible that they are having a war again .
+Leaf:  N Joint People are dying
+Leaf:  N Joint and it is a shame .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint They should worry about their people . Buildings are destroyed ,
+Leaf:  N Joint power is out . Families are destroyed .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint War is terrible
+Leaf:  N Joint and should never happen .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I think
+Leaf:  N Summary it is terrible it is happening again .
+Leaf:  N Joint It should not happen at all
+Leaf:  N Joint and is terrible .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Summary NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('It is terrible that they are having a war again .', None, None, None, 1), ('People are dying', None, None, None, 0), ('and it is a shame .', None, None, None, 1), ('They should worry about their people . Buildings are destroyed ,', None, None, None, 0), ('power is out . Families are destroyed .', None, None, None, 1), ('War is terrible', None, None, None, 0), ('and should never happen .', None, None, None, 1), ('I think', None, None, None, 0), ('it is terrible it is happening again .', None, None, None, 1), ('It should not happen at all', None, None, None, 0), ('and is terrible .', None, None, None, 1)]

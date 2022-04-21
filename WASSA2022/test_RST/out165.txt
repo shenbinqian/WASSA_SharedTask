@@ -1,0 +1,21 @@
+=====================> [[('Honestly', None, None, None, 0), ('if you are so well off', None, None, None, 0), ('that', None, None, None, 0), ('for doing very little of anything ,', None, None, None, 0), ('you can not expect these people to be the brightest .', None, None, None, 1), ("It 's not victim shaming if someone shows off pricey belongings", None, None, None, 0), ('and then you lay some of the blame on them', None, None, None, 0), ('for getting robbed .', None, None, None, 1), ('If you show off expensive goodies ,', None, None, None, 0), ('you can expect someone might want to steal them .', None, None, None, 1)]]
+Leaf:  N Same-Unit Honestly
+Leaf:  N Same-Unit if you are so well off
+Leaf:  N Same-Unit that
+Leaf:  N Same-Unit for doing very little of anything ,
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  S span None Same-Unit NN
+Leaf:  N Condition you can not expect these people to be the brightest .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Temporal It 's not victim shaming if someone shows off pricey belongings
+Leaf:  N Cause and then you lay some of the blame on them
+Leaf:  S span for getting robbed .
+Inner:  N Temporal None Cause NS
+Inner:  N Explanation None Temporal NN
+Leaf:  S span If you show off expensive goodies ,
+Leaf:  N Condition you can expect someone might want to steal them .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Honestly', None, None, None, 0), ('if you are so well off', None, None, None, 0), ('that', None, None, None, 0), ('for doing very little of anything ,', None, None, None, 0), ('you can not expect these people to be the brightest .', None, None, None, 1), ("It 's not victim shaming if someone shows off pricey belongings", None, None, None, 0), ('and then you lay some of the blame on them', None, None, None, 0), ('for getting robbed .', None, None, None, 1), ('If you show off expensive goodies ,', None, None, None, 0), ('you can expect someone might want to steal them .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Val Kilmer has had his health gossiped about lately .', None, None, None, 1), ('Besides being a fantastic actor ,', None, None, None, 0), ('he is very spiritual .', None, None, None, 1), ('He has said', None, None, None, 0), ('these rumors are greatly exaggerated .', None, None, None, 1), ('I believe him .', None, None, None, 1), ('His health , happiness and being are protected and strengthened by God .', None, None, None, 1), ('I give thanks for his skilled performances', None, None, None, 0), ('and speak prosperity of him , his body , mind , soul and career !', None, None, None, 1)]]
+Leaf:  N Explanation Val Kilmer has had his health gossiped about lately .
+Leaf:  S span Besides being a fantastic actor ,
+Leaf:  N Comparison he is very spiritual .
+Inner:  N Elaborate None Comparison SN
+Leaf:  S span He has said
+Leaf:  N Attribution these rumors are greatly exaggerated .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I believe him .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span His health , happiness and being are protected and strengthened by God .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I give thanks for his skilled performances
+Leaf:  N Joint and speak prosperity of him , his body , mind , soul and career !
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Val Kilmer has had his health gossiped about lately .', None, None, None, 1), ('Besides being a fantastic actor ,', None, None, None, 0), ('he is very spiritual .', None, None, None, 1), ('He has said', None, None, None, 0), ('these rumors are greatly exaggerated .', None, None, None, 1), ('I believe him .', None, None, None, 1), ('His health , happiness and being are protected and strengthened by God .', None, None, None, 1), ('I give thanks for his skilled performances', None, None, None, 0), ('and speak prosperity of him , his body , mind , soul and career !', None, None, None, 1)]

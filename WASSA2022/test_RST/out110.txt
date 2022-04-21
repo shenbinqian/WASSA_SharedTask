@@ -1,0 +1,25 @@
+=====================> [[('Thinking about the dog', None, None, None, 0), ('that was shot', None, None, None, 0), ('was really hard .', None, None, None, 1), ('I have two dogs', None, None, None, 0), ('and I can imagine losing them in that way .', None, None, None, 1), ('I would be really upset', None, None, None, 0), ('if something like this happened to me .', None, None, None, 1), ('I thought', None, None, None, 0), ('it was very understanding in the end', None, None, None, 0), ('when it was said', None, None, None, 0), ('that the man was within his rights ,', None, None, None, 0), ('but still it is a very sad situation', None, None, None, 0)]]
+Leaf:  N Elaborate Thinking about the dog
+Leaf:  S span that was shot
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was really hard .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Joint I have two dogs
+Leaf:  N Joint and I can imagine losing them in that way .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition I would be really upset
+Leaf:  S span if something like this happened to me .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I thought
+Leaf:  N Background it was very understanding in the end
+Leaf:  S span when it was said
+Leaf:  N Attribution that the man was within his rights ,
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Background NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but still it is a very sad situation
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('Thinking about the dog', None, None, None, 0), ('that was shot', None, None, None, 0), ('was really hard .', None, None, None, 1), ('I have two dogs', None, None, None, 0), ('and I can imagine losing them in that way .', None, None, None, 1), ('I would be really upset', None, None, None, 0), ('if something like this happened to me .', None, None, None, 1), ('I thought', None, None, None, 0), ('it was very understanding in the end', None, None, None, 0), ('when it was said', None, None, None, 0), ('that the man was within his rights ,', None, None, None, 0), ('but still it is a very sad situation', None, None, None, 0)]

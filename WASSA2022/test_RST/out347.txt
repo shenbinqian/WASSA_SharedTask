@@ -1,0 +1,19 @@
+=====================> [[('Wow .', None, None, None, 1), ('I ca n’t even imagine being an African American person', None, None, None, 0), ('and getting pulled over by a white police officer .', None, None, None, 1), ('One wrong move and you ’re dead .', None, None, None, 1), ('That ’s not ok especially in a free country .', None, None, None, 1), ('We need our officers trained and tought better .', None, None, None, 1), ('We need to weed out bias . Innocent African American me . Are dying in situations', None, None, None, 0), ('where they ca n’t defend themselves', None, None, None, 0), ('and that is truest heartbreaking .', None, None, None, 1)]]
+Leaf:  N Summary Wow .
+Leaf:  N Temporal I ca n’t even imagine being an African American person
+Leaf:  N Temporal and getting pulled over by a white police officer .
+Inner:  N Summary None Temporal NN
+Leaf:  N Evaluation One wrong move and you ’re dead .
+Leaf:  S span That ’s not ok especially in a free country .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint We need our officers trained and tought better .
+Leaf:  N Elaborate We need to weed out bias . Innocent African American me . Are dying in situations
+Leaf:  S span where they ca n’t defend themselves
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and that is truest heartbreaking .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  Root None None Summary NS
+[('Wow .', None, None, None, 1), ('I ca n’t even imagine being an African American person', None, None, None, 0), ('and getting pulled over by a white police officer .', None, None, None, 1), ('One wrong move and you ’re dead .', None, None, None, 1), ('That ’s not ok especially in a free country .', None, None, None, 1), ('We need our officers trained and tought better .', None, None, None, 1), ('We need to weed out bias . Innocent African American me . Are dying in situations', None, None, None, 0), ('where they ca n’t defend themselves', None, None, None, 0), ('and that is truest heartbreaking .', None, None, None, 1)]

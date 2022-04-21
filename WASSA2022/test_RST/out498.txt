@@ -1,0 +1,25 @@
+=====================> [[('I understand', None, None, None, 0), ('that businesses need to worry about profits .', None, None, None, 1), ('But It really angers me', None, None, None, 0), ('when governments and companies throw away lives', None, None, None, 0), ('in order to protect their bottom line .', None, None, None, 1), ('When people riot', None, None, None, 0), ('and chaos breaks out', None, None, None, 0), (', it is always for a reason .', None, None, None, 1), ('It is up to the government and our police forces to protect the everyday citizens ,', None, None, None, 0), ('not take their lives', None, None, None, 0), ('to protect their own .', None, None, None, 1), ('It angers me so much , all the needless violence and lives lost for no good reason .', None, None, None, 1)]]
+Leaf:  S span I understand
+Leaf:  N Attribution that businesses need to worry about profits .
+Inner:  S span None Attribution SN
+Leaf:  N Contrast But It really angers me
+Leaf:  N Enablement when governments and companies throw away lives
+Leaf:  S span in order to protect their bottom line .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Contrast NS
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint When people riot
+Leaf:  N Joint and chaos breaks out
+Inner:  S span None Joint NN
+Leaf:  N Condition , it is always for a reason .
+Inner:  N Evaluation None Condition SN
+Leaf:  N Contrast It is up to the government and our police forces to protect the everyday citizens ,
+Leaf:  N Enablement not take their lives
+Leaf:  S span to protect their own .
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It angers me so much , all the needless violence and lives lost for no good reason .
+Inner:  Root None None Evaluation NS
+[('I understand', None, None, None, 0), ('that businesses need to worry about profits .', None, None, None, 1), ('But It really angers me', None, None, None, 0), ('when governments and companies throw away lives', None, None, None, 0), ('in order to protect their bottom line .', None, None, None, 1), ('When people riot', None, None, None, 0), ('and chaos breaks out', None, None, None, 0), (', it is always for a reason .', None, None, None, 1), ('It is up to the government and our police forces to protect the everyday citizens ,', None, None, None, 0), ('not take their lives', None, None, None, 0), ('to protect their own .', None, None, None, 1), ('It angers me so much , all the needless violence and lives lost for no good reason .', None, None, None, 1)]

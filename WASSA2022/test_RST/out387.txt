@@ -1,0 +1,17 @@
+=====================> [[("It 's pretty heart-wrenching", None, None, None, 0), ('to read about an animal in distress', None, None, None, 0), ('that is as intelligent as an orangutan', None, None, None, 0), ("but does n't know what is happening to it , or why .", None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why there are illegal traders at all', None, None, None, 0), ("- ca n't we track this kind of thing better ? Make the penalties for illegal ownership more severe", None, None, None, 0), ('and maybe this kind of thing will eventually stop happening .', None, None, None, 1)]]
+Leaf:  N Explanation It 's pretty heart-wrenching
+Leaf:  N Elaborate to read about an animal in distress
+Leaf:  S span that is as intelligent as an orangutan
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but does n't know what is happening to it , or why .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I do n't understand
+Leaf:  N Joint why there are illegal traders at all
+Leaf:  S span - ca n't we track this kind of thing better ? Make the penalties for illegal ownership more severe
+Leaf:  N Condition and maybe this kind of thing will eventually stop happening .
+Inner:  N Joint None Condition SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[("It 's pretty heart-wrenching", None, None, None, 0), ('to read about an animal in distress', None, None, None, 0), ('that is as intelligent as an orangutan', None, None, None, 0), ("but does n't know what is happening to it , or why .", None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why there are illegal traders at all', None, None, None, 0), ("- ca n't we track this kind of thing better ? Make the penalties for illegal ownership more severe", None, None, None, 0), ('and maybe this kind of thing will eventually stop happening .', None, None, None, 1)]

@@ -1,0 +1,35 @@
+=====================> [[("I 've been keeping up on the subject of rhino poaching for some time now", None, None, None, 0), ('and I just read a very good article about fighting the poachers .', None, None, None, 1), ('Every time', None, None, None, 0), ('I read something about it ,', None, None, None, 0), ('it makes me angry', None, None, None, 0), ('that there are people', None, None, None, 0), ('who would kill a rhino', None, None, None, 0), ('just to take its horn', None, None, None, 0), ('to sell as some useless " medicine . "', None, None, None, 0), ('I wish', None, None, None, 0), ('there was something', None, None, None, 0), ('I could do', None, None, None, 0), ('to help .', None, None, None, 1), ('I think', None, None, None, 0), ("I 'll look into donating to some charities", None, None, None, 0), ('that work', None, None, None, 0), ('to fight poaching .', None, None, None, 1)]]
+Leaf:  N Evaluation I 've been keeping up on the subject of rhino poaching for some time now
+Leaf:  N Evaluation and I just read a very good article about fighting the poachers .
+Inner:  N Summary None Evaluation NN
+Leaf:  N Elaborate Every time
+Leaf:  S span I read something about it ,
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal it makes me angry
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate that there are people
+Leaf:  N Enablement who would kill a rhino
+Leaf:  S span just to take its horn
+Inner:  N Enablement None Enablement NS
+Leaf:  S span to sell as some useless " medicine . "
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Elaborate there was something
+Leaf:  S span I could do
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to help .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Cause None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Elaborate I 'll look into donating to some charities
+Leaf:  N Enablement that work
+Leaf:  S span to fight poaching .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  Root None None Summary NS
+[("I 've been keeping up on the subject of rhino poaching for some time now", None, None, None, 0), ('and I just read a very good article about fighting the poachers .', None, None, None, 1), ('Every time', None, None, None, 0), ('I read something about it ,', None, None, None, 0), ('it makes me angry', None, None, None, 0), ('that there are people', None, None, None, 0), ('who would kill a rhino', None, None, None, 0), ('just to take its horn', None, None, None, 0), ('to sell as some useless " medicine . "', None, None, None, 0), ('I wish', None, None, None, 0), ('there was something', None, None, None, 0), ('I could do', None, None, None, 0), ('to help .', None, None, None, 1), ('I think', None, None, None, 0), ("I 'll look into donating to some charities", None, None, None, 0), ('that work', None, None, None, 0), ('to fight poaching .', None, None, None, 1)]

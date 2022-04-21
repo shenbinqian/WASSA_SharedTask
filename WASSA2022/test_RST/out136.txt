@@ -1,0 +1,21 @@
+=====================> [[('i just read throught the article about the flag', None, None, None, 0), ('and i have mixed feelings .', None, None, None, 1), ('I think', None, None, None, 0), ('that the flag is a symbol', None, None, None, 0), ('that is worthless in our society ,', None, None, None, 0), ('and it probably needs to go . However , clearly there has been a backlash from all the recent progressiveism ,', None, None, None, 0), ('and we need to tread carefully .', None, None, None, 1), ("Maybe if the left was n't so goddam sensitive about everything all the time ,", None, None, None, 0), ('and they picked their battles more selectively ,', None, None, None, 0), ('none of this hate would have sprung up .', None, None, None, 1)]]
+Leaf:  N Evaluation i just read throught the article about the flag
+Leaf:  N Evaluation and i have mixed feelings .
+Inner:  N Explanation None Evaluation NN
+Leaf:  S span I think
+Leaf:  N Elaborate that the flag is a symbol
+Leaf:  S span that is worthless in our society ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and it probably needs to go . However , clearly there has been a backlash from all the recent progressiveism ,
+Leaf:  N Joint and we need to tread carefully .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Maybe if the left was n't so goddam sensitive about everything all the time ,
+Leaf:  N Joint and they picked their battles more selectively ,
+Inner:  S span None Joint NN
+Leaf:  N Condition none of this hate would have sprung up .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('i just read throught the article about the flag', None, None, None, 0), ('and i have mixed feelings .', None, None, None, 1), ('I think', None, None, None, 0), ('that the flag is a symbol', None, None, None, 0), ('that is worthless in our society ,', None, None, None, 0), ('and it probably needs to go . However , clearly there has been a backlash from all the recent progressiveism ,', None, None, None, 0), ('and we need to tread carefully .', None, None, None, 1), ("Maybe if the left was n't so goddam sensitive about everything all the time ,", None, None, None, 0), ('and they picked their battles more selectively ,', None, None, None, 0), ('none of this hate would have sprung up .', None, None, None, 1)]

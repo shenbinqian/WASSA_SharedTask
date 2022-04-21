@@ -1,0 +1,17 @@
+=====================> [[('This sounds like a complete mess .', None, None, None, 1), ('The conditions described are hellish', None, None, None, 0), ("and it does n't really seem like there is an end in sight at this point .", None, None, None, 1), ('The people on the ground there must feel totally helpless .', None, None, None, 1), ('Where can they even go .', None, None, None, 1), ('They must feel', None, None, None, 0), ("like they are n't in control of anything", None, None, None, 0), ("and ca n't do anything about the surrounding circumstances . terrible situation .", None, None, None, 1)]]
+Leaf:  N Summary This sounds like a complete mess .
+Leaf:  N Joint The conditions described are hellish
+Leaf:  N Joint and it does n't really seem like there is an end in sight at this point .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Summary The people on the ground there must feel totally helpless .
+Leaf:  S span Where can they even go .
+Inner:  N Joint None Summary NS
+Leaf:  S span They must feel
+Leaf:  N Joint like they are n't in control of anything
+Leaf:  N Joint and ca n't do anything about the surrounding circumstances . terrible situation .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This sounds like a complete mess .', None, None, None, 1), ('The conditions described are hellish', None, None, None, 0), ("and it does n't really seem like there is an end in sight at this point .", None, None, None, 1), ('The people on the ground there must feel totally helpless .', None, None, None, 1), ('Where can they even go .', None, None, None, 1), ('They must feel', None, None, None, 0), ("like they are n't in control of anything", None, None, None, 0), ("and ca n't do anything about the surrounding circumstances . terrible situation .", None, None, None, 1)]

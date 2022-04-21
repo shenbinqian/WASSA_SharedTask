@@ -1,0 +1,23 @@
+=====================> [[("It 's sad to see how hard this has been for people in that country .", None, None, None, 1), ("It 's also sad to see", None, None, None, 0), ('that the wife is now sick', None, None, None, 0), ('and that people think', None, None, None, 0), ("it 's being downplayed .", None, None, None, 1), ('I hope', None, None, None, 0), ("she 's okay", None, None, None, 0), ('and I hope', None, None, None, 0), ('everyone can recover emotionally .', None, None, None, 1), ('It seems to be a hard time for the country', None, None, None, 0), ("and it 's sad that they are all dealing with it .", None, None, None, 1)]]
+Leaf:  N Joint It 's sad to see how hard this has been for people in that country .
+Leaf:  S span It 's also sad to see
+Leaf:  N Joint that the wife is now sick
+Leaf:  S span and that people think
+Leaf:  N Attribution it 's being downplayed .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Joint she 's okay
+Leaf:  S span and I hope
+Leaf:  N Attribution everyone can recover emotionally .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation It seems to be a hard time for the country
+Leaf:  S span and it 's sad that they are all dealing with it .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("It 's sad to see how hard this has been for people in that country .", None, None, None, 1), ("It 's also sad to see", None, None, None, 0), ('that the wife is now sick', None, None, None, 0), ('and that people think', None, None, None, 0), ("it 's being downplayed .", None, None, None, 1), ('I hope', None, None, None, 0), ("she 's okay", None, None, None, 0), ('and I hope', None, None, None, 0), ('everyone can recover emotionally .', None, None, None, 1), ('It seems to be a hard time for the country', None, None, None, 0), ("and it 's sad that they are all dealing with it .", None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('I wonder', None, None, None, 0), ('why such a simple motive', None, None, None, 0), ('of offering advice on a relationship issue', None, None, None, 0), ('would cause someone to kill someone else .', None, None, None, 1), ('Maybe there is something', None, None, None, 0), ('else going on with the defendant ,', None, None, None, 0), ('or something is just wrong overall .', None, None, None, 1), ('Seems like it would be hard to get a fair trial', None, None, None, 0), ('given the circumstances of all the media being around the trial .', None, None, None, 1)]]
+Leaf:  S span I wonder
+Leaf:  N Elaborate why such a simple motive
+Leaf:  S span of offering advice on a relationship issue
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would cause someone to kill someone else .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate Maybe there is something
+Leaf:  S span else going on with the defendant ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint or something is just wrong overall .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Cause Seems like it would be hard to get a fair trial
+Leaf:  S span given the circumstances of all the media being around the trial .
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I wonder', None, None, None, 0), ('why such a simple motive', None, None, None, 0), ('of offering advice on a relationship issue', None, None, None, 0), ('would cause someone to kill someone else .', None, None, None, 1), ('Maybe there is something', None, None, None, 0), ('else going on with the defendant ,', None, None, None, 0), ('or something is just wrong overall .', None, None, None, 1), ('Seems like it would be hard to get a fair trial', None, None, None, 0), ('given the circumstances of all the media being around the trial .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('I have so many thoughts about this article .', None, None, None, 1), ('I want to first say', None, None, None, 0), ("that it 's a travesty that people are being used as human shields .", None, None, None, 1), ('I think', None, None, None, 0), ('about all of the lives lost', None, None, None, 0), ('and how the families must be suffering .', None, None, None, 1), ('I think', None, None, None, 0), ('about how these people are living in fear', None, None, None, 0), ('of being the next', None, None, None, 0), ('to be taken for use in these acts of war . Unfortunately ISIS seems to have no respect for humanitarian law', None, None, None, 0), ("and it 's a shame that nobody is able to prevent it . But this brings me to the underlying point . The United States have waged so many regime change wars in the Middle East in the name of oil and profit .", None, None, None, 1), ("I ca n't help but think", None, None, None, 0), ('that we have had a large hand', None, None, None, 0), ('in creating these terrorist groups .', None, None, None, 1), ("If we were n't destroying their countries", None, None, None, 0), ('then so many would not have become radicalized .', None, None, None, 1)]]
+Leaf:  N Elaborate I have so many thoughts about this article .
+Leaf:  S span I want to first say
+Leaf:  N Attribution that it 's a travesty that people are being used as human shields .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint about all of the lives lost
+Leaf:  N Joint and how the families must be suffering .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I think
+Leaf:  N Elaborate about how these people are living in fear
+Leaf:  N Elaborate of being the next
+Leaf:  S span to be taken for use in these acts of war . Unfortunately ISIS seems to have no respect for humanitarian law
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and it 's a shame that nobody is able to prevent it . But this brings me to the underlying point . The United States have waged so many regime change wars in the Middle East in the name of oil and profit .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I ca n't help but think
+Leaf:  N Elaborate that we have had a large hand
+Leaf:  S span in creating these terrorist groups .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span If we were n't destroying their countries
+Leaf:  N Condition then so many would not have become radicalized .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I have so many thoughts about this article .', None, None, None, 1), ('I want to first say', None, None, None, 0), ("that it 's a travesty that people are being used as human shields .", None, None, None, 1), ('I think', None, None, None, 0), ('about all of the lives lost', None, None, None, 0), ('and how the families must be suffering .', None, None, None, 1), ('I think', None, None, None, 0), ('about how these people are living in fear', None, None, None, 0), ('of being the next', None, None, None, 0), ('to be taken for use in these acts of war . Unfortunately ISIS seems to have no respect for humanitarian law', None, None, None, 0), ("and it 's a shame that nobody is able to prevent it . But this brings me to the underlying point . The United States have waged so many regime change wars in the Middle East in the name of oil and profit .", None, None, None, 1), ("I ca n't help but think", None, None, None, 0), ('that we have had a large hand', None, None, None, 0), ('in creating these terrorist groups .', None, None, None, 1), ("If we were n't destroying their countries", None, None, None, 0), ('then so many would not have become radicalized .', None, None, None, 1)]

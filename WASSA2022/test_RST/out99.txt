@@ -1,0 +1,19 @@
+=====================> [[('Prosecutors thought', None, None, None, 0), ('it was robbery , really . Yeah because priest are known for being very rich .', None, None, None, 1), ('Please , it was obvious that it happen', None, None, None, 0), ('because they were making waves', None, None, None, 0), ('and making things difficult for the drug dealers and drug traffickers .', None, None, None, 1), ("Who do n't seem to care", None, None, None, 0), ('who they hurt .', None, None, None, 1), ('It is scary to think of even living there ,', None, None, None, 0), ('because nobody is safe .', None, None, None, 1)]]
+Leaf:  S span Prosecutors thought
+Leaf:  N Attribution it was robbery , really . Yeah because priest are known for being very rich .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Cause Please , it was obvious that it happen
+Leaf:  N Joint because they were making waves
+Leaf:  N Joint and making things difficult for the drug dealers and drug traffickers .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Who do n't seem to care
+Leaf:  N Attribution who they hurt .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Cause It is scary to think of even living there ,
+Leaf:  S span because nobody is safe .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Prosecutors thought', None, None, None, 0), ('it was robbery , really . Yeah because priest are known for being very rich .', None, None, None, 1), ('Please , it was obvious that it happen', None, None, None, 0), ('because they were making waves', None, None, None, 0), ('and making things difficult for the drug dealers and drug traffickers .', None, None, None, 1), ("Who do n't seem to care", None, None, None, 0), ('who they hurt .', None, None, None, 1), ('It is scary to think of even living there ,', None, None, None, 0), ('because nobody is safe .', None, None, None, 1)]

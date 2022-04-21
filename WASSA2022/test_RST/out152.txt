@@ -1,0 +1,19 @@
+=====================> [[('Have you seen this ?', None, None, None, 1), ('I am so tired of these stories !', None, None, None, 1), ('Something needs to be done about this already !', None, None, None, 1), ('How many more women will come forward with these stories', None, None, None, 0), ('before action is finally taken', None, None, None, 0), ('to get these monsters put away for good ?', None, None, None, 1), ('Every single day I read about another story like this', None, None, None, 0), ('and I am sickened', None, None, None, 0), ('that this is continuing to happen .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Have you seen this ?
+Leaf:  N Evaluation I am so tired of these stories !
+Leaf:  N Summary Something needs to be done about this already !
+Leaf:  S span How many more women will come forward with these stories
+Leaf:  N Enablement before action is finally taken
+Leaf:  S span to get these monsters put away for good ?
+Inner:  N Condition None Enablement NS
+Inner:  S span None Condition SN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal Every single day I read about another story like this
+Leaf:  S span and I am sickened
+Leaf:  N Attribution that this is continuing to happen .
+Inner:  N Temporal None Attribution SN
+Inner:  S span None Temporal NN
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Have you seen this ?', None, None, None, 1), ('I am so tired of these stories !', None, None, None, 1), ('Something needs to be done about this already !', None, None, None, 1), ('How many more women will come forward with these stories', None, None, None, 0), ('before action is finally taken', None, None, None, 0), ('to get these monsters put away for good ?', None, None, None, 1), ('Every single day I read about another story like this', None, None, None, 0), ('and I am sickened', None, None, None, 0), ('that this is continuing to happen .', None, None, None, 1)]

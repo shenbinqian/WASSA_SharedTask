@@ -1,0 +1,35 @@
+=====================> [[('The Burmese Government and police have failed a family .', None, None, None, 1), ('They made the grueling decision', None, None, None, 0), ('to send their children to work in the capital', None, None, None, 0), ("as they simply could n't afford", None, None, None, 0), ("and they 'd be better off there .", None, None, None, 1), ('Sadly this was not the case ,', None, None, None, 0), ('the people', None, None, None, 0), ('she went to work for', None, None, None, 0), ('forced her into slavery . They refused to let her talk to her parents ,', None, None, None, 0), ('and they abused her .', None, None, None, 1), ('Forced her to work ,', None, None, None, 0), ('and', None, None, None, 0), ("if they did n't like the outcome hurt them .", None, None, None, 1), ('Absolute disgusting behavior and nothing was done by the police', None, None, None, 0), ('even when asked to do something .', None, None, None, 1), ("They simply did n't care ,", None, None, None, 0), ("and that 's bullshit .", None, None, None, 1)]]
+Leaf:  N Summary The Burmese Government and police have failed a family .
+Leaf:  N Elaborate They made the grueling decision
+Leaf:  N Explanation to send their children to work in the capital
+Leaf:  N Joint as they simply could n't afford
+Leaf:  N Joint and they 'd be better off there .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation Sadly this was not the case ,
+Leaf:  N Elaborate the people
+Leaf:  S span she went to work for
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit forced her into slavery . They refused to let her talk to her parents ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and they abused her .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Forced her to work ,
+Leaf:  N Same-Unit and
+Leaf:  N Same-Unit if they did n't like the outcome hurt them .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Contrast Absolute disgusting behavior and nothing was done by the police
+Leaf:  S span even when asked to do something .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Evaluation They simply did n't care ,
+Leaf:  S span and that 's bullshit .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('The Burmese Government and police have failed a family .', None, None, None, 1), ('They made the grueling decision', None, None, None, 0), ('to send their children to work in the capital', None, None, None, 0), ("as they simply could n't afford", None, None, None, 0), ("and they 'd be better off there .", None, None, None, 1), ('Sadly this was not the case ,', None, None, None, 0), ('the people', None, None, None, 0), ('she went to work for', None, None, None, 0), ('forced her into slavery . They refused to let her talk to her parents ,', None, None, None, 0), ('and they abused her .', None, None, None, 1), ('Forced her to work ,', None, None, None, 0), ('and', None, None, None, 0), ("if they did n't like the outcome hurt them .", None, None, None, 1), ('Absolute disgusting behavior and nothing was done by the police', None, None, None, 0), ('even when asked to do something .', None, None, None, 1), ("They simply did n't care ,", None, None, None, 0), ("and that 's bullshit .", None, None, None, 1)]

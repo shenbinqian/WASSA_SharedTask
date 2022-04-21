@@ -1,0 +1,27 @@
+=====================> [[('OMG did you hear about this ?', None, None, None, 1), ('He was amazing both on and off the field !', None, None, None, 1), ('I am heartbroken', None, None, None, 0), ('to hear this .', None, None, None, 1), ('Maybe now there will be some sort of movement', None, None, None, 0), ('to get the importance of life vests out there .', None, None, None, 1), ('This was a total senseless death that could have been prevented .', None, None, None, 1), ('This brings me back to', None, None, None, 0), ('when I was in the boating accident ,', None, None, None, 0), ('thank God', None, None, None, 0), ('my dad made sure', None, None, None, 0), ('we always wore our life vest', None, None, None, 0), ('anytime we were on the boat .', None, None, None, 1)]]
+Leaf:  N Evaluation OMG did you hear about this ?
+Leaf:  S span He was amazing both on and off the field !
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am heartbroken
+Leaf:  N Attribution to hear this .
+Inner:  S span None Attribution SN
+Inner:  N Condition None Evaluation NS
+Leaf:  N Elaborate Maybe now there will be some sort of movement
+Leaf:  S span to get the importance of life vests out there .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Condition NS
+Leaf:  S span This was a total senseless death that could have been prevented .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal This brings me back to
+Leaf:  S span when I was in the boating accident ,
+Inner:  S span None Temporal NS
+Leaf:  S span thank God
+Leaf:  S span my dad made sure
+Leaf:  N Condition we always wore our life vest
+Leaf:  S span anytime we were on the boat .
+Inner:  N Attribution None Condition NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Inner:  S span None Evaluation SN
+Inner:  Root None None Evaluation NS
+[('OMG did you hear about this ?', None, None, None, 1), ('He was amazing both on and off the field !', None, None, None, 1), ('I am heartbroken', None, None, None, 0), ('to hear this .', None, None, None, 1), ('Maybe now there will be some sort of movement', None, None, None, 0), ('to get the importance of life vests out there .', None, None, None, 1), ('This was a total senseless death that could have been prevented .', None, None, None, 1), ('This brings me back to', None, None, None, 0), ('when I was in the boating accident ,', None, None, None, 0), ('thank God', None, None, None, 0), ('my dad made sure', None, None, None, 0), ('we always wore our life vest', None, None, None, 0), ('anytime we were on the boat .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('Can you tell', None, None, None, 0), ('we live in the age of Me !', None, None, None, 1), ('Me ! Me !', None, None, None, 1), ('Now we have obese and trans people whining', None, None, None, 0), ('that their special needs are not being met .', None, None, None, 1), ('Are medical device companies supposed to design machines extra large for the few morbidly obese people in the world ?', None, None, None, 1), ('Wo n’t', None, None, None, 0), ('that make them more expensive', None, None, None, 0), ('and make them take up more space', None, None, None, 0), ('and raise costs for everyone ?', None, None, None, 1), ('Should doctors be expected to learn even more than the incredible amount', None, None, None, 0), ('they already have', None, None, None, 0), ('to learn just for morbidly obese patients ?', None, None, None, 1), ('Same thing goes for the “ trans ” patients .', None, None, None, 1), ('We seem to be living in a world', None, None, None, 0), ('where the small minority of people with special circumstances want the world to cater to them at the expense of everyone else ’s time , effort and money .', None, None, None, 1)]]
+Leaf:  S span Can you tell
+Leaf:  N Summary we live in the age of Me !
+Leaf:  S span Me ! Me !
+Inner:  N Attribution None Summary NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span Now we have obese and trans people whining
+Leaf:  N Attribution that their special needs are not being met .
+Inner:  N Cause None Attribution SN
+Inner:  N Elaborate None Cause NN
+Leaf:  N Joint Are medical device companies supposed to design machines extra large for the few morbidly obese people in the world ?
+Leaf:  N Elaborate Wo n’t
+Leaf:  N Joint that make them more expensive
+Leaf:  N Joint and make them take up more space
+Leaf:  N Joint and raise costs for everyone ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Should doctors be expected to learn even more than the incredible amount
+Leaf:  N Elaborate they already have
+Leaf:  S span to learn just for morbidly obese patients ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint Same thing goes for the “ trans ” patients .
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate We seem to be living in a world
+Leaf:  S span where the small minority of people with special circumstances want the world to cater to them at the expense of everyone else ’s time , effort and money .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Can you tell', None, None, None, 0), ('we live in the age of Me !', None, None, None, 1), ('Me ! Me !', None, None, None, 1), ('Now we have obese and trans people whining', None, None, None, 0), ('that their special needs are not being met .', None, None, None, 1), ('Are medical device companies supposed to design machines extra large for the few morbidly obese people in the world ?', None, None, None, 1), ('Wo n’t', None, None, None, 0), ('that make them more expensive', None, None, None, 0), ('and make them take up more space', None, None, None, 0), ('and raise costs for everyone ?', None, None, None, 1), ('Should doctors be expected to learn even more than the incredible amount', None, None, None, 0), ('they already have', None, None, None, 0), ('to learn just for morbidly obese patients ?', None, None, None, 1), ('Same thing goes for the “ trans ” patients .', None, None, None, 1), ('We seem to be living in a world', None, None, None, 0), ('where the small minority of people with special circumstances want the world to cater to them at the expense of everyone else ’s time , effort and money .', None, None, None, 1)]

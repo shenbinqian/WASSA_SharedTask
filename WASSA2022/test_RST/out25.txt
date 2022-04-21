@@ -1,0 +1,27 @@
+=====================> [[('There was a multiple death of adults in a middle class home .', None, None, None, 1), ('Children found these adults', None, None, None, 0), ('and called 911 .', None, None, None, 1), ('Imagine children', None, None, None, 0), ('finding this scene', None, None, None, 0), ('and needing to make that phone call .', None, None, None, 1), ("Police do n't have answers yet ,", None, None, None, 0), ('but feel', None, None, None, 0), ('there is not immediate danger to the rest of the community .', None, None, None, 1), ('They are working hard', None, None, None, 0), ('to find the answer', None, None, None, 0), ('and to make sure', None, None, None, 0), ('these children are safe from any future wrong doings in their community .', None, None, None, 1)]]
+Leaf:  N Cause There was a multiple death of adults in a middle class home .
+Leaf:  N Temporal Children found these adults
+Leaf:  N Temporal and called 911 .
+Inner:  S span None Temporal NN
+Inner:  N Cause None Cause NS
+Leaf:  N Elaborate Imagine children
+Leaf:  N Temporal finding this scene
+Leaf:  N Temporal and needing to make that phone call .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Contrast Police do n't have answers yet ,
+Leaf:  S span but feel
+Leaf:  N Attribution there is not immediate danger to the rest of the community .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Enablement They are working hard
+Leaf:  N Joint to find the answer
+Leaf:  S span and to make sure
+Leaf:  N Attribution these children are safe from any future wrong doings in their community .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There was a multiple death of adults in a middle class home .', None, None, None, 1), ('Children found these adults', None, None, None, 0), ('and called 911 .', None, None, None, 1), ('Imagine children', None, None, None, 0), ('finding this scene', None, None, None, 0), ('and needing to make that phone call .', None, None, None, 1), ("Police do n't have answers yet ,", None, None, None, 0), ('but feel', None, None, None, 0), ('there is not immediate danger to the rest of the community .', None, None, None, 1), ('They are working hard', None, None, None, 0), ('to find the answer', None, None, None, 0), ('and to make sure', None, None, None, 0), ('these children are safe from any future wrong doings in their community .', None, None, None, 1)]

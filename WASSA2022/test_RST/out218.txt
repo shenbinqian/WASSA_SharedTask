@@ -1,0 +1,35 @@
+=====================> [[('I would be the last one', None, None, None, 0), ('to minimize the pain', None, None, None, 0), ('that women feel during the birth of a child .', None, None, None, 1), ('I sat with my wife through 32 hours of labor', None, None, None, 0), ('when she had out first child', None, None, None, 0), ('and I can only imagine how difficult that was for her . Still , if some women to chose a C-section', None, None, None, 0), ('because they want to avoid the pain ,', None, None, None, 0), ('I think', None, None, None, 0), ('that is a bit selfish on their part and they should have decided to endure that', None, None, None, 0), ('when they engaged in activity', None, None, None, 0), ('that could get them pregnant .', None, None, None, 1), ('Birth should happen the natural way', None, None, None, 0), ('when possible', None, None, None, 0), ('because the child benefits from it', None, None, None, 0), ('by being exposed to essential bacteria for their immune system from the mother ’s birth canal and probably in other ways as well', None, None, None, 0), ('that may not be known yet .', None, None, None, 1), ('Sometimes sacrifice is called for and is worth the associated discomfort .', None, None, None, 1)]]
+Leaf:  N Elaborate I would be the last one
+Leaf:  N Elaborate to minimize the pain
+Leaf:  S span that women feel during the birth of a child .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal I sat with my wife through 32 hours of labor
+Leaf:  S span when she had out first child
+Inner:  N Temporal None Temporal NS
+Leaf:  N Cause and I can only imagine how difficult that was for her . Still , if some women to chose a C-section
+Leaf:  S span because they want to avoid the pain ,
+Inner:  S span None Cause NS
+Leaf:  S span I think
+Leaf:  N Background that is a bit selfish on their part and they should have decided to endure that
+Leaf:  N Elaborate when they engaged in activity
+Leaf:  S span that could get them pregnant .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  S span None Temporal NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Background Birth should happen the natural way
+Leaf:  S span when possible
+Inner:  N Explanation None Background NS
+Leaf:  N Manner-Means because the child benefits from it
+Leaf:  N Elaborate by being exposed to essential bacteria for their immune system from the mother ’s birth canal and probably in other ways as well
+Leaf:  S span that may not be known yet .
+Inner:  S span None Elaborate NS
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Sometimes sacrifice is called for and is worth the associated discomfort .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I would be the last one', None, None, None, 0), ('to minimize the pain', None, None, None, 0), ('that women feel during the birth of a child .', None, None, None, 1), ('I sat with my wife through 32 hours of labor', None, None, None, 0), ('when she had out first child', None, None, None, 0), ('and I can only imagine how difficult that was for her . Still , if some women to chose a C-section', None, None, None, 0), ('because they want to avoid the pain ,', None, None, None, 0), ('I think', None, None, None, 0), ('that is a bit selfish on their part and they should have decided to endure that', None, None, None, 0), ('when they engaged in activity', None, None, None, 0), ('that could get them pregnant .', None, None, None, 1), ('Birth should happen the natural way', None, None, None, 0), ('when possible', None, None, None, 0), ('because the child benefits from it', None, None, None, 0), ('by being exposed to essential bacteria for their immune system from the mother ’s birth canal and probably in other ways as well', None, None, None, 0), ('that may not be known yet .', None, None, None, 1), ('Sometimes sacrifice is called for and is worth the associated discomfort .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('This just totally breaks my heart .', None, None, None, 1), ("I 'm not one", None, None, None, 0), ('to get emotional you know that .', None, None, None, 1), ('But reading about kids in the foster care system', None, None, None, 0), ('and how messed up they come out', None, None, None, 0), ('its just heart breaking . Kids', None, None, None, 0), ('that no one cared enough', None, None, None, 0), ('about to change their ways is what it is .', None, None, None, 1), ("It 's heartbreaking . Why have kids", None, None, None, 0), ('if this is the kind of parent', None, None, None, 0), ('you are going to be ?', None, None, None, 1), ("Kids did n't have a shot straight from the start .", None, None, None, 1)]]
+Leaf:  N Explanation This just totally breaks my heart .
+Leaf:  N Elaborate I 'm not one
+Leaf:  S span to get emotional you know that .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Leaf:  N Elaborate But reading about kids in the foster care system
+Leaf:  S span and how messed up they come out
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate its just heart breaking . Kids
+Leaf:  N Elaborate that no one cared enough
+Leaf:  S span about to change their ways is what it is .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Condition It 's heartbreaking . Why have kids
+Leaf:  N Elaborate if this is the kind of parent
+Leaf:  S span you are going to be ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  N Contrast None Evaluation NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span Kids did n't have a shot straight from the start .
+Inner:  Root None None Evaluation NS
+[('This just totally breaks my heart .', None, None, None, 1), ("I 'm not one", None, None, None, 0), ('to get emotional you know that .', None, None, None, 1), ('But reading about kids in the foster care system', None, None, None, 0), ('and how messed up they come out', None, None, None, 0), ('its just heart breaking . Kids', None, None, None, 0), ('that no one cared enough', None, None, None, 0), ('about to change their ways is what it is .', None, None, None, 1), ("It 's heartbreaking . Why have kids", None, None, None, 0), ('if this is the kind of parent', None, None, None, 0), ('you are going to be ?', None, None, None, 1), ("Kids did n't have a shot straight from the start .", None, None, None, 1)]

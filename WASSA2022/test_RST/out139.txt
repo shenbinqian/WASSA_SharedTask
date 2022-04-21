@@ -1,0 +1,23 @@
+=====================> [[('That really sucks', None, None, None, 0), ('that these people were that stupid .', None, None, None, 1), ('I feel bad for the girl ,', None, None, None, 0), ('that she had to watch her brother die in such a terrible fashion .', None, None, None, 1), ('I hate hearing these stories also ,', None, None, None, 0), ("because I do n't want the parks to shut down ,", None, None, None, 0), ('or become more regulated .', None, None, None, 1), ('Everytime I hear of stupid people', None, None, None, 0), ('doing stupid things like this ,', None, None, None, 0), ('I get concerned', None, None, None, 0), ("that they 're going to stop allowing regular people to hang out in the parks/public areas like this .", None, None, None, 1)]]
+Leaf:  S span That really sucks
+Leaf:  N Attribution that these people were that stupid .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I feel bad for the girl ,
+Leaf:  S span that she had to watch her brother die in such a terrible fashion .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Leaf:  N Explanation I hate hearing these stories also ,
+Leaf:  N Joint because I do n't want the parks to shut down ,
+Leaf:  N Joint or become more regulated .
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Everytime I hear of stupid people
+Leaf:  S span doing stupid things like this ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I get concerned
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span that they 're going to stop allowing regular people to hang out in the parks/public areas like this .
+Inner:  S span None Cause NS
+Inner:  Root None None Explanation NS
+[('That really sucks', None, None, None, 0), ('that these people were that stupid .', None, None, None, 1), ('I feel bad for the girl ,', None, None, None, 0), ('that she had to watch her brother die in such a terrible fashion .', None, None, None, 1), ('I hate hearing these stories also ,', None, None, None, 0), ("because I do n't want the parks to shut down ,", None, None, None, 0), ('or become more regulated .', None, None, None, 1), ('Everytime I hear of stupid people', None, None, None, 0), ('doing stupid things like this ,', None, None, None, 0), ('I get concerned', None, None, None, 0), ("that they 're going to stop allowing regular people to hang out in the parks/public areas like this .", None, None, None, 1)]

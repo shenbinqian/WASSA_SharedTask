@@ -1,0 +1,23 @@
+=====================> [[("'' There is a good chance", None, None, None, 0), ("that Trump wo n't be president '' .", None, None, None, 1), ('LMAO .', None, None, None, 1), ('Oh how wrong you were Mr or Mrs. author .', None, None, None, 1), ("Obviously American voters do not care as much about women 's issues", None, None, None, 0), ('as we hoped .', None, None, None, 1), ('Donald Trump may not be the cause of sexism in America', None, None, None, 0), ('but he is the best exemplar .', None, None, None, 1), ('The fact', None, None, None, 0), ('that he is also leader of the free world', None, None, None, 0), ('is a testament to morals or lack thereof of the American voter .', None, None, None, 1)]]
+Leaf:  N Elaborate '' There is a good chance
+Leaf:  S span that Trump wo n't be president '' .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Evaluation LMAO .
+Leaf:  S span Oh how wrong you were Mr or Mrs. author .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Comparison Obviously American voters do not care as much about women 's issues
+Leaf:  S span as we hoped .
+Inner:  N Elaborate None Comparison NS
+Leaf:  S span Donald Trump may not be the cause of sexism in America
+Leaf:  N Contrast but he is the best exemplar .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate The fact
+Leaf:  S span that he is also leader of the free world
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a testament to morals or lack thereof of the American voter .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[("'' There is a good chance", None, None, None, 0), ("that Trump wo n't be president '' .", None, None, None, 1), ('LMAO .', None, None, None, 1), ('Oh how wrong you were Mr or Mrs. author .', None, None, None, 1), ("Obviously American voters do not care as much about women 's issues", None, None, None, 0), ('as we hoped .', None, None, None, 1), ('Donald Trump may not be the cause of sexism in America', None, None, None, 0), ('but he is the best exemplar .', None, None, None, 1), ('The fact', None, None, None, 0), ('that he is also leader of the free world', None, None, None, 0), ('is a testament to morals or lack thereof of the American voter .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('So , take a minute and read this article .', None, None, None, 1), ("As I 've always contended ,", None, None, None, 0), ('lead poisoning and other environmental hazards are being ignored', None, None, None, 0), ('because of the population .', None, None, None, 1), ('As quoted in the article , this is nothing more than environmental racism .', None, None, None, 1), ('While the article focuses on LA and a bit of Flint ,', None, None, None, 0), ("I 'm sure other large metropolitan cities have similar issues .", None, None, None, 1), ('There must be a way', None, None, None, 0), ('to give these people a voice !', None, None, None, 1), ('There is no need', None, None, None, 0), ('to have children suffer under these conditions .', None, None, None, 1)]]
+Leaf:  N Explanation So , take a minute and read this article .
+Leaf:  S span As I 've always contended ,
+Leaf:  N Cause lead poisoning and other environmental hazards are being ignored
+Leaf:  S span because of the population .
+Inner:  N Evaluation None Cause NS
+Inner:  N Evaluation None Evaluation SN
+Leaf:  S span As quoted in the article , this is nothing more than environmental racism .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span While the article focuses on LA and a bit of Flint ,
+Leaf:  N Contrast I 'm sure other large metropolitan cities have similar issues .
+Inner:  N Topic-Comment None Contrast SN
+Leaf:  N Elaborate There must be a way
+Leaf:  S span to give these people a voice !
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate There is no need
+Leaf:  S span to have children suffer under these conditions .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('So , take a minute and read this article .', None, None, None, 1), ("As I 've always contended ,", None, None, None, 0), ('lead poisoning and other environmental hazards are being ignored', None, None, None, 0), ('because of the population .', None, None, None, 1), ('As quoted in the article , this is nothing more than environmental racism .', None, None, None, 1), ('While the article focuses on LA and a bit of Flint ,', None, None, None, 0), ("I 'm sure other large metropolitan cities have similar issues .", None, None, None, 1), ('There must be a way', None, None, None, 0), ('to give these people a voice !', None, None, None, 1), ('There is no need', None, None, None, 0), ('to have children suffer under these conditions .', None, None, None, 1)]

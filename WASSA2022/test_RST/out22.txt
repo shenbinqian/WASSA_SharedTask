@@ -1,0 +1,35 @@
+=====================> [[('Climate change is for real .', None, None, None, 1), ('I hope', None, None, None, 0), ('that I can help people see this fact , especially for those', None, None, None, 0), ("that do n't think", None, None, None, 0), ('it is real .', None, None, None, 1), ('The fact', None, None, None, 0), ('that it is scientifically proven', None, None, None, 0), ('that we are destroying this planet everyday', None, None, None, 0), ('should be a wake call for everyone !', None, None, None, 1), ("We 're moving faster in the direction", None, None, None, 0), ("that we do n't want to go .", None, None, None, 1), ('Scientists felt', None, None, None, 0), ('it would take a lot longer', None, None, None, 0), ('to get the point', None, None, None, 0), ("we 're at right now ,", None, None, None, 0), ("we do n't have time", None, None, None, 0), ('to wait and need to make a change now !', None, None, None, 1)]]
+Leaf:  N Elaborate Climate change is for real .
+Leaf:  S span I hope
+Leaf:  N Elaborate that I can help people see this fact , especially for those
+Leaf:  S span that do n't think
+Leaf:  N Attribution it is real .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The fact
+Leaf:  S span that it is scientifically proven
+Leaf:  N Attribution that we are destroying this planet everyday
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be a wake call for everyone !
+Inner:  S span None Same-Unit NN
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate We 're moving faster in the direction
+Leaf:  S span that we do n't want to go .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span Scientists felt
+Leaf:  N Enablement it would take a lot longer
+Leaf:  N Elaborate to get the point
+Leaf:  S span we 're at right now ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Leaf:  N Elaborate we do n't have time
+Leaf:  S span to wait and need to make a change now !
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Explanation NS
+Inner:  Root None None Topic-Change NN
+[('Climate change is for real .', None, None, None, 1), ('I hope', None, None, None, 0), ('that I can help people see this fact , especially for those', None, None, None, 0), ("that do n't think", None, None, None, 0), ('it is real .', None, None, None, 1), ('The fact', None, None, None, 0), ('that it is scientifically proven', None, None, None, 0), ('that we are destroying this planet everyday', None, None, None, 0), ('should be a wake call for everyone !', None, None, None, 1), ("We 're moving faster in the direction", None, None, None, 0), ("that we do n't want to go .", None, None, None, 1), ('Scientists felt', None, None, None, 0), ('it would take a lot longer', None, None, None, 0), ('to get the point', None, None, None, 0), ("we 're at right now ,", None, None, None, 0), ("we do n't have time", None, None, None, 0), ('to wait and need to make a change now !', None, None, None, 1)]

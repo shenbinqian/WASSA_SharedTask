@@ -1,0 +1,27 @@
+=====================> [[('Holy shit .', None, None, None, 1), ('This is awful .', None, None, None, 1), ("I 'm so tired of people", None, None, None, 0), ('thinking', None, None, None, 0), ('they can just kill whatever animals bother/inconvenience/scare them slightly .', None, None, None, 1), ('Especially with how much effort already went into protecting this one wolf .', None, None, None, 1), ("Just wtf . I ca n't believe this .", None, None, None, 1), ('I wonder', None, None, None, 0), ('what we could do', None, None, None, 0), ('to help .', None, None, None, 1), ('This is ridiculous .', None, None, None, 1), ('Idk why the hell people think', None, None, None, 0), ("it 's okay to kill animals like this .", None, None, None, 1)]]
+Leaf:  N Evaluation Holy shit .
+Leaf:  S span This is awful .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I 'm so tired of people
+Leaf:  S span thinking
+Leaf:  N Attribution they can just kill whatever animals bother/inconvenience/scare them slightly .
+Inner:  S span None Attribution SN
+Inner:  N Background None Elaborate NS
+Leaf:  S span Especially with how much effort already went into protecting this one wolf .
+Inner:  N Evaluation None Background NS
+Leaf:  N Cause Just wtf . I ca n't believe this .
+Leaf:  S span I wonder
+Leaf:  N Enablement what we could do
+Leaf:  S span to help .
+Inner:  N Attribution None Enablement NS
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate This is ridiculous .
+Leaf:  S span Idk why the hell people think
+Leaf:  N Attribution it 's okay to kill animals like this .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Holy shit .', None, None, None, 1), ('This is awful .', None, None, None, 1), ("I 'm so tired of people", None, None, None, 0), ('thinking', None, None, None, 0), ('they can just kill whatever animals bother/inconvenience/scare them slightly .', None, None, None, 1), ('Especially with how much effort already went into protecting this one wolf .', None, None, None, 1), ("Just wtf . I ca n't believe this .", None, None, None, 1), ('I wonder', None, None, None, 0), ('what we could do', None, None, None, 0), ('to help .', None, None, None, 1), ('This is ridiculous .', None, None, None, 1), ('Idk why the hell people think', None, None, None, 0), ("it 's okay to kill animals like this .", None, None, None, 1)]

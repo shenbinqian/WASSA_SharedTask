@@ -1,0 +1,29 @@
+=====================> [[('I read over this last article a couple of times', None, None, None, 0), ('and I have no clue', None, None, None, 0), ('what a timeshare is .', None, None, None, 1), ('I thought', None, None, None, 0), ('that the article before this one was the most uninteresting one however', None, None, None, 0), ('I was proven wrong with this current article .', None, None, None, 1), ('All', None, None, None, 0), ('I took from this last article', None, None, None, 0), ('was that there were a large number of people', None, None, None, 0), ('trapped in a situation', None, None, None, 0), ('that they did not want to be in .', None, None, None, 1), ('Well , they can join the rest of the world .', None, None, None, 1), ('You either fight for a better situation', None, None, None, 0), ('or fall to the wayside .', None, None, None, 1)]]
+Leaf:  N Temporal I read over this last article a couple of times
+Leaf:  S span and I have no clue
+Leaf:  N Attribution what a timeshare is .
+Inner:  N Temporal None Attribution SN
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span I thought
+Leaf:  N Attribution that the article before this one was the most uninteresting one however
+Inner:  S span None Attribution SN
+Leaf:  N Contrast I was proven wrong with this current article .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate All
+Leaf:  S span I took from this last article
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate was that there were a large number of people
+Leaf:  N Elaborate trapped in a situation
+Leaf:  S span that they did not want to be in .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Leaf:  N Condition Well , they can join the rest of the world .
+Leaf:  N Condition You either fight for a better situation
+Leaf:  N Condition or fall to the wayside .
+Inner:  S span None Condition NN
+Inner:  N Background None Condition NS
+Inner:  S span None Background SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I read over this last article a couple of times', None, None, None, 0), ('and I have no clue', None, None, None, 0), ('what a timeshare is .', None, None, None, 1), ('I thought', None, None, None, 0), ('that the article before this one was the most uninteresting one however', None, None, None, 0), ('I was proven wrong with this current article .', None, None, None, 1), ('All', None, None, None, 0), ('I took from this last article', None, None, None, 0), ('was that there were a large number of people', None, None, None, 0), ('trapped in a situation', None, None, None, 0), ('that they did not want to be in .', None, None, None, 1), ('Well , they can join the rest of the world .', None, None, None, 1), ('You either fight for a better situation', None, None, None, 0), ('or fall to the wayside .', None, None, None, 1)]

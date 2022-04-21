@@ -1,0 +1,23 @@
+=====================> [[('We really have to be sure to better next year .', None, None, None, 1), ("This ca n't happen again .", None, None, None, 1), ('We CAN NOT be overly confident about polls , or candidates , or even the goodness of people .', None, None, None, 1), ('Trump should not have been president .', None, None, None, 1), ('This needs correction quickly', None, None, None, 0), ('as he undoes everything', None, None, None, 0), ('that this country has enjoyed', None, None, None, 0), ('and relied on . We are heading down an unstable and dangerous economic road ,', None, None, None, 0), ('and our foreign policy is especially strained .', None, None, None, 1), ('We should work', None, None, None, 0), ('to make this better now !', None, None, None, 1)]]
+Leaf:  N Summary We really have to be sure to better next year .
+Leaf:  S span This ca n't happen again .
+Inner:  N Summary None Summary NS
+Leaf:  S span We CAN NOT be overly confident about polls , or candidates , or even the goodness of people .
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation Trump should not have been president .
+Leaf:  N Background This needs correction quickly
+Leaf:  N Elaborate as he undoes everything
+Leaf:  S span that this country has enjoyed
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and relied on . We are heading down an unstable and dangerous economic road ,
+Leaf:  N Joint and our foreign policy is especially strained .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Background NS
+Leaf:  N Enablement We should work
+Leaf:  S span to make this better now !
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('We really have to be sure to better next year .', None, None, None, 1), ("This ca n't happen again .", None, None, None, 1), ('We CAN NOT be overly confident about polls , or candidates , or even the goodness of people .', None, None, None, 1), ('Trump should not have been president .', None, None, None, 1), ('This needs correction quickly', None, None, None, 0), ('as he undoes everything', None, None, None, 0), ('that this country has enjoyed', None, None, None, 0), ('and relied on . We are heading down an unstable and dangerous economic road ,', None, None, None, 0), ('and our foreign policy is especially strained .', None, None, None, 1), ('We should work', None, None, None, 0), ('to make this better now !', None, None, None, 1)]

@@ -1,0 +1,11 @@
+=====================> [[('Wow , this is a huge , confounding problem', None, None, None, 0), ('that is not exclusive to Germany .', None, None, None, 1), ("On the one hand , it would be great if Western countries could take on all the world 's refugees ,", None, None, None, 0), ('but doing so creates a huge strain on services and the system as a whole . And , of course , there are more insidious reasons', None, None, None, 0), ('why people dislike refugees ...', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , this is a huge , confounding problem
+Leaf:  S span that is not exclusive to Germany .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast On the one hand , it would be great if Western countries could take on all the world 's refugees ,
+Leaf:  N Elaborate but doing so creates a huge strain on services and the system as a whole . And , of course , there are more insidious reasons
+Leaf:  S span why people dislike refugees ...
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('Wow , this is a huge , confounding problem', None, None, None, 0), ('that is not exclusive to Germany .', None, None, None, 1), ("On the one hand , it would be great if Western countries could take on all the world 's refugees ,", None, None, None, 0), ('but doing so creates a huge strain on services and the system as a whole . And , of course , there are more insidious reasons', None, None, None, 0), ('why people dislike refugees ...', None, None, None, 1)]

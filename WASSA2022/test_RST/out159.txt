@@ -1,0 +1,19 @@
+=====================> [[('South Africa has a big issue with poachers', None, None, None, 0), ('attacking and killing its wildlife .', None, None, None, 1), ('It is so sad to see humans viewing temporary profits as worth more than an entire species existence .', None, None, None, 1), ('South Africa has a lot of issues to address ,', None, None, None, 0), ('but I think', None, None, None, 0), ('that they are doing', None, None, None, 0), ('what they can', None, None, None, 0), ('to ensure', None, None, None, 0), ('that poaching is prevented as much as possible .', None, None, None, 1)]]
+Leaf:  N Elaborate South Africa has a big issue with poachers
+Leaf:  S span attacking and killing its wildlife .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is so sad to see humans viewing temporary profits as worth more than an entire species existence .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span South Africa has a lot of issues to address ,
+Leaf:  S span but I think
+Leaf:  S span that they are doing
+Leaf:  N Enablement what they can
+Leaf:  S span to ensure
+Leaf:  N Attribution that poaching is prevented as much as possible .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Enablement NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('South Africa has a big issue with poachers', None, None, None, 0), ('attacking and killing its wildlife .', None, None, None, 1), ('It is so sad to see humans viewing temporary profits as worth more than an entire species existence .', None, None, None, 1), ('South Africa has a lot of issues to address ,', None, None, None, 0), ('but I think', None, None, None, 0), ('that they are doing', None, None, None, 0), ('what they can', None, None, None, 0), ('to ensure', None, None, None, 0), ('that poaching is prevented as much as possible .', None, None, None, 1)]

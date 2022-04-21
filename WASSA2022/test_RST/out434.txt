@@ -1,0 +1,17 @@
+=====================> [[('This is why global warming is an issue .', None, None, None, 1), ("Even if it affects things slowly it will eventually affect the world 's people .", None, None, None, 1), ('It starts small', None, None, None, 0), ('and builds', None, None, None, 0), ('as you can see', None, None, None, 0), ('if you actually read the article .', None, None, None, 1), ('While you may enjoy a good life now and maybe even your children and grandchildren ,', None, None, None, 0), ('those in the future will not .', None, None, None, 1)]]
+Leaf:  N Explanation This is why global warming is an issue .
+Leaf:  S span Even if it affects things slowly it will eventually affect the world 's people .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint It starts small
+Leaf:  N Attribution and builds
+Leaf:  N Condition as you can see
+Leaf:  S span if you actually read the article .
+Inner:  S span None Condition NS
+Inner:  N Joint None Attribution NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Contrast While you may enjoy a good life now and maybe even your children and grandchildren ,
+Leaf:  N Contrast those in the future will not .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is why global warming is an issue .', None, None, None, 1), ("Even if it affects things slowly it will eventually affect the world 's people .", None, None, None, 1), ('It starts small', None, None, None, 0), ('and builds', None, None, None, 0), ('as you can see', None, None, None, 0), ('if you actually read the article .', None, None, None, 1), ('While you may enjoy a good life now and maybe even your children and grandchildren ,', None, None, None, 0), ('those in the future will not .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('I just read an article about the conflict in the middle east', None, None, None, 0), ('and how bad it has gotten over there .', None, None, None, 1), ('The leaders of the Islamic state are encouraging their soldiers to fight to the death .', None, None, None, 1), ('They are relying more and more on suicide attacks', None, None, None, 0), ('to keep enemy forces from moving into their territory', None, None, None, 0), ("It 's own backed news agency has made claims", None, None, None, 0), ('of the islamic state', None, None, None, 0), ('launching over 120 assaults throughout Syria.THE USA is seeking to calm a NATO ally in Turkey', None, None, None, 0), ('and assist them .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about the conflict in the middle east
+Leaf:  S span and how bad it has gotten over there .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Summary The leaders of the Islamic state are encouraging their soldiers to fight to the death .
+Leaf:  N Enablement They are relying more and more on suicide attacks
+Leaf:  S span to keep enemy forces from moving into their territory
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Same-Unit It 's own backed news agency has made claims
+Leaf:  N Same-Unit of the islamic state
+Inner:  N Manner-Means None Same-Unit NN
+Leaf:  N Joint launching over 120 assaults throughout Syria.THE USA is seeking to calm a NATO ally in Turkey
+Leaf:  N Joint and assist them .
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about the conflict in the middle east', None, None, None, 0), ('and how bad it has gotten over there .', None, None, None, 1), ('The leaders of the Islamic state are encouraging their soldiers to fight to the death .', None, None, None, 1), ('They are relying more and more on suicide attacks', None, None, None, 0), ('to keep enemy forces from moving into their territory', None, None, None, 0), ("It 's own backed news agency has made claims", None, None, None, 0), ('of the islamic state', None, None, None, 0), ('launching over 120 assaults throughout Syria.THE USA is seeking to calm a NATO ally in Turkey', None, None, None, 0), ('and assist them .', None, None, None, 1)]

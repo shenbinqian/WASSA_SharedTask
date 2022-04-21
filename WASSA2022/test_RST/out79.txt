@@ -1,0 +1,21 @@
+=====================> [[('April can you believe', None, None, None, 0), ('that we have such gender inequality in this country .', None, None, None, 1), ('A new report just came out', None, None, None, 0), ('ranking the US 45th down from 28th last year in gender inequality .', None, None, None, 1), ("That 's behind four African countries and all major European countries", None, None, None, 0), ('who are all in the top 20 .', None, None, None, 1), ('I think', None, None, None, 0), ('until we get rid of archaic thinking leaders like our idiot president', None, None, None, 0), ('this is going to continue to go backwards for us .', None, None, None, 1), ('We should be the leader in this area .', None, None, None, 1)]]
+Leaf:  S span April can you believe
+Leaf:  N Attribution that we have such gender inequality in this country .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate A new report just came out
+Leaf:  S span ranking the US 45th down from 28th last year in gender inequality .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate That 's behind four African countries and all major European countries
+Leaf:  S span who are all in the top 20 .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  S span until we get rid of archaic thinking leaders like our idiot president
+Leaf:  N Background this is going to continue to go backwards for us .
+Inner:  N Attribution None Background SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span We should be the leader in this area .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('April can you believe', None, None, None, 0), ('that we have such gender inequality in this country .', None, None, None, 1), ('A new report just came out', None, None, None, 0), ('ranking the US 45th down from 28th last year in gender inequality .', None, None, None, 1), ("That 's behind four African countries and all major European countries", None, None, None, 0), ('who are all in the top 20 .', None, None, None, 1), ('I think', None, None, None, 0), ('until we get rid of archaic thinking leaders like our idiot president', None, None, None, 0), ('this is going to continue to go backwards for us .', None, None, None, 1), ('We should be the leader in this area .', None, None, None, 1)]

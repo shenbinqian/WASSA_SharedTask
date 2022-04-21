@@ -1,0 +1,45 @@
+=====================> [[('Oh Ariel !!!! Another suicide', None, None, None, 0), ('that could have been prevented .', None, None, None, 1), ("There just are n't any words", None, None, None, 0), ('to describe how I feel .', None, None, None, 1), ('Brampton committed suicide', None, None, None, 0), ('by walking into the sea .', None, None, None, 1), ('She wrote for Elle magazine and also a Daily Mail column . She had been seeing a psychiatrist as well as a General Practitioner for dark depression . There were notes in her file', None, None, None, 0), ('stating', None, None, None, 0), ('she was having serious suicide thoughts .', None, None, None, 1), ('The coroner identified it all', None, None, None, 0), ('while the two doctors just missed every opportunity', None, None, None, 0), ('to help her .', None, None, None, 1), ('I am so upset right now .', None, None, None, 1), ('It continues to happen to mental health patients . Just get them in', None, None, None, 0), ('and get them out and prescribe drugs . I am mad ,', None, None, None, 0), ('crying , upset ,', None, None, None, 0), ('and honestly do not understand', None, None, None, 0), ('why this illness is still one', None, None, None, 0), ('that no one wants to talk about .', None, None, None, 1), ('Why ? She could have lived', None, None, None, 0), ('if people cared', None, None, None, 0), ('about', None, None, None, 0)]]
+Leaf:  N Elaborate Oh Ariel !!!! Another suicide
+Leaf:  S span that could have been prevented .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate There just are n't any words
+Leaf:  S span to describe how I feel .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Manner-Means Brampton committed suicide
+Leaf:  S span by walking into the sea .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate She wrote for Elle magazine and also a Daily Mail column . She had been seeing a psychiatrist as well as a General Practitioner for dark depression . There were notes in her file
+Leaf:  S span stating
+Leaf:  N Attribution she was having serious suicide thoughts .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The coroner identified it all
+Leaf:  N Elaborate while the two doctors just missed every opportunity
+Leaf:  S span to help her .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I am so upset right now .
+Leaf:  N Joint It continues to happen to mental health patients . Just get them in
+Leaf:  N Joint and get them out and prescribe drugs . I am mad ,
+Inner:  N Joint None Joint NN
+Leaf:  N Joint crying , upset ,
+Inner:  N Joint None Joint NN
+Leaf:  S span and honestly do not understand
+Leaf:  N Elaborate why this illness is still one
+Leaf:  S span that no one wants to talk about .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition Why ? She could have lived
+Leaf:  N Enablement if people cared
+Leaf:  S span about
+Inner:  S span None Enablement NS
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Oh Ariel !!!! Another suicide', None, None, None, 0), ('that could have been prevented .', None, None, None, 1), ("There just are n't any words", None, None, None, 0), ('to describe how I feel .', None, None, None, 1), ('Brampton committed suicide', None, None, None, 0), ('by walking into the sea .', None, None, None, 1), ('She wrote for Elle magazine and also a Daily Mail column . She had been seeing a psychiatrist as well as a General Practitioner for dark depression . There were notes in her file', None, None, None, 0), ('stating', None, None, None, 0), ('she was having serious suicide thoughts .', None, None, None, 1), ('The coroner identified it all', None, None, None, 0), ('while the two doctors just missed every opportunity', None, None, None, 0), ('to help her .', None, None, None, 1), ('I am so upset right now .', None, None, None, 1), ('It continues to happen to mental health patients . Just get them in', None, None, None, 0), ('and get them out and prescribe drugs . I am mad ,', None, None, None, 0), ('crying , upset ,', None, None, None, 0), ('and honestly do not understand', None, None, None, 0), ('why this illness is still one', None, None, None, 0), ('that no one wants to talk about .', None, None, None, 1), ('Why ? She could have lived', None, None, None, 0), ('if people cared', None, None, None, 0), ('about', None, None, None, 0)]

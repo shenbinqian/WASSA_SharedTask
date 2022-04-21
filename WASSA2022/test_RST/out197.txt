@@ -1,0 +1,27 @@
+=====================> [[('Once again I have no idea', None, None, None, 0), ('why I am sending you a message about this article .', None, None, None, 1), ("I do n't really care about it", None, None, None, 0), ('and am not in a point', None, None, None, 0), ('where I can expend effort towards things', None, None, None, 0), ("that do n't bring me closer to my goals in life .", None, None, None, 1), ('I will say', None, None, None, 0), ('that its unfortunate', None, None, None, 0), ('that the frog is extinct .', None, None, None, 1), ('It is even more unfortunate that species are going extinct', None, None, None, 0), ('before we are even aware of them in some cases .', None, None, None, 1), ("However , I do n't see", None, None, None, 0), ('that stopping as long as there are humans on this planet .', None, None, None, 1)]]
+Leaf:  S span Once again I have no idea
+Leaf:  N Attribution why I am sending you a message about this article .
+Inner:  N Summary None Attribution SN
+Leaf:  N Joint I do n't really care about it
+Leaf:  N Elaborate and am not in a point
+Leaf:  N Elaborate where I can expend effort towards things
+Leaf:  S span that do n't bring me closer to my goals in life .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I will say
+Leaf:  S span that its unfortunate
+Leaf:  N Attribution that the frog is extinct .
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Temporal It is even more unfortunate that species are going extinct
+Leaf:  S span before we are even aware of them in some cases .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span However , I do n't see
+Leaf:  N Attribution that stopping as long as there are humans on this planet .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Once again I have no idea', None, None, None, 0), ('why I am sending you a message about this article .', None, None, None, 1), ("I do n't really care about it", None, None, None, 0), ('and am not in a point', None, None, None, 0), ('where I can expend effort towards things', None, None, None, 0), ("that do n't bring me closer to my goals in life .", None, None, None, 1), ('I will say', None, None, None, 0), ('that its unfortunate', None, None, None, 0), ('that the frog is extinct .', None, None, None, 1), ('It is even more unfortunate that species are going extinct', None, None, None, 0), ('before we are even aware of them in some cases .', None, None, None, 1), ("However , I do n't see", None, None, None, 0), ('that stopping as long as there are humans on this planet .', None, None, None, 1)]

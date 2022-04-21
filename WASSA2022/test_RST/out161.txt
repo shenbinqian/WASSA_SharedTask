@@ -1,0 +1,19 @@
+=====================> [[('Look at this article', None, None, None, 0), ('and see', None, None, None, 0), ('that the problems in Chicago are all similar to what is going on over there now .', None, None, None, 1), ('It is great that groups can get together , pool resources', None, None, None, 0), ('and show the evidence of these wrongdoings over a period of time .', None, None, None, 1), ('I hope', None, None, None, 0), ('that this helps people realize', None, None, None, 0), ('what has happened', None, None, None, 0), ('and what could still be happening there .', None, None, None, 1)]]
+Leaf:  N Joint Look at this article
+Leaf:  S span and see
+Leaf:  N Attribution that the problems in Chicago are all similar to what is going on over there now .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It is great that groups can get together , pool resources
+Leaf:  N Joint and show the evidence of these wrongdoings over a period of time .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I hope
+Leaf:  S span that this helps people realize
+Leaf:  N Joint what has happened
+Leaf:  N Joint and what could still be happening there .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Look at this article', None, None, None, 0), ('and see', None, None, None, 0), ('that the problems in Chicago are all similar to what is going on over there now .', None, None, None, 1), ('It is great that groups can get together , pool resources', None, None, None, 0), ('and show the evidence of these wrongdoings over a period of time .', None, None, None, 1), ('I hope', None, None, None, 0), ('that this helps people realize', None, None, None, 0), ('what has happened', None, None, None, 0), ('and what could still be happening there .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('This article was about a man', None, None, None, 0), ('that killed his two young sons', None, None, None, 0), ('and then shot himself', None, None, None, 0), ('in what seems to be a horrible murder suicide .', None, None, None, 1), ('I did not really enjoy reading this article', None, None, None, 0), ('because I felt', None, None, None, 0), ('that it was too emotional .', None, None, None, 1), ('I do not like anything', None, None, None, 0), ('that talks about situations like this .', None, None, None, 1), ('It makes me very uneasy', None, None, None, 0), ('because I have two children of my own', None, None, None, 0), ('and can not even begin to imagine', None, None, None, 0), ('what this man had to be thinking .', None, None, None, 1), ('The article is a little graphic ,', None, None, None, 0), ('but other than that it is a good read . Just unfortunately a very sad story .', None, None, None, 1)]]
+Leaf:  N Elaborate This article was about a man
+Leaf:  N Temporal that killed his two young sons
+Leaf:  N Temporal and then shot himself
+Leaf:  N Temporal in what seems to be a horrible murder suicide .
+Inner:  N Temporal None Temporal NN
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I did not really enjoy reading this article
+Leaf:  S span because I felt
+Leaf:  N Attribution that it was too emotional .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I do not like anything
+Leaf:  S span that talks about situations like this .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause It makes me very uneasy
+Leaf:  N Joint because I have two children of my own
+Leaf:  S span and can not even begin to imagine
+Leaf:  N Attribution what this man had to be thinking .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The article is a little graphic ,
+Leaf:  N Contrast but other than that it is a good read . Just unfortunately a very sad story .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('This article was about a man', None, None, None, 0), ('that killed his two young sons', None, None, None, 0), ('and then shot himself', None, None, None, 0), ('in what seems to be a horrible murder suicide .', None, None, None, 1), ('I did not really enjoy reading this article', None, None, None, 0), ('because I felt', None, None, None, 0), ('that it was too emotional .', None, None, None, 1), ('I do not like anything', None, None, None, 0), ('that talks about situations like this .', None, None, None, 1), ('It makes me very uneasy', None, None, None, 0), ('because I have two children of my own', None, None, None, 0), ('and can not even begin to imagine', None, None, None, 0), ('what this man had to be thinking .', None, None, None, 1), ('The article is a little graphic ,', None, None, None, 0), ('but other than that it is a good read . Just unfortunately a very sad story .', None, None, None, 1)]

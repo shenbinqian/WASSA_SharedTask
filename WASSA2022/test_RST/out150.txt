@@ -1,0 +1,15 @@
+=====================> [[('Dr. Eliach reportedly took out a loan on her life-insurance policy', None, None, None, 0), ('and spent $ 600,000 of her own money on the project .', None, None, None, 1), ('This shows', None, None, None, 0), ('that she was a woman of conviction with no emotional attachment to money .', None, None, None, 1), ('I was moved by the fact', None, None, None, 0), ('that she chose to celebrate the lives of the Holocaust survivors with her photographs ,', None, None, None, 0), ('rather than focusing on their suffering and death .', None, None, None, 1)]]
+Leaf:  N Joint Dr. Eliach reportedly took out a loan on her life-insurance policy
+Leaf:  N Joint and spent $ 600,000 of her own money on the project .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This shows
+Leaf:  N Attribution that she was a woman of conviction with no emotional attachment to money .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I was moved by the fact
+Leaf:  N Comparison that she chose to celebrate the lives of the Holocaust survivors with her photographs ,
+Leaf:  N Comparison rather than focusing on their suffering and death .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Dr. Eliach reportedly took out a loan on her life-insurance policy', None, None, None, 0), ('and spent $ 600,000 of her own money on the project .', None, None, None, 1), ('This shows', None, None, None, 0), ('that she was a woman of conviction with no emotional attachment to money .', None, None, None, 1), ('I was moved by the fact', None, None, None, 0), ('that she chose to celebrate the lives of the Holocaust survivors with her photographs ,', None, None, None, 0), ('rather than focusing on their suffering and death .', None, None, None, 1)]

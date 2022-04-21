@@ -1,0 +1,15 @@
+=====================> [[('Hey , please take the time', None, None, None, 0), ('to read this disturbing article .', None, None, None, 1), ('I feel so badly for these people ,', None, None, None, 0), ("and I just ca n't get the idea of that poor father and son out of my head.Do you think", None, None, None, 0), ('there is something', None, None, None, 0), ('we can do ?', None, None, None, 1), ("Maybe look into some type of donation or at least let 's bring awareness to this horrible situation .", None, None, None, 1)]]
+Leaf:  N Elaborate Hey , please take the time
+Leaf:  S span to read this disturbing article .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I feel so badly for these people ,
+Leaf:  S span and I just ca n't get the idea of that poor father and son out of my head.Do you think
+Leaf:  N Elaborate there is something
+Leaf:  S span we can do ?
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Maybe look into some type of donation or at least let 's bring awareness to this horrible situation .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey , please take the time', None, None, None, 0), ('to read this disturbing article .', None, None, None, 1), ('I feel so badly for these people ,', None, None, None, 0), ("and I just ca n't get the idea of that poor father and son out of my head.Do you think", None, None, None, 0), ('there is something', None, None, None, 0), ('we can do ?', None, None, None, 1), ("Maybe look into some type of donation or at least let 's bring awareness to this horrible situation .", None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Fuck every single woman', None, None, None, 0), ('who thinks', None, None, None, 0), ('the GOP is only bad', None, None, None, 0), ('because of Trump , lmfao .', None, None, None, 1), ('This is ridiculous I hate all of this shit .', None, None, None, 1), ('The real issue', None, None, None, 0), ("we 're having here", None, None, None, 0), ('is that a disgusting party', None, None, None, 0), ('built on hate and " traditional " values of treating other people like shit', None, None, None, 0), ('is still prominent at all .', None, None, None, 1), ('Any support of Trump for any reason is wrong', None, None, None, 0), ("and I 'm tired of pretending to be nice to people", None, None, None, 0), ('who thought', None, None, None, 0), ('it was a good decision at any point in the last 3 decades', None, None, None, 0), ('to vote R.', None, None, None, 1)]]
+Leaf:  N Elaborate Fuck every single woman
+Leaf:  S span who thinks
+Leaf:  N Cause the GOP is only bad
+Leaf:  S span because of Trump , lmfao .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This is ridiculous I hate all of this shit .
+Leaf:  N Elaborate The real issue
+Leaf:  S span we 're having here
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is that a disgusting party
+Leaf:  S span built on hate and " traditional " values of treating other people like shit
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is still prominent at all .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Any support of Trump for any reason is wrong
+Leaf:  N Elaborate and I 'm tired of pretending to be nice to people
+Leaf:  S span who thought
+Leaf:  N Elaborate it was a good decision at any point in the last 3 decades
+Leaf:  S span to vote R.
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Fuck every single woman', None, None, None, 0), ('who thinks', None, None, None, 0), ('the GOP is only bad', None, None, None, 0), ('because of Trump , lmfao .', None, None, None, 1), ('This is ridiculous I hate all of this shit .', None, None, None, 1), ('The real issue', None, None, None, 0), ("we 're having here", None, None, None, 0), ('is that a disgusting party', None, None, None, 0), ('built on hate and " traditional " values of treating other people like shit', None, None, None, 0), ('is still prominent at all .', None, None, None, 1), ('Any support of Trump for any reason is wrong', None, None, None, 0), ("and I 'm tired of pretending to be nice to people", None, None, None, 0), ('who thought', None, None, None, 0), ('it was a good decision at any point in the last 3 decades', None, None, None, 0), ('to vote R.', None, None, None, 1)]

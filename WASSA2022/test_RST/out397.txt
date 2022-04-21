@@ -1,0 +1,21 @@
+=====================> [[('Wow , I just read a VERY disturbing article on climate change', None, None, None, 0), ('and how it has been affecting forest fires in the United States .', None, None, None, 1), ('It appears that due to the increased temperatures and things drying out', None, None, None, 0), ('because of it ,', None, None, None, 0), ('that the amount of forest fires has been steadily increasing .', None, None, None, 1), ('I must say', None, None, None, 0), ('that it sure seems that California in particular has been experiencing alot of fires over the last few years .', None, None, None, 1), ('Hopefully we start to get a better handle on climate change , as well as more effective ways', None, None, None, 0), ('of dealing with fires', None, None, None, 0), ('that do occur .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , I just read a VERY disturbing article on climate change
+Leaf:  S span and how it has been affecting forest fires in the United States .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause It appears that due to the increased temperatures and things drying out
+Leaf:  S span because of it ,
+Inner:  S span None Cause NS
+Leaf:  N Cause that the amount of forest fires has been steadily increasing .
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I must say
+Leaf:  N Attribution that it sure seems that California in particular has been experiencing alot of fires over the last few years .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Leaf:  N Elaborate Hopefully we start to get a better handle on climate change , as well as more effective ways
+Leaf:  N Elaborate of dealing with fires
+Leaf:  S span that do occur .
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('Wow , I just read a VERY disturbing article on climate change', None, None, None, 0), ('and how it has been affecting forest fires in the United States .', None, None, None, 1), ('It appears that due to the increased temperatures and things drying out', None, None, None, 0), ('because of it ,', None, None, None, 0), ('that the amount of forest fires has been steadily increasing .', None, None, None, 1), ('I must say', None, None, None, 0), ('that it sure seems that California in particular has been experiencing alot of fires over the last few years .', None, None, None, 1), ('Hopefully we start to get a better handle on climate change , as well as more effective ways', None, None, None, 0), ('of dealing with fires', None, None, None, 0), ('that do occur .', None, None, None, 1)]

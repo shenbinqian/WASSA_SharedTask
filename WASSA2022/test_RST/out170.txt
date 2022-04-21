@@ -1,0 +1,27 @@
+=====================> [[('It is silly that California gets on its high horse', None, None, None, 0), ('about being environmentally friendly', None, None, None, 0), ('when they are heavily contributing to the destruction of the rainforests in the Amazon .', None, None, None, 1), ('That is not something', None, None, None, 0), ('that people think about', None, None, None, 0), ('when they hear of California', None, None, None, 0), ("and I 'm disturbed", None, None, None, 0), ('to hear that it is a real thing', None, None, None, 0), ('that is happening .', None, None, None, 1), ('I think', None, None, None, 0), ('it is terrible', None, None, None, 0), ('and I wish', None, None, None, 0), ('something could be done about it .', None, None, None, 1)]]
+Leaf:  N Background It is silly that California gets on its high horse
+Leaf:  N Background about being environmentally friendly
+Leaf:  S span when they are heavily contributing to the destruction of the rainforests in the Amazon .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate That is not something
+Leaf:  N Background that people think about
+Leaf:  S span when they hear of California
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and I 'm disturbed
+Leaf:  N Elaborate to hear that it is a real thing
+Leaf:  S span that is happening .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Joint it is terrible
+Leaf:  S span and I wish
+Leaf:  N Attribution something could be done about it .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('It is silly that California gets on its high horse', None, None, None, 0), ('about being environmentally friendly', None, None, None, 0), ('when they are heavily contributing to the destruction of the rainforests in the Amazon .', None, None, None, 1), ('That is not something', None, None, None, 0), ('that people think about', None, None, None, 0), ('when they hear of California', None, None, None, 0), ("and I 'm disturbed", None, None, None, 0), ('to hear that it is a real thing', None, None, None, 0), ('that is happening .', None, None, None, 1), ('I think', None, None, None, 0), ('it is terrible', None, None, None, 0), ('and I wish', None, None, None, 0), ('something could be done about it .', None, None, None, 1)]

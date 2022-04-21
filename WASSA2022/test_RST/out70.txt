@@ -1,0 +1,27 @@
+=====================> [[('Hey , check out this scientific study', None, None, None, 0), ('I just saw .', None, None, None, 1), ('Researchers say', None, None, None, 0), ("there 's an apparent , undeniable link between women 's birth control medication and depression .", None, None, None, 1), ('This is alarming !', None, None, None, 1), ('Think of how many women worldwide are taking the pill ,', None, None, None, 0), ('this could be seriously troublesome .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("there is n't more alarm about this", None, None, None, 0), ("and that I 'd never heard about it before now .", None, None, None, 1), ('Make sure you tell everyone', None, None, None, 0), ('you know ,', None, None, None, 0), ('we have to get the word out !', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , check out this scientific study
+Leaf:  S span I just saw .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Researchers say
+Leaf:  N Attribution there 's an apparent , undeniable link between women 's birth control medication and depression .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation This is alarming !
+Leaf:  N Cause Think of how many women worldwide are taking the pill ,
+Leaf:  S span this could be seriously troublesome .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I ca n't believe
+Leaf:  N Joint there is n't more alarm about this
+Leaf:  N Joint and that I 'd never heard about it before now .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Make sure you tell everyone
+Leaf:  N Attribution you know ,
+Inner:  S span None Attribution SN
+Leaf:  N Attribution we have to get the word out !
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Hey , check out this scientific study', None, None, None, 0), ('I just saw .', None, None, None, 1), ('Researchers say', None, None, None, 0), ("there 's an apparent , undeniable link between women 's birth control medication and depression .", None, None, None, 1), ('This is alarming !', None, None, None, 1), ('Think of how many women worldwide are taking the pill ,', None, None, None, 0), ('this could be seriously troublesome .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("there is n't more alarm about this", None, None, None, 0), ("and that I 'd never heard about it before now .", None, None, None, 1), ('Make sure you tell everyone', None, None, None, 0), ('you know ,', None, None, None, 0), ('we have to get the word out !', None, None, None, 1)]

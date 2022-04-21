@@ -1,0 +1,41 @@
+=====================> [[("I just read about the robbery of Kim Kardashian 's place .", None, None, None, 1), ("I 'd heard about it", None, None, None, 0), ("but did n't realize", None, None, None, 0), ('the robber was French', None, None, None, 0), ('and that they think', None, None, None, 0), ('the robber might have seen her huge diamond ring', None, None, None, 0), ("when she flashed it all over social media . Apparently , she 's been less and less on social media since then .", None, None, None, 1), ('I really feel from the concierge', None, None, None, 0), ('who was caught up in the robbery . That must have been pretty terrifying to have to deal with something like that . To go through most of your days accepting packages and hailing cabs for the uber-rich ,', None, None, None, 0), ('and then to come in', None, None, None, 0), ('to work one day', None, None, None, 0), ('and be held at gunpoint', None, None, None, 0), ('and have them demand money in a foreign language .', None, None, None, 1), ('No matter what the public opinion is about Kim K as a person ,', None, None, None, 0), ('nobody deserves to be robbed ,', None, None, None, 0), ('held at gunpoint ,', None, None, None, 0), ('and', None, None, None, 0), ('to fear for their lives', None, None, None, 0), ('over some money', None, None, None, 0), ('and some', None, None, None, 0)]]
+Leaf:  N Elaborate I just read about the robbery of Kim Kardashian 's place .
+Leaf:  S span I 'd heard about it
+Leaf:  S span but did n't realize
+Leaf:  N Attribution the robber was French
+Inner:  N Temporal None Attribution SN
+Inner:  N Joint None Temporal SN
+Leaf:  S span and that they think
+Leaf:  N Background the robber might have seen her huge diamond ring
+Leaf:  S span when she flashed it all over social media . Apparently , she 's been less and less on social media since then .
+Inner:  N Attribution None Background NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Elaborate I really feel from the concierge
+Leaf:  S span who was caught up in the robbery . That must have been pretty terrifying to have to deal with something like that . To go through most of your days accepting packages and hailing cabs for the uber-rich ,
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal and then to come in
+Leaf:  N Temporal to work one day
+Inner:  N Temporal None Temporal NN
+Leaf:  N Temporal and be held at gunpoint
+Leaf:  N Temporal and have them demand money in a foreign language .
+Inner:  N Temporal None Temporal NN
+Inner:  N Temporal None Temporal NN
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span No matter what the public opinion is about Kim K as a person ,
+Leaf:  N Joint nobody deserves to be robbed ,
+Leaf:  N Joint held at gunpoint ,
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and
+Leaf:  N Background to fear for their lives
+Leaf:  N Joint over some money
+Leaf:  N Joint and some
+Inner:  S span None Joint NN
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[("I just read about the robbery of Kim Kardashian 's place .", None, None, None, 1), ("I 'd heard about it", None, None, None, 0), ("but did n't realize", None, None, None, 0), ('the robber was French', None, None, None, 0), ('and that they think', None, None, None, 0), ('the robber might have seen her huge diamond ring', None, None, None, 0), ("when she flashed it all over social media . Apparently , she 's been less and less on social media since then .", None, None, None, 1), ('I really feel from the concierge', None, None, None, 0), ('who was caught up in the robbery . That must have been pretty terrifying to have to deal with something like that . To go through most of your days accepting packages and hailing cabs for the uber-rich ,', None, None, None, 0), ('and then to come in', None, None, None, 0), ('to work one day', None, None, None, 0), ('and be held at gunpoint', None, None, None, 0), ('and have them demand money in a foreign language .', None, None, None, 1), ('No matter what the public opinion is about Kim K as a person ,', None, None, None, 0), ('nobody deserves to be robbed ,', None, None, None, 0), ('held at gunpoint ,', None, None, None, 0), ('and', None, None, None, 0), ('to fear for their lives', None, None, None, 0), ('over some money', None, None, None, 0), ('and some', None, None, None, 0)]

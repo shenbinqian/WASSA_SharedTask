@@ -1,0 +1,41 @@
+=====================> [[('I just read an article about the Rohingya Muslims in Burma', None, None, None, 0), ('and what is happening to them .', None, None, None, 1), ("I ca n't imagine losing your freedoms and rights", None, None, None, 0), ('like they have .', None, None, None, 1), ("They are n't allowed to go anywhere ,", None, None, None, 0), ('they are essentially being held prisoner in their communities .', None, None, None, 1), ('We are so lucky', None, None, None, 0), ('that we have never been persecuted', None, None, None, 0), ('based solely on who we are .', None, None, None, 1), ('Imagine waking up one day and having all your liberties taken away', None, None, None, 0), ('because you were a caucasian American', None, None, None, 0), ('and some radical group decided they no longer wanted caucasians to have any rights ?', None, None, None, 1), ('To just go from normal life one day to being without rights the next .', None, None, None, 1), ("I ca n't even imagine the devastation .", None, None, None, 1), ('The government there is so corrupt and evil', None, None, None, 0), ("they probably wo n't even do anything", None, None, None, 0), ('to help these poor people .', None, None, None, 1), ('I wish there was something', None, None, None, 0), ('we could do', None, None, None, 0), ('to help these victims s', None, None, None, 0)]]
+Leaf:  N Elaborate I just read an article about the Rohingya Muslims in Burma
+Leaf:  S span and what is happening to them .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Comparison I ca n't imagine losing your freedoms and rights
+Leaf:  S span like they have .
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Cause They are n't allowed to go anywhere ,
+Leaf:  N Cause they are essentially being held prisoner in their communities .
+Inner:  S span None Cause NN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span We are so lucky
+Leaf:  N Elaborate that we have never been persecuted
+Leaf:  S span based solely on who we are .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Explanation Imagine waking up one day and having all your liberties taken away
+Leaf:  S span because you were a caucasian American
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Same-Unit and some radical group decided they no longer wanted caucasians to have any rights ?
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Joint To just go from normal life one day to being without rights the next .
+Leaf:  N Explanation I ca n't even imagine the devastation .
+Leaf:  S span The government there is so corrupt and evil
+Leaf:  N Enablement they probably wo n't even do anything
+Leaf:  S span to help these poor people .
+Inner:  N Explanation None Enablement NS
+Inner:  N Evaluation None Explanation SN
+Leaf:  N Elaborate I wish there was something
+Leaf:  N Enablement we could do
+Leaf:  S span to help these victims s
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about the Rohingya Muslims in Burma', None, None, None, 0), ('and what is happening to them .', None, None, None, 1), ("I ca n't imagine losing your freedoms and rights", None, None, None, 0), ('like they have .', None, None, None, 1), ("They are n't allowed to go anywhere ,", None, None, None, 0), ('they are essentially being held prisoner in their communities .', None, None, None, 1), ('We are so lucky', None, None, None, 0), ('that we have never been persecuted', None, None, None, 0), ('based solely on who we are .', None, None, None, 1), ('Imagine waking up one day and having all your liberties taken away', None, None, None, 0), ('because you were a caucasian American', None, None, None, 0), ('and some radical group decided they no longer wanted caucasians to have any rights ?', None, None, None, 1), ('To just go from normal life one day to being without rights the next .', None, None, None, 1), ("I ca n't even imagine the devastation .", None, None, None, 1), ('The government there is so corrupt and evil', None, None, None, 0), ("they probably wo n't even do anything", None, None, None, 0), ('to help these poor people .', None, None, None, 1), ('I wish there was something', None, None, None, 0), ('we could do', None, None, None, 0), ('to help these victims s', None, None, None, 0)]

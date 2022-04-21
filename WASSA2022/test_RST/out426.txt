@@ -1,0 +1,45 @@
+=====================> [[('Man this Haiti disaster is so sad .', None, None, None, 1), ('The people there were already poor', None, None, None, 0), ('and had not much and then this hurricane comes in', None, None, None, 0), ('and just devastates the area .', None, None, None, 1), ('These people are starving', None, None, None, 0), ('and have no where to sleep or safe place', None, None, None, 0), ('to go at night .', None, None, None, 1), ('I feel so sorry for them ,', None, None, None, 0), ('I wish I could help them .', None, None, None, 1), ('They need supplies', None, None, None, 0), ('and are so hungry and desperate . Their government should do something', None, None, None, 0), ('to help the people', None, None, None, 0), ("it seems the rich government officials do n't care about the people ,", None, None, None, 0), ('of course that is pretty much the case everywhere ,', None, None, None, 0), ('the little guy always suffers', None, None, None, 0), ('and gets screwed by the powerful and wealthy in the government .', None, None, None, 1), ('It seems other countries are trying to help', None, None, None, 0), ('but it is so devastating', None, None, None, 0), ("and with the corrupt government I do n't think", None, None, None, 0), ('much will get done .', None, None, None, 1), ('I really feel for these people', None, None, None, 0), ('and wish them the best', None, None, None, 0)]]
+Leaf:  N Explanation Man this Haiti disaster is so sad .
+Leaf:  N Joint The people there were already poor
+Leaf:  N Joint and had not much and then this hurricane comes in
+Leaf:  N Joint and just devastates the area .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint These people are starving
+Leaf:  N Elaborate and have no where to sleep or safe place
+Leaf:  S span to go at night .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I feel so sorry for them ,
+Leaf:  S span I wish I could help them .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint They need supplies
+Leaf:  N Elaborate and are so hungry and desperate . Their government should do something
+Leaf:  S span to help the people
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Evaluation it seems the rich government officials do n't care about the people ,
+Leaf:  S span of course that is pretty much the case everywhere ,
+Inner:  N Cause None Evaluation NS
+Leaf:  N Joint the little guy always suffers
+Leaf:  N Joint and gets screwed by the powerful and wealthy in the government .
+Inner:  N Cause None Joint NN
+Inner:  N Elaborate None Cause NN
+Leaf:  S span It seems other countries are trying to help
+Leaf:  N Joint but it is so devastating
+Leaf:  S span and with the corrupt government I do n't think
+Leaf:  N Attribution much will get done .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint I really feel for these people
+Leaf:  N Joint and wish them the best
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Man this Haiti disaster is so sad .', None, None, None, 1), ('The people there were already poor', None, None, None, 0), ('and had not much and then this hurricane comes in', None, None, None, 0), ('and just devastates the area .', None, None, None, 1), ('These people are starving', None, None, None, 0), ('and have no where to sleep or safe place', None, None, None, 0), ('to go at night .', None, None, None, 1), ('I feel so sorry for them ,', None, None, None, 0), ('I wish I could help them .', None, None, None, 1), ('They need supplies', None, None, None, 0), ('and are so hungry and desperate . Their government should do something', None, None, None, 0), ('to help the people', None, None, None, 0), ("it seems the rich government officials do n't care about the people ,", None, None, None, 0), ('of course that is pretty much the case everywhere ,', None, None, None, 0), ('the little guy always suffers', None, None, None, 0), ('and gets screwed by the powerful and wealthy in the government .', None, None, None, 1), ('It seems other countries are trying to help', None, None, None, 0), ('but it is so devastating', None, None, None, 0), ("and with the corrupt government I do n't think", None, None, None, 0), ('much will get done .', None, None, None, 1), ('I really feel for these people', None, None, None, 0), ('and wish them the best', None, None, None, 0)]

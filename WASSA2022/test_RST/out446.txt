@@ -1,0 +1,29 @@
+=====================> [[('I just read an article about a group of anti-poachers', None, None, None, 0), ('who were attack by an angry and violent mob .', None, None, None, 1), ('They were just doing their job', None, None, None, 0), ('and trying to protect wildlife in South Africa ,', None, None, None, 0), ("it 's a real shame . They had apprehended a poacher", None, None, None, 0), ('and started to drive him to prison', None, None, None, 0), ('when they had car trouble and had to wait for an helicopter . They were soon approached by an angry mob with sticks , stones , and machettes .', None, None, None, 1), ('The cops', None, None, None, 0), ('that accompanied the mob', None, None, None, 0), ('ran off', None, None, None, 0), ('and fled .', None, None, None, 1), ('The mob proceeded to beat , stab , stone the anti-poachers', None, None, None, 0), ('inflicting serious damage to them .', None, None, None, 1), ("Even after the attacks , the anti-poachers did n't back down from returning and doing their job", None, None, None, 0)]]
+Leaf:  N Elaborate I just read an article about a group of anti-poachers
+Leaf:  S span who were attack by an angry and violent mob .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They were just doing their job
+Leaf:  N Joint and trying to protect wildlife in South Africa ,
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint it 's a real shame . They had apprehended a poacher
+Leaf:  N Background and started to drive him to prison
+Leaf:  S span when they had car trouble and had to wait for an helicopter . They were soon approached by an angry mob with sticks , stones , and machettes .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The cops
+Leaf:  S span that accompanied the mob
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint ran off
+Leaf:  N Joint and fled .
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The mob proceeded to beat , stab , stone the anti-poachers
+Leaf:  S span inflicting serious damage to them .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Even after the attacks , the anti-poachers did n't back down from returning and doing their job
+Inner:  Root None None Elaborate NS
+[('I just read an article about a group of anti-poachers', None, None, None, 0), ('who were attack by an angry and violent mob .', None, None, None, 1), ('They were just doing their job', None, None, None, 0), ('and trying to protect wildlife in South Africa ,', None, None, None, 0), ("it 's a real shame . They had apprehended a poacher", None, None, None, 0), ('and started to drive him to prison', None, None, None, 0), ('when they had car trouble and had to wait for an helicopter . They were soon approached by an angry mob with sticks , stones , and machettes .', None, None, None, 1), ('The cops', None, None, None, 0), ('that accompanied the mob', None, None, None, 0), ('ran off', None, None, None, 0), ('and fled .', None, None, None, 1), ('The mob proceeded to beat , stab , stone the anti-poachers', None, None, None, 0), ('inflicting serious damage to them .', None, None, None, 1), ("Even after the attacks , the anti-poachers did n't back down from returning and doing their job", None, None, None, 0)]

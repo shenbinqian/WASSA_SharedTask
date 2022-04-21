@@ -1,0 +1,21 @@
+=====================> [[('All the civilian causalities are terrible ...', None, None, None, 1), ('I wish', None, None, None, 0), ('there was a better way', None, None, None, 0), ('for this situation to be resolved .', None, None, None, 1), ('The place really needs food and medicine too ,', None, None, None, 0), ('I heard', None, None, None, 0), ('that Saudi Arabia blockaded the area', None, None, None, 0), ("so they ca n't get shipments of goods .", None, None, None, 1), ("It 's a really bad situation", None, None, None, 0), ('and all the civilian casualties makes me sad .', None, None, None, 1)]]
+Leaf:  N Evaluation All the civilian causalities are terrible ...
+Leaf:  S span I wish
+Leaf:  N Elaborate there was a better way
+Leaf:  S span for this situation to be resolved .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation The place really needs food and medicine too ,
+Leaf:  S span I heard
+Leaf:  N Enablement that Saudi Arabia blockaded the area
+Leaf:  S span so they ca n't get shipments of goods .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint It 's a really bad situation
+Leaf:  N Joint and all the civilian casualties makes me sad .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('All the civilian causalities are terrible ...', None, None, None, 1), ('I wish', None, None, None, 0), ('there was a better way', None, None, None, 0), ('for this situation to be resolved .', None, None, None, 1), ('The place really needs food and medicine too ,', None, None, None, 0), ('I heard', None, None, None, 0), ('that Saudi Arabia blockaded the area', None, None, None, 0), ("so they ca n't get shipments of goods .", None, None, None, 1), ("It 's a really bad situation", None, None, None, 0), ('and all the civilian casualties makes me sad .', None, None, None, 1)]

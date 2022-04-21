@@ -1,0 +1,41 @@
+=====================> [[('you know', None, None, None, 0), ('if it was n\'t for Obama and his encouragement during the " arab spring "', None, None, None, 0), ('this civil war probabaly never gets going .', None, None, None, 1), ('Assad had enough resources and firepower', None, None, None, 0), ('to stop this civil war .', None, None, None, 1), ('We encouraged this fiasco', None, None, None, 0), ('which gave birth to ISIS', None, None, None, 0), ("because we did n't help the rebels", None, None, None, 0), ('that we encouraged to stand up and fight .', None, None, None, 1), ('What shit show . Then when the infamous red line was crossed , Obama did nothing', None, None, None, 0), ('and waited for the Russians to come in', None, None, None, 0), ('and save face for him . The Russians are liars', None, None, None, 0), ("and ca n't be trusted , I do n't think there were terrorist escorting the UN aid ,", None, None, None, 0), ("that 's absurd .", None, None, None, 1), ('Of course that fact', None, None, None, 0), ('that Isis was born out of this conflict', None, None, None, 0), ('and we are over there', None, None, None, 0), ('fighting and the russians', None, None, None, 0), ("fighting in another country 's civil war", None, None, None, 0), ('is absurd too .', None, None, None, 1)]]
+Leaf:  S span you know
+Leaf:  S span if it was n't for Obama and his encouragement during the " arab spring "
+Leaf:  N Condition this civil war probabaly never gets going .
+Inner:  N Attribution None Condition SN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Assad had enough resources and firepower
+Leaf:  S span to stop this civil war .
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Explanation NS
+Leaf:  N Elaborate We encouraged this fiasco
+Leaf:  S span which gave birth to ISIS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate because we did n't help the rebels
+Leaf:  S span that we encouraged to stand up and fight .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint What shit show . Then when the infamous red line was crossed , Obama did nothing
+Leaf:  N Enablement and waited for the Russians to come in
+Leaf:  N Joint and save face for him . The Russians are liars
+Leaf:  N Joint and ca n't be trusted , I do n't think there were terrorist escorting the UN aid ,
+Inner:  S span None Joint NN
+Inner:  N Joint None Enablement NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span that 's absurd .
+Inner:  N Joint None Evaluation NS
+Leaf:  N Elaborate Of course that fact
+Leaf:  S span that Isis was born out of this conflict
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Elaborate and we are over there
+Leaf:  N Elaborate fighting and the russians
+Leaf:  S span fighting in another country 's civil war
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is absurd too .
+Inner:  N Temporal None Same-Unit NN
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('you know', None, None, None, 0), ('if it was n\'t for Obama and his encouragement during the " arab spring "', None, None, None, 0), ('this civil war probabaly never gets going .', None, None, None, 1), ('Assad had enough resources and firepower', None, None, None, 0), ('to stop this civil war .', None, None, None, 1), ('We encouraged this fiasco', None, None, None, 0), ('which gave birth to ISIS', None, None, None, 0), ("because we did n't help the rebels", None, None, None, 0), ('that we encouraged to stand up and fight .', None, None, None, 1), ('What shit show . Then when the infamous red line was crossed , Obama did nothing', None, None, None, 0), ('and waited for the Russians to come in', None, None, None, 0), ('and save face for him . The Russians are liars', None, None, None, 0), ("and ca n't be trusted , I do n't think there were terrorist escorting the UN aid ,", None, None, None, 0), ("that 's absurd .", None, None, None, 1), ('Of course that fact', None, None, None, 0), ('that Isis was born out of this conflict', None, None, None, 0), ('and we are over there', None, None, None, 0), ('fighting and the russians', None, None, None, 0), ("fighting in another country 's civil war", None, None, None, 0), ('is absurd too .', None, None, None, 1)]

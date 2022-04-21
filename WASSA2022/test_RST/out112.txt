@@ -1,0 +1,21 @@
+=====================> [[("This is n't very surprising at all , is it ? Another one of Putin 's bodies .", None, None, None, 1), ("I like how it 's just a thing", None, None, None, 0), ('that we expect to happen ,', None, None, None, 0), ('and no one really cares very much except as a minor blip on the news .', None, None, None, 1), ("It 's just expected ,", None, None, None, 0), ('and the fact', None, None, None, 0), ('that people in our own government have an association with people', None, None, None, 0), ('who operate like this', None, None, None, 0), ('is largely going to be gotten away with .', None, None, None, 1), ('What do you think ?', None, None, None, 1)]]
+Leaf:  N Elaborate This is n't very surprising at all , is it ? Another one of Putin 's bodies .
+Leaf:  N Elaborate I like how it 's just a thing
+Leaf:  N Joint that we expect to happen ,
+Leaf:  N Joint and no one really cares very much except as a minor blip on the news .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It 's just expected ,
+Leaf:  N Elaborate and the fact
+Leaf:  N Elaborate that people in our own government have an association with people
+Leaf:  S span who operate like this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is largely going to be gotten away with .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span What do you think ?
+Inner:  Root None None Evaluation NS
+[("This is n't very surprising at all , is it ? Another one of Putin 's bodies .", None, None, None, 1), ("I like how it 's just a thing", None, None, None, 0), ('that we expect to happen ,', None, None, None, 0), ('and no one really cares very much except as a minor blip on the news .', None, None, None, 1), ("It 's just expected ,", None, None, None, 0), ('and the fact', None, None, None, 0), ('that people in our own government have an association with people', None, None, None, 0), ('who operate like this', None, None, None, 0), ('is largely going to be gotten away with .', None, None, None, 1), ('What do you think ?', None, None, None, 1)]

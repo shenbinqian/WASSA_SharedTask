@@ -1,0 +1,21 @@
+=====================> [[('This is wrong', None, None, None, 0), ('we need to find another way', None, None, None, 0), ('to have chicken', None, None, None, 0), ('why should these animals have to suffer cause', None, None, None, 0), ("we ca n't kill them", None, None, None, 0), ('without feeling the pain .', None, None, None, 1), ("They should n't have to exp a serve pain", None, None, None, 0), ('this should be illegal to do these are living animals', None, None, None, 0), ("and we should n't do this to them", None, None, None, 0), ('we need to stand up for there rights .', None, None, None, 1)]]
+Leaf:  S span This is wrong
+Leaf:  N Elaborate we need to find another way
+Leaf:  S span to have chicken
+Inner:  N Explanation None Elaborate NS
+Inner:  N Evaluation None Explanation SN
+Leaf:  N Cause why should these animals have to suffer cause
+Leaf:  N Manner-Means we ca n't kill them
+Leaf:  S span without feeling the pain .
+Inner:  N Cause None Manner-Means NS
+Inner:  S span None Cause NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation They should n't have to exp a serve pain
+Leaf:  S span this should be illegal to do these are living animals
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint and we should n't do this to them
+Inner:  N Evaluation None Joint NN
+Leaf:  S span we need to stand up for there rights .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is wrong', None, None, None, 0), ('we need to find another way', None, None, None, 0), ('to have chicken', None, None, None, 0), ('why should these animals have to suffer cause', None, None, None, 0), ("we ca n't kill them", None, None, None, 0), ('without feeling the pain .', None, None, None, 1), ("They should n't have to exp a serve pain", None, None, None, 0), ('this should be illegal to do these are living animals', None, None, None, 0), ("and we should n't do this to them", None, None, None, 0), ('we need to stand up for there rights .', None, None, None, 1)]

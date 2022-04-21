@@ -1,0 +1,43 @@
+=====================> [[('Who knew', None, None, None, 0), ('we would have so much in common with creatures like moneys and bonobos ?', None, None, None, 1), ('They are undoubtedly our closest relatives amount all Earth ’s other creatures', None, None, None, 0), ('but I am a bit surprised', None, None, None, 0), ('to find out', None, None, None, 0), ('how they experience things like aging in such a similar way to us .', None, None, None, 1), ('A scientific study found', None, None, None, 0), ('that bonobos tend to become far-sighted', None, None, None, 0), ('as they age', None, None, None, 0), ('just like we do .', None, None, None, 1), ('They figured this out', None, None, None, 0), ('by observing them', None, None, None, 0), ('when they were grooming each other', None, None, None, 0), ('and that older bonobos positioned themselves so', None, None, None, 0), ('that there was greater distance between them and the other bonobo', None, None, None, 0), ('they were grooming .', None, None, None, 1), ('They believed', None, None, None, 0), ('this was due to the changing eyesight of the older bonobos .', None, None, None, 1), ('Too bad they do not have the ability', None, None, None, 0), ('to consider their problem', None, None, None, 0), ('and invent reading glasses !', None, None, None, 1)]]
+Leaf:  S span Who knew
+Leaf:  N Attribution we would have so much in common with creatures like moneys and bonobos ?
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They are undoubtedly our closest relatives amount all Earth ’s other creatures
+Leaf:  S span but I am a bit surprised
+Leaf:  S span to find out
+Leaf:  N Attribution how they experience things like aging in such a similar way to us .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span A scientific study found
+Leaf:  N Temporal that bonobos tend to become far-sighted
+Leaf:  N Comparison as they age
+Leaf:  S span just like we do .
+Inner:  N Temporal None Comparison NS
+Inner:  N Attribution None Temporal NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Manner-Means They figured this out
+Leaf:  N Temporal by observing them
+Leaf:  S span when they were grooming each other
+Inner:  S span None Temporal NS
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Enablement and that older bonobos positioned themselves so
+Leaf:  N Elaborate that there was greater distance between them and the other bonobo
+Leaf:  S span they were grooming .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They believed
+Leaf:  N Attribution this was due to the changing eyesight of the older bonobos .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Too bad they do not have the ability
+Leaf:  N Joint to consider their problem
+Leaf:  N Joint and invent reading glasses !
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Who knew', None, None, None, 0), ('we would have so much in common with creatures like moneys and bonobos ?', None, None, None, 1), ('They are undoubtedly our closest relatives amount all Earth ’s other creatures', None, None, None, 0), ('but I am a bit surprised', None, None, None, 0), ('to find out', None, None, None, 0), ('how they experience things like aging in such a similar way to us .', None, None, None, 1), ('A scientific study found', None, None, None, 0), ('that bonobos tend to become far-sighted', None, None, None, 0), ('as they age', None, None, None, 0), ('just like we do .', None, None, None, 1), ('They figured this out', None, None, None, 0), ('by observing them', None, None, None, 0), ('when they were grooming each other', None, None, None, 0), ('and that older bonobos positioned themselves so', None, None, None, 0), ('that there was greater distance between them and the other bonobo', None, None, None, 0), ('they were grooming .', None, None, None, 1), ('They believed', None, None, None, 0), ('this was due to the changing eyesight of the older bonobos .', None, None, None, 1), ('Too bad they do not have the ability', None, None, None, 0), ('to consider their problem', None, None, None, 0), ('and invent reading glasses !', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('We knew', None, None, None, 0), ('that innocent Libyan civilians were going to suffer', None, None, None, 0), ('after the overthrow of Gaddhafi', None, None, None, 0), ("did n't we ? It is horrible that so many people have to flee Libya in fear for their lives ,", None, None, None, 0), ('and what happens now ? Thousands die', None, None, None, 0), ('trying to find a better life for themselves and their children .', None, None, None, 1), ('The human trafficking', None, None, None, 0), ('that is happening right now', None, None, None, 0), ('is abysmal .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('that they are forcing people to make the journey across the Mediterranean', None, None, None, 0), ('without a GPS device .', None, None, None, 1), ('That could have saved so many people ,', None, None, None, 0), ('and now thousands have suffered .', None, None, None, 1), ("It 's just such a shame .", None, None, None, 1)]]
+Leaf:  S span We knew
+Leaf:  N Background that innocent Libyan civilians were going to suffer
+Leaf:  S span after the overthrow of Gaddhafi
+Inner:  N Attribution None Background NS
+Inner:  N Attribution None Attribution SN
+Leaf:  S span did n't we ? It is horrible that so many people have to flee Libya in fear for their lives ,
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Enablement and what happens now ? Thousands die
+Leaf:  S span trying to find a better life for themselves and their children .
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate The human trafficking
+Leaf:  S span that is happening right now
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is abysmal .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I ca n't believe
+Leaf:  N Manner-Means that they are forcing people to make the journey across the Mediterranean
+Leaf:  S span without a GPS device .
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Contrast That could have saved so many people ,
+Leaf:  N Contrast and now thousands have suffered .
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It 's just such a shame .
+Inner:  Root None None Evaluation NS
+[('We knew', None, None, None, 0), ('that innocent Libyan civilians were going to suffer', None, None, None, 0), ('after the overthrow of Gaddhafi', None, None, None, 0), ("did n't we ? It is horrible that so many people have to flee Libya in fear for their lives ,", None, None, None, 0), ('and what happens now ? Thousands die', None, None, None, 0), ('trying to find a better life for themselves and their children .', None, None, None, 1), ('The human trafficking', None, None, None, 0), ('that is happening right now', None, None, None, 0), ('is abysmal .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('that they are forcing people to make the journey across the Mediterranean', None, None, None, 0), ('without a GPS device .', None, None, None, 1), ('That could have saved so many people ,', None, None, None, 0), ('and now thousands have suffered .', None, None, None, 1), ("It 's just such a shame .", None, None, None, 1)]

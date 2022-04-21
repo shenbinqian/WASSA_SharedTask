@@ -1,0 +1,21 @@
+=====================> [[('Do you know anyone with tinnitus ?', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I do .', None, None, None, 1), ("But I 'm sure", None, None, None, 0), ('that would be awful .', None, None, None, 1), ('Actually who knows , we still might get it one day', None, None, None, 0), ('- hopefully not . Also , " Otolaryngology " is apparently a word .', None, None, None, 1), ('I get the larynx connection ,', None, None, None, 0), ('but what is the oto in the front ?', None, None, None, 1), ("Anyway hope everything 's good with the kids .", None, None, None, 1)]]
+Leaf:  N Topic-Comment Do you know anyone with tinnitus ?
+Leaf:  S span I do n't think
+Leaf:  N Attribution I do .
+Inner:  N Contrast None Attribution SN
+Leaf:  S span But I 'm sure
+Leaf:  N Attribution that would be awful .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Contrast Actually who knows , we still might get it one day
+Leaf:  S span - hopefully not . Also , " Otolaryngology " is apparently a word .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast I get the larynx connection ,
+Leaf:  N Contrast but what is the oto in the front ?
+Inner:  S span None Contrast NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  S span Anyway hope everything 's good with the kids .
+Inner:  Root None None Evaluation NS
+[('Do you know anyone with tinnitus ?', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I do .', None, None, None, 1), ("But I 'm sure", None, None, None, 0), ('that would be awful .', None, None, None, 1), ('Actually who knows , we still might get it one day', None, None, None, 0), ('- hopefully not . Also , " Otolaryngology " is apparently a word .', None, None, None, 1), ('I get the larynx connection ,', None, None, None, 0), ('but what is the oto in the front ?', None, None, None, 1), ("Anyway hope everything 's good with the kids .", None, None, None, 1)]

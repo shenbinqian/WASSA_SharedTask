@@ -1,0 +1,23 @@
+=====================> [[('That sucks ,', None, None, None, 0), ('murder is awful .', None, None, None, 1), ("It 's hard not knowing why crimes are committed ,", None, None, None, 0), ("this story did n't describe the reason at all", None, None, None, 0), ('and it sounded completely out of the blue .', None, None, None, 1), ("They did n't even give that many details ,", None, None, None, 0), ('they said', None, None, None, 0), ("' hacked his wife to death ' ,", None, None, None, 0), ('but that is not very descriptive .', None, None, None, 1), ("They also did n't describe", None, None, None, 0), ('how he killed himself .', None, None, None, 1)]]
+Leaf:  N Evaluation That sucks ,
+Leaf:  S span murder is awful .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation It 's hard not knowing why crimes are committed ,
+Leaf:  N Joint this story did n't describe the reason at all
+Leaf:  N Joint and it sounded completely out of the blue .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate They did n't even give that many details ,
+Leaf:  S span they said
+Leaf:  N Attribution ' hacked his wife to death ' ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but that is not very descriptive .
+Inner:  S span None Contrast NS
+Inner:  N Joint None Elaborate NS
+Leaf:  S span They also did n't describe
+Leaf:  N Attribution how he killed himself .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('That sucks ,', None, None, None, 0), ('murder is awful .', None, None, None, 1), ("It 's hard not knowing why crimes are committed ,", None, None, None, 0), ("this story did n't describe the reason at all", None, None, None, 0), ('and it sounded completely out of the blue .', None, None, None, 1), ("They did n't even give that many details ,", None, None, None, 0), ('they said', None, None, None, 0), ("' hacked his wife to death ' ,", None, None, None, 0), ('but that is not very descriptive .', None, None, None, 1), ("They also did n't describe", None, None, None, 0), ('how he killed himself .', None, None, None, 1)]

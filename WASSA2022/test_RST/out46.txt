@@ -1,0 +1,25 @@
+=====================> [[('This is about a shooting between a younger and older man .', None, None, None, 1), ('They are both victims', None, None, None, 0), ("and they have n't caught the person", None, None, None, 0), ('who did it .', None, None, None, 1), ('This is so sad and scary .', None, None, None, 1), ("It 's scary to know", None, None, None, 0), ('the person is out there', None, None, None, 0), ('and sad', None, None, None, 0), ('that the people might not be okay.I feel so bad', None, None, None, 0), ("because I do n't know", None, None, None, 0), ('who did it', None, None, None, 0), ("and I 'm not sure why .", None, None, None, 1)]]
+Leaf:  N Elaborate This is about a shooting between a younger and older man .
+Leaf:  N Joint They are both victims
+Leaf:  N Elaborate and they have n't caught the person
+Leaf:  S span who did it .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This is so sad and scary .
+Leaf:  S span It 's scary to know
+Leaf:  N Attribution the person is out there
+Inner:  N Joint None Attribution SN
+Leaf:  S span and sad
+Leaf:  N Attribution that the people might not be okay.I feel so bad
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate because I do n't know
+Leaf:  N Joint who did it
+Leaf:  N Joint and I 'm not sure why .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This is about a shooting between a younger and older man .', None, None, None, 1), ('They are both victims', None, None, None, 0), ("and they have n't caught the person", None, None, None, 0), ('who did it .', None, None, None, 1), ('This is so sad and scary .', None, None, None, 1), ("It 's scary to know", None, None, None, 0), ('the person is out there', None, None, None, 0), ('and sad', None, None, None, 0), ('that the people might not be okay.I feel so bad', None, None, None, 0), ("because I do n't know", None, None, None, 0), ('who did it', None, None, None, 0), ("and I 'm not sure why .", None, None, None, 1)]

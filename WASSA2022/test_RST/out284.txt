@@ -1,0 +1,41 @@
+=====================> [[('I have a group of friends', None, None, None, 0), ('living next door', None, None, None, 0), ('whom I have known from first grade .', None, None, None, 1), ('When we turn 16', None, None, None, 0), ('each of us went to a different high school', None, None, None, 0), ('and we virtually have no time', None, None, None, 0), ('to hang out', None, None, None, 0), ('and do stuff together .', None, None, None, 1), ('I thought', None, None, None, 0), ('we would never be as close again', None, None, None, 0), ('but one day 2 years later one of them just invited us to some kind of party', None, None, None, 0), ('and we all went out . We talked to each other like the old days', None, None, None, 0), ('and I actually felt', None, None, None, 0), ('nothing was different from before . No awkwardness , no wry smiles , everything was as genuine', None, None, None, 0), ('as they were .', None, None, None, 1), ('That moment I knew', None, None, None, 0), ('they are best friends for life .', None, None, None, 1), ('We always talk', None, None, None, 0), ('and now we have so much love and appreciation', None, None, None, 0), ('for what we do .', None, None, None, 1)]]
+Leaf:  N Elaborate I have a group of friends
+Leaf:  N Elaborate living next door
+Leaf:  S span whom I have known from first grade .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span When we turn 16
+Leaf:  N Cause each of us went to a different high school
+Leaf:  N Elaborate and we virtually have no time
+Leaf:  N Joint to hang out
+Leaf:  N Joint and do stuff together .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Cause NS
+Inner:  N Cause None Temporal SN
+Leaf:  S span I thought
+Leaf:  N Attribution we would never be as close again
+Inner:  S span None Attribution SN
+Leaf:  N Temporal but one day 2 years later one of them just invited us to some kind of party
+Leaf:  N Temporal and we all went out . We talked to each other like the old days
+Inner:  N Temporal None Temporal NN
+Leaf:  S span and I actually felt
+Leaf:  N Comparison nothing was different from before . No awkwardness , no wry smiles , everything was as genuine
+Leaf:  N Comparison as they were .
+Inner:  N Attribution None Comparison NN
+Inner:  N Temporal None Attribution SN
+Inner:  N Contrast None Temporal NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span That moment I knew
+Leaf:  N Attribution they are best friends for life .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint We always talk
+Leaf:  N Elaborate and now we have so much love and appreciation
+Leaf:  S span for what we do .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I have a group of friends', None, None, None, 0), ('living next door', None, None, None, 0), ('whom I have known from first grade .', None, None, None, 1), ('When we turn 16', None, None, None, 0), ('each of us went to a different high school', None, None, None, 0), ('and we virtually have no time', None, None, None, 0), ('to hang out', None, None, None, 0), ('and do stuff together .', None, None, None, 1), ('I thought', None, None, None, 0), ('we would never be as close again', None, None, None, 0), ('but one day 2 years later one of them just invited us to some kind of party', None, None, None, 0), ('and we all went out . We talked to each other like the old days', None, None, None, 0), ('and I actually felt', None, None, None, 0), ('nothing was different from before . No awkwardness , no wry smiles , everything was as genuine', None, None, None, 0), ('as they were .', None, None, None, 1), ('That moment I knew', None, None, None, 0), ('they are best friends for life .', None, None, None, 1), ('We always talk', None, None, None, 0), ('and now we have so much love and appreciation', None, None, None, 0), ('for what we do .', None, None, None, 1)]

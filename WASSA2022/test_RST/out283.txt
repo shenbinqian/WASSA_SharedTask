@@ -1,0 +1,39 @@
+=====================> [[('Connecting with people is just always good for me personally ,', None, None, None, 0), ("It 's a matter of finding people with similar desires .", None, None, None, 1), ('That person', None, None, None, 0), ("who has n't seen you in six month", None, None, None, 0), ('may be your " true friend " in an abstract sense ,', None, None, None, 0), ('and even be very loyal and dependable in an emergency .', None, None, None, 1), ('But', None, None, None, 0), ("if you 're bored on the weekends", None, None, None, 0), ('and want someone to hang out with you regularly ...', None, None, None, 1), ("just go find some more friends . Do n't try to guilt your old friends", None, None, None, 0), ('that are busy', None, None, None, 0), ('or have different interests', None, None, None, 0), ('into changing their social habits', None, None, None, 0), ('to match yours .', None, None, None, 1), ('You can have old friends and new friends .', None, None, None, 1), ('We just have so much in common', None, None, None, 0), ('in what we can do', None, None, None, 0), ('and I just really think', None, None, None, 0), ("that 's awesome .", None, None, None, 1)]]
+Leaf:  N Evaluation Connecting with people is just always good for me personally ,
+Leaf:  S span It 's a matter of finding people with similar desires .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate That person
+Leaf:  S span who has n't seen you in six month
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint may be your " true friend " in an abstract sense ,
+Leaf:  N Joint and even be very loyal and dependable in an emergency .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Same-Unit But
+Leaf:  N Joint if you 're bored on the weekends
+Leaf:  N Joint and want someone to hang out with you regularly ...
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Leaf:  N Elaborate just go find some more friends . Do n't try to guilt your old friends
+Leaf:  N Joint that are busy
+Leaf:  N Joint or have different interests
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement into changing their social habits
+Leaf:  S span to match yours .
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Condition None Same-Unit NN
+Inner:  S span None Condition SN
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate You can have old friends and new friends .
+Leaf:  N Elaborate We just have so much in common
+Leaf:  S span in what we can do
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and I just really think
+Leaf:  N Attribution that 's awesome .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Connecting with people is just always good for me personally ,', None, None, None, 0), ("It 's a matter of finding people with similar desires .", None, None, None, 1), ('That person', None, None, None, 0), ("who has n't seen you in six month", None, None, None, 0), ('may be your " true friend " in an abstract sense ,', None, None, None, 0), ('and even be very loyal and dependable in an emergency .', None, None, None, 1), ('But', None, None, None, 0), ("if you 're bored on the weekends", None, None, None, 0), ('and want someone to hang out with you regularly ...', None, None, None, 1), ("just go find some more friends . Do n't try to guilt your old friends", None, None, None, 0), ('that are busy', None, None, None, 0), ('or have different interests', None, None, None, 0), ('into changing their social habits', None, None, None, 0), ('to match yours .', None, None, None, 1), ('You can have old friends and new friends .', None, None, None, 1), ('We just have so much in common', None, None, None, 0), ('in what we can do', None, None, None, 0), ('and I just really think', None, None, None, 0), ("that 's awesome .", None, None, None, 1)]

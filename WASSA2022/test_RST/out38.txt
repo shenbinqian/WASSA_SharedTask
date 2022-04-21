@@ -1,0 +1,27 @@
+=====================> [[('This is an article about a sporting event .', None, None, None, 1), ('The players are probably so nervous with a big game', None, None, None, 0), ('coming up .', None, None, None, 1), ('I feel for them', None, None, None, 0), ('and hope', None, None, None, 0), ('that they can remain calm enough', None, None, None, 0), ('to sleep', None, None, None, 0), ('so they will have the energy', None, None, None, 0), ('to play and to enjoy the game .', None, None, None, 1), ('I remember', None, None, None, 0), ('being so nervous about things ,', None, None, None, 0), ('I would ruin it', None, None, None, 0), ('by not getting enough sleep .', None, None, None, 1)]]
+Leaf:  N Elaborate This is an article about a sporting event .
+Leaf:  N Elaborate The players are probably so nervous with a big game
+Leaf:  S span coming up .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Joint I feel for them
+Leaf:  S span and hope
+Leaf:  N Enablement that they can remain calm enough
+Leaf:  S span to sleep
+Inner:  N Enablement None Enablement NS
+Leaf:  N Elaborate so they will have the energy
+Leaf:  S span to play and to enjoy the game .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Same-Unit I remember
+Leaf:  N Cause being so nervous about things ,
+Leaf:  N Manner-Means I would ruin it
+Leaf:  S span by not getting enough sleep .
+Inner:  S span None Manner-Means NS
+Inner:  N Same-Unit None Cause NS
+Inner:  S span None Same-Unit NN
+Inner:  N Topic-Comment None Explanation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('This is an article about a sporting event .', None, None, None, 1), ('The players are probably so nervous with a big game', None, None, None, 0), ('coming up .', None, None, None, 1), ('I feel for them', None, None, None, 0), ('and hope', None, None, None, 0), ('that they can remain calm enough', None, None, None, 0), ('to sleep', None, None, None, 0), ('so they will have the energy', None, None, None, 0), ('to play and to enjoy the game .', None, None, None, 1), ('I remember', None, None, None, 0), ('being so nervous about things ,', None, None, None, 0), ('I would ruin it', None, None, None, 0), ('by not getting enough sleep .', None, None, None, 1)]

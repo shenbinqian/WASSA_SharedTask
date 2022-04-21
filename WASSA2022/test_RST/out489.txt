@@ -1,0 +1,25 @@
+=====================> [[('I am very concerned about all of these shootings .', None, None, None, 1), ('There was another one recently .', None, None, None, 1), ('I believe', None, None, None, 0), ('there was one fatality .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('what the answer to this gun violence issue is but I know', None, None, None, 0), ('that we need to do something', None, None, None, 0), ('as this seems to have become commonplace .', None, None, None, 1), ('We should not see this as normal .', None, None, None, 1), ('What do you think we should do ?', None, None, None, 1), ('Do you think', None, None, None, 0), ('we could have predicted the one in California ?', None, None, None, 1)]]
+Leaf:  N Elaborate I am very concerned about all of these shootings .
+Leaf:  N Elaborate There was another one recently .
+Leaf:  S span I believe
+Leaf:  N Attribution there was one fatality .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't know
+Leaf:  S span what the answer to this gun violence issue is but I know
+Leaf:  N Explanation that we need to do something
+Leaf:  S span as this seems to have become commonplace .
+Inner:  N Attribution None Explanation NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span We should not see this as normal .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint What do you think we should do ?
+Leaf:  S span Do you think
+Leaf:  N Attribution we could have predicted the one in California ?
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I am very concerned about all of these shootings .', None, None, None, 1), ('There was another one recently .', None, None, None, 1), ('I believe', None, None, None, 0), ('there was one fatality .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('what the answer to this gun violence issue is but I know', None, None, None, 0), ('that we need to do something', None, None, None, 0), ('as this seems to have become commonplace .', None, None, None, 1), ('We should not see this as normal .', None, None, None, 1), ('What do you think we should do ?', None, None, None, 1), ('Do you think', None, None, None, 0), ('we could have predicted the one in California ?', None, None, None, 1)]

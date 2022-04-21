@@ -1,0 +1,23 @@
+=====================> [[('How sad is it', None, None, None, 0), ('that all of the 33 miners were killed in this explosion .', None, None, None, 1), ('I feel so bad for their families ,', None, None, None, 0), ('it is a dangerous job', None, None, None, 0), ('but I am sure', None, None, None, 0), ('nobody expects', None, None, None, 0), ('that it will happen to them .', None, None, None, 1), ('I hope', None, None, None, 0), ('that they take proper steps', None, None, None, 0), ('to make it safer for the miners', None, None, None, 0), ('so less tragedies like this occur to future miners .', None, None, None, 1)]]
+Leaf:  S span How sad is it
+Leaf:  N Attribution that all of the 33 miners were killed in this explosion .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation I feel so bad for their families ,
+Leaf:  S span it is a dangerous job
+Leaf:  S span but I am sure
+Leaf:  S span nobody expects
+Leaf:  N Attribution that it will happen to them .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Enablement that they take proper steps
+Leaf:  S span to make it safer for the miners
+Leaf:  N Condition so less tragedies like this occur to future miners .
+Inner:  S span None Condition SN
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('How sad is it', None, None, None, 0), ('that all of the 33 miners were killed in this explosion .', None, None, None, 1), ('I feel so bad for their families ,', None, None, None, 0), ('it is a dangerous job', None, None, None, 0), ('but I am sure', None, None, None, 0), ('nobody expects', None, None, None, 0), ('that it will happen to them .', None, None, None, 1), ('I hope', None, None, None, 0), ('that they take proper steps', None, None, None, 0), ('to make it safer for the miners', None, None, None, 0), ('so less tragedies like this occur to future miners .', None, None, None, 1)]

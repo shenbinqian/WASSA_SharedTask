@@ -1,0 +1,23 @@
+=====================> [[('What a crazy squirrel !', None, None, None, 1), ("I do n't think", None, None, None, 0), ("this is anybody 's fault .", None, None, None, 1), ('Animals are going to do what animals are going to do .', None, None, None, 1), ('It is unfortunate', None, None, None, 0), ('that it took so long', None, None, None, 0), ('to get the squirrel out ,', None, None, None, 0), ('but it sounds like the retirement home did what they could .', None, None, None, 1), ('I also think', None, None, None, 0), ("it 's weird how the guy tried to plug the retirement home at the end ,", None, None, None, 0), ("like it 's a news story not an add .", None, None, None, 1)]]
+Leaf:  N Evaluation What a crazy squirrel !
+Leaf:  S span I do n't think
+Leaf:  N Attribution this is anybody 's fault .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Animals are going to do what animals are going to do .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It is unfortunate
+Leaf:  N Enablement that it took so long
+Leaf:  S span to get the squirrel out ,
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it sounds like the retirement home did what they could .
+Inner:  N Joint None Contrast SN
+Leaf:  S span I also think
+Leaf:  N Attribution it 's weird how the guy tried to plug the retirement home at the end ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span like it 's a news story not an add .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('What a crazy squirrel !', None, None, None, 1), ("I do n't think", None, None, None, 0), ("this is anybody 's fault .", None, None, None, 1), ('Animals are going to do what animals are going to do .', None, None, None, 1), ('It is unfortunate', None, None, None, 0), ('that it took so long', None, None, None, 0), ('to get the squirrel out ,', None, None, None, 0), ('but it sounds like the retirement home did what they could .', None, None, None, 1), ('I also think', None, None, None, 0), ("it 's weird how the guy tried to plug the retirement home at the end ,", None, None, None, 0), ("like it 's a news story not an add .", None, None, None, 1)]

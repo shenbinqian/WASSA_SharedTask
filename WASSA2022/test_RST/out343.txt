@@ -1,0 +1,27 @@
+=====================> [[('WHAT IS WRONG WITH PEOPLE !', None, None, None, 1), ("I do n't know", None, None, None, 0), ('if I want to be super angry or cry here .', None, None, None, 1), ('I hate racists', None, None, None, 0), ('and I hate that America is still perpetuating it in this day and age .', None, None, None, 1), ('Those who commit hate crimes should be punished a lot harder .', None, None, None, 1), ("I do n't care", None, None, None, 0), ("if the woman did n't have a record ,", None, None, None, 0), ('she did an abhorrent thing !', None, None, None, 1), ('Could you imagine being in fear for your life daily', None, None, None, 0), ('based on what you wear ?', None, None, None, 1), ('Muslims should not have to be constantly vigilant of violence .', None, None, None, 1), ('They deserve to live a peaceful life too !', None, None, None, 1)]]
+Leaf:  N Textual-Organization WHAT IS WRONG WITH PEOPLE !
+Leaf:  S span I do n't know
+Leaf:  N Attribution if I want to be super angry or cry here .
+Inner:  N Textual-Organization None Attribution SN
+Inner:  N Textual-Organization None Textual-Organization NN
+Leaf:  N Joint I hate racists
+Leaf:  N Joint and I hate that America is still perpetuating it in this day and age .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Those who commit hate crimes should be punished a lot harder .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I do n't care
+Leaf:  N Evaluation if the woman did n't have a record ,
+Leaf:  S span she did an abhorrent thing !
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause Could you imagine being in fear for your life daily
+Leaf:  S span based on what you wear ?
+Inner:  S span None Cause NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  N Joint Muslims should not have to be constantly vigilant of violence .
+Leaf:  N Joint They deserve to live a peaceful life too !
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('WHAT IS WRONG WITH PEOPLE !', None, None, None, 1), ("I do n't know", None, None, None, 0), ('if I want to be super angry or cry here .', None, None, None, 1), ('I hate racists', None, None, None, 0), ('and I hate that America is still perpetuating it in this day and age .', None, None, None, 1), ('Those who commit hate crimes should be punished a lot harder .', None, None, None, 1), ("I do n't care", None, None, None, 0), ("if the woman did n't have a record ,", None, None, None, 0), ('she did an abhorrent thing !', None, None, None, 1), ('Could you imagine being in fear for your life daily', None, None, None, 0), ('based on what you wear ?', None, None, None, 1), ('Muslims should not have to be constantly vigilant of violence .', None, None, None, 1), ('They deserve to live a peaceful life too !', None, None, None, 1)]

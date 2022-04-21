@@ -1,0 +1,19 @@
+=====================> [[('A chemical attack on US military in Iraq has occurred with the Islamic State', None, None, None, 0), ('using mustard canisters .', None, None, None, 1), ('This happened just a few days ago', None, None, None, 0), ('as the relevant authorities try to cover up the incident ,', None, None, None, 0), ('but the news has been leaked to various news agencies via unknown sources .', None, None, None, 1), ('Even though no one was hurt', None, None, None, 0), ('and none of the soldiers have shown any symptoms of the gas effects ,', None, None, None, 0), ('the concerned authority have confirmed the incident', None, None, None, 0), ('and have put up investigations .', None, None, None, 1)]]
+Leaf:  N Manner-Means A chemical attack on US military in Iraq has occurred with the Islamic State
+Leaf:  S span using mustard canisters .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Background This happened just a few days ago
+Leaf:  S span as the relevant authorities try to cover up the incident ,
+Inner:  S span None Background NS
+Leaf:  N Contrast but the news has been leaked to various news agencies via unknown sources .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Even though no one was hurt
+Leaf:  N Joint and none of the soldiers have shown any symptoms of the gas effects ,
+Inner:  S span None Joint NN
+Leaf:  N Joint the concerned authority have confirmed the incident
+Leaf:  N Joint and have put up investigations .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('A chemical attack on US military in Iraq has occurred with the Islamic State', None, None, None, 0), ('using mustard canisters .', None, None, None, 1), ('This happened just a few days ago', None, None, None, 0), ('as the relevant authorities try to cover up the incident ,', None, None, None, 0), ('but the news has been leaked to various news agencies via unknown sources .', None, None, None, 1), ('Even though no one was hurt', None, None, None, 0), ('and none of the soldiers have shown any symptoms of the gas effects ,', None, None, None, 0), ('the concerned authority have confirmed the incident', None, None, None, 0), ('and have put up investigations .', None, None, None, 1)]

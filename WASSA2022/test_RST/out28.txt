@@ -1,0 +1,29 @@
+=====================> [[('The pressure', None, None, None, 0), ('we put on our entertainers', None, None, None, 0), ('is unreal .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('how most of them manage to make it through alive .', None, None, None, 1), ('We idolize them ,', None, None, None, 0), ('and yet also criticize them so much', None, None, None, 0), ('that they are nearly pushed to their breaking . For their status we loathe them , love them ,', None, None, None, 0), ('and tell them what they have to be for us .', None, None, None, 1), ('I think', None, None, None, 0), ('I would still choose to be a celebrity ,', None, None, None, 0), ('if I could ,', None, None, None, 0), ("but it does n't seem as easy", None, None, None, 0), ('as people imply .', None, None, None, 1)]]
+Leaf:  N Elaborate The pressure
+Leaf:  S span we put on our entertainers
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is unreal .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't know
+Leaf:  N Attribution how most of them manage to make it through alive .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint We idolize them ,
+Leaf:  N Cause and yet also criticize them so much
+Leaf:  N Joint that they are nearly pushed to their breaking . For their status we loathe them , love them ,
+Leaf:  N Joint and tell them what they have to be for us .
+Inner:  S span None Joint NN
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Contrast I would still choose to be a celebrity ,
+Leaf:  S span if I could ,
+Inner:  N Attribution None Contrast NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Comparison but it does n't seem as easy
+Leaf:  S span as people imply .
+Inner:  S span None Comparison NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('The pressure', None, None, None, 0), ('we put on our entertainers', None, None, None, 0), ('is unreal .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('how most of them manage to make it through alive .', None, None, None, 1), ('We idolize them ,', None, None, None, 0), ('and yet also criticize them so much', None, None, None, 0), ('that they are nearly pushed to their breaking . For their status we loathe them , love them ,', None, None, None, 0), ('and tell them what they have to be for us .', None, None, None, 1), ('I think', None, None, None, 0), ('I would still choose to be a celebrity ,', None, None, None, 0), ('if I could ,', None, None, None, 0), ("but it does n't seem as easy", None, None, None, 0), ('as people imply .', None, None, None, 1)]

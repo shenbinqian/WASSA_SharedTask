@@ -1,0 +1,41 @@
+=====================> [[('I feel', None, None, None, 0), ('that we have so much', None, None, None, 0), ("to give to each other like let 's say", None, None, None, 0), ('I recently got married', None, None, None, 0), ('and my husband has had his groomsmen picked out for years . Each one from a different era of his life .', None, None, None, 1), ('I moved a lot as a kid , grew up as pretty much an only child ,', None, None, None, 0), ('and worked 45 + hours a week through college ,', None, None, None, 0), ("so I did n't have many of those sort of lifelong connections .", None, None, None, 1), ("I was super anxious about it and felt really inadequate as a human . I 'd like to strongly encourage you not to feel the same way .", None, None, None, 1), ('When it comes time', None, None, None, 0), ("for you to get married do n't let anyone ,", None, None, None, 0), ('including yourself ,', None, None, None, 0), ('make you feel bad', None, None, None, 0), ('about who you are on a day', None, None, None, 0), ('that should be all about celebrating your happiness .', None, None, None, 1), ('Ask nice people to stand by you', None, None, None, 0), ('and they will be honored ,', None, None, None, 0), ('the same way', None, None, None, 0), ("you 'd be honored to be there for someone", None, None, None, 0), ('else if they asked you .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Elaborate that we have so much
+Leaf:  S span to give to each other like let 's say
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Joint I recently got married
+Leaf:  N Joint and my husband has had his groomsmen picked out for years . Each one from a different era of his life .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint I moved a lot as a kid , grew up as pretty much an only child ,
+Leaf:  N Joint and worked 45 + hours a week through college ,
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation so I did n't have many of those sort of lifelong connections .
+Inner:  N Evaluation None Evaluation NN
+Leaf:  S span I was super anxious about it and felt really inadequate as a human . I 'd like to strongly encourage you not to feel the same way .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate When it comes time
+Leaf:  N Elaborate for you to get married do n't let anyone ,
+Leaf:  S span including yourself ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate make you feel bad
+Leaf:  N Elaborate about who you are on a day
+Leaf:  S span that should be all about celebrating your happiness .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Summary None Same-Unit NN
+Leaf:  S span Ask nice people to stand by you
+Leaf:  N Comparison and they will be honored ,
+Leaf:  N Elaborate the same way
+Leaf:  N Condition you 'd be honored to be there for someone
+Leaf:  S span else if they asked you .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  N Condition None Comparison NS
+Inner:  S span None Condition SN
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('that we have so much', None, None, None, 0), ("to give to each other like let 's say", None, None, None, 0), ('I recently got married', None, None, None, 0), ('and my husband has had his groomsmen picked out for years . Each one from a different era of his life .', None, None, None, 1), ('I moved a lot as a kid , grew up as pretty much an only child ,', None, None, None, 0), ('and worked 45 + hours a week through college ,', None, None, None, 0), ("so I did n't have many of those sort of lifelong connections .", None, None, None, 1), ("I was super anxious about it and felt really inadequate as a human . I 'd like to strongly encourage you not to feel the same way .", None, None, None, 1), ('When it comes time', None, None, None, 0), ("for you to get married do n't let anyone ,", None, None, None, 0), ('including yourself ,', None, None, None, 0), ('make you feel bad', None, None, None, 0), ('about who you are on a day', None, None, None, 0), ('that should be all about celebrating your happiness .', None, None, None, 1), ('Ask nice people to stand by you', None, None, None, 0), ('and they will be honored ,', None, None, None, 0), ('the same way', None, None, None, 0), ("you 'd be honored to be there for someone", None, None, None, 0), ('else if they asked you .', None, None, None, 1)]

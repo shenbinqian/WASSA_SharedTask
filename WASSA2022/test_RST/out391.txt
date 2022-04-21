@@ -1,0 +1,27 @@
+=====================> [[('I just read this article about food waste .', None, None, None, 1), ('I am so confused about some elements in it .', None, None, None, 1), ('Like that people understand', None, None, None, 0), ('there is a problem ,', None, None, None, 0), ("but yet a significant percentage of people did n't even know how to fix the issue", None, None, None, 0), ('- how about buying less', None, None, None, 0), ('than you need ?', None, None, None, 1), ('How about trying to eat something', None, None, None, 0), ('prepackaged a little past its date ?', None, None, None, 1), ('We were in this position in my family , but it is NOT an issue any longer .', None, None, None, 1), ('We have a well oiled machine', None, None, None, 0), ('regarding the food', None, None, None, 0), ('we consume .', None, None, None, 1)]]
+Leaf:  S span I just read this article about food waste .
+Leaf:  N Elaborate I am so confused about some elements in it .
+Leaf:  S span Like that people understand
+Leaf:  N Attribution there is a problem ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but yet a significant percentage of people did n't even know how to fix the issue
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Comparison - how about buying less
+Leaf:  S span than you need ?
+Inner:  N Joint None Comparison NS
+Leaf:  N Elaborate How about trying to eat something
+Leaf:  S span prepackaged a little past its date ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We were in this position in my family , but it is NOT an issue any longer .
+Leaf:  N Elaborate We have a well oiled machine
+Leaf:  N Elaborate regarding the food
+Leaf:  S span we consume .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('I just read this article about food waste .', None, None, None, 1), ('I am so confused about some elements in it .', None, None, None, 1), ('Like that people understand', None, None, None, 0), ('there is a problem ,', None, None, None, 0), ("but yet a significant percentage of people did n't even know how to fix the issue", None, None, None, 0), ('- how about buying less', None, None, None, 0), ('than you need ?', None, None, None, 1), ('How about trying to eat something', None, None, None, 0), ('prepackaged a little past its date ?', None, None, None, 1), ('We were in this position in my family , but it is NOT an issue any longer .', None, None, None, 1), ('We have a well oiled machine', None, None, None, 0), ('regarding the food', None, None, None, 0), ('we consume .', None, None, None, 1)]

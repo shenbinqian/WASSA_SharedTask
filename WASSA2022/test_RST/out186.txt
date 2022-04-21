@@ -1,0 +1,27 @@
+=====================> [[('Hey there , I wanted to say hello', None, None, None, 0), ('and send you my thoughts on this article i read .', None, None, None, 1), ('It wrote about Zoos in Venezuela', None, None, None, 0), ("and how their animals are now starving due to the country 's poor economy .", None, None, None, 1), ('Not only are the animals going without food but also the people', None, None, None, 0), ('that live in Venezuela .', None, None, None, 1), ('This was triggered by a drop in the price of oil .', None, None, None, 1), ('I read the article', None, None, None, 0), ('i felt so sad for the people and animals', None, None, None, 0), ('that are in Venezuela .', None, None, None, 1), ('I wish', None, None, None, 0), ('there was something', None, None, None, 0), ('that i could do to help .', None, None, None, 1)]]
+Leaf:  N Joint Hey there , I wanted to say hello
+Leaf:  N Joint and send you my thoughts on this article i read .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Same-Unit It wrote about Zoos in Venezuela
+Leaf:  N Same-Unit and how their animals are now starving due to the country 's poor economy .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Not only are the animals going without food but also the people
+Leaf:  S span that live in Venezuela .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This was triggered by a drop in the price of oil .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I read the article
+Leaf:  N Elaborate i felt so sad for the people and animals
+Leaf:  S span that are in Venezuela .
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span I wish
+Leaf:  N Elaborate there was something
+Leaf:  S span that i could do to help .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey there , I wanted to say hello', None, None, None, 0), ('and send you my thoughts on this article i read .', None, None, None, 1), ('It wrote about Zoos in Venezuela', None, None, None, 0), ("and how their animals are now starving due to the country 's poor economy .", None, None, None, 1), ('Not only are the animals going without food but also the people', None, None, None, 0), ('that live in Venezuela .', None, None, None, 1), ('This was triggered by a drop in the price of oil .', None, None, None, 1), ('I read the article', None, None, None, 0), ('i felt so sad for the people and animals', None, None, None, 0), ('that are in Venezuela .', None, None, None, 1), ('I wish', None, None, None, 0), ('there was something', None, None, None, 0), ('that i could do to help .', None, None, None, 1)]

@@ -1,0 +1,51 @@
+=====================> [[('I read this really cool article .', None, None, None, 1), ('It talks about the research of ice melting in the Arctic .', None, None, None, 1), ('It also talked', None, None, None, 0), ('about how long', None, None, None, 0), ('it takes', None, None, None, 0), ('to melt', None, None, None, 0), ('and why that happens .', None, None, None, 1), ('I thought', None, None, None, 0), ('it was very interesting and enjoyed reading the article .', None, None, None, 1), ('I think you should read it', None, None, None, 0), ('and will find it good also . I did not know a lot of the information', None, None, None, 0), ('that I learned', None, None, None, 0), ('and I am sure that you will learn from it also . Polar bears are one of my favorite animals .', None, None, None, 1), ('They are beautiful', None, None, None, 0), ('and look so soft . I think they are very smart animals .', None, None, None, 1), ('I think', None, None, None, 0), ('you will find', None, None, None, 0), ('that even though the article is long and takes a while', None, None, None, 0), ('to read', None, None, None, 0), ('I think', None, None, None, 0), ('that you would find it very entertaining and interesting . It was a good I would like to read more about this', None, None, None, 0), ('because I found it to be very interesting', None, None, None, 0), ('and I believe', None, None, None, 0), ('you will too . Let me know', None, None, None, 0), ('if you like', None, None, None, 0)]]
+Leaf:  N Elaborate I read this really cool article .
+Leaf:  N Joint It talks about the research of ice melting in the Arctic .
+Leaf:  N Elaborate It also talked
+Leaf:  N Elaborate about how long
+Leaf:  N Elaborate it takes
+Leaf:  S span to melt
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and why that happens .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I thought
+Leaf:  N Attribution it was very interesting and enjoyed reading the article .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint I think you should read it
+Leaf:  N Elaborate and will find it good also . I did not know a lot of the information
+Leaf:  S span that I learned
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Comparison and I am sure that you will learn from it also . Polar bears are one of my favorite animals .
+Inner:  N Elaborate None Comparison SN
+Leaf:  N Joint They are beautiful
+Leaf:  N Joint and look so soft . I think they are very smart animals .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I think
+Leaf:  S span you will find
+Leaf:  N Elaborate that even though the article is long and takes a while
+Leaf:  S span to read
+Inner:  S span None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution that you would find it very entertaining and interesting . It was a good I would like to read more about this
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint because I found it to be very interesting
+Leaf:  S span and I believe
+Leaf:  N Attribution you will too . Let me know
+Inner:  S span None Attribution SN
+Leaf:  N Attribution if you like
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Explanation NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I read this really cool article .', None, None, None, 1), ('It talks about the research of ice melting in the Arctic .', None, None, None, 1), ('It also talked', None, None, None, 0), ('about how long', None, None, None, 0), ('it takes', None, None, None, 0), ('to melt', None, None, None, 0), ('and why that happens .', None, None, None, 1), ('I thought', None, None, None, 0), ('it was very interesting and enjoyed reading the article .', None, None, None, 1), ('I think you should read it', None, None, None, 0), ('and will find it good also . I did not know a lot of the information', None, None, None, 0), ('that I learned', None, None, None, 0), ('and I am sure that you will learn from it also . Polar bears are one of my favorite animals .', None, None, None, 1), ('They are beautiful', None, None, None, 0), ('and look so soft . I think they are very smart animals .', None, None, None, 1), ('I think', None, None, None, 0), ('you will find', None, None, None, 0), ('that even though the article is long and takes a while', None, None, None, 0), ('to read', None, None, None, 0), ('I think', None, None, None, 0), ('that you would find it very entertaining and interesting . It was a good I would like to read more about this', None, None, None, 0), ('because I found it to be very interesting', None, None, None, 0), ('and I believe', None, None, None, 0), ('you will too . Let me know', None, None, None, 0), ('if you like', None, None, None, 0)]

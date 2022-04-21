@@ -1,0 +1,25 @@
+=====================> [[('Qatar lost the lives of three of their troops .', None, None, None, 1), ('I think of soldiers , young men', None, None, None, 0), ('risking their lives', None, None, None, 0), ('to serve their country .', None, None, None, 1), ("They 're noble ,", None, None, None, 0), ("but it 's such a high price", None, None, None, 0), ('to pay .', None, None, None, 1), ("We 've all benefited from those", None, None, None, 0), ("who 've fought , though unseen to us .", None, None, None, 1), ('If we choose to fight ,', None, None, None, 0), ('let it be for something right', None, None, None, 0), ('so our death may not be in vain .', None, None, None, 1)]]
+Leaf:  N Summary Qatar lost the lives of three of their troops .
+Leaf:  N Elaborate I think of soldiers , young men
+Leaf:  N Enablement risking their lives
+Leaf:  S span to serve their country .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast They 're noble ,
+Leaf:  N Elaborate but it 's such a high price
+Leaf:  S span to pay .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate We 've all benefited from those
+Leaf:  S span who 've fought , though unseen to us .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If we choose to fight ,
+Leaf:  S span let it be for something right
+Leaf:  N Condition so our death may not be in vain .
+Inner:  N Condition None Condition SN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Qatar lost the lives of three of their troops .', None, None, None, 1), ('I think of soldiers , young men', None, None, None, 0), ('risking their lives', None, None, None, 0), ('to serve their country .', None, None, None, 1), ("They 're noble ,", None, None, None, 0), ("but it 's such a high price", None, None, None, 0), ('to pay .', None, None, None, 1), ("We 've all benefited from those", None, None, None, 0), ("who 've fought , though unseen to us .", None, None, None, 1), ('If we choose to fight ,', None, None, None, 0), ('let it be for something right', None, None, None, 0), ('so our death may not be in vain .', None, None, None, 1)]

@@ -1,0 +1,45 @@
+=====================> [[('Oh my Ariel .', None, None, None, 1), ('Another hard article', None, None, None, 0), ('to read today', None, None, None, 0), ('regarding a wildlife refugee standoff in Oregon . .', None, None, None, 1), ('I found it', None, None, None, 0), ('confusing', None, None, None, 0), ('to read', None, None, None, 0), ('and honestly did not understand some of it .', None, None, None, 1), ('Since you are an attorney ,', None, None, None, 0), ('are militias legal in US .', None, None, None, 1), ('I researched some', None, None, None, 0), ('and could not find the answer .', None, None, None, 1), ('The constitution refers to our President', None, None, None, 0), ('as having command of militia in certain states .', None, None, None, 1), ('Our constitution is always quoted by the militia .', None, None, None, 1), ('It seems they were accused of keeping people from work', None, None, None, 0), ('but the militia says no . A person was killed and so many other inhuman happenings .', None, None, None, 1), ('It was very upset', None, None, None, 0), ('after reading it .', None, None, None, 1), ('I do not understand in the year of 2019 , we still continue to have so many atrocities against human beings .', None, None, None, 1), ('Is the above correct at all ? I need some comfort at this very difficult time .', None, None, None, 1), ('No und', None, None, None, 0)]]
+Leaf:  N Textual-Organization Oh my Ariel .
+Leaf:  N Elaborate Another hard article
+Leaf:  S span to read today
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span regarding a wildlife refugee standoff in Oregon . .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I found it
+Leaf:  N Evaluation confusing
+Leaf:  S span to read
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint and honestly did not understand some of it .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span Since you are an attorney ,
+Leaf:  N Background are militias legal in US .
+Inner:  S span None Background SN
+Leaf:  N Temporal I researched some
+Leaf:  N Temporal and could not find the answer .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span The constitution refers to our President
+Leaf:  N Attribution as having command of militia in certain states .
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate Our constitution is always quoted by the militia .
+Leaf:  S span It seems they were accused of keeping people from work
+Leaf:  N Contrast but the militia says no . A person was killed and so many other inhuman happenings .
+Inner:  S span None Contrast SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Temporal It was very upset
+Leaf:  S span after reading it .
+Inner:  S span None Temporal NS
+Inner:  S span None Evaluation NS
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I do not understand in the year of 2019 , we still continue to have so many atrocities against human beings .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Is the above correct at all ? I need some comfort at this very difficult time .
+Inner:  N Textual-Organization None Evaluation NS
+Leaf:  N Textual-Organization No und
+Inner:  N Textual-Organization None Textual-Organization NN
+Inner:  Root None None Textual-Organization NN
+[('Oh my Ariel .', None, None, None, 1), ('Another hard article', None, None, None, 0), ('to read today', None, None, None, 0), ('regarding a wildlife refugee standoff in Oregon . .', None, None, None, 1), ('I found it', None, None, None, 0), ('confusing', None, None, None, 0), ('to read', None, None, None, 0), ('and honestly did not understand some of it .', None, None, None, 1), ('Since you are an attorney ,', None, None, None, 0), ('are militias legal in US .', None, None, None, 1), ('I researched some', None, None, None, 0), ('and could not find the answer .', None, None, None, 1), ('The constitution refers to our President', None, None, None, 0), ('as having command of militia in certain states .', None, None, None, 1), ('Our constitution is always quoted by the militia .', None, None, None, 1), ('It seems they were accused of keeping people from work', None, None, None, 0), ('but the militia says no . A person was killed and so many other inhuman happenings .', None, None, None, 1), ('It was very upset', None, None, None, 0), ('after reading it .', None, None, None, 1), ('I do not understand in the year of 2019 , we still continue to have so many atrocities against human beings .', None, None, None, 1), ('Is the above correct at all ? I need some comfort at this very difficult time .', None, None, None, 1), ('No und', None, None, None, 0)]

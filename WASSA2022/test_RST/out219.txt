@@ -1,0 +1,33 @@
+=====================> [[('Looks like another shooting has taken place and yet another gun-free zone .', None, None, None, 1), ('I can not know for sure', None, None, None, 0), ('but I suspect there are no guns permitted in this club ,', None, None, None, 0), ('except of course when someone decides to bring one .', None, None, None, 1), ('The folly', None, None, None, 0), ('of making good , law-abiding people go into a place unarmed', None, None, None, 0), ('should be obvious . The good and decent people with guns are not going to hurt anyone unless it is in self-defense and those are the people', None, None, None, 0), ('that obey rules .', None, None, None, 1), ('The ones', None, None, None, 0), ('that do want to hurt others', None, None, None, 0), ('do not obey the rules', None, None, None, 0), ('and will bring a gun to a gun-free zone anyway ,', None, None, None, 0), ('ensuring', None, None, None, 0), ('that nobody can stop them', None, None, None, 0), ('when they start shooting .', None, None, None, 1), ('The stupidity of anti-gunners will never cease to amaze me !', None, None, None, 1)]]
+Leaf:  N Elaborate Looks like another shooting has taken place and yet another gun-free zone .
+Leaf:  S span I can not know for sure
+Leaf:  N Contrast but I suspect there are no guns permitted in this club ,
+Leaf:  S span except of course when someone decides to bring one .
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate The folly
+Leaf:  S span of making good , law-abiding people go into a place unarmed
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate should be obvious . The good and decent people with guns are not going to hurt anyone unless it is in self-defense and those are the people
+Leaf:  S span that obey rules .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate The ones
+Leaf:  S span that do want to hurt others
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit do not obey the rules
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Cause and will bring a gun to a gun-free zone anyway ,
+Inner:  N Elaborate None Cause NN
+Leaf:  S span ensuring
+Leaf:  N Background that nobody can stop them
+Leaf:  S span when they start shooting .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The stupidity of anti-gunners will never cease to amaze me !
+Inner:  Root None None Evaluation NS
+[('Looks like another shooting has taken place and yet another gun-free zone .', None, None, None, 1), ('I can not know for sure', None, None, None, 0), ('but I suspect there are no guns permitted in this club ,', None, None, None, 0), ('except of course when someone decides to bring one .', None, None, None, 1), ('The folly', None, None, None, 0), ('of making good , law-abiding people go into a place unarmed', None, None, None, 0), ('should be obvious . The good and decent people with guns are not going to hurt anyone unless it is in self-defense and those are the people', None, None, None, 0), ('that obey rules .', None, None, None, 1), ('The ones', None, None, None, 0), ('that do want to hurt others', None, None, None, 0), ('do not obey the rules', None, None, None, 0), ('and will bring a gun to a gun-free zone anyway ,', None, None, None, 0), ('ensuring', None, None, None, 0), ('that nobody can stop them', None, None, None, 0), ('when they start shooting .', None, None, None, 1), ('The stupidity of anti-gunners will never cease to amaze me !', None, None, None, 1)]

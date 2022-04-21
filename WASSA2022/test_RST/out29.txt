@@ -1,0 +1,25 @@
+=====================> [[('Things like the Zika virus are terrifying .', None, None, None, 1), ('The fact', None, None, None, 0), ("that there 's really not much", None, None, None, 0), ('you can do about it', None, None, None, 0), ('is very alarming .', None, None, None, 1), ('I read about things', None, None, None, 0), ('to do with it from time to time', None, None, None, 0), (', granted , a lot less now than in the past ,', None, None, None, 0), ("and every time I feel a bit more in awe at it 's power .", None, None, None, 1), ('I can only hope', None, None, None, 0), ('we find better ways', None, None, None, 0), ('of dealing with threats like this in the future .', None, None, None, 1)]]
+Leaf:  N Joint Things like the Zika virus are terrifying .
+Leaf:  N Elaborate The fact
+Leaf:  N Elaborate that there 's really not much
+Leaf:  S span you can do about it
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is very alarming .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Topic-Change None Joint NN
+Leaf:  N Elaborate I read about things
+Leaf:  S span to do with it from time to time
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit , granted , a lot less now than in the past ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and every time I feel a bit more in awe at it 's power .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I can only hope
+Leaf:  N Elaborate we find better ways
+Leaf:  S span of dealing with threats like this in the future .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('Things like the Zika virus are terrifying .', None, None, None, 1), ('The fact', None, None, None, 0), ("that there 's really not much", None, None, None, 0), ('you can do about it', None, None, None, 0), ('is very alarming .', None, None, None, 1), ('I read about things', None, None, None, 0), ('to do with it from time to time', None, None, None, 0), (', granted , a lot less now than in the past ,', None, None, None, 0), ("and every time I feel a bit more in awe at it 's power .", None, None, None, 1), ('I can only hope', None, None, None, 0), ('we find better ways', None, None, None, 0), ('of dealing with threats like this in the future .', None, None, None, 1)]

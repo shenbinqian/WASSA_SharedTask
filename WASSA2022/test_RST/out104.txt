@@ -1,0 +1,17 @@
+=====================> [[('Suicide is an issue in most households across the US .', None, None, None, 1), ('Parents should pay more attention to their children ,', None, None, None, 0), ('listen to them .', None, None, None, 1), ('This little tips will go a long way', None, None, None, 0), ('to ensure that children feel comfortable', None, None, None, 0), ('opening up to you about the issues or problems', None, None, None, 0), ('they have .', None, None, None, 1), ('Most parents default on these little tips , notwithstanding its importance .', None, None, None, 1)]]
+Leaf:  N Evaluation Suicide is an issue in most households across the US .
+Leaf:  N Joint Parents should pay more attention to their children ,
+Leaf:  N Joint listen to them .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Enablement This little tips will go a long way
+Leaf:  N Enablement to ensure that children feel comfortable
+Leaf:  N Elaborate opening up to you about the issues or problems
+Leaf:  S span they have .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Most parents default on these little tips , notwithstanding its importance .
+Inner:  Root None None Evaluation NS
+[('Suicide is an issue in most households across the US .', None, None, None, 1), ('Parents should pay more attention to their children ,', None, None, None, 0), ('listen to them .', None, None, None, 1), ('This little tips will go a long way', None, None, None, 0), ('to ensure that children feel comfortable', None, None, None, 0), ('opening up to you about the issues or problems', None, None, None, 0), ('they have .', None, None, None, 1), ('Most parents default on these little tips , notwithstanding its importance .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('We need more training for police .', None, None, None, 1), ("Police should n't be getting killed in the line of duty .", None, None, None, 1), ("It 's not fair to their families", None, None, None, 0), ('because people are stupid', None, None, None, 0), ("and ca n't follow the law .", None, None, None, 1), ('People need to stop being so selfish', None, None, None, 0), ('and we need to make it less easy to obtain guns', None, None, None, 0), ("if people did n't have such easy access to them", None, None, None, 0), ("there would n't be so many deaths overall .", None, None, None, 1)]]
+Leaf:  N Evaluation We need more training for police .
+Leaf:  N Explanation Police should n't be getting killed in the line of duty .
+Leaf:  N Explanation It 's not fair to their families
+Leaf:  N Joint because people are stupid
+Leaf:  N Joint and ca n't follow the law .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint People need to stop being so selfish
+Leaf:  N Explanation and we need to make it less easy to obtain guns
+Leaf:  S span if people did n't have such easy access to them
+Leaf:  N Condition there would n't be so many deaths overall .
+Inner:  S span None Condition SN
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('We need more training for police .', None, None, None, 1), ("Police should n't be getting killed in the line of duty .", None, None, None, 1), ("It 's not fair to their families", None, None, None, 0), ('because people are stupid', None, None, None, 0), ("and ca n't follow the law .", None, None, None, 1), ('People need to stop being so selfish', None, None, None, 0), ('and we need to make it less easy to obtain guns', None, None, None, 0), ("if people did n't have such easy access to them", None, None, None, 0), ("there would n't be so many deaths overall .", None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('2600 rounds !', None, None, None, 1), ("That 's like ... googling ...", None, None, None, 1), ('assuming 0.3 ounces per bullet ,', None, None, None, 0), ('that would be almost 50 lbs of ammo .', None, None, None, 1), ('That is ridiculous .', None, None, None, 1), ('How do you even fit all that ?', None, None, None, 1), ("Do n't have much else to say here ,", None, None, None, 0), ('not sure', None, None, None, 0), ('why I would email anyone about this article in the first place', None, None, None, 0), ('unless maybe I lived in the town', None, None, None, 0), ('or they did .', None, None, None, 1)]]
+Leaf:  N Textual-Organization 2600 rounds !
+Leaf:  N Elaborate That 's like ... googling ...
+Leaf:  S span assuming 0.3 ounces per bullet ,
+Leaf:  N Elaborate that would be almost 50 lbs of ammo .
+Inner:  S span None Elaborate SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span That is ridiculous .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span How do you even fit all that ?
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  N Joint Do n't have much else to say here ,
+Leaf:  S span not sure
+Leaf:  N Condition why I would email anyone about this article in the first place
+Leaf:  N Joint unless maybe I lived in the town
+Leaf:  N Joint or they did .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Condition NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('2600 rounds !', None, None, None, 1), ("That 's like ... googling ...", None, None, None, 1), ('assuming 0.3 ounces per bullet ,', None, None, None, 0), ('that would be almost 50 lbs of ammo .', None, None, None, 1), ('That is ridiculous .', None, None, None, 1), ('How do you even fit all that ?', None, None, None, 1), ("Do n't have much else to say here ,", None, None, None, 0), ('not sure', None, None, None, 0), ('why I would email anyone about this article in the first place', None, None, None, 0), ('unless maybe I lived in the town', None, None, None, 0), ('or they did .', None, None, None, 1)]

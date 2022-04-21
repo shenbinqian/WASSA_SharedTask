@@ -1,0 +1,27 @@
+=====================> [[("It 's a shame that eagles are getting killed", None, None, None, 0), ('by flying into wind turbines .', None, None, None, 1), ('I wonder', None, None, None, 0), ("if there 's any way", None, None, None, 0), ('to prevent this from happening .', None, None, None, 1), ("It 's definitely not cost effective", None, None, None, 0), ('but I guess', None, None, None, 0), ('they could construct really tall fences around the turbines .', None, None, None, 1), ("Or maybe there 's a technology solution with lasers or something .", None, None, None, 1), ('Anyway , this is bad', None, None, None, 0), ('but I imagine', None, None, None, 0), ("there 's an environmental net gain , even with the eagle deaths thanks to the green energy", None, None, None, 0), ('being attained by the turbines .', None, None, None, 1)]]
+Leaf:  N Manner-Means It 's a shame that eagles are getting killed
+Leaf:  S span by flying into wind turbines .
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span I wonder
+Leaf:  N Elaborate if there 's any way
+Leaf:  S span to prevent this from happening .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It 's definitely not cost effective
+Leaf:  S span but I guess
+Leaf:  N Attribution they could construct really tall fences around the turbines .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Or maybe there 's a technology solution with lasers or something .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Contrast Anyway , this is bad
+Leaf:  S span but I imagine
+Leaf:  N Elaborate there 's an environmental net gain , even with the eagle deaths thanks to the green energy
+Leaf:  S span being attained by the turbines .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[("It 's a shame that eagles are getting killed", None, None, None, 0), ('by flying into wind turbines .', None, None, None, 1), ('I wonder', None, None, None, 0), ("if there 's any way", None, None, None, 0), ('to prevent this from happening .', None, None, None, 1), ("It 's definitely not cost effective", None, None, None, 0), ('but I guess', None, None, None, 0), ('they could construct really tall fences around the turbines .', None, None, None, 1), ("Or maybe there 's a technology solution with lasers or something .", None, None, None, 1), ('Anyway , this is bad', None, None, None, 0), ('but I imagine', None, None, None, 0), ("there 's an environmental net gain , even with the eagle deaths thanks to the green energy", None, None, None, 0), ('being attained by the turbines .', None, None, None, 1)]

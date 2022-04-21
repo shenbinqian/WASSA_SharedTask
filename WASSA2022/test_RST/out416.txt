@@ -1,0 +1,37 @@
+=====================> [[('I just read an article', None, None, None, 0), ('about how documents prove Chicago police have tortured citizens for over 2 decades .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('this has gone on longer', None, None, None, 0), ('and is still going on today .', None, None, None, 1), ('Reading about the abuse', None, None, None, 0), ('the Chicago police have inflicted', None, None, None, 0), ('made me feel physically sick .', None, None, None, 1), ('There is no excuse for what they have done', None, None, None, 0), ('and they should be held accountable for their brutality .', None, None, None, 1), ('I wish there is something', None, None, None, 0), ('I can do', None, None, None, 0), ('to ensure nothing like this happens again , but I feel powerless . I can share the information', None, None, None, 0), ('and make sure more people know about the horrible things', None, None, None, 0), ('the Chicago police have done ,', None, None, None, 0), ("and maybe that 's enough ,", None, None, None, 0), ('but I wish', None, None, None, 0), ('I could have a more direct influence on the situation .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span about how documents prove Chicago police have tortured citizens for over 2 decades .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm sure
+Leaf:  N Joint this has gone on longer
+Leaf:  N Joint and is still going on today .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Reading about the abuse
+Leaf:  S span the Chicago police have inflicted
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit made me feel physically sick .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint There is no excuse for what they have done
+Leaf:  N Joint and they should be held accountable for their brutality .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I wish there is something
+Leaf:  S span I can do
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Joint to ensure nothing like this happens again , but I feel powerless . I can share the information
+Leaf:  N Elaborate and make sure more people know about the horrible things
+Leaf:  S span the Chicago police have done ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span and maybe that 's enough ,
+Leaf:  S span but I wish
+Leaf:  N Attribution I could have a more direct influence on the situation .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article', None, None, None, 0), ('about how documents prove Chicago police have tortured citizens for over 2 decades .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('this has gone on longer', None, None, None, 0), ('and is still going on today .', None, None, None, 1), ('Reading about the abuse', None, None, None, 0), ('the Chicago police have inflicted', None, None, None, 0), ('made me feel physically sick .', None, None, None, 1), ('There is no excuse for what they have done', None, None, None, 0), ('and they should be held accountable for their brutality .', None, None, None, 1), ('I wish there is something', None, None, None, 0), ('I can do', None, None, None, 0), ('to ensure nothing like this happens again , but I feel powerless . I can share the information', None, None, None, 0), ('and make sure more people know about the horrible things', None, None, None, 0), ('the Chicago police have done ,', None, None, None, 0), ("and maybe that 's enough ,", None, None, None, 0), ('but I wish', None, None, None, 0), ('I could have a more direct influence on the situation .', None, None, None, 1)]

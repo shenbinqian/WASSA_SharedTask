@@ -1,0 +1,33 @@
+=====================> [[('Apparently we are receiving Haitian immigrants', None, None, None, 0), ('that have previously been deported .', None, None, None, 1), ('Some them ended up in Brazil ,', None, None, None, 0), ('but Brazil is falling apart', None, None, None, 0), ('so a lot of them are making their way back to the US .', None, None, None, 1), ('Immigration is processing them ,', None, None, None, 0), ('but sending most of them back to Haiti', None, None, None, 0), ('since Haiti is not in a state of upheaval anymore . I agree with sending them away .', None, None, None, 1), ('We need to take care of our own first .', None, None, None, 1), ('We do not have room for more people', None, None, None, 0), ('that will need handouts .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why people are so welcoming of people', None, None, None, 0), ('trying to come here illegally .', None, None, None, 1), ("Let 's take care of our veterans and children here first", None, None, None, 0), ('before extending help citizens of other countries .', None, None, None, 1)]]
+Leaf:  N Elaborate Apparently we are receiving Haitian immigrants
+Leaf:  S span that have previously been deported .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast Some them ended up in Brazil ,
+Leaf:  N Contrast but Brazil is falling apart
+Inner:  S span None Contrast NN
+Leaf:  N Cause so a lot of them are making their way back to the US .
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast Immigration is processing them ,
+Leaf:  N Explanation but sending most of them back to Haiti
+Leaf:  S span since Haiti is not in a state of upheaval anymore . I agree with sending them away .
+Inner:  N Contrast None Explanation NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span We need to take care of our own first .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate We do not have room for more people
+Leaf:  S span that will need handouts .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Leaf:  S span I do n't understand
+Leaf:  N Elaborate why people are so welcoming of people
+Leaf:  S span trying to come here illegally .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Let 's take care of our veterans and children here first
+Leaf:  N Condition before extending help citizens of other countries .
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('Apparently we are receiving Haitian immigrants', None, None, None, 0), ('that have previously been deported .', None, None, None, 1), ('Some them ended up in Brazil ,', None, None, None, 0), ('but Brazil is falling apart', None, None, None, 0), ('so a lot of them are making their way back to the US .', None, None, None, 1), ('Immigration is processing them ,', None, None, None, 0), ('but sending most of them back to Haiti', None, None, None, 0), ('since Haiti is not in a state of upheaval anymore . I agree with sending them away .', None, None, None, 1), ('We need to take care of our own first .', None, None, None, 1), ('We do not have room for more people', None, None, None, 0), ('that will need handouts .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why people are so welcoming of people', None, None, None, 0), ('trying to come here illegally .', None, None, None, 1), ("Let 's take care of our veterans and children here first", None, None, None, 0), ('before extending help citizens of other countries .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('During any military operation it is inevitable that there will be loss of life .', None, None, None, 1), ("It 's the highest duty of the men and women", None, None, None, 0), ('planning these operations', None, None, None, 0), ('to try and minimize such losses', None, None, None, 0), ('while still making sure', None, None, None, 0), ('that the mission is completed .', None, None, None, 1), ('Whenever you are facing down an enemy', None, None, None, 0), ('it makes you realize', None, None, None, 0), ('just how high the stakes are here for all involved .', None, None, None, 1)]]
+Leaf:  N Topic-Comment During any military operation it is inevitable that there will be loss of life .
+Leaf:  N Elaborate It 's the highest duty of the men and women
+Leaf:  S span planning these operations
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Temporal to try and minimize such losses
+Leaf:  S span while still making sure
+Leaf:  N Attribution that the mission is completed .
+Inner:  N Temporal None Attribution SN
+Inner:  N Same-Unit None Temporal NN
+Inner:  N Topic-Comment None Same-Unit NN
+Inner:  N Explanation None Topic-Comment NN
+Leaf:  S span Whenever you are facing down an enemy
+Leaf:  S span it makes you realize
+Leaf:  N Attribution just how high the stakes are here for all involved .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  Root None None Explanation NS
+[('During any military operation it is inevitable that there will be loss of life .', None, None, None, 1), ("It 's the highest duty of the men and women", None, None, None, 0), ('planning these operations', None, None, None, 0), ('to try and minimize such losses', None, None, None, 0), ('while still making sure', None, None, None, 0), ('that the mission is completed .', None, None, None, 1), ('Whenever you are facing down an enemy', None, None, None, 0), ('it makes you realize', None, None, None, 0), ('just how high the stakes are here for all involved .', None, None, None, 1)]

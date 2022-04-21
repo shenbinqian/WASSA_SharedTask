@@ -1,0 +1,29 @@
+=====================> [[('It seems so sad', None, None, None, 0), ('that there are so many confrontations', None, None, None, 0), ('going on right now ,', None, None, None, 0), ("does n't it ?", None, None, None, 1), ('Did you hear about the latest confrontation between India and Pakistan ?', None, None, None, 1), ("I do n't know", None, None, None, 0), ('when they will ever come to terms', None, None, None, 0), ('over who controls Kashmir .', None, None, None, 1), ('Their fighting over the area has been going on for so long ,', None, None, None, 0), ('and so many innocent civilians have been killed over the dispute .', None, None, None, 1), ('Innocent civilians on both sides of the fighting were just killed .', None, None, None, 1), ('I wish', None, None, None, 0), ('they could just settle things somehow .', None, None, None, 1), ("It 's so sad to keep hearing about all of the needless killings and bloodshed .", None, None, None, 1)]]
+Leaf:  S span It seems so sad
+Leaf:  N Elaborate that there are so many confrontations
+Leaf:  S span going on right now ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span does n't it ?
+Inner:  N Attribution None Evaluation NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Joint Did you hear about the latest confrontation between India and Pakistan ?
+Leaf:  S span I do n't know
+Leaf:  N Elaborate when they will ever come to terms
+Leaf:  S span over who controls Kashmir .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Cause Their fighting over the area has been going on for so long ,
+Leaf:  S span and so many innocent civilians have been killed over the dispute .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Innocent civilians on both sides of the fighting were just killed .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Attribution they could just settle things somehow .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It 's so sad to keep hearing about all of the needless killings and bloodshed .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('It seems so sad', None, None, None, 0), ('that there are so many confrontations', None, None, None, 0), ('going on right now ,', None, None, None, 0), ("does n't it ?", None, None, None, 1), ('Did you hear about the latest confrontation between India and Pakistan ?', None, None, None, 1), ("I do n't know", None, None, None, 0), ('when they will ever come to terms', None, None, None, 0), ('over who controls Kashmir .', None, None, None, 1), ('Their fighting over the area has been going on for so long ,', None, None, None, 0), ('and so many innocent civilians have been killed over the dispute .', None, None, None, 1), ('Innocent civilians on both sides of the fighting were just killed .', None, None, None, 1), ('I wish', None, None, None, 0), ('they could just settle things somehow .', None, None, None, 1), ("It 's so sad to keep hearing about all of the needless killings and bloodshed .", None, None, None, 1)]

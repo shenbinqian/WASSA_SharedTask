@@ -1,0 +1,19 @@
+=====================> [[('Unreal .', None, None, None, 1), ('Have you seen this ?', None, None, None, 1), ('When will we finally get strict laws on cell phone usage in cars ?', None, None, None, 1), ('Some awareness', None, None, None, 0), ('of how dangerous this is needs to be presented to this girl .', None, None, None, 1), ("And let 's talk about the fact", None, None, None, 0), ('of what she was doing ?', None, None, None, 1), ('We need to teach young girls about self respect ,', None, None, None, 0), ('this is getting ridiculous !', None, None, None, 1)]]
+Leaf:  N Elaborate Unreal .
+Leaf:  S span Have you seen this ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Evaluation When will we finally get strict laws on cell phone usage in cars ?
+Leaf:  N Elaborate Some awareness
+Leaf:  S span of how dangerous this is needs to be presented to this girl .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate And let 's talk about the fact
+Leaf:  S span of what she was doing ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation We need to teach young girls about self respect ,
+Leaf:  S span this is getting ridiculous !
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  Root None None Joint NN
+[('Unreal .', None, None, None, 1), ('Have you seen this ?', None, None, None, 1), ('When will we finally get strict laws on cell phone usage in cars ?', None, None, None, 1), ('Some awareness', None, None, None, 0), ('of how dangerous this is needs to be presented to this girl .', None, None, None, 1), ("And let 's talk about the fact", None, None, None, 0), ('of what she was doing ?', None, None, None, 1), ('We need to teach young girls about self respect ,', None, None, None, 0), ('this is getting ridiculous !', None, None, None, 1)]

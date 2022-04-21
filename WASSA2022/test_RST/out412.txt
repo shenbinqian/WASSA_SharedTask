@@ -1,0 +1,37 @@
+=====================> [[('Hey Ariel :', None, None, None, 0), ('I need your opinion on an article', None, None, None, 0), ('I read today .', None, None, None, 1), ('I know', None, None, None, 0), ('your degree is in psychology .', None, None, None, 1), ('There was a student', None, None, None, 0), ('named Montravious Thomas', None, None, None, 0), ('who was 13 years of age attending Muscogee School System in Atlanta . Apparently the teacher , Mosley , attacked the student', None, None, None, 0), ('and body slammed him three times .', None, None, None, 1), ('Thomas now has lost his leg because of it . So horrific !!! On top of this horror , Thomas was told', None, None, None, 0), ('they called the ambulance', None, None, None, 0), ('but later we find out they did not .', None, None, None, 1), ('Then they made Thomas try to ride the bus .', None, None, None, 1), ("They then carried him onto the bus . Parents took him to Children 's Hospital where they later amputated . So much physical therapy and pain lie ahead .", None, None, None, 1), ('Would you help me understand', None, None, None, 0), ('how in any state this potentially happen to a child ?', None, None, None, 1), ('I am beyond disturbed', None, None, None, 0), ('for this young man.Awful', None, None, None, 0)]]
+Leaf:  S span Hey Ariel :
+Leaf:  N Elaborate I need your opinion on an article
+Leaf:  S span I read today .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution your degree is in psychology .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There was a student
+Leaf:  S span named Montravious Thomas
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint who was 13 years of age attending Muscogee School System in Atlanta . Apparently the teacher , Mosley , attacked the student
+Leaf:  N Joint and body slammed him three times .
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Thomas now has lost his leg because of it . So horrific !!! On top of this horror , Thomas was told
+Leaf:  N Attribution they called the ambulance
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but later we find out they did not .
+Inner:  S span None Contrast NS
+Inner:  N Temporal None Cause NS
+Leaf:  N Temporal Then they made Thomas try to ride the bus .
+Leaf:  N Temporal They then carried him onto the bus . Parents took him to Children 's Hospital where they later amputated . So much physical therapy and pain lie ahead .
+Inner:  N Temporal None Temporal NN
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span Would you help me understand
+Leaf:  N Attribution how in any state this potentially happen to a child ?
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I am beyond disturbed
+Leaf:  S span for this young man.Awful
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Hey Ariel :', None, None, None, 0), ('I need your opinion on an article', None, None, None, 0), ('I read today .', None, None, None, 1), ('I know', None, None, None, 0), ('your degree is in psychology .', None, None, None, 1), ('There was a student', None, None, None, 0), ('named Montravious Thomas', None, None, None, 0), ('who was 13 years of age attending Muscogee School System in Atlanta . Apparently the teacher , Mosley , attacked the student', None, None, None, 0), ('and body slammed him three times .', None, None, None, 1), ('Thomas now has lost his leg because of it . So horrific !!! On top of this horror , Thomas was told', None, None, None, 0), ('they called the ambulance', None, None, None, 0), ('but later we find out they did not .', None, None, None, 1), ('Then they made Thomas try to ride the bus .', None, None, None, 1), ("They then carried him onto the bus . Parents took him to Children 's Hospital where they later amputated . So much physical therapy and pain lie ahead .", None, None, None, 1), ('Would you help me understand', None, None, None, 0), ('how in any state this potentially happen to a child ?', None, None, None, 1), ('I am beyond disturbed', None, None, None, 0), ('for this young man.Awful', None, None, None, 0)]

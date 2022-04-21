@@ -1,0 +1,31 @@
+=====================> [[("I just ca n't believe", None, None, None, 0), ('that tragedies like this are still happening .', None, None, None, 1), ('It seems like a concept', None, None, None, 0), ('that would have existed a very long time ago ,', None, None, None, 0), ('but in reality it was pretty recent .', None, None, None, 1), ('I would like to hope', None, None, None, 0), ("that one day there wo n't be a governing body in the world", None, None, None, 0), ('that would think', None, None, None, 0), ('that this type of behavior is acceptable ,', None, None, None, 0), ('but I know', None, None, None, 0), ("that 's a Utopian dream .", None, None, None, 1), ('The harsh reality is that we , as a global nation , are far from perfect', None, None, None, 0), ('and there will be many more of these discriminatory actions', None, None, None, 0), ('carried out by " leaders "', None, None, None, 0), ("before humanity finally gets it 's act together .", None, None, None, 1)]]
+Leaf:  S span I just ca n't believe
+Leaf:  N Attribution that tragedies like this are still happening .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It seems like a concept
+Leaf:  S span that would have existed a very long time ago ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but in reality it was pretty recent .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I would like to hope
+Leaf:  N Elaborate that one day there wo n't be a governing body in the world
+Leaf:  S span that would think
+Leaf:  N Attribution that this type of behavior is acceptable ,
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Attribution but I know
+Leaf:  S span that 's a Utopian dream .
+Inner:  S span None Attribution NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Joint The harsh reality is that we , as a global nation , are far from perfect
+Leaf:  N Elaborate and there will be many more of these discriminatory actions
+Leaf:  S span carried out by " leaders "
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before humanity finally gets it 's act together .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I just ca n't believe", None, None, None, 0), ('that tragedies like this are still happening .', None, None, None, 1), ('It seems like a concept', None, None, None, 0), ('that would have existed a very long time ago ,', None, None, None, 0), ('but in reality it was pretty recent .', None, None, None, 1), ('I would like to hope', None, None, None, 0), ("that one day there wo n't be a governing body in the world", None, None, None, 0), ('that would think', None, None, None, 0), ('that this type of behavior is acceptable ,', None, None, None, 0), ('but I know', None, None, None, 0), ("that 's a Utopian dream .", None, None, None, 1), ('The harsh reality is that we , as a global nation , are far from perfect', None, None, None, 0), ('and there will be many more of these discriminatory actions', None, None, None, 0), ('carried out by " leaders "', None, None, None, 0), ("before humanity finally gets it 's act together .", None, None, None, 1)]

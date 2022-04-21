@@ -1,0 +1,27 @@
+=====================> [[('This guy had the right idea', None, None, None, 0), ('talking about avoiding news for a time .', None, None, None, 1), ('You get too wrapped up in this sort of thing .', None, None, None, 1), ('You get into choosing sides', None, None, None, 0), ('and making it more of a football game ,', None, None, None, 0), ('ignoring the humanity of the person with differing ideas .', None, None, None, 1), ('One thing i think is that these are machines of fear', None, None, None, 0), ("and they 're effective and running constantly .", None, None, None, 1), ('These people are less evil , , less hateful ,', None, None, None, 0), ("but they 're victims of fear and mistrust ,", None, None, None, 0), ("probably because they 've been hurt somehow in the past", None, None, None, 0), ('and are afraid to trust in people anymore ,', None, None, None, 0), ("and that 's a real downer , man .", None, None, None, 1)]]
+Leaf:  N Elaborate This guy had the right idea
+Leaf:  S span talking about avoiding news for a time .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Summary You get too wrapped up in this sort of thing .
+Leaf:  N Joint You get into choosing sides
+Leaf:  N Joint and making it more of a football game ,
+Inner:  N Elaborate None Joint NN
+Leaf:  S span ignoring the humanity of the person with differing ideas .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint One thing i think is that these are machines of fear
+Leaf:  N Joint and they 're effective and running constantly .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span These people are less evil , , less hateful ,
+Leaf:  N Explanation but they 're victims of fear and mistrust ,
+Leaf:  N Joint probably because they 've been hurt somehow in the past
+Leaf:  N Joint and are afraid to trust in people anymore ,
+Inner:  S span None Joint NN
+Inner:  N Contrast None Explanation NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span and that 's a real downer , man .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  Root None None Summary NS
+[('This guy had the right idea', None, None, None, 0), ('talking about avoiding news for a time .', None, None, None, 1), ('You get too wrapped up in this sort of thing .', None, None, None, 1), ('You get into choosing sides', None, None, None, 0), ('and making it more of a football game ,', None, None, None, 0), ('ignoring the humanity of the person with differing ideas .', None, None, None, 1), ('One thing i think is that these are machines of fear', None, None, None, 0), ("and they 're effective and running constantly .", None, None, None, 1), ('These people are less evil , , less hateful ,', None, None, None, 0), ("but they 're victims of fear and mistrust ,", None, None, None, 0), ("probably because they 've been hurt somehow in the past", None, None, None, 0), ('and are afraid to trust in people anymore ,', None, None, None, 0), ("and that 's a real downer , man .", None, None, None, 1)]

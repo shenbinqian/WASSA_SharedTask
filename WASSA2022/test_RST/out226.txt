@@ -1,0 +1,23 @@
+=====================> [[('Did you hear', None, None, None, 0), ('that american apparel is going out of business', None, None, None, 0), ('I always thought', None, None, None, 0), ('there prices was too high every time', None, None, None, 0), ('we used', None, None, None, 0), ('to go there at the mall now', None, None, None, 0), ('all this people will be out of jobs', None, None, None, 0), ('I wonder', None, None, None, 0), ('how this will affect the economy with that many people out of work', None, None, None, 0), ('i hope', None, None, None, 0), ('they will give the people some type of package', None, None, None, 0)]]
+Leaf:  S span Did you hear
+Leaf:  N Attribution that american apparel is going out of business
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I always thought
+Leaf:  N Elaborate there prices was too high every time
+Leaf:  N Elaborate we used
+Leaf:  S span to go there at the mall now
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span all this people will be out of jobs
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Attribution how this will affect the economy with that many people out of work
+Inner:  S span None Attribution SN
+Leaf:  N Background i hope
+Inner:  S span None Background SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Leaf:  N Attribution they will give the people some type of package
+Inner:  Root None None Attribution SN
+[('Did you hear', None, None, None, 0), ('that american apparel is going out of business', None, None, None, 0), ('I always thought', None, None, None, 0), ('there prices was too high every time', None, None, None, 0), ('we used', None, None, None, 0), ('to go there at the mall now', None, None, None, 0), ('all this people will be out of jobs', None, None, None, 0), ('I wonder', None, None, None, 0), ('how this will affect the economy with that many people out of work', None, None, None, 0), ('i hope', None, None, None, 0), ('they will give the people some type of package', None, None, None, 0)]

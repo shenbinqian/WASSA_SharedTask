@@ -1,0 +1,19 @@
+=====================> [[('I hate', None, None, None, 0), ('how common it is to hear stories like this , both from that part of the world and just in general .', None, None, None, 1), ('The most heartbreaking thing in this whole piece is in how many children were injured , however .', None, None, None, 1), ("It 's already horrible enough", None, None, None, 0), ('to hurt people', None, None, None, 0), ('that at least have opinions on the things', None, None, None, 0), ("you 're angry about ,", None, None, None, 0), ("but children ca n't help anything .", None, None, None, 1), ("It 's just being cruel .", None, None, None, 1)]]
+Leaf:  S span I hate
+Leaf:  N Attribution how common it is to hear stories like this , both from that part of the world and just in general .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Summary The most heartbreaking thing in this whole piece is in how many children were injured , however .
+Leaf:  N Elaborate It 's already horrible enough
+Leaf:  N Elaborate to hurt people
+Leaf:  N Elaborate that at least have opinions on the things
+Leaf:  S span you 're angry about ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but children ca n't help anything .
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span It 's just being cruel .
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('I hate', None, None, None, 0), ('how common it is to hear stories like this , both from that part of the world and just in general .', None, None, None, 1), ('The most heartbreaking thing in this whole piece is in how many children were injured , however .', None, None, None, 1), ("It 's already horrible enough", None, None, None, 0), ('to hurt people', None, None, None, 0), ('that at least have opinions on the things', None, None, None, 0), ("you 're angry about ,", None, None, None, 0), ("but children ca n't help anything .", None, None, None, 1), ("It 's just being cruel .", None, None, None, 1)]

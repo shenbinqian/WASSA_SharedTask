@@ -1,0 +1,17 @@
+=====================> [[('I wish', None, None, None, 0), ('these " news articles " would n\'t show up in my feed .', None, None, None, 1), ("I 'd much rather have actual important news .", None, None, None, 1), ("Who cares about some celeb 's breaking it off ?", None, None, None, 1), ("That 's their business .", None, None, None, 1), ('Why should that be any of my concern ?', None, None, None, 1), ('Social issues and the state of our country are much more important than the latest gossip about people', None, None, None, 0), ('who have a ton of money .', None, None, None, 1)]]
+Leaf:  S span I wish
+Leaf:  N Attribution these " news articles " would n't show up in my feed .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'd much rather have actual important news .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation Who cares about some celeb 's breaking it off ?
+Leaf:  N Evaluation That 's their business .
+Leaf:  S span Why should that be any of my concern ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Social issues and the state of our country are much more important than the latest gossip about people
+Leaf:  S span who have a ton of money .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I wish', None, None, None, 0), ('these " news articles " would n\'t show up in my feed .', None, None, None, 1), ("I 'd much rather have actual important news .", None, None, None, 1), ("Who cares about some celeb 's breaking it off ?", None, None, None, 1), ("That 's their business .", None, None, None, 1), ('Why should that be any of my concern ?', None, None, None, 1), ('Social issues and the state of our country are much more important than the latest gossip about people', None, None, None, 0), ('who have a ton of money .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Man , I was just reading', None, None, None, 0), ('that Terry Jones', None, None, None, 0), ('( the dude from Month Python )', None, None, None, 0), ('has dementia .', None, None, None, 1), ("It 's so sad to me", None, None, None, 0), ('that this is still a disease', None, None, None, 0), ('that we have no cure for .', None, None, None, 1), ('You know', None, None, None, 0), ('if someone hyper rich like him has it ,', None, None, None, 0), ("there just is n't a viable cure for it at the moment .", None, None, None, 1), ("It 's gotten so bad", None, None, None, 0), ("that he ca n't even express anything anymore . It 's such a scary , scary disease ,", None, None, None, 0), ('and', None, None, None, 0), ('when I see articles like this', None, None, None, 0), ('it just makes me so nervous for the future .', None, None, None, 1)]]
+Leaf:  S span Man , I was just reading
+Leaf:  N Elaborate that Terry Jones
+Leaf:  S span ( the dude from Month Python )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has dementia .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's so sad to me
+Leaf:  N Elaborate that this is still a disease
+Leaf:  S span that we have no cure for .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Same-Unit You know
+Leaf:  S span if someone hyper rich like him has it ,
+Leaf:  N Condition there just is n't a viable cure for it at the moment .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Cause It 's gotten so bad
+Leaf:  S span that he ca n't even express anything anymore . It 's such a scary , scary disease ,
+Inner:  N Joint None Cause NS
+Leaf:  N Same-Unit and
+Leaf:  S span when I see articles like this
+Leaf:  N Background it just makes me so nervous for the future .
+Inner:  N Same-Unit None Background SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Man , I was just reading', None, None, None, 0), ('that Terry Jones', None, None, None, 0), ('( the dude from Month Python )', None, None, None, 0), ('has dementia .', None, None, None, 1), ("It 's so sad to me", None, None, None, 0), ('that this is still a disease', None, None, None, 0), ('that we have no cure for .', None, None, None, 1), ('You know', None, None, None, 0), ('if someone hyper rich like him has it ,', None, None, None, 0), ("there just is n't a viable cure for it at the moment .", None, None, None, 1), ("It 's gotten so bad", None, None, None, 0), ("that he ca n't even express anything anymore . It 's such a scary , scary disease ,", None, None, None, 0), ('and', None, None, None, 0), ('when I see articles like this', None, None, None, 0), ('it just makes me so nervous for the future .', None, None, None, 1)]

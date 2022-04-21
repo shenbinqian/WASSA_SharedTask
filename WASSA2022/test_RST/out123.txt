@@ -1,0 +1,17 @@
+=====================> [[('Pakistan is a mess .', None, None, None, 1), ("IT 's so corrupt over there . From terrorism to just inhuman and civil rights issues .", None, None, None, 1), ('All I ever hear about pakistan are negative things .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how people really feel living over there .', None, None, None, 1), ("Is it really that bad ? I 've yet to hear anything positive about pakistan .", None, None, None, 1), ('I just know one thing .', None, None, None, 1), ("I would n't feel safe traveling there as an american .", None, None, None, 1)]]
+Leaf:  N Explanation Pakistan is a mess .
+Leaf:  S span IT 's so corrupt over there . From terrorism to just inhuman and civil rights issues .
+Inner:  N Summary None Explanation NS
+Leaf:  N Joint All I ever hear about pakistan are negative things .
+Leaf:  S span I wonder
+Leaf:  N Attribution how people really feel living over there .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Is it really that bad ? I 've yet to hear anything positive about pakistan .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate I just know one thing .
+Leaf:  S span I would n't feel safe traveling there as an american .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Pakistan is a mess .', None, None, None, 1), ("IT 's so corrupt over there . From terrorism to just inhuman and civil rights issues .", None, None, None, 1), ('All I ever hear about pakistan are negative things .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how people really feel living over there .', None, None, None, 1), ("Is it really that bad ? I 've yet to hear anything positive about pakistan .", None, None, None, 1), ('I just know one thing .', None, None, None, 1), ("I would n't feel safe traveling there as an american .", None, None, None, 1)]

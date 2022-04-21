@@ -1,0 +1,29 @@
+=====================> [[('No one deserves to be scared in their relationship .', None, None, None, 1), ('Women do n’t know', None, None, None, 0), ('how to leave', None, None, None, 0), ('because their lives are so intertwined with their abuser .', None, None, None, 1), ('It ’s hard to admit to yourself', None, None, None, 0), ('that this is really happening .', None, None, None, 1), ('The person', None, None, None, 0), ('that loves you', None, None, None, 0), ('also hurts you', None, None, None, 0), ('and that is so hard o admit to yourself .', None, None, None, 1), ('You wonder', None, None, None, 0), ('if it ’s just normal and you make excuses .', None, None, None, 1), ('It so hard to leave', None, None, None, 0), ('and my heart breaks for her .', None, None, None, 1)]]
+Leaf:  N Joint No one deserves to be scared in their relationship .
+Leaf:  S span Women do n’t know
+Leaf:  N Attribution how to leave
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because their lives are so intertwined with their abuser .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It ’s hard to admit to yourself
+Leaf:  N Attribution that this is really happening .
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate The person
+Leaf:  S span that loves you
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit also hurts you
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span and that is so hard o admit to yourself .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span You wonder
+Leaf:  N Attribution if it ’s just normal and you make excuses .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation It so hard to leave
+Leaf:  S span and my heart breaks for her .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  Root None None Joint NN
+[('No one deserves to be scared in their relationship .', None, None, None, 1), ('Women do n’t know', None, None, None, 0), ('how to leave', None, None, None, 0), ('because their lives are so intertwined with their abuser .', None, None, None, 1), ('It ’s hard to admit to yourself', None, None, None, 0), ('that this is really happening .', None, None, None, 1), ('The person', None, None, None, 0), ('that loves you', None, None, None, 0), ('also hurts you', None, None, None, 0), ('and that is so hard o admit to yourself .', None, None, None, 1), ('You wonder', None, None, None, 0), ('if it ’s just normal and you make excuses .', None, None, None, 1), ('It so hard to leave', None, None, None, 0), ('and my heart breaks for her .', None, None, None, 1)]

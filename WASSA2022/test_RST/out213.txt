@@ -1,0 +1,23 @@
+=====================> [[('I once had a dream like that .', None, None, None, 1), ('I woke up', None, None, None, 0), ("and could n't move ! I started internally having a dialogue with myself ,", None, None, None, 0), ('but then I would wake up with a cold sweat', None, None, None, 0), ('only and jut and shake', None, None, None, 0), ('as I woke up .', None, None, None, 1), ('Have you ever had those ?', None, None, None, 1), ("That 's strange , I think .", None, None, None, 1), ('I also had these dreams', None, None, None, 0), ('of being a speck', None, None, None, 0), ('and being so tiny in comparison to the world .', None, None, None, 1)]]
+Leaf:  N Elaborate I once had a dream like that .
+Leaf:  N Joint I woke up
+Leaf:  N Joint and could n't move ! I started internally having a dialogue with myself ,
+Inner:  N Contrast None Joint NN
+Leaf:  N Joint but then I would wake up with a cold sweat
+Leaf:  N Temporal only and jut and shake
+Leaf:  N Temporal as I woke up .
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Have you ever had those ?
+Leaf:  S span That 's strange , I think .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I also had these dreams
+Leaf:  N Joint of being a speck
+Leaf:  N Joint and being so tiny in comparison to the world .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I once had a dream like that .', None, None, None, 1), ('I woke up', None, None, None, 0), ("and could n't move ! I started internally having a dialogue with myself ,", None, None, None, 0), ('but then I would wake up with a cold sweat', None, None, None, 0), ('only and jut and shake', None, None, None, 0), ('as I woke up .', None, None, None, 1), ('Have you ever had those ?', None, None, None, 1), ("That 's strange , I think .", None, None, None, 1), ('I also had these dreams', None, None, None, 0), ('of being a speck', None, None, None, 0), ('and being so tiny in comparison to the world .', None, None, None, 1)]

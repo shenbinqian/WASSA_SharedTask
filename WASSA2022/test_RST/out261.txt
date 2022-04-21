@@ -1,0 +1,23 @@
+=====================> [[('I can not believe', None, None, None, 0), ('that Wells Fargo was doing this to their tellers ,', None, None, None, 0), ('forcing them to pressure people into opening accounts', None, None, None, 0), ('so that they can make a living wage .', None, None, None, 1), ("It 's appalling that they were forced to open fake accounts", None, None, None, 0), ('and had to stay late', None, None, None, 0), ("if they did n't meet the quota ,", None, None, None, 0), ('I do not know', None, None, None, 0), ('how Wells Fargo got away with ,', None, None, None, 0), ('I always thought', None, None, None, 0), ('they were a bad bank but never that bad .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Enablement that Wells Fargo was doing this to their tellers ,
+Leaf:  N Enablement forcing them to pressure people into opening accounts
+Leaf:  S span so that they can make a living wage .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It 's appalling that they were forced to open fake accounts
+Leaf:  N Condition and had to stay late
+Leaf:  S span if they did n't meet the quota ,
+Inner:  N Joint None Condition NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I do not know
+Leaf:  N Attribution how Wells Fargo got away with ,
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I always thought
+Leaf:  N Attribution they were a bad bank but never that bad .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I can not believe', None, None, None, 0), ('that Wells Fargo was doing this to their tellers ,', None, None, None, 0), ('forcing them to pressure people into opening accounts', None, None, None, 0), ('so that they can make a living wage .', None, None, None, 1), ("It 's appalling that they were forced to open fake accounts", None, None, None, 0), ('and had to stay late', None, None, None, 0), ("if they did n't meet the quota ,", None, None, None, 0), ('I do not know', None, None, None, 0), ('how Wells Fargo got away with ,', None, None, None, 0), ('I always thought', None, None, None, 0), ('they were a bad bank but never that bad .', None, None, None, 1)]

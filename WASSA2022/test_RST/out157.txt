@@ -1,0 +1,17 @@
+=====================> [[('The refugee crisis', None, None, None, 0), ('that is currently going on in Syria', None, None, None, 0), ('is a global issue .', None, None, None, 1), ('There are many countries', None, None, None, 0), ('that have played a role in the death and displacement of thousands of innocent people .', None, None, None, 1), ('Upon reading this article ,', None, None, None, 0), ('it is apparent that the UN needs to take steps', None, None, None, 0), ('to ensure the protection of Syrians in their country of origin , but also on their expeditions to safer lands .', None, None, None, 1)]]
+Leaf:  N Elaborate The refugee crisis
+Leaf:  S span that is currently going on in Syria
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a global issue .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate There are many countries
+Leaf:  S span that have played a role in the death and displacement of thousands of innocent people .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Upon reading this article ,
+Leaf:  N Enablement it is apparent that the UN needs to take steps
+Leaf:  S span to ensure the protection of Syrians in their country of origin , but also on their expeditions to safer lands .
+Inner:  N Background None Enablement NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('The refugee crisis', None, None, None, 0), ('that is currently going on in Syria', None, None, None, 0), ('is a global issue .', None, None, None, 1), ('There are many countries', None, None, None, 0), ('that have played a role in the death and displacement of thousands of innocent people .', None, None, None, 1), ('Upon reading this article ,', None, None, None, 0), ('it is apparent that the UN needs to take steps', None, None, None, 0), ('to ensure the protection of Syrians in their country of origin , but also on their expeditions to safer lands .', None, None, None, 1)]

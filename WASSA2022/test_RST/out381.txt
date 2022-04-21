@@ -1,0 +1,19 @@
+=====================> [[('Hye mom just wanted to keep in touch about everything', None, None, None, 0), ('that happened in pennsylvania with the police ambush .', None, None, None, 1), ('I feel so bad', None, None, None, 0), ('that these men and women put there lives literally on the line for the community', None, None, None, 0), ('and they die in such a violent senseless way .', None, None, None, 1), ('It seems so unfair ,', None, None, None, 0), ('especially when the suspect was dead in the house', None, None, None, 0), ('he should have not been a coward', None, None, None, 0), ('and rotted in jail the rest of his life !', None, None, None, 1)]]
+Leaf:  N Elaborate Hye mom just wanted to keep in touch about everything
+Leaf:  S span that happened in pennsylvania with the police ambush .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I feel so bad
+Leaf:  N Temporal that these men and women put there lives literally on the line for the community
+Leaf:  N Temporal and they die in such a violent senseless way .
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background It seems so unfair ,
+Leaf:  S span especially when the suspect was dead in the house
+Inner:  N Evaluation None Background NS
+Leaf:  N Temporal he should have not been a coward
+Leaf:  N Temporal and rotted in jail the rest of his life !
+Inner:  S span None Temporal NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Hye mom just wanted to keep in touch about everything', None, None, None, 0), ('that happened in pennsylvania with the police ambush .', None, None, None, 1), ('I feel so bad', None, None, None, 0), ('that these men and women put there lives literally on the line for the community', None, None, None, 0), ('and they die in such a violent senseless way .', None, None, None, 1), ('It seems so unfair ,', None, None, None, 0), ('especially when the suspect was dead in the house', None, None, None, 0), ('he should have not been a coward', None, None, None, 0), ('and rotted in jail the rest of his life !', None, None, None, 1)]

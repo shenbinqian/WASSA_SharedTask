@@ -1,0 +1,27 @@
+=====================> [[('So , apparently this particular wolf was killed .', None, None, None, 1), ("I 'm really not sure", None, None, None, 0), ('how I should feel about it .', None, None, None, 1), ('On the one hand , it is sad that the wolf died in this manner .', None, None, None, 1), ('However , it was killed as part of a federal program', None, None, None, 0), ('which kills a lot of wild animals each year .', None, None, None, 1), ('I do not know anything about the program', None, None, None, 0), ('other than what was conveyed in the article . The article judged the program very negatively , but it read more like propaganda than a sober-headed report . I would have to do more research', None, None, None, 0), ('to determine', None, None, None, 0), ('if the killing was justified ,', None, None, None, 0), ('morally speaking ,', None, None, None, 0), ("as I 'm sure there are reasons", None, None, None, 0), ('that some populations of wild animals must be culled .', None, None, None, 1)]]
+Leaf:  N Evaluation So , apparently this particular wolf was killed .
+Leaf:  S span I 'm really not sure
+Leaf:  N Attribution how I should feel about it .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span On the one hand , it is sad that the wolf died in this manner .
+Leaf:  N Elaborate However , it was killed as part of a federal program
+Leaf:  S span which kills a lot of wild animals each year .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate I do not know anything about the program
+Leaf:  N Enablement other than what was conveyed in the article . The article judged the program very negatively , but it read more like propaganda than a sober-headed report . I would have to do more research
+Leaf:  S span to determine
+Leaf:  N Background if the killing was justified ,
+Leaf:  S span morally speaking ,
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Background None Elaborate NS
+Leaf:  N Elaborate as I 'm sure there are reasons
+Leaf:  S span that some populations of wild animals must be culled .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('So , apparently this particular wolf was killed .', None, None, None, 1), ("I 'm really not sure", None, None, None, 0), ('how I should feel about it .', None, None, None, 1), ('On the one hand , it is sad that the wolf died in this manner .', None, None, None, 1), ('However , it was killed as part of a federal program', None, None, None, 0), ('which kills a lot of wild animals each year .', None, None, None, 1), ('I do not know anything about the program', None, None, None, 0), ('other than what was conveyed in the article . The article judged the program very negatively , but it read more like propaganda than a sober-headed report . I would have to do more research', None, None, None, 0), ('to determine', None, None, None, 0), ('if the killing was justified ,', None, None, None, 0), ('morally speaking ,', None, None, None, 0), ("as I 'm sure there are reasons", None, None, None, 0), ('that some populations of wild animals must be culled .', None, None, None, 1)]

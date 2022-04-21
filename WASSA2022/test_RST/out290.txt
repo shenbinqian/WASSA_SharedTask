@@ -1,0 +1,29 @@
+=====================> [[('I remember this show back then ,', None, None, None, 0), ('my family used to watch each episode', None, None, None, 0), ('and we hardly miss any .', None, None, None, 1), ('I feel pity for her reading what she had to pass through before and after the closure of the show .', None, None, None, 1), ('She was betrayed', None, None, None, 0), ('and she lost everything', None, None, None, 0), ('including her staff .', None, None, None, 1), ('I read this part', None, None, None, 0), ('and I can feel her', None, None, None, 0), ('and how much it meant to her', None, None, None, 0), ('“ I should have fought harder', None, None, None, 0), ('for what I knew was right ,', None, None, None, 0), ('what I knew', None, None, None, 0), ('that I did n’t want to do , ” .', None, None, None, 1)]]
+Leaf:  N Elaborate I remember this show back then ,
+Leaf:  N Joint my family used to watch each episode
+Leaf:  N Joint and we hardly miss any .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I feel pity for her reading what she had to pass through before and after the closure of the show .
+Leaf:  N Joint She was betrayed
+Leaf:  N Elaborate and she lost everything
+Leaf:  S span including her staff .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal I read this part
+Leaf:  N Joint and I can feel her
+Leaf:  N Joint and how much it meant to her
+Inner:  N Temporal None Joint NN
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate “ I should have fought harder
+Leaf:  S span for what I knew was right ,
+Inner:  N Joint None Elaborate NS
+Leaf:  S span what I knew
+Leaf:  N Attribution that I did n’t want to do , ” .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I remember this show back then ,', None, None, None, 0), ('my family used to watch each episode', None, None, None, 0), ('and we hardly miss any .', None, None, None, 1), ('I feel pity for her reading what she had to pass through before and after the closure of the show .', None, None, None, 1), ('She was betrayed', None, None, None, 0), ('and she lost everything', None, None, None, 0), ('including her staff .', None, None, None, 1), ('I read this part', None, None, None, 0), ('and I can feel her', None, None, None, 0), ('and how much it meant to her', None, None, None, 0), ('“ I should have fought harder', None, None, None, 0), ('for what I knew was right ,', None, None, None, 0), ('what I knew', None, None, None, 0), ('that I did n’t want to do , ” .', None, None, None, 1)]

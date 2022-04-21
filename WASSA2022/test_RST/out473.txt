@@ -1,0 +1,11 @@
+=====================> [[('According to the FBI data ,', None, None, None, 0), ('murder rates have increased by 10.8 % since 1971', None, None, None, 0), ('with last year being reported as the highest ever ,', None, None, None, 0), ('The rising violence increased due to increase in violence against black men .', None, None, None, 1), ('The percentage of murders by guns increased by a whooping 71.5 % and net increase in murder erased the gains of the past few years .', None, None, None, 1)]]
+Leaf:  S span According to the FBI data ,
+Leaf:  N Elaborate murder rates have increased by 10.8 % since 1971
+Leaf:  S span with last year being reported as the highest ever ,
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint The rising violence increased due to increase in violence against black men .
+Leaf:  N Joint The percentage of murders by guns increased by a whooping 71.5 % and net increase in murder erased the gains of the past few years .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Cause NS
+Inner:  Root None None Attribution SN
+[('According to the FBI data ,', None, None, None, 0), ('murder rates have increased by 10.8 % since 1971', None, None, None, 0), ('with last year being reported as the highest ever ,', None, None, None, 0), ('The rising violence increased due to increase in violence against black men .', None, None, None, 1), ('The percentage of murders by guns increased by a whooping 71.5 % and net increase in murder erased the gains of the past few years .', None, None, None, 1)]

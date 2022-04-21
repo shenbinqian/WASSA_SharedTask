@@ -1,0 +1,19 @@
+=====================> [[('The article is so shocking .', None, None, None, 1), ('I had heard a little about it', None, None, None, 0), ('before', None, None, None, 0), ('but I had no idea', None, None, None, 0), ('that it was so drastic .', None, None, None, 1), ('And now I am not surprised about how the weather has been so screwy for the past few years .', None, None, None, 1), ("It does n't seem like there is anything", None, None, None, 0), ('that we can do about it though .', None, None, None, 1), ('So I feel kind of helpless about that .', None, None, None, 1)]]
+Leaf:  N Elaborate The article is so shocking .
+Leaf:  N Temporal I had heard a little about it
+Leaf:  S span before
+Inner:  S span None Temporal NS
+Leaf:  S span but I had no idea
+Leaf:  N Attribution that it was so drastic .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Leaf:  N Evaluation And now I am not surprised about how the weather has been so screwy for the past few years .
+Leaf:  N Elaborate It does n't seem like there is anything
+Leaf:  S span that we can do about it though .
+Inner:  S span None Elaborate NS
+Inner:  N Background None Evaluation NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span So I feel kind of helpless about that .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The article is so shocking .', None, None, None, 1), ('I had heard a little about it', None, None, None, 0), ('before', None, None, None, 0), ('but I had no idea', None, None, None, 0), ('that it was so drastic .', None, None, None, 1), ('And now I am not surprised about how the weather has been so screwy for the past few years .', None, None, None, 1), ("It does n't seem like there is anything", None, None, None, 0), ('that we can do about it though .', None, None, None, 1), ('So I feel kind of helpless about that .', None, None, None, 1)]

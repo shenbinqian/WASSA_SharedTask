@@ -1,0 +1,23 @@
+=====================> [[('First thought on this is why is it news ?', None, None, None, 1), ('My second thought it that she needs to get out', None, None, None, 0), ('because this is clearly a very unhealthy relationship .', None, None, None, 1), ("I do n't know anything about them .", None, None, None, 1), ('Do they have children ? They are the real victims here .', None, None, None, 1), ('I know', None, None, None, 0), ('they state', None, None, None, 0), ('this was another screaming match', None, None, None, 0), ('but how long will it be just that ?', None, None, None, 1), ('I worry', None, None, None, 0), ('it will escalate even further .', None, None, None, 1)]]
+Leaf:  N Joint First thought on this is why is it news ?
+Leaf:  N Explanation My second thought it that she needs to get out
+Leaf:  S span because this is clearly a very unhealthy relationship .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I do n't know anything about them .
+Leaf:  S span Do they have children ? They are the real victims here .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I know
+Leaf:  S span they state
+Leaf:  N Attribution this was another screaming match
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but how long will it be just that ?
+Inner:  N Explanation None Contrast SN
+Leaf:  S span I worry
+Leaf:  N Attribution it will escalate even further .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('First thought on this is why is it news ?', None, None, None, 1), ('My second thought it that she needs to get out', None, None, None, 0), ('because this is clearly a very unhealthy relationship .', None, None, None, 1), ("I do n't know anything about them .", None, None, None, 1), ('Do they have children ? They are the real victims here .', None, None, None, 1), ('I know', None, None, None, 0), ('they state', None, None, None, 0), ('this was another screaming match', None, None, None, 0), ('but how long will it be just that ?', None, None, None, 1), ('I worry', None, None, None, 0), ('it will escalate even further .', None, None, None, 1)]

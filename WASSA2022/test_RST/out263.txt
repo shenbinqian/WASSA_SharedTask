@@ -1,0 +1,19 @@
+=====================> [[('While I want to believe Keesha ,', None, None, None, 0), ('it makes it much more complicated', None, None, None, 0), ('when there is money involved', None, None, None, 0), ("and I do n't really know who to believe . However ,", None, None, None, 0), ('if she was forced to dumb down her music', None, None, None, 0), ('and starve herself', None, None, None, 0), ('that is just horrible ,', None, None, None, 0), ('when you are a young woman', None, None, None, 0), ('you are very vulnerable to other peoples opinions of you .', None, None, None, 1)]]
+Leaf:  S span While I want to believe Keesha ,
+Leaf:  N Background it makes it much more complicated
+Leaf:  N Joint when there is money involved
+Leaf:  N Joint and I do n't really know who to believe . However ,
+Inner:  S span None Joint NN
+Inner:  N Contrast None Background NS
+Inner:  N Same-Unit None Contrast SN
+Leaf:  N Joint if she was forced to dumb down her music
+Leaf:  N Joint and starve herself
+Inner:  N Evaluation None Joint NN
+Leaf:  S span that is just horrible ,
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span when you are a young woman
+Leaf:  N Condition you are very vulnerable to other peoples opinions of you .
+Inner:  S span None Condition SN
+Inner:  N Same-Unit None Explanation NS
+Inner:  Root None None Same-Unit NN
+[('While I want to believe Keesha ,', None, None, None, 0), ('it makes it much more complicated', None, None, None, 0), ('when there is money involved', None, None, None, 0), ("and I do n't really know who to believe . However ,", None, None, None, 0), ('if she was forced to dumb down her music', None, None, None, 0), ('and starve herself', None, None, None, 0), ('that is just horrible ,', None, None, None, 0), ('when you are a young woman', None, None, None, 0), ('you are very vulnerable to other peoples opinions of you .', None, None, None, 1)]

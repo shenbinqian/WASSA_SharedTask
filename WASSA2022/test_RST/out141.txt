@@ -1,0 +1,23 @@
+=====================> [[("Hey , I just read an interesting article about the MSF 's refugee experience installations", None, None, None, 0), ('that focused on the propagation of empathy .', None, None, None, 1), ('It was very interesting .', None, None, None, 1), ('As people', None, None, None, 0), ('who have traveled extensively', None, None, None, 0), ('I know', None, None, None, 0), ('that caring for others outside of our immediate social circle comes more easily ,', None, None, None, 0), ('but it really opened my eyes to just how uncaring the world at large really is . Apparently , people are less empathetic now', None, None, None, 0), ('than they have been in the last 30 years', None, None, None, 0), ('and levels continue to dip at a healthy clip .', None, None, None, 1), ('The whole things was quite frightening .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I just read an interesting article about the MSF 's refugee experience installations
+Leaf:  S span that focused on the propagation of empathy .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It was very interesting .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate As people
+Leaf:  S span who have traveled extensively
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I know
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution that caring for others outside of our immediate social circle comes more easily ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Comparison but it really opened my eyes to just how uncaring the world at large really is . Apparently , people are less empathetic now
+Leaf:  N Joint than they have been in the last 30 years
+Leaf:  N Joint and levels continue to dip at a healthy clip .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Comparison NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The whole things was quite frightening .
+Inner:  Root None None Evaluation NS
+[("Hey , I just read an interesting article about the MSF 's refugee experience installations", None, None, None, 0), ('that focused on the propagation of empathy .', None, None, None, 1), ('It was very interesting .', None, None, None, 1), ('As people', None, None, None, 0), ('who have traveled extensively', None, None, None, 0), ('I know', None, None, None, 0), ('that caring for others outside of our immediate social circle comes more easily ,', None, None, None, 0), ('but it really opened my eyes to just how uncaring the world at large really is . Apparently , people are less empathetic now', None, None, None, 0), ('than they have been in the last 30 years', None, None, None, 0), ('and levels continue to dip at a healthy clip .', None, None, None, 1), ('The whole things was quite frightening .', None, None, None, 1)]

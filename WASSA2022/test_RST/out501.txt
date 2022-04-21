@@ -1,0 +1,11 @@
+=====================> [[('This article was extremely inspiring .', None, None, None, 1), ('The author discussed various accomplishments of female athletes', None, None, None, 0), ('and detailed their persistence , drive , and determination .', None, None, None, 1), ('I feel inspired by having read about these things . Some of the athletes mentioned included :', None, None, None, 0), ('Maria Sharapova , Tania Cagnotto , Ronda Rousey , Gretchen Bleiler , Simone Biles , and Danica Patrick .', None, None, None, 1)]]
+Leaf:  N Elaborate This article was extremely inspiring .
+Leaf:  N Joint The author discussed various accomplishments of female athletes
+Leaf:  N Joint and detailed their persistence , drive , and determination .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate I feel inspired by having read about these things . Some of the athletes mentioned included :
+Leaf:  S span Maria Sharapova , Tania Cagnotto , Ronda Rousey , Gretchen Bleiler , Simone Biles , and Danica Patrick .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This article was extremely inspiring .', None, None, None, 1), ('The author discussed various accomplishments of female athletes', None, None, None, 0), ('and detailed their persistence , drive , and determination .', None, None, None, 1), ('I feel inspired by having read about these things . Some of the athletes mentioned included :', None, None, None, 0), ('Maria Sharapova , Tania Cagnotto , Ronda Rousey , Gretchen Bleiler , Simone Biles , and Danica Patrick .', None, None, None, 1)]

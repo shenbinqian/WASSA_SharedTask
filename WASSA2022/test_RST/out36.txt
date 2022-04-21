@@ -1,0 +1,31 @@
+=====================> [[('This is a horrible story .', None, None, None, 1), ('I feel so badly for these people .', None, None, None, 1), ('A tanker', None, None, None, 0), ('carrying gas', None, None, None, 0), ('exploded', None, None, None, 0), ('when people were all there', None, None, None, 0), ('to get the gas .', None, None, None, 1), ("I ca n't even imagine", None, None, None, 0), ('how these people felt .', None, None, None, 1), ('Some people ran to a river .', None, None, None, 1), ('And I wonder', None, None, None, 0), ('what resources', None, None, None, 0), ('they had nearby', None, None, None, 0), ('to help all of the burned people .', None, None, None, 1), ('I can hardly imagine any situation worse than this .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a horrible story .
+Leaf:  S span I feel so badly for these people .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate A tanker
+Leaf:  S span carrying gas
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Background exploded
+Leaf:  N Enablement when people were all there
+Leaf:  S span to get the gas .
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Background NS
+Inner:  N Summary None Same-Unit NN
+Leaf:  S span I ca n't even imagine
+Leaf:  N Attribution how these people felt .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Some people ran to a river .
+Inner:  N Joint None Elaborate NS
+Leaf:  S span And I wonder
+Leaf:  N Elaborate what resources
+Leaf:  S span they had nearby
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to help all of the burned people .
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I can hardly imagine any situation worse than this .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This is a horrible story .', None, None, None, 1), ('I feel so badly for these people .', None, None, None, 1), ('A tanker', None, None, None, 0), ('carrying gas', None, None, None, 0), ('exploded', None, None, None, 0), ('when people were all there', None, None, None, 0), ('to get the gas .', None, None, None, 1), ("I ca n't even imagine", None, None, None, 0), ('how these people felt .', None, None, None, 1), ('Some people ran to a river .', None, None, None, 1), ('And I wonder', None, None, None, 0), ('what resources', None, None, None, 0), ('they had nearby', None, None, None, 0), ('to help all of the burned people .', None, None, None, 1), ('I can hardly imagine any situation worse than this .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('Anyone', None, None, None, 0), ('who gives their young child an opioid', None, None, None, 0), ('is a complete idiot .', None, None, None, 1), ('Knowing the dangers of opioids now a days and that their are other alternatives , especially for young children is completely inexcusable .', None, None, None, 1), ('Any child', None, None, None, 0), ('who dies from an opioid overdose', None, None, None, 0), ('should have a the parent or guardian arrested for murder .', None, None, None, 1)]]
+Leaf:  N Elaborate Anyone
+Leaf:  S span who gives their young child an opioid
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a complete idiot .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Knowing the dangers of opioids now a days and that their are other alternatives , especially for young children is completely inexcusable .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Any child
+Leaf:  S span who dies from an opioid overdose
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should have a the parent or guardian arrested for murder .
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Elaborate NS
+[('Anyone', None, None, None, 0), ('who gives their young child an opioid', None, None, None, 0), ('is a complete idiot .', None, None, None, 1), ('Knowing the dangers of opioids now a days and that their are other alternatives , especially for young children is completely inexcusable .', None, None, None, 1), ('Any child', None, None, None, 0), ('who dies from an opioid overdose', None, None, None, 0), ('should have a the parent or guardian arrested for murder .', None, None, None, 1)]

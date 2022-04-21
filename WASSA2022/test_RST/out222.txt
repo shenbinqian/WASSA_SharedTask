@@ -1,0 +1,33 @@
+=====================> [[('This article was very sad .', None, None, None, 1), ('I never like reading anything', None, None, None, 0), ('that has to do with school children .', None, None, None, 1), ('It really grabbed my attention', None, None, None, 0), ('and pulled at my heart . You should definitely give it a read .', None, None, None, 1), ('I think', None, None, None, 0), ('you would enjoy it', None, None, None, 0), ('and it will tug at your emotions too .', None, None, None, 1), ('If you are very sensitive', None, None, None, 0), ('though I do not think', None, None, None, 0), ('I would recommend it .', None, None, None, 1), ('It talks of a teacher and her 23 students .', None, None, None, 1), ('Sometimes when it comes to children and any sort of misdoing people are uncomfortable with reading that .', None, None, None, 1), ('Just a heads up', None, None, None, 0), ('but I hope', None, None, None, 0), ('you give it a go .', None, None, None, 1)]]
+Leaf:  N Explanation This article was very sad .
+Leaf:  N Elaborate I never like reading anything
+Leaf:  S span that has to do with school children .
+Inner:  S span None Elaborate NS
+Leaf:  N Joint It really grabbed my attention
+Leaf:  N Joint and pulled at my heart . You should definitely give it a read .
+Inner:  N Explanation None Joint NN
+Leaf:  S span I think
+Leaf:  N Joint you would enjoy it
+Leaf:  N Joint and it will tug at your emotions too .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Attribution If you are very sensitive
+Leaf:  S span though I do not think
+Leaf:  N Attribution I would recommend it .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Attribution NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span It talks of a teacher and her 23 students .
+Inner:  N Background None Elaborate NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span Sometimes when it comes to children and any sort of misdoing people are uncomfortable with reading that .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Just a heads up
+Leaf:  S span but I hope
+Leaf:  N Attribution you give it a go .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This article was very sad .', None, None, None, 1), ('I never like reading anything', None, None, None, 0), ('that has to do with school children .', None, None, None, 1), ('It really grabbed my attention', None, None, None, 0), ('and pulled at my heart . You should definitely give it a read .', None, None, None, 1), ('I think', None, None, None, 0), ('you would enjoy it', None, None, None, 0), ('and it will tug at your emotions too .', None, None, None, 1), ('If you are very sensitive', None, None, None, 0), ('though I do not think', None, None, None, 0), ('I would recommend it .', None, None, None, 1), ('It talks of a teacher and her 23 students .', None, None, None, 1), ('Sometimes when it comes to children and any sort of misdoing people are uncomfortable with reading that .', None, None, None, 1), ('Just a heads up', None, None, None, 0), ('but I hope', None, None, None, 0), ('you give it a go .', None, None, None, 1)]

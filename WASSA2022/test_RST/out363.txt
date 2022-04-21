@@ -1,0 +1,15 @@
+=====================> [[('I actually have a hard time', None, None, None, 0), ('feeling sympathetic about flood victims overall here .', None, None, None, 1), ("Even though individually it is n't their fault ,", None, None, None, 0), ('this is very much a manmade disaster .', None, None, None, 1), ('The state should have had regulations', None, None, None, 0), ('prohibiting building houses in vulnerable areas .', None, None, None, 1), ('This financial distress was caused by poor planning .', None, None, None, 1)]]
+Leaf:  N Elaborate I actually have a hard time
+Leaf:  S span feeling sympathetic about flood victims overall here .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span Even though individually it is n't their fault ,
+Leaf:  N Contrast this is very much a manmade disaster .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate The state should have had regulations
+Leaf:  S span prohibiting building houses in vulnerable areas .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span This financial distress was caused by poor planning .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I actually have a hard time', None, None, None, 0), ('feeling sympathetic about flood victims overall here .', None, None, None, 1), ("Even though individually it is n't their fault ,", None, None, None, 0), ('this is very much a manmade disaster .', None, None, None, 1), ('The state should have had regulations', None, None, None, 0), ('prohibiting building houses in vulnerable areas .', None, None, None, 1), ('This financial distress was caused by poor planning .', None, None, None, 1)]

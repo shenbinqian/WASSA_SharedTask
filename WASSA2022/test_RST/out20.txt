@@ -1,0 +1,25 @@
+=====================> [[('Venezuela has to make positive changes to its country .', None, None, None, 1), ('WHen ten kids miss school', None, None, None, 0), ('because there is an issue', None, None, None, 0), ('with not having enough', None, None, None, 0), ('to have food', None, None, None, 0), ('it is a big problem .', None, None, None, 1), ('School supplies are 5x the minimum wage', None, None, None, 0), ('and that is very wrong .', None, None, None, 1), ('The country has to take action', None, None, None, 0), ('in providing for its citizens in order to feed as many people as possible .', None, None, None, 1), ('They have to find a way', None, None, None, 0), ('in order to make things more affordable .', None, None, None, 1)]]
+Leaf:  N Explanation Venezuela has to make positive changes to its country .
+Leaf:  N Cause WHen ten kids miss school
+Leaf:  N Elaborate because there is an issue
+Leaf:  N Enablement with not having enough
+Leaf:  S span to have food
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Leaf:  N Evaluation it is a big problem .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Evaluation School supplies are 5x the minimum wage
+Leaf:  S span and that is very wrong .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Manner-Means The country has to take action
+Leaf:  S span in providing for its citizens in order to feed as many people as possible .
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Elaborate They have to find a way
+Leaf:  S span in order to make things more affordable .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('Venezuela has to make positive changes to its country .', None, None, None, 1), ('WHen ten kids miss school', None, None, None, 0), ('because there is an issue', None, None, None, 0), ('with not having enough', None, None, None, 0), ('to have food', None, None, None, 0), ('it is a big problem .', None, None, None, 1), ('School supplies are 5x the minimum wage', None, None, None, 0), ('and that is very wrong .', None, None, None, 1), ('The country has to take action', None, None, None, 0), ('in providing for its citizens in order to feed as many people as possible .', None, None, None, 1), ('They have to find a way', None, None, None, 0), ('in order to make things more affordable .', None, None, None, 1)]

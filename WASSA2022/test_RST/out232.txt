@@ -1,0 +1,27 @@
+=====================> [[('This is just terrible always an oil spill', None, None, None, 0), ('and they are deadly to our oceans and wildlife .', None, None, None, 1), ('If we could just use alternative forms of energy', None, None, None, 0), ('this would not happen .', None, None, None, 1), ('I think to all the spills', None, None, None, 0), ('I have', None, None, None, 0), ('heard of and all the damage cause .', None, None, None, 1), ('It really annoys me', None, None, None, 0), ('that we continue to harm the planet .', None, None, None, 1), ('No matter what type of technology', None, None, None, 0), ('they use', None, None, None, 0), ('it always fails', None, None, None, 0), ('and we end up with hull breaches , oil cleanup and ruined enviornment .', None, None, None, 1)]]
+Leaf:  N Joint This is just terrible always an oil spill
+Leaf:  N Joint and they are deadly to our oceans and wildlife .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span If we could just use alternative forms of energy
+Leaf:  N Condition this would not happen .
+Inner:  S span None Condition SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate I think to all the spills
+Leaf:  N Elaborate I have
+Leaf:  S span heard of and all the damage cause .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It really annoys me
+Leaf:  N Attribution that we continue to harm the planet .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate No matter what type of technology
+Leaf:  S span they use
+Inner:  S span None Elaborate NS
+Leaf:  N Cause it always fails
+Leaf:  S span and we end up with hull breaches , oil cleanup and ruined enviornment .
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('This is just terrible always an oil spill', None, None, None, 0), ('and they are deadly to our oceans and wildlife .', None, None, None, 1), ('If we could just use alternative forms of energy', None, None, None, 0), ('this would not happen .', None, None, None, 1), ('I think to all the spills', None, None, None, 0), ('I have', None, None, None, 0), ('heard of and all the damage cause .', None, None, None, 1), ('It really annoys me', None, None, None, 0), ('that we continue to harm the planet .', None, None, None, 1), ('No matter what type of technology', None, None, None, 0), ('they use', None, None, None, 0), ('it always fails', None, None, None, 0), ('and we end up with hull breaches , oil cleanup and ruined enviornment .', None, None, None, 1)]

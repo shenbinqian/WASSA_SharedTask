@@ -1,0 +1,23 @@
+=====================> [[("It 's sad that this was based on a human error .", None, None, None, 1), ('So much death', None, None, None, 0), ('associated with the war', None, None, None, 0), ('constantly happening .', None, None, None, 1), ('Then you have an incident', None, None, None, 0), ('that is legitimately an accident .', None, None, None, 1), ("It 's hard to feel for them", None, None, None, 0), ('since they are always fighting anyway .', None, None, None, 1), ('I mean any human death is bad ,', None, None, None, 0), ('but that seems to be their way of life . Always warring with different factions .', None, None, None, 1), ("I could n't imagine living in that environment .", None, None, None, 1)]]
+Leaf:  N Explanation It 's sad that this was based on a human error .
+Leaf:  N Elaborate So much death
+Leaf:  S span associated with the war
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit constantly happening .
+Inner:  N Temporal None Same-Unit NN
+Leaf:  N Elaborate Then you have an incident
+Leaf:  S span that is legitimately an accident .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation It 's hard to feel for them
+Leaf:  S span since they are always fighting anyway .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation I mean any human death is bad ,
+Leaf:  S span but that seems to be their way of life . Always warring with different factions .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I could n't imagine living in that environment .
+Inner:  N Temporal None Evaluation NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Explanation NS
+[("It 's sad that this was based on a human error .", None, None, None, 1), ('So much death', None, None, None, 0), ('associated with the war', None, None, None, 0), ('constantly happening .', None, None, None, 1), ('Then you have an incident', None, None, None, 0), ('that is legitimately an accident .', None, None, None, 1), ("It 's hard to feel for them", None, None, None, 0), ('since they are always fighting anyway .', None, None, None, 1), ('I mean any human death is bad ,', None, None, None, 0), ('but that seems to be their way of life . Always warring with different factions .', None, None, None, 1), ("I could n't imagine living in that environment .", None, None, None, 1)]

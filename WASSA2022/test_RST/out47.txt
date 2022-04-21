@@ -1,0 +1,25 @@
+=====================> [[('This is sickening .', None, None, None, 1), ("It 's disgusting that a bunch of white people came after people", None, None, None, 0), ('who were protesting against Trump .', None, None, None, 1), ('People legally have a right', None, None, None, 0), ('to protest', None, None, None, 0), ('so', None, None, None, 0), ('for them to spit on , yell at ,', None, None, None, 0), ('and throw fireworks at them', None, None, None, 0), ('is appalling .', None, None, None, 1), ('Someone could have gotten very injured or burned .', None, None, None, 1), ("It 's sad that there 's such a divide", None, None, None, 0), ("and there 's so much violence .", None, None, None, 1)]]
+Leaf:  N Summary This is sickening .
+Leaf:  N Elaborate It 's disgusting that a bunch of white people came after people
+Leaf:  S span who were protesting against Trump .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate People legally have a right
+Leaf:  S span to protest
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast so
+Inner:  N Same-Unit None Contrast SN
+Leaf:  N Joint for them to spit on , yell at ,
+Leaf:  N Joint and throw fireworks at them
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit is appalling .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Someone could have gotten very injured or burned .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint It 's sad that there 's such a divide
+Leaf:  N Joint and there 's so much violence .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This is sickening .', None, None, None, 1), ("It 's disgusting that a bunch of white people came after people", None, None, None, 0), ('who were protesting against Trump .', None, None, None, 1), ('People legally have a right', None, None, None, 0), ('to protest', None, None, None, 0), ('so', None, None, None, 0), ('for them to spit on , yell at ,', None, None, None, 0), ('and throw fireworks at them', None, None, None, 0), ('is appalling .', None, None, None, 1), ('Someone could have gotten very injured or burned .', None, None, None, 1), ("It 's sad that there 's such a divide", None, None, None, 0), ("and there 's so much violence .", None, None, None, 1)]

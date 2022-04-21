@@ -1,0 +1,17 @@
+=====================> [[('it is quite horrible that japanese women or at least women period in japan are being so controlled', None, None, None, 0), ('that they cant even put makeup on', None, None, None, 0), ('while on the train .', None, None, None, 1), ('you would think', None, None, None, 0), ('a professional business would know to have better etiquette', None, None, None, 0), ('when dealing with their customers directly .', None, None, None, 1), ('people in japan are mad not about the makeup but about the fact', None, None, None, 0), ('that women are being oppressed in japan .', None, None, None, 1)]]
+Leaf:  N Cause it is quite horrible that japanese women or at least women period in japan are being so controlled
+Leaf:  N Temporal that they cant even put makeup on
+Leaf:  S span while on the train .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Cause NS
+Leaf:  S span you would think
+Leaf:  N Background a professional business would know to have better etiquette
+Leaf:  S span when dealing with their customers directly .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate people in japan are mad not about the makeup but about the fact
+Leaf:  S span that women are being oppressed in japan .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('it is quite horrible that japanese women or at least women period in japan are being so controlled', None, None, None, 0), ('that they cant even put makeup on', None, None, None, 0), ('while on the train .', None, None, None, 1), ('you would think', None, None, None, 0), ('a professional business would know to have better etiquette', None, None, None, 0), ('when dealing with their customers directly .', None, None, None, 1), ('people in japan are mad not about the makeup but about the fact', None, None, None, 0), ('that women are being oppressed in japan .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('This article discussed pollution from both cows and cars .', None, None, None, 1), ('I feel worried', None, None, None, 0), ('after reading it', None, None, None, 0), ('because so many sources of pollution exist today', None, None, None, 0), ('and there dont seem to be many good solutions', None, None, None, 0), ('to begin repairing the earth .', None, None, None, 1), ('Farming produces methane gases ,', None, None, None, 0), ('and cars create pollution from carbon .', None, None, None, 1), ('Both are essential to our lives .', None, None, None, 1)]]
+Leaf:  N Evaluation This article discussed pollution from both cows and cars .
+Leaf:  N Temporal I feel worried
+Leaf:  S span after reading it
+Inner:  N Explanation None Temporal NS
+Leaf:  N Joint because so many sources of pollution exist today
+Leaf:  N Elaborate and there dont seem to be many good solutions
+Leaf:  S span to begin repairing the earth .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Farming produces methane gases ,
+Leaf:  N Joint and cars create pollution from carbon .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Both are essential to our lives .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This article discussed pollution from both cows and cars .', None, None, None, 1), ('I feel worried', None, None, None, 0), ('after reading it', None, None, None, 0), ('because so many sources of pollution exist today', None, None, None, 0), ('and there dont seem to be many good solutions', None, None, None, 0), ('to begin repairing the earth .', None, None, None, 1), ('Farming produces methane gases ,', None, None, None, 0), ('and cars create pollution from carbon .', None, None, None, 1), ('Both are essential to our lives .', None, None, None, 1)]

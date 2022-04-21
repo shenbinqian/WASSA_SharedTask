@@ -1,0 +1,23 @@
+=====================> [[('So there are these flesh-eating bacteria', None, None, None, 0), ('that kills 25 percent of people .', None, None, None, 1), ('You can be enjoying your day', None, None, None, 0), ('and you can go some time', None, None, None, 0), ('without knowing what is attacking you .', None, None, None, 1), ('We have to be more vigilant with our bodies', None, None, None, 0), ('and get tested', None, None, None, 0), ('in order to prevent such things to happen to us .', None, None, None, 1), ('It could be scary thinking', None, None, None, 0), ("you 're okay", None, None, None, 0), ('but you can be under attack by such a bacteria .', None, None, None, 1)]]
+Leaf:  N Elaborate So there are these flesh-eating bacteria
+Leaf:  S span that kills 25 percent of people .
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Joint You can be enjoying your day
+Leaf:  N Background and you can go some time
+Leaf:  S span without knowing what is attacking you .
+Inner:  N Joint None Background NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint We have to be more vigilant with our bodies
+Leaf:  N Joint and get tested
+Inner:  N Enablement None Joint NN
+Leaf:  S span in order to prevent such things to happen to us .
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span It could be scary thinking
+Leaf:  N Contrast you 're okay
+Leaf:  N Contrast but you can be under attack by such a bacteria .
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[('So there are these flesh-eating bacteria', None, None, None, 0), ('that kills 25 percent of people .', None, None, None, 1), ('You can be enjoying your day', None, None, None, 0), ('and you can go some time', None, None, None, 0), ('without knowing what is attacking you .', None, None, None, 1), ('We have to be more vigilant with our bodies', None, None, None, 0), ('and get tested', None, None, None, 0), ('in order to prevent such things to happen to us .', None, None, None, 1), ('It could be scary thinking', None, None, None, 0), ("you 're okay", None, None, None, 0), ('but you can be under attack by such a bacteria .', None, None, None, 1)]

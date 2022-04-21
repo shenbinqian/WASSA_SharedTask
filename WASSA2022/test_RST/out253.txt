@@ -1,0 +1,25 @@
+=====================> [[("It 's almost laughable that this country ,", None, None, None, 0), ('who does its very best to close its borders ,', None, None, None, 0), ('suddenly needs help from the rest of the world .', None, None, None, 1), ('They are known for keeping their citizens in the dark', None, None, None, 0), ('about how the rest of the world functions , yet their government know', None, None, None, 0), ('that most countries are willing to aid those in need .', None, None, None, 1), ('I really do feel bad for the people', None, None, None, 0), ('affected by the flooding ,', None, None, None, 0), ("it must be a horrible experience . But I 'm disgusted by the government", None, None, None, 0), ('who will accept aid ,', None, None, None, 0), ('then continue to test weapons', None, None, None, 0), ('and flaunt their military presence .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's almost laughable that this country ,
+Leaf:  S span who does its very best to close its borders ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit suddenly needs help from the rest of the world .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate They are known for keeping their citizens in the dark
+Leaf:  S span about how the rest of the world functions , yet their government know
+Leaf:  N Attribution that most countries are willing to aid those in need .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I really do feel bad for the people
+Leaf:  S span affected by the flooding ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate it must be a horrible experience . But I 'm disgusted by the government
+Leaf:  N Temporal who will accept aid ,
+Leaf:  N Joint then continue to test weapons
+Leaf:  N Joint and flaunt their military presence .
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("It 's almost laughable that this country ,", None, None, None, 0), ('who does its very best to close its borders ,', None, None, None, 0), ('suddenly needs help from the rest of the world .', None, None, None, 1), ('They are known for keeping their citizens in the dark', None, None, None, 0), ('about how the rest of the world functions , yet their government know', None, None, None, 0), ('that most countries are willing to aid those in need .', None, None, None, 1), ('I really do feel bad for the people', None, None, None, 0), ('affected by the flooding ,', None, None, None, 0), ("it must be a horrible experience . But I 'm disgusted by the government", None, None, None, 0), ('who will accept aid ,', None, None, None, 0), ('then continue to test weapons', None, None, None, 0), ('and flaunt their military presence .', None, None, None, 1)]

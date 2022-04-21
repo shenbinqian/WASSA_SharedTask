@@ -1,0 +1,21 @@
+=====================> [[('This article ,', None, None, None, 0), ('which was clearly untrue and biased against President Trump ,', None, None, None, 0), ('detailed increases of hate crimes against various minorities .', None, None, None, 1), ('I feel', None, None, None, 0), ('like journalism of this type serves to misinform the public', None, None, None, 0), ('by making false statements', None, None, None, 0), ('accusing the President of racism and other untrue things .', None, None, None, 1), ('I feel badly for him', None, None, None, 0), ('and wish', None, None, None, 0), ('that journalistic integrity was still a thing in 2019 .', None, None, None, 1)]]
+Leaf:  N Elaborate This article ,
+Leaf:  S span which was clearly untrue and biased against President Trump ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit detailed increases of hate crimes against various minorities .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I feel
+Leaf:  N Manner-Means like journalism of this type serves to misinform the public
+Leaf:  N Elaborate by making false statements
+Leaf:  S span accusing the President of racism and other untrue things .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint I feel badly for him
+Leaf:  S span and wish
+Leaf:  N Attribution that journalistic integrity was still a thing in 2019 .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This article ,', None, None, None, 0), ('which was clearly untrue and biased against President Trump ,', None, None, None, 0), ('detailed increases of hate crimes against various minorities .', None, None, None, 1), ('I feel', None, None, None, 0), ('like journalism of this type serves to misinform the public', None, None, None, 0), ('by making false statements', None, None, None, 0), ('accusing the President of racism and other untrue things .', None, None, None, 1), ('I feel badly for him', None, None, None, 0), ('and wish', None, None, None, 0), ('that journalistic integrity was still a thing in 2019 .', None, None, None, 1)]

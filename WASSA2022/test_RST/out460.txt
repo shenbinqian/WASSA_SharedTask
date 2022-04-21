@@ -1,0 +1,37 @@
+=====================> [[('I am just so alarmed', None, None, None, 0), ('that you would even bring up abortion !', None, None, None, 1), ('Do you not realize', None, None, None, 0), ('that is murder .', None, None, None, 1), ('The bible clearly states', None, None, None, 0), ('that God knew you', None, None, None, 0), ('BEFORE you were in the womb .', None, None, None, 1), ('Save the whales', None, None, None, 0), ('but kill the babies !', None, None, None, 1), ('Now we have talked about abortion up to birth .', None, None, None, 1), ('What is wrong with people ??', None, None, None, 1), ('I hope trump', None, None, None, 0), ('makes all abortion illegal !', None, None, None, 1), ("If people do n't want babies", None, None, None, 0), ('let them stop being so lazy', None, None, None, 0), ('and get on birth control .', None, None, None, 1), ('You talk about the IUD', None, None, None, 0), ('but there are many cheaper form of birth control out there !', None, None, None, 1)]]
+Leaf:  S span I am just so alarmed
+Leaf:  N Attribution that you would even bring up abortion !
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Do you not realize
+Leaf:  N Attribution that is murder .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span The bible clearly states
+Leaf:  N Background that God knew you
+Leaf:  S span BEFORE you were in the womb .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Explanation NS
+Leaf:  N Contrast Save the whales
+Leaf:  N Contrast but kill the babies !
+Inner:  N Joint None Contrast NN
+Inner:  S span None Joint NN
+Leaf:  N Evaluation Now we have talked about abortion up to birth .
+Leaf:  N Evaluation What is wrong with people ??
+Leaf:  N Same-Unit I hope trump
+Leaf:  N Same-Unit makes all abortion illegal !
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Summary None Evaluation NS
+Inner:  N Evaluation None Summary SN
+Leaf:  S span If people do n't want babies
+Leaf:  N Joint let them stop being so lazy
+Leaf:  N Joint and get on birth control .
+Inner:  N Condition None Joint NN
+Inner:  N Elaborate None Condition SN
+Leaf:  N Contrast You talk about the IUD
+Leaf:  S span but there are many cheaper form of birth control out there !
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I am just so alarmed', None, None, None, 0), ('that you would even bring up abortion !', None, None, None, 1), ('Do you not realize', None, None, None, 0), ('that is murder .', None, None, None, 1), ('The bible clearly states', None, None, None, 0), ('that God knew you', None, None, None, 0), ('BEFORE you were in the womb .', None, None, None, 1), ('Save the whales', None, None, None, 0), ('but kill the babies !', None, None, None, 1), ('Now we have talked about abortion up to birth .', None, None, None, 1), ('What is wrong with people ??', None, None, None, 1), ('I hope trump', None, None, None, 0), ('makes all abortion illegal !', None, None, None, 1), ("If people do n't want babies", None, None, None, 0), ('let them stop being so lazy', None, None, None, 0), ('and get on birth control .', None, None, None, 1), ('You talk about the IUD', None, None, None, 0), ('but there are many cheaper form of birth control out there !', None, None, None, 1)]

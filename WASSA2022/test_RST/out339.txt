@@ -1,0 +1,19 @@
+=====================> [[('I am just not sure', None, None, None, 0), ('why protests have to be like this always now .', None, None, None, 1), ('They always lead to violence', None, None, None, 0), ('and people have just forgotten how to talk to people now', None, None, None, 0), ('and going forward .', None, None, None, 1), ('No one wants to talk to the other side', None, None, None, 0), ('and would be better off to just fight them instead', None, None, None, 0), ('and hurt people .', None, None, None, 1), ('Its hard hearing about something like that', None, None, None, 0)]]
+Leaf:  S span I am just not sure
+Leaf:  N Attribution why protests have to be like this always now .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint They always lead to violence
+Leaf:  N Same-Unit and people have just forgotten how to talk to people now
+Leaf:  N Same-Unit and going forward .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint No one wants to talk to the other side
+Leaf:  N Joint and would be better off to just fight them instead
+Leaf:  N Joint and hurt people .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Its hard hearing about something like that
+Inner:  Root None None Evaluation NS
+[('I am just not sure', None, None, None, 0), ('why protests have to be like this always now .', None, None, None, 1), ('They always lead to violence', None, None, None, 0), ('and people have just forgotten how to talk to people now', None, None, None, 0), ('and going forward .', None, None, None, 1), ('No one wants to talk to the other side', None, None, None, 0), ('and would be better off to just fight them instead', None, None, None, 0), ('and hurt people .', None, None, None, 1), ('Its hard hearing about something like that', None, None, None, 0)]

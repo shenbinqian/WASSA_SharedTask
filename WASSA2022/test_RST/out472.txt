@@ -1,0 +1,17 @@
+=====================> [[('A family of two adults and three children have lost their home in Illinois state', None, None, None, 0), ('after a fierce fire raged their house', None, None, None, 0), ('killing', None, None, None, 0), ('their two loved cat pets .', None, None, None, 1), ('although there were no injuries', None, None, None, 0), ('reported apart from the fire department spokesman', None, None, None, 0), ('have confirmed the incident', None, None, None, 0), ('that occurred just 500 blocks from the department .', None, None, None, 1)]]
+Leaf:  N Cause A family of two adults and three children have lost their home in Illinois state
+Leaf:  N Cause after a fierce fire raged their house
+Leaf:  N Manner-Means killing
+Leaf:  S span their two loved cat pets .
+Inner:  S span None Manner-Means NS
+Inner:  S span None Cause NS
+Inner:  N Same-Unit None Cause NS
+Leaf:  N Elaborate although there were no injuries
+Leaf:  S span reported apart from the fire department spokesman
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate have confirmed the incident
+Leaf:  S span that occurred just 500 blocks from the department .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  Root None None Same-Unit NN
+[('A family of two adults and three children have lost their home in Illinois state', None, None, None, 0), ('after a fierce fire raged their house', None, None, None, 0), ('killing', None, None, None, 0), ('their two loved cat pets .', None, None, None, 1), ('although there were no injuries', None, None, None, 0), ('reported apart from the fire department spokesman', None, None, None, 0), ('have confirmed the incident', None, None, None, 0), ('that occurred just 500 blocks from the department .', None, None, None, 1)]

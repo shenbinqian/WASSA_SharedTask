@@ -1,0 +1,37 @@
+=====================> [[('These freaking klanspeople were on the fringe of society ,', None, None, None, 0), ('they still are .', None, None, None, 1), ('But here is the media giving them coverage', None, None, None, 0), ('and empowering them .', None, None, None, 1), ('The lies of the media', None, None, None, 0), ('trying to link the klan and white supremist to trump', None, None, None, 0), ('is why this is becoming an ever increasing problem . These people were outcasts and damn near dead as a group', None, None, None, 0), ('but the media empowered them', None, None, None, 0), ('by giving them hope and a platform', None, None, None, 0), ('to speak their hate .', None, None, None, 1), ('How many show up to a klan gathering , 20 , 30 people ?', None, None, None, 1), ('these groups are so marginalized', None, None, None, 0), ('they were laughed at just a few years ago .', None, None, None, 1), ("Quite frankly it does n't matter what trump says about these people", None, None, None, 0), ('the media will still try to run the narrative', None, None, None, 0), ('that he is racist . But while doing that they give these cretins a platform', None, None, None, 0), ('and make them appear stronger', None, None, None, 0), ('than what they are .', None, None, None, 1)]]
+Leaf:  N Evaluation These freaking klanspeople were on the fringe of society ,
+Leaf:  N Evaluation they still are .
+Inner:  S span None Evaluation NN
+Leaf:  N Joint But here is the media giving them coverage
+Leaf:  N Joint and empowering them .
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate The lies of the media
+Leaf:  S span trying to link the klan and white supremist to trump
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is why this is becoming an ever increasing problem . These people were outcasts and damn near dead as a group
+Inner:  S span None Same-Unit NN
+Leaf:  N Manner-Means but the media empowered them
+Leaf:  N Elaborate by giving them hope and a platform
+Leaf:  S span to speak their hate .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Manner-Means NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span How many show up to a klan gathering , 20 , 30 people ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause these groups are so marginalized
+Leaf:  S span they were laughed at just a few years ago .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Quite frankly it does n't matter what trump says about these people
+Leaf:  N Elaborate the media will still try to run the narrative
+Leaf:  N Joint that he is racist . But while doing that they give these cretins a platform
+Leaf:  N Comparison and make them appear stronger
+Leaf:  S span than what they are .
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('These freaking klanspeople were on the fringe of society ,', None, None, None, 0), ('they still are .', None, None, None, 1), ('But here is the media giving them coverage', None, None, None, 0), ('and empowering them .', None, None, None, 1), ('The lies of the media', None, None, None, 0), ('trying to link the klan and white supremist to trump', None, None, None, 0), ('is why this is becoming an ever increasing problem . These people were outcasts and damn near dead as a group', None, None, None, 0), ('but the media empowered them', None, None, None, 0), ('by giving them hope and a platform', None, None, None, 0), ('to speak their hate .', None, None, None, 1), ('How many show up to a klan gathering , 20 , 30 people ?', None, None, None, 1), ('these groups are so marginalized', None, None, None, 0), ('they were laughed at just a few years ago .', None, None, None, 1), ("Quite frankly it does n't matter what trump says about these people", None, None, None, 0), ('the media will still try to run the narrative', None, None, None, 0), ('that he is racist . But while doing that they give these cretins a platform', None, None, None, 0), ('and make them appear stronger', None, None, None, 0), ('than what they are .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('There was a Trump protest', None, None, None, 0), ('that resulted in SWAT teams', None, None, None, 0), ('coming in', None, None, None, 0), ('( or maybe it was the police )', None, None, None, 0), ('and trying to contain the protest', None, None, None, 0), ('and to keep it from getting out of hand .', None, None, None, 1), ('There were fires being set and general loud mobs and disturbances .', None, None, None, 1), ('This happened in Oakland ,', None, None, None, 0), ("which I know has seen it 's fair share of riots and protests . From the article , it does n't seem as though anyone was hurt , killed ,", None, None, None, 0), ("or that there was too much property damage . They really did n't go into too much detail", None, None, None, 0), ('about what the protest was about either . I can definitely sympathize with the desire to protest against his policies ,', None, None, None, 0), ('but I think', None, None, None, 0), ('that a violent protest on the part of the public sends the wrong image and message to the other side .', None, None, None, 1), ("They 'll just say", None, None, None, 0), ('that the protesters are unruly , lawless ,', None, None, None, 0), ('and they need to keep themselves', None, None, None, 0)]]
+Leaf:  N Elaborate There was a Trump protest
+Leaf:  N Elaborate that resulted in SWAT teams
+Leaf:  N Elaborate coming in
+Leaf:  S span ( or maybe it was the police )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint and trying to contain the protest
+Leaf:  N Joint and to keep it from getting out of hand .
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint There were fires being set and general loud mobs and disturbances .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate This happened in Oakland ,
+Leaf:  N Joint which I know has seen it 's fair share of riots and protests . From the article , it does n't seem as though anyone was hurt , killed ,
+Leaf:  N Elaborate or that there was too much property damage . They really did n't go into too much detail
+Leaf:  S span about what the protest was about either . I can definitely sympathize with the desire to protest against his policies ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  S span but I think
+Leaf:  N Attribution that a violent protest on the part of the public sends the wrong image and message to the other side .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span They 'll just say
+Leaf:  N Joint that the protesters are unruly , lawless ,
+Leaf:  N Joint and they need to keep themselves
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There was a Trump protest', None, None, None, 0), ('that resulted in SWAT teams', None, None, None, 0), ('coming in', None, None, None, 0), ('( or maybe it was the police )', None, None, None, 0), ('and trying to contain the protest', None, None, None, 0), ('and to keep it from getting out of hand .', None, None, None, 1), ('There were fires being set and general loud mobs and disturbances .', None, None, None, 1), ('This happened in Oakland ,', None, None, None, 0), ("which I know has seen it 's fair share of riots and protests . From the article , it does n't seem as though anyone was hurt , killed ,", None, None, None, 0), ("or that there was too much property damage . They really did n't go into too much detail", None, None, None, 0), ('about what the protest was about either . I can definitely sympathize with the desire to protest against his policies ,', None, None, None, 0), ('but I think', None, None, None, 0), ('that a violent protest on the part of the public sends the wrong image and message to the other side .', None, None, None, 1), ("They 'll just say", None, None, None, 0), ('that the protesters are unruly , lawless ,', None, None, None, 0), ('and they need to keep themselves', None, None, None, 0)]

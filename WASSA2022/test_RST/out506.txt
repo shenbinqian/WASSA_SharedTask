@@ -1,0 +1,25 @@
+=====================> [[('There is a terrible situation', None, None, None, 0), ('where poor people can not afford public transportation ,', None, None, None, 0), ('yet riding a bike is very dangerous', None, None, None, 0), ("even though it 's free . The government faces a lot of problems ,", None, None, None, 0), ('and there are a lot of poor people', None, None, None, 0), ('that just want jobs .', None, None, None, 1), ('If they allocate money towards bike lanes ,', None, None, None, 0), ('it only helps a little bit right away ,', None, None, None, 0), ("because people do n't know what they are or how to use them .", None, None, None, 1), ('It will take a lot of time for this to be beneficial for a small amount of people .', None, None, None, 1), ('Making public transportation cheaper and safer should be a high priority .', None, None, None, 1), ("Problems this big take a lot of empathy , and strong leadership . It 's hard to find one person with those qualities .", None, None, None, 1)]]
+Leaf:  N Elaborate There is a terrible situation
+Leaf:  S span where poor people can not afford public transportation ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast yet riding a bike is very dangerous
+Leaf:  S span even though it 's free . The government faces a lot of problems ,
+Inner:  N Joint None Contrast NS
+Leaf:  N Elaborate and there are a lot of poor people
+Leaf:  S span that just want jobs .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span If they allocate money towards bike lanes ,
+Leaf:  N Cause it only helps a little bit right away ,
+Leaf:  S span because people do n't know what they are or how to use them .
+Inner:  N Condition None Cause NS
+Inner:  N Elaborate None Condition SN
+Leaf:  S span It will take a lot of time for this to be beneficial for a small amount of people .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Making public transportation cheaper and safer should be a high priority .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Problems this big take a lot of empathy , and strong leadership . It 's hard to find one person with those qualities .
+Inner:  Root None None Evaluation NS
+[('There is a terrible situation', None, None, None, 0), ('where poor people can not afford public transportation ,', None, None, None, 0), ('yet riding a bike is very dangerous', None, None, None, 0), ("even though it 's free . The government faces a lot of problems ,", None, None, None, 0), ('and there are a lot of poor people', None, None, None, 0), ('that just want jobs .', None, None, None, 1), ('If they allocate money towards bike lanes ,', None, None, None, 0), ('it only helps a little bit right away ,', None, None, None, 0), ("because people do n't know what they are or how to use them .", None, None, None, 1), ('It will take a lot of time for this to be beneficial for a small amount of people .', None, None, None, 1), ('Making public transportation cheaper and safer should be a high priority .', None, None, None, 1), ("Problems this big take a lot of empathy , and strong leadership . It 's hard to find one person with those qualities .", None, None, None, 1)]

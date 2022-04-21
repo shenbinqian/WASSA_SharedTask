@@ -1,0 +1,19 @@
+=====================> [[('For some reason a school held a mock election .', None, None, None, 1), ('I feel', None, None, None, 0), ('the school made a awful mistake', None, None, None, 0), ('because politics are so polarized these days .', None, None, None, 1), ('I found it extremely odd and and almost unbelievable a person would do that to her child over a meaningless school vote .', None, None, None, 1), ('I hope', None, None, None, 0), ('if anything abusive happened', None, None, None, 0), ('that the mother goes to get mental help .', None, None, None, 1), ('It is unacceptable .', None, None, None, 1)]]
+Leaf:  N Evaluation For some reason a school held a mock election .
+Leaf:  S span I feel
+Leaf:  N Cause the school made a awful mistake
+Leaf:  S span because politics are so polarized these days .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I found it extremely odd and and almost unbelievable a person would do that to her child over a meaningless school vote .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  S span if anything abusive happened
+Leaf:  N Condition that the mother goes to get mental help .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It is unacceptable .
+Inner:  Root None None Evaluation NS
+[('For some reason a school held a mock election .', None, None, None, 1), ('I feel', None, None, None, 0), ('the school made a awful mistake', None, None, None, 0), ('because politics are so polarized these days .', None, None, None, 1), ('I found it extremely odd and and almost unbelievable a person would do that to her child over a meaningless school vote .', None, None, None, 1), ('I hope', None, None, None, 0), ('if anything abusive happened', None, None, None, 0), ('that the mother goes to get mental help .', None, None, None, 1), ('It is unacceptable .', None, None, None, 1)]

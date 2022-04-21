@@ -1,0 +1,33 @@
+=====================> [[('I just read an article about an infant', None, None, None, 0), ('who was left on a random doorstep .', None, None, None, 1), ('A 14 year old boy found the infant inside a shoe box .', None, None, None, 1), ('They took the baby to a hospital .', None, None, None, 1), ('The baby is in good health .', None, None, None, 1), ('There was a number at the end of the article for people', None, None, None, 0), ("to call if they know anything about the baby . I 'm sure they have some serious questions for the mother of the baby . Whoever she was ,", None, None, None, 0), ('she seemed to have selected the doorstep with care . Can you imagine if the baby had been left somewhere isolated ?', None, None, None, 1), ('How awful if the newborn had simply been left', None, None, None, 0), ('where no one could care for it . So ,', None, None, None, 0), ('while it is pretty scary ,', None, None, None, 0), ("this story turned at as well as it could in the circumstances . Did you hear anything about this ? I 'm going to look online", None, None, None, 0), ('and see', None, None, None, 0), ('if I can find any information', None, None, None, 0), ('about how the baby is doing', None, None, None, 0), ('and if they', None, None, None, 0)]]
+Leaf:  N Elaborate I just read an article about an infant
+Leaf:  S span who was left on a random doorstep .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal A 14 year old boy found the infant inside a shoe box .
+Leaf:  N Temporal They took the baby to a hospital .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The baby is in good health .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There was a number at the end of the article for people
+Leaf:  S span to call if they know anything about the baby . I 'm sure they have some serious questions for the mother of the baby . Whoever she was ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate she seemed to have selected the doorstep with care . Can you imagine if the baby had been left somewhere isolated ?
+Inner:  S span None Elaborate SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate How awful if the newborn had simply been left
+Leaf:  S span where no one could care for it . So ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span while it is pretty scary ,
+Leaf:  N Joint this story turned at as well as it could in the circumstances . Did you hear anything about this ? I 'm going to look online
+Leaf:  S span and see
+Leaf:  N Elaborate if I can find any information
+Leaf:  N Joint about how the baby is doing
+Leaf:  N Joint and if they
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('I just read an article about an infant', None, None, None, 0), ('who was left on a random doorstep .', None, None, None, 1), ('A 14 year old boy found the infant inside a shoe box .', None, None, None, 1), ('They took the baby to a hospital .', None, None, None, 1), ('The baby is in good health .', None, None, None, 1), ('There was a number at the end of the article for people', None, None, None, 0), ("to call if they know anything about the baby . I 'm sure they have some serious questions for the mother of the baby . Whoever she was ,", None, None, None, 0), ('she seemed to have selected the doorstep with care . Can you imagine if the baby had been left somewhere isolated ?', None, None, None, 1), ('How awful if the newborn had simply been left', None, None, None, 0), ('where no one could care for it . So ,', None, None, None, 0), ('while it is pretty scary ,', None, None, None, 0), ("this story turned at as well as it could in the circumstances . Did you hear anything about this ? I 'm going to look online", None, None, None, 0), ('and see', None, None, None, 0), ('if I can find any information', None, None, None, 0), ('about how the baby is doing', None, None, None, 0), ('and if they', None, None, None, 0)]

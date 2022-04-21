@@ -1,0 +1,19 @@
+=====================> [[('Yikes .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("there 's actually a guy like this out here .", None, None, None, 1), ('I hope', None, None, None, 0), ("his name was n't actually seriously considered for the position .", None, None, None, 1), ('This sounds like something', None, None, None, 0), ('the media would attribute to Trump ,', None, None, None, 0), ('to slander his name a little more .', None, None, None, 1), ("It 's pretty shocking that some powerful guy in our country actually wants to create laws similar to the freakin middle east .", None, None, None, 1)]]
+Leaf:  N Summary Yikes .
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution there 's actually a guy like this out here .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution his name was n't actually seriously considered for the position .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate This sounds like something
+Leaf:  S span the media would attribute to Trump ,
+Inner:  N Cause None Elaborate NS
+Leaf:  S span to slander his name a little more .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It 's pretty shocking that some powerful guy in our country actually wants to create laws similar to the freakin middle east .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Yikes .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("there 's actually a guy like this out here .", None, None, None, 1), ('I hope', None, None, None, 0), ("his name was n't actually seriously considered for the position .", None, None, None, 1), ('This sounds like something', None, None, None, 0), ('the media would attribute to Trump ,', None, None, None, 0), ('to slander his name a little more .', None, None, None, 1), ("It 's pretty shocking that some powerful guy in our country actually wants to create laws similar to the freakin middle east .", None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Did you hear about the man in India', None, None, None, 0), ('who was bit by a python recently ?', None, None, None, 1), ('He was taking a selfie with it', None, None, None, 0), ('and not paying attention .', None, None, None, 1), ('While I generally am very sympathetic', None, None, None, 0), ("and I certainly do n't want to see anyone hurt ,", None, None, None, 0), ('what was he thinking ?', None, None, None, 1), ('He should have never taken his eyes off of the snake .', None, None, None, 1), ('Why was a picture that important ?', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about the man in India
+Leaf:  S span who was bit by a python recently ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal He was taking a selfie with it
+Leaf:  N Temporal and not paying attention .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint While I generally am very sympathetic
+Leaf:  N Joint and I certainly do n't want to see anyone hurt ,
+Inner:  S span None Joint NN
+Leaf:  N Contrast what was he thinking ?
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation He should have never taken his eyes off of the snake .
+Leaf:  S span Why was a picture that important ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Did you hear about the man in India', None, None, None, 0), ('who was bit by a python recently ?', None, None, None, 1), ('He was taking a selfie with it', None, None, None, 0), ('and not paying attention .', None, None, None, 1), ('While I generally am very sympathetic', None, None, None, 0), ("and I certainly do n't want to see anyone hurt ,", None, None, None, 0), ('what was he thinking ?', None, None, None, 1), ('He should have never taken his eyes off of the snake .', None, None, None, 1), ('Why was a picture that important ?', None, None, None, 1)]

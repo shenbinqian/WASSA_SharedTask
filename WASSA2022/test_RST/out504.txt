@@ -1,0 +1,25 @@
+=====================> [[('The article I read', None, None, None, 0), ('discussed a belief', None, None, None, 0), ('that sexism is becoming more prevalent in America .', None, None, None, 1), ('I feel', None, None, None, 0), ('that this is not the case .', None, None, None, 1), ('As a woman I am more respected', None, None, None, 0), ('and have more opportunities than ever before .', None, None, None, 1), ('I am extremely worried about the culture', None, None, None, 0), ("that surrounds movements such as ' me too '", None, None, None, 0), ('and what they mean for our sons', None, None, None, 0), ('growing up in a country', None, None, None, 0), ('where false accusations can quickly ruin lives .', None, None, None, 1)]]
+Leaf:  N Same-Unit The article I read
+Leaf:  N Elaborate discussed a belief
+Leaf:  S span that sexism is becoming more prevalent in America .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span I feel
+Leaf:  N Attribution that this is not the case .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint As a woman I am more respected
+Leaf:  N Joint and have more opportunities than ever before .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate I am extremely worried about the culture
+Leaf:  S span that surrounds movements such as ' me too '
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and what they mean for our sons
+Inner:  N Background None Same-Unit NN
+Leaf:  N Elaborate growing up in a country
+Leaf:  S span where false accusations can quickly ruin lives .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  Root None None Evaluation NS
+[('The article I read', None, None, None, 0), ('discussed a belief', None, None, None, 0), ('that sexism is becoming more prevalent in America .', None, None, None, 1), ('I feel', None, None, None, 0), ('that this is not the case .', None, None, None, 1), ('As a woman I am more respected', None, None, None, 0), ('and have more opportunities than ever before .', None, None, None, 1), ('I am extremely worried about the culture', None, None, None, 0), ("that surrounds movements such as ' me too '", None, None, None, 0), ('and what they mean for our sons', None, None, None, 0), ('growing up in a country', None, None, None, 0), ('where false accusations can quickly ruin lives .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('A man lost his daughter to a terrorist attack last year in Paris .', None, None, None, 1), ('I think', None, None, None, 0), ('the world is reaping a harvest of the escalated violence in film and television', None, None, None, 0), ('that the general public has been desensitized to .', None, None, None, 1), ('Also , violent video games contribute to this .', None, None, None, 1), ('Violence will continue to grow', None, None, None, 0), ('as the world continues to focus upon it .', None, None, None, 1)]]
+Leaf:  N Evaluation A man lost his daughter to a terrorist attack last year in Paris .
+Leaf:  S span I think
+Leaf:  N Elaborate the world is reaping a harvest of the escalated violence in film and television
+Leaf:  S span that the general public has been desensitized to .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation Also , violent video games contribute to this .
+Leaf:  N Background Violence will continue to grow
+Leaf:  S span as the world continues to focus upon it .
+Inner:  S span None Background NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('A man lost his daughter to a terrorist attack last year in Paris .', None, None, None, 1), ('I think', None, None, None, 0), ('the world is reaping a harvest of the escalated violence in film and television', None, None, None, 0), ('that the general public has been desensitized to .', None, None, None, 1), ('Also , violent video games contribute to this .', None, None, None, 1), ('Violence will continue to grow', None, None, None, 0), ('as the world continues to focus upon it .', None, None, None, 1)]

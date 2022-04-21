@@ -1,0 +1,27 @@
+=====================> [[("Hey X , it 's Y again .", None, None, None, 1), ('Just wanted to follow up with more communication about my feelings', None, None, None, 0), ('after having read an article .', None, None, None, 1), ('Mosquitoes are responsible for preventable deaths .', None, None, None, 1), ('What else is new ,', None, None, None, 0), ('I know ,', None, None, None, 0), ("right ? It 's Zika this time , a little better than Malaria I imagine ,", None, None, None, 0), ("but I ca n't say for sure", None, None, None, 0), ('having never experienced either .', None, None, None, 1), ('Supposedly there are measures', None, None, None, 0), ('which could prevent much of the problems through immunization ,', None, None, None, 0), ('but we both know', None, None, None, 0), ('how receptive the world is to medicine these days .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey X , it 's Y again .
+Leaf:  N Temporal Just wanted to follow up with more communication about my feelings
+Leaf:  S span after having read an article .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Mosquitoes are responsible for preventable deaths .
+Leaf:  N Attribution What else is new ,
+Leaf:  S span I know ,
+Inner:  N Evaluation None Attribution NS
+Leaf:  N Contrast right ? It 's Zika this time , a little better than Malaria I imagine ,
+Leaf:  N Background but I ca n't say for sure
+Leaf:  S span having never experienced either .
+Inner:  S span None Background NS
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Supposedly there are measures
+Leaf:  S span which could prevent much of the problems through immunization ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but we both know
+Leaf:  N Attribution how receptive the world is to medicine these days .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  N Summary None Elaborate NS
+Inner:  S span None Summary SN
+Inner:  Root None None Elaborate NS
+[("Hey X , it 's Y again .", None, None, None, 1), ('Just wanted to follow up with more communication about my feelings', None, None, None, 0), ('after having read an article .', None, None, None, 1), ('Mosquitoes are responsible for preventable deaths .', None, None, None, 1), ('What else is new ,', None, None, None, 0), ('I know ,', None, None, None, 0), ("right ? It 's Zika this time , a little better than Malaria I imagine ,", None, None, None, 0), ("but I ca n't say for sure", None, None, None, 0), ('having never experienced either .', None, None, None, 1), ('Supposedly there are measures', None, None, None, 0), ('which could prevent much of the problems through immunization ,', None, None, None, 0), ('but we both know', None, None, None, 0), ('how receptive the world is to medicine these days .', None, None, None, 1)]

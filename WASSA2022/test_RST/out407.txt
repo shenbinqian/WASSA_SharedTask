@@ -1,0 +1,19 @@
+=====================> [[('Lmao wtf is happening here .', None, None, None, 1), ("Roving gangs of 30-50 feral children :') This is awful tho ,", None, None, None, 0), ('I hope', None, None, None, 0), ('that guy is okay .', None, None, None, 1), ('And maybe someone can help these kids figure out a better hobby or at least like , a good target next time .', None, None, None, 1), ("Chase Jeff Bezos or something y' all . Pls .", None, None, None, 1), ('This energy has a place', None, None, None, 0), ("and it 's not this one . Not a good look for the future lmao .", None, None, None, 1), ('What do you think ?', None, None, None, 1)]]
+Leaf:  N Elaborate Lmao wtf is happening here .
+Leaf:  S span Roving gangs of 30-50 feral children :') This is awful tho ,
+Leaf:  S span I hope
+Leaf:  N Attribution that guy is okay .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint And maybe someone can help these kids figure out a better hobby or at least like , a good target next time .
+Inner:  N Evaluation None Joint NN
+Inner:  N Elaborate None Evaluation SN
+Leaf:  S span Chase Jeff Bezos or something y' all . Pls .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint This energy has a place
+Leaf:  N Joint and it 's not this one . Not a good look for the future lmao .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span What do you think ?
+Inner:  Root None None Evaluation NS
+[('Lmao wtf is happening here .', None, None, None, 1), ("Roving gangs of 30-50 feral children :') This is awful tho ,", None, None, None, 0), ('I hope', None, None, None, 0), ('that guy is okay .', None, None, None, 1), ('And maybe someone can help these kids figure out a better hobby or at least like , a good target next time .', None, None, None, 1), ("Chase Jeff Bezos or something y' all . Pls .", None, None, None, 1), ('This energy has a place', None, None, None, 0), ("and it 's not this one . Not a good look for the future lmao .", None, None, None, 1), ('What do you think ?', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('And this is how bullying is online .', None, None, None, 1), ("That 's why I think", None, None, None, 0), ('these people should be found out .', None, None, None, 1), ("They should n't be allowed to hide behind faceless id 's", None, None, None, 0), ('and spew , especially , threats against other people .', None, None, None, 1), ("If they ca n't be charged with a crime ,", None, None, None, 0), ('then they should at least be shamed .', None, None, None, 1), ('People should see their faces and the comments', None, None, None, 0), ('they leave for others .', None, None, None, 1), ('Perhaps it would cause them to think twice', None, None, None, 0), ('before they make an asinine comment to a stranger .', None, None, None, 1)]]
+Leaf:  N Cause And this is how bullying is online .
+Leaf:  S span That 's why I think
+Leaf:  N Attribution these people should be found out .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Cause NS
+Leaf:  N Joint They should n't be allowed to hide behind faceless id 's
+Leaf:  N Joint and spew , especially , threats against other people .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span If they ca n't be charged with a crime ,
+Leaf:  N Condition then they should at least be shamed .
+Inner:  N Elaborate None Condition SN
+Leaf:  N Elaborate People should see their faces and the comments
+Leaf:  S span they leave for others .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal Perhaps it would cause them to think twice
+Leaf:  S span before they make an asinine comment to a stranger .
+Inner:  S span None Temporal NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('And this is how bullying is online .', None, None, None, 1), ("That 's why I think", None, None, None, 0), ('these people should be found out .', None, None, None, 1), ("They should n't be allowed to hide behind faceless id 's", None, None, None, 0), ('and spew , especially , threats against other people .', None, None, None, 1), ("If they ca n't be charged with a crime ,", None, None, None, 0), ('then they should at least be shamed .', None, None, None, 1), ('People should see their faces and the comments', None, None, None, 0), ('they leave for others .', None, None, None, 1), ('Perhaps it would cause them to think twice', None, None, None, 0), ('before they make an asinine comment to a stranger .', None, None, None, 1)]

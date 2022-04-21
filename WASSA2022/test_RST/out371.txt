@@ -1,0 +1,23 @@
+=====================> [[('Someone should do something about the oil crisis', None, None, None, 0), ('We need', None, None, None, 0), ('to protect our trees', None, None, None, 0), ("It 's going get cut down", None, None, None, 0), ('unless we do something', None, None, None, 0), ("it 's not right that the goverment wo n't do anything", None, None, None, 0), ('to protect our forest the one thing', None, None, None, 0), ('that gives us air', None, None, None, 0), ('without our forest', None, None, None, 0), ('we can die from not having breathable air.We', None, None, None, 0), ('the people have to stand up to these greedy corps .', None, None, None, 1)]]
+Leaf:  N Evaluation Someone should do something about the oil crisis
+Leaf:  N Enablement We need
+Leaf:  S span to protect our trees
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Leaf:  N Condition It 's going get cut down
+Leaf:  S span unless we do something
+Inner:  N Evaluation None Condition NS
+Leaf:  N Enablement it 's not right that the goverment wo n't do anything
+Leaf:  N Elaborate to protect our forest the one thing
+Leaf:  S span that gives us air
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Cause without our forest
+Leaf:  N Cause we can die from not having breathable air.We
+Inner:  N Same-Unit None Cause NN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Leaf:  N Condition the people have to stand up to these greedy corps .
+Inner:  N Evaluation None Condition SN
+Inner:  Root None None Evaluation SN
+[('Someone should do something about the oil crisis', None, None, None, 0), ('We need', None, None, None, 0), ('to protect our trees', None, None, None, 0), ("It 's going get cut down", None, None, None, 0), ('unless we do something', None, None, None, 0), ("it 's not right that the goverment wo n't do anything", None, None, None, 0), ('to protect our forest the one thing', None, None, None, 0), ('that gives us air', None, None, None, 0), ('without our forest', None, None, None, 0), ('we can die from not having breathable air.We', None, None, None, 0), ('the people have to stand up to these greedy corps .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('I was just reading an article about the coal industry in India', None, None, None, 0), ('and the effects', None, None, None, 0), ('it is having on the local population as well as the land and the local animal population .', None, None, None, 1), ('I did not know', None, None, None, 0), ('that coal was such a major industry in India', None, None, None, 0), ('and I think', None, None, None, 0), ('it sad', None, None, None, 0), ('that India is exploiting this industry at the direct cost of their community .', None, None, None, 1)]]
+Leaf:  N Elaborate I was just reading an article about the coal industry in India
+Leaf:  N Elaborate and the effects
+Leaf:  S span it is having on the local population as well as the land and the local animal population .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I did not know
+Leaf:  N Attribution that coal was such a major industry in India
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I think
+Leaf:  S span it sad
+Leaf:  N Attribution that India is exploiting this industry at the direct cost of their community .
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I was just reading an article about the coal industry in India', None, None, None, 0), ('and the effects', None, None, None, 0), ('it is having on the local population as well as the land and the local animal population .', None, None, None, 1), ('I did not know', None, None, None, 0), ('that coal was such a major industry in India', None, None, None, 0), ('and I think', None, None, None, 0), ('it sad', None, None, None, 0), ('that India is exploiting this industry at the direct cost of their community .', None, None, None, 1)]

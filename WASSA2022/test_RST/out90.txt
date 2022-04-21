@@ -1,0 +1,33 @@
+=====================> [[('Reading this article ,', None, None, None, 0), ('it looks like they want to destroy around 800 homes', None, None, None, 0), ('to expand Heathrow .', None, None, None, 1), ('As someone', None, None, None, 0), ('who has flown there a couple of times ,', None, None, None, 0), ("it 's probably needed ,", None, None, None, 0), ('but I wonder the effects on the economy', None, None, None, 0), ("that 'd have there .", None, None, None, 1), ("They 're already trying to blame Brexit ,", None, None, None, 0), ('which I think is hilarious ,', None, None, None, 0), ('anything', None, None, None, 0), ('these journos can do', None, None, None, 0), ('to trash on a democratic vote', None, None, None, 0), ("they do n't agree with ,", None, None, None, 0), ("they 'll do .", None, None, None, 1), ('There was so much political nonsense in that article it was so bad .', None, None, None, 1)]]
+Leaf:  S span Reading this article ,
+Leaf:  N Enablement it looks like they want to destroy around 800 homes
+Leaf:  S span to expand Heathrow .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate As someone
+Leaf:  S span who has flown there a couple of times ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background it 's probably needed ,
+Inner:  S span None Background SN
+Leaf:  N Elaborate but I wonder the effects on the economy
+Leaf:  S span that 'd have there .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation They 're already trying to blame Brexit ,
+Leaf:  S span which I think is hilarious ,
+Inner:  S span None Evaluation NS
+Leaf:  N Elaborate anything
+Leaf:  N Enablement these journos can do
+Leaf:  N Elaborate to trash on a democratic vote
+Leaf:  S span they do n't agree with ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Leaf:  N Condition they 'll do .
+Inner:  N Evaluation None Condition SN
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span There was so much political nonsense in that article it was so bad .
+Inner:  Root None None Evaluation NS
+[('Reading this article ,', None, None, None, 0), ('it looks like they want to destroy around 800 homes', None, None, None, 0), ('to expand Heathrow .', None, None, None, 1), ('As someone', None, None, None, 0), ('who has flown there a couple of times ,', None, None, None, 0), ("it 's probably needed ,", None, None, None, 0), ('but I wonder the effects on the economy', None, None, None, 0), ("that 'd have there .", None, None, None, 1), ("They 're already trying to blame Brexit ,", None, None, None, 0), ('which I think is hilarious ,', None, None, None, 0), ('anything', None, None, None, 0), ('these journos can do', None, None, None, 0), ('to trash on a democratic vote', None, None, None, 0), ("they do n't agree with ,", None, None, None, 0), ("they 'll do .", None, None, None, 1), ('There was so much political nonsense in that article it was so bad .', None, None, None, 1)]

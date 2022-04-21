@@ -1,0 +1,17 @@
+=====================> [[('There has always been upset and protest against Donald Trump election', None, None, None, 0), ('and I see it as an unaccepted event', None, None, None, 0), ("if protest were n't made.To show the feelings of the masses .", None, None, None, 1), ('President-elect Donald Trump had a lot of protester over 300', None, None, None, 0), ("if not God that 's shocking", None, None, None, 0), ('and I really wish', None, None, None, 0), ('we can have true democracy in America', None, None, None, 0), ('where the masses voice count not just the electorates', None, None, None, 0)]]
+Leaf:  N Evaluation There has always been upset and protest against Donald Trump election
+Leaf:  N Condition and I see it as an unaccepted event
+Leaf:  S span if protest were n't made.To show the feelings of the masses .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Comparison President-elect Donald Trump had a lot of protester over 300
+Leaf:  N Comparison if not God that 's shocking
+Inner:  N Joint None Comparison NN
+Leaf:  S span and I really wish
+Leaf:  N Elaborate we can have true democracy in America
+Leaf:  S span where the masses voice count not just the electorates
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('There has always been upset and protest against Donald Trump election', None, None, None, 0), ('and I see it as an unaccepted event', None, None, None, 0), ("if protest were n't made.To show the feelings of the masses .", None, None, None, 1), ('President-elect Donald Trump had a lot of protester over 300', None, None, None, 0), ("if not God that 's shocking", None, None, None, 0), ('and I really wish', None, None, None, 0), ('we can have true democracy in America', None, None, None, 0), ('where the masses voice count not just the electorates', None, None, None, 0)]

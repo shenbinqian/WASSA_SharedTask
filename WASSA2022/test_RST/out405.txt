@@ -1,0 +1,31 @@
+=====================> [[('It is so sad how Animals are treated .', None, None, None, 1), ('It is great the the Governments are starting to ban together', None, None, None, 0), ('to help them .', None, None, None, 1), ('It is so sad that people hunt them for fun ,', None, None, None, 0), ('take their skin', None, None, None, 0), ('and just use them in any way', None, None, None, 0), ('they see fit . People are more worried about making money', None, None, None, 0), ('then the affects they have on the animals .', None, None, None, 1), ('I know', None, None, None, 0), ('people have to fish etc', None, None, None, 0), ('but just really is sad how much harm it does for other animals not just the ones', None, None, None, 0), ('that are being caught like the fish , shrimp .', None, None, None, 1), ('I just wonder', None, None, None, 0), ('how many animals will be come extinct', None, None, None, 0), ('and that the world will lost .', None, None, None, 1)]]
+Leaf:  N Evaluation It is so sad how Animals are treated .
+Leaf:  N Enablement It is great the the Governments are starting to ban together
+Leaf:  S span to help them .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It is so sad that people hunt them for fun ,
+Leaf:  N Joint take their skin
+Leaf:  N Elaborate and just use them in any way
+Leaf:  S span they see fit . People are more worried about making money
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit then the affects they have on the animals .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know
+Leaf:  N Attribution people have to fish etc
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but just really is sad how much harm it does for other animals not just the ones
+Leaf:  S span that are being caught like the fish , shrimp .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I just wonder
+Leaf:  N Joint how many animals will be come extinct
+Leaf:  N Joint and that the world will lost .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is so sad how Animals are treated .', None, None, None, 1), ('It is great the the Governments are starting to ban together', None, None, None, 0), ('to help them .', None, None, None, 1), ('It is so sad that people hunt them for fun ,', None, None, None, 0), ('take their skin', None, None, None, 0), ('and just use them in any way', None, None, None, 0), ('they see fit . People are more worried about making money', None, None, None, 0), ('then the affects they have on the animals .', None, None, None, 1), ('I know', None, None, None, 0), ('people have to fish etc', None, None, None, 0), ('but just really is sad how much harm it does for other animals not just the ones', None, None, None, 0), ('that are being caught like the fish , shrimp .', None, None, None, 1), ('I just wonder', None, None, None, 0), ('how many animals will be come extinct', None, None, None, 0), ('and that the world will lost .', None, None, None, 1)]

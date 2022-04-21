@@ -1,0 +1,23 @@
+=====================> [[('Hey I think', None, None, None, 0), ('that it is unfair', None, None, None, 0), ('that they are trying to send this girl back to Afghanistan', None, None, None, 0), ('she is already in Pakistan .', None, None, None, 1), ('I think', None, None, None, 0), ('she should have been getting more money for that photograph', None, None, None, 0), ('I mean', None, None, None, 0), ('she was a famous face', None, None, None, 0), ('and that image was shared everywhere', None, None, None, 0), ('she should have been saved', None, None, None, 0), ('and taken back to they United States .', None, None, None, 1)]]
+Leaf:  S span Hey I think
+Leaf:  N Elaborate that it is unfair
+Leaf:  S span that they are trying to send this girl back to Afghanistan
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span she is already in Pakistan .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint she should have been getting more money for that photograph
+Leaf:  N Elaborate I mean
+Leaf:  N Joint she was a famous face
+Leaf:  N Joint and that image was shared everywhere
+Inner:  N Joint None Joint NN
+Leaf:  N Joint she should have been saved
+Leaf:  N Joint and taken back to they United States .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Hey I think', None, None, None, 0), ('that it is unfair', None, None, None, 0), ('that they are trying to send this girl back to Afghanistan', None, None, None, 0), ('she is already in Pakistan .', None, None, None, 1), ('I think', None, None, None, 0), ('she should have been getting more money for that photograph', None, None, None, 0), ('I mean', None, None, None, 0), ('she was a famous face', None, None, None, 0), ('and that image was shared everywhere', None, None, None, 0), ('she should have been saved', None, None, None, 0), ('and taken back to they United States .', None, None, None, 1)]

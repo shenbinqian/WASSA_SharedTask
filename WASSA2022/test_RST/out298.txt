@@ -1,0 +1,21 @@
+=====================> [[('What a sad hateful place the world is sometimes .', None, None, None, 1), ("It 's even sadder to think", None, None, None, 0), ('that this has been going on since civilization , basically.Really horrible that half the population has to endure this sort of oppression in a constant basis ,', None, None, None, 0), ('and it ; s so entrenched', None, None, None, 0), ('that we think', None, None, None, 0), ('its normal .', None, None, None, 1), ('I hope', None, None, None, 0), ('that people will see the light ,', None, None, None, 0), ('and learn to love ,', None, None, None, 0), ('but I get discouraged reading stuff like this .', None, None, None, 1)]]
+Leaf:  N Evaluation What a sad hateful place the world is sometimes .
+Leaf:  S span It 's even sadder to think
+Leaf:  N Attribution that this has been going on since civilization , basically.Really horrible that half the population has to endure this sort of oppression in a constant basis ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and it ; s so entrenched
+Inner:  N Cause None Joint NN
+Leaf:  S span that we think
+Leaf:  N Attribution its normal .
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Joint that people will see the light ,
+Leaf:  N Joint and learn to love ,
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I get discouraged reading stuff like this .
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('What a sad hateful place the world is sometimes .', None, None, None, 1), ("It 's even sadder to think", None, None, None, 0), ('that this has been going on since civilization , basically.Really horrible that half the population has to endure this sort of oppression in a constant basis ,', None, None, None, 0), ('and it ; s so entrenched', None, None, None, 0), ('that we think', None, None, None, 0), ('its normal .', None, None, None, 1), ('I hope', None, None, None, 0), ('that people will see the light ,', None, None, None, 0), ('and learn to love ,', None, None, None, 0), ('but I get discouraged reading stuff like this .', None, None, None, 1)]

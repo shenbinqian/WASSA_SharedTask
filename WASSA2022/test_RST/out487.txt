@@ -1,0 +1,25 @@
+=====================> [[('Did you know', None, None, None, 0), ('that it was practice in Canada for a long time', None, None, None, 0), ('to take indigenous children from their homes', None, None, None, 0), ('and place them in boarding schools ?', None, None, None, 1), ('What an awful thing .', None, None, None, 1), ('They were punished for speaking their native language .', None, None, None, 1), ('They were expected to abandon their culture .', None, None, None, 1), ('Treatment was poor', None, None, None, 0), ('and it was so common for children to die', None, None, None, 0), ('that cemeteries were often built on the ground .', None, None, None, 1), ("The last school did n't even close until the 90 's !", None, None, None, 1), ('How awful .', None, None, None, 1)]]
+Leaf:  S span Did you know
+Leaf:  N Elaborate that it was practice in Canada for a long time
+Leaf:  N Temporal to take indigenous children from their homes
+Leaf:  N Temporal and place them in boarding schools ?
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate What an awful thing .
+Leaf:  N Joint They were punished for speaking their native language .
+Leaf:  N Joint They were expected to abandon their culture .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint Treatment was poor
+Leaf:  N Cause and it was so common for children to die
+Leaf:  S span that cemeteries were often built on the ground .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The last school did n't even close until the 90 's !
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span How awful .
+Inner:  Root None None Evaluation NS
+[('Did you know', None, None, None, 0), ('that it was practice in Canada for a long time', None, None, None, 0), ('to take indigenous children from their homes', None, None, None, 0), ('and place them in boarding schools ?', None, None, None, 1), ('What an awful thing .', None, None, None, 1), ('They were punished for speaking their native language .', None, None, None, 1), ('They were expected to abandon their culture .', None, None, None, 1), ('Treatment was poor', None, None, None, 0), ('and it was so common for children to die', None, None, None, 0), ('that cemeteries were often built on the ground .', None, None, None, 1), ("The last school did n't even close until the 90 's !", None, None, None, 1), ('How awful .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('what an awful tragedy .', None, None, None, 1), ('If I were the relatives', None, None, None, 0), ("I do n't know", None, None, None, 0), ('how I would handle this .', None, None, None, 1), ('Its got to be a huge shock .', None, None, None, 1), ('My surprise would turn to anger really quickly', None, None, None, 0), ('if I were faced with the same lack of answers .', None, None, None, 1), ('Maybe it is just a freak occurrence ,', None, None, None, 0), ('but I have to believe', None, None, None, 0), ('that someone knows something', None, None, None, 0), ("and is n't saying something .", None, None, None, 1)]]
+Leaf:  N Elaborate what an awful tragedy .
+Leaf:  S span If I were the relatives
+Leaf:  S span I do n't know
+Leaf:  N Attribution how I would handle this .
+Inner:  N Condition None Attribution SN
+Inner:  N Evaluation None Condition SN
+Leaf:  N Evaluation Its got to be a huge shock .
+Leaf:  N Condition My surprise would turn to anger really quickly
+Leaf:  S span if I were faced with the same lack of answers .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Contrast Maybe it is just a freak occurrence ,
+Leaf:  S span but I have to believe
+Leaf:  N Joint that someone knows something
+Leaf:  N Joint and is n't saying something .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Explanation NS
+[('what an awful tragedy .', None, None, None, 1), ('If I were the relatives', None, None, None, 0), ("I do n't know", None, None, None, 0), ('how I would handle this .', None, None, None, 1), ('Its got to be a huge shock .', None, None, None, 1), ('My surprise would turn to anger really quickly', None, None, None, 0), ('if I were faced with the same lack of answers .', None, None, None, 1), ('Maybe it is just a freak occurrence ,', None, None, None, 0), ('but I have to believe', None, None, None, 0), ('that someone knows something', None, None, None, 0), ("and is n't saying something .", None, None, None, 1)]

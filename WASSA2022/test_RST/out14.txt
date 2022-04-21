@@ -1,0 +1,27 @@
+=====================> [[('cancer is a big problem nowadays .', None, None, None, 1), ('even shannon doherty has it .', None, None, None, 1), ('she did a interview', None, None, None, 0), ('you can find on netflix', None, None, None, 0), ('she talks about her struggles .', None, None, None, 1), ('i feel so bad for her', None, None, None, 0), ('but at least she has people behind her', None, None, None, 0), ('rooting for her', None, None, None, 0), ('and she is not alone .', None, None, None, 1), ('i knew someone', None, None, None, 0), ('who had breast cancer', None, None, None, 0), ('before they died ,', None, None, None, 0), ('that cancer is no joke man .', None, None, None, 1)]]
+Leaf:  N Summary cancer is a big problem nowadays .
+Leaf:  S span even shannon doherty has it .
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate she did a interview
+Leaf:  S span you can find on netflix
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit she talks about her struggles .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span i feel so bad for her
+Leaf:  N Elaborate but at least she has people behind her
+Leaf:  S span rooting for her
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and she is not alone .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate i knew someone
+Leaf:  N Temporal who had breast cancer
+Leaf:  S span before they died ,
+Inner:  S span None Temporal NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit that cancer is no joke man .
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Elaborate NS
+[('cancer is a big problem nowadays .', None, None, None, 1), ('even shannon doherty has it .', None, None, None, 1), ('she did a interview', None, None, None, 0), ('you can find on netflix', None, None, None, 0), ('she talks about her struggles .', None, None, None, 1), ('i feel so bad for her', None, None, None, 0), ('but at least she has people behind her', None, None, None, 0), ('rooting for her', None, None, None, 0), ('and she is not alone .', None, None, None, 1), ('i knew someone', None, None, None, 0), ('who had breast cancer', None, None, None, 0), ('before they died ,', None, None, None, 0), ('that cancer is no joke man .', None, None, None, 1)]

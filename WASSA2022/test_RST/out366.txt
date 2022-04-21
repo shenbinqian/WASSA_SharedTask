@@ -1,0 +1,21 @@
+=====================> [[('I can not believe this article', None, None, None, 0), ('that I just read .', None, None, None, 1), ('Over ten large breed dogs died at a kennel .', None, None, None, 1), ('Not only was there no proper ventilation or cooling the dogs were left alone overnight .', None, None, None, 1), ('This was unknown to the pet owners .', None, None, None, 1), ("It 's a tragedy", None, None, None, 0), ('that something like this could happen .', None, None, None, 1), ('This is why I only trust my pets to a few friend and family members .', None, None, None, 1), ('Even with all the deaths the business was allowed to remain open ,', None, None, None, 0), ('though thankfully the room was closed off .', None, None, None, 1)]]
+Leaf:  N Elaborate I can not believe this article
+Leaf:  S span that I just read .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Over ten large breed dogs died at a kennel .
+Leaf:  N Elaborate Not only was there no proper ventilation or cooling the dogs were left alone overnight .
+Leaf:  S span This was unknown to the pet owners .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's a tragedy
+Leaf:  S span that something like this could happen .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span This is why I only trust my pets to a few friend and family members .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast Even with all the deaths the business was allowed to remain open ,
+Leaf:  S span though thankfully the room was closed off .
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('I can not believe this article', None, None, None, 0), ('that I just read .', None, None, None, 1), ('Over ten large breed dogs died at a kennel .', None, None, None, 1), ('Not only was there no proper ventilation or cooling the dogs were left alone overnight .', None, None, None, 1), ('This was unknown to the pet owners .', None, None, None, 1), ("It 's a tragedy", None, None, None, 0), ('that something like this could happen .', None, None, None, 1), ('This is why I only trust my pets to a few friend and family members .', None, None, None, 1), ('Even with all the deaths the business was allowed to remain open ,', None, None, None, 0), ('though thankfully the room was closed off .', None, None, None, 1)]

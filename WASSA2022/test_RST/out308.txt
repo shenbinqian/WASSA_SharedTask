@@ -1,0 +1,27 @@
+=====================> [[('Someone needs to go and beat this man to death in the same manner', None, None, None, 0), ('as he beat those poor defenseless animals', None, None, None, 0), ('and see how he freakiing likes it .', None, None, None, 1), ('All people', None, None, None, 0), ('that torment others', None, None, None, 0), ('either emotionally , verbally and physically need to be treated the same way', None, None, None, 0), ('that they treat others', None, None, None, 0), ('and get them to open their eyes', None, None, None, 0), ('and see', None, None, None, 0), ('how they like being treated in the same manner .', None, None, None, 1), ('People are horrible and stupid', None, None, None, 0), ('and this right here is one of the big reasons', None, None, None, 0), ('as to why i lost faith in most humanity .', None, None, None, 1)]]
+Leaf:  N Comparison Someone needs to go and beat this man to death in the same manner
+Leaf:  N Enablement as he beat those poor defenseless animals
+Leaf:  S span and see how he freakiing likes it .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Elaborate All people
+Leaf:  N Manner-Means that torment others
+Leaf:  N Elaborate either emotionally , verbally and physically need to be treated the same way
+Leaf:  S span that they treat others
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Joint and get them to open their eyes
+Leaf:  S span and see
+Leaf:  N Attribution how they like being treated in the same manner .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation People are horrible and stupid
+Leaf:  N Evaluation and this right here is one of the big reasons
+Leaf:  S span as to why i lost faith in most humanity .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Someone needs to go and beat this man to death in the same manner', None, None, None, 0), ('as he beat those poor defenseless animals', None, None, None, 0), ('and see how he freakiing likes it .', None, None, None, 1), ('All people', None, None, None, 0), ('that torment others', None, None, None, 0), ('either emotionally , verbally and physically need to be treated the same way', None, None, None, 0), ('that they treat others', None, None, None, 0), ('and get them to open their eyes', None, None, None, 0), ('and see', None, None, None, 0), ('how they like being treated in the same manner .', None, None, None, 1), ('People are horrible and stupid', None, None, None, 0), ('and this right here is one of the big reasons', None, None, None, 0), ('as to why i lost faith in most humanity .', None, None, None, 1)]

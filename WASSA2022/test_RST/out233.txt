@@ -1,0 +1,37 @@
+=====================> [[('One of my favorite topics', None, None, None, 0), ('to yell about .', None, None, None, 1), ('Men and religous nonsense .', None, None, None, 1), ('As a woman I feel', None, None, None, 0), ('that this is a constant occurance of men to subject women .', None, None, None, 1), ('After reading about this I am of the mind', None, None, None, 0), ('that a lot of men should just be executed for this kind of behaviour .', None, None, None, 1), ("I do n't care", None, None, None, 0), ('what they believe', None, None, None, 0), ('or what god', None, None, None, 0), ('they pray to .', None, None, None, 1), ('I would kill a good chunk of them', None, None, None, 0), ('and tell them to go talk to their god now', None, None, None, 0), ('and complain . Of course we do nothing of the kind', None, None, None, 0), ('and this has gone on for centuries', None, None, None, 0), ('and will continue on .', None, None, None, 1), ("My friends do n't disagree with this either .", None, None, None, 1), ('We often talk about things like this .', None, None, None, 1)]]
+Leaf:  N Elaborate One of my favorite topics
+Leaf:  S span to yell about .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Men and religous nonsense .
+Leaf:  S span As a woman I feel
+Leaf:  N Attribution that this is a constant occurance of men to subject women .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate After reading about this I am of the mind
+Leaf:  S span that a lot of men should just be executed for this kind of behaviour .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't care
+Leaf:  N Joint what they believe
+Leaf:  N Elaborate or what god
+Leaf:  S span they pray to .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Joint I would kill a good chunk of them
+Leaf:  N Joint and tell them to go talk to their god now
+Leaf:  N Joint and complain . Of course we do nothing of the kind
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and this has gone on for centuries
+Leaf:  N Joint and will continue on .
+Inner:  N Joint None Joint NN
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span My friends do n't disagree with this either .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span We often talk about things like this .
+Inner:  Root None None Elaborate NS
+[('One of my favorite topics', None, None, None, 0), ('to yell about .', None, None, None, 1), ('Men and religous nonsense .', None, None, None, 1), ('As a woman I feel', None, None, None, 0), ('that this is a constant occurance of men to subject women .', None, None, None, 1), ('After reading about this I am of the mind', None, None, None, 0), ('that a lot of men should just be executed for this kind of behaviour .', None, None, None, 1), ("I do n't care", None, None, None, 0), ('what they believe', None, None, None, 0), ('or what god', None, None, None, 0), ('they pray to .', None, None, None, 1), ('I would kill a good chunk of them', None, None, None, 0), ('and tell them to go talk to their god now', None, None, None, 0), ('and complain . Of course we do nothing of the kind', None, None, None, 0), ('and this has gone on for centuries', None, None, None, 0), ('and will continue on .', None, None, None, 1), ("My friends do n't disagree with this either .", None, None, None, 1), ('We often talk about things like this .', None, None, None, 1)]

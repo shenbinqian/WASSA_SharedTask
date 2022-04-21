@@ -1,0 +1,27 @@
+=====================> [[('I really love the show', None, None, None, 0), ('charmed', None, None, None, 0), ('so', None, None, None, 0), ("reading about Doherty 's struggles with cancer was sad .", None, None, None, 1), ('I can not really imagine', None, None, None, 0), ('what it is like to have cancer', None, None, None, 0), ('but I feel', None, None, None, 0), ('like she is a brave woman ,', None, None, None, 0), ('and I am proud of her for the way', None, None, None, 0), ('she is responding to this kind of health crisis .', None, None, None, 1), ('She is a great person', None, None, None, 0), ('and I hope', None, None, None, 0), ('everything turns out okay', None, None, None, 0)]]
+Leaf:  N Cause I really love the show
+Leaf:  S span charmed
+Inner:  N Cause None Cause NS
+Leaf:  N Cause so
+Leaf:  S span reading about Doherty 's struggles with cancer was sad .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I can not really imagine
+Leaf:  N Attribution what it is like to have cancer
+Inner:  S span None Attribution SN
+Leaf:  S span but I feel
+Leaf:  N Joint like she is a brave woman ,
+Leaf:  N Elaborate and I am proud of her for the way
+Leaf:  S span she is responding to this kind of health crisis .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint She is a great person
+Leaf:  S span and I hope
+Leaf:  N Attribution everything turns out okay
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I really love the show', None, None, None, 0), ('charmed', None, None, None, 0), ('so', None, None, None, 0), ("reading about Doherty 's struggles with cancer was sad .", None, None, None, 1), ('I can not really imagine', None, None, None, 0), ('what it is like to have cancer', None, None, None, 0), ('but I feel', None, None, None, 0), ('like she is a brave woman ,', None, None, None, 0), ('and I am proud of her for the way', None, None, None, 0), ('she is responding to this kind of health crisis .', None, None, None, 1), ('She is a great person', None, None, None, 0), ('and I hope', None, None, None, 0), ('everything turns out okay', None, None, None, 0)]

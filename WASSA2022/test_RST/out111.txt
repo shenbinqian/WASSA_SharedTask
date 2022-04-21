@@ -1,0 +1,21 @@
+=====================> [[("It 's pretty disturbing how the world continues to ignore situations like this ,", None, None, None, 0), ('and they only pay attention', None, None, None, 0), ("when it 's something", None, None, None, 0), ('that gets enough ratings on television', None, None, None, 0), ('to pay attention .', None, None, None, 1), ("There 's no consistency to it , nor any kind of logic", None, None, None, 0), ('to whether or not something gets attention , let alone concrete aid .', None, None, None, 1), ('Any thoughts on what can be done', None, None, None, 0), ('to improve things ?', None, None, None, 1), ("It 's depressing .", None, None, None, 1)]]
+Leaf:  N Joint It 's pretty disturbing how the world continues to ignore situations like this ,
+Leaf:  N Background and they only pay attention
+Leaf:  N Elaborate when it 's something
+Leaf:  N Enablement that gets enough ratings on television
+Leaf:  S span to pay attention .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Inner:  N Summary None Joint NN
+Leaf:  N Elaborate There 's no consistency to it , nor any kind of logic
+Leaf:  S span to whether or not something gets attention , let alone concrete aid .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement Any thoughts on what can be done
+Leaf:  S span to improve things ?
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span It 's depressing .
+Inner:  Root None None Evaluation NS
+[("It 's pretty disturbing how the world continues to ignore situations like this ,", None, None, None, 0), ('and they only pay attention', None, None, None, 0), ("when it 's something", None, None, None, 0), ('that gets enough ratings on television', None, None, None, 0), ('to pay attention .', None, None, None, 1), ("There 's no consistency to it , nor any kind of logic", None, None, None, 0), ('to whether or not something gets attention , let alone concrete aid .', None, None, None, 1), ('Any thoughts on what can be done', None, None, None, 0), ('to improve things ?', None, None, None, 1), ("It 's depressing .", None, None, None, 1)]

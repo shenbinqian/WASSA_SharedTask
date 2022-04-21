@@ -1,0 +1,33 @@
+=====================> [[("Did you hear about Dakota Fanning 's parents divorcing ?", None, None, None, 1), ('I fail to see', None, None, None, 0), ('how this is news .', None, None, None, 1), ('Divorce is sad ,', None, None, None, 0), ("but I do n't believe", None, None, None, 0), ('there needs to be an article', None, None, None, 0), ('written about a celebrities parents .', None, None, None, 1), ("They did n't choose the limelight .", None, None, None, 1), ('It goes on to say', None, None, None, 0), ('that the father is not seeking spousal support .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("the family will be just fine . I do n't know much about the family ,", None, None, None, 0), ("and I 'm sure", None, None, None, 0), ("it 's difficult to have your parents divorce ,", None, None, None, 0), ("but it 's so commonplace anymore .", None, None, None, 1), ('It seems that a lot of child stars parents split .', None, None, None, 1)]]
+Leaf:  N Topic-Comment Did you hear about Dakota Fanning 's parents divorcing ?
+Leaf:  S span I fail to see
+Leaf:  N Attribution how this is news .
+Inner:  N Topic-Comment None Attribution SN
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span Divorce is sad ,
+Leaf:  S span but I do n't believe
+Leaf:  N Elaborate there needs to be an article
+Leaf:  S span written about a celebrities parents .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They did n't choose the limelight .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It goes on to say
+Leaf:  N Attribution that the father is not seeking spousal support .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm sure
+Leaf:  N Attribution the family will be just fine . I do n't know much about the family ,
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I 'm sure
+Leaf:  N Attribution it 's difficult to have your parents divorce ,
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Leaf:  S span but it 's so commonplace anymore .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Evaluation NS
+Inner:  N Elaborate None Evaluation SN
+Leaf:  S span It seems that a lot of child stars parents split .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("Did you hear about Dakota Fanning 's parents divorcing ?", None, None, None, 1), ('I fail to see', None, None, None, 0), ('how this is news .', None, None, None, 1), ('Divorce is sad ,', None, None, None, 0), ("but I do n't believe", None, None, None, 0), ('there needs to be an article', None, None, None, 0), ('written about a celebrities parents .', None, None, None, 1), ("They did n't choose the limelight .", None, None, None, 1), ('It goes on to say', None, None, None, 0), ('that the father is not seeking spousal support .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("the family will be just fine . I do n't know much about the family ,", None, None, None, 0), ("and I 'm sure", None, None, None, 0), ("it 's difficult to have your parents divorce ,", None, None, None, 0), ("but it 's so commonplace anymore .", None, None, None, 1), ('It seems that a lot of child stars parents split .', None, None, None, 1)]

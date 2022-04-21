@@ -1,0 +1,21 @@
+=====================> [[('People like Issa and Denham are the reason', None, None, None, 0), ('why Trump has got as far', None, None, None, 0), ('as he has during his presidency !', None, None, None, 1), ('No one is willing to stop him , at least not on the right .', None, None, None, 1), ('We need to make sure', None, None, None, 0), ('we are supporting the young up', None, None, None, 0), ('and coming progressive candidates', None, None, None, 0), ("in order to create that ' blue wave '", None, None, None, 0), ('that is going to hopefully save this country from the terrible path', None, None, None, 0), ("we 're so far down .", None, None, None, 1)]]
+Leaf:  N Cause People like Issa and Denham are the reason
+Leaf:  N Comparison why Trump has got as far
+Leaf:  S span as he has during his presidency !
+Inner:  S span None Comparison NS
+Inner:  N Topic-Comment None Cause NS
+Leaf:  N Elaborate No one is willing to stop him , at least not on the right .
+Leaf:  S span We need to make sure
+Leaf:  N Joint we are supporting the young up
+Leaf:  N Joint and coming progressive candidates
+Inner:  N Enablement None Joint NN
+Leaf:  N Elaborate in order to create that ' blue wave '
+Leaf:  N Elaborate that is going to hopefully save this country from the terrible path
+Leaf:  S span we 're so far down .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('People like Issa and Denham are the reason', None, None, None, 0), ('why Trump has got as far', None, None, None, 0), ('as he has during his presidency !', None, None, None, 1), ('No one is willing to stop him , at least not on the right .', None, None, None, 1), ('We need to make sure', None, None, None, 0), ('we are supporting the young up', None, None, None, 0), ('and coming progressive candidates', None, None, None, 0), ("in order to create that ' blue wave '", None, None, None, 0), ('that is going to hopefully save this country from the terrible path', None, None, None, 0), ("we 're so far down .", None, None, None, 1)]

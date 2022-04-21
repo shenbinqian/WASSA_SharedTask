@@ -1,0 +1,37 @@
+=====================> [[('It is about a plane crash', None, None, None, 0), ('that occurred', None, None, None, 0), ('and that there is now conspiracy theory', None, None, None, 0), ('that caused the plane crash . They are exhuming several bodies', None, None, None, 0), ('to see what caused the crash .', None, None, None, 1), ('There have already been many bodies already exhumed', None, None, None, 0), ('and they will try to do what they can', None, None, None, 0), ('to find out what the real underlying issue is . I think', None, None, None, 0), ('that it was very interesting and found it to be very interesting to read . I think that you would be interested in this as well . I thought', None, None, None, 0), ('it was well written and I like the perspective', None, None, None, 0), ('that they gave in this story . Plane crashes with the loss of life are sad but unfortunately , it is common . I think that they occur .', None, None, None, 1), ('I think', None, None, None, 0), ('that we need to look into stuff like that', None, None, None, 0), ('and really see what is going on .', None, None, None, 1), ('If it can help to avoid another crash', None, None, None, 0), ('then that is a good thing .', None, None, None, 1), ('I think', None, None, None, 0), ('it can hel', None, None, None, 0)]]
+Leaf:  N Elaborate It is about a plane crash
+Leaf:  S span that occurred
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and that there is now conspiracy theory
+Leaf:  N Enablement that caused the plane crash . They are exhuming several bodies
+Leaf:  S span to see what caused the crash .
+Inner:  S span None Enablement NS
+Inner:  N Cause None Elaborate NS
+Inner:  N Elaborate None Cause SN
+Leaf:  S span There have already been many bodies already exhumed
+Leaf:  N Enablement and they will try to do what they can
+Leaf:  S span to find out what the real underlying issue is . I think
+Inner:  S span None Enablement NS
+Leaf:  S span that it was very interesting and found it to be very interesting to read . I think that you would be interested in this as well . I thought
+Leaf:  N Elaborate it was well written and I like the perspective
+Leaf:  S span that they gave in this story . Plane crashes with the loss of life are sad but unfortunately , it is common . I think that they occur .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Enablement that we need to look into stuff like that
+Leaf:  S span and really see what is going on .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If it can help to avoid another crash
+Leaf:  N Condition then that is a good thing .
+Inner:  N Explanation None Condition SN
+Leaf:  S span I think
+Leaf:  N Attribution it can hel
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('It is about a plane crash', None, None, None, 0), ('that occurred', None, None, None, 0), ('and that there is now conspiracy theory', None, None, None, 0), ('that caused the plane crash . They are exhuming several bodies', None, None, None, 0), ('to see what caused the crash .', None, None, None, 1), ('There have already been many bodies already exhumed', None, None, None, 0), ('and they will try to do what they can', None, None, None, 0), ('to find out what the real underlying issue is . I think', None, None, None, 0), ('that it was very interesting and found it to be very interesting to read . I think that you would be interested in this as well . I thought', None, None, None, 0), ('it was well written and I like the perspective', None, None, None, 0), ('that they gave in this story . Plane crashes with the loss of life are sad but unfortunately , it is common . I think that they occur .', None, None, None, 1), ('I think', None, None, None, 0), ('that we need to look into stuff like that', None, None, None, 0), ('and really see what is going on .', None, None, None, 1), ('If it can help to avoid another crash', None, None, None, 0), ('then that is a good thing .', None, None, None, 1), ('I think', None, None, None, 0), ('it can hel', None, None, None, 0)]

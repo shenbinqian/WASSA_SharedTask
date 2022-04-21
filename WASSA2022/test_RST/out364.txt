@@ -1,0 +1,23 @@
+=====================> [[('Celebrities , die ,', None, None, None, 0), ('it happens ,', None, None, None, 0), ("I do n't care .", None, None, None, 1), ('This guy was old anyway .', None, None, None, 1), ("I had n't heard of any of the movies or TV shows", None, None, None, 0), ('he was in ,', None, None, None, 0), ('nor have I seen him in anything . This is a piece of history', None, None, None, 0), ('that not many people will end up remembering .', None, None, None, 1), ('His life was probably good overall .', None, None, None, 1), ("I do n't really know anyone", None, None, None, 0), ('who had leukemia .', None, None, None, 1)]]
+Leaf:  N Summary Celebrities , die ,
+Leaf:  S span it happens ,
+Inner:  S span None Summary NS
+Leaf:  N Explanation I do n't care .
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate This guy was old anyway .
+Leaf:  N Elaborate I had n't heard of any of the movies or TV shows
+Leaf:  S span he was in ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate nor have I seen him in anything . This is a piece of history
+Leaf:  S span that not many people will end up remembering .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate His life was probably good overall .
+Leaf:  N Elaborate I do n't really know anyone
+Leaf:  S span who had leukemia .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Celebrities , die ,', None, None, None, 0), ('it happens ,', None, None, None, 0), ("I do n't care .", None, None, None, 1), ('This guy was old anyway .', None, None, None, 1), ("I had n't heard of any of the movies or TV shows", None, None, None, 0), ('he was in ,', None, None, None, 0), ('nor have I seen him in anything . This is a piece of history', None, None, None, 0), ('that not many people will end up remembering .', None, None, None, 1), ('His life was probably good overall .', None, None, None, 1), ("I do n't really know anyone", None, None, None, 0), ('who had leukemia .', None, None, None, 1)]

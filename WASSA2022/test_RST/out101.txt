@@ -1,0 +1,25 @@
+=====================> [[('It is an unfortunate circumstance', None, None, None, 0), ('that most people find themselves in .', None, None, None, 1), ('Been deported on a fault', None, None, None, 0), ("that was n't yours", None, None, None, 0), ('seems disheartening .', None, None, None, 1), ('Imagine growing up all your life ,', None, None, None, 0), ('thinking', None, None, None, 0), ('that you are a US citizen', None, None, None, 0), ('while you are not .', None, None, None, 1), ('This man deserves a lot of empathy', None, None, None, 0), ('considering his situation ,', None, None, None, 0), ('and work around should be made available for him .', None, None, None, 1)]]
+Leaf:  N Elaborate It is an unfortunate circumstance
+Leaf:  S span that most people find themselves in .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Been deported on a fault
+Leaf:  S span that was n't yours
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit seems disheartening .
+Inner:  S span None Same-Unit NN
+Inner:  N Summary None Elaborate NS
+Leaf:  S span Imagine growing up all your life ,
+Leaf:  S span thinking
+Leaf:  N Contrast that you are a US citizen
+Leaf:  N Contrast while you are not .
+Inner:  N Attribution None Contrast NN
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  N Background This man deserves a lot of empathy
+Leaf:  N Joint considering his situation ,
+Leaf:  N Joint and work around should be made available for him .
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('It is an unfortunate circumstance', None, None, None, 0), ('that most people find themselves in .', None, None, None, 1), ('Been deported on a fault', None, None, None, 0), ("that was n't yours", None, None, None, 0), ('seems disheartening .', None, None, None, 1), ('Imagine growing up all your life ,', None, None, None, 0), ('thinking', None, None, None, 0), ('that you are a US citizen', None, None, None, 0), ('while you are not .', None, None, None, 1), ('This man deserves a lot of empathy', None, None, None, 0), ('considering his situation ,', None, None, None, 0), ('and work around should be made available for him .', None, None, None, 1)]

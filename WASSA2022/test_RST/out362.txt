@@ -1,0 +1,17 @@
+=====================> [[("It 's pretty awful how much powerful men can get away with .", None, None, None, 1), ("But it 's conflicting too ,", None, None, None, 0), ('because their fame makes a lot of people pay attention to them .', None, None, None, 1), ('Potentially many people would consider accusing them of sexual misconduct ,', None, None, None, 0), ('and it would be really difficult to figure out', None, None, None, 0), ('which claims are legitimate .', None, None, None, 1), ('I feel bad for their victims though ,', None, None, None, 0), ("because mostly they wo n't be believed .", None, None, None, 1)]]
+Leaf:  N Elaborate It 's pretty awful how much powerful men can get away with .
+Leaf:  N Explanation But it 's conflicting too ,
+Leaf:  S span because their fame makes a lot of people pay attention to them .
+Inner:  N Cause None Explanation NS
+Leaf:  N Joint Potentially many people would consider accusing them of sexual misconduct ,
+Leaf:  S span and it would be really difficult to figure out
+Leaf:  N Attribution which claims are legitimate .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I feel bad for their victims though ,
+Leaf:  S span because mostly they wo n't be believed .
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("It 's pretty awful how much powerful men can get away with .", None, None, None, 1), ("But it 's conflicting too ,", None, None, None, 0), ('because their fame makes a lot of people pay attention to them .', None, None, None, 1), ('Potentially many people would consider accusing them of sexual misconduct ,', None, None, None, 0), ('and it would be really difficult to figure out', None, None, None, 0), ('which claims are legitimate .', None, None, None, 1), ('I feel bad for their victims though ,', None, None, None, 0), ("because mostly they wo n't be believed .", None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('What a terrible accident .', None, None, None, 1), ('Seems like the family was not meant for this earth .', None, None, None, 1), ('The little girl', None, None, None, 0), ('that is in critical condition', None, None, None, 0), ('will have such a hard time', None, None, None, 0), ('understanding', None, None, None, 0), ('that her family is gone .', None, None, None, 1), ('I just want to hug her', None, None, None, 0), ('and be there for her .', None, None, None, 1), ('And the young man', None, None, None, 0), ('that hit the trailer , oh my goodness .', None, None, None, 1), ('He has to carry that for the rest of his life ;', None, None, None, 0), ('that he killed several people .', None, None, None, 1)]]
+Leaf:  N Elaborate What a terrible accident .
+Leaf:  S span Seems like the family was not meant for this earth .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The little girl
+Leaf:  S span that is in critical condition
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Manner-Means will have such a hard time
+Leaf:  S span understanding
+Leaf:  N Attribution that her family is gone .
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Manner-Means NS
+Inner:  N Topic-Comment None Same-Unit NN
+Leaf:  N Joint I just want to hug her
+Leaf:  N Joint and be there for her .
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate And the young man
+Leaf:  S span that hit the trailer , oh my goodness .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation He has to carry that for the rest of his life ;
+Leaf:  S span that he killed several people .
+Inner:  S span None Explanation NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('What a terrible accident .', None, None, None, 1), ('Seems like the family was not meant for this earth .', None, None, None, 1), ('The little girl', None, None, None, 0), ('that is in critical condition', None, None, None, 0), ('will have such a hard time', None, None, None, 0), ('understanding', None, None, None, 0), ('that her family is gone .', None, None, None, 1), ('I just want to hug her', None, None, None, 0), ('and be there for her .', None, None, None, 1), ('And the young man', None, None, None, 0), ('that hit the trailer , oh my goodness .', None, None, None, 1), ('He has to carry that for the rest of his life ;', None, None, None, 0), ('that he killed several people .', None, None, None, 1)]

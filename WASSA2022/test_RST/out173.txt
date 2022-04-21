@@ -1,0 +1,21 @@
+=====================> [[('Now see this is why I never like going anywhere !', None, None, None, 1), ('I have been down in that same area', None, None, None, 0), ('a thousand times', None, None, None, 0), ('and I can see', None, None, None, 0), ('how dangerous it is especially at night .', None, None, None, 1), ("I do n't know about the one in Jackson", None, None, None, 0), ("but it 's just so scary to me ,", None, None, None, 0), ("I 'd rather just stay home", None, None, None, 0), ('than get out on the expressway .', None, None, None, 1), ("It 's just heartbreaking for all involved . Those poor children .", None, None, None, 1)]]
+Leaf:  N Explanation Now see this is why I never like going anywhere !
+Leaf:  N Same-Unit I have been down in that same area
+Leaf:  N Same-Unit a thousand times
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span and I can see
+Leaf:  N Attribution how dangerous it is especially at night .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I do n't know about the one in Jackson
+Leaf:  S span but it 's just so scary to me ,
+Leaf:  N Comparison I 'd rather just stay home
+Leaf:  N Comparison than get out on the expressway .
+Inner:  N Explanation None Comparison NN
+Inner:  N Contrast None Explanation SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It 's just heartbreaking for all involved . Those poor children .
+Inner:  Root None None Evaluation NS
+[('Now see this is why I never like going anywhere !', None, None, None, 1), ('I have been down in that same area', None, None, None, 0), ('a thousand times', None, None, None, 0), ('and I can see', None, None, None, 0), ('how dangerous it is especially at night .', None, None, None, 1), ("I do n't know about the one in Jackson", None, None, None, 0), ("but it 's just so scary to me ,", None, None, None, 0), ("I 'd rather just stay home", None, None, None, 0), ('than get out on the expressway .', None, None, None, 1), ("It 's just heartbreaking for all involved . Those poor children .", None, None, None, 1)]

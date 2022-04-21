@@ -1,0 +1,23 @@
+=====================> [[('I always find situations of wars very alarming .', None, None, None, 1), ('I always wish', None, None, None, 0), ('the world would be more', None, None, None, 0), ('peaceful.The unrest at Aleppo is sad to say the least .', None, None, None, 1), ('Imagine having little innocent babies', None, None, None, 0), ('being buried under ruins of war ,', None, None, None, 0), ('If only the international bodies would rise up to this', None, None, None, 0), ('and tackle it .', None, None, None, 1), ('I give it to the social media activist ,', None, None, None, 0), ('they are trying', None, None, None, 0), ('really but we need to take the protest to the organisations involved .', None, None, None, 1)]]
+Leaf:  N Evaluation I always find situations of wars very alarming .
+Leaf:  S span I always wish
+Leaf:  S span the world would be more
+Leaf:  N Elaborate peaceful.The unrest at Aleppo is sad to say the least .
+Inner:  N Attribution None Elaborate SN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Cause Imagine having little innocent babies
+Leaf:  S span being buried under ruins of war ,
+Inner:  N Topic-Comment None Cause NS
+Leaf:  N Temporal If only the international bodies would rise up to this
+Leaf:  N Temporal and tackle it .
+Inner:  N Topic-Comment None Temporal NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Explanation NS
+Inner:  N Textual-Organization None Evaluation NS
+Leaf:  N Evaluation I give it to the social media activist ,
+Leaf:  N Contrast they are trying
+Leaf:  S span really but we need to take the protest to the organisations involved .
+Inner:  S span None Contrast NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('I always find situations of wars very alarming .', None, None, None, 1), ('I always wish', None, None, None, 0), ('the world would be more', None, None, None, 0), ('peaceful.The unrest at Aleppo is sad to say the least .', None, None, None, 1), ('Imagine having little innocent babies', None, None, None, 0), ('being buried under ruins of war ,', None, None, None, 0), ('If only the international bodies would rise up to this', None, None, None, 0), ('and tackle it .', None, None, None, 1), ('I give it to the social media activist ,', None, None, None, 0), ('they are trying', None, None, None, 0), ('really but we need to take the protest to the organisations involved .', None, None, None, 1)]

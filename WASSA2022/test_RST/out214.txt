@@ -1,0 +1,19 @@
+=====================> [[('You know ,', None, None, None, 0), ('our city has this odour to it sometimes .', None, None, None, 1), ('When I was a kid ,', None, None, None, 0), ('we would be congested in traffic', None, None, None, 0), ('just trying to get to the beach for hours on end ,', None, None, None, 0), ('burning up in 80 degree heat in a tiny beater car ,', None, None, None, 0), ("but yeah , you do n't feel choked .", None, None, None, 1), ("You definitely feel like the city is n't cleanly .", None, None, None, 1), ('I have better scents from my socks sometimes .', None, None, None, 1)]]
+Leaf:  S span You know ,
+Leaf:  N Attribution our city has this odour to it sometimes .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Same-Unit When I was a kid ,
+Leaf:  N Background we would be congested in traffic
+Leaf:  S span just trying to get to the beach for hours on end ,
+Inner:  N Joint None Background NS
+Leaf:  N Joint burning up in 80 degree heat in a tiny beater car ,
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Leaf:  N Contrast but yeah , you do n't feel choked .
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint You definitely feel like the city is n't cleanly .
+Leaf:  N Joint I have better scents from my socks sometimes .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('You know ,', None, None, None, 0), ('our city has this odour to it sometimes .', None, None, None, 1), ('When I was a kid ,', None, None, None, 0), ('we would be congested in traffic', None, None, None, 0), ('just trying to get to the beach for hours on end ,', None, None, None, 0), ('burning up in 80 degree heat in a tiny beater car ,', None, None, None, 0), ("but yeah , you do n't feel choked .", None, None, None, 1), ("You definitely feel like the city is n't cleanly .", None, None, None, 1), ('I have better scents from my socks sometimes .', None, None, None, 1)]

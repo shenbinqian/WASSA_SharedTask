@@ -1,0 +1,29 @@
+=====================> [[('I read an article', None, None, None, 0), ('that explains', None, None, None, 0), ('why so many people end up getting colon cancer .', None, None, None, 1), ('A lot of people do not like the taste and unpleasantness of the drink', None, None, None, 0), ('that they give you', None, None, None, 0), ('to loosen up your bowels .', None, None, None, 1), ('A lot of people', None, None, None, 0), ("who have n't even got checked", None, None, None, 0), ('avoid getting checked in fear of this drink . A company is working', None, None, None, 0), ('to make this experience more pleasant', None, None, None, 0), ('and have been working on drinks and edibles', None, None, None, 0), ('that taste more like fruit .', None, None, None, 1), ("It 's said that 40 % of all colon cancer may be prevented", None, None, None, 0), ('if people would undergo regular screenings', None, None, None, 0)]]
+Leaf:  N Elaborate I read an article
+Leaf:  S span that explains
+Leaf:  N Attribution why so many people end up getting colon cancer .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate A lot of people do not like the taste and unpleasantness of the drink
+Leaf:  N Enablement that they give you
+Leaf:  S span to loosen up your bowels .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate A lot of people
+Leaf:  S span who have n't even got checked
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement avoid getting checked in fear of this drink . A company is working
+Leaf:  S span to make this experience more pleasant
+Inner:  N Joint None Enablement NS
+Leaf:  N Elaborate and have been working on drinks and edibles
+Leaf:  S span that taste more like fruit .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Condition It 's said that 40 % of all colon cancer may be prevented
+Leaf:  S span if people would undergo regular screenings
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I read an article', None, None, None, 0), ('that explains', None, None, None, 0), ('why so many people end up getting colon cancer .', None, None, None, 1), ('A lot of people do not like the taste and unpleasantness of the drink', None, None, None, 0), ('that they give you', None, None, None, 0), ('to loosen up your bowels .', None, None, None, 1), ('A lot of people', None, None, None, 0), ("who have n't even got checked", None, None, None, 0), ('avoid getting checked in fear of this drink . A company is working', None, None, None, 0), ('to make this experience more pleasant', None, None, None, 0), ('and have been working on drinks and edibles', None, None, None, 0), ('that taste more like fruit .', None, None, None, 1), ("It 's said that 40 % of all colon cancer may be prevented", None, None, None, 0), ('if people would undergo regular screenings', None, None, None, 0)]

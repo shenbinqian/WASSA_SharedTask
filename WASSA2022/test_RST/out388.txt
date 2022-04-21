@@ -1,0 +1,27 @@
+=====================> [[('This is a good example', None, None, None, 0), ('of politicians', None, None, None, 0), ('failing', None, None, None, 0), ('to keep their " TV face " on', None, None, None, 0), ('and showing their true selves .', None, None, None, 1), ("It 's nothing new ,", None, None, None, 0), ("and it 's kind of ridiculous that people are surprised", None, None, None, 0), ('when it happens . This guy is a narcissistic jerk , like most politicians ,', None, None, None, 0), ('and', None, None, None, 0), ('if you get him a little overstimulated', None, None, None, 0), ("he 'll say something stupid , like a child .", None, None, None, 1), ("The good news is he probably wo n't get elected ,", None, None, None, 0), ('the bad news is another jerk probably will .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a good example
+Leaf:  N Elaborate of politicians
+Leaf:  N Elaborate failing
+Leaf:  N Joint to keep their " TV face " on
+Leaf:  N Joint and showing their true selves .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It 's nothing new ,
+Leaf:  N Background and it 's kind of ridiculous that people are surprised
+Leaf:  S span when it happens . This guy is a narcissistic jerk , like most politicians ,
+Inner:  N Joint None Background NS
+Leaf:  N Same-Unit and
+Leaf:  S span if you get him a little overstimulated
+Leaf:  N Condition he 'll say something stupid , like a child .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Contrast The good news is he probably wo n't get elected ,
+Leaf:  N Contrast the bad news is another jerk probably will .
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is a good example', None, None, None, 0), ('of politicians', None, None, None, 0), ('failing', None, None, None, 0), ('to keep their " TV face " on', None, None, None, 0), ('and showing their true selves .', None, None, None, 1), ("It 's nothing new ,", None, None, None, 0), ("and it 's kind of ridiculous that people are surprised", None, None, None, 0), ('when it happens . This guy is a narcissistic jerk , like most politicians ,', None, None, None, 0), ('and', None, None, None, 0), ('if you get him a little overstimulated', None, None, None, 0), ("he 'll say something stupid , like a child .", None, None, None, 1), ("The good news is he probably wo n't get elected ,", None, None, None, 0), ('the bad news is another jerk probably will .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('What do you think of this cruise ship lawsuit ?', None, None, None, 1), ('It does seem that the ship could have done more', None, None, None, 0), ('to try to save the man .', None, None, None, 1), ('On the other hand it appears that the man jumped off of the boat .', None, None, None, 1), ('They did try to grab and save him', None, None, None, 0), ('but could not hold on .', None, None, None, 1), ('Do they have an obligation beyond that', None, None, None, 0), ('when he jumped ?', None, None, None, 1), ("I 'd be interested in your thoughts .", None, None, None, 1)]]
+Leaf:  N Evaluation What do you think of this cruise ship lawsuit ?
+Leaf:  N Enablement It does seem that the ship could have done more
+Leaf:  S span to try to save the man .
+Inner:  S span None Enablement NS
+Leaf:  N Elaborate On the other hand it appears that the man jumped off of the boat .
+Leaf:  N Contrast They did try to grab and save him
+Leaf:  S span but could not hold on .
+Inner:  S span None Contrast NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Background Do they have an obligation beyond that
+Leaf:  S span when he jumped ?
+Inner:  S span None Background NS
+Inner:  N Condition None Evaluation NS
+Leaf:  S span I 'd be interested in your thoughts .
+Inner:  S span None Condition NS
+Inner:  Root None None Evaluation NS
+[('What do you think of this cruise ship lawsuit ?', None, None, None, 1), ('It does seem that the ship could have done more', None, None, None, 0), ('to try to save the man .', None, None, None, 1), ('On the other hand it appears that the man jumped off of the boat .', None, None, None, 1), ('They did try to grab and save him', None, None, None, 0), ('but could not hold on .', None, None, None, 1), ('Do they have an obligation beyond that', None, None, None, 0), ('when he jumped ?', None, None, None, 1), ("I 'd be interested in your thoughts .", None, None, None, 1)]

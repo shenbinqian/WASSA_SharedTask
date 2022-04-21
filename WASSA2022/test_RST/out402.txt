@@ -1,0 +1,25 @@
+=====================> [[('This is really crazy', None, None, None, 0), ('that', None, None, None, 0), ('just because people have backyard ponds', None, None, None, 0), ('that so many amphibians could be killed .', None, None, None, 1), ('I never though previously about what each individual pond could do to a frog .', None, None, None, 1), ('Makes you think', None, None, None, 0), ('of how if just one pond has some sort of disease from animal etc', None, None, None, 0), ('how fast and much it could spread .', None, None, None, 1), ('I never thought', None, None, None, 0), ('of how', None, None, None, 0), ('what I do in my garden', None, None, None, 0), ("could have such a affect on other animals and other people 's ponds and gardens .", None, None, None, 1)]]
+Leaf:  N Manner-Means This is really crazy
+Leaf:  N Same-Unit that
+Leaf:  S span just because people have backyard ponds
+Leaf:  N Background that so many amphibians could be killed .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Joint I never though previously about what each individual pond could do to a frog .
+Leaf:  S span Makes you think
+Leaf:  S span of how if just one pond has some sort of disease from animal etc
+Leaf:  N Condition how fast and much it could spread .
+Inner:  N Attribution None Condition SN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I never thought
+Leaf:  S span of how
+Leaf:  N Attribution what I do in my garden
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit could have such a affect on other animals and other people 's ponds and gardens .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This is really crazy', None, None, None, 0), ('that', None, None, None, 0), ('just because people have backyard ponds', None, None, None, 0), ('that so many amphibians could be killed .', None, None, None, 1), ('I never though previously about what each individual pond could do to a frog .', None, None, None, 1), ('Makes you think', None, None, None, 0), ('of how if just one pond has some sort of disease from animal etc', None, None, None, 0), ('how fast and much it could spread .', None, None, None, 1), ('I never thought', None, None, None, 0), ('of how', None, None, None, 0), ('what I do in my garden', None, None, None, 0), ("could have such a affect on other animals and other people 's ponds and gardens .", None, None, None, 1)]

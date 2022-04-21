@@ -1,0 +1,25 @@
+=====================> [[('Another day , another travesty . Relative travesty at least . Not that I want to downplay sexual assault ,', None, None, None, 0), ("but where is the media 's outcry for the atrocities", None, None, None, 0), ('that occur every day ,', None, None, None, 0), ('which put this to shame ?', None, None, None, 1), ('Are they only concerned', None, None, None, 0), ('because the headlines sell ?', None, None, None, 1), ('Are the journalists even making efforts', None, None, None, 0), ('to cover more pressing topics ?', None, None, None, 1), ('At what will we just stop feeding our never ending desire', None, None, None, 0), ('to feed off the misery of others ?', None, None, None, 1), ('Put down the fucking phone', None, None, None, 0), ('and go do some good for the world .', None, None, None, 1)]]
+Leaf:  S span Another day , another travesty . Relative travesty at least . Not that I want to downplay sexual assault ,
+Leaf:  N Elaborate but where is the media 's outcry for the atrocities
+Leaf:  S span that occur every day ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span which put this to shame ?
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Explanation Are they only concerned
+Leaf:  S span because the headlines sell ?
+Inner:  N Joint None Explanation NS
+Leaf:  N Elaborate Are the journalists even making efforts
+Leaf:  S span to cover more pressing topics ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate At what will we just stop feeding our never ending desire
+Leaf:  S span to feed off the misery of others ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Temporal Put down the fucking phone
+Leaf:  N Temporal and go do some good for the world .
+Inner:  N Topic-Change None Temporal NN
+Inner:  Root None None Topic-Change NN
+[('Another day , another travesty . Relative travesty at least . Not that I want to downplay sexual assault ,', None, None, None, 0), ("but where is the media 's outcry for the atrocities", None, None, None, 0), ('that occur every day ,', None, None, None, 0), ('which put this to shame ?', None, None, None, 1), ('Are they only concerned', None, None, None, 0), ('because the headlines sell ?', None, None, None, 1), ('Are the journalists even making efforts', None, None, None, 0), ('to cover more pressing topics ?', None, None, None, 1), ('At what will we just stop feeding our never ending desire', None, None, None, 0), ('to feed off the misery of others ?', None, None, None, 1), ('Put down the fucking phone', None, None, None, 0), ('and go do some good for the world .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[("It 's difficult when our priorities do n't align .", None, None, None, 1), ('These two people should talk things out .', None, None, None, 1), ('They both are passionate', None, None, None, 0), ('and want to do something for the area ,', None, None, None, 0), ('i feel bad for everyone involved .', None, None, None, 1), ('The pie guy is a passionate and outspoken advocate of right of the underprivileged ,', None, None, None, 0), ('but he mayor is doing something', None, None, None, 0), ('that benefit the city', None, None, None, 0), ('and generates income', None, None, None, 0), ('and that has its place as well .', None, None, None, 1), ("It 's a shame", None, None, None, 0), ('when our ideologies take president over our humanity ,', None, None, None, 0), ('i think .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's difficult when our priorities do n't align .
+Leaf:  N Elaborate These two people should talk things out .
+Leaf:  N Joint They both are passionate
+Leaf:  N Joint and want to do something for the area ,
+Inner:  N Evaluation None Joint NN
+Leaf:  S span i feel bad for everyone involved .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast The pie guy is a passionate and outspoken advocate of right of the underprivileged ,
+Leaf:  N Elaborate but he mayor is doing something
+Leaf:  N Joint that benefit the city
+Leaf:  N Joint and generates income
+Inner:  N Evaluation None Joint NN
+Leaf:  S span and that has its place as well .
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Background It 's a shame
+Leaf:  S span when our ideologies take president over our humanity ,
+Inner:  N Attribution None Background NS
+Leaf:  S span i think .
+Inner:  S span None Attribution NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("It 's difficult when our priorities do n't align .", None, None, None, 1), ('These two people should talk things out .', None, None, None, 1), ('They both are passionate', None, None, None, 0), ('and want to do something for the area ,', None, None, None, 0), ('i feel bad for everyone involved .', None, None, None, 1), ('The pie guy is a passionate and outspoken advocate of right of the underprivileged ,', None, None, None, 0), ('but he mayor is doing something', None, None, None, 0), ('that benefit the city', None, None, None, 0), ('and generates income', None, None, None, 0), ('and that has its place as well .', None, None, None, 1), ("It 's a shame", None, None, None, 0), ('when our ideologies take president over our humanity ,', None, None, None, 0), ('i think .', None, None, None, 1)]

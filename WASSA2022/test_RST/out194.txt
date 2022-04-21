@@ -1,0 +1,31 @@
+=====================> [[("That 's really interesting ...", None, None, None, 1), ('I wonder', None, None, None, 0), ('which California cities are the most polluted ?', None, None, None, 1), ('I know', None, None, None, 0), ('LA is bad', None, None, None, 0), ("but I 'm not sure about the other cities like San Francisco or San Diego .", None, None, None, 1), ('Probably all the major cities are bad places', None, None, None, 0), ('to be', None, None, None, 0), ('regarding air pollution .', None, None, None, 1), ('If I had lung cancer ,', None, None, None, 0), ('I would be moving asap .', None, None, None, 1), ('Or maybe since you know', None, None, None, 0), ('you are going to die anyway ,', None, None, None, 0), ("it 's better to be in a familiar area with friends and family ,", None, None, None, 0), ('even though that might take years off your life ...', None, None, None, 1)]]
+Leaf:  N Elaborate That 's really interesting ...
+Leaf:  S span I wonder
+Leaf:  N Attribution which California cities are the most polluted ?
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Contrast LA is bad
+Leaf:  N Contrast but I 'm not sure about the other cities like San Francisco or San Diego .
+Inner:  N Attribution None Contrast NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Probably all the major cities are bad places
+Leaf:  N Background to be
+Leaf:  S span regarding air pollution .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If I had lung cancer ,
+Leaf:  N Condition I would be moving asap .
+Inner:  N Joint None Condition SN
+Leaf:  S span Or maybe since you know
+Leaf:  N Attribution you are going to die anyway ,
+Inner:  S span None Attribution SN
+Leaf:  N Background it 's better to be in a familiar area with friends and family ,
+Inner:  N Contrast None Background SN
+Leaf:  S span even though that might take years off your life ...
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("That 's really interesting ...", None, None, None, 1), ('I wonder', None, None, None, 0), ('which California cities are the most polluted ?', None, None, None, 1), ('I know', None, None, None, 0), ('LA is bad', None, None, None, 0), ("but I 'm not sure about the other cities like San Francisco or San Diego .", None, None, None, 1), ('Probably all the major cities are bad places', None, None, None, 0), ('to be', None, None, None, 0), ('regarding air pollution .', None, None, None, 1), ('If I had lung cancer ,', None, None, None, 0), ('I would be moving asap .', None, None, None, 1), ('Or maybe since you know', None, None, None, 0), ('you are going to die anyway ,', None, None, None, 0), ("it 's better to be in a familiar area with friends and family ,", None, None, None, 0), ('even though that might take years off your life ...', None, None, None, 1)]

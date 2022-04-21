@@ -1,0 +1,47 @@
+=====================> [[('This whole story', None, None, None, 0), ('featured in the article', None, None, None, 0), ('was really heartbreaking .', None, None, None, 1), ('Pet owners trusted this kennel', None, None, None, 0), ('to take care of their precious dogs .', None, None, None, 1), ('There were 14', None, None, None, 0), ('that died due to ventilation problems .', None, None, None, 1), ('I can totally feel', None, None, None, 0), ('what these owners are going through', None, None, None, 0), ('because as someone', None, None, None, 0), ("who 's been a dog owner pretty much my entire life ,", None, None, None, 0), ('I know how it feels to lose a pet . Personally speaking , my dogs are part of the family and in many ways like my kids . The kennel seemed to have a good reputation ,', None, None, None, 0), ('but', None, None, None, 0), ('when I read on I see', None, None, None, 0), ("that they do n't have the animals under constant supervision .", None, None, None, 1), ('I also learned', None, None, None, 0), ("that there are n't any laws", None, None, None, 0), ('that regulate how these shelters operate .', None, None, None, 1), ('Something needs to be passed through congress', None, None, None, 0), ('to ensure', None, None, None, 0), ('that these places operate in a way', None, None, None, 0), ('that treats the animals with the respect', None, None, None, 0), ('that they deserve .', None, None, None, 1)]]
+Leaf:  N Elaborate This whole story
+Leaf:  S span featured in the article
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was really heartbreaking .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Enablement Pet owners trusted this kennel
+Leaf:  S span to take care of their precious dogs .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate There were 14
+Leaf:  S span that died due to ventilation problems .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I can totally feel
+Leaf:  N Attribution what these owners are going through
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate because as someone
+Leaf:  S span who 's been a dog owner pretty much my entire life ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I know how it feels to lose a pet . Personally speaking , my dogs are part of the family and in many ways like my kids . The kennel seemed to have a good reputation ,
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Leaf:  N Attribution but
+Leaf:  S span when I read on I see
+Leaf:  N Attribution that they do n't have the animals under constant supervision .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Attribution NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I also learned
+Leaf:  N Elaborate that there are n't any laws
+Leaf:  S span that regulate how these shelters operate .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Enablement Something needs to be passed through congress
+Leaf:  S span to ensure
+Leaf:  N Elaborate that these places operate in a way
+Leaf:  N Elaborate that treats the animals with the respect
+Leaf:  S span that they deserve .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('This whole story', None, None, None, 0), ('featured in the article', None, None, None, 0), ('was really heartbreaking .', None, None, None, 1), ('Pet owners trusted this kennel', None, None, None, 0), ('to take care of their precious dogs .', None, None, None, 1), ('There were 14', None, None, None, 0), ('that died due to ventilation problems .', None, None, None, 1), ('I can totally feel', None, None, None, 0), ('what these owners are going through', None, None, None, 0), ('because as someone', None, None, None, 0), ("who 's been a dog owner pretty much my entire life ,", None, None, None, 0), ('I know how it feels to lose a pet . Personally speaking , my dogs are part of the family and in many ways like my kids . The kennel seemed to have a good reputation ,', None, None, None, 0), ('but', None, None, None, 0), ('when I read on I see', None, None, None, 0), ("that they do n't have the animals under constant supervision .", None, None, None, 1), ('I also learned', None, None, None, 0), ("that there are n't any laws", None, None, None, 0), ('that regulate how these shelters operate .', None, None, None, 1), ('Something needs to be passed through congress', None, None, None, 0), ('to ensure', None, None, None, 0), ('that these places operate in a way', None, None, None, 0), ('that treats the animals with the respect', None, None, None, 0), ('that they deserve .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('This is an interesting article ,', None, None, None, 0), ('but to me the main fact is impossible to refute :', None, None, None, 0), ('less than one half of one percent of the people there ride bikes .', None, None, None, 1), ('To me , that means the bike lanes never should have been put in in the first place ,', None, None, None, 0), ('and they are a non-issue now .', None, None, None, 1), ('A city government needs to prioritize ,', None, None, None, 0), ("and that small a percentage of the population unfortunately does n't get much in the way of money .", None, None, None, 1)]]
+Leaf:  N Contrast This is an interesting article ,
+Leaf:  N Contrast but to me the main fact is impossible to refute :
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span less than one half of one percent of the people there ride bikes .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint To me , that means the bike lanes never should have been put in in the first place ,
+Leaf:  N Joint and they are a non-issue now .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint A city government needs to prioritize ,
+Leaf:  N Joint and that small a percentage of the population unfortunately does n't get much in the way of money .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This is an interesting article ,', None, None, None, 0), ('but to me the main fact is impossible to refute :', None, None, None, 0), ('less than one half of one percent of the people there ride bikes .', None, None, None, 1), ('To me , that means the bike lanes never should have been put in in the first place ,', None, None, None, 0), ('and they are a non-issue now .', None, None, None, 1), ('A city government needs to prioritize ,', None, None, None, 0), ("and that small a percentage of the population unfortunately does n't get much in the way of money .", None, None, None, 1)]

@@ -1,0 +1,39 @@
+=====================> [[("I ca n't understand", None, None, None, 0), ('how anyone could treat an animal', None, None, None, 0), ('so badly', None, None, None, 0), ('and knowingly put its life in danger under any circumstances ,', None, None, None, 0), ('but the fact', None, None, None, 0), ('that these dogs were made', None, None, None, 0), ('to work in extremely dangerous conditions', None, None, None, 0), ("and their handlers could n't even be bothered to protect them", None, None, None, 0), ('breaks my heart .', None, None, None, 1), ('I hope', None, None, None, 0), ('the first officer mentioned is also charged with animal cruelty', None, None, None, 0), ('and I hope they both get the maximum punishment', None, None, None, 0), ('allowed by law .', None, None, None, 1), ('These were accidents , yes ,', None, None, None, 0), ('but police officers are given training', None, None, None, 0), ('on how to care for the dogs', None, None, None, 0), ('they handle', None, None, None, 0), ('and these handlers completely disregarded that training', None, None, None, 0), ('and let their partners die .', None, None, None, 1)]]
+Leaf:  S span I ca n't understand
+Leaf:  N Manner-Means how anyone could treat an animal
+Leaf:  N Temporal so badly
+Leaf:  N Temporal and knowingly put its life in danger under any circumstances ,
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but the fact
+Leaf:  N Enablement that these dogs were made
+Leaf:  N Enablement to work in extremely dangerous conditions
+Leaf:  S span and their handlers could n't even be bothered to protect them
+Inner:  S span None Enablement NS
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit breaks my heart .
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span I hope
+Leaf:  N Joint the first officer mentioned is also charged with animal cruelty
+Leaf:  N Elaborate and I hope they both get the maximum punishment
+Leaf:  S span allowed by law .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span These were accidents , yes ,
+Leaf:  N Elaborate but police officers are given training
+Leaf:  N Elaborate on how to care for the dogs
+Leaf:  S span they handle
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Cause and these handlers completely disregarded that training
+Leaf:  N Cause and let their partners die .
+Inner:  N Contrast None Cause NN
+Inner:  N Contrast None Contrast SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[("I ca n't understand", None, None, None, 0), ('how anyone could treat an animal', None, None, None, 0), ('so badly', None, None, None, 0), ('and knowingly put its life in danger under any circumstances ,', None, None, None, 0), ('but the fact', None, None, None, 0), ('that these dogs were made', None, None, None, 0), ('to work in extremely dangerous conditions', None, None, None, 0), ("and their handlers could n't even be bothered to protect them", None, None, None, 0), ('breaks my heart .', None, None, None, 1), ('I hope', None, None, None, 0), ('the first officer mentioned is also charged with animal cruelty', None, None, None, 0), ('and I hope they both get the maximum punishment', None, None, None, 0), ('allowed by law .', None, None, None, 1), ('These were accidents , yes ,', None, None, None, 0), ('but police officers are given training', None, None, None, 0), ('on how to care for the dogs', None, None, None, 0), ('they handle', None, None, None, 0), ('and these handlers completely disregarded that training', None, None, None, 0), ('and let their partners die .', None, None, None, 1)]

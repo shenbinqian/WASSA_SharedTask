@@ -1,0 +1,25 @@
+=====================> [[('Even though this is incredibly sad ,', None, None, None, 0), ('it was heartwarming to know there are many volunteers out there', None, None, None, 0), ('willing to help baby Isibindi .', None, None, None, 1), ('NOt every animal can e saved , especially in the wild .', None, None, None, 1), ("But , is n't it great that there is actually a rino orphanage", None, None, None, 0), ('to care for those', None, None, None, 0), ('who are out there', None, None, None, 0), ('and DO survive .', None, None, None, 1), ('I hate to sound cold ,', None, None, None, 0), ('but there is truly a circle of life', None, None, None, 0), ('when it comes to wild animals', None, None, None, 0), ('and we must accept that sometimes .', None, None, None, 1)]]
+Leaf:  S span Even though this is incredibly sad ,
+Leaf:  N Elaborate it was heartwarming to know there are many volunteers out there
+Leaf:  S span willing to help baby Isibindi .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span NOt every animal can e saved , especially in the wild .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement But , is n't it great that there is actually a rino orphanage
+Leaf:  N Elaborate to care for those
+Leaf:  N Joint who are out there
+Leaf:  N Joint and DO survive .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I hate to sound cold ,
+Leaf:  N Background but there is truly a circle of life
+Leaf:  S span when it comes to wild animals
+Inner:  N Evaluation None Background NS
+Leaf:  S span and we must accept that sometimes .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Even though this is incredibly sad ,', None, None, None, 0), ('it was heartwarming to know there are many volunteers out there', None, None, None, 0), ('willing to help baby Isibindi .', None, None, None, 1), ('NOt every animal can e saved , especially in the wild .', None, None, None, 1), ("But , is n't it great that there is actually a rino orphanage", None, None, None, 0), ('to care for those', None, None, None, 0), ('who are out there', None, None, None, 0), ('and DO survive .', None, None, None, 1), ('I hate to sound cold ,', None, None, None, 0), ('but there is truly a circle of life', None, None, None, 0), ('when it comes to wild animals', None, None, None, 0), ('and we must accept that sometimes .', None, None, None, 1)]

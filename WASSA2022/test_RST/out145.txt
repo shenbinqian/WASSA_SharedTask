@@ -1,0 +1,29 @@
+=====================> [[('The last article', None, None, None, 0), ('I read', None, None, None, 0), ('actually references three different events', None, None, None, 0), ('that included a typhoon in China/Taiwan , the " Sudden Oak Death " of California and the toxicity of dust in the average home .', None, None, None, 1), ('The most alarming by far was the article about the sheer volume of trees', None, None, None, 0), ('that are dying', None, None, None, 0), ('due to drought and plagues of beetles in California .', None, None, None, 1), ('I truly hope', None, None, None, 0), ('that they are making an effort', None, None, None, 0), ('to replace these trees', None, None, None, 0), ('that have been there', None, None, None, 0), ('for generations', None, None, None, 0), ('to make up for what is being lost ,', None, None, None, 0), ('because this kind of massacre creates a positive feedback loop for global warming .', None, None, None, 1)]]
+Leaf:  N Elaborate The last article
+Leaf:  S span I read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit actually references three different events
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span that included a typhoon in China/Taiwan , the " Sudden Oak Death " of California and the toxicity of dust in the average home .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The most alarming by far was the article about the sheer volume of trees
+Leaf:  N Cause that are dying
+Leaf:  S span due to drought and plagues of beetles in California .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I truly hope
+Leaf:  N Elaborate that they are making an effort
+Leaf:  N Elaborate to replace these trees
+Leaf:  N Enablement that have been there
+Leaf:  S span for generations
+Inner:  S span None Enablement NS
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to make up for what is being lost ,
+Inner:  S span None Enablement NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because this kind of massacre creates a positive feedback loop for global warming .
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The last article', None, None, None, 0), ('I read', None, None, None, 0), ('actually references three different events', None, None, None, 0), ('that included a typhoon in China/Taiwan , the " Sudden Oak Death " of California and the toxicity of dust in the average home .', None, None, None, 1), ('The most alarming by far was the article about the sheer volume of trees', None, None, None, 0), ('that are dying', None, None, None, 0), ('due to drought and plagues of beetles in California .', None, None, None, 1), ('I truly hope', None, None, None, 0), ('that they are making an effort', None, None, None, 0), ('to replace these trees', None, None, None, 0), ('that have been there', None, None, None, 0), ('for generations', None, None, None, 0), ('to make up for what is being lost ,', None, None, None, 0), ('because this kind of massacre creates a positive feedback loop for global warming .', None, None, None, 1)]

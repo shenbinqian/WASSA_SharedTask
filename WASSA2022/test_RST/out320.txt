@@ -1,0 +1,17 @@
+=====================> [[('Hey did you hear about this article and polar bears in China .', None, None, None, 1), ('so apparently they are not taking care of these poor bears well .', None, None, None, 1), ('I think', None, None, None, 0), ('they should not have these bears in captivity like that', None, None, None, 0), ('and you already know', None, None, None, 0), ('how I feel about zoos', None, None, None, 0), ('we need to let these animals live free', None, None, None, 0), ('and have a good life free and clear', None, None, None, 0)]]
+Leaf:  N Textual-Organization Hey did you hear about this article and polar bears in China .
+Leaf:  N Evaluation so apparently they are not taking care of these poor bears well .
+Leaf:  S span I think
+Leaf:  N Attribution they should not have these bears in captivity like that
+Inner:  N Joint None Attribution SN
+Leaf:  S span and you already know
+Leaf:  N Attribution how I feel about zoos
+Inner:  S span None Attribution SN
+Leaf:  N Joint we need to let these animals live free
+Leaf:  N Joint and have a good life free and clear
+Inner:  N Evaluation None Joint NN
+Inner:  N Joint None Evaluation SN
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Hey did you hear about this article and polar bears in China .', None, None, None, 1), ('so apparently they are not taking care of these poor bears well .', None, None, None, 1), ('I think', None, None, None, 0), ('they should not have these bears in captivity like that', None, None, None, 0), ('and you already know', None, None, None, 0), ('how I feel about zoos', None, None, None, 0), ('we need to let these animals live free', None, None, None, 0), ('and have a good life free and clear', None, None, None, 0)]

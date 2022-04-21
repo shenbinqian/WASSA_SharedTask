@@ -1,0 +1,37 @@
+=====================> [[('This is getting ridiculous .', None, None, None, 1), ('Body cams need to be a requirement , right now !', None, None, None, 1), ("There 's no excuse for any of these shootings", None, None, None, 0), ("that do n't have footage .", None, None, None, 1), ('Police that are shooting unarmed people', None, None, None, 0), ("that are n't violent ,", None, None, None, 0), ('or doing anything suspicious', None, None, None, 0), ('need to be disciplined and fired .', None, None, None, 1), ('Police that shoot people', None, None, None, 0), ('that are suspicious , and/or violent , however ,', None, None, None, 0), ('are doing their job .', None, None, None, 1), ("I 'm pretty sure the cop", None, None, None, 0), ('that shot the man with the warrants', None, None, None, 0), ('was black as well ,', None, None, None, 0), ("so I do n't understand the reaching to say", None, None, None, 0), ("it 's a hate crime .", None, None, None, 1), ('Sometimes people make terrible decisions ,', None, None, None, 0), ('and it sounds like he was one of them .', None, None, None, 1)]]
+Leaf:  N Evaluation This is getting ridiculous .
+Leaf:  N Joint Body cams need to be a requirement , right now !
+Leaf:  N Elaborate There 's no excuse for any of these shootings
+Leaf:  S span that do n't have footage .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate Police that are shooting unarmed people
+Leaf:  N Joint that are n't violent ,
+Leaf:  N Joint or doing anything suspicious
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit need to be disciplined and fired .
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Elaborate Police that shoot people
+Leaf:  S span that are suspicious , and/or violent , however ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are doing their job .
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate I 'm pretty sure the cop
+Leaf:  S span that shot the man with the warrants
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was black as well ,
+Inner:  S span None Same-Unit NN
+Leaf:  S span so I do n't understand the reaching to say
+Leaf:  N Attribution it 's a hate crime .
+Inner:  N Explanation None Attribution SN
+Inner:  S span None Explanation SN
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Summary NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint Sometimes people make terrible decisions ,
+Leaf:  N Joint and it sounds like he was one of them .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is getting ridiculous .', None, None, None, 1), ('Body cams need to be a requirement , right now !', None, None, None, 1), ("There 's no excuse for any of these shootings", None, None, None, 0), ("that do n't have footage .", None, None, None, 1), ('Police that are shooting unarmed people', None, None, None, 0), ("that are n't violent ,", None, None, None, 0), ('or doing anything suspicious', None, None, None, 0), ('need to be disciplined and fired .', None, None, None, 1), ('Police that shoot people', None, None, None, 0), ('that are suspicious , and/or violent , however ,', None, None, None, 0), ('are doing their job .', None, None, None, 1), ("I 'm pretty sure the cop", None, None, None, 0), ('that shot the man with the warrants', None, None, None, 0), ('was black as well ,', None, None, None, 0), ("so I do n't understand the reaching to say", None, None, None, 0), ("it 's a hate crime .", None, None, None, 1), ('Sometimes people make terrible decisions ,', None, None, None, 0), ('and it sounds like he was one of them .', None, None, None, 1)]

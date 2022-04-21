@@ -1,0 +1,23 @@
+=====================> [[('Holy crap man , did you see this article about British red squirrels .', None, None, None, 1), ('Apparently they carry leprosy ,', None, None, None, 0), ("which has n't existed in the UK for a long time .", None, None, None, 1), ("It 's so weird ,", None, None, None, 0), ("they did n't even know", None, None, None, 0), ('squirrels could get leprosy', None, None, None, 0), ('until they found these dead ones with the disease .', None, None, None, 1), ('Can you imagine what those poor little animals must have gone through ?', None, None, None, 1), ('All that pain of your skin just eating away at itself', None, None, None, 0), ('only to die ?', None, None, None, 1), ("I would n't wish it on any creature .", None, None, None, 1)]]
+Leaf:  N Elaborate Holy crap man , did you see this article about British red squirrels .
+Leaf:  N Elaborate Apparently they carry leprosy ,
+Leaf:  S span which has n't existed in the UK for a long time .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's so weird ,
+Leaf:  S span they did n't even know
+Leaf:  N Attribution squirrels could get leprosy
+Inner:  N Explanation None Attribution SN
+Leaf:  S span until they found these dead ones with the disease .
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation Can you imagine what those poor little animals must have gone through ?
+Leaf:  N Cause All that pain of your skin just eating away at itself
+Leaf:  S span only to die ?
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I would n't wish it on any creature .
+Inner:  Root None None Evaluation NS
+[('Holy crap man , did you see this article about British red squirrels .', None, None, None, 1), ('Apparently they carry leprosy ,', None, None, None, 0), ("which has n't existed in the UK for a long time .", None, None, None, 1), ("It 's so weird ,", None, None, None, 0), ("they did n't even know", None, None, None, 0), ('squirrels could get leprosy', None, None, None, 0), ('until they found these dead ones with the disease .', None, None, None, 1), ('Can you imagine what those poor little animals must have gone through ?', None, None, None, 1), ('All that pain of your skin just eating away at itself', None, None, None, 0), ('only to die ?', None, None, None, 1), ("I would n't wish it on any creature .", None, None, None, 1)]

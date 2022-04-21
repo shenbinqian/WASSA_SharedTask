@@ -1,0 +1,17 @@
+=====================> [[('Take a look at this man .', None, None, None, 1), ("It 's fucked up .", None, None, None, 1), ('Why would a first world country allow this to happen ?', None, None, None, 1), ('Then again we are still fighting with the shit at the border .', None, None, None, 1), ("It guess it 's not that different .", None, None, None, 1), ("I just do n't understand", None, None, None, 0), ('why this is acceptable for any first world country .', None, None, None, 1), ("Why has n't the UN intervened or something ?", None, None, None, 1)]]
+Leaf:  N Elaborate Take a look at this man .
+Leaf:  N Evaluation It 's fucked up .
+Leaf:  S span Why would a first world country allow this to happen ?
+Inner:  S span None Evaluation NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span Then again we are still fighting with the shit at the border .
+Leaf:  N Evaluation It guess it 's not that different .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  S span I just do n't understand
+Leaf:  N Attribution why this is acceptable for any first world country .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Why has n't the UN intervened or something ?
+Inner:  S span None Joint NN
+Inner:  N Temporal None Elaborate NS
+Inner:  Root None None Temporal NN
+[('Take a look at this man .', None, None, None, 1), ("It 's fucked up .", None, None, None, 1), ('Why would a first world country allow this to happen ?', None, None, None, 1), ('Then again we are still fighting with the shit at the border .', None, None, None, 1), ("It guess it 's not that different .", None, None, None, 1), ("I just do n't understand", None, None, None, 0), ('why this is acceptable for any first world country .', None, None, None, 1), ("Why has n't the UN intervened or something ?", None, None, None, 1)]

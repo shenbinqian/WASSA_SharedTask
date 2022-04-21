@@ -1,0 +1,23 @@
+=====================> [[('There is no excuse for a country to do this to anyone .', None, None, None, 1), ('Refugees need help the most .', None, None, None, 1), ('They have no money', None, None, None, 0), ('and emotionally are broken .', None, None, None, 1), ('It ’s sad that children have to go through this .', None, None, None, 1), ('They left their country', None, None, None, 0), ('that treated them bad', None, None, None, 0), ('to go to a better country', None, None, None, 0), ('and that ’s what they get .', None, None, None, 1), ('It ’s Truely so sad .', None, None, None, 1), ('This needs to change .', None, None, None, 1)]]
+Leaf:  N Elaborate There is no excuse for a country to do this to anyone .
+Leaf:  N Elaborate Refugees need help the most .
+Leaf:  N Joint They have no money
+Leaf:  N Joint and emotionally are broken .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation It ’s sad that children have to go through this .
+Leaf:  N Elaborate They left their country
+Leaf:  S span that treated them bad
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to go to a better country
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span and that ’s what they get .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It ’s Truely so sad .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This needs to change .
+Inner:  Root None None Evaluation NS
+[('There is no excuse for a country to do this to anyone .', None, None, None, 1), ('Refugees need help the most .', None, None, None, 1), ('They have no money', None, None, None, 0), ('and emotionally are broken .', None, None, None, 1), ('It ’s sad that children have to go through this .', None, None, None, 1), ('They left their country', None, None, None, 0), ('that treated them bad', None, None, None, 0), ('to go to a better country', None, None, None, 0), ('and that ’s what they get .', None, None, None, 1), ('It ’s Truely so sad .', None, None, None, 1), ('This needs to change .', None, None, None, 1)]

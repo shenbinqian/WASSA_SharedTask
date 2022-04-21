@@ -1,0 +1,19 @@
+=====================> [[('The fountains should stay shut down', None, None, None, 0), ('until the lead problem is resolved .', None, None, None, 1), ('Lead is bad for you .', None, None, None, 1), ("You do n't know what can happen to you later on .", None, None, None, 1), ("I do n't like that .", None, None, None, 1), ('Look at those poor kids in Flint .', None, None, None, 1), ('They are suffering really badly', None, None, None, 0), ("and do n't deserve it .", None, None, None, 1), ('So keep the fountains off just in case . Better safe then sorry .', None, None, None, 1)]]
+Leaf:  N Condition The fountains should stay shut down
+Leaf:  S span until the lead problem is resolved .
+Inner:  N Elaborate None Condition NS
+Leaf:  N Summary Lead is bad for you .
+Leaf:  S span You do n't know what can happen to you later on .
+Inner:  N Evaluation None Summary NS
+Leaf:  N Explanation I do n't like that .
+Leaf:  N Elaborate Look at those poor kids in Flint .
+Leaf:  N Joint They are suffering really badly
+Leaf:  N Joint and do n't deserve it .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span So keep the fountains off just in case . Better safe then sorry .
+Inner:  Root None None Cause NS
+[('The fountains should stay shut down', None, None, None, 0), ('until the lead problem is resolved .', None, None, None, 1), ('Lead is bad for you .', None, None, None, 1), ("You do n't know what can happen to you later on .", None, None, None, 1), ("I do n't like that .", None, None, None, 1), ('Look at those poor kids in Flint .', None, None, None, 1), ('They are suffering really badly', None, None, None, 0), ("and do n't deserve it .", None, None, None, 1), ('So keep the fountains off just in case . Better safe then sorry .', None, None, None, 1)]

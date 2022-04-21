@@ -1,0 +1,39 @@
+=====================> [[('It is about a family in Paris .', None, None, None, 1), ("It talks about the woman 's kids", None, None, None, 0), ('and how they are enjoying it .', None, None, None, 1), ('She talks', None, None, None, 0), ('about how her friends were concerned over her going to Paris', None, None, None, 0), ('because of the trouble', None, None, None, 0), ('they had there in the past', None, None, None, 0), ('and how she told them', None, None, None, 0), ('she was fine with going . I like that she was confident to go', None, None, None, 0), ('but had times of worry like when she arrived at the airport and they saw the armed guards . They were worried if they made the right decision to leave home . But even after that , they were able to go ahead and have a good time .', None, None, None, 1), ('She explained', None, None, None, 0), ('that', None, None, None, 0), ('while they were in Paris', None, None, None, 0), ('the shooting happened at Pulse nightclub in Orlando', None, None, None, 0), ('and that she was glad they were not there for that . I thought', None, None, None, 0), ('she had a great attitude', None, None, None, 0), ('and I think', None, None, None, 0), ('you would find that really interesting .', None, None, None, 1), ('I love that her kids were able to have fu', None, None, None, 0)]]
+Leaf:  N Elaborate It is about a family in Paris .
+Leaf:  N Joint It talks about the woman 's kids
+Leaf:  N Joint and how they are enjoying it .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She talks
+Leaf:  N Explanation about how her friends were concerned over her going to Paris
+Leaf:  N Elaborate because of the trouble
+Leaf:  S span they had there in the past
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Explanation NS
+Leaf:  S span and how she told them
+Leaf:  N Attribution she was fine with going . I like that she was confident to go
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span but had times of worry like when she arrived at the airport and they saw the armed guards . They were worried if they made the right decision to leave home . But even after that , they were able to go ahead and have a good time .
+Inner:  N Attribution None Contrast NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span She explained
+Leaf:  N Same-Unit that
+Leaf:  N Same-Unit while they were in Paris
+Leaf:  N Same-Unit the shooting happened at Pulse nightclub in Orlando
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span and that she was glad they were not there for that . I thought
+Leaf:  N Joint she had a great attitude
+Leaf:  S span and I think
+Leaf:  N Attribution you would find that really interesting .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Inner:  N Attribution None Evaluation NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I love that her kids were able to have fu
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('It is about a family in Paris .', None, None, None, 1), ("It talks about the woman 's kids", None, None, None, 0), ('and how they are enjoying it .', None, None, None, 1), ('She talks', None, None, None, 0), ('about how her friends were concerned over her going to Paris', None, None, None, 0), ('because of the trouble', None, None, None, 0), ('they had there in the past', None, None, None, 0), ('and how she told them', None, None, None, 0), ('she was fine with going . I like that she was confident to go', None, None, None, 0), ('but had times of worry like when she arrived at the airport and they saw the armed guards . They were worried if they made the right decision to leave home . But even after that , they were able to go ahead and have a good time .', None, None, None, 1), ('She explained', None, None, None, 0), ('that', None, None, None, 0), ('while they were in Paris', None, None, None, 0), ('the shooting happened at Pulse nightclub in Orlando', None, None, None, 0), ('and that she was glad they were not there for that . I thought', None, None, None, 0), ('she had a great attitude', None, None, None, 0), ('and I think', None, None, None, 0), ('you would find that really interesting .', None, None, None, 1), ('I love that her kids were able to have fu', None, None, None, 0)]

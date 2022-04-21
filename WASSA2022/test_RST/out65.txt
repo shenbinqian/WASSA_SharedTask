@@ -1,0 +1,37 @@
+=====================> [[('The horror', None, None, None, 0), ('of what we have done', None, None, None, 0), ('is beyond the comprehension of most Americans .', None, None, None, 1), ('People are being treated like animals by our own soldiers .', None, None, None, 1), ('If any one goes in innocent and good ,', None, None, None, 0), ('they will come out damaged and insane or nearly so .', None, None, None, 1), ('It destroys good people with conscience', None, None, None, 0), ('( of which there are few )', None, None, None, 0), ('that work in these areas . This has been going on for decades ,', None, None, None, 0), ('and the evil is off the charts .', None, None, None, 1), ('The only way that this gets fixed is if the people are identified as torturers ,', None, None, None, 0), ('sought ,', None, None, None, 0), ('hunted down ,', None, None, None, 0), ('and burned at the stake .', None, None, None, 1), ('Psychopaths run the nation', None, None, None, 0), ('and are drawn to the military and police .', None, None, None, 1), ('As , horrible as it is , good people will have to remove these damaged individual', None, None, None, 0), ('or they WILL suffer under their boots .', None, None, None, 1)]]
+Leaf:  N Elaborate The horror
+Leaf:  S span of what we have done
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is beyond the comprehension of most Americans .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Summary People are being treated like animals by our own soldiers .
+Leaf:  S span If any one goes in innocent and good ,
+Leaf:  N Condition they will come out damaged and insane or nearly so .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Elaborate It destroys good people with conscience
+Leaf:  N Elaborate ( of which there are few )
+Leaf:  S span that work in these areas . This has been going on for decades ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and the evil is off the charts .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Cause None Explanation NS
+Leaf:  N Joint The only way that this gets fixed is if the people are identified as torturers ,
+Leaf:  N Joint sought ,
+Leaf:  N Temporal hunted down ,
+Leaf:  N Temporal and burned at the stake .
+Inner:  N Joint None Temporal NN
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint Psychopaths run the nation
+Leaf:  N Joint and are drawn to the military and police .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span As , horrible as it is , good people will have to remove these damaged individual
+Leaf:  N Condition or they WILL suffer under their boots .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('The horror', None, None, None, 0), ('of what we have done', None, None, None, 0), ('is beyond the comprehension of most Americans .', None, None, None, 1), ('People are being treated like animals by our own soldiers .', None, None, None, 1), ('If any one goes in innocent and good ,', None, None, None, 0), ('they will come out damaged and insane or nearly so .', None, None, None, 1), ('It destroys good people with conscience', None, None, None, 0), ('( of which there are few )', None, None, None, 0), ('that work in these areas . This has been going on for decades ,', None, None, None, 0), ('and the evil is off the charts .', None, None, None, 1), ('The only way that this gets fixed is if the people are identified as torturers ,', None, None, None, 0), ('sought ,', None, None, None, 0), ('hunted down ,', None, None, None, 0), ('and burned at the stake .', None, None, None, 1), ('Psychopaths run the nation', None, None, None, 0), ('and are drawn to the military and police .', None, None, None, 1), ('As , horrible as it is , good people will have to remove these damaged individual', None, None, None, 0), ('or they WILL suffer under their boots .', None, None, None, 1)]

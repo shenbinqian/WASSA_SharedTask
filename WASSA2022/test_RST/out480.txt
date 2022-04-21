@@ -1,0 +1,29 @@
+=====================> [[('A triple homicide ,', None, None, None, 0), ('and the children were left unscathed ?', None, None, None, 1), ('This speaks of something premeditated with a reason , and not a random murder spree .', None, None, None, 1), ('Those poor children are never going to forget seeing that ,', None, None, None, 0), ("and that 's so awful . At least they 're okay .", None, None, None, 1), ("You ca n't help but wonder their ages ,", None, None, None, 0), ('as children can mean anyone under 18 .', None, None, None, 1), ('So ,', None, None, None, 0), ('that being said ,', None, None, None, 0), ('there are many ways', None, None, None, 0), ('to take this story .', None, None, None, 1), ('Revenge murders ? Or children', None, None, None, 0), ('( older children )', None, None, None, 0), ('assaulting their guardians ?', None, None, None, 1)]]
+Leaf:  N Elaborate A triple homicide ,
+Leaf:  S span and the children were left unscathed ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This speaks of something premeditated with a reason , and not a random murder spree .
+Leaf:  N Joint Those poor children are never going to forget seeing that ,
+Leaf:  N Joint and that 's so awful . At least they 're okay .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background You ca n't help but wonder their ages ,
+Leaf:  S span as children can mean anyone under 18 .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Leaf:  N Same-Unit So ,
+Leaf:  S span that being said ,
+Leaf:  N Elaborate there are many ways
+Leaf:  S span to take this story .
+Inner:  N Background None Elaborate NS
+Inner:  N Same-Unit None Background SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate Revenge murders ? Or children
+Leaf:  S span ( older children )
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span assaulting their guardians ?
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('A triple homicide ,', None, None, None, 0), ('and the children were left unscathed ?', None, None, None, 1), ('This speaks of something premeditated with a reason , and not a random murder spree .', None, None, None, 1), ('Those poor children are never going to forget seeing that ,', None, None, None, 0), ("and that 's so awful . At least they 're okay .", None, None, None, 1), ("You ca n't help but wonder their ages ,", None, None, None, 0), ('as children can mean anyone under 18 .', None, None, None, 1), ('So ,', None, None, None, 0), ('that being said ,', None, None, None, 0), ('there are many ways', None, None, None, 0), ('to take this story .', None, None, None, 1), ('Revenge murders ? Or children', None, None, None, 0), ('( older children )', None, None, None, 0), ('assaulting their guardians ?', None, None, None, 1)]

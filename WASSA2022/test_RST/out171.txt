@@ -1,0 +1,17 @@
+=====================> [[('We must find a way', None, None, None, 0), ('to get the message out to Asian women', None, None, None, 0), ('about using elephant tusk for medication and decoration .', None, None, None, 1), ('If we can reach women', None, None, None, 0), ('and educate them', None, None, None, 0), ('they will lead the way for men .', None, None, None, 1), ('It will actively discourage men from seeking tusks !', None, None, None, 1), ('Please consider using this article for discussion in our next group meeting .', None, None, None, 1)]]
+Leaf:  N Elaborate We must find a way
+Leaf:  S span to get the message out to Asian women
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span about using elephant tusk for medication and decoration .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint If we can reach women
+Leaf:  N Joint and educate them
+Inner:  S span None Joint NN
+Leaf:  N Condition they will lead the way for men .
+Inner:  N Evaluation None Condition SN
+Leaf:  S span It will actively discourage men from seeking tusks !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Please consider using this article for discussion in our next group meeting .
+Inner:  Root None None Evaluation NS
+[('We must find a way', None, None, None, 0), ('to get the message out to Asian women', None, None, None, 0), ('about using elephant tusk for medication and decoration .', None, None, None, 1), ('If we can reach women', None, None, None, 0), ('and educate them', None, None, None, 0), ('they will lead the way for men .', None, None, None, 1), ('It will actively discourage men from seeking tusks !', None, None, None, 1), ('Please consider using this article for discussion in our next group meeting .', None, None, None, 1)]

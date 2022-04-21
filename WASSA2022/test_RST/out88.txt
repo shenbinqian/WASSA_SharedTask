@@ -1,0 +1,27 @@
+=====================> [[('I think', None, None, None, 0), ("it 's silly that this is even a debate .", None, None, None, 1), ('This homeless dude hopped over a fence', None, None, None, 0), ('and attacked a security guard ,', None, None, None, 0), ('the security guard defended himself', None, None, None, 0), ('despite getting stabbed .', None, None, None, 1), ('The fact', None, None, None, 0), ("that this guy has n't already been charged with attempted murder is asinine ,", None, None, None, 0), ("and I 'm surprised", None, None, None, 0), ('this is even a chance', None, None, None, 0), ('he may get off .', None, None, None, 1), ('The security guard did what he should have done', None, None, None, 0), ('and defended himself and the property .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it 's silly that this is even a debate .
+Inner:  N Summary None Attribution SN
+Leaf:  N Temporal This homeless dude hopped over a fence
+Leaf:  N Temporal and attacked a security guard ,
+Inner:  S span None Temporal NN
+Leaf:  N Contrast the security guard defended himself
+Leaf:  S span despite getting stabbed .
+Inner:  N Contrast None Contrast NS
+Inner:  N Summary None Contrast SN
+Leaf:  N Elaborate The fact
+Leaf:  S span that this guy has n't already been charged with attempted murder is asinine ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and I 'm surprised
+Leaf:  N Elaborate this is even a chance
+Leaf:  S span he may get off .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Summary NS
+Leaf:  N Joint The security guard did what he should have done
+Leaf:  N Joint and defended himself and the property .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('I think', None, None, None, 0), ("it 's silly that this is even a debate .", None, None, None, 1), ('This homeless dude hopped over a fence', None, None, None, 0), ('and attacked a security guard ,', None, None, None, 0), ('the security guard defended himself', None, None, None, 0), ('despite getting stabbed .', None, None, None, 1), ('The fact', None, None, None, 0), ("that this guy has n't already been charged with attempted murder is asinine ,", None, None, None, 0), ("and I 'm surprised", None, None, None, 0), ('this is even a chance', None, None, None, 0), ('he may get off .', None, None, None, 1), ('The security guard did what he should have done', None, None, None, 0), ('and defended himself and the property .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Hollywood just seems to be a crazy place .', None, None, None, 1), ('There are no normal relationships .', None, None, None, 1), ('How could there be ? Most of them seem to be narcissists . Especially Mariah Carey !', None, None, None, 1), ('I was a huge fan of hers', None, None, None, 0), ('growing up ,', None, None, None, 0), ("but her personal life has ruined her reputation . I do n't care much about any of these people .", None, None, None, 1), ('The article said', None, None, None, 0), ('she was getting very flirty with her backup dancer', None, None, None, 0), ('while being engaged to another man .', None, None, None, 1), ('Her fiancee apparently confronted the backup dancer', None, None, None, 0), ('and had it out with him .', None, None, None, 1), ('I think', None, None, None, 0), ('she should be held responsible for her actions .', None, None, None, 1), ('She could have abstained .', None, None, None, 1), ("It 's probably for the best that she broke off the engagement .", None, None, None, 1)]]
+Leaf:  N Explanation Hollywood just seems to be a crazy place .
+Leaf:  N Evaluation There are no normal relationships .
+Leaf:  S span How could there be ? Most of them seem to be narcissists . Especially Mariah Carey !
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Background I was a huge fan of hers
+Leaf:  S span growing up ,
+Inner:  S span None Background NS
+Leaf:  N Contrast but her personal life has ruined her reputation . I do n't care much about any of these people .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span The article said
+Leaf:  N Temporal she was getting very flirty with her backup dancer
+Leaf:  S span while being engaged to another man .
+Inner:  N Attribution None Temporal NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Temporal Her fiancee apparently confronted the backup dancer
+Leaf:  N Temporal and had it out with him .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I think
+Leaf:  N Attribution she should be held responsible for her actions .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span She could have abstained .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It 's probably for the best that she broke off the engagement .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hollywood just seems to be a crazy place .', None, None, None, 1), ('There are no normal relationships .', None, None, None, 1), ('How could there be ? Most of them seem to be narcissists . Especially Mariah Carey !', None, None, None, 1), ('I was a huge fan of hers', None, None, None, 0), ('growing up ,', None, None, None, 0), ("but her personal life has ruined her reputation . I do n't care much about any of these people .", None, None, None, 1), ('The article said', None, None, None, 0), ('she was getting very flirty with her backup dancer', None, None, None, 0), ('while being engaged to another man .', None, None, None, 1), ('Her fiancee apparently confronted the backup dancer', None, None, None, 0), ('and had it out with him .', None, None, None, 1), ('I think', None, None, None, 0), ('she should be held responsible for her actions .', None, None, None, 1), ('She could have abstained .', None, None, None, 1), ("It 's probably for the best that she broke off the engagement .", None, None, None, 1)]

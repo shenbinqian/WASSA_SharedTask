@@ -1,0 +1,23 @@
+=====================> [[('This is starting to get very real', None, None, None, 0), ('and more and more evidence is backing up this threat .', None, None, None, 1), ('It is very real', None, None, None, 0), ('and we need to pay more attention', None, None, None, 0), ('and do something about it .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('what we expect will happen', None, None, None, 0), ('if we keep ignoring this issue', None, None, None, 0), ('or pushing it off to the next generation .', None, None, None, 1), ('Global warming is happening much faster', None, None, None, 0), ('than anyone imagined .', None, None, None, 1)]]
+Leaf:  N Joint This is starting to get very real
+Leaf:  N Joint and more and more evidence is backing up this threat .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It is very real
+Leaf:  N Joint and we need to pay more attention
+Leaf:  N Joint and do something about it .
+Inner:  N Background None Joint NN
+Inner:  S span None Background SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I 'm not sure
+Leaf:  N Condition what we expect will happen
+Leaf:  N Joint if we keep ignoring this issue
+Leaf:  N Joint or pushing it off to the next generation .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Comparison Global warming is happening much faster
+Leaf:  S span than anyone imagined .
+Inner:  S span None Comparison NS
+Inner:  Root None None Evaluation NS
+[('This is starting to get very real', None, None, None, 0), ('and more and more evidence is backing up this threat .', None, None, None, 1), ('It is very real', None, None, None, 0), ('and we need to pay more attention', None, None, None, 0), ('and do something about it .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('what we expect will happen', None, None, None, 0), ('if we keep ignoring this issue', None, None, None, 0), ('or pushing it off to the next generation .', None, None, None, 1), ('Global warming is happening much faster', None, None, None, 0), ('than anyone imagined .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Why are we having lawsuits on land', None, None, None, 0), ('these should be for the animals , not the people .', None, None, None, 1), ('We have been taking their lands for years', None, None, None, 0), ('and locking them up at zoos', None, None, None, 0), ('hiking trials etc. ...', None, None, None, 1), ('.', None, None, None, 1), ("It 's not right they should have the same freedom", None, None, None, 0), ('we have today', None, None, None, 0), ('but the big corp greed too busy on deciding on who gets what land .', None, None, None, 1)]]
+Leaf:  N Elaborate Why are we having lawsuits on land
+Leaf:  S span these should be for the animals , not the people .
+Inner:  N Background None Elaborate NS
+Leaf:  N Joint We have been taking their lands for years
+Leaf:  N Joint and locking them up at zoos
+Leaf:  N Joint hiking trials etc. ...
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Background NS
+Leaf:  N Evaluation .
+Leaf:  N Elaborate It 's not right they should have the same freedom
+Leaf:  S span we have today
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span but the big corp greed too busy on deciding on who gets what land .
+Inner:  S span None Attribution NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Why are we having lawsuits on land', None, None, None, 0), ('these should be for the animals , not the people .', None, None, None, 1), ('We have been taking their lands for years', None, None, None, 0), ('and locking them up at zoos', None, None, None, 0), ('hiking trials etc. ...', None, None, None, 1), ('.', None, None, None, 1), ("It 's not right they should have the same freedom", None, None, None, 0), ('we have today', None, None, None, 0), ('but the big corp greed too busy on deciding on who gets what land .', None, None, None, 1)]

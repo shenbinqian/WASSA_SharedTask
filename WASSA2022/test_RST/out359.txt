@@ -1,0 +1,23 @@
+=====================> [[('I wish', None, None, None, 0), ('we could start to see Immigration as a positive again , the way', None, None, None, 0), ('it used to be in the US .', None, None, None, 1), ('Like , these days , I du n no , people seem to be so negative towards immigration .', None, None, None, 1), ('Could you imagine being in a situation', None, None, None, 0), ('where you were born here', None, None, None, 0), ('but because your parents are not citizens', None, None, None, 0), ('you have this like flip flop status , just imagine .', None, None, None, 1), ('I hope', None, None, None, 0), ('that the current administration protects these dreamers', None, None, None, 0), ('and that kids can feel safe at school .', None, None, None, 1)]]
+Leaf:  S span I wish
+Leaf:  N Elaborate we could start to see Immigration as a positive again , the way
+Leaf:  S span it used to be in the US .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Like , these days , I du n no , people seem to be so negative towards immigration .
+Inner:  N Summary None Explanation NS
+Leaf:  N Elaborate Could you imagine being in a situation
+Leaf:  N Temporal where you were born here
+Leaf:  N Temporal but because your parents are not citizens
+Inner:  S span None Temporal NN
+Leaf:  N Cause you have this like flip flop status , just imagine .
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span I hope
+Leaf:  N Joint that the current administration protects these dreamers
+Leaf:  N Joint and that kids can feel safe at school .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I wish', None, None, None, 0), ('we could start to see Immigration as a positive again , the way', None, None, None, 0), ('it used to be in the US .', None, None, None, 1), ('Like , these days , I du n no , people seem to be so negative towards immigration .', None, None, None, 1), ('Could you imagine being in a situation', None, None, None, 0), ('where you were born here', None, None, None, 0), ('but because your parents are not citizens', None, None, None, 0), ('you have this like flip flop status , just imagine .', None, None, None, 1), ('I hope', None, None, None, 0), ('that the current administration protects these dreamers', None, None, None, 0), ('and that kids can feel safe at school .', None, None, None, 1)]

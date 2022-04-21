@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('Donald Trump is causing way too much havoc for other people', None, None, None, 0), ('to be honest .', None, None, None, 1), ('He waste our time', None, None, None, 0), ('trying to pick up his mess', None, None, None, 0), ('and its affecting all of our lives in the balance .', None, None, None, 1), ('I can say for sure', None, None, None, 0), ('that i will be out in 2020', None, None, None, 0), ('to prevent this level of abuse against our democracy .', None, None, None, 1), ('Time and time again this comes up', None, None, None, 0), ('and no one tends to win .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution Donald Trump is causing way too much havoc for other people
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span to be honest .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Manner-Means He waste our time
+Leaf:  S span trying to pick up his mess
+Inner:  S span None Manner-Means NS
+Leaf:  N Cause and its affecting all of our lives in the balance .
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I can say for sure
+Leaf:  N Enablement that i will be out in 2020
+Leaf:  S span to prevent this level of abuse against our democracy .
+Inner:  N Attribution None Enablement NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Time and time again this comes up
+Leaf:  N Joint and no one tends to win .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('Donald Trump is causing way too much havoc for other people', None, None, None, 0), ('to be honest .', None, None, None, 1), ('He waste our time', None, None, None, 0), ('trying to pick up his mess', None, None, None, 0), ('and its affecting all of our lives in the balance .', None, None, None, 1), ('I can say for sure', None, None, None, 0), ('that i will be out in 2020', None, None, None, 0), ('to prevent this level of abuse against our democracy .', None, None, None, 1), ('Time and time again this comes up', None, None, None, 0), ('and no one tends to win .', None, None, None, 1)]

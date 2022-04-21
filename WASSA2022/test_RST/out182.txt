@@ -1,0 +1,19 @@
+=====================> [[('Yu Xo was one of the first female pilots', None, None, None, 0), ('and she was renowned in what she did .', None, None, None, 1), ('She sadly lost her life on her 4th performance due to a technical issue with other pilots', None, None, None, 0), ('and they collided .', None, None, None, 1), ("It 's just a shame a life was cut so early ,", None, None, None, 0), ('but it was good she was doing what she loved .', None, None, None, 1), ("It 's still a heart-breaking story ,", None, None, None, 0), ('and I wish', None, None, None, 0), ('things played out differently .', None, None, None, 1)]]
+Leaf:  N Joint Yu Xo was one of the first female pilots
+Leaf:  N Joint and she was renowned in what she did .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause She sadly lost her life on her 4th performance due to a technical issue with other pilots
+Leaf:  S span and they collided .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It 's just a shame a life was cut so early ,
+Leaf:  S span but it was good she was doing what she loved .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It 's still a heart-breaking story ,
+Leaf:  S span and I wish
+Leaf:  N Attribution things played out differently .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Yu Xo was one of the first female pilots', None, None, None, 0), ('and she was renowned in what she did .', None, None, None, 1), ('She sadly lost her life on her 4th performance due to a technical issue with other pilots', None, None, None, 0), ('and they collided .', None, None, None, 1), ("It 's just a shame a life was cut so early ,", None, None, None, 0), ('but it was good she was doing what she loved .', None, None, None, 1), ("It 's still a heart-breaking story ,", None, None, None, 0), ('and I wish', None, None, None, 0), ('things played out differently .', None, None, None, 1)]

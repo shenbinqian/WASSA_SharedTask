@@ -1,0 +1,15 @@
+=====================> [[('Please take a moment', None, None, None, 0), ('and read the following article , especially the plight of Abdulhalim .', None, None, None, 1), ('It seems almost impossible for any Afghan to be comfortable in their own country .', None, None, None, 1), ('The UN must step up and protect these people .', None, None, None, 1), ('It seems', None, None, None, 0), ('like all they really want is to work', None, None, None, 0), ('and live in peace with their families .', None, None, None, 1)]]
+Leaf:  N Joint Please take a moment
+Leaf:  N Joint and read the following article , especially the plight of Abdulhalim .
+Inner:  N Summary None Joint NN
+Leaf:  N Topic-Comment It seems almost impossible for any Afghan to be comfortable in their own country .
+Leaf:  N Explanation The UN must step up and protect these people .
+Leaf:  S span It seems
+Leaf:  N Joint like all they really want is to work
+Leaf:  N Joint and live in peace with their families .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Explanation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('Please take a moment', None, None, None, 0), ('and read the following article , especially the plight of Abdulhalim .', None, None, None, 1), ('It seems almost impossible for any Afghan to be comfortable in their own country .', None, None, None, 1), ('The UN must step up and protect these people .', None, None, None, 1), ('It seems', None, None, None, 0), ('like all they really want is to work', None, None, None, 0), ('and live in peace with their families .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Honestly after the months after the last election , I am not surprised by anything', None, None, None, 0), ('that Republicans do .', None, None, None, 1), ('I was surprised at first ,', None, None, None, 0), ('I will admit that .', None, None, None, 1), ('But', None, None, None, 0), ('as I have seen them continuously make decisions', None, None, None, 0), ('that are to benefit a few', None, None, None, 0), ('and to antagonize others ,', None, None, None, 0), ('I can believe anything of them .', None, None, None, 1), ("I ca n't even feel too much sympathy for her", None, None, None, 0), ('considering that she is still willing to vote for other republicans no matter what .', None, None, None, 1), ('I am not even into politics', None, None, None, 0), ('that much', None, None, None, 0), ('but I still do research before every election', None, None, None, 0), ('to vote for the best candidate .', None, None, None, 1)]]
+Leaf:  N Elaborate Honestly after the months after the last election , I am not surprised by anything
+Leaf:  S span that Republicans do .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Evaluation I was surprised at first ,
+Leaf:  S span I will admit that .
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Explanation NS
+Leaf:  N Same-Unit But
+Leaf:  N Elaborate as I have seen them continuously make decisions
+Leaf:  N Joint that are to benefit a few
+Leaf:  N Joint and to antagonize others ,
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Background I can believe anything of them .
+Inner:  N Same-Unit None Background SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Explanation I ca n't even feel too much sympathy for her
+Leaf:  S span considering that she is still willing to vote for other republicans no matter what .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate I am not even into politics
+Leaf:  S span that much
+Inner:  S span None Elaborate NS
+Leaf:  N Enablement but I still do research before every election
+Leaf:  S span to vote for the best candidate .
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Honestly after the months after the last election , I am not surprised by anything', None, None, None, 0), ('that Republicans do .', None, None, None, 1), ('I was surprised at first ,', None, None, None, 0), ('I will admit that .', None, None, None, 1), ('But', None, None, None, 0), ('as I have seen them continuously make decisions', None, None, None, 0), ('that are to benefit a few', None, None, None, 0), ('and to antagonize others ,', None, None, None, 0), ('I can believe anything of them .', None, None, None, 1), ("I ca n't even feel too much sympathy for her", None, None, None, 0), ('considering that she is still willing to vote for other republicans no matter what .', None, None, None, 1), ('I am not even into politics', None, None, None, 0), ('that much', None, None, None, 0), ('but I still do research before every election', None, None, None, 0), ('to vote for the best candidate .', None, None, None, 1)]

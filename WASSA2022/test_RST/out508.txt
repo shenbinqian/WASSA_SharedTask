@@ -1,0 +1,29 @@
+=====================> [[('Wow this is crazy .', None, None, None, 1), ('The amount of tax money', None, None, None, 0), ('that is pushed toward a program', None, None, None, 0), ("that has n't shown any benefit", None, None, None, 0), ('is insane .', None, None, None, 1), ('We definitely need to have a study done', None, None, None, 0), ('that will once and for all determine', None, None, None, 0), ('if this program has any benefit for kids or not . And definitely stop providing this funding to schools', None, None, None, 0), ("that do n't allow internet access at all !!", None, None, None, 1), ("It 's stuff like this", None, None, None, 0), ('that makes me crazy .', None, None, None, 1), ('We never hear about it', None, None, None, 0), ("until it 's way too late ,", None, None, None, 0), ('all because of political posturing .', None, None, None, 1)]]
+Leaf:  N Explanation Wow this is crazy .
+Leaf:  N Elaborate The amount of tax money
+Leaf:  N Elaborate that is pushed toward a program
+Leaf:  S span that has n't shown any benefit
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is insane .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate We definitely need to have a study done
+Leaf:  S span that will once and for all determine
+Leaf:  N Elaborate if this program has any benefit for kids or not . And definitely stop providing this funding to schools
+Leaf:  S span that do n't allow internet access at all !!
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate It 's stuff like this
+Leaf:  S span that makes me crazy .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Background We never hear about it
+Leaf:  S span until it 's way too late ,
+Inner:  N Cause None Background NS
+Leaf:  S span all because of political posturing .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Wow this is crazy .', None, None, None, 1), ('The amount of tax money', None, None, None, 0), ('that is pushed toward a program', None, None, None, 0), ("that has n't shown any benefit", None, None, None, 0), ('is insane .', None, None, None, 1), ('We definitely need to have a study done', None, None, None, 0), ('that will once and for all determine', None, None, None, 0), ('if this program has any benefit for kids or not . And definitely stop providing this funding to schools', None, None, None, 0), ("that do n't allow internet access at all !!", None, None, None, 1), ("It 's stuff like this", None, None, None, 0), ('that makes me crazy .', None, None, None, 1), ('We never hear about it', None, None, None, 0), ("until it 's way too late ,", None, None, None, 0), ('all because of political posturing .', None, None, None, 1)]

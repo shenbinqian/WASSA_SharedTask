@@ -1,0 +1,33 @@
+=====================> [[('This makes me literally sick !', None, None, None, 1), ('First of all how people can riot and protest over something', None, None, None, 0), ('that they are not sure of what exactly even happened .', None, None, None, 1), ('How is it good or productive to protest against something with violence', None, None, None, 0), ('by adding more violence .', None, None, None, 1), ('I feel', None, None, None, 0), ('people over react so fast', None, None, None, 0), ('and just jump to want to fight .', None, None, None, 1), ('If the Police were wrong', None, None, None, 0), ('then you let the law handle it . You are risking more Police and your own life by acting crazy . Under any circumstance do I think it is okay for the Police to kill someone because of their color of their skin .', None, None, None, 1), ('I also think', None, None, None, 0), ('that you have to let the story come out', None, None, None, 0), ('and know all the facts', None, None, None, 0), ('before you start acting out', None, None, None, 0), ('and even if the Police were wrong .', None, None, None, 1), ('How does violence help the situation ?', None, None, None, 1)]]
+Leaf:  N Explanation This makes me literally sick !
+Leaf:  N Elaborate First of all how people can riot and protest over something
+Leaf:  S span that they are not sure of what exactly even happened .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Manner-Means How is it good or productive to protest against something with violence
+Leaf:  S span by adding more violence .
+Inner:  N Joint None Manner-Means NS
+Inner:  N Explanation None Joint NN
+Leaf:  S span I feel
+Leaf:  N Joint people over react so fast
+Leaf:  N Joint and just jump to want to fight .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span If the Police were wrong
+Leaf:  N Condition then you let the law handle it . You are risking more Police and your own life by acting crazy . Under any circumstance do I think it is okay for the Police to kill someone because of their color of their skin .
+Inner:  S span None Condition SN
+Inner:  N Joint None Evaluation NS
+Leaf:  S span I also think
+Leaf:  N Joint that you have to let the story come out
+Leaf:  N Joint and know all the facts
+Inner:  S span None Joint NN
+Leaf:  N Condition before you start acting out
+Inner:  N Attribution None Condition SN
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit and even if the Police were wrong .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span How does violence help the situation ?
+Inner:  Root None None Elaborate NS
+[('This makes me literally sick !', None, None, None, 1), ('First of all how people can riot and protest over something', None, None, None, 0), ('that they are not sure of what exactly even happened .', None, None, None, 1), ('How is it good or productive to protest against something with violence', None, None, None, 0), ('by adding more violence .', None, None, None, 1), ('I feel', None, None, None, 0), ('people over react so fast', None, None, None, 0), ('and just jump to want to fight .', None, None, None, 1), ('If the Police were wrong', None, None, None, 0), ('then you let the law handle it . You are risking more Police and your own life by acting crazy . Under any circumstance do I think it is okay for the Police to kill someone because of their color of their skin .', None, None, None, 1), ('I also think', None, None, None, 0), ('that you have to let the story come out', None, None, None, 0), ('and know all the facts', None, None, None, 0), ('before you start acting out', None, None, None, 0), ('and even if the Police were wrong .', None, None, None, 1), ('How does violence help the situation ?', None, None, None, 1)]

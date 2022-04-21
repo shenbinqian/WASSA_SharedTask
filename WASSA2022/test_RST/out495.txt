@@ -1,0 +1,25 @@
+=====================> [[('I am so tired of all the hate in this country .', None, None, None, 1), ('People are just so mean to each other', None, None, None, 0), ('and they feel', None, None, None, 0), ('they have complete freedom', None, None, None, 0), ('to say', None, None, None, 0), ('whatever hateful thing comes to mind', None, None, None, 0), ('and treat others with utter disrespect . I completely blame this hateful atmosphere on Donald Trump and his intentional division of the people in this country .', None, None, None, 1), ('He pits groups against each other for his own benefit .', None, None, None, 1), ('He is a horrible leader', None, None, None, 0), ('and the country will be much better off', None, None, None, 0), ("once he 's voted out of office .", None, None, None, 1), ('Hopefully we can recover .', None, None, None, 1)]]
+Leaf:  N Explanation I am so tired of all the hate in this country .
+Leaf:  N Joint People are just so mean to each other
+Leaf:  S span and they feel
+Leaf:  N Elaborate they have complete freedom
+Leaf:  S span to say
+Leaf:  N Attribution whatever hateful thing comes to mind
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and treat others with utter disrespect . I completely blame this hateful atmosphere on Donald Trump and his intentional division of the people in this country .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span He pits groups against each other for his own benefit .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint He is a horrible leader
+Leaf:  N Condition and the country will be much better off
+Leaf:  S span once he 's voted out of office .
+Inner:  N Joint None Condition NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Hopefully we can recover .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I am so tired of all the hate in this country .', None, None, None, 1), ('People are just so mean to each other', None, None, None, 0), ('and they feel', None, None, None, 0), ('they have complete freedom', None, None, None, 0), ('to say', None, None, None, 0), ('whatever hateful thing comes to mind', None, None, None, 0), ('and treat others with utter disrespect . I completely blame this hateful atmosphere on Donald Trump and his intentional division of the people in this country .', None, None, None, 1), ('He pits groups against each other for his own benefit .', None, None, None, 1), ('He is a horrible leader', None, None, None, 0), ('and the country will be much better off', None, None, None, 0), ("once he 's voted out of office .", None, None, None, 1), ('Hopefully we can recover .', None, None, None, 1)]

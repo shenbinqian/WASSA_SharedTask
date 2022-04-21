@@ -1,0 +1,21 @@
+=====================> [[('I feels sad', None, None, None, 0), ('while reading the article , sad for the child', None, None, None, 0), ('that lost his mom to a drug', None, None, None, 0), ('that is dangerous to human .', None, None, None, 1), ("I 'm thinking", None, None, None, 0), ('what would happen to the boy', None, None, None, 0), ("now that he 's mother is gone for good . This story just shows us the dangers of drugs .", None, None, None, 1), ('We need to join hands and fight the scourge', None, None, None, 0), ('caused by drugs', None, None, None, 0), ('so as to prevent future occurrences', None, None, None, 0)]]
+Leaf:  N Background I feels sad
+Leaf:  N Elaborate while reading the article , sad for the child
+Leaf:  N Elaborate that lost his mom to a drug
+Leaf:  S span that is dangerous to human .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  S span I 'm thinking
+Leaf:  N Background what would happen to the boy
+Leaf:  S span now that he 's mother is gone for good . This story just shows us the dangers of drugs .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate We need to join hands and fight the scourge
+Leaf:  S span caused by drugs
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span so as to prevent future occurrences
+Inner:  S span None Enablement NS
+Inner:  Root None None Evaluation NS
+[('I feels sad', None, None, None, 0), ('while reading the article , sad for the child', None, None, None, 0), ('that lost his mom to a drug', None, None, None, 0), ('that is dangerous to human .', None, None, None, 1), ("I 'm thinking", None, None, None, 0), ('what would happen to the boy', None, None, None, 0), ("now that he 's mother is gone for good . This story just shows us the dangers of drugs .", None, None, None, 1), ('We need to join hands and fight the scourge', None, None, None, 0), ('caused by drugs', None, None, None, 0), ('so as to prevent future occurrences', None, None, None, 0)]

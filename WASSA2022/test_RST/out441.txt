@@ -1,0 +1,31 @@
+=====================> [[('Hey Bud , i was a little annoyed by the article', None, None, None, 0), ('to be honest .', None, None, None, 1), ('I thought', None, None, None, 0), ('it could be a little better', None, None, None, 0), ('but I understand', None, None, None, 0), ('what it was trying to explain .', None, None, None, 1), ('I think', None, None, None, 0), ('its important to make sure', None, None, None, 0), ('that you dont take anything for granted', None, None, None, 0), ('because it can go at any time .', None, None, None, 1), ('i suggest', None, None, None, 0), ('you read this article', None, None, None, 0), ('to make sure', None, None, None, 0), ('that you are on top', None, None, None, 0), ('of what you need to be on top of .', None, None, None, 1)]]
+Leaf:  N Evaluation Hey Bud , i was a little annoyed by the article
+Leaf:  S span to be honest .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I thought
+Leaf:  N Elaborate it could be a little better
+Leaf:  N Elaborate but I understand
+Leaf:  S span what it was trying to explain .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  S span its important to make sure
+Leaf:  N Explanation that you dont take anything for granted
+Leaf:  S span because it can go at any time .
+Inner:  N Attribution None Explanation NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span i suggest
+Leaf:  N Enablement you read this article
+Leaf:  S span to make sure
+Leaf:  N Elaborate that you are on top
+Leaf:  S span of what you need to be on top of .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Hey Bud , i was a little annoyed by the article', None, None, None, 0), ('to be honest .', None, None, None, 1), ('I thought', None, None, None, 0), ('it could be a little better', None, None, None, 0), ('but I understand', None, None, None, 0), ('what it was trying to explain .', None, None, None, 1), ('I think', None, None, None, 0), ('its important to make sure', None, None, None, 0), ('that you dont take anything for granted', None, None, None, 0), ('because it can go at any time .', None, None, None, 1), ('i suggest', None, None, None, 0), ('you read this article', None, None, None, 0), ('to make sure', None, None, None, 0), ('that you are on top', None, None, None, 0), ('of what you need to be on top of .', None, None, None, 1)]

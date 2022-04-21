@@ -1,0 +1,23 @@
+=====================> [[('I was just reading an article', None, None, None, 0), ('about how several people were killed', None, None, None, 0), ('while snorkeling off of the great barrier reef .', None, None, None, 1), ('I was reading', None, None, None, 0), ('that these were elderly people', None, None, None, 0), ('and some of them had pre-existing medical conditions .', None, None, None, 1), ('To me this seems like extremely risky behavior by the company', None, None, None, 0), ('sponsoring the trip', None, None, None, 0), ('and I hope', None, None, None, 0), ('they reconsider their policies', None, None, None, 0), ('going forward .', None, None, None, 1)]]
+Leaf:  N Elaborate I was just reading an article
+Leaf:  N Background about how several people were killed
+Leaf:  S span while snorkeling off of the great barrier reef .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I was reading
+Leaf:  N Elaborate that these were elderly people
+Leaf:  S span and some of them had pre-existing medical conditions .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate To me this seems like extremely risky behavior by the company
+Leaf:  S span sponsoring the trip
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and I hope
+Leaf:  N Elaborate they reconsider their policies
+Leaf:  S span going forward .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I was just reading an article', None, None, None, 0), ('about how several people were killed', None, None, None, 0), ('while snorkeling off of the great barrier reef .', None, None, None, 1), ('I was reading', None, None, None, 0), ('that these were elderly people', None, None, None, 0), ('and some of them had pre-existing medical conditions .', None, None, None, 1), ('To me this seems like extremely risky behavior by the company', None, None, None, 0), ('sponsoring the trip', None, None, None, 0), ('and I hope', None, None, None, 0), ('they reconsider their policies', None, None, None, 0), ('going forward .', None, None, None, 1)]

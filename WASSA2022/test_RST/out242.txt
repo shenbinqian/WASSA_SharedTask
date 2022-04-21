@@ -1,0 +1,25 @@
+=====================> [[('Well , I think', None, None, None, 0), ('you should read the article on Evan Bayh .', None, None, None, 1), ('Part of me wants to feel sorry for him ,', None, None, None, 0), ('and another part wants me to be annoyed at his constant wealth .', None, None, None, 1), ('I find it a bit hard to have sympathy for someone', None, None, None, 0), ('who has left the senate', None, None, None, 0), ('and made so much money .', None, None, None, 1), ("It seems as if he was n't really there", None, None, None, 0), ('to govern at all . Now , does that mean I think', None, None, None, 0), ("he 's a bad politician ?", None, None, None, 1), ('NO , he could possibly be effective again ,', None, None, None, 0), ('but the money trail is interesting .', None, None, None, 1)]]
+Leaf:  S span Well , I think
+Leaf:  N Attribution you should read the article on Evan Bayh .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint Part of me wants to feel sorry for him ,
+Leaf:  N Joint and another part wants me to be annoyed at his constant wealth .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I find it a bit hard to have sympathy for someone
+Leaf:  N Joint who has left the senate
+Leaf:  N Joint and made so much money .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Enablement It seems as if he was n't really there
+Leaf:  S span to govern at all . Now , does that mean I think
+Inner:  S span None Enablement NS
+Leaf:  N Attribution he 's a bad politician ?
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation NO , he could possibly be effective again ,
+Leaf:  S span but the money trail is interesting .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Well , I think', None, None, None, 0), ('you should read the article on Evan Bayh .', None, None, None, 1), ('Part of me wants to feel sorry for him ,', None, None, None, 0), ('and another part wants me to be annoyed at his constant wealth .', None, None, None, 1), ('I find it a bit hard to have sympathy for someone', None, None, None, 0), ('who has left the senate', None, None, None, 0), ('and made so much money .', None, None, None, 1), ("It seems as if he was n't really there", None, None, None, 0), ('to govern at all . Now , does that mean I think', None, None, None, 0), ("he 's a bad politician ?", None, None, None, 1), ('NO , he could possibly be effective again ,', None, None, None, 0), ('but the money trail is interesting .', None, None, None, 1)]

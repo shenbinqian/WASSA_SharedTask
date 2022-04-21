@@ -1,0 +1,27 @@
+=====================> [[('You know ,', None, None, None, 0), ('I have mixed feelings on this .', None, None, None, 1), ('On one hand , I am angry', None, None, None, 0), ('that the dog was left to die .', None, None, None, 1), ('This seems very negligent to me', None, None, None, 0), ("and there has to be some consequence for the officer 's actions . ON the other hand , I 'm sure that the officer is grieving as well .", None, None, None, 1), ('This was his partner and companion .', None, None, None, 1), ('I think', None, None, None, 0), ('if he had to do it all over again', None, None, None, 0), (', there would certainly be a different outcome .', None, None, None, 1), ("So , I 'm not sure", None, None, None, 0), ('there was malice ,', None, None, None, 0), ('but he needs to be held accountable nonetheless .', None, None, None, 1)]]
+Leaf:  S span You know ,
+Leaf:  N Evaluation I have mixed feelings on this .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  S span On one hand , I am angry
+Leaf:  N Attribution that the dog was left to die .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint This seems very negligent to me
+Leaf:  N Joint and there has to be some consequence for the officer 's actions . ON the other hand , I 'm sure that the officer is grieving as well .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span This was his partner and companion .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I think
+Leaf:  S span if he had to do it all over again
+Leaf:  N Condition , there would certainly be a different outcome .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span So , I 'm not sure
+Leaf:  N Attribution there was malice ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but he needs to be held accountable nonetheless .
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('You know ,', None, None, None, 0), ('I have mixed feelings on this .', None, None, None, 1), ('On one hand , I am angry', None, None, None, 0), ('that the dog was left to die .', None, None, None, 1), ('This seems very negligent to me', None, None, None, 0), ("and there has to be some consequence for the officer 's actions . ON the other hand , I 'm sure that the officer is grieving as well .", None, None, None, 1), ('This was his partner and companion .', None, None, None, 1), ('I think', None, None, None, 0), ('if he had to do it all over again', None, None, None, 0), (', there would certainly be a different outcome .', None, None, None, 1), ("So , I 'm not sure", None, None, None, 0), ('there was malice ,', None, None, None, 0), ('but he needs to be held accountable nonetheless .', None, None, None, 1)]

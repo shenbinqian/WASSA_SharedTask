@@ -1,0 +1,25 @@
+=====================> [[('At this point', None, None, None, 0), ('I think', None, None, None, 0), ('trump just does what ever is the opposite', None, None, None, 0), ('of what Obama did', None, None, None, 0), ('He doesnt even think', None, None, None, 0), ('his choices', None, None, None, 0), ('through he just goes', None, None, None, 0), ('against what ever obama was for', None, None, None, 0), ('to prove some kind of twisted point in his head', None, None, None, 0), ('i really wonder', None, None, None, 0), ('what kind of country would elect this fool in the first place', None, None, None, 0), ('its so stupid', None, None, None, 0)]]
+Leaf:  N Same-Unit At this point
+Leaf:  N Same-Unit I think
+Inner:  S span None Same-Unit NN
+Leaf:  N Comparison trump just does what ever is the opposite
+Leaf:  S span of what Obama did
+Inner:  N Elaborate None Comparison NS
+Leaf:  S span He doesnt even think
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span his choices
+Inner:  N Background None Elaborate NS
+Leaf:  N Elaborate through he just goes
+Leaf:  S span against what ever obama was for
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to prove some kind of twisted point in his head
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span i really wonder
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution what kind of country would elect this fool in the first place
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span its so stupid
+Inner:  S span None Evaluation NS
+Inner:  N Attribution None Background NS
+Inner:  Root None None Attribution SN
+[('At this point', None, None, None, 0), ('I think', None, None, None, 0), ('trump just does what ever is the opposite', None, None, None, 0), ('of what Obama did', None, None, None, 0), ('He doesnt even think', None, None, None, 0), ('his choices', None, None, None, 0), ('through he just goes', None, None, None, 0), ('against what ever obama was for', None, None, None, 0), ('to prove some kind of twisted point in his head', None, None, None, 0), ('i really wonder', None, None, None, 0), ('what kind of country would elect this fool in the first place', None, None, None, 0), ('its so stupid', None, None, None, 0)]

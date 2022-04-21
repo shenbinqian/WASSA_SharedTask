@@ -1,0 +1,31 @@
+=====================> [[('Hey did you guys hear about that storm', None, None, None, 0), ('that hit Taiwan ?', None, None, None, 1), ('Meranti ?', None, None, None, 1), ('Luckily there were only a few injuries', None, None, None, 0), ('but it wa slike almost as strong as Katrina !', None, None, None, 1), ('Now it is supposed to hit China .', None, None, None, 1), ('I hope', None, None, None, 0), ('everyone will be okaya dn', None, None, None, 0), ('that damage will be minimal .', None, None, None, 1), ('These storms are no joke .', None, None, None, 1), ('Remember the storms', None, None, None, 0), ('we had in 2012 ?', None, None, None, 1), ('We know', None, None, None, 0), ('how not having power for a week feels .', None, None, None, 1), ("Let 's wish these people the best .", None, None, None, 1)]]
+Leaf:  N Elaborate Hey did you guys hear about that storm
+Leaf:  S span that hit Taiwan ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Meranti ?
+Leaf:  S span Luckily there were only a few injuries
+Leaf:  N Contrast but it wa slike almost as strong as Katrina !
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Now it is supposed to hit China .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Joint everyone will be okaya dn
+Leaf:  N Joint that damage will be minimal .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Leaf:  N Explanation These storms are no joke .
+Leaf:  N Elaborate Remember the storms
+Leaf:  S span we had in 2012 ?
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Leaf:  S span We know
+Leaf:  N Attribution how not having power for a week feels .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Let 's wish these people the best .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Hey did you guys hear about that storm', None, None, None, 0), ('that hit Taiwan ?', None, None, None, 1), ('Meranti ?', None, None, None, 1), ('Luckily there were only a few injuries', None, None, None, 0), ('but it wa slike almost as strong as Katrina !', None, None, None, 1), ('Now it is supposed to hit China .', None, None, None, 1), ('I hope', None, None, None, 0), ('everyone will be okaya dn', None, None, None, 0), ('that damage will be minimal .', None, None, None, 1), ('These storms are no joke .', None, None, None, 1), ('Remember the storms', None, None, None, 0), ('we had in 2012 ?', None, None, None, 1), ('We know', None, None, None, 0), ('how not having power for a week feels .', None, None, None, 1), ("Let 's wish these people the best .", None, None, None, 1)]

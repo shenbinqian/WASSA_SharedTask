@@ -1,0 +1,17 @@
+=====================> [[('What is happening in Syria', None, None, None, 0), ('regarding the war is absolutely horrific .', None, None, None, 1), ('Lots and lots of innocent people are getting killed everyday', None, None, None, 0), ('and no body is taking any role', None, None, None, 0), ('to stop it .', None, None, None, 1), ('It such a terrible news', None, None, None, 0), ('that children are getting killed in school complex .', None, None, None, 1), ('There should be a stop to this.The Syrian government and Russia should be stopped from this tragedy .', None, None, None, 1)]]
+Leaf:  N Same-Unit What is happening in Syria
+Leaf:  N Same-Unit regarding the war is absolutely horrific .
+Inner:  N Summary None Same-Unit NN
+Leaf:  N Temporal Lots and lots of innocent people are getting killed everyday
+Leaf:  N Elaborate and no body is taking any role
+Leaf:  S span to stop it .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Elaborate It such a terrible news
+Leaf:  S span that children are getting killed in school complex .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Leaf:  N Condition There should be a stop to this.The Syrian government and Russia should be stopped from this tragedy .
+Inner:  Root None None Condition SN
+[('What is happening in Syria', None, None, None, 0), ('regarding the war is absolutely horrific .', None, None, None, 1), ('Lots and lots of innocent people are getting killed everyday', None, None, None, 0), ('and no body is taking any role', None, None, None, 0), ('to stop it .', None, None, None, 1), ('It such a terrible news', None, None, None, 0), ('that children are getting killed in school complex .', None, None, None, 1), ('There should be a stop to this.The Syrian government and Russia should be stopped from this tragedy .', None, None, None, 1)]

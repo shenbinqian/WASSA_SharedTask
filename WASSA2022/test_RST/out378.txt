@@ -1,0 +1,47 @@
+=====================> [[("I 'm so upset", None, None, None, 0), ('about what Michael Buble and his family are going through .', None, None, None, 1), ('My sister died from cancer ,', None, None, None, 0), ('and I know', None, None, None, 0), ('how devastating it is', None, None, None, 0), ('to have a loved one go through something so painful and horrible .', None, None, None, 1), ('You know', None, None, None, 0), ('how much I love Michael .', None, None, None, 1), ('Remember the time', None, None, None, 0), ('we saw him in concert ? He was so good ,', None, None, None, 0), ('and you could tell', None, None, None, 0), ('he is just such a good person .', None, None, None, 1), ('His son does not deserve this .', None, None, None, 1), ('Noah is lucky to have Michael as his father ,', None, None, None, 0), ('and I know', None, None, None, 0), ('that Michael and his wife are doing everything', None, None, None, 0), ('they can', None, None, None, 0), ('to help their son .', None, None, None, 1), ('I hope', None, None, None, 0), ('that Noah beats cancer .', None, None, None, 1), ('They better find a cure soon !', None, None, None, 1), ('Too many people are dying from it', None, None, None, 0), ('and we need to find a cure .', None, None, None, 1)]]
+Leaf:  S span I 'm so upset
+Leaf:  N Attribution about what Michael Buble and his family are going through .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint My sister died from cancer ,
+Leaf:  S span and I know
+Leaf:  N Cause how devastating it is
+Leaf:  S span to have a loved one go through something so painful and horrible .
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span You know
+Leaf:  N Attribution how much I love Michael .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Remember the time
+Leaf:  N Joint we saw him in concert ? He was so good ,
+Leaf:  S span and you could tell
+Leaf:  N Attribution he is just such a good person .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Explanation NS
+Leaf:  N Contrast His son does not deserve this .
+Inner:  S span None Contrast NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Joint Noah is lucky to have Michael as his father ,
+Leaf:  S span and I know
+Leaf:  N Elaborate that Michael and his wife are doing everything
+Leaf:  S span they can
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to help their son .
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I hope
+Leaf:  N Attribution that Noah beats cancer .
+Inner:  N Enablement None Attribution SN
+Leaf:  S span They better find a cure soon !
+Inner:  N Explanation None Enablement NS
+Leaf:  S span Too many people are dying from it
+Leaf:  N Explanation and we need to find a cure .
+Inner:  S span None Explanation SN
+Inner:  S span None Explanation NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[("I 'm so upset", None, None, None, 0), ('about what Michael Buble and his family are going through .', None, None, None, 1), ('My sister died from cancer ,', None, None, None, 0), ('and I know', None, None, None, 0), ('how devastating it is', None, None, None, 0), ('to have a loved one go through something so painful and horrible .', None, None, None, 1), ('You know', None, None, None, 0), ('how much I love Michael .', None, None, None, 1), ('Remember the time', None, None, None, 0), ('we saw him in concert ? He was so good ,', None, None, None, 0), ('and you could tell', None, None, None, 0), ('he is just such a good person .', None, None, None, 1), ('His son does not deserve this .', None, None, None, 1), ('Noah is lucky to have Michael as his father ,', None, None, None, 0), ('and I know', None, None, None, 0), ('that Michael and his wife are doing everything', None, None, None, 0), ('they can', None, None, None, 0), ('to help their son .', None, None, None, 1), ('I hope', None, None, None, 0), ('that Noah beats cancer .', None, None, None, 1), ('They better find a cure soon !', None, None, None, 1), ('Too many people are dying from it', None, None, None, 0), ('and we need to find a cure .', None, None, None, 1)]

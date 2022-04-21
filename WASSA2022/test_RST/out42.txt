@@ -1,0 +1,25 @@
+=====================> [[('I wonder', None, None, None, 0), ('how a situation gets to that point ,', None, None, None, 0), ('how something like that escalates .', None, None, None, 1), ("It does n't seem like it was planned or anything ,", None, None, None, 0), ('and', None, None, None, 0), ('if it was its not a very lucrative plan .', None, None, None, 1), ('It seems like the guy just got mobbed and chased ,', None, None, None, 0), ('beaten and robbed .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what triggered the group', None, None, None, 0), ('to go after him ,', None, None, None, 0), ('and what other circumstances may have factored in .', None, None, None, 1)]]
+Leaf:  S span I wonder
+Leaf:  N Joint how a situation gets to that point ,
+Leaf:  N Joint how something like that escalates .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint It does n't seem like it was planned or anything ,
+Leaf:  N Same-Unit and
+Leaf:  N Same-Unit if it was its not a very lucrative plan .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint It seems like the guy just got mobbed and chased ,
+Leaf:  N Joint beaten and robbed .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I wonder
+Leaf:  N Elaborate what triggered the group
+Leaf:  S span to go after him ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and what other circumstances may have factored in .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I wonder', None, None, None, 0), ('how a situation gets to that point ,', None, None, None, 0), ('how something like that escalates .', None, None, None, 1), ("It does n't seem like it was planned or anything ,", None, None, None, 0), ('and', None, None, None, 0), ('if it was its not a very lucrative plan .', None, None, None, 1), ('It seems like the guy just got mobbed and chased ,', None, None, None, 0), ('beaten and robbed .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what triggered the group', None, None, None, 0), ('to go after him ,', None, None, None, 0), ('and what other circumstances may have factored in .', None, None, None, 1)]

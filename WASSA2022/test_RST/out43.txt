@@ -1,0 +1,17 @@
+=====================> [[('This was an interesting article about ways', None, None, None, 0), ('that this extinction could have been prevented .', None, None, None, 1), ('I am curious', None, None, None, 0), ('about how they determine the exact causation in some of their assessments .', None, None, None, 1), ('I found it interesting', None, None, None, 0), ('that they conclude at the end', None, None, None, 0), ('that humans could have prevented the extinction', None, None, None, 0), ('( and that it is implicitly ok to stop such an event ) .', None, None, None, 1)]]
+Leaf:  N Elaborate This was an interesting article about ways
+Leaf:  S span that this extinction could have been prevented .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I am curious
+Leaf:  N Attribution about how they determine the exact causation in some of their assessments .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I found it interesting
+Leaf:  S span that they conclude at the end
+Leaf:  N Joint that humans could have prevented the extinction
+Leaf:  N Joint ( and that it is implicitly ok to stop such an event ) .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This was an interesting article about ways', None, None, None, 0), ('that this extinction could have been prevented .', None, None, None, 1), ('I am curious', None, None, None, 0), ('about how they determine the exact causation in some of their assessments .', None, None, None, 1), ('I found it interesting', None, None, None, 0), ('that they conclude at the end', None, None, None, 0), ('that humans could have prevented the extinction', None, None, None, 0), ('( and that it is implicitly ok to stop such an event ) .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('I had just read an article about treatment of prisoners in Lewisburg .', None, None, None, 1), ('First off let me say', None, None, None, 0), ('I do believe', None, None, None, 0), ('that people should still be treated with some dignity', None, None, None, 0), ('regardless of their crimes .', None, None, None, 1), ("I do n't believe", None, None, None, 0), ('that prison should be fun ,', None, None, None, 0), ('but they should still be treated with some compassion . An inmate at Lewisburg was set to have a new inmate in his cell', None, None, None, 0), ('who was known to be incredibly violent .', None, None, None, 1), ('His reputation was widely known . He had assaulted many and was a pretty scary guy known as the Prophet .', None, None, None, 1), ('He even assaulted a corrections officer .', None, None, None, 1), ('The inmate', None, None, None, 0), ('he was set to room with', None, None, None, 0), ('refused to have him', None, None, None, 0), ('and was punished by being shackled in a painful manner .', None, None, None, 1), ('He was not able to use the bathroom', None, None, None, 0), ('or even breathe all that well .', None, None, None, 1), ('He stayed like this for 28 days . The prison denies the claims .', None, None, None, 1)]]
+Leaf:  N Elaborate I had just read an article about treatment of prisoners in Lewisburg .
+Leaf:  S span First off let me say
+Leaf:  S span I do believe
+Leaf:  N Contrast that people should still be treated with some dignity
+Leaf:  S span regardless of their crimes .
+Inner:  N Attribution None Contrast NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I do n't believe
+Leaf:  N Attribution that prison should be fun ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but they should still be treated with some compassion . An inmate at Lewisburg was set to have a new inmate in his cell
+Leaf:  S span who was known to be incredibly violent .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Joint His reputation was widely known . He had assaulted many and was a pretty scary guy known as the Prophet .
+Leaf:  N Joint He even assaulted a corrections officer .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The inmate
+Leaf:  S span he was set to room with
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit refused to have him
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and was punished by being shackled in a painful manner .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint He was not able to use the bathroom
+Leaf:  N Joint or even breathe all that well .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span He stayed like this for 28 days . The prison denies the claims .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I had just read an article about treatment of prisoners in Lewisburg .', None, None, None, 1), ('First off let me say', None, None, None, 0), ('I do believe', None, None, None, 0), ('that people should still be treated with some dignity', None, None, None, 0), ('regardless of their crimes .', None, None, None, 1), ("I do n't believe", None, None, None, 0), ('that prison should be fun ,', None, None, None, 0), ('but they should still be treated with some compassion . An inmate at Lewisburg was set to have a new inmate in his cell', None, None, None, 0), ('who was known to be incredibly violent .', None, None, None, 1), ('His reputation was widely known . He had assaulted many and was a pretty scary guy known as the Prophet .', None, None, None, 1), ('He even assaulted a corrections officer .', None, None, None, 1), ('The inmate', None, None, None, 0), ('he was set to room with', None, None, None, 0), ('refused to have him', None, None, None, 0), ('and was punished by being shackled in a painful manner .', None, None, None, 1), ('He was not able to use the bathroom', None, None, None, 0), ('or even breathe all that well .', None, None, None, 1), ('He stayed like this for 28 days . The prison denies the claims .', None, None, None, 1)]

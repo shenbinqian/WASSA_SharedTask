@@ -1,0 +1,29 @@
+=====================> [[('This makes me so angry .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people can be so heartless and cruel .', None, None, None, 1), ('They seem to think', None, None, None, 0), ('they are superior and above all other species .', None, None, None, 1), ("They do n't think twice about causing these beautiful animals to die out", None, None, None, 0), ('because they want to infringe on their territory', None, None, None, 0), ('in order to make themselves richer', None, None, None, 0), ('than they already are .', None, None, None, 1), ('This is pure greed plain and simple .', None, None, None, 1), ('Something needs to be done .', None, None, None, 1), ('Everyone needs to get together', None, None, None, 0), ('and stand up', None, None, None, 0), ('to protect these animals .', None, None, None, 1)]]
+Leaf:  N Explanation This makes me so angry .
+Leaf:  S span I do n't understand
+Leaf:  N Attribution how people can be so heartless and cruel .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span They seem to think
+Leaf:  N Attribution they are superior and above all other species .
+Inner:  N Joint None Attribution SN
+Leaf:  N Cause They do n't think twice about causing these beautiful animals to die out
+Leaf:  S span because they want to infringe on their territory
+Inner:  N Enablement None Cause NS
+Leaf:  N Comparison in order to make themselves richer
+Leaf:  S span than they already are .
+Inner:  S span None Comparison NS
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This is pure greed plain and simple .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate Something needs to be done .
+Leaf:  N Joint Everyone needs to get together
+Leaf:  N Enablement and stand up
+Leaf:  S span to protect these animals .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This makes me so angry .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people can be so heartless and cruel .', None, None, None, 1), ('They seem to think', None, None, None, 0), ('they are superior and above all other species .', None, None, None, 1), ("They do n't think twice about causing these beautiful animals to die out", None, None, None, 0), ('because they want to infringe on their territory', None, None, None, 0), ('in order to make themselves richer', None, None, None, 0), ('than they already are .', None, None, None, 1), ('This is pure greed plain and simple .', None, None, None, 1), ('Something needs to be done .', None, None, None, 1), ('Everyone needs to get together', None, None, None, 0), ('and stand up', None, None, None, 0), ('to protect these animals .', None, None, None, 1)]

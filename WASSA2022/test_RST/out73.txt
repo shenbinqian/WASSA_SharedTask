@@ -1,0 +1,15 @@
+=====================> [[('Reading articles like this ,', None, None, None, 0), ('all I can think of is the enormous amount of wealth being squandered', None, None, None, 0), ('when it could be put to good use .', None, None, None, 1), ("While it 's definitely acceptable for a jeweler to sue Mayweather over the broken financial contract ,", None, None, None, 0), ('the fact', None, None, None, 0), ('that a man made $ 44 million in the past year', None, None, None, 0), ("and wo n't even honor his financial obligations is honestly incredible .", None, None, None, 1)]]
+Leaf:  S span Reading articles like this ,
+Leaf:  N Background all I can think of is the enormous amount of wealth being squandered
+Leaf:  S span when it could be put to good use .
+Inner:  N Background None Background NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span While it 's definitely acceptable for a jeweler to sue Mayweather over the broken financial contract ,
+Leaf:  N Elaborate the fact
+Leaf:  N Temporal that a man made $ 44 million in the past year
+Leaf:  N Temporal and wo n't even honor his financial obligations is honestly incredible .
+Inner:  S span None Temporal NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Reading articles like this ,', None, None, None, 0), ('all I can think of is the enormous amount of wealth being squandered', None, None, None, 0), ('when it could be put to good use .', None, None, None, 1), ("While it 's definitely acceptable for a jeweler to sue Mayweather over the broken financial contract ,", None, None, None, 0), ('the fact', None, None, None, 0), ('that a man made $ 44 million in the past year', None, None, None, 0), ("and wo n't even honor his financial obligations is honestly incredible .", None, None, None, 1)]

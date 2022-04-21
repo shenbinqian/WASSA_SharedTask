@@ -1,0 +1,27 @@
+=====================> [[('Another idiot reveals his stupidity !', None, None, None, 1), ('It ’s not surprising that some left-wing nut job would attack Trump ’s star , especially in a socialist utopia like California ,', None, None, None, 0), ('but what makes this story a bit unique is the guy is an heir to the Otis Elevator fortune', None, None, None, 0), ('and with all the elevators in the world ,', None, None, None, 0), ('that must be some fortune !', None, None, None, 1), ('Funny how a fellow rich guy is so righteous towards Trump .', None, None, None, 1), ('I ’m sure', None, None, None, 0), ('his family made their fortune in a 100 percent honest way', None, None, None, 0), ('and never hurt another soul . Too bad idiots like this do n’t see', None, None, None, 0), ('that Trump is the only president in recent memory', None, None, None, 0), ('that actually seems to care about the country', None, None, None, 0), ('and just wants to preserve what is really great about it along with our customs and values .', None, None, None, 1), ('I truly fear for the future of the Republic .', None, None, None, 1)]]
+Leaf:  N Evaluation Another idiot reveals his stupidity !
+Leaf:  N Evaluation It ’s not surprising that some left-wing nut job would attack Trump ’s star , especially in a socialist utopia like California ,
+Leaf:  N Joint but what makes this story a bit unique is the guy is an heir to the Otis Elevator fortune
+Leaf:  N Joint and with all the elevators in the world ,
+Inner:  N Evaluation None Joint NN
+Leaf:  S span that must be some fortune !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation Funny how a fellow rich guy is so righteous towards Trump .
+Leaf:  S span I ’m sure
+Leaf:  N Joint his family made their fortune in a 100 percent honest way
+Leaf:  N Joint and never hurt another soul . Too bad idiots like this do n’t see
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate that Trump is the only president in recent memory
+Leaf:  N Joint that actually seems to care about the country
+Leaf:  N Joint and just wants to preserve what is really great about it along with our customs and values .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I truly fear for the future of the Republic .
+Inner:  Root None None Evaluation NS
+[('Another idiot reveals his stupidity !', None, None, None, 1), ('It ’s not surprising that some left-wing nut job would attack Trump ’s star , especially in a socialist utopia like California ,', None, None, None, 0), ('but what makes this story a bit unique is the guy is an heir to the Otis Elevator fortune', None, None, None, 0), ('and with all the elevators in the world ,', None, None, None, 0), ('that must be some fortune !', None, None, None, 1), ('Funny how a fellow rich guy is so righteous towards Trump .', None, None, None, 1), ('I ’m sure', None, None, None, 0), ('his family made their fortune in a 100 percent honest way', None, None, None, 0), ('and never hurt another soul . Too bad idiots like this do n’t see', None, None, None, 0), ('that Trump is the only president in recent memory', None, None, None, 0), ('that actually seems to care about the country', None, None, None, 0), ('and just wants to preserve what is really great about it along with our customs and values .', None, None, None, 1), ('I truly fear for the future of the Republic .', None, None, None, 1)]

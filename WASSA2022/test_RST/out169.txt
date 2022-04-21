@@ -1,0 +1,25 @@
+=====================> [[('Accidents are always scary ,', None, None, None, 0), ('especially when it happens on public transportation', None, None, None, 0), ("where you do n't have any sort of control over the situation .", None, None, None, 1), ('It must be horrifying', None, None, None, 0), ('to know that something is going wrong', None, None, None, 0), ('and people are getting scared', None, None, None, 0), ('and starting to panic', None, None, None, 0), ('and all you can do is really sit there', None, None, None, 0), ('and let it play out', None, None, None, 0), ('and hope for the best .', None, None, None, 1), ('It must also be tough to survive it', None, None, None, 0), ('knowing that others were not so lucky .', None, None, None, 1)]]
+Leaf:  N Background Accidents are always scary ,
+Leaf:  N Elaborate especially when it happens on public transportation
+Leaf:  S span where you do n't have any sort of control over the situation .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Explanation It must be horrifying
+Leaf:  N Joint to know that something is going wrong
+Leaf:  N Joint and people are getting scared
+Leaf:  N Joint and starting to panic
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Joint and all you can do is really sit there
+Leaf:  N Joint and let it play out
+Leaf:  N Joint and hope for the best .
+Inner:  N Joint None Joint NN
+Inner:  N Topic-Comment None Joint NN
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Background It must also be tough to survive it
+Leaf:  S span knowing that others were not so lucky .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Accidents are always scary ,', None, None, None, 0), ('especially when it happens on public transportation', None, None, None, 0), ("where you do n't have any sort of control over the situation .", None, None, None, 1), ('It must be horrifying', None, None, None, 0), ('to know that something is going wrong', None, None, None, 0), ('and people are getting scared', None, None, None, 0), ('and starting to panic', None, None, None, 0), ('and all you can do is really sit there', None, None, None, 0), ('and let it play out', None, None, None, 0), ('and hope for the best .', None, None, None, 1), ('It must also be tough to survive it', None, None, None, 0), ('knowing that others were not so lucky .', None, None, None, 1)]

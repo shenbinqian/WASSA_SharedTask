@@ -1,0 +1,23 @@
+=====================> [[('I read a short article about a mother', None, None, None, 0), ('that kicked out her son for voting in a fake election for Trump .', None, None, None, 1), ('The child was distraught', None, None, None, 0), ('while the mother said', None, None, None, 0), ('it was all a joke .', None, None, None, 1), ('I feel bad for the child', None, None, None, 0), ('but it seems like he is back at home', None, None, None, 0), ('and perhaps the family was looking for a way', None, None, None, 0), ('to make the news .', None, None, None, 1), ('If i was the kid', None, None, None, 0), ('i would feel very annoyed at my mother and embarrassed .', None, None, None, 1)]]
+Leaf:  N Elaborate I read a short article about a mother
+Leaf:  S span that kicked out her son for voting in a fake election for Trump .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The child was distraught
+Leaf:  S span while the mother said
+Leaf:  N Attribution it was all a joke .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I feel bad for the child
+Leaf:  N Joint but it seems like he is back at home
+Leaf:  N Elaborate and perhaps the family was looking for a way
+Leaf:  S span to make the news .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span If i was the kid
+Leaf:  N Condition i would feel very annoyed at my mother and embarrassed .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I read a short article about a mother', None, None, None, 0), ('that kicked out her son for voting in a fake election for Trump .', None, None, None, 1), ('The child was distraught', None, None, None, 0), ('while the mother said', None, None, None, 0), ('it was all a joke .', None, None, None, 1), ('I feel bad for the child', None, None, None, 0), ('but it seems like he is back at home', None, None, None, 0), ('and perhaps the family was looking for a way', None, None, None, 0), ('to make the news .', None, None, None, 1), ('If i was the kid', None, None, None, 0), ('i would feel very annoyed at my mother and embarrassed .', None, None, None, 1)]

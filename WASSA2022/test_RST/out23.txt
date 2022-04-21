@@ -1,0 +1,27 @@
+=====================> [[('The economy in New Orleans', None, None, None, 0), ('after the hurricane has become a troubling scenario .', None, None, None, 1), ('People lost their homes , jobs and communities .', None, None, None, 1), ("They could n't afford to rebuild there", None, None, None, 0), ('and wait ,', None, None, None, 0), ('so they left .', None, None, None, 1), ('This hurts the regrowth process', None, None, None, 0), ('if no is there', None, None, None, 0), ('to support it .', None, None, None, 1), ('People need to be able to know', None, None, None, 0), ("that there 's still hope in Louisiana", None, None, None, 0), ("and that it 's safe to return and rebuild there .", None, None, None, 1), ('The community will only get stronger with people staying and helping each other .', None, None, None, 1)]]
+Leaf:  N Temporal The economy in New Orleans
+Leaf:  S span after the hurricane has become a troubling scenario .
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Summary People lost their homes , jobs and communities .
+Leaf:  N Joint They could n't afford to rebuild there
+Leaf:  N Joint and wait ,
+Inner:  S span None Joint NN
+Leaf:  N Cause so they left .
+Inner:  S span None Cause SN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition This hurts the regrowth process
+Leaf:  N Elaborate if no is there
+Leaf:  S span to support it .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Condition NS
+Leaf:  S span People need to be able to know
+Leaf:  N Joint that there 's still hope in Louisiana
+Leaf:  N Joint and that it 's safe to return and rebuild there .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Evaluation NS
+Leaf:  S span The community will only get stronger with people staying and helping each other .
+Inner:  Root None None Cause NS
+[('The economy in New Orleans', None, None, None, 0), ('after the hurricane has become a troubling scenario .', None, None, None, 1), ('People lost their homes , jobs and communities .', None, None, None, 1), ("They could n't afford to rebuild there", None, None, None, 0), ('and wait ,', None, None, None, 0), ('so they left .', None, None, None, 1), ('This hurts the regrowth process', None, None, None, 0), ('if no is there', None, None, None, 0), ('to support it .', None, None, None, 1), ('People need to be able to know', None, None, None, 0), ("that there 's still hope in Louisiana", None, None, None, 0), ("and that it 's safe to return and rebuild there .", None, None, None, 1), ('The community will only get stronger with people staying and helping each other .', None, None, None, 1)]

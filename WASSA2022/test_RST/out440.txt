@@ -1,0 +1,13 @@
+=====================> [[('It is sad that', None, None, None, 0), ('because of the absence of medical infrastructure', None, None, None, 0), ('it has made it difficult to control the outbreak of Cholera in Yemen .', None, None, None, 1), ('The government and international health agencies should be well equipped to handle this kind of situation .', None, None, None, 1), ('Also the war has destroyed the government capabilities', None, None, None, 0), ('of providing urgent care for people in need .', None, None, None, 1)]]
+Leaf:  N Same-Unit It is sad that
+Leaf:  S span because of the absence of medical infrastructure
+Leaf:  N Background it has made it difficult to control the outbreak of Cholera in Yemen .
+Inner:  N Same-Unit None Background SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint The government and international health agencies should be well equipped to handle this kind of situation .
+Leaf:  N Elaborate Also the war has destroyed the government capabilities
+Leaf:  S span of providing urgent care for people in need .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('It is sad that', None, None, None, 0), ('because of the absence of medical infrastructure', None, None, None, 0), ('it has made it difficult to control the outbreak of Cholera in Yemen .', None, None, None, 1), ('The government and international health agencies should be well equipped to handle this kind of situation .', None, None, None, 1), ('Also the war has destroyed the government capabilities', None, None, None, 0), ('of providing urgent care for people in need .', None, None, None, 1)]

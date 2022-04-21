@@ -1,0 +1,33 @@
+=====================> [[('Well , the gays are at it again !', None, None, None, 1), ('They want to take a chance', None, None, None, 0), ('on giving others aids .', None, None, None, 1), ("I do n't care", None, None, None, 0), ('how discriminatory it is I do not want the blood of gay folks .', None, None, None, 1), ('It should not even be considered !', None, None, None, 1), ('They want to go against Gods rules', None, None, None, 0), ('and carry on', None, None, None, 0), ('and shake their fist at God', None, None, None, 0), ('then they need to not have the same rights', None, None, None, 0), ('like being able to give blood!People', None, None, None, 0), ('will one day see how God feels about this .', None, None, None, 1), ('He commanded we not do it', None, None, None, 0), ('but I think', None, None, None, 0), ('people just feel', None, None, None, 0), ('like it is a fairy tale or something !', None, None, None, 1)]]
+Leaf:  N Elaborate Well , the gays are at it again !
+Leaf:  N Elaborate They want to take a chance
+Leaf:  S span on giving others aids .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't care
+Leaf:  N Attribution how discriminatory it is I do not want the blood of gay folks .
+Inner:  N Summary None Attribution SN
+Leaf:  S span It should not even be considered !
+Inner:  S span None Summary NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint They want to go against Gods rules
+Leaf:  N Joint and carry on
+Leaf:  N Joint and shake their fist at God
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Leaf:  N Elaborate then they need to not have the same rights
+Leaf:  S span like being able to give blood!People
+Inner:  N Condition None Elaborate NS
+Inner:  N Same-Unit None Condition SN
+Leaf:  N Same-Unit will one day see how God feels about this .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span He commanded we not do it
+Leaf:  S span but I think
+Leaf:  N Enablement people just feel
+Leaf:  S span like it is a fairy tale or something !
+Inner:  N Attribution None Enablement NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Well , the gays are at it again !', None, None, None, 1), ('They want to take a chance', None, None, None, 0), ('on giving others aids .', None, None, None, 1), ("I do n't care", None, None, None, 0), ('how discriminatory it is I do not want the blood of gay folks .', None, None, None, 1), ('It should not even be considered !', None, None, None, 1), ('They want to go against Gods rules', None, None, None, 0), ('and carry on', None, None, None, 0), ('and shake their fist at God', None, None, None, 0), ('then they need to not have the same rights', None, None, None, 0), ('like being able to give blood!People', None, None, None, 0), ('will one day see how God feels about this .', None, None, None, 1), ('He commanded we not do it', None, None, None, 0), ('but I think', None, None, None, 0), ('people just feel', None, None, None, 0), ('like it is a fairy tale or something !', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('Whenever I hear about some species', None, None, None, 0), ('that is going extinct ,', None, None, None, 0), ('it makes me worry just a little bit about the planet .', None, None, None, 1), ('All you here on the news these days is climate change .', None, None, None, 1), ('The extinction of this frog and other species is just another warning sign in the climate change battle', None, None, None, 0), ("that 's going on around the world today .", None, None, None, 1)]]
+Leaf:  N Elaborate Whenever I hear about some species
+Leaf:  S span that is going extinct ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit it makes me worry just a little bit about the planet .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span All you here on the news these days is climate change .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The extinction of this frog and other species is just another warning sign in the climate change battle
+Leaf:  S span that 's going on around the world today .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Whenever I hear about some species', None, None, None, 0), ('that is going extinct ,', None, None, None, 0), ('it makes me worry just a little bit about the planet .', None, None, None, 1), ('All you here on the news these days is climate change .', None, None, None, 1), ('The extinction of this frog and other species is just another warning sign in the climate change battle', None, None, None, 0), ("that 's going on around the world today .", None, None, None, 1)]

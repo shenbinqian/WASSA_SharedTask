@@ -1,0 +1,27 @@
+=====================> [[('In situations like this I try to imagine myself as the people', None, None, None, 0), ('who were just trying to have fun .', None, None, None, 1), ('These people face bias in their everyday lives .', None, None, None, 1), ('They are constantly put down I others .', None, None, None, 1), ('Their safe place', None, None, None, 0), ('where they had many people like themselves', None, None, None, 0), ('was that nightclub .', None, None, None, 1), ('That was their safe place . For someone', None, None, None, 0), ('to go into their safe place and do something like that', None, None, None, 0), ('is so mind boggling in so many ways .', None, None, None, 1), ('Those poor people are just trying to feel good', None, None, None, 0), ('and have fun', None, None, None, 0), ('and unfortunately someone tainted that .', None, None, None, 1)]]
+Leaf:  N Elaborate In situations like this I try to imagine myself as the people
+Leaf:  S span who were just trying to have fun .
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate These people face bias in their everyday lives .
+Leaf:  S span They are constantly put down I others .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Their safe place
+Leaf:  S span where they had many people like themselves
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was that nightclub .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate That was their safe place . For someone
+Leaf:  S span to go into their safe place and do something like that
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is so mind boggling in so many ways .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Those poor people are just trying to feel good
+Leaf:  N Joint and have fun
+Inner:  S span None Joint NN
+Leaf:  N Contrast and unfortunately someone tainted that .
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Elaborate NS
+Inner:  Root None None Contrast NN
+[('In situations like this I try to imagine myself as the people', None, None, None, 0), ('who were just trying to have fun .', None, None, None, 1), ('These people face bias in their everyday lives .', None, None, None, 1), ('They are constantly put down I others .', None, None, None, 1), ('Their safe place', None, None, None, 0), ('where they had many people like themselves', None, None, None, 0), ('was that nightclub .', None, None, None, 1), ('That was their safe place . For someone', None, None, None, 0), ('to go into their safe place and do something like that', None, None, None, 0), ('is so mind boggling in so many ways .', None, None, None, 1), ('Those poor people are just trying to feel good', None, None, None, 0), ('and have fun', None, None, None, 0), ('and unfortunately someone tainted that .', None, None, None, 1)]

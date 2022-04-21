@@ -1,0 +1,29 @@
+=====================> [[('Wow !', None, None, None, 1), ("You really ca n't be sure", None, None, None, 0), ("what 's in products", None, None, None, 0), ('these days can you ?', None, None, None, 1), ("I 'm so glad", None, None, None, 0), ('that I use natural products only for the most part .', None, None, None, 1), ('Be sure to read the ingredients on the bottle of your product !', None, None, None, 1), ('I hope', None, None, None, 0), ('the girl wins the case ,', None, None, None, 0), ('many women value their hair', None, None, None, 0), ("and it 's arguably priceless .", None, None, None, 1), ('People trust brands', None, None, None, 0), ('so the brand should take responsibility for their mistake', None, None, None, 0), ('and not ruin that trust .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Wow !
+Leaf:  S span You really ca n't be sure
+Leaf:  N Attribution what 's in products
+Inner:  N Background None Attribution SN
+Leaf:  S span these days can you ?
+Inner:  N Evaluation None Background NS
+Leaf:  S span I 'm so glad
+Leaf:  N Attribution that I use natural products only for the most part .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Be sure to read the ingredients on the bottle of your product !
+Leaf:  S span I hope
+Leaf:  N Attribution the girl wins the case ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint many women value their hair
+Leaf:  N Joint and it 's arguably priceless .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span People trust brands
+Leaf:  N Condition so the brand should take responsibility for their mistake
+Leaf:  N Condition and not ruin that trust .
+Inner:  N Background None Condition NN
+Inner:  S span None Background SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Wow !', None, None, None, 1), ("You really ca n't be sure", None, None, None, 0), ("what 's in products", None, None, None, 0), ('these days can you ?', None, None, None, 1), ("I 'm so glad", None, None, None, 0), ('that I use natural products only for the most part .', None, None, None, 1), ('Be sure to read the ingredients on the bottle of your product !', None, None, None, 1), ('I hope', None, None, None, 0), ('the girl wins the case ,', None, None, None, 0), ('many women value their hair', None, None, None, 0), ("and it 's arguably priceless .", None, None, None, 1), ('People trust brands', None, None, None, 0), ('so the brand should take responsibility for their mistake', None, None, None, 0), ('and not ruin that trust .', None, None, None, 1)]

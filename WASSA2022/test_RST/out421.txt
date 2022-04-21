@@ -1,0 +1,37 @@
+=====================> [[("I just do n't understand", None, None, None, 0), ('how people can still claim', None, None, None, 0), ('climate change is a hoax or not happening .', None, None, None, 1), ('This article is just another clear cut example', None, None, None, 0), ('of how terrible the situation is', None, None, None, 0), ('and people just refuse to accept it .', None, None, None, 1), ("Why ? Because they do n't trust scientists ?", None, None, None, 1), ('Because they believe', None, None, None, 0), ('there is some grand conspiracy theory ?', None, None, None, 1), ('Or are they just stupid ?', None, None, None, 1), ('I tend to assume the best of people', None, None, None, 0), ("but this is n't hard . There are hundreds of different varied factors", None, None, None, 0), ('that all point to the fact', None, None, None, 0), ('that the earth is warming ,', None, None, None, 0), ('and C02 levels have doubled .', None, None, None, 1), ('We know the effect', None, None, None, 0), ('C02 has in our atmosphere .', None, None, None, 1), ("THIS IS N'T HARD .", None, None, None, 1)]]
+Leaf:  S span I just do n't understand
+Leaf:  S span how people can still claim
+Leaf:  N Attribution climate change is a hoax or not happening .
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate This article is just another clear cut example
+Leaf:  S span of how terrible the situation is
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and people just refuse to accept it .
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint Why ? Because they do n't trust scientists ?
+Leaf:  S span Because they believe
+Leaf:  N Attribution there is some grand conspiracy theory ?
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Or are they just stupid ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I tend to assume the best of people
+Leaf:  N Elaborate but this is n't hard . There are hundreds of different varied factors
+Leaf:  N Elaborate that all point to the fact
+Leaf:  N Joint that the earth is warming ,
+Leaf:  N Joint and C02 levels have doubled .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We know the effect
+Leaf:  S span C02 has in our atmosphere .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span THIS IS N'T HARD .
+Inner:  Root None None Evaluation NS
+[("I just do n't understand", None, None, None, 0), ('how people can still claim', None, None, None, 0), ('climate change is a hoax or not happening .', None, None, None, 1), ('This article is just another clear cut example', None, None, None, 0), ('of how terrible the situation is', None, None, None, 0), ('and people just refuse to accept it .', None, None, None, 1), ("Why ? Because they do n't trust scientists ?", None, None, None, 1), ('Because they believe', None, None, None, 0), ('there is some grand conspiracy theory ?', None, None, None, 1), ('Or are they just stupid ?', None, None, None, 1), ('I tend to assume the best of people', None, None, None, 0), ("but this is n't hard . There are hundreds of different varied factors", None, None, None, 0), ('that all point to the fact', None, None, None, 0), ('that the earth is warming ,', None, None, None, 0), ('and C02 levels have doubled .', None, None, None, 1), ('We know the effect', None, None, None, 0), ('C02 has in our atmosphere .', None, None, None, 1), ("THIS IS N'T HARD .", None, None, None, 1)]

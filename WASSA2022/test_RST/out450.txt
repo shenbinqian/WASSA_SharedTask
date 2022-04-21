@@ -1,0 +1,23 @@
+=====================> [[('I read an article of an earthquake', None, None, None, 0), ('that shook an African town .', None, None, None, 1), ('The death toll and those injured were fairly low', None, None, None, 0), ('considering the size of the earthquake .', None, None, None, 1), ('Earthquakes are really common in the area', None, None, None, 0), ('with most of them being of smaller size .', None, None, None, 1), ('Some of the trembles from the earthquaken was felt throughout neighboring cities and countries .', None, None, None, 1), ('There were houses and building collapsing', None, None, None, 0), ('and an injury/death toll', None, None, None, 0), ('that may be expected to rise .', None, None, None, 1), ('The hospitals in the area can not take in any more patients .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article of an earthquake
+Leaf:  S span that shook an African town .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background The death toll and those injured were fairly low
+Leaf:  S span considering the size of the earthquake .
+Inner:  S span None Background NS
+Inner:  N Comparison None Elaborate NS
+Leaf:  N Elaborate Earthquakes are really common in the area
+Leaf:  S span with most of them being of smaller size .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Some of the trembles from the earthquaken was felt throughout neighboring cities and countries .
+Leaf:  N Same-Unit There were houses and building collapsing
+Leaf:  N Elaborate and an injury/death toll
+Leaf:  S span that may be expected to rise .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Comparison NS
+Leaf:  S span The hospitals in the area can not take in any more patients .
+Inner:  Root None None Elaborate NS
+[('I read an article of an earthquake', None, None, None, 0), ('that shook an African town .', None, None, None, 1), ('The death toll and those injured were fairly low', None, None, None, 0), ('considering the size of the earthquake .', None, None, None, 1), ('Earthquakes are really common in the area', None, None, None, 0), ('with most of them being of smaller size .', None, None, None, 1), ('Some of the trembles from the earthquaken was felt throughout neighboring cities and countries .', None, None, None, 1), ('There were houses and building collapsing', None, None, None, 0), ('and an injury/death toll', None, None, None, 0), ('that may be expected to rise .', None, None, None, 1), ('The hospitals in the area can not take in any more patients .', None, None, None, 1)]

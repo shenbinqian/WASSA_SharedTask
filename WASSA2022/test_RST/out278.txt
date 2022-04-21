@@ -1,0 +1,25 @@
+=====================> [[('Of course , this is another classic case of the GOP and Trump', None, None, None, 0), ('trying to have it both ways', None, None, None, 0), ('when it comes to white nationalism .', None, None, None, 1), ('They race-bait and try to curry favor with racists ,', None, None, None, 0), ("then give an ' official ' statement", None, None, None, 0), ('denouncing the very same people .', None, None, None, 1), ('Oh well , I guess', None, None, None, 0), ('the GOP will have to change tack one day', None, None, None, 0), ('when the country becomes majority minority , presumably in a couple of decades .', None, None, None, 1), ('But , I guess', None, None, None, 0), ("those in power do n't care ,", None, None, None, 0), ('since they will all have passed on from old age by that time .', None, None, None, 1)]]
+Leaf:  N Elaborate Of course , this is another classic case of the GOP and Trump
+Leaf:  N Background trying to have it both ways
+Leaf:  S span when it comes to white nationalism .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal They race-bait and try to curry favor with racists ,
+Leaf:  N Elaborate then give an ' official ' statement
+Leaf:  S span denouncing the very same people .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Oh well , I guess
+Leaf:  N Background the GOP will have to change tack one day
+Leaf:  S span when the country becomes majority minority , presumably in a couple of decades .
+Inner:  N Attribution None Background NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span But , I guess
+Leaf:  N Explanation those in power do n't care ,
+Leaf:  S span since they will all have passed on from old age by that time .
+Inner:  N Evaluation None Explanation NS
+Inner:  S span None Evaluation SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Of course , this is another classic case of the GOP and Trump', None, None, None, 0), ('trying to have it both ways', None, None, None, 0), ('when it comes to white nationalism .', None, None, None, 1), ('They race-bait and try to curry favor with racists ,', None, None, None, 0), ("then give an ' official ' statement", None, None, None, 0), ('denouncing the very same people .', None, None, None, 1), ('Oh well , I guess', None, None, None, 0), ('the GOP will have to change tack one day', None, None, None, 0), ('when the country becomes majority minority , presumably in a couple of decades .', None, None, None, 1), ('But , I guess', None, None, None, 0), ("those in power do n't care ,", None, None, None, 0), ('since they will all have passed on from old age by that time .', None, None, None, 1)]

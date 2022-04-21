@@ -1,0 +1,35 @@
+=====================> [[('I can not believe', None, None, None, 0), ('that a bank as big as Wells Fargo would be willing to do such a thing to our service members .', None, None, None, 1), ('The fact', None, None, None, 0), ('that they went above the law', None, None, None, 0), ('and repossed their cars', None, None, None, 0), ('is bad enough', None, None, None, 0), ('but then to try to charge the families for any discrepancy', None, None, None, 0), ('in what they got for auctioning them .', None, None, None, 1), ('That is just a terrible thing to do to the people', None, None, None, 0), ('who are risking their lives for our country ,', None, None, None, 0), ('not to mention their families', None, None, None, 0), ('that are left behind', None, None, None, 0), ('dealing with the worry', None, None, None, 0), ('of whether or not they will come home .', None, None, None, 1), ("It 's just horrible .", None, None, None, 1), ("I 'm so glad", None, None, None, 0), ('that they were able to get justice .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Attribution that a bank as big as Wells Fargo would be willing to do such a thing to our service members .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The fact
+Leaf:  N Joint that they went above the law
+Leaf:  N Joint and repossed their cars
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit is bad enough
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but then to try to charge the families for any discrepancy
+Leaf:  S span in what they got for auctioning them .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate That is just a terrible thing to do to the people
+Leaf:  S span who are risking their lives for our country ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate not to mention their families
+Leaf:  S span that are left behind
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate dealing with the worry
+Leaf:  S span of whether or not they will come home .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It 's just horrible .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm so glad
+Leaf:  N Attribution that they were able to get justice .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I can not believe', None, None, None, 0), ('that a bank as big as Wells Fargo would be willing to do such a thing to our service members .', None, None, None, 1), ('The fact', None, None, None, 0), ('that they went above the law', None, None, None, 0), ('and repossed their cars', None, None, None, 0), ('is bad enough', None, None, None, 0), ('but then to try to charge the families for any discrepancy', None, None, None, 0), ('in what they got for auctioning them .', None, None, None, 1), ('That is just a terrible thing to do to the people', None, None, None, 0), ('who are risking their lives for our country ,', None, None, None, 0), ('not to mention their families', None, None, None, 0), ('that are left behind', None, None, None, 0), ('dealing with the worry', None, None, None, 0), ('of whether or not they will come home .', None, None, None, 1), ("It 's just horrible .", None, None, None, 1), ("I 'm so glad", None, None, None, 0), ('that they were able to get justice .', None, None, None, 1)]

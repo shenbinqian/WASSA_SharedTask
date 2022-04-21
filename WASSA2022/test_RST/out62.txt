@@ -1,0 +1,27 @@
+=====================> [[('Sorry for sending three articles instead of one ,', None, None, None, 0), ('but the last one is the one', None, None, None, 0), ('you should know about .', None, None, None, 1), ('You see', None, None, None, 0), ('how our activities in the Middle East are causing refugee crisis ? Of course the Greeks and Turks should send these migrants back .', None, None, None, 1), ('Perhaps they should help them', None, None, None, 0), ('by stopping the US war machine from destroying nations in the Middle East .', None, None, None, 1), ('There would be no refugee crisis at all', None, None, None, 0), ('without us causing it . Of course , we are supposed to destroy their nations ,', None, None, None, 0), ('then destroy our own', None, None, None, 0), ('by letting them into ours .', None, None, None, 1), ('We live in a clown world', None, None, None, 0), ('were people can not see the truth . .', None, None, None, 1)]]
+Leaf:  S span Sorry for sending three articles instead of one ,
+Leaf:  N Elaborate but the last one is the one
+Leaf:  S span you should know about .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span You see
+Leaf:  N Joint how our activities in the Middle East are causing refugee crisis ? Of course the Greeks and Turks should send these migrants back .
+Leaf:  N Manner-Means Perhaps they should help them
+Leaf:  S span by stopping the US war machine from destroying nations in the Middle East .
+Inner:  N Joint None Manner-Means NS
+Inner:  N Cause None Joint NN
+Leaf:  N Manner-Means There would be no refugee crisis at all
+Leaf:  S span without us causing it . Of course , we are supposed to destroy their nations ,
+Inner:  N Temporal None Manner-Means NS
+Leaf:  N Manner-Means then destroy our own
+Leaf:  S span by letting them into ours .
+Inner:  N Temporal None Manner-Means NS
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Cause NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Background We live in a clown world
+Leaf:  S span were people can not see the truth . .
+Inner:  S span None Background NS
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('Sorry for sending three articles instead of one ,', None, None, None, 0), ('but the last one is the one', None, None, None, 0), ('you should know about .', None, None, None, 1), ('You see', None, None, None, 0), ('how our activities in the Middle East are causing refugee crisis ? Of course the Greeks and Turks should send these migrants back .', None, None, None, 1), ('Perhaps they should help them', None, None, None, 0), ('by stopping the US war machine from destroying nations in the Middle East .', None, None, None, 1), ('There would be no refugee crisis at all', None, None, None, 0), ('without us causing it . Of course , we are supposed to destroy their nations ,', None, None, None, 0), ('then destroy our own', None, None, None, 0), ('by letting them into ours .', None, None, None, 1), ('We live in a clown world', None, None, None, 0), ('were people can not see the truth . .', None, None, None, 1)]

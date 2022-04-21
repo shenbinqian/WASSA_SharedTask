@@ -1,0 +1,19 @@
+=====================> [[("It 's unfortunate these people literally have nowhere safe to go .", None, None, None, 1), ("I could n't imagine being in such a situation .", None, None, None, 1), ('To go from living in a refugee camp', None, None, None, 0), ('which is probably hell itself ,', None, None, None, 0), ('to going back', None, None, None, 0), ('to face likely abuse , starvation , torture ,', None, None, None, 0), ('or who really knows .', None, None, None, 1), ('More needs to be done for people', None, None, None, 0), ('who are living in such misery', None, None, None, 0)]]
+Leaf:  N Explanation It 's unfortunate these people literally have nowhere safe to go .
+Leaf:  N Explanation I could n't imagine being in such a situation .
+Leaf:  N Elaborate To go from living in a refugee camp
+Leaf:  S span which is probably hell itself ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement to going back
+Leaf:  N Joint to face likely abuse , starvation , torture ,
+Leaf:  N Joint or who really knows .
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Enablement NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate More needs to be done for people
+Leaf:  S span who are living in such misery
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's unfortunate these people literally have nowhere safe to go .", None, None, None, 1), ("I could n't imagine being in such a situation .", None, None, None, 1), ('To go from living in a refugee camp', None, None, None, 0), ('which is probably hell itself ,', None, None, None, 0), ('to going back', None, None, None, 0), ('to face likely abuse , starvation , torture ,', None, None, None, 0), ('or who really knows .', None, None, None, 1), ('More needs to be done for people', None, None, None, 0), ('who are living in such misery', None, None, None, 0)]

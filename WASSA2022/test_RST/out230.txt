@@ -1,0 +1,21 @@
+=====================> [[('How can someone do that to therer own child', None, None, None, 0), ('what kind of mother does that', None, None, None, 0), ('and how come the social worker never came back', None, None, None, 0), ('and did some typw of check up on the boy', None, None, None, 0), ('how come she didnt ask for a number', None, None, None, 0), ('to speak to him in mexico', None, None, None, 0), ('the ball was really dropped with this one', None, None, None, 0), ('like it always is', None, None, None, 0), ('a poor child died', None, None, None, 0), ('because of it', None, None, None, 0)]]
+Leaf:  N Summary How can someone do that to therer own child
+Leaf:  S span what kind of mother does that
+Inner:  N Joint None Summary NS
+Leaf:  N Joint and how come the social worker never came back
+Leaf:  N Joint and did some typw of check up on the boy
+Inner:  N Evaluation None Joint NN
+Leaf:  N Enablement how come she didnt ask for a number
+Leaf:  S span to speak to him in mexico
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate the ball was really dropped with this one
+Leaf:  S span like it always is
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause a poor child died
+Leaf:  S span because of it
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Inner:  Root None None Joint NN
+[('How can someone do that to therer own child', None, None, None, 0), ('what kind of mother does that', None, None, None, 0), ('and how come the social worker never came back', None, None, None, 0), ('and did some typw of check up on the boy', None, None, None, 0), ('how come she didnt ask for a number', None, None, None, 0), ('to speak to him in mexico', None, None, None, 0), ('the ball was really dropped with this one', None, None, None, 0), ('like it always is', None, None, None, 0), ('a poor child died', None, None, None, 0), ('because of it', None, None, None, 0)]

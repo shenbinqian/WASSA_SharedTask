@@ -1,0 +1,21 @@
+=====================> [[('It is very important in my life .', None, None, None, 1), ('Sleep is very important', None, None, None, 0), ('and i am quite sure .', None, None, None, 1), ('I know', None, None, None, 0), ("that already.Multiple factors affec the country 's snooze patterns ,", None, None, None, 0), ('and one of which is routine .', None, None, None, 1), ('Many people researches at he cdc say ,', None, None, None, 0), ('are not prioritizing sleep above many ,', None, None, None, 0), ('because i still can .', None, None, None, 1), ('I am share with my friends .', None, None, None, 1)]]
+Leaf:  N Elaborate It is very important in my life .
+Leaf:  N Attribution Sleep is very important
+Leaf:  S span and i am quite sure .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span I know
+Leaf:  N Attribution that already.Multiple factors affec the country 's snooze patterns ,
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and one of which is routine .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Many people researches at he cdc say ,
+Leaf:  N Explanation are not prioritizing sleep above many ,
+Leaf:  S span because i still can .
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I am share with my friends .
+Inner:  Root None None Elaborate NS
+[('It is very important in my life .', None, None, None, 1), ('Sleep is very important', None, None, None, 0), ('and i am quite sure .', None, None, None, 1), ('I know', None, None, None, 0), ("that already.Multiple factors affec the country 's snooze patterns ,", None, None, None, 0), ('and one of which is routine .', None, None, None, 1), ('Many people researches at he cdc say ,', None, None, None, 0), ('are not prioritizing sleep above many ,', None, None, None, 0), ('because i still can .', None, None, None, 1), ('I am share with my friends .', None, None, None, 1)]

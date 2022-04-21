@@ -1,0 +1,29 @@
+=====================> [[('This article displays another example of blatant sexism .', None, None, None, 1), ('Japan has a huge issue with sexual harassment and assault , such as groping ,', None, None, None, 0), ('occurring on their trains .', None, None, None, 1), ('Yet ,', None, None, None, 0), ('they decide', None, None, None, 0), ('that women', None, None, None, 0), ('applying make up', None, None, None, 0), ('is the biggest issue', None, None, None, 0), ('that needs to be addressed .', None, None, None, 1), ('And rather than addressing the mess', None, None, None, 0), ('that makeup may cause as the issue ,', None, None, None, 0), ('they make the ads', None, None, None, 0), ("to attack a woman 's character and beauty", None, None, None, 0), ('for doing her daily routine on the train . Absolutely absurd .', None, None, None, 1)]]
+Leaf:  N Elaborate This article displays another example of blatant sexism .
+Leaf:  N Elaborate Japan has a huge issue with sexual harassment and assault , such as groping ,
+Leaf:  S span occurring on their trains .
+Inner:  S span None Elaborate NS
+Leaf:  S span Yet ,
+Leaf:  S span they decide
+Leaf:  N Elaborate that women
+Leaf:  S span applying make up
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is the biggest issue
+Leaf:  S span that needs to be addressed .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Background None Attribution SN
+Inner:  N Contrast None Background SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate And rather than addressing the mess
+Leaf:  S span that makeup may cause as the issue ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate they make the ads
+Leaf:  N Cause to attack a woman 's character and beauty
+Leaf:  S span for doing her daily routine on the train . Absolutely absurd .
+Inner:  S span None Cause NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This article displays another example of blatant sexism .', None, None, None, 1), ('Japan has a huge issue with sexual harassment and assault , such as groping ,', None, None, None, 0), ('occurring on their trains .', None, None, None, 1), ('Yet ,', None, None, None, 0), ('they decide', None, None, None, 0), ('that women', None, None, None, 0), ('applying make up', None, None, None, 0), ('is the biggest issue', None, None, None, 0), ('that needs to be addressed .', None, None, None, 1), ('And rather than addressing the mess', None, None, None, 0), ('that makeup may cause as the issue ,', None, None, None, 0), ('they make the ads', None, None, None, 0), ("to attack a woman 's character and beauty", None, None, None, 0), ('for doing her daily routine on the train . Absolutely absurd .', None, None, None, 1)]

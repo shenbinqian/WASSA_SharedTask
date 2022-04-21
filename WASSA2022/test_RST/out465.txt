@@ -1,0 +1,25 @@
+=====================> [[('When I see marriages', None, None, None, 0), ('and homes breaking', None, None, None, 0), ('as a result of infidelity ,', None, None, None, 0), ('it gets to me .', None, None, None, 1), ('I mean why break a union over sex with some random people .', None, None, None, 1), ('It is different', None, None, None, 0), ('if was on other issues like lifestyle incompatibility and all ,', None, None, None, 0), ('but not having a satisfying sexual life ?', None, None, None, 1), ('that is selfishness in my opinion .', None, None, None, 1), ('A lot should go into marriage planning', None, None, None, 0), ('to ensure people know', None, None, None, 0), ('what they are really getting into .', None, None, None, 1)]]
+Leaf:  N Joint When I see marriages
+Leaf:  N Cause and homes breaking
+Leaf:  S span as a result of infidelity ,
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Leaf:  N Cause it gets to me .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Evaluation I mean why break a union over sex with some random people .
+Leaf:  N Condition It is different
+Leaf:  S span if was on other issues like lifestyle incompatibility and all ,
+Inner:  N Joint None Condition NS
+Leaf:  N Joint but not having a satisfying sexual life ?
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span that is selfishness in my opinion .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement A lot should go into marriage planning
+Leaf:  S span to ensure people know
+Leaf:  N Attribution what they are really getting into .
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  Root None None Evaluation NS
+[('When I see marriages', None, None, None, 0), ('and homes breaking', None, None, None, 0), ('as a result of infidelity ,', None, None, None, 0), ('it gets to me .', None, None, None, 1), ('I mean why break a union over sex with some random people .', None, None, None, 1), ('It is different', None, None, None, 0), ('if was on other issues like lifestyle incompatibility and all ,', None, None, None, 0), ('but not having a satisfying sexual life ?', None, None, None, 1), ('that is selfishness in my opinion .', None, None, None, 1), ('A lot should go into marriage planning', None, None, None, 0), ('to ensure people know', None, None, None, 0), ('what they are really getting into .', None, None, None, 1)]

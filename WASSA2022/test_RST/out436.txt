@@ -1,0 +1,21 @@
+=====================> [[('It is really scary to learn that 2 divers were found dead in the florida cave system .', None, None, None, 1), ('Police have not disclosed the real reason', None, None, None, 0), ('but they might be dead', None, None, None, 0), ('because they went diving', None, None, None, 0), ('without proper gear .', None, None, None, 1), ('I would not want to go diving ever .', None, None, None, 1), ('Just the thought', None, None, None, 0), ('of going inside a dark cave', None, None, None, 0), ('scares me .', None, None, None, 1), ('Also without knowing how deep the water is even more scarier .', None, None, None, 1)]]
+Leaf:  N Elaborate It is really scary to learn that 2 divers were found dead in the florida cave system .
+Leaf:  S span Police have not disclosed the real reason
+Leaf:  N Cause but they might be dead
+Leaf:  N Manner-Means because they went diving
+Leaf:  S span without proper gear .
+Inner:  S span None Manner-Means NS
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I would not want to go diving ever .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Just the thought
+Leaf:  S span of going inside a dark cave
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit scares me .
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint Also without knowing how deep the water is even more scarier .
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('It is really scary to learn that 2 divers were found dead in the florida cave system .', None, None, None, 1), ('Police have not disclosed the real reason', None, None, None, 0), ('but they might be dead', None, None, None, 0), ('because they went diving', None, None, None, 0), ('without proper gear .', None, None, None, 1), ('I would not want to go diving ever .', None, None, None, 1), ('Just the thought', None, None, None, 0), ('of going inside a dark cave', None, None, None, 0), ('scares me .', None, None, None, 1), ('Also without knowing how deep the water is even more scarier .', None, None, None, 1)]

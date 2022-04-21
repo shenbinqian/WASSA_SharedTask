@@ -1,0 +1,29 @@
+=====================> [[('I have no idea', None, None, None, 0), ('why every news agency always mentions North Koreans Nuclear testing', None, None, None, 0), ('when it comes to natural disasters and the suffering of the people .', None, None, None, 1), ('They almost seem to think', None, None, None, 0), ('any sort of sympathy and humanity comes with conditions .', None, None, None, 1), ('Had this article simply told you about the public call for help after a natural disaster ,', None, None, None, 0), ('without mentioning the A-Bomb ,', None, None, None, 0), ('or mentioning North Korea', None, None, None, 0), ('then we all would feel much more inclined to help .', None, None, None, 1), ('But ,', None, None, None, 0), ('as is typical ,', None, None, None, 0), ('the media as part of the government want s us to feel hatred toward the people', None, None, None, 0), ('for what their government is doing .', None, None, None, 1), ('Perhaps we will just bomb and kill them next .', None, None, None, 1)]]
+Leaf:  S span I have no idea
+Leaf:  N Background why every news agency always mentions North Koreans Nuclear testing
+Leaf:  S span when it comes to natural disasters and the suffering of the people .
+Inner:  N Attribution None Background NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span They almost seem to think
+Leaf:  N Attribution any sort of sympathy and humanity comes with conditions .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Manner-Means Had this article simply told you about the public call for help after a natural disaster ,
+Leaf:  N Joint without mentioning the A-Bomb ,
+Leaf:  N Joint or mentioning North Korea
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Leaf:  N Condition then we all would feel much more inclined to help .
+Inner:  S span None Condition SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Same-Unit But ,
+Leaf:  N Same-Unit as is typical ,
+Leaf:  N Explanation the media as part of the government want s us to feel hatred toward the people
+Leaf:  S span for what their government is doing .
+Inner:  N Same-Unit None Explanation NS
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span Perhaps we will just bomb and kill them next .
+Inner:  S span None Cause NS
+Inner:  Root None None Contrast NS
+[('I have no idea', None, None, None, 0), ('why every news agency always mentions North Koreans Nuclear testing', None, None, None, 0), ('when it comes to natural disasters and the suffering of the people .', None, None, None, 1), ('They almost seem to think', None, None, None, 0), ('any sort of sympathy and humanity comes with conditions .', None, None, None, 1), ('Had this article simply told you about the public call for help after a natural disaster ,', None, None, None, 0), ('without mentioning the A-Bomb ,', None, None, None, 0), ('or mentioning North Korea', None, None, None, 0), ('then we all would feel much more inclined to help .', None, None, None, 1), ('But ,', None, None, None, 0), ('as is typical ,', None, None, None, 0), ('the media as part of the government want s us to feel hatred toward the people', None, None, None, 0), ('for what their government is doing .', None, None, None, 1), ('Perhaps we will just bomb and kill them next .', None, None, None, 1)]

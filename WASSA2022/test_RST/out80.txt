@@ -1,0 +1,15 @@
+=====================> [[("April it 's just unbelievable", None, None, None, 0), ('the top executives allowed to happen at Wells Fargo .', None, None, None, 1), ('They put the health of their employees behind profits of the company .', None, None, None, 1), ('Not only that they left ethics behind totally by creating over two million unauthorized accounts .', None, None, None, 1), ('To me that seems criminal .', None, None, None, 1), ('Those top executives at Wells Fargo should be facing criminal charges .', None, None, None, 1), ('And the should be shunned by society for putting their workers through such stress .', None, None, None, 1)]]
+Leaf:  N Elaborate April it 's just unbelievable
+Leaf:  S span the top executives allowed to happen at Wells Fargo .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Joint They put the health of their employees behind profits of the company .
+Leaf:  N Joint Not only that they left ethics behind totally by creating over two million unauthorized accounts .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span To me that seems criminal .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint Those top executives at Wells Fargo should be facing criminal charges .
+Leaf:  N Joint And the should be shunned by society for putting their workers through such stress .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[("April it 's just unbelievable", None, None, None, 0), ('the top executives allowed to happen at Wells Fargo .', None, None, None, 1), ('They put the health of their employees behind profits of the company .', None, None, None, 1), ('Not only that they left ethics behind totally by creating over two million unauthorized accounts .', None, None, None, 1), ('To me that seems criminal .', None, None, None, 1), ('Those top executives at Wells Fargo should be facing criminal charges .', None, None, None, 1), ('And the should be shunned by society for putting their workers through such stress .', None, None, None, 1)]

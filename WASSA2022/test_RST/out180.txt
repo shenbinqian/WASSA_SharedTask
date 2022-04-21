@@ -1,0 +1,31 @@
+=====================> [[('I am not sure', None, None, None, 0), ('how to feel about this article .', None, None, None, 1), ('Rightfully , the company should be blamed for creating the type of culture', None, None, None, 0), ('that people felt the need', None, None, None, 0), ('to go to such extremes', None, None, None, 0), ("as to violate a customer 's trust", None, None, None, 0), ('and use their personal data', None, None, None, 0), ('to commit fraud essentially . However , the employees did it .', None, None, None, 1), ('It seems to me that a person , no matter the work culture , knows', None, None, None, 0), ('that fraud is fraud', None, None, None, 0), ('and what they were doing is illegal and unethical .', None, None, None, 1), ("Blame shifting does n't paint the employees in a greater light .", None, None, None, 1), ('The company and the employees', None, None, None, 0), ('they attract', None, None, None, 0), ('both suck .', None, None, None, 1)]]
+Leaf:  S span I am not sure
+Leaf:  N Attribution how to feel about this article .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Rightfully , the company should be blamed for creating the type of culture
+Leaf:  N Elaborate that people felt the need
+Leaf:  S span to go to such extremes
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint as to violate a customer 's trust
+Leaf:  N Enablement and use their personal data
+Leaf:  S span to commit fraud essentially . However , the employees did it .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It seems to me that a person , no matter the work culture , knows
+Leaf:  N Joint that fraud is fraud
+Leaf:  N Joint and what they were doing is illegal and unethical .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Blame shifting does n't paint the employees in a greater light .
+Leaf:  N Elaborate The company and the employees
+Leaf:  S span they attract
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit both suck .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I am not sure', None, None, None, 0), ('how to feel about this article .', None, None, None, 1), ('Rightfully , the company should be blamed for creating the type of culture', None, None, None, 0), ('that people felt the need', None, None, None, 0), ('to go to such extremes', None, None, None, 0), ("as to violate a customer 's trust", None, None, None, 0), ('and use their personal data', None, None, None, 0), ('to commit fraud essentially . However , the employees did it .', None, None, None, 1), ('It seems to me that a person , no matter the work culture , knows', None, None, None, 0), ('that fraud is fraud', None, None, None, 0), ('and what they were doing is illegal and unethical .', None, None, None, 1), ("Blame shifting does n't paint the employees in a greater light .", None, None, None, 1), ('The company and the employees', None, None, None, 0), ('they attract', None, None, None, 0), ('both suck .', None, None, None, 1)]

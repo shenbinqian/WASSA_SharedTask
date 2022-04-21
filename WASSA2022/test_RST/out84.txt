@@ -1,0 +1,29 @@
+=====================> [[('This actually makes me really angry', None, None, None, 0), ("because it 's something", None, None, None, 0), ('that was easily preventable.Dreamworld is so busy concentrating on making profits for their CEO and shareholders ,', None, None, None, 0), ('yet they neglect something', None, None, None, 0), ('that was able to be prevented', None, None, None, 0), ('by doing simple maintenance .', None, None, None, 1), ("Whether it 's a tame ride or not , the company needs to make sure that all of their rides are held to the highest standard in safety .", None, None, None, 1), ('I am hoping', None, None, None, 0), ('that tourists will boycott Dreamworld', None, None, None, 0), ('until they can find a way', None, None, None, 0), ('to ensure', None, None, None, 0), ('that all of its rides are safe for families.It was not a simple malfunction .', None, None, None, 1), ('This is the failure of Dreamworld', None, None, None, 0), ('to protect the interests of their customers .', None, None, None, 1)]]
+Leaf:  N Explanation This actually makes me really angry
+Leaf:  N Elaborate because it 's something
+Leaf:  S span that was easily preventable.Dreamworld is so busy concentrating on making profits for their CEO and shareholders ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Leaf:  N Elaborate yet they neglect something
+Leaf:  N Manner-Means that was able to be prevented
+Leaf:  S span by doing simple maintenance .
+Inner:  S span None Manner-Means NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Whether it 's a tame ride or not , the company needs to make sure that all of their rides are held to the highest standard in safety .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am hoping
+Leaf:  N Condition that tourists will boycott Dreamworld
+Leaf:  N Elaborate until they can find a way
+Leaf:  S span to ensure
+Leaf:  N Attribution that all of its rides are safe for families.It was not a simple malfunction .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Condition NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate This is the failure of Dreamworld
+Leaf:  S span to protect the interests of their customers .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This actually makes me really angry', None, None, None, 0), ("because it 's something", None, None, None, 0), ('that was easily preventable.Dreamworld is so busy concentrating on making profits for their CEO and shareholders ,', None, None, None, 0), ('yet they neglect something', None, None, None, 0), ('that was able to be prevented', None, None, None, 0), ('by doing simple maintenance .', None, None, None, 1), ("Whether it 's a tame ride or not , the company needs to make sure that all of their rides are held to the highest standard in safety .", None, None, None, 1), ('I am hoping', None, None, None, 0), ('that tourists will boycott Dreamworld', None, None, None, 0), ('until they can find a way', None, None, None, 0), ('to ensure', None, None, None, 0), ('that all of its rides are safe for families.It was not a simple malfunction .', None, None, None, 1), ('This is the failure of Dreamworld', None, None, None, 0), ('to protect the interests of their customers .', None, None, None, 1)]

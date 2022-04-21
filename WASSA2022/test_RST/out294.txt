@@ -1,0 +1,21 @@
+=====================> [[('Just wanted to share this you .', None, None, None, 1), ('We have regressed indeed in our gender equality goals .', None, None, None, 1), ('Why do you think', None, None, None, 0), ('this happened .', None, None, None, 1), ('I feel so sorry for all those brave women', None, None, None, 0), ('who have been fighting for equal rights', None, None, None, 0), ('and especially now', None, None, None, 0), ('when so many are coming out with their stories at so much personal cost .', None, None, None, 1), ('It is just sad and unfortunate that we are still regressing', None, None, None, 0), ('and particularly when compared to other developed countries .', None, None, None, 1)]]
+Leaf:  N Elaborate Just wanted to share this you .
+Leaf:  N Summary We have regressed indeed in our gender equality goals .
+Leaf:  S span Why do you think
+Leaf:  N Attribution this happened .
+Inner:  S span None Attribution SN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I feel so sorry for all those brave women
+Leaf:  S span who have been fighting for equal rights
+Inner:  N Background None Elaborate NS
+Leaf:  N Background and especially now
+Leaf:  S span when so many are coming out with their stories at so much personal cost .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Comparison It is just sad and unfortunate that we are still regressing
+Leaf:  S span and particularly when compared to other developed countries .
+Inner:  S span None Comparison NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Just wanted to share this you .', None, None, None, 1), ('We have regressed indeed in our gender equality goals .', None, None, None, 1), ('Why do you think', None, None, None, 0), ('this happened .', None, None, None, 1), ('I feel so sorry for all those brave women', None, None, None, 0), ('who have been fighting for equal rights', None, None, None, 0), ('and especially now', None, None, None, 0), ('when so many are coming out with their stories at so much personal cost .', None, None, None, 1), ('It is just sad and unfortunate that we are still regressing', None, None, None, 0), ('and particularly when compared to other developed countries .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('That poor , poor child .', None, None, None, 1), ('Can you imagine how scared he must have been ?', None, None, None, 1), ('Trapped all alone in that well , in the dark , with nothing', None, None, None, 0), ('to eat or drink for days .', None, None, None, 1), ('That is a terrible way for anyone to die , let alone a child . Not to mention his parents .', None, None, None, 1), ('If that was my child ,', None, None, None, 0), ('I would be frantic', None, None, None, 0), ('to try to get them out .', None, None, None, 1), ('A part of me would die inside ,', None, None, None, 0), ('knowing', None, None, None, 0), ('that they died , alone ,', None, None, None, 0), ("and I could n't save them .", None, None, None, 1)]]
+Leaf:  N Elaborate That poor , poor child .
+Leaf:  S span Can you imagine how scared he must have been ?
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Trapped all alone in that well , in the dark , with nothing
+Leaf:  S span to eat or drink for days .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate That is a terrible way for anyone to die , let alone a child . Not to mention his parents .
+Leaf:  S span If that was my child ,
+Leaf:  N Enablement I would be frantic
+Leaf:  S span to try to get them out .
+Inner:  N Condition None Enablement NS
+Inner:  N Joint None Condition SN
+Leaf:  N Explanation A part of me would die inside ,
+Leaf:  S span knowing
+Leaf:  N Joint that they died , alone ,
+Leaf:  N Joint and I could n't save them .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('That poor , poor child .', None, None, None, 1), ('Can you imagine how scared he must have been ?', None, None, None, 1), ('Trapped all alone in that well , in the dark , with nothing', None, None, None, 0), ('to eat or drink for days .', None, None, None, 1), ('That is a terrible way for anyone to die , let alone a child . Not to mention his parents .', None, None, None, 1), ('If that was my child ,', None, None, None, 0), ('I would be frantic', None, None, None, 0), ('to try to get them out .', None, None, None, 1), ('A part of me would die inside ,', None, None, None, 0), ('knowing', None, None, None, 0), ('that they died , alone ,', None, None, None, 0), ("and I could n't save them .", None, None, None, 1)]

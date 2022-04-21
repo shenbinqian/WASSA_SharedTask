@@ -1,0 +1,19 @@
+=====================> [[('Such a tragedy and waste of life .', None, None, None, 1), ('I really hope', None, None, None, 0), ('something is done ,', None, None, None, 0), ("though I 'm stumped myself on what to do .", None, None, None, 1), ('My heart goes out to these people . Especially since the terrorists are attacking both civilians and government officials indiscriminately .', None, None, None, 1), ('Terrorism is an attack on human life itself', None, None, None, 0), ('and is an atrocity .', None, None, None, 1), ("It does n't matter where or what color", None, None, None, 0), ('the terrorists are .', None, None, None, 1)]]
+Leaf:  S span Such a tragedy and waste of life .
+Leaf:  S span I really hope
+Leaf:  N Attribution something is done ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span though I 'm stumped myself on what to do .
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span My heart goes out to these people . Especially since the terrorists are attacking both civilians and government officials indiscriminately .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint Terrorism is an attack on human life itself
+Leaf:  N Joint and is an atrocity .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate It does n't matter where or what color
+Leaf:  S span the terrorists are .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Such a tragedy and waste of life .', None, None, None, 1), ('I really hope', None, None, None, 0), ('something is done ,', None, None, None, 0), ("though I 'm stumped myself on what to do .", None, None, None, 1), ('My heart goes out to these people . Especially since the terrorists are attacking both civilians and government officials indiscriminately .', None, None, None, 1), ('Terrorism is an attack on human life itself', None, None, None, 0), ('and is an atrocity .', None, None, None, 1), ("It does n't matter where or what color", None, None, None, 0), ('the terrorists are .', None, None, None, 1)]

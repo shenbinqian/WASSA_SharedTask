@@ -1,0 +1,25 @@
+=====================> [[('Global warming is something', None, None, None, 0), ('that is on the horizon', None, None, None, 0), ('and a lot of it has to do with how much meat we eat .', None, None, None, 1), ('It produces to much CO2', None, None, None, 0), ('which in turn ruins our ozone layer .', None, None, None, 1), ('Our consumption has doubled', None, None, None, 0), ("and it 's extremely alarming .", None, None, None, 1), ('Things will only get worse', None, None, None, 0), ('as our population grows', None, None, None, 0), ('and the environment is the one', None, None, None, 0), ("who 's impacted by it .", None, None, None, 1), ('Things need to change quick , and now .', None, None, None, 1)]]
+Leaf:  N Elaborate Global warming is something
+Leaf:  S span that is on the horizon
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and a lot of it has to do with how much meat we eat .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause It produces to much CO2
+Leaf:  S span which in turn ruins our ozone layer .
+Inner:  N Cause None Cause NS
+Leaf:  N Cause Our consumption has doubled
+Leaf:  S span and it 's extremely alarming .
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Background Things will only get worse
+Leaf:  N Joint as our population grows
+Leaf:  N Elaborate and the environment is the one
+Leaf:  S span who 's impacted by it .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Leaf:  N Background Things need to change quick , and now .
+Inner:  Root None None Background SN
+[('Global warming is something', None, None, None, 0), ('that is on the horizon', None, None, None, 0), ('and a lot of it has to do with how much meat we eat .', None, None, None, 1), ('It produces to much CO2', None, None, None, 0), ('which in turn ruins our ozone layer .', None, None, None, 1), ('Our consumption has doubled', None, None, None, 0), ("and it 's extremely alarming .", None, None, None, 1), ('Things will only get worse', None, None, None, 0), ('as our population grows', None, None, None, 0), ('and the environment is the one', None, None, None, 0), ("who 's impacted by it .", None, None, None, 1), ('Things need to change quick , and now .', None, None, None, 1)]

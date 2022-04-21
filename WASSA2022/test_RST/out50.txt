@@ -1,0 +1,25 @@
+=====================> [[("It 's sad to think of all of the people", None, None, None, 0), ('who were out a job', None, None, None, 0), ('when they cancelled this show .', None, None, None, 1), ("It 's sad that this person feels betrayed by the network", None, None, None, 0), ('for putting her trust in them .', None, None, None, 1), ("The article does n't give too many specifics", None, None, None, 0), ("but I 'm sure it 's change their life a lot", None, None, None, 0), ('and caused them trouble .', None, None, None, 1), ("They 've had to rebuild", None, None, None, 0), ('what they planned', None, None, None, 0), ("but I do n't think", None, None, None, 0), ("it 's nearly as devastating as other things .", None, None, None, 1)]]
+Leaf:  N Elaborate It 's sad to think of all of the people
+Leaf:  N Cause who were out a job
+Leaf:  S span when they cancelled this show .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation It 's sad that this person feels betrayed by the network
+Leaf:  S span for putting her trust in them .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The article does n't give too many specifics
+Leaf:  N Joint but I 'm sure it 's change their life a lot
+Leaf:  N Joint and caused them trouble .
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate They 've had to rebuild
+Leaf:  S span what they planned
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but I do n't think
+Leaf:  N Attribution it 's nearly as devastating as other things .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("It 's sad to think of all of the people", None, None, None, 0), ('who were out a job', None, None, None, 0), ('when they cancelled this show .', None, None, None, 1), ("It 's sad that this person feels betrayed by the network", None, None, None, 0), ('for putting her trust in them .', None, None, None, 1), ("The article does n't give too many specifics", None, None, None, 0), ("but I 'm sure it 's change their life a lot", None, None, None, 0), ('and caused them trouble .', None, None, None, 1), ("They 've had to rebuild", None, None, None, 0), ('what they planned', None, None, None, 0), ("but I do n't think", None, None, None, 0), ("it 's nearly as devastating as other things .", None, None, None, 1)]

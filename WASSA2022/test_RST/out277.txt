@@ -1,0 +1,25 @@
+=====================> [[('Apparently we are in the midst of a banana epidemic !', None, None, None, 1), ('The article droned on and on about the need biodiversity', None, None, None, 0), ('regarding banana ans', None, None, None, 0), ('to avoid relying too much on just on banana type .', None, None, None, 1), ('It relayed , in exhaustive , mind-numbing detail ,', None, None, None, 0), ('about how past over-reliance on just one banana species at a time can lead to devastation ,', None, None, None, 0), ('since a disease could wipe out that strain .', None, None, None, 1), ('But ,', None, None, None, 0), ("unless you 're really into banana geekdom ,", None, None, None, 0), ('I would say', None, None, None, 0), ('avoid this article like the plague ,', None, None, None, 0), ('no pun intended .', None, None, None, 1)]]
+Leaf:  N Elaborate Apparently we are in the midst of a banana epidemic !
+Leaf:  N Elaborate The article droned on and on about the need biodiversity
+Leaf:  S span regarding banana ans
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit to avoid relying too much on just on banana type .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Same-Unit It relayed , in exhaustive , mind-numbing detail ,
+Leaf:  N Explanation about how past over-reliance on just one banana species at a time can lead to devastation ,
+Leaf:  S span since a disease could wipe out that strain .
+Inner:  N Same-Unit None Explanation NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Same-Unit But ,
+Leaf:  S span unless you 're really into banana geekdom ,
+Leaf:  S span I would say
+Leaf:  N Evaluation avoid this article like the plague ,
+Leaf:  S span no pun intended .
+Inner:  N Attribution None Evaluation NS
+Inner:  N Condition None Attribution SN
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  Root None None Contrast NN
+[('Apparently we are in the midst of a banana epidemic !', None, None, None, 1), ('The article droned on and on about the need biodiversity', None, None, None, 0), ('regarding banana ans', None, None, None, 0), ('to avoid relying too much on just on banana type .', None, None, None, 1), ('It relayed , in exhaustive , mind-numbing detail ,', None, None, None, 0), ('about how past over-reliance on just one banana species at a time can lead to devastation ,', None, None, None, 0), ('since a disease could wipe out that strain .', None, None, None, 1), ('But ,', None, None, None, 0), ("unless you 're really into banana geekdom ,", None, None, None, 0), ('I would say', None, None, None, 0), ('avoid this article like the plague ,', None, None, None, 0), ('no pun intended .', None, None, None, 1)]

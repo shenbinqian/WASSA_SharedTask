@@ -1,0 +1,21 @@
+=====================> [[('Why does the government think', None, None, None, 0), ('these innocent people some be without homes', None, None, None, 0), ('just so others can come over .', None, None, None, 1), ("It 's not right does these people have a heart in office", None, None, None, 0), ('we must stop them', None, None, None, 0), ('They let these people stay for years', None, None, None, 0), ('and now they making it a law', None, None, None, 0), ('to kick them out of there homes', None, None, None, 0), ('where they have no place to live', None, None, None, 0), ('and could die .', None, None, None, 1)]]
+Leaf:  S span Why does the government think
+Leaf:  N Attribution these innocent people some be without homes
+Inner:  N Enablement None Attribution SN
+Leaf:  S span just so others can come over .
+Inner:  N Summary None Enablement NS
+Leaf:  S span It 's not right does these people have a heart in office
+Leaf:  N Explanation we must stop them
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Temporal They let these people stay for years
+Leaf:  N Elaborate and now they making it a law
+Leaf:  N Elaborate to kick them out of there homes
+Leaf:  N Cause where they have no place to live
+Leaf:  N Cause and could die .
+Inner:  S span None Cause NN
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Why does the government think', None, None, None, 0), ('these innocent people some be without homes', None, None, None, 0), ('just so others can come over .', None, None, None, 1), ("It 's not right does these people have a heart in office", None, None, None, 0), ('we must stop them', None, None, None, 0), ('They let these people stay for years', None, None, None, 0), ('and now they making it a law', None, None, None, 0), ('to kick them out of there homes', None, None, None, 0), ('where they have no place to live', None, None, None, 0), ('and could die .', None, None, None, 1)]

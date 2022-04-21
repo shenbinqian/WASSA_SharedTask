@@ -1,0 +1,25 @@
+=====================> [[('How terrible . A group of small children on halloween are now dead .', None, None, None, 1), ("While I ca n't help", None, None, None, 0), ('but feel sorry for them and angry at the driver of the pickup', None, None, None, 0), ('that rear-ended them ,', None, None, None, 0), ('just as much blame should be put on the adults', None, None, None, 0), ('who organised this little stunt', None, None, None, 0), ('to begin with .', None, None, None, 1), ('Who in their right mind puts small children in a trailer ?', None, None, None, 1), ('This was one of many possible accidents', None, None, None, 0), ('that these children were at risk for in that situation .', None, None, None, 1), ('Lets just use some common sense', None, None, None, 0), ('and not place small children the back of a trailer , halloween or not .', None, None, None, 1)]]
+Leaf:  N Elaborate How terrible . A group of small children on halloween are now dead .
+Leaf:  S span While I ca n't help
+Leaf:  N Elaborate but feel sorry for them and angry at the driver of the pickup
+Leaf:  S span that rear-ended them ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate just as much blame should be put on the adults
+Leaf:  N Elaborate who organised this little stunt
+Leaf:  S span to begin with .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate Who in their right mind puts small children in a trailer ?
+Leaf:  N Elaborate This was one of many possible accidents
+Leaf:  S span that these children were at risk for in that situation .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Comparison Lets just use some common sense
+Leaf:  N Comparison and not place small children the back of a trailer , halloween or not .
+Inner:  S span None Comparison NN
+Inner:  Root None None Evaluation NS
+[('How terrible . A group of small children on halloween are now dead .', None, None, None, 1), ("While I ca n't help", None, None, None, 0), ('but feel sorry for them and angry at the driver of the pickup', None, None, None, 0), ('that rear-ended them ,', None, None, None, 0), ('just as much blame should be put on the adults', None, None, None, 0), ('who organised this little stunt', None, None, None, 0), ('to begin with .', None, None, None, 1), ('Who in their right mind puts small children in a trailer ?', None, None, None, 1), ('This was one of many possible accidents', None, None, None, 0), ('that these children were at risk for in that situation .', None, None, None, 1), ('Lets just use some common sense', None, None, None, 0), ('and not place small children the back of a trailer , halloween or not .', None, None, None, 1)]

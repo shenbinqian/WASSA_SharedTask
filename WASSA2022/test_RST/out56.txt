@@ -1,0 +1,31 @@
+=====================> [[('What do you think , would you bring an 11 year old to a game ?', None, None, None, 1), ("There 's a chance of something like this happening ,", None, None, None, 0), ("although I 'm sure", None, None, None, 0), ('it was unintentional that it hit the kid .', None, None, None, 1), ('I guess', None, None, None, 0), ('it seems like this is a case', None, None, None, 0), ('where the one outlier makes the news ,', None, None, None, 0), ("and probably the other 10000 kids at the game were completely fine , or at all the other games this same day . I 'm now subject to a 1000 character limit ,", None, None, None, 0), ('so even though my email is finished', None, None, None, 0), ('I have to keep typing .', None, None, None, 1), ("I do n't usually write such long emails to friends ,", None, None, None, 0), ('I would probably talk to them instead', None, None, None, 0), ('if it was this volume of information .', None, None, None, 1), ("Or wait maybe that 's a maximum", None, None, None, 0), ('and I can just click next .', None, None, None, 1)]]
+Leaf:  S span What do you think , would you bring an 11 year old to a game ?
+Leaf:  N Contrast There 's a chance of something like this happening ,
+Leaf:  S span although I 'm sure
+Leaf:  N Attribution it was unintentional that it hit the kid .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Contrast NS
+Inner:  N Evaluation None Evaluation SN
+Leaf:  S span I guess
+Leaf:  N Elaborate it seems like this is a case
+Leaf:  N Joint where the one outlier makes the news ,
+Leaf:  N Joint and probably the other 10000 kids at the game were completely fine , or at all the other games this same day . I 'm now subject to a 1000 character limit ,
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span so even though my email is finished
+Leaf:  N Contrast I have to keep typing .
+Inner:  N Cause None Contrast SN
+Inner:  N Joint None Cause NN
+Leaf:  N Evaluation I do n't usually write such long emails to friends ,
+Leaf:  N Condition I would probably talk to them instead
+Leaf:  S span if it was this volume of information .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Or wait maybe that 's a maximum
+Leaf:  N Joint and I can just click next .
+Inner:  S span None Joint NN
+Inner:  N Joint None Evaluation NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('What do you think , would you bring an 11 year old to a game ?', None, None, None, 1), ("There 's a chance of something like this happening ,", None, None, None, 0), ("although I 'm sure", None, None, None, 0), ('it was unintentional that it hit the kid .', None, None, None, 1), ('I guess', None, None, None, 0), ('it seems like this is a case', None, None, None, 0), ('where the one outlier makes the news ,', None, None, None, 0), ("and probably the other 10000 kids at the game were completely fine , or at all the other games this same day . I 'm now subject to a 1000 character limit ,", None, None, None, 0), ('so even though my email is finished', None, None, None, 0), ('I have to keep typing .', None, None, None, 1), ("I do n't usually write such long emails to friends ,", None, None, None, 0), ('I would probably talk to them instead', None, None, None, 0), ('if it was this volume of information .', None, None, None, 1), ("Or wait maybe that 's a maximum", None, None, None, 0), ('and I can just click next .', None, None, None, 1)]

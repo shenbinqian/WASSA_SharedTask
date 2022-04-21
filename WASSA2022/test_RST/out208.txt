@@ -1,0 +1,17 @@
+=====================> [[('This is kinda of disgusting that the Royal Carribean workers were taunting a passenger', None, None, None, 0), ('for being gay .', None, None, None, 1), ('However , is that any reason for the passenger to kill himself ?', None, None, None, 1), ('Either way , the Cruise line is at fault', None, None, None, 0), ('and should be sued by the dead guys husband', None, None, None, 0), ("because they did n't do what they could", None, None, None, 0), ('in order ot save the man', None, None, None, 0), ('once he went overboard .', None, None, None, 1)]]
+Leaf:  N Manner-Means This is kinda of disgusting that the Royal Carribean workers were taunting a passenger
+Leaf:  S span for being gay .
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span However , is that any reason for the passenger to kill himself ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Either way , the Cruise line is at fault
+Leaf:  N Joint and should be sued by the dead guys husband
+Inner:  N Explanation None Joint NN
+Leaf:  N Enablement because they did n't do what they could
+Leaf:  N Background in order ot save the man
+Leaf:  S span once he went overboard .
+Inner:  S span None Background NS
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('This is kinda of disgusting that the Royal Carribean workers were taunting a passenger', None, None, None, 0), ('for being gay .', None, None, None, 1), ('However , is that any reason for the passenger to kill himself ?', None, None, None, 1), ('Either way , the Cruise line is at fault', None, None, None, 0), ('and should be sued by the dead guys husband', None, None, None, 0), ("because they did n't do what they could", None, None, None, 0), ('in order ot save the man', None, None, None, 0), ('once he went overboard .', None, None, None, 1)]

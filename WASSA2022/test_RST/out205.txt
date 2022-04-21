@@ -1,0 +1,17 @@
+=====================> [[('So some wild animals are being smuggled around the world', None, None, None, 0), ('who cares what about the child sex slaves', None, None, None, 0), ('that are being smuggled around the world', None, None, None, 0), ('this guy wrote a whole article on animals', None, None, None, 0), ("when we cant even save people yet why do n't you spend some more time", None, None, None, 0), ('trying', None, None, None, 0), ('to save human beings', None, None, None, 0), ("they do n't really care about us", None, None, None, 0)]]
+Leaf:  N Evaluation So some wild animals are being smuggled around the world
+Leaf:  N Elaborate who cares what about the child sex slaves
+Leaf:  S span that are being smuggled around the world
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span this guy wrote a whole article on animals
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate when we cant even save people yet why do n't you spend some more time
+Leaf:  S span trying
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to save human beings
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span they do n't really care about us
+Inner:  N Explanation None Elaborate NS
+Inner:  Root None None Explanation SN
+[('So some wild animals are being smuggled around the world', None, None, None, 0), ('who cares what about the child sex slaves', None, None, None, 0), ('that are being smuggled around the world', None, None, None, 0), ('this guy wrote a whole article on animals', None, None, None, 0), ("when we cant even save people yet why do n't you spend some more time", None, None, None, 0), ('trying', None, None, None, 0), ('to save human beings', None, None, None, 0), ("they do n't really care about us", None, None, None, 0)]

@@ -1,0 +1,21 @@
+=====================> [[('Gosh I hate that ISIS .', None, None, None, 1), ("There 's lots of different extremist groups to hate ,", None, None, None, 0), ('but ISIS is clearly the worst .', None, None, None, 1), ('You want to create a caliphate', None, None, None, 0), ('? Go for it .', None, None, None, 1), ("Just do n't go around destroying all the historical artifacts ,", None, None, None, 0), ('and being an all around ass hole to people living places .', None, None, None, 1), ('Obviously this is an old story ,', None, None, None, 0), ('but I really hope', None, None, None, 0), ('the SDF and allied forces smoked every single one of those fighters in Raqqa .', None, None, None, 1)]]
+Leaf:  N Contrast Gosh I hate that ISIS .
+Leaf:  N Contrast There 's lots of different extremist groups to hate ,
+Leaf:  S span but ISIS is clearly the worst .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span You want to create a caliphate
+Leaf:  N Background ? Go for it .
+Inner:  N Joint None Background SN
+Leaf:  N Joint Just do n't go around destroying all the historical artifacts ,
+Leaf:  N Joint and being an all around ass hole to people living places .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Obviously this is an old story ,
+Leaf:  S span but I really hope
+Leaf:  N Attribution the SDF and allied forces smoked every single one of those fighters in Raqqa .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Gosh I hate that ISIS .', None, None, None, 1), ("There 's lots of different extremist groups to hate ,", None, None, None, 0), ('but ISIS is clearly the worst .', None, None, None, 1), ('You want to create a caliphate', None, None, None, 0), ('? Go for it .', None, None, None, 1), ("Just do n't go around destroying all the historical artifacts ,", None, None, None, 0), ('and being an all around ass hole to people living places .', None, None, None, 1), ('Obviously this is an old story ,', None, None, None, 0), ('but I really hope', None, None, None, 0), ('the SDF and allied forces smoked every single one of those fighters in Raqqa .', None, None, None, 1)]

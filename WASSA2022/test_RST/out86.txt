@@ -1,0 +1,25 @@
+=====================> [[('Hey , what did you think about that article ?', None, None, None, 1), ("I 'll tell you my thoughts .", None, None, None, 1), ('I think', None, None, None, 0), ('it was a little silly to be conflating the need for a bike lane with poverty problems .', None, None, None, 1), ("It 's literally some green paint ,", None, None, None, 0), ("and it 's something", None, None, None, 0), ('that would help the poor commute a little better .', None, None, None, 1), ('I do agree', None, None, None, 0), ("that it should n't be a chief concern ,", None, None, None, 0), ("but it 's not like it 's a very expensive thing for them to do .", None, None, None, 1), ('I felt like it was being pushed into an identity politics thing', None, None, None, 0), ("when it 's irrelevant to that .", None, None, None, 1)]]
+Leaf:  N Condition Hey , what did you think about that article ?
+Leaf:  S span I 'll tell you my thoughts .
+Inner:  N Elaborate None Condition NS
+Leaf:  S span I think
+Leaf:  N Attribution it was a little silly to be conflating the need for a bike lane with poverty problems .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint It 's literally some green paint ,
+Leaf:  N Elaborate and it 's something
+Leaf:  S span that would help the poor commute a little better .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I do agree
+Leaf:  N Attribution that it should n't be a chief concern ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it 's not like it 's a very expensive thing for them to do .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Background I felt like it was being pushed into an identity politics thing
+Leaf:  S span when it 's irrelevant to that .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey , what did you think about that article ?', None, None, None, 1), ("I 'll tell you my thoughts .", None, None, None, 1), ('I think', None, None, None, 0), ('it was a little silly to be conflating the need for a bike lane with poverty problems .', None, None, None, 1), ("It 's literally some green paint ,", None, None, None, 0), ("and it 's something", None, None, None, 0), ('that would help the poor commute a little better .', None, None, None, 1), ('I do agree', None, None, None, 0), ("that it should n't be a chief concern ,", None, None, None, 0), ("but it 's not like it 's a very expensive thing for them to do .", None, None, None, 1), ('I felt like it was being pushed into an identity politics thing', None, None, None, 0), ("when it 's irrelevant to that .", None, None, None, 1)]

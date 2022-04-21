@@ -1,0 +1,19 @@
+=====================> [[('The political climate right now is crazy .', None, None, None, 1), ("These politicians do n't care about us .", None, None, None, 1), ('they just want to get elected .', None, None, None, 1), ("There 's no wonder people are stressed out about politics .", None, None, None, 1), ('No one seems to be focusing on the issues .', None, None, None, 1), ('They just attack each other .', None, None, None, 1), ('They will say anything', None, None, None, 0), ('to get elected also .', None, None, None, 1), ("It 's like two school children fighting hurling insults back and forth .", None, None, None, 1)]]
+Leaf:  N Elaborate The political climate right now is crazy .
+Leaf:  N Summary These politicians do n't care about us .
+Leaf:  S span they just want to get elected .
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation There 's no wonder people are stressed out about politics .
+Leaf:  N Summary No one seems to be focusing on the issues .
+Leaf:  N Elaborate They just attack each other .
+Leaf:  N Enablement They will say anything
+Leaf:  S span to get elected also .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's like two school children fighting hurling insults back and forth .
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('The political climate right now is crazy .', None, None, None, 1), ("These politicians do n't care about us .", None, None, None, 1), ('they just want to get elected .', None, None, None, 1), ("There 's no wonder people are stressed out about politics .", None, None, None, 1), ('No one seems to be focusing on the issues .', None, None, None, 1), ('They just attack each other .', None, None, None, 1), ('They will say anything', None, None, None, 0), ('to get elected also .', None, None, None, 1), ("It 's like two school children fighting hurling insults back and forth .", None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('The fact', None, None, None, 0), ('that Donald Trump just peaced out of this agreement', None, None, None, 0), ('still makes me so frustrated .', None, None, None, 1), ('Like .', None, None, None, 1), ('Dude would rather buy Greenland with taxpayer money', None, None, None, 0), ('to strip it for resources', None, None, None, 0), ('than preserve the environment .', None, None, None, 1), ("I just do n't know", None, None, None, 0), ('how we have such an ignorant man-child as president .', None, None, None, 1), ('Still !', None, None, None, 1), ("I 've been waiting", None, None, None, 0), ('to wake up from this dream', None, None, None, 0), ('for years', None, None, None, 0), ("and it just wo n't happen .", None, None, None, 1)]]
+Leaf:  N Elaborate The fact
+Leaf:  S span that Donald Trump just peaced out of this agreement
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit still makes me so frustrated .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate Like .
+Leaf:  N Enablement Dude would rather buy Greenland with taxpayer money
+Leaf:  S span to strip it for resources
+Inner:  N Comparison None Enablement NS
+Leaf:  N Comparison than preserve the environment .
+Inner:  S span None Comparison NN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span I just do n't know
+Leaf:  N Attribution how we have such an ignorant man-child as president .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast Still !
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Enablement I 've been waiting
+Leaf:  S span to wake up from this dream
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit for years
+Inner:  S span None Same-Unit NN
+Leaf:  N Background and it just wo n't happen .
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('The fact', None, None, None, 0), ('that Donald Trump just peaced out of this agreement', None, None, None, 0), ('still makes me so frustrated .', None, None, None, 1), ('Like .', None, None, None, 1), ('Dude would rather buy Greenland with taxpayer money', None, None, None, 0), ('to strip it for resources', None, None, None, 0), ('than preserve the environment .', None, None, None, 1), ("I just do n't know", None, None, None, 0), ('how we have such an ignorant man-child as president .', None, None, None, 1), ('Still !', None, None, None, 1), ("I 've been waiting", None, None, None, 0), ('to wake up from this dream', None, None, None, 0), ('for years', None, None, None, 0), ("and it just wo n't happen .", None, None, None, 1)]

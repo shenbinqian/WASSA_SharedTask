@@ -1,0 +1,37 @@
+=====================> [[('Wow , can you imagine this happening to you ?', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I could have survived .', None, None, None, 1), ('He must have been so scared', None, None, None, 0), ('and felt so alone .', None, None, None, 1), ('I would have been terrified in that situation . He must be a really strong person .', None, None, None, 1), ('He never gave up hope', None, None, None, 0), ('and he worked hard to survive .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what he must have gone through .', None, None, None, 1), ('I would have been so relieved', None, None, None, 0), ('when I was finally rescued . He must have been so happy .', None, None, None, 1), ("I ca n't imagine all the thoughts", None, None, None, 0), ('that must have run through his head', None, None, None, 0), ('while he was out there all that time .', None, None, None, 1), ('I would have been missing my family so much', None, None, None, 0), ('and wondering', None, None, None, 0), ('if I would ever see them again .', None, None, None, 1)]]
+Leaf:  N Summary Wow , can you imagine this happening to you ?
+Leaf:  S span I do n't think
+Leaf:  N Attribution I could have survived .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint He must have been so scared
+Leaf:  N Joint and felt so alone .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint I would have been terrified in that situation . He must be a really strong person .
+Leaf:  N Joint He never gave up hope
+Leaf:  N Joint and he worked hard to survive .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution what he must have gone through .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal I would have been so relieved
+Leaf:  S span when I was finally rescued . He must have been so happy .
+Inner:  N Joint None Temporal NS
+Leaf:  N Elaborate I ca n't imagine all the thoughts
+Leaf:  N Temporal that must have run through his head
+Leaf:  S span while he was out there all that time .
+Inner:  S span None Temporal NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint I would have been missing my family so much
+Leaf:  S span and wondering
+Leaf:  N Attribution if I would ever see them again .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Wow , can you imagine this happening to you ?', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I could have survived .', None, None, None, 1), ('He must have been so scared', None, None, None, 0), ('and felt so alone .', None, None, None, 1), ('I would have been terrified in that situation . He must be a really strong person .', None, None, None, 1), ('He never gave up hope', None, None, None, 0), ('and he worked hard to survive .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what he must have gone through .', None, None, None, 1), ('I would have been so relieved', None, None, None, 0), ('when I was finally rescued . He must have been so happy .', None, None, None, 1), ("I ca n't imagine all the thoughts", None, None, None, 0), ('that must have run through his head', None, None, None, 0), ('while he was out there all that time .', None, None, None, 1), ('I would have been missing my family so much', None, None, None, 0), ('and wondering', None, None, None, 0), ('if I would ever see them again .', None, None, None, 1)]

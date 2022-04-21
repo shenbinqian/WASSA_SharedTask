@@ -1,0 +1,19 @@
+=====================> [[('Hey did you hear about this article', None, None, None, 0), ('it talks about this shooting in Jakarta Indonesia', None, None, None, 0), ('I did not even know', None, None, None, 0), ('that it was not safe in Indonesia', None, None, None, 0), ('it seems like such a safe place', None, None, None, 0), ('they need to improve security', None, None, None, 0), ('since they make money from tourism', None, None, None, 0), ('and without that income', None, None, None, 0), ('their could be financial difficulties for the people .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey did you hear about this article
+Leaf:  S span it talks about this shooting in Jakarta Indonesia
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span I did not even know
+Leaf:  N Attribution that it was not safe in Indonesia
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span it seems like such a safe place
+Leaf:  N Elaborate they need to improve security
+Inner:  N Explanation None Elaborate SN
+Leaf:  S span since they make money from tourism
+Inner:  N Cause None Explanation NS
+Leaf:  S span and without that income
+Leaf:  N Condition their could be financial difficulties for the people .
+Inner:  N Cause None Condition SN
+Inner:  S span None Cause NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  Root None None Same-Unit NN
+[('Hey did you hear about this article', None, None, None, 0), ('it talks about this shooting in Jakarta Indonesia', None, None, None, 0), ('I did not even know', None, None, None, 0), ('that it was not safe in Indonesia', None, None, None, 0), ('it seems like such a safe place', None, None, None, 0), ('they need to improve security', None, None, None, 0), ('since they make money from tourism', None, None, None, 0), ('and without that income', None, None, None, 0), ('their could be financial difficulties for the people .', None, None, None, 1)]

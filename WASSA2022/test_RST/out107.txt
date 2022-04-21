@@ -1,0 +1,21 @@
+=====================> [[('I found the story', None, None, None, 0), ('about how they experienced nostaliga very nice .', None, None, None, 1), ('i almost was taken away to paris', None, None, None, 0), ('and saw the excited children .', None, None, None, 1), ('The mother experiencing happiness with her children .', None, None, None, 1), ('However , the part about the massacre was scary .', None, None, None, 1), ('I am glad she is okay', None, None, None, 0), ('but I wish', None, None, None, 0), ("I had n't read that last part", None, None, None, 0), ("because now I 'm sad .", None, None, None, 1)]]
+Leaf:  N Elaborate I found the story
+Leaf:  S span about how they experienced nostaliga very nice .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Temporal i almost was taken away to paris
+Leaf:  N Temporal and saw the excited children .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span The mother experiencing happiness with her children .
+Leaf:  N Contrast However , the part about the massacre was scary .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am glad she is okay
+Leaf:  S span but I wish
+Leaf:  N Attribution I had n't read that last part
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because now I 'm sad .
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('I found the story', None, None, None, 0), ('about how they experienced nostaliga very nice .', None, None, None, 1), ('i almost was taken away to paris', None, None, None, 0), ('and saw the excited children .', None, None, None, 1), ('The mother experiencing happiness with her children .', None, None, None, 1), ('However , the part about the massacre was scary .', None, None, None, 1), ('I am glad she is okay', None, None, None, 0), ('but I wish', None, None, None, 0), ("I had n't read that last part", None, None, None, 0), ("because now I 'm sad .", None, None, None, 1)]

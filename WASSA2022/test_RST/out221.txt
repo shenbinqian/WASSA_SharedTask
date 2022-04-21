@@ -1,0 +1,37 @@
+=====================> [[('I thought', None, None, None, 0), ('the article was very interesting but also very eye opening .', None, None, None, 1), ('We sometimes tend to forget about the dangers', None, None, None, 0), ('that are lurking in our own back yard .', None, None, None, 1), ('This is a scary example', None, None, None, 0), ('of how close terrorism even years after September 11th is still so predominantly on our minds .', None, None, None, 1), ('I really enjoyed', None, None, None, 0), ('how this article went into depth', None, None, None, 0), ('with who this man is ,', None, None, None, 0), ('how he is connected to bad people like Osama Bin Laden , and how they are working', None, None, None, 0), ('to prevent anything like this from happening again in the future .', None, None, None, 1), ('It is a little scary to read about things like this', None, None, None, 0), ('because unfortunately it is a reminder', None, None, None, 0), ('that these things can and do still happen today ,', None, None, None, 0), ('but it also helps remind you to stay vigilant , be smart ,', None, None, None, 0), ('and always know', None, None, None, 0), ('what is going on around you .', None, None, None, 1), ('Really good read and a very highly recommended article .', None, None, None, 1)]]
+Leaf:  S span I thought
+Leaf:  N Attribution the article was very interesting but also very eye opening .
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate We sometimes tend to forget about the dangers
+Leaf:  S span that are lurking in our own back yard .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is a scary example
+Leaf:  S span of how close terrorism even years after September 11th is still so predominantly on our minds .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I really enjoyed
+Leaf:  N Elaborate how this article went into depth
+Leaf:  N Joint with who this man is ,
+Leaf:  N Enablement how he is connected to bad people like Osama Bin Laden , and how they are working
+Leaf:  S span to prevent anything like this from happening again in the future .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation It is a little scary to read about things like this
+Leaf:  N Elaborate because unfortunately it is a reminder
+Leaf:  S span that these things can and do still happen today ,
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Explanation NS
+Leaf:  N Joint but it also helps remind you to stay vigilant , be smart ,
+Leaf:  S span and always know
+Leaf:  N Attribution what is going on around you .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  S span Really good read and a very highly recommended article .
+Inner:  Root None None Evaluation NS
+[('I thought', None, None, None, 0), ('the article was very interesting but also very eye opening .', None, None, None, 1), ('We sometimes tend to forget about the dangers', None, None, None, 0), ('that are lurking in our own back yard .', None, None, None, 1), ('This is a scary example', None, None, None, 0), ('of how close terrorism even years after September 11th is still so predominantly on our minds .', None, None, None, 1), ('I really enjoyed', None, None, None, 0), ('how this article went into depth', None, None, None, 0), ('with who this man is ,', None, None, None, 0), ('how he is connected to bad people like Osama Bin Laden , and how they are working', None, None, None, 0), ('to prevent anything like this from happening again in the future .', None, None, None, 1), ('It is a little scary to read about things like this', None, None, None, 0), ('because unfortunately it is a reminder', None, None, None, 0), ('that these things can and do still happen today ,', None, None, None, 0), ('but it also helps remind you to stay vigilant , be smart ,', None, None, None, 0), ('and always know', None, None, None, 0), ('what is going on around you .', None, None, None, 1), ('Really good read and a very highly recommended article .', None, None, None, 1)]

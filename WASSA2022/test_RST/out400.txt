@@ -1,0 +1,19 @@
+=====================> [[('I just read an article', None, None, None, 0), ("concerning the repatriation of somalia 's by the Kenyan government .", None, None, None, 1), ('Apparently thee a quite of few somalian refugees', None, None, None, 0), ('who fled their country', None, None, None, 0), ('and Kenya is attempting to repatriate them .', None, None, None, 1), ('It sounds like a very significant and challenging undertaking', None, None, None, 0), ('requiring tremendous amounts of resources .', None, None, None, 1), ('Hopefully the efforts will be successful', None, None, None, 0), ("and the families involved wo n't be adversely affected .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span concerning the repatriation of somalia 's by the Kenyan government .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Apparently thee a quite of few somalian refugees
+Leaf:  S span who fled their country
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and Kenya is attempting to repatriate them .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It sounds like a very significant and challenging undertaking
+Leaf:  S span requiring tremendous amounts of resources .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Hopefully the efforts will be successful
+Leaf:  N Joint and the families involved wo n't be adversely affected .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I just read an article', None, None, None, 0), ("concerning the repatriation of somalia 's by the Kenyan government .", None, None, None, 1), ('Apparently thee a quite of few somalian refugees', None, None, None, 0), ('who fled their country', None, None, None, 0), ('and Kenya is attempting to repatriate them .', None, None, None, 1), ('It sounds like a very significant and challenging undertaking', None, None, None, 0), ('requiring tremendous amounts of resources .', None, None, None, 1), ('Hopefully the efforts will be successful', None, None, None, 0), ("and the families involved wo n't be adversely affected .", None, None, None, 1)]

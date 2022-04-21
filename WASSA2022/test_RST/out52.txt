@@ -1,0 +1,29 @@
+=====================> [[('Congress legislating our rights away once again .', None, None, None, 1), ('There are tests', None, None, None, 0), ('to detect HIV/AIDs ,', None, None, None, 0), ("so I do n't get the ban on Gays", None, None, None, 0), ('donating blood .', None, None, None, 1), ("They do n't ban other groups", None, None, None, 0), ('because they are more susceptible to certain diseases .', None, None, None, 1), ('They test .', None, None, None, 1), ('In a time of emergency in this day and age , we tell people', None, None, None, 0), ('they are not suitable', None, None, None, 0), ('to help .', None, None, None, 1), ("It 's not right to single groups out in that manner .", None, None, None, 1), ('We need to continue addressing this with our legislators', None, None, None, 0), ('until they change it .', None, None, None, 1)]]
+Leaf:  N Elaborate Congress legislating our rights away once again .
+Leaf:  N Elaborate There are tests
+Leaf:  S span to detect HIV/AIDs ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate so I do n't get the ban on Gays
+Leaf:  S span donating blood .
+Inner:  N Explanation None Elaborate NS
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Explanation They do n't ban other groups
+Leaf:  S span because they are more susceptible to certain diseases .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span They test .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  S span In a time of emergency in this day and age , we tell people
+Leaf:  N Elaborate they are not suitable
+Leaf:  S span to help .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's not right to single groups out in that manner .
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Condition We need to continue addressing this with our legislators
+Leaf:  S span until they change it .
+Inner:  N Topic-Comment None Condition NS
+Inner:  N Topic-Change None Topic-Comment NN
+Inner:  Root None None Topic-Change NN
+[('Congress legislating our rights away once again .', None, None, None, 1), ('There are tests', None, None, None, 0), ('to detect HIV/AIDs ,', None, None, None, 0), ("so I do n't get the ban on Gays", None, None, None, 0), ('donating blood .', None, None, None, 1), ("They do n't ban other groups", None, None, None, 0), ('because they are more susceptible to certain diseases .', None, None, None, 1), ('They test .', None, None, None, 1), ('In a time of emergency in this day and age , we tell people', None, None, None, 0), ('they are not suitable', None, None, None, 0), ('to help .', None, None, None, 1), ("It 's not right to single groups out in that manner .", None, None, None, 1), ('We need to continue addressing this with our legislators', None, None, None, 0), ('until they change it .', None, None, None, 1)]

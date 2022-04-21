@@ -1,0 +1,29 @@
+=====================> [[('This was three entirely different articles', None, None, None, 0), ('I wanted to share', None, None, None, 0), ('that all involve public safety .', None, None, None, 1), ('The first one is the smoking ban ,', None, None, None, 0), ("which of course I 'm all for .", None, None, None, 1), ('I still bear a scar', None, None, None, 0), ('from being accidentally burned as a child . Smoking is no longer popular anyway , so why not outright ban it', None, None, None, 0), ("and maybe children wo n't be so influenced to smoke . Which brings me to the food safety story . We appreciate food inspections and laws", None, None, None, 0), ('that protect the general public', None, None, None, 0), ('when it comes to food', None, None, None, 0), ('so why not smoking ?', None, None, None, 1), ('The third article was just so sad .', None, None, None, 1), ("People do n't care about the freedom and safety of other people ,", None, None, None, 0), ('they just want to push their agenda .', None, None, None, 1)]]
+Leaf:  N Elaborate This was three entirely different articles
+Leaf:  S span I wanted to share
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that all involve public safety .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The first one is the smoking ban ,
+Leaf:  S span which of course I 'm all for .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause I still bear a scar
+Leaf:  S span from being accidentally burned as a child . Smoking is no longer popular anyway , so why not outright ban it
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate and maybe children wo n't be so influenced to smoke . Which brings me to the food safety story . We appreciate food inspections and laws
+Leaf:  N Background that protect the general public
+Leaf:  S span when it comes to food
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Evaluation so why not smoking ?
+Inner:  S span None Evaluation SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation The third article was just so sad .
+Leaf:  N Joint People do n't care about the freedom and safety of other people ,
+Leaf:  N Joint they just want to push their agenda .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('This was three entirely different articles', None, None, None, 0), ('I wanted to share', None, None, None, 0), ('that all involve public safety .', None, None, None, 1), ('The first one is the smoking ban ,', None, None, None, 0), ("which of course I 'm all for .", None, None, None, 1), ('I still bear a scar', None, None, None, 0), ('from being accidentally burned as a child . Smoking is no longer popular anyway , so why not outright ban it', None, None, None, 0), ("and maybe children wo n't be so influenced to smoke . Which brings me to the food safety story . We appreciate food inspections and laws", None, None, None, 0), ('that protect the general public', None, None, None, 0), ('when it comes to food', None, None, None, 0), ('so why not smoking ?', None, None, None, 1), ('The third article was just so sad .', None, None, None, 1), ("People do n't care about the freedom and safety of other people ,", None, None, None, 0), ('they just want to push their agenda .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('Apparently , 40 % of all colon cancers can be prevented with regular screenings .', None, None, None, 1), ('But , I just read an article', None, None, None, 0), ('that says', None, None, None, 0), ("that a lot of people do n't get them", None, None, None, 0), ('because the drink', None, None, None, 0), ('they have', None, None, None, 0), ('to take', None, None, None, 0), ('before a colonoscopy is so horrible and foul tasting . But a company has come up with some kind of bowel cleaning bars and drinks .', None, None, None, 1), ('They say', None, None, None, 0), ('that they taste kinda like a smoothie or a candy bar ,', None, None, None, 0), ("but that 's a little bit hard to believe .", None, None, None, 1), ("I suppose though , I 'm all for anything", None, None, None, 0), ('that makes it easier and more palatable for someone to go in', None, None, None, 0), ('and get a simple , life-saving screening procedure . Plus , that would make it so that people are healthier ,', None, None, None, 0), ('which will result in our healthcare costs and thus insurance costs to be lower .', None, None, None, 1), ('I think', None, None, None, 0), ('the article said', None, None, None, 0), ("they had n't really researched the effectiveness and taste of the", None, None, None, 0)]]
+Leaf:  S span Apparently , 40 % of all colon cancers can be prevented with regular screenings .
+Leaf:  N Elaborate But , I just read an article
+Leaf:  S span that says
+Leaf:  N Cause that a lot of people do n't get them
+Leaf:  N Elaborate because the drink
+Leaf:  N Elaborate they have
+Leaf:  S span to take
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit before a colonoscopy is so horrible and foul tasting . But a company has come up with some kind of bowel cleaning bars and drinks .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They say
+Leaf:  N Attribution that they taste kinda like a smoothie or a candy bar ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but that 's a little bit hard to believe .
+Inner:  S span None Contrast NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate I suppose though , I 'm all for anything
+Leaf:  N Joint that makes it easier and more palatable for someone to go in
+Leaf:  N Cause and get a simple , life-saving screening procedure . Plus , that would make it so that people are healthier ,
+Leaf:  S span which will result in our healthcare costs and thus insurance costs to be lower .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I think
+Leaf:  S span the article said
+Leaf:  N Attribution they had n't really researched the effectiveness and taste of the
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Apparently , 40 % of all colon cancers can be prevented with regular screenings .', None, None, None, 1), ('But , I just read an article', None, None, None, 0), ('that says', None, None, None, 0), ("that a lot of people do n't get them", None, None, None, 0), ('because the drink', None, None, None, 0), ('they have', None, None, None, 0), ('to take', None, None, None, 0), ('before a colonoscopy is so horrible and foul tasting . But a company has come up with some kind of bowel cleaning bars and drinks .', None, None, None, 1), ('They say', None, None, None, 0), ('that they taste kinda like a smoothie or a candy bar ,', None, None, None, 0), ("but that 's a little bit hard to believe .", None, None, None, 1), ("I suppose though , I 'm all for anything", None, None, None, 0), ('that makes it easier and more palatable for someone to go in', None, None, None, 0), ('and get a simple , life-saving screening procedure . Plus , that would make it so that people are healthier ,', None, None, None, 0), ('which will result in our healthcare costs and thus insurance costs to be lower .', None, None, None, 1), ('I think', None, None, None, 0), ('the article said', None, None, None, 0), ("they had n't really researched the effectiveness and taste of the", None, None, None, 0)]

@@ -1,0 +1,33 @@
+=====================> [[("I do n't even live in Mexico", None, None, None, 0), ('and I know', None, None, None, 0), ('the drug cartel is bad news !', None, None, None, 1), ('What were the police thinking ?', None, None, None, 1), ("Why did n't they actually police", None, None, None, 0), ('instead of sending those children to an almost guaranteed death ?', None, None, None, 1), ('Those families are going to grieve forever ,', None, None, None, 0), ('because chances are those children are dead .', None, None, None, 1), ("Remember when we could n't find my cousin ? Then she was found on the side of the road", None, None, None, 0), ('murdered 2 weeks later ?', None, None, None, 1), ('Those two weeks were hell . I got closure ,', None, None, None, 0), ('and these families never will .', None, None, None, 1), ('It makes my heart hurt', None, None, None, 0), ('knowing', None, None, None, 0), ('they are wishing for the best ,', None, None, None, 0), ('but will likely never get it .', None, None, None, 1)]]
+Leaf:  S span I do n't even live in Mexico
+Leaf:  S span and I know
+Leaf:  N Attribution the drug cartel is bad news !
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  N Joint What were the police thinking ?
+Leaf:  N Contrast Why did n't they actually police
+Leaf:  S span instead of sending those children to an almost guaranteed death ?
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation Those families are going to grieve forever ,
+Leaf:  S span because chances are those children are dead .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Remember when we could n't find my cousin ? Then she was found on the side of the road
+Leaf:  S span murdered 2 weeks later ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Those two weeks were hell . I got closure ,
+Leaf:  N Joint and these families never will .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background It makes my heart hurt
+Leaf:  S span knowing
+Leaf:  N Contrast they are wishing for the best ,
+Leaf:  N Contrast but will likely never get it .
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't even live in Mexico", None, None, None, 0), ('and I know', None, None, None, 0), ('the drug cartel is bad news !', None, None, None, 1), ('What were the police thinking ?', None, None, None, 1), ("Why did n't they actually police", None, None, None, 0), ('instead of sending those children to an almost guaranteed death ?', None, None, None, 1), ('Those families are going to grieve forever ,', None, None, None, 0), ('because chances are those children are dead .', None, None, None, 1), ("Remember when we could n't find my cousin ? Then she was found on the side of the road", None, None, None, 0), ('murdered 2 weeks later ?', None, None, None, 1), ('Those two weeks were hell . I got closure ,', None, None, None, 0), ('and these families never will .', None, None, None, 1), ('It makes my heart hurt', None, None, None, 0), ('knowing', None, None, None, 0), ('they are wishing for the best ,', None, None, None, 0), ('but will likely never get it .', None, None, None, 1)]

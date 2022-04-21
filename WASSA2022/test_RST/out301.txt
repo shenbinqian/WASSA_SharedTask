@@ -1,0 +1,21 @@
+=====================> [[('A tragedy in Mozambique happened .', None, None, None, 1), ('73 died , over 110 injured', None, None, None, 0), ('as a fuel truck exploded', None, None, None, 0), ('as people were trying to buy fuel .', None, None, None, 1), ('It was a horrific accident . The number of casualties may actually rise higher .', None, None, None, 1), ("They 're continuing to search for bodies .", None, None, None, 1), ("I ca n't imagine being near anything like that .", None, None, None, 1), ('They think', None, None, None, 0), ('it may have started by a strike of lightning or a nearby fire .', None, None, None, 1), ('No matter what the cause , many wee killed or harmed .', None, None, None, 1)]]
+Leaf:  N Elaborate A tragedy in Mozambique happened .
+Leaf:  N Manner-Means 73 died , over 110 injured
+Leaf:  N Temporal as a fuel truck exploded
+Leaf:  N Temporal as people were trying to buy fuel .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  S span It was a horrific accident . The number of casualties may actually rise higher .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They 're continuing to search for bodies .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I ca n't imagine being near anything like that .
+Leaf:  S span They think
+Leaf:  N Attribution it may have started by a strike of lightning or a nearby fire .
+Inner:  S span None Attribution SN
+Leaf:  N Contrast No matter what the cause , many wee killed or harmed .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('A tragedy in Mozambique happened .', None, None, None, 1), ('73 died , over 110 injured', None, None, None, 0), ('as a fuel truck exploded', None, None, None, 0), ('as people were trying to buy fuel .', None, None, None, 1), ('It was a horrific accident . The number of casualties may actually rise higher .', None, None, None, 1), ("They 're continuing to search for bodies .", None, None, None, 1), ("I ca n't imagine being near anything like that .", None, None, None, 1), ('They think', None, None, None, 0), ('it may have started by a strike of lightning or a nearby fire .', None, None, None, 1), ('No matter what the cause , many wee killed or harmed .', None, None, None, 1)]

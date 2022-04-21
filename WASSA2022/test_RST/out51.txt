@@ -1,0 +1,29 @@
+=====================> [[('Oh my goodness .', None, None, None, 1), ('This poor guy has really been put through it .', None, None, None, 1), ("It 's scary how a simple error or lie", None, None, None, 0), ('I should say ,', None, None, None, 0), ('can cause so many issues', None, None, None, 0), ('that consume way too much', None, None, None, 0), ('and aggravation to clear up .', None, None, None, 1), ('You would think', None, None, None, 0), ('since it was their mistake they would fix it .', None, None, None, 1), ('Now that poor guy has lost his income', None, None, None, 0), ("because he ca n't drive .", None, None, None, 1), ('I sure hope', None, None, None, 0), ('he gets it worked out soon .', None, None, None, 1), ('He should hold someone accountable .', None, None, None, 1)]]
+Leaf:  N Elaborate Oh my goodness .
+Leaf:  S span This poor guy has really been put through it .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's scary how a simple error or lie
+Leaf:  S span I should say ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate can cause so many issues
+Leaf:  N Joint that consume way too much
+Leaf:  N Joint and aggravation to clear up .
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span You would think
+Leaf:  N Attribution since it was their mistake they would fix it .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Cause Now that poor guy has lost his income
+Leaf:  S span because he ca n't drive .
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I sure hope
+Leaf:  N Attribution he gets it worked out soon .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span He should hold someone accountable .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Oh my goodness .', None, None, None, 1), ('This poor guy has really been put through it .', None, None, None, 1), ("It 's scary how a simple error or lie", None, None, None, 0), ('I should say ,', None, None, None, 0), ('can cause so many issues', None, None, None, 0), ('that consume way too much', None, None, None, 0), ('and aggravation to clear up .', None, None, None, 1), ('You would think', None, None, None, 0), ('since it was their mistake they would fix it .', None, None, None, 1), ('Now that poor guy has lost his income', None, None, None, 0), ("because he ca n't drive .", None, None, None, 1), ('I sure hope', None, None, None, 0), ('he gets it worked out soon .', None, None, None, 1), ('He should hold someone accountable .', None, None, None, 1)]

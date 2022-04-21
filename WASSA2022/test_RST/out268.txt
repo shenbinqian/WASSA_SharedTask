@@ -1,0 +1,25 @@
+=====================> [[('It came as a shock to most about the outcome of the election ,', None, None, None, 0), ('most people never saw it coming ,', None, None, None, 0), ('few stuck up their neck', None, None, None, 0), ('to predict it ,', None, None, None, 0), ('but it happened .', None, None, None, 1), ('I feel', None, None, None, 0), ('the nation made a statement', None, None, None, 0), ('that the wanted the U.S of A', None, None, None, 0), ('to be put first in every decision', None, None, None, 0), ('that is going to be made .', None, None, None, 1), ("I do n't feel sad", None, None, None, 0), ('that Trump won the election', None, None, None, 0)]]
+Leaf:  N Elaborate It came as a shock to most about the outcome of the election ,
+Leaf:  N Joint most people never saw it coming ,
+Leaf:  N Enablement few stuck up their neck
+Leaf:  S span to predict it ,
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but it happened .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I feel
+Leaf:  N Elaborate the nation made a statement
+Leaf:  N Elaborate that the wanted the U.S of A
+Leaf:  S span to be put first in every decision
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that is going to be made .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I do n't feel sad
+Leaf:  N Attribution that Trump won the election
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('It came as a shock to most about the outcome of the election ,', None, None, None, 0), ('most people never saw it coming ,', None, None, None, 0), ('few stuck up their neck', None, None, None, 0), ('to predict it ,', None, None, None, 0), ('but it happened .', None, None, None, 1), ('I feel', None, None, None, 0), ('the nation made a statement', None, None, None, 0), ('that the wanted the U.S of A', None, None, None, 0), ('to be put first in every decision', None, None, None, 0), ('that is going to be made .', None, None, None, 1), ("I do n't feel sad", None, None, None, 0), ('that Trump won the election', None, None, None, 0)]

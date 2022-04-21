@@ -1,0 +1,19 @@
+=====================> [[('This article is kind of disturbing .', None, None, None, 1), ('If I understood it right ,', None, None, None, 0), ('the fires are cause by the creation of the palm oil plantations .', None, None, None, 1), ('How does the country let that continue to happen .', None, None, None, 1), ('They should do so much more', None, None, None, 0), ('to restrict the creation and usage of the plantation', None, None, None, 0), ('that are causing so much problems .', None, None, None, 1), ('And it is so difficult to believe', None, None, None, 0), ('that they let it get so out of control .', None, None, None, 1)]]
+Leaf:  N Elaborate This article is kind of disturbing .
+Leaf:  S span If I understood it right ,
+Leaf:  N Condition the fires are cause by the creation of the palm oil plantations .
+Inner:  N Evaluation None Condition SN
+Leaf:  S span How does the country let that continue to happen .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement They should do so much more
+Leaf:  N Elaborate to restrict the creation and usage of the plantation
+Leaf:  S span that are causing so much problems .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span And it is so difficult to believe
+Leaf:  N Attribution that they let it get so out of control .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This article is kind of disturbing .', None, None, None, 1), ('If I understood it right ,', None, None, None, 0), ('the fires are cause by the creation of the palm oil plantations .', None, None, None, 1), ('How does the country let that continue to happen .', None, None, None, 1), ('They should do so much more', None, None, None, 0), ('to restrict the creation and usage of the plantation', None, None, None, 0), ('that are causing so much problems .', None, None, None, 1), ('And it is so difficult to believe', None, None, None, 0), ('that they let it get so out of control .', None, None, None, 1)]

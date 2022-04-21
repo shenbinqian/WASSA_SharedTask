@@ -1,0 +1,25 @@
+=====================> [[('I felt', None, None, None, 0), ('like for one the article was a little long winded in terms of content .', None, None, None, 1), ('I think', None, None, None, 0), ('it could have been cut down at least by half', None, None, None, 0), ('and use clear words', None, None, None, 0), ('to get your message across .', None, None, None, 1), ('Other than than I think', None, None, None, 0), ('it was something', None, None, None, 0), ('that could have been a little bit better .', None, None, None, 1), ('The message was fine for the most part', None, None, None, 0), ('but i think', None, None, None, 0), ('it could be better .', None, None, None, 1)]]
+Leaf:  S span I felt
+Leaf:  N Attribution like for one the article was a little long winded in terms of content .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint it could have been cut down at least by half
+Leaf:  N Enablement and use clear words
+Leaf:  S span to get your message across .
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Other than than I think
+Leaf:  N Elaborate it was something
+Leaf:  S span that could have been a little bit better .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The message was fine for the most part
+Leaf:  S span but i think
+Leaf:  N Attribution it could be better .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I felt', None, None, None, 0), ('like for one the article was a little long winded in terms of content .', None, None, None, 1), ('I think', None, None, None, 0), ('it could have been cut down at least by half', None, None, None, 0), ('and use clear words', None, None, None, 0), ('to get your message across .', None, None, None, 1), ('Other than than I think', None, None, None, 0), ('it was something', None, None, None, 0), ('that could have been a little bit better .', None, None, None, 1), ('The message was fine for the most part', None, None, None, 0), ('but i think', None, None, None, 0), ('it could be better .', None, None, None, 1)]

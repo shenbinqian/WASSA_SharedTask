@@ -1,0 +1,19 @@
+=====================> [[('This is horrible . A blatant example of gender bias in medical studies ,', None, None, None, 0), ("even if it 's not the normal type", None, None, None, 0), ("we 've heard of .", None, None, None, 1), ('Also I wonder', None, None, None, 0), ('if men even know', None, None, None, 0), ('that this type of male birth control is even possible .', None, None, None, 1), ('How arrogant that the scientists or researchers in this study decided to end the research', None, None, None, 0), ('because of those minimal side effects .', None, None, None, 1), ("Disgusting bias , and I 'm not even a feminist .", None, None, None, 1)]]
+Leaf:  N Contrast This is horrible . A blatant example of gender bias in medical studies ,
+Leaf:  N Elaborate even if it 's not the normal type
+Leaf:  S span we 've heard of .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span Also I wonder
+Leaf:  S span if men even know
+Leaf:  N Attribution that this type of male birth control is even possible .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation How arrogant that the scientists or researchers in this study decided to end the research
+Leaf:  S span because of those minimal side effects .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Disgusting bias , and I 'm not even a feminist .
+Inner:  Root None None Evaluation NS
+[('This is horrible . A blatant example of gender bias in medical studies ,', None, None, None, 0), ("even if it 's not the normal type", None, None, None, 0), ("we 've heard of .", None, None, None, 1), ('Also I wonder', None, None, None, 0), ('if men even know', None, None, None, 0), ('that this type of male birth control is even possible .', None, None, None, 1), ('How arrogant that the scientists or researchers in this study decided to end the research', None, None, None, 0), ('because of those minimal side effects .', None, None, None, 1), ("Disgusting bias , and I 'm not even a feminist .", None, None, None, 1)]

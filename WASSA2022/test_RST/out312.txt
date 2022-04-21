@@ -1,0 +1,23 @@
+=====================> [[('I feel really bad', None, None, None, 0), ("for what 's going on in Mosul .", None, None, None, 1), ('People are dying', None, None, None, 0), ("and there 's really nothing they can do about it .", None, None, None, 1), ("I 'm trying to imagine", None, None, None, 0), ('what it must feel like to be in the position of families', None, None, None, 0), ('and seeing their children', None, None, None, 0), ('getting slaughtered', None, None, None, 0), ('or taken away .', None, None, None, 1), ('I hope', None, None, None, 0), ("what 's going on there will get resolved in the future and soon .", None, None, None, 1)]]
+Leaf:  N Elaborate I feel really bad
+Leaf:  S span for what 's going on in Mosul .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint People are dying
+Leaf:  N Joint and there 's really nothing they can do about it .
+Inner:  S span None Joint NN
+Inner:  N Summary None Explanation NS
+Leaf:  S span I 'm trying to imagine
+Leaf:  N Joint what it must feel like to be in the position of families
+Leaf:  N Elaborate and seeing their children
+Leaf:  N Joint getting slaughtered
+Leaf:  N Joint or taken away .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution what 's going on there will get resolved in the future and soon .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('I feel really bad', None, None, None, 0), ("for what 's going on in Mosul .", None, None, None, 1), ('People are dying', None, None, None, 0), ("and there 's really nothing they can do about it .", None, None, None, 1), ("I 'm trying to imagine", None, None, None, 0), ('what it must feel like to be in the position of families', None, None, None, 0), ('and seeing their children', None, None, None, 0), ('getting slaughtered', None, None, None, 0), ('or taken away .', None, None, None, 1), ('I hope', None, None, None, 0), ("what 's going on there will get resolved in the future and soon .", None, None, None, 1)]

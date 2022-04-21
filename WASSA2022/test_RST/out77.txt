@@ -1,0 +1,21 @@
+=====================> [[('April our stupid president thinks', None, None, None, 0), ('that we have a problem with immigration', None, None, None, 0), ('then he should look worldwide .', None, None, None, 1), ('Mass immigration is becoming a worldwide problem .', None, None, None, 1), ('France is in the process', None, None, None, 0), ("of tearing down it 's Calais refugee camp", None, None, None, 0), ('which houses over 8000 .', None, None, None, 1), ('Of course my concern as a humanitarian is what are they going to do with those 8000 .', None, None, None, 1), ('Are they going to relocate them to better conditions', None, None, None, 0), ('or are they just moving them around with no solution in sight .', None, None, None, 1)]]
+Leaf:  S span April our stupid president thinks
+Leaf:  N Attribution that we have a problem with immigration
+Inner:  S span None Attribution SN
+Leaf:  N Condition then he should look worldwide .
+Inner:  N Cause None Condition SN
+Leaf:  N Background Mass immigration is becoming a worldwide problem .
+Leaf:  N Elaborate France is in the process
+Leaf:  N Elaborate of tearing down it 's Calais refugee camp
+Leaf:  S span which houses over 8000 .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Of course my concern as a humanitarian is what are they going to do with those 8000 .
+Leaf:  N Joint Are they going to relocate them to better conditions
+Leaf:  N Joint or are they just moving them around with no solution in sight .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Background NS
+Inner:  Root None None Cause NS
+[('April our stupid president thinks', None, None, None, 0), ('that we have a problem with immigration', None, None, None, 0), ('then he should look worldwide .', None, None, None, 1), ('Mass immigration is becoming a worldwide problem .', None, None, None, 1), ('France is in the process', None, None, None, 0), ("of tearing down it 's Calais refugee camp", None, None, None, 0), ('which houses over 8000 .', None, None, None, 1), ('Of course my concern as a humanitarian is what are they going to do with those 8000 .', None, None, None, 1), ('Are they going to relocate them to better conditions', None, None, None, 0), ('or are they just moving them around with no solution in sight .', None, None, None, 1)]

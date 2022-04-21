@@ -1,0 +1,31 @@
+=====================> [[("Hey , I 've always liked Billy Bob Thornton", None, None, None, 0), ('and kind of related to the guy .', None, None, None, 1), ("He 's very low key for his fame ,", None, None, None, 0), ("like I 'm pretty sure", None, None, None, 0), ('I would be a lot like him', None, None, None, 0), ('if I were to ever get famous .', None, None, None, 1), ('Angelina definitely strikes me as an extrovert , though . Like , okay , I often think', None, None, None, 0), ('that YOU push me outside my realm of comfort with social activity ,', None, None, None, 0), ('but to be homebody-introvert Billy Bob Thornton', None, None, None, 0), ('tagging along', None, None, None, 0), ('behind the whirlwind', None, None, None, 0), ('that is Angelina', None, None, None, 0), ('seems like a hyperbole kind of comparison in that ....', None, None, None, 1), ("you 're not so bad .", None, None, None, 1), ('Love you !', None, None, None, 1)]]
+Leaf:  N Joint Hey , I 've always liked Billy Bob Thornton
+Leaf:  N Joint and kind of related to the guy .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate He 's very low key for his fame ,
+Leaf:  S span like I 'm pretty sure
+Leaf:  N Attribution I would be a lot like him
+Inner:  N Condition None Attribution SN
+Leaf:  S span if I were to ever get famous .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span Angelina definitely strikes me as an extrovert , though . Like , okay , I often think
+Leaf:  N Attribution that YOU push me outside my realm of comfort with social activity ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but to be homebody-introvert Billy Bob Thornton
+Leaf:  N Elaborate tagging along
+Leaf:  N Elaborate behind the whirlwind
+Leaf:  S span that is Angelina
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit seems like a hyperbole kind of comparison in that ....
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate you 're not so bad .
+Leaf:  S span Love you !
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  Root None None Contrast NN
+[("Hey , I 've always liked Billy Bob Thornton", None, None, None, 0), ('and kind of related to the guy .', None, None, None, 1), ("He 's very low key for his fame ,", None, None, None, 0), ("like I 'm pretty sure", None, None, None, 0), ('I would be a lot like him', None, None, None, 0), ('if I were to ever get famous .', None, None, None, 1), ('Angelina definitely strikes me as an extrovert , though . Like , okay , I often think', None, None, None, 0), ('that YOU push me outside my realm of comfort with social activity ,', None, None, None, 0), ('but to be homebody-introvert Billy Bob Thornton', None, None, None, 0), ('tagging along', None, None, None, 0), ('behind the whirlwind', None, None, None, 0), ('that is Angelina', None, None, None, 0), ('seems like a hyperbole kind of comparison in that ....', None, None, None, 1), ("you 're not so bad .", None, None, None, 1), ('Love you !', None, None, None, 1)]

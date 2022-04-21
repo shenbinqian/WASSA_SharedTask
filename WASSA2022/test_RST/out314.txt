@@ -1,0 +1,17 @@
+=====================> [[('I really love animals and just nature as a whole', None, None, None, 0), ('and reading this article makes me feel really sad .', None, None, None, 1), ('I feel sad for the animals', None, None, None, 0), ('that had to be involved in this', None, None, None, 0), ('because it was not their fault . Humans are to blame', None, None, None, 0), ('as mentioned in the article', None, None, None, 0), ('and we should really look at ourselves in the mirror', None, None, None, 0), ('and ask ourselves are we really this selfish .', None, None, None, 1)]]
+Leaf:  S span I really love animals and just nature as a whole
+Leaf:  N Background and reading this article makes me feel really sad .
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate I feel sad for the animals
+Leaf:  S span that had to be involved in this
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Background because it was not their fault . Humans are to blame
+Leaf:  S span as mentioned in the article
+Inner:  N Joint None Background NS
+Leaf:  N Joint and we should really look at ourselves in the mirror
+Leaf:  N Joint and ask ourselves are we really this selfish .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I really love animals and just nature as a whole', None, None, None, 0), ('and reading this article makes me feel really sad .', None, None, None, 1), ('I feel sad for the animals', None, None, None, 0), ('that had to be involved in this', None, None, None, 0), ('because it was not their fault . Humans are to blame', None, None, None, 0), ('as mentioned in the article', None, None, None, 0), ('and we should really look at ourselves in the mirror', None, None, None, 0), ('and ask ourselves are we really this selfish .', None, None, None, 1)]

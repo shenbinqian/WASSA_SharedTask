@@ -1,0 +1,37 @@
+=====================> [[("I 'm not going to lie .", None, None, None, 1), ('I really have a strong dislike for Muslims .', None, None, None, 1), ("I do n't believe", None, None, None, 0), ('they should be allowed to walk around here in their garb .', None, None, None, 1), ('If we went to one of their countries', None, None, None, 0), ('we would not be able to freely walk around without head coverings', None, None, None, 0), ("or have religious freedom . I do n't feel", None, None, None, 0), ('that they have a place here .', None, None, None, 1), ('With that being said ,', None, None, None, 0), ('a Muslim woman in NY claims to have been set on fire', None, None, None, 0), ('while walking around .', None, None, None, 1), ('She felt something warm on her arm', None, None, None, 0), ('and her sleeve was on fire .', None, None, None, 1), ('It sound pretty suspect to me .', None, None, None, 1), ('I also think', None, None, None, 0), ('they need to understand', None, None, None, 0), ('they are not welcome here', None, None, None, 0), ('and should move along .', None, None, None, 1)]]
+Leaf:  N Explanation I 'm not going to lie .
+Leaf:  N Explanation I really have a strong dislike for Muslims .
+Leaf:  S span I do n't believe
+Leaf:  N Attribution they should be allowed to walk around here in their garb .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span If we went to one of their countries
+Leaf:  N Joint we would not be able to freely walk around without head coverings
+Leaf:  S span or have religious freedom . I do n't feel
+Leaf:  N Attribution that they have a place here .
+Inner:  N Joint None Attribution SN
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span With that being said ,
+Leaf:  N Temporal a Muslim woman in NY claims to have been set on fire
+Leaf:  N Elaborate while walking around .
+Leaf:  N Joint She felt something warm on her arm
+Leaf:  N Joint and her sleeve was on fire .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Temporal NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span It sound pretty suspect to me .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I also think
+Leaf:  S span they need to understand
+Leaf:  N Joint they are not welcome here
+Leaf:  N Joint and should move along .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I 'm not going to lie .", None, None, None, 1), ('I really have a strong dislike for Muslims .', None, None, None, 1), ("I do n't believe", None, None, None, 0), ('they should be allowed to walk around here in their garb .', None, None, None, 1), ('If we went to one of their countries', None, None, None, 0), ('we would not be able to freely walk around without head coverings', None, None, None, 0), ("or have religious freedom . I do n't feel", None, None, None, 0), ('that they have a place here .', None, None, None, 1), ('With that being said ,', None, None, None, 0), ('a Muslim woman in NY claims to have been set on fire', None, None, None, 0), ('while walking around .', None, None, None, 1), ('She felt something warm on her arm', None, None, None, 0), ('and her sleeve was on fire .', None, None, None, 1), ('It sound pretty suspect to me .', None, None, None, 1), ('I also think', None, None, None, 0), ('they need to understand', None, None, None, 0), ('they are not welcome here', None, None, None, 0), ('and should move along .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I wonder', None, None, None, 0), ('if he survived .', None, None, None, 1), ('Heck it will be a good story', None, None, None, 0), ('if he does . More like a drinking story than a brava story , but still a good one .', None, None, None, 1), ('Did it say', None, None, None, 0), ('how long he was in the hospital ?', None, None, None, 1), ('It really could have been fatal .', None, None, None, 1), ("I 've never even really touched snakes , let alone been bit by one .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('what I would do .', None, None, None, 1), ("I 'd have to be comfortable as heck to do that .", None, None, None, 1)]]
+Leaf:  S span I wonder
+Leaf:  N Attribution if he survived .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition Heck it will be a good story
+Leaf:  S span if he does . More like a drinking story than a brava story , but still a good one .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Did it say
+Leaf:  N Attribution how long he was in the hospital ?
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It really could have been fatal .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I 've never even really touched snakes , let alone been bit by one .
+Leaf:  S span I do n't know
+Leaf:  N Attribution what I would do .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'd have to be comfortable as heck to do that .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I wonder', None, None, None, 0), ('if he survived .', None, None, None, 1), ('Heck it will be a good story', None, None, None, 0), ('if he does . More like a drinking story than a brava story , but still a good one .', None, None, None, 1), ('Did it say', None, None, None, 0), ('how long he was in the hospital ?', None, None, None, 1), ('It really could have been fatal .', None, None, None, 1), ("I 've never even really touched snakes , let alone been bit by one .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('what I would do .', None, None, None, 1), ("I 'd have to be comfortable as heck to do that .", None, None, None, 1)]

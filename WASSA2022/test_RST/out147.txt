@@ -1,0 +1,19 @@
+=====================> [[('I find', None, None, None, 0), ('it amazing that cholera is as old as mankind', None, None, None, 0), ('and we are still struggling with it .', None, None, None, 1), ('I am inclined to agree with the experts', None, None, None, 0), ('that say', None, None, None, 0), ('that vaccines are on a temporary solution to a long term problem .', None, None, None, 1), ('In much of the developed world proper sanitation has proven very effective in the long term .', None, None, None, 1), ('I do find the idea', None, None, None, 0), ('of using chlorine tablets intriguing .', None, None, None, 1)]]
+Leaf:  S span I find
+Leaf:  N Joint it amazing that cholera is as old as mankind
+Leaf:  N Joint and we are still struggling with it .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I am inclined to agree with the experts
+Leaf:  S span that say
+Leaf:  N Attribution that vaccines are on a temporary solution to a long term problem .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation In much of the developed world proper sanitation has proven very effective in the long term .
+Leaf:  N Elaborate I do find the idea
+Leaf:  S span of using chlorine tablets intriguing .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I find', None, None, None, 0), ('it amazing that cholera is as old as mankind', None, None, None, 0), ('and we are still struggling with it .', None, None, None, 1), ('I am inclined to agree with the experts', None, None, None, 0), ('that say', None, None, None, 0), ('that vaccines are on a temporary solution to a long term problem .', None, None, None, 1), ('In much of the developed world proper sanitation has proven very effective in the long term .', None, None, None, 1), ('I do find the idea', None, None, None, 0), ('of using chlorine tablets intriguing .', None, None, None, 1)]

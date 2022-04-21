@@ -1,0 +1,21 @@
+=====================> [[('I just read an article about kids', None, None, None, 0), ('who have a mother in prison', None, None, None, 0), ('and they later end up in prison as well .', None, None, None, 1), ("It 's sad", None, None, None, 0), ('that it can be so difficult to move on from a tough childhood', None, None, None, 0), ("and to overcome our parents ' mistakes .", None, None, None, 1), ('I know', None, None, None, 0), ('that no childhood is perfect ,', None, None, None, 0), ('but we should be taking better care of kids', None, None, None, 0), ("who do n't even have a shot at a stable home and upbringing .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about kids
+Leaf:  N Temporal who have a mother in prison
+Leaf:  N Temporal and they later end up in prison as well .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's sad
+Leaf:  N Joint that it can be so difficult to move on from a tough childhood
+Leaf:  N Joint and to overcome our parents ' mistakes .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  S span that no childhood is perfect ,
+Leaf:  N Elaborate but we should be taking better care of kids
+Leaf:  S span who do n't even have a shot at a stable home and upbringing .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about kids', None, None, None, 0), ('who have a mother in prison', None, None, None, 0), ('and they later end up in prison as well .', None, None, None, 1), ("It 's sad", None, None, None, 0), ('that it can be so difficult to move on from a tough childhood', None, None, None, 0), ("and to overcome our parents ' mistakes .", None, None, None, 1), ('I know', None, None, None, 0), ('that no childhood is perfect ,', None, None, None, 0), ('but we should be taking better care of kids', None, None, None, 0), ("who do n't even have a shot at a stable home and upbringing .", None, None, None, 1)]

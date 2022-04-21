@@ -1,0 +1,21 @@
+=====================> [[('I just read an article', None, None, None, 0), ('that talked about soil and water contamination .', None, None, None, 1), ('One of the contaminants in particular was lead . Apparently there are sill areas in the country', None, None, None, 0), ('where when they do demolition of older housing and buildings ,', None, None, None, 0), ('the result of the demolition allows the old lead based construction projects allows the contamination of the soil and water .', None, None, None, 1), ('I always thought', None, None, None, 0), ('that lead poisoning was a thing of the past', None, None, None, 0), ('due to the lead paint scare', None, None, None, 0), ('that occurred a couple of decades ago .', None, None, None, 1), ('Apparently lead is still a significant issue .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span that talked about soil and water contamination .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate One of the contaminants in particular was lead . Apparently there are sill areas in the country
+Leaf:  S span where when they do demolition of older housing and buildings ,
+Leaf:  N Condition the result of the demolition allows the old lead based construction projects allows the contamination of the soil and water .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I always thought
+Leaf:  N Cause that lead poisoning was a thing of the past
+Leaf:  N Elaborate due to the lead paint scare
+Leaf:  S span that occurred a couple of decades ago .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Leaf:  N Contrast Apparently lead is still a significant issue .
+Inner:  Root None None Contrast SN
+[('I just read an article', None, None, None, 0), ('that talked about soil and water contamination .', None, None, None, 1), ('One of the contaminants in particular was lead . Apparently there are sill areas in the country', None, None, None, 0), ('where when they do demolition of older housing and buildings ,', None, None, None, 0), ('the result of the demolition allows the old lead based construction projects allows the contamination of the soil and water .', None, None, None, 1), ('I always thought', None, None, None, 0), ('that lead poisoning was a thing of the past', None, None, None, 0), ('due to the lead paint scare', None, None, None, 0), ('that occurred a couple of decades ago .', None, None, None, 1), ('Apparently lead is still a significant issue .', None, None, None, 1)]

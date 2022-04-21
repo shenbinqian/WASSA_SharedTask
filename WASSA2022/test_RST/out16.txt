@@ -1,0 +1,27 @@
+=====================> [[('I feel', None, None, None, 0), ('that the United States still has a claim', None, None, None, 0), ('in being a very innovative country', None, None, None, 0), ('and while there are other countries', None, None, None, 0), ('that are doing better', None, None, None, 0), ("that does n't dimish what we have done .", None, None, None, 1), ('Something', None, None, None, 0), ('that the United States has to do is provide a way', None, None, None, 0), ('to create more jobs here', None, None, None, 0), ('since countries like Canada are doing so .', None, None, None, 1), ('I am not worried', None, None, None, 0), ('since I know', None, None, None, 0), ('the United States is a very influential country .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Elaborate that the United States still has a claim
+Leaf:  S span in being a very innovative country
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and while there are other countries
+Leaf:  S span that are doing better
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit that does n't dimish what we have done .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate Something
+Leaf:  N Elaborate that the United States has to do is provide a way
+Leaf:  N Background to create more jobs here
+Leaf:  S span since countries like Canada are doing so .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I am not worried
+Leaf:  S span since I know
+Leaf:  N Attribution the United States is a very influential country .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('that the United States still has a claim', None, None, None, 0), ('in being a very innovative country', None, None, None, 0), ('and while there are other countries', None, None, None, 0), ('that are doing better', None, None, None, 0), ("that does n't dimish what we have done .", None, None, None, 1), ('Something', None, None, None, 0), ('that the United States has to do is provide a way', None, None, None, 0), ('to create more jobs here', None, None, None, 0), ('since countries like Canada are doing so .', None, None, None, 1), ('I am not worried', None, None, None, 0), ('since I know', None, None, None, 0), ('the United States is a very influential country .', None, None, None, 1)]

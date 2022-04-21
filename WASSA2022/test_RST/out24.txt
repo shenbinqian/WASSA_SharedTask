@@ -1,0 +1,15 @@
+=====================> [[('The growing climate change issue is effecting the ecosystem', None, None, None, 0), ('and how everything lives , more so than just humans .', None, None, None, 1), ('Our plants , animals and oceans are taking the blunt force trauma here .', None, None, None, 1), ('This then trickles down to how humans are able to cope .', None, None, None, 1), ('We need strong change quickly', None, None, None, 0), ('to safe the ecosystem', None, None, None, 0), ('which will helps us in the long run as well .', None, None, None, 1)]]
+Leaf:  N Joint The growing climate change issue is effecting the ecosystem
+Leaf:  N Joint and how everything lives , more so than just humans .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Our plants , animals and oceans are taking the blunt force trauma here .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span This then trickles down to how humans are able to cope .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Enablement We need strong change quickly
+Leaf:  S span to safe the ecosystem
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span which will helps us in the long run as well .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The growing climate change issue is effecting the ecosystem', None, None, None, 0), ('and how everything lives , more so than just humans .', None, None, None, 1), ('Our plants , animals and oceans are taking the blunt force trauma here .', None, None, None, 1), ('This then trickles down to how humans are able to cope .', None, None, None, 1), ('We need strong change quickly', None, None, None, 0), ('to safe the ecosystem', None, None, None, 0), ('which will helps us in the long run as well .', None, None, None, 1)]

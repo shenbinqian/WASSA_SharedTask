@@ -1,0 +1,19 @@
+=====================> [[('Those poor babies and their poor mother .', None, None, None, 1), ('It is so scary to think', None, None, None, 0), ('that one can go out for a sandwich one minute', None, None, None, 0), ('and then be fighting for their lives the next .', None, None, None, 1), ("At first I was like at least the babies did n't get hurt", None, None, None, 0), ('but then', None, None, None, 0), ('as I read', None, None, None, 0), ('about what the mother went through I felt so bad for her .', None, None, None, 1), ('And their big sister putting away toys for her baby sisters , so sad .', None, None, None, 1)]]
+Leaf:  N Evaluation Those poor babies and their poor mother .
+Leaf:  S span It is so scary to think
+Leaf:  N Temporal that one can go out for a sandwich one minute
+Leaf:  N Temporal and then be fighting for their lives the next .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Contrast At first I was like at least the babies did n't get hurt
+Leaf:  N Same-Unit but then
+Leaf:  N Elaborate as I read
+Leaf:  S span about what the mother went through I felt so bad for her .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span And their big sister putting away toys for her baby sisters , so sad .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Those poor babies and their poor mother .', None, None, None, 1), ('It is so scary to think', None, None, None, 0), ('that one can go out for a sandwich one minute', None, None, None, 0), ('and then be fighting for their lives the next .', None, None, None, 1), ("At first I was like at least the babies did n't get hurt", None, None, None, 0), ('but then', None, None, None, 0), ('as I read', None, None, None, 0), ('about what the mother went through I felt so bad for her .', None, None, None, 1), ('And their big sister putting away toys for her baby sisters , so sad .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Did you see this article about the Islamic State', None, None, None, 0), ('using civilians as human shields over in Iraq ?', None, None, None, 1), ("It 's unconscionable .", None, None, None, 1), ('These poor families are trying to get out of the way of a freaking war zone', None, None, None, 0), ("and these awful militants wo n't let them escape to safety .", None, None, None, 1), ('The UN sounded a warning about it raise awareness ,', None, None, None, 0), ("but it 's not like they can actually do much .", None, None, None, 1), ('I feel terrible for those families ,', None, None, None, 0), ('think of the ones with children', None, None, None, 0), ('being used as shields ,', None, None, None, 0), ("it 's absolutely ghastly .", None, None, None, 1)]]
+Leaf:  N Elaborate Did you see this article about the Islamic State
+Leaf:  S span using civilians as human shields over in Iraq ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's unconscionable .
+Leaf:  S span These poor families are trying to get out of the way of a freaking war zone
+Leaf:  N Background and these awful militants wo n't let them escape to safety .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Evaluation NS
+Leaf:  N Contrast The UN sounded a warning about it raise awareness ,
+Leaf:  N Contrast but it 's not like they can actually do much .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Explanation I feel terrible for those families ,
+Leaf:  N Elaborate think of the ones with children
+Leaf:  S span being used as shields ,
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span it 's absolutely ghastly .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('Did you see this article about the Islamic State', None, None, None, 0), ('using civilians as human shields over in Iraq ?', None, None, None, 1), ("It 's unconscionable .", None, None, None, 1), ('These poor families are trying to get out of the way of a freaking war zone', None, None, None, 0), ("and these awful militants wo n't let them escape to safety .", None, None, None, 1), ('The UN sounded a warning about it raise awareness ,', None, None, None, 0), ("but it 's not like they can actually do much .", None, None, None, 1), ('I feel terrible for those families ,', None, None, None, 0), ('think of the ones with children', None, None, None, 0), ('being used as shields ,', None, None, None, 0), ("it 's absolutely ghastly .", None, None, None, 1)]

@@ -1,0 +1,59 @@
+=====================> [[('The story is about seabirds', None, None, None, 0), ('eating plastic in the ocean .', None, None, None, 1), ('You would find', None, None, None, 0), ('it interesting', None, None, None, 0), ('that seabirds', None, None, None, 0), ('to not have a smell function .', None, None, None, 1), ('They say', None, None, None, 0), ('that within the next 20 to 30 years they will be eating plastic regularly .', None, None, None, 1), ('I think', None, None, None, 0), ('the way', None, None, None, 0), ('to stop it', None, None, None, 0), ('is to not throw stuff in the ocean .', None, None, None, 1), ('I think we need to do to protect the animals .', None, None, None, 1), ('I think', None, None, None, 0), ('that since you are an animal lover', None, None, None, 0), ('you would find this topic really heartwarming and something that you want to know more about .', None, None, None, 1), ('I think', None, None, None, 0), ('if we spread the word', None, None, None, 0), ('we can make a difference and help the seabirds', None, None, None, 0), ('so they live longer .', None, None, None, 1), ('I think', None, None, None, 0), ('that should be really important .', None, None, None, 1), ('I think anything', None, None, None, 0), ('to help animals and the environment', None, None, None, 0), ('is a really good cause .', None, None, None, 1), ('I feel', None, None, None, 0), ('that you will want to take part in this as well .', None, None, None, 1), ('It will make us feel really good', None, None, None, 0), ('to take care of the environment', None, None, None, 0)]]
+Leaf:  N Elaborate The story is about seabirds
+Leaf:  S span eating plastic in the ocean .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span You would find
+Leaf:  S span it interesting
+Leaf:  N Enablement that seabirds
+Leaf:  S span to not have a smell function .
+Inner:  N Attribution None Enablement NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They say
+Leaf:  N Attribution that within the next 20 to 30 years they will be eating plastic regularly .
+Inner:  S span None Attribution SN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Elaborate the way
+Leaf:  S span to stop it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is to not throw stuff in the ocean .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I think we need to do to protect the animals .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I think
+Leaf:  S span that since you are an animal lover
+Leaf:  N Condition you would find this topic really heartwarming and something that you want to know more about .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  S span if we spread the word
+Leaf:  N Enablement we can make a difference and help the seabirds
+Leaf:  S span so they live longer .
+Inner:  N Condition None Enablement NS
+Inner:  N Attribution None Condition SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution that should be really important .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I think anything
+Leaf:  S span to help animals and the environment
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a really good cause .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I feel
+Leaf:  N Attribution that you will want to take part in this as well .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It will make us feel really good
+Leaf:  S span to take care of the environment
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The story is about seabirds', None, None, None, 0), ('eating plastic in the ocean .', None, None, None, 1), ('You would find', None, None, None, 0), ('it interesting', None, None, None, 0), ('that seabirds', None, None, None, 0), ('to not have a smell function .', None, None, None, 1), ('They say', None, None, None, 0), ('that within the next 20 to 30 years they will be eating plastic regularly .', None, None, None, 1), ('I think', None, None, None, 0), ('the way', None, None, None, 0), ('to stop it', None, None, None, 0), ('is to not throw stuff in the ocean .', None, None, None, 1), ('I think we need to do to protect the animals .', None, None, None, 1), ('I think', None, None, None, 0), ('that since you are an animal lover', None, None, None, 0), ('you would find this topic really heartwarming and something that you want to know more about .', None, None, None, 1), ('I think', None, None, None, 0), ('if we spread the word', None, None, None, 0), ('we can make a difference and help the seabirds', None, None, None, 0), ('so they live longer .', None, None, None, 1), ('I think', None, None, None, 0), ('that should be really important .', None, None, None, 1), ('I think anything', None, None, None, 0), ('to help animals and the environment', None, None, None, 0), ('is a really good cause .', None, None, None, 1), ('I feel', None, None, None, 0), ('that you will want to take part in this as well .', None, None, None, 1), ('It will make us feel really good', None, None, None, 0), ('to take care of the environment', None, None, None, 0)]

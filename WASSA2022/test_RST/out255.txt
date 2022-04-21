@@ -1,0 +1,39 @@
+=====================> [[('These types of stories are so sad , and so hard for me to read .', None, None, None, 1), ('I feel', None, None, None, 0), ('like she probably tried reaching out for help ,', None, None, None, 0), ('and no one really understood', None, None, None, 0), ('how bad things were .', None, None, None, 1), ('If there were better programs in place', None, None, None, 0), ('to help women and children in these domestic violence situations ,', None, None, None, 0), ("maybe we would n't have to read so many news stories like this . I 'm actually crying for these young lives ,", None, None, None, 0), ('lost too soon .', None, None, None, 1), ("I 'm beyond heartbroken", None, None, None, 0), ('that they never got the chance', None, None, None, 0), ('to do so many things .', None, None, None, 1), ("I 'm angry", None, None, None, 0), ('that this man was so selfish and narcissistic', None, None, None, 0), ('that his plan of action was basically " if I ca n\'t have them ,', None, None, None, 0), ('no one can . "', None, None, None, 0), ('These were lives', None, None, None, 0), ('that he took from this world .', None, None, None, 1), ('He needed some kind of mental help long ago .', None, None, None, 1)]]
+Leaf:  N Explanation These types of stories are so sad , and so hard for me to read .
+Leaf:  S span I feel
+Leaf:  N Contrast like she probably tried reaching out for help ,
+Leaf:  S span and no one really understood
+Leaf:  N Attribution how bad things were .
+Inner:  N Contrast None Attribution SN
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate If there were better programs in place
+Leaf:  S span to help women and children in these domestic violence situations ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate maybe we would n't have to read so many news stories like this . I 'm actually crying for these young lives ,
+Leaf:  S span lost too soon .
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  S span I 'm beyond heartbroken
+Leaf:  N Elaborate that they never got the chance
+Leaf:  S span to do so many things .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm angry
+Leaf:  N Cause that this man was so selfish and narcissistic
+Leaf:  S span that his plan of action was basically " if I ca n't have them ,
+Leaf:  N Condition no one can . "
+Inner:  S span None Condition SN
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate These were lives
+Leaf:  S span that he took from this world .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Topic-Comment He needed some kind of mental help long ago .
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('These types of stories are so sad , and so hard for me to read .', None, None, None, 1), ('I feel', None, None, None, 0), ('like she probably tried reaching out for help ,', None, None, None, 0), ('and no one really understood', None, None, None, 0), ('how bad things were .', None, None, None, 1), ('If there were better programs in place', None, None, None, 0), ('to help women and children in these domestic violence situations ,', None, None, None, 0), ("maybe we would n't have to read so many news stories like this . I 'm actually crying for these young lives ,", None, None, None, 0), ('lost too soon .', None, None, None, 1), ("I 'm beyond heartbroken", None, None, None, 0), ('that they never got the chance', None, None, None, 0), ('to do so many things .', None, None, None, 1), ("I 'm angry", None, None, None, 0), ('that this man was so selfish and narcissistic', None, None, None, 0), ('that his plan of action was basically " if I ca n\'t have them ,', None, None, None, 0), ('no one can . "', None, None, None, 0), ('These were lives', None, None, None, 0), ('that he took from this world .', None, None, None, 1), ('He needed some kind of mental help long ago .', None, None, None, 1)]

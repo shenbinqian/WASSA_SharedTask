@@ -1,0 +1,29 @@
+=====================> [[('I think', None, None, None, 0), ('it is sad to me that in the 21st century we still have trouble with addictive behaviors like smoking cigarettes .', None, None, None, 1), ('I was just reading an article', None, None, None, 0), ('that said', None, None, None, 0), ('that over 167,133 people died of cancers', None, None, None, 0), ('associated with smoking cigarettes in 2014 .', None, None, None, 1), ('To me this is both sad and worrisome', None, None, None, 0), ('because people know better by now', None, None, None, 0), ('than to smoke cigarettes', None, None, None, 0), ('and this this 167,133 is just the cancers', None, None, None, 0), ('that are directly linked to smoking', None, None, None, 0), ('so the figure of deaths', None, None, None, 0), ('associated with smoking', None, None, None, 0), ('is actually much higher .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it is sad to me that in the 21st century we still have trouble with addictive behaviors like smoking cigarettes .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate I was just reading an article
+Leaf:  S span that said
+Leaf:  N Elaborate that over 167,133 people died of cancers
+Leaf:  S span associated with smoking cigarettes in 2014 .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation To me this is both sad and worrisome
+Leaf:  N Elaborate because people know better by now
+Leaf:  S span than to smoke cigarettes
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and this this 167,133 is just the cancers
+Leaf:  S span that are directly linked to smoking
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate so the figure of deaths
+Leaf:  S span associated with smoking
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is actually much higher .
+Inner:  N Cause None Same-Unit NN
+Inner:  N Joint None Cause SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I think', None, None, None, 0), ('it is sad to me that in the 21st century we still have trouble with addictive behaviors like smoking cigarettes .', None, None, None, 1), ('I was just reading an article', None, None, None, 0), ('that said', None, None, None, 0), ('that over 167,133 people died of cancers', None, None, None, 0), ('associated with smoking cigarettes in 2014 .', None, None, None, 1), ('To me this is both sad and worrisome', None, None, None, 0), ('because people know better by now', None, None, None, 0), ('than to smoke cigarettes', None, None, None, 0), ('and this this 167,133 is just the cancers', None, None, None, 0), ('that are directly linked to smoking', None, None, None, 0), ('so the figure of deaths', None, None, None, 0), ('associated with smoking', None, None, None, 0), ('is actually much higher .', None, None, None, 1)]

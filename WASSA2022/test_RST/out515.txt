@@ -1,0 +1,25 @@
+=====================> [[('.', None, None, None, 1), ('I like this very much .', None, None, None, 1), ('Scientists have noted this unpredictability in Dhaka before ,', None, None, None, 0), ('but few have considered the larger scale implications ,', None, None, None, 0), ('according to Michael .', None, None, None, 1), ('" Thinking broadly', None, None, None, 0), ('about which wells are vulnerable', None, None, None, 0), ("has n't been done before .", None, None, None, 1), ('Based on our modeling ,', None, None, None, 0), ('if there is any contamination ,', None, None, None, 0), ('it is likely very localized ,', None, None, None, 0), ('but over the next few decades', None, None, None, 0)]]
+Leaf:  N Evaluation .
+Leaf:  S span I like this very much .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Contrast Scientists have noted this unpredictability in Dhaka before ,
+Leaf:  N Attribution but few have considered the larger scale implications ,
+Leaf:  S span according to Michael .
+Inner:  N Contrast None Attribution NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate " Thinking broadly
+Leaf:  S span about which wells are vulnerable
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has n't been done before .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Same-Unit Based on our modeling ,
+Leaf:  S span if there is any contamination ,
+Leaf:  N Condition it is likely very localized ,
+Inner:  N Contrast None Condition SN
+Leaf:  S span but over the next few decades
+Inner:  N Same-Unit None Contrast NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('.', None, None, None, 1), ('I like this very much .', None, None, None, 1), ('Scientists have noted this unpredictability in Dhaka before ,', None, None, None, 0), ('but few have considered the larger scale implications ,', None, None, None, 0), ('according to Michael .', None, None, None, 1), ('" Thinking broadly', None, None, None, 0), ('about which wells are vulnerable', None, None, None, 0), ("has n't been done before .", None, None, None, 1), ('Based on our modeling ,', None, None, None, 0), ('if there is any contamination ,', None, None, None, 0), ('it is likely very localized ,', None, None, None, 0), ('but over the next few decades', None, None, None, 0)]

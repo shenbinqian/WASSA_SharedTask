@@ -1,0 +1,21 @@
+=====================> [[('Crazy how many places are struggle for good water ,', None, None, None, 0), ('I mean ,', None, None, None, 0), ('I was in Vermont not so long ago', None, None, None, 0), ('and drinking from the tap there was insane .', None, None, None, 1), ('The water was so good and clean .', None, None, None, 1), ('We take it for granted basically that we have access to good water .', None, None, None, 1), ("Never mind droughts , some places just do n't have any reliable and decent water sources .", None, None, None, 1), ('Scary to read how in like India as well i think , they were really struggle for decent and accessible water ,', None, None, None, 0), ("obviously it 's been an issue in Africa as well .", None, None, None, 1), ('Really sad to see .', None, None, None, 1)]]
+Leaf:  N Explanation Crazy how many places are struggle for good water ,
+Leaf:  N Elaborate I mean ,
+Leaf:  N Temporal I was in Vermont not so long ago
+Leaf:  N Temporal and drinking from the tap there was insane .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The water was so good and clean .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span We take it for granted basically that we have access to good water .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Never mind droughts , some places just do n't have any reliable and decent water sources .
+Leaf:  N Evaluation Scary to read how in like India as well i think , they were really struggle for decent and accessible water ,
+Leaf:  S span obviously it 's been an issue in Africa as well .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Really sad to see .
+Inner:  Root None None Evaluation NS
+[('Crazy how many places are struggle for good water ,', None, None, None, 0), ('I mean ,', None, None, None, 0), ('I was in Vermont not so long ago', None, None, None, 0), ('and drinking from the tap there was insane .', None, None, None, 1), ('The water was so good and clean .', None, None, None, 1), ('We take it for granted basically that we have access to good water .', None, None, None, 1), ("Never mind droughts , some places just do n't have any reliable and decent water sources .", None, None, None, 1), ('Scary to read how in like India as well i think , they were really struggle for decent and accessible water ,', None, None, None, 0), ("obviously it 's been an issue in Africa as well .", None, None, None, 1), ('Really sad to see .', None, None, None, 1)]

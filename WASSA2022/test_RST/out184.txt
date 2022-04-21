@@ -1,0 +1,21 @@
+=====================> [[('South Korea seems to be upset with their governing', None, None, None, 0), ('and have taken to the streets', None, None, None, 0), ('and protested .', None, None, None, 1), ('Many people have been injured', None, None, None, 0), ('and not much has been done in terms of the protests .', None, None, None, 1), ('They hope to change how things are being done', None, None, None, 0), ("but I 'm unsure", None, None, None, 0), ('if this is the correct way', None, None, None, 0), ('to go about it .', None, None, None, 1), ('Civilians and police officers alike getting injured is just silly to me .', None, None, None, 1)]]
+Leaf:  N Cause South Korea seems to be upset with their governing
+Leaf:  N Joint and have taken to the streets
+Leaf:  N Joint and protested .
+Inner:  N Cause None Joint NN
+Inner:  N Summary None Cause NN
+Leaf:  N Joint Many people have been injured
+Leaf:  N Joint and not much has been done in terms of the protests .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Summary NS
+Leaf:  S span They hope to change how things are being done
+Leaf:  S span but I 'm unsure
+Leaf:  N Elaborate if this is the correct way
+Leaf:  S span to go about it .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Civilians and police officers alike getting injured is just silly to me .
+Inner:  Root None None Evaluation NS
+[('South Korea seems to be upset with their governing', None, None, None, 0), ('and have taken to the streets', None, None, None, 0), ('and protested .', None, None, None, 1), ('Many people have been injured', None, None, None, 0), ('and not much has been done in terms of the protests .', None, None, None, 1), ('They hope to change how things are being done', None, None, None, 0), ("but I 'm unsure", None, None, None, 0), ('if this is the correct way', None, None, None, 0), ('to go about it .', None, None, None, 1), ('Civilians and police officers alike getting injured is just silly to me .', None, None, None, 1)]

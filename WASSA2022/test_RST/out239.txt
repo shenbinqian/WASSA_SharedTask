@@ -1,0 +1,35 @@
+=====================> [[('I just read the must disturbing news story .', None, None, None, 1), ('Apparently in Indianapolis a recycling plant worker was crushed to death by the recycling equipment .', None, None, None, 1), ('Could you imagine the moment', None, None, None, 0), ('before he was crushed .', None, None, None, 1), ('He must have known', None, None, None, 0), ('he had fallen in . He probably had like one second', None, None, None, 0), ('where he could think', None, None, None, 0), ('" I am going to be crushed " ,', None, None, None, 0), ('right before he was actually crushed . The panic', None, None, None, 0), ('he must have felt', None, None, None, 0), ('must have been terrifying .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if he thought of his family .', None, None, None, 1), ('Or did he just try and get out', None, None, None, 0), ("but was unable to . This is why I 'm so scared of large machinery ,", None, None, None, 0), ('accidents can always happen', None, None, None, 0), ('and you really have no control over it .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read the must disturbing news story .
+Leaf:  S span Apparently in Indianapolis a recycling plant worker was crushed to death by the recycling equipment .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Temporal Could you imagine the moment
+Leaf:  S span before he was crushed .
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span He must have known
+Leaf:  N Attribution he had fallen in . He probably had like one second
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span where he could think
+Leaf:  N Attribution " I am going to be crushed " ,
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate right before he was actually crushed . The panic
+Leaf:  S span he must have felt
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit must have been terrifying .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wonder
+Leaf:  N Joint if he thought of his family .
+Leaf:  N Contrast Or did he just try and get out
+Leaf:  S span but was unable to . This is why I 'm so scared of large machinery ,
+Inner:  N Explanation None Contrast NS
+Leaf:  N Joint accidents can always happen
+Leaf:  N Joint and you really have no control over it .
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('I just read the must disturbing news story .', None, None, None, 1), ('Apparently in Indianapolis a recycling plant worker was crushed to death by the recycling equipment .', None, None, None, 1), ('Could you imagine the moment', None, None, None, 0), ('before he was crushed .', None, None, None, 1), ('He must have known', None, None, None, 0), ('he had fallen in . He probably had like one second', None, None, None, 0), ('where he could think', None, None, None, 0), ('" I am going to be crushed " ,', None, None, None, 0), ('right before he was actually crushed . The panic', None, None, None, 0), ('he must have felt', None, None, None, 0), ('must have been terrifying .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if he thought of his family .', None, None, None, 1), ('Or did he just try and get out', None, None, None, 0), ("but was unable to . This is why I 'm so scared of large machinery ,", None, None, None, 0), ('accidents can always happen', None, None, None, 0), ('and you really have no control over it .', None, None, None, 1)]

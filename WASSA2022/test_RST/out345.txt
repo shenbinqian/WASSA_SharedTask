@@ -1,0 +1,37 @@
+=====================> [[('So the men have gone free', None, None, None, 0), ("and they are n't looking for them", None, None, None, 0), ('when the woman', None, None, None, 0), ('who has went through serious , life changing trauma', None, None, None, 0), ('was arrested ?', None, None, None, 1), ("That 's so horrible .", None, None, None, 1), ("She did n't ask to be raped .", None, None, None, 1), ("I ca n't imagine how it must feel to be stuck on bond ,", None, None, None, 0), ('not being able to leave', None, None, None, 0), ('and not knowing', None, None, None, 0), ('what will happen to me', None, None, None, 0), ('because someone raped me .', None, None, None, 1), ("I do n't know", None, None, None, 0), ("if I would n't just try to run or something .", None, None, None, 1), ('I hope', None, None, None, 0), ('that things work out for her ,', None, None, None, 0), ('but I fear', None, None, None, 0), ("that 's not going to happen .", None, None, None, 1)]]
+Leaf:  N Temporal So the men have gone free
+Leaf:  N Temporal and they are n't looking for them
+Leaf:  N Elaborate when the woman
+Leaf:  S span who has went through serious , life changing trauma
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was arrested ?
+Inner:  S span None Same-Unit NN
+Inner:  N Temporal None Temporal NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span That 's so horrible .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation She did n't ask to be raped .
+Leaf:  N Joint I ca n't imagine how it must feel to be stuck on bond ,
+Leaf:  N Joint not being able to leave
+Leaf:  S span and not knowing
+Leaf:  N Cause what will happen to me
+Leaf:  S span because someone raped me .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  S span I do n't know
+Leaf:  N Attribution if I would n't just try to run or something .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I hope
+Leaf:  N Attribution that things work out for her ,
+Inner:  S span None Attribution SN
+Leaf:  S span but I fear
+Leaf:  N Attribution that 's not going to happen .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So the men have gone free', None, None, None, 0), ("and they are n't looking for them", None, None, None, 0), ('when the woman', None, None, None, 0), ('who has went through serious , life changing trauma', None, None, None, 0), ('was arrested ?', None, None, None, 1), ("That 's so horrible .", None, None, None, 1), ("She did n't ask to be raped .", None, None, None, 1), ("I ca n't imagine how it must feel to be stuck on bond ,", None, None, None, 0), ('not being able to leave', None, None, None, 0), ('and not knowing', None, None, None, 0), ('what will happen to me', None, None, None, 0), ('because someone raped me .', None, None, None, 1), ("I do n't know", None, None, None, 0), ("if I would n't just try to run or something .", None, None, None, 1), ('I hope', None, None, None, 0), ('that things work out for her ,', None, None, None, 0), ('but I fear', None, None, None, 0), ("that 's not going to happen .", None, None, None, 1)]

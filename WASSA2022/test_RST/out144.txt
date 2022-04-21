@@ -1,0 +1,15 @@
+=====================> [[('Just read about the whole #BankExit thing', None, None, None, 0), ('regarding the Dakota pipeline .', None, None, None, 1), ("I really ca n't see it going anywhere .", None, None, None, 1), ('Does anyone even recognize the name Susan Sarandon anymore ? She would have done the project a favor', None, None, None, 0), ('by not attaching her name to the project .', None, None, None, 1), ("It 's not that i 'm against the cause ,", None, None, None, 0), ("but if you 're going to go up against large financial institutions have a more relevant mouthpiece .", None, None, None, 1)]]
+Leaf:  N Elaborate Just read about the whole #BankExit thing
+Leaf:  S span regarding the Dakota pipeline .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I really ca n't see it going anywhere .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Manner-Means Does anyone even recognize the name Susan Sarandon anymore ? She would have done the project a favor
+Leaf:  S span by not attaching her name to the project .
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast It 's not that i 'm against the cause ,
+Leaf:  N Contrast but if you 're going to go up against large financial institutions have a more relevant mouthpiece .
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('Just read about the whole #BankExit thing', None, None, None, 0), ('regarding the Dakota pipeline .', None, None, None, 1), ("I really ca n't see it going anywhere .", None, None, None, 1), ('Does anyone even recognize the name Susan Sarandon anymore ? She would have done the project a favor', None, None, None, 0), ('by not attaching her name to the project .', None, None, None, 1), ("It 's not that i 'm against the cause ,", None, None, None, 0), ("but if you 're going to go up against large financial institutions have a more relevant mouthpiece .", None, None, None, 1)]

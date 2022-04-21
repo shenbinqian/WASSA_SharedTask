@@ -1,0 +1,25 @@
+=====================> [[('I am always wary of natural disasters', None, None, None, 0), ('and earthquake is one thing', None, None, None, 0), ('I fear a lot .', None, None, None, 1), ('I think', None, None, None, 0), ('more should be done', None, None, None, 0), ('to combat this .', None, None, None, 1), ('Technology should help design roads and buildings', None, None, None, 0), ('that can withstand it .', None, None, None, 1), ('You know , at times , I ask myself', None, None, None, 0), ('why God allows all these to happen to his people .', None, None, None, 1), ('He should do more', None, None, None, 0), ('to protect us from alll these natural damages .', None, None, None, 1)]]
+Leaf:  N Elaborate I am always wary of natural disasters
+Leaf:  N Elaborate and earthquake is one thing
+Leaf:  S span I fear a lot .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Enablement more should be done
+Leaf:  S span to combat this .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Technology should help design roads and buildings
+Leaf:  S span that can withstand it .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span You know , at times , I ask myself
+Leaf:  N Attribution why God allows all these to happen to his people .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement He should do more
+Leaf:  S span to protect us from alll these natural damages .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I am always wary of natural disasters', None, None, None, 0), ('and earthquake is one thing', None, None, None, 0), ('I fear a lot .', None, None, None, 1), ('I think', None, None, None, 0), ('more should be done', None, None, None, 0), ('to combat this .', None, None, None, 1), ('Technology should help design roads and buildings', None, None, None, 0), ('that can withstand it .', None, None, None, 1), ('You know , at times , I ask myself', None, None, None, 0), ('why God allows all these to happen to his people .', None, None, None, 1), ('He should do more', None, None, None, 0), ('to protect us from alll these natural damages .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('Dear friend , I will like to know', None, None, None, 0), ('that Trump ’s window is closing —', None, None, None, 0), ('With two weeks', None, None, None, 0), ('to go ,', None, None, None, 0), ('Donald Trump ’s path to an election night win is almost entirely closed .', None, None, None, 1), ('Hillary Clinton enters the final 15 days of the race safely ahead in states worth more than 270 electoral votes .', None, None, None, 1), ('Indeed , the suspense of this final stretch is less about whether Trump can turn it around', None, None, None, 0), ('than how many down-ballot Republicans he will drag down with him .', None, None, None, 1), ('“ Trump is done , ”', None, None, None, 0), ('said Republican operative Jim Dornan ,', None, None, None, 0), ('who advised the New York businessman in the preparatory stages of his campaign last year . “ Barring something completely out of the blue ,', None, None, None, 0), ('like Hillary being involved in a murder ,', None, None, None, 0), ('I do n’t see', None, None, None, 0), ('how he wins .', None, None, None, 1)]]
+Leaf:  S span Dear friend , I will like to know
+Leaf:  N Attribution that Trump ’s window is closing —
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate With two weeks
+Leaf:  S span to go ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit Donald Trump ’s path to an election night win is almost entirely closed .
+Inner:  S span None Same-Unit NN
+Inner:  N Summary None Explanation NS
+Leaf:  N Evaluation Hillary Clinton enters the final 15 days of the race safely ahead in states worth more than 270 electoral votes .
+Leaf:  N Comparison Indeed , the suspense of this final stretch is less about whether Trump can turn it around
+Leaf:  N Comparison than how many down-ballot Republicans he will drag down with him .
+Inner:  N Elaborate None Comparison NN
+Leaf:  N Attribution “ Trump is done , ”
+Leaf:  N Elaborate said Republican operative Jim Dornan ,
+Leaf:  N Elaborate who advised the New York businessman in the preparatory stages of his campaign last year . “ Barring something completely out of the blue ,
+Leaf:  S span like Hillary being involved in a murder ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  S span I do n’t see
+Leaf:  N Attribution how he wins .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  S span None Attribution NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Dear friend , I will like to know', None, None, None, 0), ('that Trump ’s window is closing —', None, None, None, 0), ('With two weeks', None, None, None, 0), ('to go ,', None, None, None, 0), ('Donald Trump ’s path to an election night win is almost entirely closed .', None, None, None, 1), ('Hillary Clinton enters the final 15 days of the race safely ahead in states worth more than 270 electoral votes .', None, None, None, 1), ('Indeed , the suspense of this final stretch is less about whether Trump can turn it around', None, None, None, 0), ('than how many down-ballot Republicans he will drag down with him .', None, None, None, 1), ('“ Trump is done , ”', None, None, None, 0), ('said Republican operative Jim Dornan ,', None, None, None, 0), ('who advised the New York businessman in the preparatory stages of his campaign last year . “ Barring something completely out of the blue ,', None, None, None, 0), ('like Hillary being involved in a murder ,', None, None, None, 0), ('I do n’t see', None, None, None, 0), ('how he wins .', None, None, None, 1)]

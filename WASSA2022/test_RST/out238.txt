@@ -1,0 +1,29 @@
+=====================> [[('I feel really bad for the native Americans', None, None, None, 0), ('that are having to deal with all these protests about the Dakota Access pipeline .', None, None, None, 1), ('Imagine having all your land stolen from you ,', None, None, None, 0), ('then you get a tiny fraction of it back ,', None, None, None, 0), ('only to have the same government', None, None, None, 0), ('that originally stole it from you', None, None, None, 0), ('decide they want claim to it again . I give the protesters a lot of credit ,', None, None, None, 0), ("I do n't think", None, None, None, 0), ("I 'd be able to remain calm and peaceful .", None, None, None, 1), ('It is such a tragedy what has been done to these people since the beginnings of America', None, None, None, 0), ('( as we know it today ) .', None, None, None, 1), ('I wish', None, None, None, 0), ('the government would just build their pipeline somewhere else', None, None, None, 0), ('and leave these people alone !', None, None, None, 1)]]
+Leaf:  N Elaborate I feel really bad for the native Americans
+Leaf:  S span that are having to deal with all these protests about the Dakota Access pipeline .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Temporal Imagine having all your land stolen from you ,
+Leaf:  N Temporal then you get a tiny fraction of it back ,
+Leaf:  N Elaborate only to have the same government
+Leaf:  S span that originally stole it from you
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit decide they want claim to it again . I give the protesters a lot of credit ,
+Inner:  N Temporal None Same-Unit NN
+Inner:  N Temporal None Temporal NN
+Inner:  N Joint None Temporal NN
+Leaf:  S span I do n't think
+Leaf:  N Attribution I 'd be able to remain calm and peaceful .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It is such a tragedy what has been done to these people since the beginnings of America
+Leaf:  S span ( as we know it today ) .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Joint the government would just build their pipeline somewhere else
+Leaf:  N Joint and leave these people alone !
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I feel really bad for the native Americans', None, None, None, 0), ('that are having to deal with all these protests about the Dakota Access pipeline .', None, None, None, 1), ('Imagine having all your land stolen from you ,', None, None, None, 0), ('then you get a tiny fraction of it back ,', None, None, None, 0), ('only to have the same government', None, None, None, 0), ('that originally stole it from you', None, None, None, 0), ('decide they want claim to it again . I give the protesters a lot of credit ,', None, None, None, 0), ("I do n't think", None, None, None, 0), ("I 'd be able to remain calm and peaceful .", None, None, None, 1), ('It is such a tragedy what has been done to these people since the beginnings of America', None, None, None, 0), ('( as we know it today ) .', None, None, None, 1), ('I wish', None, None, None, 0), ('the government would just build their pipeline somewhere else', None, None, None, 0), ('and leave these people alone !', None, None, None, 1)]

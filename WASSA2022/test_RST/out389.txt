@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('it would be interesting to know what I would have thought about this 25 years ago ,', None, None, None, 0), ("but obviously it 's something now", None, None, None, 0), ("that I do n't have much of an opinion about .", None, None, None, 1), ('I think', None, None, None, 0), ('some men would be willing to use this kind of birth control ,', None, None, None, 0), ("but it 's something that will happen slowly ,", None, None, None, 0), ('and only if women " force " the issue', None, None, None, 0), ('by not taking their own birth control', None, None, None, 0), ('and refusing sex to their partners .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it would be interesting to know what I would have thought about this 25 years ago ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but obviously it 's something now
+Leaf:  S span that I do n't have much of an opinion about .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span I think
+Leaf:  N Contrast some men would be willing to use this kind of birth control ,
+Leaf:  N Condition but it 's something that will happen slowly ,
+Leaf:  N Manner-Means and only if women " force " the issue
+Leaf:  N Joint by not taking their own birth control
+Leaf:  N Joint and refusing sex to their partners .
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  S span None Condition NS
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('it would be interesting to know what I would have thought about this 25 years ago ,', None, None, None, 0), ("but obviously it 's something now", None, None, None, 0), ("that I do n't have much of an opinion about .", None, None, None, 1), ('I think', None, None, None, 0), ('some men would be willing to use this kind of birth control ,', None, None, None, 0), ("but it 's something that will happen slowly ,", None, None, None, 0), ('and only if women " force " the issue', None, None, None, 0), ('by not taking their own birth control', None, None, None, 0), ('and refusing sex to their partners .', None, None, None, 1)]

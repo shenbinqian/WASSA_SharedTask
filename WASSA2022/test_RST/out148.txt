@@ -1,0 +1,19 @@
+=====================> [[('I am happy and relieved', None, None, None, 0), ('that justice was done in this case .', None, None, None, 1), ('The murders of unarmed African American men can not continue to go unpunished in this country .', None, None, None, 1), ('The justice system worked in this case', None, None, None, 0), ('and I hope', None, None, None, 0), ('that it will hold the men and women of law enforcement to a similar standard .', None, None, None, 1), ('I am certain race played a factor', None, None, None, 0), ('but the facts spoke for themselves', None, None, None, 0), ('and justice prevailed .', None, None, None, 1)]]
+Leaf:  S span I am happy and relieved
+Leaf:  N Attribution that justice was done in this case .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The murders of unarmed African American men can not continue to go unpunished in this country .
+Leaf:  N Joint The justice system worked in this case
+Leaf:  S span and I hope
+Leaf:  N Attribution that it will hold the men and women of law enforcement to a similar standard .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Contrast I am certain race played a factor
+Leaf:  N Joint but the facts spoke for themselves
+Leaf:  N Joint and justice prevailed .
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('I am happy and relieved', None, None, None, 0), ('that justice was done in this case .', None, None, None, 1), ('The murders of unarmed African American men can not continue to go unpunished in this country .', None, None, None, 1), ('The justice system worked in this case', None, None, None, 0), ('and I hope', None, None, None, 0), ('that it will hold the men and women of law enforcement to a similar standard .', None, None, None, 1), ('I am certain race played a factor', None, None, None, 0), ('but the facts spoke for themselves', None, None, None, 0), ('and justice prevailed .', None, None, None, 1)]

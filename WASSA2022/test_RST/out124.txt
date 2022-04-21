@@ -1,0 +1,25 @@
+=====================> [[('seems like more and more wildfires are happening every year .', None, None, None, 1), ('not all of them are as bad', None, None, None, 0), ('as it was on california ,', None, None, None, 0), ('but still . people are losing their homes', None, None, None, 0), ('and people are dying .', None, None, None, 1), ('This is crazy .', None, None, None, 1), ('I feel', None, None, None, 0), ('like climate change is causing this as well .', None, None, None, 1), ('making the weather drier .', None, None, None, 1), ('not to mention droughts', None, None, None, 0), ('which certain parts of the country has been experiencing .', None, None, None, 1), ("it 's all connected .", None, None, None, 1)]]
+Leaf:  N Summary seems like more and more wildfires are happening every year .
+Leaf:  N Comparison not all of them are as bad
+Leaf:  S span as it was on california ,
+Inner:  S span None Comparison NS
+Leaf:  N Joint but still . people are losing their homes
+Leaf:  N Joint and people are dying .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation This is crazy .
+Leaf:  S span I feel
+Leaf:  N Attribution like climate change is causing this as well .
+Inner:  N Cause None Attribution SN
+Leaf:  N Joint making the weather drier .
+Leaf:  N Elaborate not to mention droughts
+Leaf:  S span which certain parts of the country has been experiencing .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span it 's all connected .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('seems like more and more wildfires are happening every year .', None, None, None, 1), ('not all of them are as bad', None, None, None, 0), ('as it was on california ,', None, None, None, 0), ('but still . people are losing their homes', None, None, None, 0), ('and people are dying .', None, None, None, 1), ('This is crazy .', None, None, None, 1), ('I feel', None, None, None, 0), ('like climate change is causing this as well .', None, None, None, 1), ('making the weather drier .', None, None, None, 1), ('not to mention droughts', None, None, None, 0), ('which certain parts of the country has been experiencing .', None, None, None, 1), ("it 's all connected .", None, None, None, 1)]

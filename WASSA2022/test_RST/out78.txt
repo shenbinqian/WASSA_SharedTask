@@ -1,0 +1,29 @@
+=====================> [[('April can you believe', None, None, None, 0), ('the that Wylie wants to not stand by the agreement', None, None, None, 0), ('he made his wife', None, None, None, 0), ('and after the fact wants to change it .', None, None, None, 1), ('I think', None, None, None, 0), ('the judge should through it out with no merit', None, None, None, 0), ('since there is a standing agreement', None, None, None, 0), ('and circumstances have not changed', None, None, None, 0), ('since they made the agreement .', None, None, None, 1), ('I believe', None, None, None, 0), ('if you make an agreement', None, None, None, 0), ('you should live up to that agreement', None, None, None, 0), ('and do the right thing .', None, None, None, 1), ("It 's unfortunate that he wants to act in a selfish manner .", None, None, None, 1)]]
+Leaf:  S span April can you believe
+Leaf:  N Elaborate the that Wylie wants to not stand by the agreement
+Leaf:  S span he made his wife
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit and after the fact wants to change it .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I think
+Leaf:  N Explanation the judge should through it out with no merit
+Leaf:  N Joint since there is a standing agreement
+Leaf:  N Temporal and circumstances have not changed
+Leaf:  S span since they made the agreement .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I believe
+Leaf:  S span if you make an agreement
+Leaf:  N Joint you should live up to that agreement
+Leaf:  N Joint and do the right thing .
+Inner:  N Condition None Joint NN
+Inner:  N Attribution None Condition SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's unfortunate that he wants to act in a selfish manner .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('April can you believe', None, None, None, 0), ('the that Wylie wants to not stand by the agreement', None, None, None, 0), ('he made his wife', None, None, None, 0), ('and after the fact wants to change it .', None, None, None, 1), ('I think', None, None, None, 0), ('the judge should through it out with no merit', None, None, None, 0), ('since there is a standing agreement', None, None, None, 0), ('and circumstances have not changed', None, None, None, 0), ('since they made the agreement .', None, None, None, 1), ('I believe', None, None, None, 0), ('if you make an agreement', None, None, None, 0), ('you should live up to that agreement', None, None, None, 0), ('and do the right thing .', None, None, None, 1), ("It 's unfortunate that he wants to act in a selfish manner .", None, None, None, 1)]

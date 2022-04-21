@@ -1,0 +1,25 @@
+=====================> [[('Oh , look here !', None, None, None, 1), ('Another Trump-like politician', None, None, None, 0), ('who idolizes our orange president .', None, None, None, 1), ('And he likes Trump as well .', None, None, None, 1), ('Well , their country can look over here', None, None, None, 0), ('for an example of a joke and mockery', None, None, None, 0), ('this country has become', None, None, None, 0), ('since Trump took office .', None, None, None, 1), ("You do n't have to vote in that sexist piece of crap ,", None, None, None, 0), ('just look to us', None, None, None, 0), ('to see', None, None, None, 0), ('how your country will turn out with garbage for a president .', None, None, None, 1)]]
+Leaf:  N Elaborate Oh , look here !
+Leaf:  N Elaborate Another Trump-like politician
+Leaf:  S span who idolizes our orange president .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span And he likes Trump as well .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Enablement Well , their country can look over here
+Leaf:  N Elaborate for an example of a joke and mockery
+Leaf:  N Background this country has become
+Leaf:  S span since Trump took office .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast You do n't have to vote in that sexist piece of crap ,
+Leaf:  N Enablement just look to us
+Leaf:  S span to see
+Leaf:  N Attribution how your country will turn out with garbage for a president .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('Oh , look here !', None, None, None, 1), ('Another Trump-like politician', None, None, None, 0), ('who idolizes our orange president .', None, None, None, 1), ('And he likes Trump as well .', None, None, None, 1), ('Well , their country can look over here', None, None, None, 0), ('for an example of a joke and mockery', None, None, None, 0), ('this country has become', None, None, None, 0), ('since Trump took office .', None, None, None, 1), ("You do n't have to vote in that sexist piece of crap ,", None, None, None, 0), ('just look to us', None, None, None, 0), ('to see', None, None, None, 0), ('how your country will turn out with garbage for a president .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Hey X , I know', None, None, None, 0), ('this is a bit weird ,', None, None, None, 0), ('but I am going to express my thoughts and feelings to you .', None, None, None, 1), ("Do n't ask , just listen .", None, None, None, 1), ("After reading about a recent shipwreck with a death toll at approximately 55 , I do n't feel anything .", None, None, None, 1), ('The loss of human life is too abstract for me', None, None, None, 0), ('to form a firm conceptual grasp on .', None, None, None, 1), ('I understand the story ,', None, None, None, 0), ('and objectively I understand what happened .', None, None, None, 1), ('But I do not feel anything .', None, None, None, 1)]]
+Leaf:  S span Hey X , I know
+Leaf:  N Attribution this is a bit weird ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but I am going to express my thoughts and feelings to you .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Do n't ask , just listen .
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate After reading about a recent shipwreck with a death toll at approximately 55 , I do n't feel anything .
+Leaf:  S span The loss of human life is too abstract for me
+Leaf:  N Background to form a firm conceptual grasp on .
+Inner:  N Elaborate None Background SN
+Leaf:  N Joint I understand the story ,
+Leaf:  N Joint and objectively I understand what happened .
+Inner:  S span None Joint NN
+Leaf:  N Contrast But I do not feel anything .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Topic-Change NS
+[('Hey X , I know', None, None, None, 0), ('this is a bit weird ,', None, None, None, 0), ('but I am going to express my thoughts and feelings to you .', None, None, None, 1), ("Do n't ask , just listen .", None, None, None, 1), ("After reading about a recent shipwreck with a death toll at approximately 55 , I do n't feel anything .", None, None, None, 1), ('The loss of human life is too abstract for me', None, None, None, 0), ('to form a firm conceptual grasp on .', None, None, None, 1), ('I understand the story ,', None, None, None, 0), ('and objectively I understand what happened .', None, None, None, 1), ('But I do not feel anything .', None, None, None, 1)]

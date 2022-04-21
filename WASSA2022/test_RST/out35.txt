@@ -1,0 +1,27 @@
+=====================> [[("There 's been another earthquake .", None, None, None, 1), ('This was there was only 13 killed . Only 13 .', None, None, None, 1), ('When did we get to a place', None, None, None, 0), ('where we say', None, None, None, 0), ('" only this many have been killed "', None, None, None, 0), ("It 's so sad ,", None, None, None, 0), ("but unfortunately there 's nothing we can do about it as its Mother Nature .", None, None, None, 1), ('When it strikes', None, None, None, 0), ('it strikes .', None, None, None, 1), ("I hear we 're on some kinda fault line .", None, None, None, 1), ('I wonder', None, None, None, 0), ("how long it 'll be", None, None, None, 0), ('before we get one here .', None, None, None, 1)]]
+Leaf:  N Comparison There 's been another earthquake .
+Leaf:  S span This was there was only 13 killed . Only 13 .
+Inner:  N Temporal None Comparison NS
+Leaf:  N Elaborate When did we get to a place
+Leaf:  S span where we say
+Leaf:  N Attribution " only this many have been killed "
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast It 's so sad ,
+Leaf:  S span but unfortunately there 's nothing we can do about it as its Mother Nature .
+Inner:  S span None Contrast NS
+Inner:  N Temporal None Evaluation NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span When it strikes
+Leaf:  N Explanation it strikes .
+Inner:  N Background None Explanation SN
+Leaf:  S span I hear we 're on some kinda fault line .
+Inner:  N Cause None Background NS
+Leaf:  S span I wonder
+Leaf:  N Temporal how long it 'll be
+Leaf:  S span before we get one here .
+Inner:  N Attribution None Temporal NS
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause NN
+Inner:  Root None None Elaborate NS
+[("There 's been another earthquake .", None, None, None, 1), ('This was there was only 13 killed . Only 13 .', None, None, None, 1), ('When did we get to a place', None, None, None, 0), ('where we say', None, None, None, 0), ('" only this many have been killed "', None, None, None, 0), ("It 's so sad ,", None, None, None, 0), ("but unfortunately there 's nothing we can do about it as its Mother Nature .", None, None, None, 1), ('When it strikes', None, None, None, 0), ('it strikes .', None, None, None, 1), ("I hear we 're on some kinda fault line .", None, None, None, 1), ('I wonder', None, None, None, 0), ("how long it 'll be", None, None, None, 0), ('before we get one here .', None, None, None, 1)]

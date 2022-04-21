@@ -1,0 +1,29 @@
+=====================> [[('I just read an article about the British government', None, None, None, 0), ('backing oil drilling operations in Uganda .', None, None, None, 1), ('Apparently the amount of potential money involved exceeds one billion dollars .', None, None, None, 1), ('Unfortunately the location of the operations is in a national park', None, None, None, 0), ('and threatens the existence of an endangered giraffe ,', None, None, None, 0), ('As', None, None, None, 0), ('you would imagine ,', None, None, None, 0), ('there is a considerable amount of protest by groups such as Greenpeace .', None, None, None, 1), ('I understand the desire', None, None, None, 0), ('to protect this animal ,', None, None, None, 0), ('however nations like Uganda really need the money and resources .', None, None, None, 1), ("Hopefully they 'll be able to find a way", None, None, None, 0), ('to make the project work', None, None, None, 0), ('while still being able to protect the giraffes .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about the British government
+Leaf:  S span backing oil drilling operations in Uganda .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Apparently the amount of potential money involved exceeds one billion dollars .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Unfortunately the location of the operations is in a national park
+Leaf:  N Joint and threatens the existence of an endangered giraffe ,
+Inner:  S span None Joint NN
+Leaf:  N Evaluation As
+Leaf:  S span you would imagine ,
+Inner:  S span None Evaluation NS
+Leaf:  N Background there is a considerable amount of protest by groups such as Greenpeace .
+Inner:  N Explanation None Background SN
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate I understand the desire
+Leaf:  S span to protect this animal ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast however nations like Uganda really need the money and resources .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate Hopefully they 'll be able to find a way
+Leaf:  N Temporal to make the project work
+Leaf:  N Temporal while still being able to protect the giraffes .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about the British government', None, None, None, 0), ('backing oil drilling operations in Uganda .', None, None, None, 1), ('Apparently the amount of potential money involved exceeds one billion dollars .', None, None, None, 1), ('Unfortunately the location of the operations is in a national park', None, None, None, 0), ('and threatens the existence of an endangered giraffe ,', None, None, None, 0), ('As', None, None, None, 0), ('you would imagine ,', None, None, None, 0), ('there is a considerable amount of protest by groups such as Greenpeace .', None, None, None, 1), ('I understand the desire', None, None, None, 0), ('to protect this animal ,', None, None, None, 0), ('however nations like Uganda really need the money and resources .', None, None, None, 1), ("Hopefully they 'll be able to find a way", None, None, None, 0), ('to make the project work', None, None, None, 0), ('while still being able to protect the giraffes .', None, None, None, 1)]

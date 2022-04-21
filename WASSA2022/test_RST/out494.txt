@@ -1,0 +1,35 @@
+=====================> [[('Congress makes me so mad !', None, None, None, 1), ('I am so tired of these politicians', None, None, None, 0), ('playing games', None, None, None, 0), ('rather than working together', None, None, None, 0), ('to do their jobs .', None, None, None, 1), ('All they care about is getting reelected .', None, None, None, 1), ("They do n't care about making things better for us , the people", None, None, None, 0), ('who put them into office .', None, None, None, 1), ('This country can never move forward', None, None, None, 0), ("if they do n't change the way", None, None, None, 0), ('they work together .', None, None, None, 1), ('They need to cooperate', None, None, None, 0), ('and pass legislation', None, None, None, 0), ('that will benefit everyone .', None, None, None, 1), ('They are like children', None, None, None, 0), ('who will not be satisfied', None, None, None, 0), ('unless they get exactly what they want .', None, None, None, 1)]]
+Leaf:  N Explanation Congress makes me so mad !
+Leaf:  N Elaborate I am so tired of these politicians
+Leaf:  N Comparison playing games
+Leaf:  S span rather than working together
+Inner:  N Enablement None Comparison NS
+Leaf:  S span to do their jobs .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate All they care about is getting reelected .
+Leaf:  N Elaborate They do n't care about making things better for us , the people
+Leaf:  S span who put them into office .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Condition This country can never move forward
+Leaf:  N Elaborate if they do n't change the way
+Leaf:  S span they work together .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Condition NS
+Leaf:  N Joint They need to cooperate
+Leaf:  N Elaborate and pass legislation
+Leaf:  S span that will benefit everyone .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate They are like children
+Leaf:  N Condition who will not be satisfied
+Leaf:  S span unless they get exactly what they want .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('Congress makes me so mad !', None, None, None, 1), ('I am so tired of these politicians', None, None, None, 0), ('playing games', None, None, None, 0), ('rather than working together', None, None, None, 0), ('to do their jobs .', None, None, None, 1), ('All they care about is getting reelected .', None, None, None, 1), ("They do n't care about making things better for us , the people", None, None, None, 0), ('who put them into office .', None, None, None, 1), ('This country can never move forward', None, None, None, 0), ("if they do n't change the way", None, None, None, 0), ('they work together .', None, None, None, 1), ('They need to cooperate', None, None, None, 0), ('and pass legislation', None, None, None, 0), ('that will benefit everyone .', None, None, None, 1), ('They are like children', None, None, None, 0), ('who will not be satisfied', None, None, None, 0), ('unless they get exactly what they want .', None, None, None, 1)]

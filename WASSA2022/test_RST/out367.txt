@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ("that it 's interesting that the United States of America apparently not the only country", None, None, None, 0), ('that is having issues', None, None, None, 0), ('pertaining to immigration .', None, None, None, 1), ('Though I am confused by the article ,', None, None, None, 0), ("I do n't understand", None, None, None, 0), ('how disbanding the jungle is humanitarian .', None, None, None, 1), ('If that were the case', None, None, None, 0), ('then why are people rioting', None, None, None, 0), ('and wanting to stay ?', None, None, None, 1), ('It makes me want to learn more', None, None, None, 0)]]
+Leaf:  S span I think
+Leaf:  N Elaborate that it 's interesting that the United States of America apparently not the only country
+Leaf:  N Elaborate that is having issues
+Leaf:  S span pertaining to immigration .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Though I am confused by the article ,
+Leaf:  S span I do n't understand
+Leaf:  N Attribution how disbanding the jungle is humanitarian .
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  S span If that were the case
+Leaf:  N Joint then why are people rioting
+Leaf:  N Joint and wanting to stay ?
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It makes me want to learn more
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ("that it 's interesting that the United States of America apparently not the only country", None, None, None, 0), ('that is having issues', None, None, None, 0), ('pertaining to immigration .', None, None, None, 1), ('Though I am confused by the article ,', None, None, None, 0), ("I do n't understand", None, None, None, 0), ('how disbanding the jungle is humanitarian .', None, None, None, 1), ('If that were the case', None, None, None, 0), ('then why are people rioting', None, None, None, 0), ('and wanting to stay ?', None, None, None, 1), ('It makes me want to learn more', None, None, None, 0)]

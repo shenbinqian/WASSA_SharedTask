@@ -1,0 +1,17 @@
+=====================> [[('I have a hard time', None, None, None, 0), ('thinking of a company as a person .', None, None, None, 1), ('I did not really feel much saddness for the company .', None, None, None, 1), ('I believe', None, None, None, 0), ('that the fashion industry is destroying the planet', None, None, None, 0), ('and I hope there are less fashion companies around', None, None, None, 0), ("so I 'm sadly , a little bit happy about this .", None, None, None, 1), ("I do n't really have anything else to say .", None, None, None, 1)]]
+Leaf:  N Background I have a hard time
+Leaf:  S span thinking of a company as a person .
+Inner:  N Evaluation None Background NS
+Leaf:  N Explanation I did not really feel much saddness for the company .
+Leaf:  S span I believe
+Leaf:  N Attribution that the fashion industry is destroying the planet
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and I hope there are less fashion companies around
+Inner:  N Cause None Joint NN
+Leaf:  S span so I 'm sadly , a little bit happy about this .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span I do n't really have anything else to say .
+Inner:  Root None None Explanation NS
+[('I have a hard time', None, None, None, 0), ('thinking of a company as a person .', None, None, None, 1), ('I did not really feel much saddness for the company .', None, None, None, 1), ('I believe', None, None, None, 0), ('that the fashion industry is destroying the planet', None, None, None, 0), ('and I hope there are less fashion companies around', None, None, None, 0), ("so I 'm sadly , a little bit happy about this .", None, None, None, 1), ("I do n't really have anything else to say .", None, None, None, 1)]

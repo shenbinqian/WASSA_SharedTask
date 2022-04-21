@@ -1,0 +1,19 @@
+=====================> [[('This guy is crazy can you believe', None, None, None, 0), ('he spends all his time', None, None, None, 0), ('killing mice and cats', None, None, None, 0), ('what a nut job this guy is trying to save the Albatross from these little mice', None, None, None, 0), ('so he moved to this island', None, None, None, 0), ('ans spends all his time', None, None, None, 0), ('killing little mice', None, None, None, 0), ('he has no life', None, None, None, 0), ('and does not spend time with humans sounds like a serial killer .', None, None, None, 1)]]
+Leaf:  S span This guy is crazy can you believe
+Leaf:  N Manner-Means he spends all his time
+Leaf:  S span killing mice and cats
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Cause what a nut job this guy is trying to save the Albatross from these little mice
+Leaf:  S span so he moved to this island
+Inner:  N Temporal None Cause NS
+Leaf:  N Manner-Means ans spends all his time
+Leaf:  S span killing little mice
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Joint he has no life
+Leaf:  N Joint and does not spend time with humans sounds like a serial killer .
+Inner:  S span None Joint NN
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Summary NS
+[('This guy is crazy can you believe', None, None, None, 0), ('he spends all his time', None, None, None, 0), ('killing mice and cats', None, None, None, 0), ('what a nut job this guy is trying to save the Albatross from these little mice', None, None, None, 0), ('so he moved to this island', None, None, None, 0), ('ans spends all his time', None, None, None, 0), ('killing little mice', None, None, None, 0), ('he has no life', None, None, None, 0), ('and does not spend time with humans sounds like a serial killer .', None, None, None, 1)]

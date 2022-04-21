@@ -1,0 +1,27 @@
+=====================> [[('This article pulls at my heart strings !', None, None, None, 1), ('This is the same kind of horrible things', None, None, None, 0), ('that happens with babies .', None, None, None, 1), ('These dogs have a such a great job in society', None, None, None, 0), ('and are very helpless', None, None, None, 0), ('have to depend on there owners', None, None, None, 0), ('it is so sad it died in such a horrible way . It is hard because as an officer I believe', None, None, None, 0), ('most are of moral character', None, None, None, 0), ('and this really could have been a mistake . Alot of handlers are very close with there dogs', None, None, None, 0), ('and would take a bullet for them', None, None, None, 0), ('so being angry at the handler', None, None, None, 0), ('who already probably feels bad', None, None, None, 0), ('makes no sense to me .', None, None, None, 1)]]
+Leaf:  N Summary This article pulls at my heart strings !
+Leaf:  N Elaborate This is the same kind of horrible things
+Leaf:  S span that happens with babies .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint These dogs have a such a great job in society
+Leaf:  N Same-Unit and are very helpless
+Leaf:  N Same-Unit have to depend on there owners
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span it is so sad it died in such a horrible way . It is hard because as an officer I believe
+Leaf:  N Joint most are of moral character
+Leaf:  N Joint and this really could have been a mistake . Alot of handlers are very close with there dogs
+Leaf:  N Joint and would take a bullet for them
+Inner:  S span None Joint NN
+Leaf:  N Elaborate so being angry at the handler
+Leaf:  S span who already probably feels bad
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit makes no sense to me .
+Inner:  N Explanation None Same-Unit NN
+Inner:  N Joint None Explanation SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('This article pulls at my heart strings !', None, None, None, 1), ('This is the same kind of horrible things', None, None, None, 0), ('that happens with babies .', None, None, None, 1), ('These dogs have a such a great job in society', None, None, None, 0), ('and are very helpless', None, None, None, 0), ('have to depend on there owners', None, None, None, 0), ('it is so sad it died in such a horrible way . It is hard because as an officer I believe', None, None, None, 0), ('most are of moral character', None, None, None, 0), ('and this really could have been a mistake . Alot of handlers are very close with there dogs', None, None, None, 0), ('and would take a bullet for them', None, None, None, 0), ('so being angry at the handler', None, None, None, 0), ('who already probably feels bad', None, None, None, 0), ('makes no sense to me .', None, None, None, 1)]

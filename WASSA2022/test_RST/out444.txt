@@ -1,0 +1,25 @@
+=====================> [[('I dont understand', None, None, None, 0), ('that it takes a tragedy', None, None, None, 0), ('to happen', None, None, None, 0), ('before legislation can take place .', None, None, None, 1), ('People should be checking', None, None, None, 0), ('to see', None, None, None, 0), ('if there are any risks', None, None, None, 0), ('involved in the coal mining incident', None, None, None, 0), ('to prevent any further loss of life .', None, None, None, 1), ('THis I find to be careless and disrespectful in my opinion .', None, None, None, 1), ('We all work hard', None, None, None, 0), ('to protect each other why not now .', None, None, None, 1)]]
+Leaf:  S span I dont understand
+Leaf:  N Enablement that it takes a tragedy
+Leaf:  S span to happen
+Inner:  S span None Enablement NS
+Leaf:  N Condition before legislation can take place .
+Inner:  N Attribution None Condition SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Enablement People should be checking
+Leaf:  S span to see
+Leaf:  N Elaborate if there are any risks
+Leaf:  S span involved in the coal mining incident
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to prevent any further loss of life .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation THis I find to be careless and disrespectful in my opinion .
+Leaf:  N Enablement We all work hard
+Leaf:  S span to protect each other why not now .
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I dont understand', None, None, None, 0), ('that it takes a tragedy', None, None, None, 0), ('to happen', None, None, None, 0), ('before legislation can take place .', None, None, None, 1), ('People should be checking', None, None, None, 0), ('to see', None, None, None, 0), ('if there are any risks', None, None, None, 0), ('involved in the coal mining incident', None, None, None, 0), ('to prevent any further loss of life .', None, None, None, 1), ('THis I find to be careless and disrespectful in my opinion .', None, None, None, 1), ('We all work hard', None, None, None, 0), ('to protect each other why not now .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('I like this article .', None, None, None, 1), ("It 's about how the woman still gave birth to her child ,", None, None, None, 0), ('even though it was a c-section .', None, None, None, 1), ('It seems as though some mothers look down upon those', None, None, None, 0), ('who have had to have c-sections', None, None, None, 0), ("because they did n't physically push the child out .", None, None, None, 1), ('Some consider it " easier " but the effects of a c-section', None, None, None, 0), ('and the scarring shows', None, None, None, 0), ('how difficult it is .', None, None, None, 1)]]
+Leaf:  N Elaborate I like this article .
+Leaf:  N Contrast It 's about how the woman still gave birth to her child ,
+Leaf:  S span even though it was a c-section .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It seems as though some mothers look down upon those
+Leaf:  S span who have had to have c-sections
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because they did n't physically push the child out .
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Some consider it " easier " but the effects of a c-section
+Leaf:  S span and the scarring shows
+Leaf:  N Attribution how difficult it is .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I like this article .', None, None, None, 1), ("It 's about how the woman still gave birth to her child ,", None, None, None, 0), ('even though it was a c-section .', None, None, None, 1), ('It seems as though some mothers look down upon those', None, None, None, 0), ('who have had to have c-sections', None, None, None, 0), ("because they did n't physically push the child out .", None, None, None, 1), ('Some consider it " easier " but the effects of a c-section', None, None, None, 0), ('and the scarring shows', None, None, None, 0), ('how difficult it is .', None, None, None, 1)]

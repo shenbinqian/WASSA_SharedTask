@@ -1,0 +1,17 @@
+=====================> [[('Just read this article on trees', None, None, None, 0), ('and why they could be dying at an alarming rate .', None, None, None, 1), ('You need to read it ,', None, None, None, 0), ("I do n't know", None, None, None, 0), ("if it has anything to do with our tree 's dying around our area ,", None, None, None, 0), ('but I do know', None, None, None, 0), ('that between climate change and diseases introduced plants are causing some of the damage', None, None, None, 0), ("that ca n't be controlled .", None, None, None, 1)]]
+Leaf:  N Joint Just read this article on trees
+Leaf:  N Joint and why they could be dying at an alarming rate .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint You need to read it ,
+Leaf:  S span I do n't know
+Leaf:  N Attribution if it has anything to do with our tree 's dying around our area ,
+Inner:  S span None Attribution SN
+Leaf:  S span but I do know
+Leaf:  N Elaborate that between climate change and diseases introduced plants are causing some of the damage
+Leaf:  S span that ca n't be controlled .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Just read this article on trees', None, None, None, 0), ('and why they could be dying at an alarming rate .', None, None, None, 1), ('You need to read it ,', None, None, None, 0), ("I do n't know", None, None, None, 0), ("if it has anything to do with our tree 's dying around our area ,", None, None, None, 0), ('but I do know', None, None, None, 0), ('that between climate change and diseases introduced plants are causing some of the damage', None, None, None, 0), ("that ca n't be controlled .", None, None, None, 1)]

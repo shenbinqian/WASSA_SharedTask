@@ -1,0 +1,37 @@
+=====================> [[('These Isis punks need to be exterminated .', None, None, None, 1), ('What a waste on society .', None, None, None, 1), ("They do n't care at all about anyone but themselves .", None, None, None, 1), ('They act like they do this in the name of their religion', None, None, None, 0), ('but they are just pure evil .', None, None, None, 1), ('We should get the heck out of there .', None, None, None, 1), ("For the most part those people in that part of the world do n't like us anyway , do n't want us there ,", None, None, None, 0), ('we should just leave .', None, None, None, 1), ('Why should the young people of this country suffer and die', None, None, None, 0), ('to help a bunch of people', None, None, None, 0), ("who do n't like us anyway .", None, None, None, 1), ('All this crap happens there', None, None, None, 0), ('and then they will blame us for all their problems', None, None, None, 0), ('when so many go and follow these isis idiots', None, None, None, 0), ('or at the very least allow them in their villages and not stand up to them .', None, None, None, 1), ('I hate that innocent people die', None, None, None, 0), ("but really they do n't like us", None, None, None, 0), ('or want us there anyway .', None, None, None, 1)]]
+Leaf:  N Evaluation These Isis punks need to be exterminated .
+Leaf:  N Elaborate What a waste on society .
+Leaf:  N Elaborate They do n't care at all about anyone but themselves .
+Leaf:  S span They act like they do this in the name of their religion
+Leaf:  N Contrast but they are just pure evil .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation We should get the heck out of there .
+Leaf:  N Joint For the most part those people in that part of the world do n't like us anyway , do n't want us there ,
+Leaf:  N Joint we should just leave .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Enablement Why should the young people of this country suffer and die
+Leaf:  N Elaborate to help a bunch of people
+Leaf:  S span who do n't like us anyway .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Enablement NS
+Leaf:  N Temporal All this crap happens there
+Leaf:  N Background and then they will blame us for all their problems
+Leaf:  N Joint when so many go and follow these isis idiots
+Leaf:  N Joint or at the very least allow them in their villages and not stand up to them .
+Inner:  S span None Joint NN
+Inner:  N Temporal None Background NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span I hate that innocent people die
+Leaf:  N Joint but really they do n't like us
+Leaf:  N Joint or want us there anyway .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('These Isis punks need to be exterminated .', None, None, None, 1), ('What a waste on society .', None, None, None, 1), ("They do n't care at all about anyone but themselves .", None, None, None, 1), ('They act like they do this in the name of their religion', None, None, None, 0), ('but they are just pure evil .', None, None, None, 1), ('We should get the heck out of there .', None, None, None, 1), ("For the most part those people in that part of the world do n't like us anyway , do n't want us there ,", None, None, None, 0), ('we should just leave .', None, None, None, 1), ('Why should the young people of this country suffer and die', None, None, None, 0), ('to help a bunch of people', None, None, None, 0), ("who do n't like us anyway .", None, None, None, 1), ('All this crap happens there', None, None, None, 0), ('and then they will blame us for all their problems', None, None, None, 0), ('when so many go and follow these isis idiots', None, None, None, 0), ('or at the very least allow them in their villages and not stand up to them .', None, None, None, 1), ('I hate that innocent people die', None, None, None, 0), ("but really they do n't like us", None, None, None, 0), ('or want us there anyway .', None, None, None, 1)]

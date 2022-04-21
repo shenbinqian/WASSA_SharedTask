@@ -1,0 +1,17 @@
+=====================> [[('I just read an article about a hack against Yahoo', None, None, None, 0), ('that stole at least 500 million accounts .', None, None, None, 1), ("It is n't surprising to me .", None, None, None, 1), ('It seems like nowadays companies get hacked all of the time .', None, None, None, 1), ('One can never be sure', None, None, None, 0), ('their data is safe .', None, None, None, 1), ('Companies need to add more security measures ,', None, None, None, 0), ('and they should be held accountable for not being vigilant enough in their protection of customer information .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about a hack against Yahoo
+Leaf:  S span that stole at least 500 million accounts .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is n't surprising to me .
+Leaf:  N Evaluation It seems like nowadays companies get hacked all of the time .
+Leaf:  S span One can never be sure
+Leaf:  N Attribution their data is safe .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint Companies need to add more security measures ,
+Leaf:  N Joint and they should be held accountable for not being vigilant enough in their protection of customer information .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about a hack against Yahoo', None, None, None, 0), ('that stole at least 500 million accounts .', None, None, None, 1), ("It is n't surprising to me .", None, None, None, 1), ('It seems like nowadays companies get hacked all of the time .', None, None, None, 1), ('One can never be sure', None, None, None, 0), ('their data is safe .', None, None, None, 1), ('Companies need to add more security measures ,', None, None, None, 0), ('and they should be held accountable for not being vigilant enough in their protection of customer information .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('Can you believe all these natural disasters ?', None, None, None, 1), ('so many people have died from fires , haze , typhoons .', None, None, None, 1), ('I wonder', None, None, None, 0), ('why people would live in places with such unpredictible weather ?', None, None, None, 1), ('The mass amounts of people', None, None, None, 0), ('that are injured', None, None, None, 0), ('or die from these things are so scary !', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they are becoming more prevelant', None, None, None, 0), ('because of glabal warming.I also wonder', None, None, None, 0), ('why authorities in indonesia only reported 19 deaths', None, None, None, 0), ('when there were close to 100,000 ...', None, None, None, 1), ('They need to come up with better ways', None, None, None, 0), ('to help there people out', None, None, None, 0)]]
+Leaf:  N Elaborate Can you believe all these natural disasters ?
+Leaf:  S span so many people have died from fires , haze , typhoons .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wonder
+Leaf:  N Attribution why people would live in places with such unpredictible weather ?
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The mass amounts of people
+Leaf:  N Joint that are injured
+Leaf:  N Joint or die from these things are so scary !
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Leaf:  S span I wonder
+Leaf:  N Cause if they are becoming more prevelant
+Leaf:  S span because of glabal warming.I also wonder
+Inner:  S span None Cause NS
+Leaf:  N Temporal why authorities in indonesia only reported 19 deaths
+Leaf:  S span when there were close to 100,000 ...
+Inner:  N Attribution None Temporal NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate They need to come up with better ways
+Leaf:  S span to help there people out
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Can you believe all these natural disasters ?', None, None, None, 1), ('so many people have died from fires , haze , typhoons .', None, None, None, 1), ('I wonder', None, None, None, 0), ('why people would live in places with such unpredictible weather ?', None, None, None, 1), ('The mass amounts of people', None, None, None, 0), ('that are injured', None, None, None, 0), ('or die from these things are so scary !', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they are becoming more prevelant', None, None, None, 0), ('because of glabal warming.I also wonder', None, None, None, 0), ('why authorities in indonesia only reported 19 deaths', None, None, None, 0), ('when there were close to 100,000 ...', None, None, None, 1), ('They need to come up with better ways', None, None, None, 0), ('to help there people out', None, None, None, 0)]

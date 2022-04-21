@@ -1,0 +1,25 @@
+=====================> [[('I have no idea', None, None, None, 0), ('how many messages', None, None, None, 0), ('I am going to send you about articles', None, None, None, 0), ("that I do n't truly care about however here we go .", None, None, None, 1), ('This is the least interesting article for me out of all the articles', None, None, None, 0), ("I have read so far . people die every day and as far as I 'm aware ,", None, None, None, 0), ("that 's not changing anytime soon . I do admire", None, None, None, 0), ('that she seems to have achieved the goals', None, None, None, 0), ('she set out', None, None, None, 0), ('to achieve .', None, None, None, 1), ('I commend her for that however , I have no idea', None, None, None, 0), ('who she really is outside of this article .', None, None, None, 1)]]
+Leaf:  S span I have no idea
+Leaf:  N Elaborate how many messages
+Leaf:  N Elaborate I am going to send you about articles
+Leaf:  S span that I do n't truly care about however here we go .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate This is the least interesting article for me out of all the articles
+Leaf:  S span I have read so far . people die every day and as far as I 'm aware ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background that 's not changing anytime soon . I do admire
+Inner:  S span None Background SN
+Leaf:  N Elaborate that she seems to have achieved the goals
+Leaf:  N Enablement she set out
+Leaf:  S span to achieve .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I commend her for that however , I have no idea
+Leaf:  N Attribution who she really is outside of this article .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I have no idea', None, None, None, 0), ('how many messages', None, None, None, 0), ('I am going to send you about articles', None, None, None, 0), ("that I do n't truly care about however here we go .", None, None, None, 1), ('This is the least interesting article for me out of all the articles', None, None, None, 0), ("I have read so far . people die every day and as far as I 'm aware ,", None, None, None, 0), ("that 's not changing anytime soon . I do admire", None, None, None, 0), ('that she seems to have achieved the goals', None, None, None, 0), ('she set out', None, None, None, 0), ('to achieve .', None, None, None, 1), ('I commend her for that however , I have no idea', None, None, None, 0), ('who she really is outside of this article .', None, None, None, 1)]

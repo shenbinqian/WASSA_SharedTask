@@ -1,0 +1,23 @@
+=====================> [[('First of all , women should never have the right and access to free birth control', None, None, None, 0), ('taken away from them .', None, None, None, 1), ('If a woman decides', None, None, None, 0), ('that she does not want a baby ,', None, None, None, 0), ('she should have the choice', None, None, None, 0), ('to abort', None, None, None, 0), ('- unless its too late in the pregnancy , at that point she should look into adoption .', None, None, None, 1), ('But the way', None, None, None, 0), ('that politicians feel', None, None, None, 0), ("like they have a say over women 's bodies", None, None, None, 0), ('is disturbing .', None, None, None, 1)]]
+Leaf:  N Elaborate First of all , women should never have the right and access to free birth control
+Leaf:  S span taken away from them .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If a woman decides
+Leaf:  N Attribution that she does not want a baby ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate she should have the choice
+Leaf:  S span to abort
+Inner:  N Condition None Elaborate NS
+Inner:  N Contrast None Condition SN
+Leaf:  S span - unless its too late in the pregnancy , at that point she should look into adoption .
+Inner:  N Joint None Contrast NS
+Leaf:  N Elaborate But the way
+Leaf:  S span that politicians feel
+Leaf:  N Attribution like they have a say over women 's bodies
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is disturbing .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('First of all , women should never have the right and access to free birth control', None, None, None, 0), ('taken away from them .', None, None, None, 1), ('If a woman decides', None, None, None, 0), ('that she does not want a baby ,', None, None, None, 0), ('she should have the choice', None, None, None, 0), ('to abort', None, None, None, 0), ('- unless its too late in the pregnancy , at that point she should look into adoption .', None, None, None, 1), ('But the way', None, None, None, 0), ('that politicians feel', None, None, None, 0), ("like they have a say over women 's bodies", None, None, None, 0), ('is disturbing .', None, None, None, 1)]

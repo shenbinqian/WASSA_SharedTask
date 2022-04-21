@@ -1,0 +1,19 @@
+=====================> [[('The whole thing about climate change is very concerning , especially the deserts like the one', None, None, None, 0), ('mentioned in Southern Spain .', None, None, None, 1), ('Hopefully countries will start realizing', None, None, None, 0), ('how big of a problem climate change is', None, None, None, 0), ('and aim to find a solution fix this as a whole .', None, None, None, 1), ('Maybe we can do more as a society', None, None, None, 0), ('to really help the world', None, None, None, 0), ('and make the Earth a nice place', None, None, None, 0), ('to live in the future .', None, None, None, 1)]]
+Leaf:  N Elaborate The whole thing about climate change is very concerning , especially the deserts like the one
+Leaf:  S span mentioned in Southern Spain .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Hopefully countries will start realizing
+Leaf:  S span how big of a problem climate change is
+Leaf:  N Cause and aim to find a solution fix this as a whole .
+Inner:  N Attribution None Cause SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Maybe we can do more as a society
+Leaf:  N Joint to really help the world
+Leaf:  N Elaborate and make the Earth a nice place
+Leaf:  S span to live in the future .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('The whole thing about climate change is very concerning , especially the deserts like the one', None, None, None, 0), ('mentioned in Southern Spain .', None, None, None, 1), ('Hopefully countries will start realizing', None, None, None, 0), ('how big of a problem climate change is', None, None, None, 0), ('and aim to find a solution fix this as a whole .', None, None, None, 1), ('Maybe we can do more as a society', None, None, None, 0), ('to really help the world', None, None, None, 0), ('and make the Earth a nice place', None, None, None, 0), ('to live in the future .', None, None, None, 1)]

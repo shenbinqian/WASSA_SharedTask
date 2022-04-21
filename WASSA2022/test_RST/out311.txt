@@ -1,0 +1,17 @@
+=====================> [[("It 's pretty scary that something as simple as contacts can get you a serious eye infection .", None, None, None, 1), ('I really should start watching myself', None, None, None, 0), ('and taking off my contacts more often', None, None, None, 0), ('or even buying new contacts', None, None, None, 0), ('when i feel like my old ones are getting worn out .', None, None, None, 1), ("It 's pretty freaky", None, None, None, 0), ('because i often sleep with my contact', None, None, None, 0), ('on when i want to take a nap .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's pretty scary that something as simple as contacts can get you a serious eye infection .
+Leaf:  N Joint I really should start watching myself
+Leaf:  N Joint and taking off my contacts more often
+Leaf:  N Background or even buying new contacts
+Leaf:  S span when i feel like my old ones are getting worn out .
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Explanation It 's pretty freaky
+Leaf:  N Same-Unit because i often sleep with my contact
+Leaf:  N Same-Unit on when i want to take a nap .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("It 's pretty scary that something as simple as contacts can get you a serious eye infection .", None, None, None, 1), ('I really should start watching myself', None, None, None, 0), ('and taking off my contacts more often', None, None, None, 0), ('or even buying new contacts', None, None, None, 0), ('when i feel like my old ones are getting worn out .', None, None, None, 1), ("It 's pretty freaky", None, None, None, 0), ('because i often sleep with my contact', None, None, None, 0), ('on when i want to take a nap .', None, None, None, 1)]

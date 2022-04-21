@@ -1,0 +1,27 @@
+=====================> [[('How bad does the smog have to be for them', None, None, None, 0), ('to close the schools', None, None, None, 0), ('that is crazy', None, None, None, 0), ('if its that bad how are those people', None, None, None, 0), ('even living in life', None, None, None, 0), ('i know', None, None, None, 0), ('they must have to go o the store', None, None, None, 0), ('or go out for work', None, None, None, 0), ('i know there homes must have windows', None, None, None, 0), ('how is the smog not getting in therer homes', None, None, None, 0), ('i feel like if we keep going the way', None, None, None, 0), ('that we are going', None, None, None, 0), ('we are going to be headed for that also', None, None, None, 0)]]
+Leaf:  N Cause How bad does the smog have to be for them
+Leaf:  S span to close the schools
+Inner:  N Evaluation None Cause NS
+Leaf:  N Evaluation that is crazy
+Leaf:  N Elaborate if its that bad how are those people
+Leaf:  S span even living in life
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span i know
+Leaf:  N Joint they must have to go o the store
+Leaf:  N Joint or go out for work
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Cause i know there homes must have windows
+Leaf:  N Cause how is the smog not getting in therer homes
+Inner:  S span None Cause NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate i feel like if we keep going the way
+Leaf:  S span that we are going
+Leaf:  N Condition we are going to be headed for that also
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('How bad does the smog have to be for them', None, None, None, 0), ('to close the schools', None, None, None, 0), ('that is crazy', None, None, None, 0), ('if its that bad how are those people', None, None, None, 0), ('even living in life', None, None, None, 0), ('i know', None, None, None, 0), ('they must have to go o the store', None, None, None, 0), ('or go out for work', None, None, None, 0), ('i know there homes must have windows', None, None, None, 0), ('how is the smog not getting in therer homes', None, None, None, 0), ('i feel like if we keep going the way', None, None, None, 0), ('that we are going', None, None, None, 0), ('we are going to be headed for that also', None, None, None, 0)]

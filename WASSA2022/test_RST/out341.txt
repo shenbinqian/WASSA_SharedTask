@@ -1,0 +1,29 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('no one wants to help the cattle .', None, None, None, 1), ("It 's not their fault", None, None, None, 0), ('that they are feral', None, None, None, 0), ('and mean ,', None, None, None, 0), ("it 's on the original owner .", None, None, None, 1), ('They are out there', None, None, None, 0), ('potentially starving', None, None, None, 0), ('and it seems like everyone wants to sit on their hands or point fingers . Also , who are these people', None, None, None, 0), ('trying to keep them from catching these cows ?', None, None, None, 1), ("Just because they are a supporter of Bundy does n't mean that the animals need to suffer .", None, None, None, 1), ("What 's their deal ? They are n't getting anything from it except possible admiration of a man", None, None, None, 0), ("who does n't care about animals .", None, None, None, 1), ("Does n't seem like a good trade to me .", None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution no one wants to help the cattle .
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate It 's not their fault
+Leaf:  N Joint that they are feral
+Leaf:  N Joint and mean ,
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Evaluation it 's on the original owner .
+Inner:  S span None Evaluation SN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate They are out there
+Leaf:  S span potentially starving
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and it seems like everyone wants to sit on their hands or point fingers . Also , who are these people
+Leaf:  S span trying to keep them from catching these cows ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Evaluation Just because they are a supporter of Bundy does n't mean that the animals need to suffer .
+Leaf:  N Elaborate What 's their deal ? They are n't getting anything from it except possible admiration of a man
+Leaf:  S span who does n't care about animals .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Does n't seem like a good trade to me .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("I ca n't believe", None, None, None, 0), ('no one wants to help the cattle .', None, None, None, 1), ("It 's not their fault", None, None, None, 0), ('that they are feral', None, None, None, 0), ('and mean ,', None, None, None, 0), ("it 's on the original owner .", None, None, None, 1), ('They are out there', None, None, None, 0), ('potentially starving', None, None, None, 0), ('and it seems like everyone wants to sit on their hands or point fingers . Also , who are these people', None, None, None, 0), ('trying to keep them from catching these cows ?', None, None, None, 1), ("Just because they are a supporter of Bundy does n't mean that the animals need to suffer .", None, None, None, 1), ("What 's their deal ? They are n't getting anything from it except possible admiration of a man", None, None, None, 0), ("who does n't care about animals .", None, None, None, 1), ("Does n't seem like a good trade to me .", None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('A high school teacher', None, None, None, 0), ('that compared Trump to Hitler', None, None, None, 0), ('was suspended from teaching', None, None, None, 0), ('and asked to return in a few days .', None, None, None, 1), ('News got out', None, None, None, 0), ("when a student 's parent sent and email to the school and complained about the teachers lesson plan . The teacher however stood his ground", None, None, None, 0), ('and explained', None, None, None, 0), ('that everything', None, None, None, 0), ('he said', None, None, None, 0), ('was not opinion ,', None, None, None, 0), ('and that it was based on facts . The teacher is also an expert on the subject', None, None, None, 0), ('and has been teacher for 40 years . Coincidentally , another similar incident had happen in another school', None, None, None, 0), ('regarding the subject of Trump and Hillary Clinton .', None, None, None, 1)]]
+Leaf:  N Elaborate A high school teacher
+Leaf:  S span that compared Trump to Hitler
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint was suspended from teaching
+Leaf:  N Joint and asked to return in a few days .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Background News got out
+Leaf:  N Joint when a student 's parent sent and email to the school and complained about the teachers lesson plan . The teacher however stood his ground
+Leaf:  S span and explained
+Leaf:  N Elaborate that everything
+Leaf:  S span he said
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was not opinion ,
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and that it was based on facts . The teacher is also an expert on the subject
+Leaf:  N Elaborate and has been teacher for 40 years . Coincidentally , another similar incident had happen in another school
+Leaf:  S span regarding the subject of Trump and Hillary Clinton .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  Root None None Elaborate NS
+[('A high school teacher', None, None, None, 0), ('that compared Trump to Hitler', None, None, None, 0), ('was suspended from teaching', None, None, None, 0), ('and asked to return in a few days .', None, None, None, 1), ('News got out', None, None, None, 0), ("when a student 's parent sent and email to the school and complained about the teachers lesson plan . The teacher however stood his ground", None, None, None, 0), ('and explained', None, None, None, 0), ('that everything', None, None, None, 0), ('he said', None, None, None, 0), ('was not opinion ,', None, None, None, 0), ('and that it was based on facts . The teacher is also an expert on the subject', None, None, None, 0), ('and has been teacher for 40 years . Coincidentally , another similar incident had happen in another school', None, None, None, 0), ('regarding the subject of Trump and Hillary Clinton .', None, None, None, 1)]

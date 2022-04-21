@@ -1,0 +1,21 @@
+=====================> [[('Hey ___ , have you seen this article ?', None, None, None, 1), ('The whole meme of people', None, None, None, 0), ('blaming BLM and racism for attacks on police officers', None, None, None, 0), ('is bs !', None, None, None, 1), ('Apaprently the deathrate of officers in general is at an all time low !', None, None, None, 1), ('Also apparently an officer staged his own death', None, None, None, 0), ('to make it look like a racist attack .', None, None, None, 1), ('That shmuck Ted Cruz declaring', None, None, None, 0), ('that its racism and a targeted thing is so stupid .', None, None, None, 1), ("Especially when the evidence does n't add up .", None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey ___ , have you seen this article ?
+Leaf:  N Elaborate The whole meme of people
+Leaf:  S span blaming BLM and racism for attacks on police officers
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is bs !
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint Apaprently the deathrate of officers in general is at an all time low !
+Leaf:  N Enablement Also apparently an officer staged his own death
+Leaf:  S span to make it look like a racist attack .
+Inner:  N Joint None Enablement NS
+Inner:  N Joint None Joint NN
+Inner:  N Textual-Organization None Joint NN
+Leaf:  S span That shmuck Ted Cruz declaring
+Leaf:  N Attribution that its racism and a targeted thing is so stupid .
+Inner:  N Background None Attribution SN
+Leaf:  S span Especially when the evidence does n't add up .
+Inner:  N Textual-Organization None Background NS
+Inner:  N Textual-Organization None Textual-Organization NN
+Inner:  Root None None Textual-Organization NN
+[('Hey ___ , have you seen this article ?', None, None, None, 1), ('The whole meme of people', None, None, None, 0), ('blaming BLM and racism for attacks on police officers', None, None, None, 0), ('is bs !', None, None, None, 1), ('Apaprently the deathrate of officers in general is at an all time low !', None, None, None, 1), ('Also apparently an officer staged his own death', None, None, None, 0), ('to make it look like a racist attack .', None, None, None, 1), ('That shmuck Ted Cruz declaring', None, None, None, 0), ('that its racism and a targeted thing is so stupid .', None, None, None, 1), ("Especially when the evidence does n't add up .", None, None, None, 1)]

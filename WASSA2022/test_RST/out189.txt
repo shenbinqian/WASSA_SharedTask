@@ -1,0 +1,23 @@
+=====================> [[('I read an article', None, None, None, 0), ('about how one in every ten of Americans experience tinnitus .', None, None, None, 1), ('That is a very high amount .', None, None, None, 1), ('I myself have experienced this as a child .', None, None, None, 1), ('I do not know', None, None, None, 0), ('if tinnitus can be resolved on its own', None, None, None, 0), ('but i have found', None, None, None, 0), ('that i do not experience it as frequently .', None, None, None, 1), ('I would have nights', None, None, None, 0), ("that i could n't sleep", None, None, None, 0), ('because of the constant ringing .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article
+Leaf:  S span about how one in every ten of Americans experience tinnitus .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate That is a very high amount .
+Leaf:  S span I myself have experienced this as a child .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I do not know
+Leaf:  N Attribution if tinnitus can be resolved on its own
+Inner:  S span None Attribution SN
+Leaf:  S span but i have found
+Leaf:  N Attribution that i do not experience it as frequently .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate I would have nights
+Leaf:  N Cause that i could n't sleep
+Leaf:  S span because of the constant ringing .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I read an article', None, None, None, 0), ('about how one in every ten of Americans experience tinnitus .', None, None, None, 1), ('That is a very high amount .', None, None, None, 1), ('I myself have experienced this as a child .', None, None, None, 1), ('I do not know', None, None, None, 0), ('if tinnitus can be resolved on its own', None, None, None, 0), ('but i have found', None, None, None, 0), ('that i do not experience it as frequently .', None, None, None, 1), ('I would have nights', None, None, None, 0), ("that i could n't sleep", None, None, None, 0), ('because of the constant ringing .', None, None, None, 1)]

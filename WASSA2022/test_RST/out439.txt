@@ -1,0 +1,23 @@
+=====================> [[('I really want to go snorkeling someday', None, None, None, 0), ('but after reading this news about 2 people dying', None, None, None, 0), ('while snorkeling', None, None, None, 0), ('kinda has me scared .', None, None, None, 1), ('I wish the guide', None, None, None, 0), ('that were supposed to look after the elderly tourist had kept a eye on them', None, None, None, 0), ('since they had a pre-existing medical condition .', None, None, None, 1), ('It kinda makes me not want to go and fulfill one of my bucket list items', None, None, None, 0), ('because i am scared', None, None, None, 0), ("i wo n't have anyone", None, None, None, 0), ('helping me in-case of emergency .', None, None, None, 1)]]
+Leaf:  S span I really want to go snorkeling someday
+Leaf:  N Background but after reading this news about 2 people dying
+Leaf:  S span while snorkeling
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit kinda has me scared .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate I wish the guide
+Leaf:  S span that were supposed to look after the elderly tourist had kept a eye on them
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span since they had a pre-existing medical condition .
+Inner:  S span None Explanation NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Explanation It kinda makes me not want to go and fulfill one of my bucket list items
+Leaf:  S span because i am scared
+Leaf:  N Elaborate i wo n't have anyone
+Leaf:  S span helping me in-case of emergency .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I really want to go snorkeling someday', None, None, None, 0), ('but after reading this news about 2 people dying', None, None, None, 0), ('while snorkeling', None, None, None, 0), ('kinda has me scared .', None, None, None, 1), ('I wish the guide', None, None, None, 0), ('that were supposed to look after the elderly tourist had kept a eye on them', None, None, None, 0), ('since they had a pre-existing medical condition .', None, None, None, 1), ('It kinda makes me not want to go and fulfill one of my bucket list items', None, None, None, 0), ('because i am scared', None, None, None, 0), ("i wo n't have anyone", None, None, None, 0), ('helping me in-case of emergency .', None, None, None, 1)]

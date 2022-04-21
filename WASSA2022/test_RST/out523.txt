@@ -1,0 +1,19 @@
+=====================> [[("I 'm not okay !", None, None, None, 1), ('How can anyone harm something so defenseless ?', None, None, None, 1), ("It 's so screwed up", None, None, None, 0), ('and it makes me want to go adopt more animals', None, None, None, 0), ('than I can feed .', None, None, None, 1), ("That poor baby ... I 'm pretty sure", None, None, None, 0), ("my day is ruined . Thank goodness for Mr. O'Dell 's humanity in that situation .", None, None, None, 1), ('I probably would have crumpled up in devastation ,', None, None, None, 0), ('I love kitties so much .', None, None, None, 1)]]
+Leaf:  N Evaluation I 'm not okay !
+Leaf:  S span How can anyone harm something so defenseless ?
+Inner:  N Summary None Evaluation NS
+Leaf:  N Cause It 's so screwed up
+Leaf:  N Comparison and it makes me want to go adopt more animals
+Leaf:  S span than I can feed .
+Inner:  S span None Comparison NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span That poor baby ... I 'm pretty sure
+Leaf:  N Attribution my day is ruined . Thank goodness for Mr. O'Dell 's humanity in that situation .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I probably would have crumpled up in devastation ,
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span I love kitties so much .
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("I 'm not okay !", None, None, None, 1), ('How can anyone harm something so defenseless ?', None, None, None, 1), ("It 's so screwed up", None, None, None, 0), ('and it makes me want to go adopt more animals', None, None, None, 0), ('than I can feed .', None, None, None, 1), ("That poor baby ... I 'm pretty sure", None, None, None, 0), ("my day is ruined . Thank goodness for Mr. O'Dell 's humanity in that situation .", None, None, None, 1), ('I probably would have crumpled up in devastation ,', None, None, None, 0), ('I love kitties so much .', None, None, None, 1)]

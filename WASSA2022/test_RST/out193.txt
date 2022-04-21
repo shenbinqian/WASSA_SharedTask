@@ -1,0 +1,23 @@
+=====================> [[('Imagine if your family was captured by Isis and tortured', None, None, None, 0), ('and then dumped into a mass grave', None, None, None, 0), ('...', None, None, None, 1), ("It 's so sad . And for what ? Because of a religion ? I 'm so happy", None, None, None, 0), ('that Trump put an emphasis on destroying Isis .', None, None, None, 1), ('And I hope', None, None, None, 0), ('the survivors in the area know', None, None, None, 0), ('that', None, None, None, 0), ('while Isis seemed like a very powerful group ,', None, None, None, 0), ('that they can be destroyed by the rest of the world .', None, None, None, 1), ('And next time , maybe there will be more resistance to their evil actions .', None, None, None, 1)]]
+Leaf:  N Temporal Imagine if your family was captured by Isis and tortured
+Leaf:  N Temporal and then dumped into a mass grave
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span ...
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It 's so sad . And for what ? Because of a religion ? I 'm so happy
+Leaf:  N Attribution that Trump put an emphasis on destroying Isis .
+Inner:  N Joint None Attribution SN
+Leaf:  S span And I hope
+Leaf:  S span the survivors in the area know
+Leaf:  N Same-Unit that
+Leaf:  S span while Isis seemed like a very powerful group ,
+Leaf:  N Contrast that they can be destroyed by the rest of the world .
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint And next time , maybe there will be more resistance to their evil actions .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Imagine if your family was captured by Isis and tortured', None, None, None, 0), ('and then dumped into a mass grave', None, None, None, 0), ('...', None, None, None, 1), ("It 's so sad . And for what ? Because of a religion ? I 'm so happy", None, None, None, 0), ('that Trump put an emphasis on destroying Isis .', None, None, None, 1), ('And I hope', None, None, None, 0), ('the survivors in the area know', None, None, None, 0), ('that', None, None, None, 0), ('while Isis seemed like a very powerful group ,', None, None, None, 0), ('that they can be destroyed by the rest of the world .', None, None, None, 1), ('And next time , maybe there will be more resistance to their evil actions .', None, None, None, 1)]
