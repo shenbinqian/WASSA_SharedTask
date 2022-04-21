@@ -1,0 +1,37 @@
+=====================> [[('Hey hun !', None, None, None, 1), ('I was just reading this article about a family of 3 young black boys', None, None, None, 0), ('who went through foster care', None, None, None, 0), ('and ended up in prison later on in life ,', None, None, None, 0), ('and it made me want to share it with you .', None, None, None, 1), ('It breaks my heart knowing this probably happens all the time in our country !', None, None, None, 1), ('That there are kids', None, None, None, 0), ('who , through no fault of their own , are set on a path', None, None, None, 0), ('that ultimately leads to their downfall and punishment later in life !', None, None, None, 1), ('There need to be changes made to the foster system', None, None, None, 0), ('so that there are more homes available and counselling for these kids', None, None, None, 0), ('so that they can learn at an early age', None, None, None, 0), ('to deal with the things', None, None, None, 0), ('they are going through', None, None, None, 0), ('instead of internalizing it all', None, None, None, 0), ('and becoming angry and bitter .', None, None, None, 1), ('What do you think ? Maybe we could write some letters', None, None, None, 0), ('to get people thinking about this situation !', None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey hun !
+Leaf:  N Elaborate I was just reading this article about a family of 3 young black boys
+Leaf:  N Temporal who went through foster care
+Leaf:  N Temporal and ended up in prison later on in life ,
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Leaf:  N Cause and it made me want to share it with you .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Explanation It breaks my heart knowing this probably happens all the time in our country !
+Leaf:  N Elaborate That there are kids
+Leaf:  N Elaborate who , through no fault of their own , are set on a path
+Leaf:  S span that ultimately leads to their downfall and punishment later in life !
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Enablement There need to be changes made to the foster system
+Leaf:  S span so that there are more homes available and counselling for these kids
+Inner:  N Enablement None Enablement NS
+Leaf:  N Enablement so that they can learn at an early age
+Leaf:  N Elaborate to deal with the things
+Leaf:  S span they are going through
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Enablement NS
+Leaf:  N Joint instead of internalizing it all
+Leaf:  N Joint and becoming angry and bitter .
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Enablement What do you think ? Maybe we could write some letters
+Leaf:  S span to get people thinking about this situation !
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Hey hun !', None, None, None, 1), ('I was just reading this article about a family of 3 young black boys', None, None, None, 0), ('who went through foster care', None, None, None, 0), ('and ended up in prison later on in life ,', None, None, None, 0), ('and it made me want to share it with you .', None, None, None, 1), ('It breaks my heart knowing this probably happens all the time in our country !', None, None, None, 1), ('That there are kids', None, None, None, 0), ('who , through no fault of their own , are set on a path', None, None, None, 0), ('that ultimately leads to their downfall and punishment later in life !', None, None, None, 1), ('There need to be changes made to the foster system', None, None, None, 0), ('so that there are more homes available and counselling for these kids', None, None, None, 0), ('so that they can learn at an early age', None, None, None, 0), ('to deal with the things', None, None, None, 0), ('they are going through', None, None, None, 0), ('instead of internalizing it all', None, None, None, 0), ('and becoming angry and bitter .', None, None, None, 1), ('What do you think ? Maybe we could write some letters', None, None, None, 0), ('to get people thinking about this situation !', None, None, None, 1)]

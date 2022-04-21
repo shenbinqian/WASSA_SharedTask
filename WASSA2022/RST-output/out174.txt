@@ -1,0 +1,25 @@
+=====================> [[('This is a nice story', None, None, None, 0), ('- people have some level of need', None, None, None, 0), ('to protect nature', None, None, None, 0), ('and protecting birds is an excellent way', None, None, None, 0), ('of giving back ,', None, None, None, 0), ('especiailly since some are endangered .', None, None, None, 1), ('I have to commend this person', None, None, None, 0), ('for trying really hard to protect one species ,', None, None, None, 0), ('and for committing to it .', None, None, None, 1), ('I myself would have a difficult time', None, None, None, 0), ('choosing what to hel pwith', None, None, None, 0), ('- but this person doesnt !', None, None, None, 1)]]
+Leaf:  N Evaluation This is a nice story
+Leaf:  N Elaborate - people have some level of need
+Leaf:  S span to protect nature
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and protecting birds is an excellent way
+Leaf:  N Background of giving back ,
+Leaf:  S span especiailly since some are endangered .
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I have to commend this person
+Leaf:  N Joint for trying really hard to protect one species ,
+Leaf:  N Joint and for committing to it .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I myself would have a difficult time
+Leaf:  S span choosing what to hel pwith
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast - but this person doesnt !
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is a nice story', None, None, None, 0), ('- people have some level of need', None, None, None, 0), ('to protect nature', None, None, None, 0), ('and protecting birds is an excellent way', None, None, None, 0), ('of giving back ,', None, None, None, 0), ('especiailly since some are endangered .', None, None, None, 1), ('I have to commend this person', None, None, None, 0), ('for trying really hard to protect one species ,', None, None, None, 0), ('and for committing to it .', None, None, None, 1), ('I myself would have a difficult time', None, None, None, 0), ('choosing what to hel pwith', None, None, None, 0), ('- but this person doesnt !', None, None, None, 1)]

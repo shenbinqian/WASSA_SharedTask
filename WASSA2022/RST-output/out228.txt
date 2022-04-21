@@ -1,0 +1,25 @@
+=====================> [[('Hello , how have you been lately ?', None, None, None, 1), ('I am curious about an article', None, None, None, 0), ('I read recently ,', None, None, None, 0), ('said', None, None, None, 0), ('that an Instagram publication of a mother reached almost 400 " likes " in her account and more than 800 " likes " in the account of the 4th quarter of the Bodies Project .', None, None, None, 1), ('Birth Without Fear also published his photo on Facebook ,', None, None, None, 0), ('where he reached more than 6,000 likes. ,', None, None, None, 0), ('I realized', None, None, None, 0), ('that the article had a problem', None, None, None, 0), ('that interested me more ,', None, None, None, 0), ('because of the events', None, None, None, 0), ('that were happening in this one .', None, None, None, 1)]]
+Leaf:  N Topic-Comment Hello , how have you been lately ?
+Leaf:  N Elaborate I am curious about an article
+Leaf:  S span I read recently ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span said
+Leaf:  N Attribution that an Instagram publication of a mother reached almost 400 " likes " in her account and more than 800 " likes " in the account of the 4th quarter of the Bodies Project .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate Birth Without Fear also published his photo on Facebook ,
+Leaf:  S span where he reached more than 6,000 likes. ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I realized
+Leaf:  N Elaborate that the article had a problem
+Leaf:  S span that interested me more ,
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate because of the events
+Leaf:  S span that were happening in this one .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('Hello , how have you been lately ?', None, None, None, 1), ('I am curious about an article', None, None, None, 0), ('I read recently ,', None, None, None, 0), ('said', None, None, None, 0), ('that an Instagram publication of a mother reached almost 400 " likes " in her account and more than 800 " likes " in the account of the 4th quarter of the Bodies Project .', None, None, None, 1), ('Birth Without Fear also published his photo on Facebook ,', None, None, None, 0), ('where he reached more than 6,000 likes. ,', None, None, None, 0), ('I realized', None, None, None, 0), ('that the article had a problem', None, None, None, 0), ('that interested me more ,', None, None, None, 0), ('because of the events', None, None, None, 0), ('that were happening in this one .', None, None, None, 1)]

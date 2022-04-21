@@ -1,0 +1,23 @@
+=====================> [[('Passing this article along to you', None, None, None, 0), ('because I know', None, None, None, 0), ('you will think', None, None, None, 0), ('this is absurd .', None, None, None, 1), ('Gay men are not being allowed to donate blood to the victims of the Pulse Nightclub shooting .', None, None, None, 1), ("Is n't that crazy !", None, None, None, 1), ('Apparently , outdated rules put them at high risk for HIV', None, None, None, 0), ('and they can not donate for fear of spreading HIV .', None, None, None, 1), ('This is super discriminatory', None, None, None, 0), ('as HIV is not just found in gay men .', None, None, None, 1), ('People instead should be appropriately tested for HIV .', None, None, None, 1)]]
+Leaf:  N Background Passing this article along to you
+Leaf:  S span because I know
+Leaf:  S span you will think
+Leaf:  N Attribution this is absurd .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Background NS
+Leaf:  N Evaluation Gay men are not being allowed to donate blood to the victims of the Pulse Nightclub shooting .
+Leaf:  S span Is n't that crazy !
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Apparently , outdated rules put them at high risk for HIV
+Leaf:  N Joint and they can not donate for fear of spreading HIV .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate This is super discriminatory
+Leaf:  S span as HIV is not just found in gay men .
+Inner:  N Comparison None Elaborate NS
+Leaf:  N Comparison People instead should be appropriately tested for HIV .
+Inner:  S span None Comparison NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Passing this article along to you', None, None, None, 0), ('because I know', None, None, None, 0), ('you will think', None, None, None, 0), ('this is absurd .', None, None, None, 1), ('Gay men are not being allowed to donate blood to the victims of the Pulse Nightclub shooting .', None, None, None, 1), ("Is n't that crazy !", None, None, None, 1), ('Apparently , outdated rules put them at high risk for HIV', None, None, None, 0), ('and they can not donate for fear of spreading HIV .', None, None, None, 1), ('This is super discriminatory', None, None, None, 0), ('as HIV is not just found in gay men .', None, None, None, 1), ('People instead should be appropriately tested for HIV .', None, None, None, 1)]

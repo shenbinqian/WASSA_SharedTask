@@ -1,0 +1,21 @@
+=====================> [[("Hey , are n't you from the south ?", None, None, None, 1), ('Have you had any issues with wildfires in your area', None, None, None, 0), ("? There 's all this talk about forest fires and droughts in California ,", None, None, None, 0), ('but this is the first time', None, None, None, 0), ("I 've heard about stuff", None, None, None, 0), ('going down in your area .', None, None, None, 1), ('Everything okay down there ? Make sure you stay safe !', None, None, None, 1), ('I know', None, None, None, 0), ("you do n't go out much ,", None, None, None, 0), ("but it does n't take much to have a disaster to fall on your doorstep .", None, None, None, 1)]]
+Leaf:  N Joint Hey , are n't you from the south ?
+Leaf:  N Textual-Organization Have you had any issues with wildfires in your area
+Leaf:  S span ? There 's all this talk about forest fires and droughts in California ,
+Leaf:  N Elaborate but this is the first time
+Leaf:  N Elaborate I 've heard about stuff
+Leaf:  S span going down in your area .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Textual-Organization None Contrast SN
+Inner:  N Elaborate None Textual-Organization NN
+Leaf:  S span Everything okay down there ? Make sure you stay safe !
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I know
+Leaf:  N Attribution you do n't go out much ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it does n't take much to have a disaster to fall on your doorstep .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[("Hey , are n't you from the south ?", None, None, None, 1), ('Have you had any issues with wildfires in your area', None, None, None, 0), ("? There 's all this talk about forest fires and droughts in California ,", None, None, None, 0), ('but this is the first time', None, None, None, 0), ("I 've heard about stuff", None, None, None, 0), ('going down in your area .', None, None, None, 1), ('Everything okay down there ? Make sure you stay safe !', None, None, None, 1), ('I know', None, None, None, 0), ("you do n't go out much ,", None, None, None, 0), ("but it does n't take much to have a disaster to fall on your doorstep .", None, None, None, 1)]

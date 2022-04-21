@@ -1,0 +1,21 @@
+=====================> [[('I had never heard of people shaming women', None, None, None, 0), ('who give birth by C section .', None, None, None, 1), ('This is one of the dumbest things', None, None, None, 0), ("I 've ever heard .", None, None, None, 1), ("I 'm sure", None, None, None, 0), ('the majority of C sections are medically required', None, None, None, 0), ('to help the mother and the baby ,', None, None, None, 0), ('not because women are just so eager to undergo major surgery .', None, None, None, 1), ('Why do people even care', None, None, None, 0), ('if someone gave birth by C section instead of natural birth anyway .', None, None, None, 1)]]
+Leaf:  N Elaborate I had never heard of people shaming women
+Leaf:  S span who give birth by C section .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is one of the dumbest things
+Leaf:  S span I 've ever heard .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm sure
+Leaf:  N Enablement the majority of C sections are medically required
+Leaf:  S span to help the mother and the baby ,
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint not because women are just so eager to undergo major surgery .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition Why do people even care
+Leaf:  S span if someone gave birth by C section instead of natural birth anyway .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I had never heard of people shaming women', None, None, None, 0), ('who give birth by C section .', None, None, None, 1), ('This is one of the dumbest things', None, None, None, 0), ("I 've ever heard .", None, None, None, 1), ("I 'm sure", None, None, None, 0), ('the majority of C sections are medically required', None, None, None, 0), ('to help the mother and the baby ,', None, None, None, 0), ('not because women are just so eager to undergo major surgery .', None, None, None, 1), ('Why do people even care', None, None, None, 0), ('if someone gave birth by C section instead of natural birth anyway .', None, None, None, 1)]

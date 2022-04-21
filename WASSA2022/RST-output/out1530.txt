@@ -1,0 +1,25 @@
+=====================> [[('it funny how people do stupid things', None, None, None, 0), ('that just pop into their mind', None, None, None, 0), ('like taking a topless selfie', None, None, None, 0), ('while driving', None, None, None, 0), ('just to send it to the other person .', None, None, None, 1), ('seriously if u want to do that just park the car at the site', None, None, None, 0), ('and do it ,', None, None, None, 0), ('it not ur live', None, None, None, 0), ('that u are putting in danger ,', None, None, None, 0), ('it also other ppl live', None, None, None, 0), ('thatu can easily ruined', None, None, None, 0), ('if u dont drive carefully', None, None, None, 0)]]
+Leaf:  N Elaborate it funny how people do stupid things
+Leaf:  S span that just pop into their mind
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal like taking a topless selfie
+Leaf:  S span while driving
+Inner:  N Enablement None Temporal NS
+Leaf:  S span just to send it to the other person .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint seriously if u want to do that just park the car at the site
+Leaf:  N Joint and do it ,
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate it not ur live
+Leaf:  S span that u are putting in danger ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate it also other ppl live
+Leaf:  N Condition thatu can easily ruined
+Leaf:  S span if u dont drive carefully
+Inner:  S span None Condition NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('it funny how people do stupid things', None, None, None, 0), ('that just pop into their mind', None, None, None, 0), ('like taking a topless selfie', None, None, None, 0), ('while driving', None, None, None, 0), ('just to send it to the other person .', None, None, None, 1), ('seriously if u want to do that just park the car at the site', None, None, None, 0), ('and do it ,', None, None, None, 0), ('it not ur live', None, None, None, 0), ('that u are putting in danger ,', None, None, None, 0), ('it also other ppl live', None, None, None, 0), ('thatu can easily ruined', None, None, None, 0), ('if u dont drive carefully', None, None, None, 0)]

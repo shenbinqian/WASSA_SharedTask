@@ -1,0 +1,27 @@
+=====================> [[('Well , this is frustrating .', None, None, None, 1), ('Not only will the new law not really help ,', None, None, None, 0), ("but it does n't sound like anything will help .", None, None, None, 1), ("It 's a good point ,", None, None, None, 0), ('about having to get the fishers on board with saving the paquita ,', None, None, None, 0), ("but I do n't know how to convince them .", None, None, None, 1), ('If it came down to feeding my family or saving a handful of dolphins', None, None, None, 0), ('that are probably going to die out anyway ,', None, None, None, 0), ("there 's a good chance I 'd pick my family . The story 's a year or two old", None, None, None, 0), ('-- so', None, None, None, 0), ("once I 've finished doing what I 'm doing ,", None, None, None, 0), ("I 'm going to look up the paquita", None, None, None, 0), ("and see what 's happened since then .", None, None, None, 1)]]
+Leaf:  N Explanation Well , this is frustrating .
+Leaf:  N Joint Not only will the new law not really help ,
+Leaf:  N Joint but it does n't sound like anything will help .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It 's a good point ,
+Leaf:  S span about having to get the fishers on board with saving the paquita ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but I do n't know how to convince them .
+Inner:  S span None Contrast SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate If it came down to feeding my family or saving a handful of dolphins
+Leaf:  S span that are probably going to die out anyway ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition there 's a good chance I 'd pick my family . The story 's a year or two old
+Inner:  N Temporal None Condition SN
+Leaf:  N Same-Unit -- so
+Leaf:  S span once I 've finished doing what I 'm doing ,
+Leaf:  N Temporal I 'm going to look up the paquita
+Leaf:  N Temporal and see what 's happened since then .
+Inner:  N Background None Temporal NN
+Inner:  N Same-Unit None Background SN
+Inner:  N Temporal None Same-Unit NN
+Inner:  S span None Temporal NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('Well , this is frustrating .', None, None, None, 1), ('Not only will the new law not really help ,', None, None, None, 0), ("but it does n't sound like anything will help .", None, None, None, 1), ("It 's a good point ,", None, None, None, 0), ('about having to get the fishers on board with saving the paquita ,', None, None, None, 0), ("but I do n't know how to convince them .", None, None, None, 1), ('If it came down to feeding my family or saving a handful of dolphins', None, None, None, 0), ('that are probably going to die out anyway ,', None, None, None, 0), ("there 's a good chance I 'd pick my family . The story 's a year or two old", None, None, None, 0), ('-- so', None, None, None, 0), ("once I 've finished doing what I 'm doing ,", None, None, None, 0), ("I 'm going to look up the paquita", None, None, None, 0), ("and see what 's happened since then .", None, None, None, 1)]

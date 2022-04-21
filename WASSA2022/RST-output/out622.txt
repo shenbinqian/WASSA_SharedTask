@@ -1,0 +1,29 @@
+=====================> [[('Hey , I was just reading an article about that house fire', None, None, None, 0), ('that happened in WV .', None, None, None, 1), ('Can you imagine the tragedy ?', None, None, None, 1), ('That is such a horrible way', None, None, None, 0), ('to die .', None, None, None, 1), ('And to think', None, None, None, 0), ('that two of the victims were children plus their dog .', None, None, None, 1), ('It makes me ill just thinking about it . Such a huge loss for that family and the community .', None, None, None, 1), ('I hope', None, None, None, 0), ('officials find out soon', None, None, None, 0), ('what caused it', None, None, None, 0), ('and I pray for the friends and family of those', None, None, None, 0), ('who were killed .', None, None, None, 1), ('So sad !', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I was just reading an article about that house fire
+Leaf:  S span that happened in WV .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Can you imagine the tragedy ?
+Leaf:  N Elaborate That is such a horrible way
+Leaf:  S span to die .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span And to think
+Leaf:  N Attribution that two of the victims were children plus their dog .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It makes me ill just thinking about it . Such a huge loss for that family and the community .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I hope
+Leaf:  S span officials find out soon
+Leaf:  N Attribution what caused it
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and I pray for the friends and family of those
+Leaf:  S span who were killed .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span So sad !
+Inner:  Root None None Evaluation NS
+[('Hey , I was just reading an article about that house fire', None, None, None, 0), ('that happened in WV .', None, None, None, 1), ('Can you imagine the tragedy ?', None, None, None, 1), ('That is such a horrible way', None, None, None, 0), ('to die .', None, None, None, 1), ('And to think', None, None, None, 0), ('that two of the victims were children plus their dog .', None, None, None, 1), ('It makes me ill just thinking about it . Such a huge loss for that family and the community .', None, None, None, 1), ('I hope', None, None, None, 0), ('officials find out soon', None, None, None, 0), ('what caused it', None, None, None, 0), ('and I pray for the friends and family of those', None, None, None, 0), ('who were killed .', None, None, None, 1), ('So sad !', None, None, None, 1)]

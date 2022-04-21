@@ -1,0 +1,19 @@
+=====================> [[("the eldest generation of russians are n't being treated properly", None, None, None, 0), ('and should have some sort of financial compensation .', None, None, None, 1), ('they are living off very little per day financially', None, None, None, 0), ('and live in poor conditions .', None, None, None, 1), ('after paying utilities ,', None, None, None, 0), ('they barely have enough for food .', None, None, None, 1), ('health care has also taken a turn for the worse', None, None, None, 0), ("because they ca n't afford to get proper health treatment", None, None, None, 0), ('due to the costs involved', None, None, None, 0)]]
+Leaf:  S span the eldest generation of russians are n't being treated properly
+Leaf:  N Background and should have some sort of financial compensation .
+Inner:  N Elaborate None Background SN
+Leaf:  N Joint they are living off very little per day financially
+Leaf:  N Joint and live in poor conditions .
+Inner:  N Same-Unit None Joint NN
+Leaf:  S span after paying utilities ,
+Leaf:  N Background they barely have enough for food .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause health care has also taken a turn for the worse
+Leaf:  N Cause because they ca n't afford to get proper health treatment
+Leaf:  S span due to the costs involved
+Inner:  S span None Cause NS
+Inner:  N Joint None Cause NS
+Inner:  Root None None Joint NN
+[("the eldest generation of russians are n't being treated properly", None, None, None, 0), ('and should have some sort of financial compensation .', None, None, None, 1), ('they are living off very little per day financially', None, None, None, 0), ('and live in poor conditions .', None, None, None, 1), ('after paying utilities ,', None, None, None, 0), ('they barely have enough for food .', None, None, None, 1), ('health care has also taken a turn for the worse', None, None, None, 0), ("because they ca n't afford to get proper health treatment", None, None, None, 0), ('due to the costs involved', None, None, None, 0)]

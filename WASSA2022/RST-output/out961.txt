@@ -1,0 +1,39 @@
+=====================> [[('Hey , I think', None, None, None, 0), ('you should be careful around the Canonsburg area next time', None, None, None, 0), ('you visit Pennsylvania .', None, None, None, 1), ('The crime has been increasingly more dangerous within the past few years .', None, None, None, 1), ('According to this article', None, None, None, 0), ('that I read online ,', None, None, None, 0), ('a police officer was shot to death and another police officer was injured in an ambush .', None, None, None, 1), ('I feel', None, None, None, 0), ('that', None, None, None, 0), ('if you were to come down', None, None, None, 0), ('to visit the area ,', None, None, None, 0), ('then there would be something similar happening to other people . Ambushes , riots , and shootings are all problems', None, None, None, 0), ('occurring in the area .', None, None, None, 1), ('I feel bad for this city', None, None, None, 0), ('as it has a chance', None, None, None, 0), ('to redeem itself as a great city ;', None, None, None, 0), ('however ,', None, None, None, 0), ('with all the criminal activities happening ,', None, None, None, 0), ('it makes it difficult to do that .', None, None, None, 1)]]
+Leaf:  S span Hey , I think
+Leaf:  N Elaborate you should be careful around the Canonsburg area next time
+Leaf:  S span you visit Pennsylvania .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Explanation The crime has been increasingly more dangerous within the past few years .
+Leaf:  N Elaborate According to this article
+Leaf:  S span that I read online ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit a police officer was shot to death and another police officer was injured in an ambush .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I feel
+Leaf:  N Same-Unit that
+Leaf:  N Enablement if you were to come down
+Leaf:  S span to visit the area ,
+Inner:  S span None Enablement NS
+Leaf:  N Elaborate then there would be something similar happening to other people . Ambushes , riots , and shootings are all problems
+Leaf:  S span occurring in the area .
+Inner:  N Condition None Elaborate NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation I feel bad for this city
+Leaf:  N Elaborate as it has a chance
+Leaf:  S span to redeem itself as a great city ;
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Leaf:  N Same-Unit however ,
+Leaf:  S span with all the criminal activities happening ,
+Leaf:  N Cause it makes it difficult to do that .
+Inner:  N Same-Unit None Cause SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Hey , I think', None, None, None, 0), ('you should be careful around the Canonsburg area next time', None, None, None, 0), ('you visit Pennsylvania .', None, None, None, 1), ('The crime has been increasingly more dangerous within the past few years .', None, None, None, 1), ('According to this article', None, None, None, 0), ('that I read online ,', None, None, None, 0), ('a police officer was shot to death and another police officer was injured in an ambush .', None, None, None, 1), ('I feel', None, None, None, 0), ('that', None, None, None, 0), ('if you were to come down', None, None, None, 0), ('to visit the area ,', None, None, None, 0), ('then there would be something similar happening to other people . Ambushes , riots , and shootings are all problems', None, None, None, 0), ('occurring in the area .', None, None, None, 1), ('I feel bad for this city', None, None, None, 0), ('as it has a chance', None, None, None, 0), ('to redeem itself as a great city ;', None, None, None, 0), ('however ,', None, None, None, 0), ('with all the criminal activities happening ,', None, None, None, 0), ('it makes it difficult to do that .', None, None, None, 1)]

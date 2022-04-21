@@ -1,0 +1,23 @@
+=====================> [[('Hello , I thought', None, None, None, 0), ('this behavior was a thing of the past ,', None, None, None, 0), ('but read this article ,', None, None, None, 0), ('it is rather enlightening .', None, None, None, 1), ('I often think', None, None, None, 0), ('here in the US there is a great divide on how racial issues are dealt with ,', None, None, None, 0), ('and the US is not the only one .', None, None, None, 1), ('There are many racial problems in other countries', None, None, None, 0), ('and that makes me feel hopeless for the future .', None, None, None, 1), ("If we ca n't fix the issues here in America ,", None, None, None, 0), ('how can we critizice other countries ?', None, None, None, 1)]]
+Leaf:  S span Hello , I thought
+Leaf:  N Attribution this behavior was a thing of the past ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but read this article ,
+Leaf:  N Evaluation it is rather enlightening .
+Inner:  N Contrast None Evaluation SN
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span I often think
+Leaf:  N Joint here in the US there is a great divide on how racial issues are dealt with ,
+Leaf:  N Joint and the US is not the only one .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Cause There are many racial problems in other countries
+Leaf:  S span and that makes me feel hopeless for the future .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If we ca n't fix the issues here in America ,
+Leaf:  N Condition how can we critizice other countries ?
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hello , I thought', None, None, None, 0), ('this behavior was a thing of the past ,', None, None, None, 0), ('but read this article ,', None, None, None, 0), ('it is rather enlightening .', None, None, None, 1), ('I often think', None, None, None, 0), ('here in the US there is a great divide on how racial issues are dealt with ,', None, None, None, 0), ('and the US is not the only one .', None, None, None, 1), ('There are many racial problems in other countries', None, None, None, 0), ('and that makes me feel hopeless for the future .', None, None, None, 1), ("If we ca n't fix the issues here in America ,", None, None, None, 0), ('how can we critizice other countries ?', None, None, None, 1)]

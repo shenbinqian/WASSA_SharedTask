@@ -1,0 +1,25 @@
+=====================> [[('This is a terrible story .', None, None, None, 1), ('In a way , I feel happy', None, None, None, 0), ('that the child no longer has to suffer .', None, None, None, 1), ('Had the child lived', None, None, None, 0), ('he would be mess for the rest of his life .', None, None, None, 1), ('I am just angry at the mother .', None, None, None, 1), ('This is what happens', None, None, None, 0), ('when a state has weak laws .', None, None, None, 1), ('She is only facing 15 years for what she did .', None, None, None, 1), ('She should be given the death penalty .', None, None, None, 1), ('I am disgusted with the legal system .', None, None, None, 1), ("Thank God I do n't live in California .", None, None, None, 1)]]
+Leaf:  N Evaluation This is a terrible story .
+Leaf:  S span In a way , I feel happy
+Leaf:  N Attribution that the child no longer has to suffer .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Had the child lived
+Leaf:  N Condition he would be mess for the rest of his life .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am just angry at the mother .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Background This is what happens
+Leaf:  S span when a state has weak laws .
+Inner:  N Elaborate None Background NS
+Leaf:  N Evaluation She is only facing 15 years for what she did .
+Leaf:  S span She should be given the death penalty .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I am disgusted with the legal system .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Thank God I do n't live in California .
+Inner:  Root None None Evaluation NS
+[('This is a terrible story .', None, None, None, 1), ('In a way , I feel happy', None, None, None, 0), ('that the child no longer has to suffer .', None, None, None, 1), ('Had the child lived', None, None, None, 0), ('he would be mess for the rest of his life .', None, None, None, 1), ('I am just angry at the mother .', None, None, None, 1), ('This is what happens', None, None, None, 0), ('when a state has weak laws .', None, None, None, 1), ('She is only facing 15 years for what she did .', None, None, None, 1), ('She should be given the death penalty .', None, None, None, 1), ('I am disgusted with the legal system .', None, None, None, 1), ("Thank God I do n't live in California .", None, None, None, 1)]

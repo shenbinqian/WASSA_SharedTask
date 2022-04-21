@@ -1,0 +1,19 @@
+=====================> [[('It looks like a little boy got hit with a bottle at the sports game .', None, None, None, 1), ('What strikes me funny is that they \'re calling it " abhorent "', None, None, None, 0), ('but the bit', None, None, None, 0), ('about the kid', None, None, None, 0), ('just said', None, None, None, 0), ('" may be left with a scar . " Oh man , an 11 year old with a scar is pretty terrifying .', None, None, None, 1), ('At least he got a good story out of it .', None, None, None, 1), ("It 's a shame ,", None, None, None, 0), ('but what do you expect at headed sporting events ?', None, None, None, 1)]]
+Leaf:  N Evaluation It looks like a little boy got hit with a bottle at the sports game .
+Leaf:  S span What strikes me funny is that they 're calling it " abhorent "
+Leaf:  N Elaborate but the bit
+Leaf:  S span about the kid
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit just said
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution " may be left with a scar . " Oh man , an 11 year old with a scar is pretty terrifying .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span At least he got a good story out of it .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation It 's a shame ,
+Leaf:  S span but what do you expect at headed sporting events ?
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It looks like a little boy got hit with a bottle at the sports game .', None, None, None, 1), ('What strikes me funny is that they \'re calling it " abhorent "', None, None, None, 0), ('but the bit', None, None, None, 0), ('about the kid', None, None, None, 0), ('just said', None, None, None, 0), ('" may be left with a scar . " Oh man , an 11 year old with a scar is pretty terrifying .', None, None, None, 1), ('At least he got a good story out of it .', None, None, None, 1), ("It 's a shame ,", None, None, None, 0), ('but what do you expect at headed sporting events ?', None, None, None, 1)]

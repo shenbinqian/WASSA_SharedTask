@@ -1,0 +1,17 @@
+=====================> [[('This shooting is a good example', None, None, None, 0), ('of how black people and people w are wrongly prosecuted by the police .', None, None, None, 1), ('Now in this articles this gentlemen is getting a re-trial', None, None, None, 0), ('since they concur', None, None, None, 0), ("that he did n't do such thing", None, None, None, 0), ('and basically had the police lying to the judge .', None, None, None, 1), ('Now he can be fairly be judged', None, None, None, 0), ('and not be discriminated', None, None, None, 0)]]
+Leaf:  N Elaborate This shooting is a good example
+Leaf:  S span of how black people and people w are wrongly prosecuted by the police .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Now in this articles this gentlemen is getting a re-trial
+Leaf:  S span since they concur
+Leaf:  N Attribution that he did n't do such thing
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and basically had the police lying to the judge .
+Inner:  S span None Joint NN
+Inner:  N Cause None Explanation NS
+Leaf:  N Joint Now he can be fairly be judged
+Leaf:  N Joint and not be discriminated
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('This shooting is a good example', None, None, None, 0), ('of how black people and people w are wrongly prosecuted by the police .', None, None, None, 1), ('Now in this articles this gentlemen is getting a re-trial', None, None, None, 0), ('since they concur', None, None, None, 0), ("that he did n't do such thing", None, None, None, 0), ('and basically had the police lying to the judge .', None, None, None, 1), ('Now he can be fairly be judged', None, None, None, 0), ('and not be discriminated', None, None, None, 0)]

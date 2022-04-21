@@ -1,0 +1,27 @@
+=====================> [[('Wow , what an amazing story .', None, None, None, 1), ('I had no idea', None, None, None, 0), ('that the zika virus could cause such horrific developmental problems in children .', None, None, None, 1), ('As a parent of 2 myself , nothing scares me more', None, None, None, 0), ('than to think about all the horrible things', None, None, None, 0), ('that could happen to my kids in this world ,', None, None, None, 0), ('and what I would do', None, None, None, 0), ('to prevent them from having to endure such things . What a terrible disease , and one', None, None, None, 0), ('that we know so little about', None, None, None, 0), ('and have essentially no real medicine type treatment for !', None, None, None, 1), ("I 'm sure it 's only a matter of time", None, None, None, 0), ("before this makes it 's way closer to where I live !", None, None, None, 1), ('Scary !', None, None, None, 1)]]
+Leaf:  N Explanation Wow , what an amazing story .
+Leaf:  S span I had no idea
+Leaf:  N Attribution that the zika virus could cause such horrific developmental problems in children .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Comparison As a parent of 2 myself , nothing scares me more
+Leaf:  N Elaborate than to think about all the horrible things
+Leaf:  S span that could happen to my kids in this world ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Comparison NS
+Leaf:  N Enablement and what I would do
+Leaf:  N Elaborate to prevent them from having to endure such things . What a terrible disease , and one
+Leaf:  N Joint that we know so little about
+Leaf:  N Joint and have essentially no real medicine type treatment for !
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I 'm sure it 's only a matter of time
+Leaf:  N Background before this makes it 's way closer to where I live !
+Inner:  N Evaluation None Background SN
+Leaf:  S span Scary !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow , what an amazing story .', None, None, None, 1), ('I had no idea', None, None, None, 0), ('that the zika virus could cause such horrific developmental problems in children .', None, None, None, 1), ('As a parent of 2 myself , nothing scares me more', None, None, None, 0), ('than to think about all the horrible things', None, None, None, 0), ('that could happen to my kids in this world ,', None, None, None, 0), ('and what I would do', None, None, None, 0), ('to prevent them from having to endure such things . What a terrible disease , and one', None, None, None, 0), ('that we know so little about', None, None, None, 0), ('and have essentially no real medicine type treatment for !', None, None, None, 1), ("I 'm sure it 's only a matter of time", None, None, None, 0), ("before this makes it 's way closer to where I live !", None, None, None, 1), ('Scary !', None, None, None, 1)]

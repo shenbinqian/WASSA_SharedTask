@@ -1,0 +1,21 @@
+=====================> [[('I hate', None, None, None, 0), ('when these type of things happen .', None, None, None, 1), ('I mean , we trust these people with our information , private information ,', None, None, None, 0), ('and somehow it just gets hacked ?', None, None, None, 1), ('Someone obtained it', None, None, None, 0), ('and now is threathing to sell it to the public ?', None, None, None, 1), ('This is unbearable right now .', None, None, None, 1), ('They should have a secure way', None, None, None, 0), ('to protect the information', None, None, None, 0), ('we provide', None, None, None, 0)]]
+Leaf:  N Condition I hate
+Leaf:  S span when these type of things happen .
+Inner:  N Explanation None Condition NS
+Leaf:  N Temporal I mean , we trust these people with our information , private information ,
+Leaf:  N Temporal and somehow it just gets hacked ?
+Inner:  S span None Temporal NN
+Inner:  N Topic-Change None Explanation NS
+Leaf:  N Temporal Someone obtained it
+Leaf:  N Temporal and now is threathing to sell it to the public ?
+Inner:  N Topic-Change None Temporal NN
+Inner:  N Evaluation None Topic-Change NN
+Leaf:  N Evaluation This is unbearable right now .
+Leaf:  N Elaborate They should have a secure way
+Leaf:  N Elaborate to protect the information
+Leaf:  S span we provide
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I hate', None, None, None, 0), ('when these type of things happen .', None, None, None, 1), ('I mean , we trust these people with our information , private information ,', None, None, None, 0), ('and somehow it just gets hacked ?', None, None, None, 1), ('Someone obtained it', None, None, None, 0), ('and now is threathing to sell it to the public ?', None, None, None, 1), ('This is unbearable right now .', None, None, None, 1), ('They should have a secure way', None, None, None, 0), ('to protect the information', None, None, None, 0), ('we provide', None, None, None, 0)]

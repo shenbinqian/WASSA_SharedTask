@@ -1,0 +1,27 @@
+=====================> [[('I rememeber', None, None, None, 0), ('where I was', None, None, None, 0), ('when the Paris attack happened .', None, None, None, 1), ('It was so terrible how I felt', None, None, None, 0), ('and how everyone around the world felt .', None, None, None, 1), ('These terrible people are trying to make us scared to do things', None, None, None, 0), ('we love .', None, None, None, 1), ('But I wont let them win .', None, None, None, 1), ('Im so happy', None, None, None, 0), ('the band decided to go back', None, None, None, 0), ('and give a concert .', None, None, None, 1), ('This has to be a statment for us all .', None, None, None, 1), ('Fear will never win !', None, None, None, 1)]]
+Leaf:  S span I rememeber
+Leaf:  N Temporal where I was
+Leaf:  S span when the Paris attack happened .
+Inner:  N Attribution None Temporal NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It was so terrible how I felt
+Leaf:  N Joint and how everyone around the world felt .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate These terrible people are trying to make us scared to do things
+Leaf:  S span we love .
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast But I wont let them win .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Im so happy
+Leaf:  N Temporal the band decided to go back
+Leaf:  N Temporal and give a concert .
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span This has to be a statment for us all .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Fear will never win !
+Inner:  Root None None Evaluation NS
+[('I rememeber', None, None, None, 0), ('where I was', None, None, None, 0), ('when the Paris attack happened .', None, None, None, 1), ('It was so terrible how I felt', None, None, None, 0), ('and how everyone around the world felt .', None, None, None, 1), ('These terrible people are trying to make us scared to do things', None, None, None, 0), ('we love .', None, None, None, 1), ('But I wont let them win .', None, None, None, 1), ('Im so happy', None, None, None, 0), ('the band decided to go back', None, None, None, 0), ('and give a concert .', None, None, None, 1), ('This has to be a statment for us all .', None, None, None, 1), ('Fear will never win !', None, None, None, 1)]

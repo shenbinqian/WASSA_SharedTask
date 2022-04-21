@@ -1,0 +1,31 @@
+=====================> [[('I just read the saddest article .', None, None, None, 1), ('This preganant woman', None, None, None, 0), ('( with twins )', None, None, None, 0), ('went out one night', None, None, None, 0), ('to get something to eat', None, None, None, 0), ('when gunfire erupted', None, None, None, 0), ('and she was caught in crossfire . She was shot in the stomach but thankfully the bullet had missed her and the babies .', None, None, None, 1), ('She was told that she and the babies were going to be fine . Apparently she got up and pissed blood and after more tests she learned', None, None, None, 0), ('that her babies werent going to make it .', None, None, None, 1), ('Violence makes me so sick . I understand', None, None, None, 0), ('that economic conditions make it hard', None, None, None, 0), ('and people end up going down the wrong path', None, None, None, 0), ('which then leads to horrible situations like this .', None, None, None, 1), ('I wish there was an easy answer', None, None, None, 0), ('to prevent things like this from happening .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read the saddest article .
+Leaf:  N Elaborate This preganant woman
+Leaf:  S span ( with twins )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement went out one night
+Leaf:  S span to get something to eat
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Temporal None Same-Unit NN
+Leaf:  N Cause when gunfire erupted
+Leaf:  S span and she was caught in crossfire . She was shot in the stomach but thankfully the bullet had missed her and the babies .
+Inner:  N Temporal None Cause NS
+Inner:  S span None Temporal NN
+Leaf:  S span She was told that she and the babies were going to be fine . Apparently she got up and pissed blood and after more tests she learned
+Leaf:  N Attribution that her babies werent going to make it .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Violence makes me so sick . I understand
+Leaf:  N Joint that economic conditions make it hard
+Leaf:  N Joint and people end up going down the wrong path
+Inner:  N Cause None Joint NN
+Leaf:  S span which then leads to horrible situations like this .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I wish there was an easy answer
+Leaf:  S span to prevent things like this from happening .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read the saddest article .', None, None, None, 1), ('This preganant woman', None, None, None, 0), ('( with twins )', None, None, None, 0), ('went out one night', None, None, None, 0), ('to get something to eat', None, None, None, 0), ('when gunfire erupted', None, None, None, 0), ('and she was caught in crossfire . She was shot in the stomach but thankfully the bullet had missed her and the babies .', None, None, None, 1), ('She was told that she and the babies were going to be fine . Apparently she got up and pissed blood and after more tests she learned', None, None, None, 0), ('that her babies werent going to make it .', None, None, None, 1), ('Violence makes me so sick . I understand', None, None, None, 0), ('that economic conditions make it hard', None, None, None, 0), ('and people end up going down the wrong path', None, None, None, 0), ('which then leads to horrible situations like this .', None, None, None, 1), ('I wish there was an easy answer', None, None, None, 0), ('to prevent things like this from happening .', None, None, None, 1)]

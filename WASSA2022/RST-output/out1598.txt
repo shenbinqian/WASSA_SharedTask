@@ -1,0 +1,27 @@
+=====================> [[("It 's scary to think", None, None, None, 0), ('that even somebody', None, None, None, 0), ('who is as well known and guarded', None, None, None, 0), ('as Kim Kardashian can still be the victim of crimes like this .', None, None, None, 1), ("It 's got to be disheartening to be Kim", None, None, None, 0), ('and know', None, None, None, 0), ("you 've spent ( most likely ) a lot of money", None, None, None, 0), ('to have security with you at all times', None, None, None, 0), ('to protect you from things like this ,', None, None, None, 0), ('yet it still happens to you .', None, None, None, 1), ("You 'd have to wonder", None, None, None, 0), ('just how much more one can do', None, None, None, 0), ('to protect themselves .', None, None, None, 1)]]
+Leaf:  S span It 's scary to think
+Leaf:  N Elaborate that even somebody
+Leaf:  N Comparison who is as well known and guarded
+Leaf:  S span as Kim Kardashian can still be the victim of crimes like this .
+Inner:  S span None Comparison NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It 's got to be disheartening to be Kim
+Leaf:  S span and know
+Leaf:  N Enablement you 've spent ( most likely ) a lot of money
+Leaf:  N Enablement to have security with you at all times
+Leaf:  S span to protect you from things like this ,
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  N Contrast yet it still happens to you .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span You 'd have to wonder
+Leaf:  N Enablement just how much more one can do
+Leaf:  S span to protect themselves .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("It 's scary to think", None, None, None, 0), ('that even somebody', None, None, None, 0), ('who is as well known and guarded', None, None, None, 0), ('as Kim Kardashian can still be the victim of crimes like this .', None, None, None, 1), ("It 's got to be disheartening to be Kim", None, None, None, 0), ('and know', None, None, None, 0), ("you 've spent ( most likely ) a lot of money", None, None, None, 0), ('to have security with you at all times', None, None, None, 0), ('to protect you from things like this ,', None, None, None, 0), ('yet it still happens to you .', None, None, None, 1), ("You 'd have to wonder", None, None, None, 0), ('just how much more one can do', None, None, None, 0), ('to protect themselves .', None, None, None, 1)]

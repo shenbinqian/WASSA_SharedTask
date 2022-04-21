@@ -1,0 +1,19 @@
+=====================> [[('I recently read an article', None, None, None, 0), ('about how the band Eagles of Death Metal visited the Paris attacks memorial .', None, None, None, 1), ('A year', None, None, None, 0), ('before they were playing at a concert hall', None, None, None, 0), ('when the attacks occured a year prior .', None, None, None, 1), ('Sting was the first person', None, None, None, 0), ('to play at he concert hall since the attacks . The front man of the Eagles of Death Metal was denied access to the event .', None, None, None, 1), ('He had told Fox news', None, None, None, 0), ('that the muslim security collaborated with the attackers at the concert hall .', None, None, None, 1)]]
+Leaf:  N Elaborate I recently read an article
+Leaf:  S span about how the band Eagles of Death Metal visited the Paris attacks memorial .
+Inner:  N Background None Elaborate NS
+Leaf:  N Temporal A year
+Leaf:  N Background before they were playing at a concert hall
+Leaf:  S span when the attacks occured a year prior .
+Inner:  S span None Background NS
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate Sting was the first person
+Leaf:  S span to play at he concert hall since the attacks . The front man of the Eagles of Death Metal was denied access to the event .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span He had told Fox news
+Leaf:  N Attribution that the muslim security collaborated with the attackers at the concert hall .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I recently read an article', None, None, None, 0), ('about how the band Eagles of Death Metal visited the Paris attacks memorial .', None, None, None, 1), ('A year', None, None, None, 0), ('before they were playing at a concert hall', None, None, None, 0), ('when the attacks occured a year prior .', None, None, None, 1), ('Sting was the first person', None, None, None, 0), ('to play at he concert hall since the attacks . The front man of the Eagles of Death Metal was denied access to the event .', None, None, None, 1), ('He had told Fox news', None, None, None, 0), ('that the muslim security collaborated with the attackers at the concert hall .', None, None, None, 1)]

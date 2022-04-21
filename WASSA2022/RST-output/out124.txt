@@ -1,0 +1,23 @@
+=====================> [[('Here is another example of domestic gun violence', None, None, None, 0), ('that is happening in america .', None, None, None, 1), ('I know', None, None, None, 0), ('that you feel very strongly about this issue', None, None, None, 0), ('and figured', None, None, None, 0), ('that you might want to read this article', None, None, None, 0), ('that I found .', None, None, None, 1), ('It is such a sad story ,', None, None, None, 0), ('and', None, None, None, 0), ('until we get the guns off the street ,', None, None, None, 0), ('these stories are just going to keep coming up .', None, None, None, 1)]]
+Leaf:  N Elaborate Here is another example of domestic gun violence
+Leaf:  S span that is happening in america .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Attribution that you feel very strongly about this issue
+Inner:  N Joint None Attribution SN
+Leaf:  S span and figured
+Leaf:  N Elaborate that you might want to read this article
+Leaf:  S span that I found .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It is such a sad story ,
+Leaf:  N Same-Unit and
+Leaf:  S span until we get the guns off the street ,
+Leaf:  N Contrast these stories are just going to keep coming up .
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Here is another example of domestic gun violence', None, None, None, 0), ('that is happening in america .', None, None, None, 1), ('I know', None, None, None, 0), ('that you feel very strongly about this issue', None, None, None, 0), ('and figured', None, None, None, 0), ('that you might want to read this article', None, None, None, 0), ('that I found .', None, None, None, 1), ('It is such a sad story ,', None, None, None, 0), ('and', None, None, None, 0), ('until we get the guns off the street ,', None, None, None, 0), ('these stories are just going to keep coming up .', None, None, None, 1)]

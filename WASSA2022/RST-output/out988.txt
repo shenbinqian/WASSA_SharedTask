@@ -1,0 +1,31 @@
+=====================> [[('It never ceases to amaze me', None, None, None, 0), ('that things like this as still occurring .', None, None, None, 1), ('They want to roll back regulations', None, None, None, 0), ('when things like this happened', None, None, None, 0), ('because there were none and now kids have to pay the price ,', None, None, None, 0), ('but they are kids of color', None, None, None, 0), ('so they dont matter . Remember this , Flint still does not have clean water years later .', None, None, None, 1), ('The government is corrupt', None, None, None, 0), ('and the cancer starts in the Oval office', None, None, None, 0), ('and runs through his swamp .', None, None, None, 1), ('Its time', None, None, None, 0), ('to get these people out of office', None, None, None, 0), ('and to punish the companies and people', None, None, None, 0), ('that have allowed this to happened to the innocent children of America .', None, None, None, 1), ('We need more regulations not less .', None, None, None, 1)]]
+Leaf:  S span It never ceases to amaze me
+Leaf:  N Attribution that things like this as still occurring .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Background They want to roll back regulations
+Leaf:  S span when things like this happened
+Inner:  N Explanation None Background NS
+Leaf:  S span because there were none and now kids have to pay the price ,
+Leaf:  S span but they are kids of color
+Leaf:  N Enablement so they dont matter . Remember this , Flint still does not have clean water years later .
+Inner:  N Contrast None Enablement SN
+Inner:  S span None Contrast SN
+Inner:  N Summary None Explanation NS
+Leaf:  N Joint The government is corrupt
+Leaf:  N Joint and the cancer starts in the Oval office
+Leaf:  N Joint and runs through his swamp .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Leaf:  N Elaborate Its time
+Leaf:  N Temporal to get these people out of office
+Leaf:  N Elaborate and to punish the companies and people
+Leaf:  S span that have allowed this to happened to the innocent children of America .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span We need more regulations not less .
+Inner:  Root None None Evaluation NS
+[('It never ceases to amaze me', None, None, None, 0), ('that things like this as still occurring .', None, None, None, 1), ('They want to roll back regulations', None, None, None, 0), ('when things like this happened', None, None, None, 0), ('because there were none and now kids have to pay the price ,', None, None, None, 0), ('but they are kids of color', None, None, None, 0), ('so they dont matter . Remember this , Flint still does not have clean water years later .', None, None, None, 1), ('The government is corrupt', None, None, None, 0), ('and the cancer starts in the Oval office', None, None, None, 0), ('and runs through his swamp .', None, None, None, 1), ('Its time', None, None, None, 0), ('to get these people out of office', None, None, None, 0), ('and to punish the companies and people', None, None, None, 0), ('that have allowed this to happened to the innocent children of America .', None, None, None, 1), ('We need more regulations not less .', None, None, None, 1)]

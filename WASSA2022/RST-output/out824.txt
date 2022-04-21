@@ -1,0 +1,21 @@
+=====================> [[("You mean you ca n't breathe in smog and pollution", None, None, None, 0), ('and walk away unscathed ?', None, None, None, 1), ('Who knew ?!', None, None, None, 1), ('This article states so much obviousness ,', None, None, None, 0), ('that you would hope people were already aware of these issues .', None, None, None, 1), ('You have cancer ?', None, None, None, 1), ('Well , you had better move away from that smog bowl', None, None, None, 0), ('you live in !', None, None, None, 1), ('India and China are both owners of some nasty smog infested cities .', None, None, None, 1), ('Not surprised .', None, None, None, 1)]]
+Leaf:  N Temporal You mean you ca n't breathe in smog and pollution
+Leaf:  N Temporal and walk away unscathed ?
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span Who knew ?!
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause This article states so much obviousness ,
+Leaf:  S span that you would hope people were already aware of these issues .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span You have cancer ?
+Leaf:  N Elaborate Well , you had better move away from that smog bowl
+Leaf:  S span you live in !
+Inner:  N Evaluation None Elaborate NS
+Inner:  S span None Evaluation SN
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Evaluation India and China are both owners of some nasty smog infested cities .
+Leaf:  S span Not surprised .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("You mean you ca n't breathe in smog and pollution", None, None, None, 0), ('and walk away unscathed ?', None, None, None, 1), ('Who knew ?!', None, None, None, 1), ('This article states so much obviousness ,', None, None, None, 0), ('that you would hope people were already aware of these issues .', None, None, None, 1), ('You have cancer ?', None, None, None, 1), ('Well , you had better move away from that smog bowl', None, None, None, 0), ('you live in !', None, None, None, 1), ('India and China are both owners of some nasty smog infested cities .', None, None, None, 1), ('Not surprised .', None, None, None, 1)]

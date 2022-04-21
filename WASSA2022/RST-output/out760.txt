@@ -1,0 +1,25 @@
+=====================> [[('Hey Jax , I thought', None, None, None, 0), ('this was a interesting article', None, None, None, 0), ('that you might be interested in reading .', None, None, None, 1), ('It definitely piqued my interest .', None, None, None, 1), ('I thought', None, None, None, 0), ('it relates to your situation', None, None, None, 0), ('that you are dealing with at the moment .', None, None, None, 1), ('Let me know', None, None, None, 0), ('what you think of the video as well .', None, None, None, 1), ('I might show this to Jackie too', None, None, None, 0), ('and see', None, None, None, 0), ('if what she thinks of it .', None, None, None, 1)]]
+Leaf:  S span Hey Jax , I thought
+Leaf:  N Elaborate this was a interesting article
+Leaf:  S span that you might be interested in reading .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate It definitely piqued my interest .
+Leaf:  S span I thought
+Leaf:  N Elaborate it relates to your situation
+Leaf:  S span that you are dealing with at the moment .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Let me know
+Leaf:  N Attribution what you think of the video as well .
+Inner:  S span None Attribution SN
+Leaf:  N Joint I might show this to Jackie too
+Leaf:  S span and see
+Leaf:  N Attribution if what she thinks of it .
+Inner:  N Joint None Attribution SN
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Cause NS
+[('Hey Jax , I thought', None, None, None, 0), ('this was a interesting article', None, None, None, 0), ('that you might be interested in reading .', None, None, None, 1), ('It definitely piqued my interest .', None, None, None, 1), ('I thought', None, None, None, 0), ('it relates to your situation', None, None, None, 0), ('that you are dealing with at the moment .', None, None, None, 1), ('Let me know', None, None, None, 0), ('what you think of the video as well .', None, None, None, 1), ('I might show this to Jackie too', None, None, None, 0), ('and see', None, None, None, 0), ('if what she thinks of it .', None, None, None, 1)]

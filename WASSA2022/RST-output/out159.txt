@@ -1,0 +1,25 @@
+=====================> [[('hello brother I am learning the news', None, None, None, 0), ('I am very happy', None, None, None, 0), ('that you are already in sacrament', None, None, None, 0), ('I am happy', None, None, None, 0), ('that', None, None, None, 0), ('after completing your dream', None, None, None, 0), ('of playing in the NBA', None, None, None, 0), ('is a great time for you', None, None, None, 0), ('and you should know', None, None, None, 0), ('how to take advantage of this great opportunity', None, None, None, 0), ('take care of yourself', None, None, None, 0), ("and succeed.I 'm really very proud of you", None, None, None, 0)]]
+Leaf:  N Elaborate hello brother I am learning the news
+Leaf:  S span I am very happy
+Leaf:  N Attribution that you are already in sacrament
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span I am happy
+Leaf:  N Same-Unit that
+Leaf:  N Elaborate after completing your dream
+Leaf:  S span of playing in the NBA
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a great time for you
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span and you should know
+Leaf:  N Attribution how to take advantage of this great opportunity
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint take care of yourself
+Leaf:  N Joint and succeed.I 'm really very proud of you
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  Root None None Joint NN
+[('hello brother I am learning the news', None, None, None, 0), ('I am very happy', None, None, None, 0), ('that you are already in sacrament', None, None, None, 0), ('I am happy', None, None, None, 0), ('that', None, None, None, 0), ('after completing your dream', None, None, None, 0), ('of playing in the NBA', None, None, None, 0), ('is a great time for you', None, None, None, 0), ('and you should know', None, None, None, 0), ('how to take advantage of this great opportunity', None, None, None, 0), ('take care of yourself', None, None, None, 0), ("and succeed.I 'm really very proud of you", None, None, None, 0)]

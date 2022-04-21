@@ -1,0 +1,19 @@
+=====================> [[('I just read this really long article about a white man', None, None, None, 0), ('that actually got sentenced', None, None, None, 0), ('after shooting a black teenager dead .', None, None, None, 1), ("I ca n't help", None, None, None, 0), ('but feel incredibly satisfied', None, None, None, 0), ('after reading this .', None, None, None, 1), ('It happens way too much in this country', None, None, None, 0), ('where white people are able to get away with hurting black people .', None, None, None, 1), ('This time , it finally feels like some justice has been done .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this really long article about a white man
+Leaf:  N Background that actually got sentenced
+Leaf:  S span after shooting a black teenager dead .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal I ca n't help
+Leaf:  N Background but feel incredibly satisfied
+Leaf:  S span after reading this .
+Inner:  S span None Background NS
+Inner:  S span None Temporal NS
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Elaborate It happens way too much in this country
+Leaf:  S span where white people are able to get away with hurting black people .
+Inner:  S span None Elaborate NS
+Leaf:  N Background This time , it finally feels like some justice has been done .
+Inner:  N Topic-Change None Background SN
+Inner:  Root None None Topic-Change NN
+[('I just read this really long article about a white man', None, None, None, 0), ('that actually got sentenced', None, None, None, 0), ('after shooting a black teenager dead .', None, None, None, 1), ("I ca n't help", None, None, None, 0), ('but feel incredibly satisfied', None, None, None, 0), ('after reading this .', None, None, None, 1), ('It happens way too much in this country', None, None, None, 0), ('where white people are able to get away with hurting black people .', None, None, None, 1), ('This time , it finally feels like some justice has been done .', None, None, None, 1)]

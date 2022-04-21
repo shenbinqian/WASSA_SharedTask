@@ -1,0 +1,37 @@
+=====================> [[('Wow', None, None, None, 0), ('- this is so so horrible !', None, None, None, 1), ("I ca n't even begin to understand", None, None, None, 0), ('why Syria would attack its own citizens ,', None, None, None, 0), ('and why would Russia support them', None, None, None, 0), ('in doing so ?', None, None, None, 1), ('This is a sick regime', None, None, None, 0), ('and I am glad that America and its allies are interfering .', None, None, None, 1), ('The fact', None, None, None, 0), ('that they are denying doing it', None, None, None, 0), ('is truly messed up .', None, None, None, 1), ('I hope', None, None, None, 0), ('these poor children', None, None, None, 0), ('who survived', None, None, None, 0), ('are able to get the healthcare', None, None, None, 0), ('they so desperately deserved .', None, None, None, 1), ('Could you guys imagine', None, None, None, 0), ('if this was happening here ??', None, None, None, 1)]]
+Leaf:  N Evaluation Wow
+Leaf:  S span - this is so so horrible !
+Inner:  N Summary None Evaluation NS
+Leaf:  S span I ca n't even begin to understand
+Leaf:  N Joint why Syria would attack its own citizens ,
+Leaf:  N Elaborate and why would Russia support them
+Leaf:  S span in doing so ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation This is a sick regime
+Leaf:  S span and I am glad that America and its allies are interfering .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate The fact
+Leaf:  S span that they are denying doing it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is truly messed up .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Elaborate these poor children
+Leaf:  S span who survived
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate are able to get the healthcare
+Leaf:  S span they so desperately deserved .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Could you guys imagine
+Leaf:  N Attribution if this was happening here ??
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow', None, None, None, 0), ('- this is so so horrible !', None, None, None, 1), ("I ca n't even begin to understand", None, None, None, 0), ('why Syria would attack its own citizens ,', None, None, None, 0), ('and why would Russia support them', None, None, None, 0), ('in doing so ?', None, None, None, 1), ('This is a sick regime', None, None, None, 0), ('and I am glad that America and its allies are interfering .', None, None, None, 1), ('The fact', None, None, None, 0), ('that they are denying doing it', None, None, None, 0), ('is truly messed up .', None, None, None, 1), ('I hope', None, None, None, 0), ('these poor children', None, None, None, 0), ('who survived', None, None, None, 0), ('are able to get the healthcare', None, None, None, 0), ('they so desperately deserved .', None, None, None, 1), ('Could you guys imagine', None, None, None, 0), ('if this was happening here ??', None, None, None, 1)]

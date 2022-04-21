@@ -1,0 +1,19 @@
+=====================> [[('There was just a 5.0 earthquake in Oklahoma .', None, None, None, 1), ('Fortunately , no one was badly injured .', None, None, None, 1), ("I did n't even know", None, None, None, 0), ('they had earthquakes there .', None, None, None, 1), ('It must be very scary to have to go through one of those .', None, None, None, 1), ("I 'm glad we do n't have them here .", None, None, None, 1), ('We used to have drills at school , in the event of an earthquake ,', None, None, None, 0), ('but that just seems like a waste of time .', None, None, None, 1), ("I 've never even been through one .", None, None, None, 1)]]
+Leaf:  N Cause There was just a 5.0 earthquake in Oklahoma .
+Leaf:  S span Fortunately , no one was badly injured .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I did n't even know
+Leaf:  N Attribution they had earthquakes there .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It must be very scary to have to go through one of those .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm glad we do n't have them here .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast We used to have drills at school , in the event of an earthquake ,
+Leaf:  S span but that just seems like a waste of time .
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span I 've never even been through one .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There was just a 5.0 earthquake in Oklahoma .', None, None, None, 1), ('Fortunately , no one was badly injured .', None, None, None, 1), ("I did n't even know", None, None, None, 0), ('they had earthquakes there .', None, None, None, 1), ('It must be very scary to have to go through one of those .', None, None, None, 1), ("I 'm glad we do n't have them here .", None, None, None, 1), ('We used to have drills at school , in the event of an earthquake ,', None, None, None, 0), ('but that just seems like a waste of time .', None, None, None, 1), ("I 've never even been through one .", None, None, None, 1)]

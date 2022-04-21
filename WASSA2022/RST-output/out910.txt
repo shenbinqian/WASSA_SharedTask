@@ -1,0 +1,27 @@
+=====================> [[('IT is just sad that someone would think', None, None, None, 0), ('this is an acceptable way', None, None, None, 0), ('to resolve any problem .', None, None, None, 1), ('He clearly needed more help', None, None, None, 0), ('than he was getting', None, None, None, 0), ('and it is unfortunate', None, None, None, 0), ('that it was recognized', None, None, None, 0), ('that he needed help', None, None, None, 0), ("or the mother did n't take steps", None, None, None, 0), ('to leave sooner .', None, None, None, 1), ('I guess', None, None, None, 0), ("in life sometimes you just ca n't tell what is going to happen", None, None, None, 0), ('or what will set someone off .', None, None, None, 1)]]
+Leaf:  S span IT is just sad that someone would think
+Leaf:  N Elaborate this is an acceptable way
+Leaf:  S span to resolve any problem .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Comparison He clearly needed more help
+Leaf:  S span than he was getting
+Inner:  N Evaluation None Comparison NS
+Leaf:  S span and it is unfortunate
+Leaf:  S span that it was recognized
+Leaf:  N Attribution that he needed help
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate or the mother did n't take steps
+Leaf:  S span to leave sooner .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Joint in life sometimes you just ca n't tell what is going to happen
+Leaf:  N Joint or what will set someone off .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('IT is just sad that someone would think', None, None, None, 0), ('this is an acceptable way', None, None, None, 0), ('to resolve any problem .', None, None, None, 1), ('He clearly needed more help', None, None, None, 0), ('than he was getting', None, None, None, 0), ('and it is unfortunate', None, None, None, 0), ('that it was recognized', None, None, None, 0), ('that he needed help', None, None, None, 0), ("or the mother did n't take steps", None, None, None, 0), ('to leave sooner .', None, None, None, 1), ('I guess', None, None, None, 0), ("in life sometimes you just ca n't tell what is going to happen", None, None, None, 0), ('or what will set someone off .', None, None, None, 1)]

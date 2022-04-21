@@ -1,0 +1,29 @@
+=====================> [[("It 's upsetting that species are dying out ,", None, None, None, 0), ('sometimes before we even know', None, None, None, 0), ('they exist .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if there are ways', None, None, None, 0), ('we can use science', None, None, None, 0), ('to bring them back ,', None, None, None, 0), ('if they even survive', None, None, None, 0), ('if we do .', None, None, None, 1), ('We need to take better care of the environment .', None, None, None, 1), ("It 's worrying", None, None, None, 0), ('that', None, None, None, 0), ('as these species die out ,', None, None, None, 0), ('someday ours might as well .', None, None, None, 1)]]
+Leaf:  N Temporal It 's upsetting that species are dying out ,
+Leaf:  S span sometimes before we even know
+Leaf:  N Attribution they exist .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span I wonder
+Leaf:  N Elaborate if there are ways
+Leaf:  N Enablement we can use science
+Leaf:  N Summary to bring them back ,
+Leaf:  N Condition if they even survive
+Leaf:  S span if we do .
+Inner:  S span None Condition NS
+Inner:  S span None Summary NS
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation We need to take better care of the environment .
+Leaf:  S span It 's worrying
+Leaf:  N Same-Unit that
+Leaf:  S span as these species die out ,
+Leaf:  N Condition someday ours might as well .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("It 's upsetting that species are dying out ,", None, None, None, 0), ('sometimes before we even know', None, None, None, 0), ('they exist .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if there are ways', None, None, None, 0), ('we can use science', None, None, None, 0), ('to bring them back ,', None, None, None, 0), ('if they even survive', None, None, None, 0), ('if we do .', None, None, None, 1), ('We need to take better care of the environment .', None, None, None, 1), ("It 's worrying", None, None, None, 0), ('that', None, None, None, 0), ('as these species die out ,', None, None, None, 0), ('someday ours might as well .', None, None, None, 1)]

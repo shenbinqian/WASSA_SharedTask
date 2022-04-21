@@ -1,0 +1,19 @@
+=====================> [[('The war', None, None, None, 0), ('that involved India and Pakistan is terrible .', None, None, None, 1), ('There are so many innocent civilian me were killed .', None, None, None, 1), ('The world needs peace', None, None, None, 0), ('and it is hard to imagine that a lot of people in 21st centery are still suffering from wars .', None, None, None, 1), ('We should really cherish', None, None, None, 0), ('that', None, None, None, 0), ('we live in the US', None, None, None, 0), ('and far from what happened there .', None, None, None, 1)]]
+Leaf:  N Elaborate The war
+Leaf:  S span that involved India and Pakistan is terrible .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There are so many innocent civilian me were killed .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint The world needs peace
+Leaf:  N Joint and it is hard to imagine that a lot of people in 21st centery are still suffering from wars .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span We should really cherish
+Leaf:  S span that
+Leaf:  N Joint we live in the US
+Leaf:  N Joint and far from what happened there .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('The war', None, None, None, 0), ('that involved India and Pakistan is terrible .', None, None, None, 1), ('There are so many innocent civilian me were killed .', None, None, None, 1), ('The world needs peace', None, None, None, 0), ('and it is hard to imagine that a lot of people in 21st centery are still suffering from wars .', None, None, None, 1), ('We should really cherish', None, None, None, 0), ('that', None, None, None, 0), ('we live in the US', None, None, None, 0), ('and far from what happened there .', None, None, None, 1)]

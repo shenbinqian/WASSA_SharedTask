@@ -1,0 +1,17 @@
+=====================> [[('This act feels senseless and confusing .', None, None, None, 1), ("The article is n't clear", None, None, None, 0), ("or like they do n't want to disclose information .", None, None, None, 1), ('The bus door been locked also seems a little odd . At least the community seems supportive .', None, None, None, 1), ('I wonder', None, None, None, 0), ('where the world is headed to', None, None, None, 0), ('since news like this seem to be more common this days .', None, None, None, 1), ('It is a sad reality .', None, None, None, 1)]]
+Leaf:  N Elaborate This act feels senseless and confusing .
+Leaf:  N Joint The article is n't clear
+Leaf:  N Joint or like they do n't want to disclose information .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint The bus door been locked also seems a little odd . At least the community seems supportive .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I wonder
+Leaf:  N Background where the world is headed to
+Leaf:  S span since news like this seem to be more common this days .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is a sad reality .
+Inner:  Root None None Evaluation NS
+[('This act feels senseless and confusing .', None, None, None, 1), ("The article is n't clear", None, None, None, 0), ("or like they do n't want to disclose information .", None, None, None, 1), ('The bus door been locked also seems a little odd . At least the community seems supportive .', None, None, None, 1), ('I wonder', None, None, None, 0), ('where the world is headed to', None, None, None, 0), ('since news like this seem to be more common this days .', None, None, None, 1), ('It is a sad reality .', None, None, None, 1)]

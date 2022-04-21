@@ -1,0 +1,21 @@
+=====================> [[('I felt pretty neutral', None, None, None, 0), ('when i read the article .', None, None, None, 1), ("It did n't really bother me", None, None, None, 0), ('or affect me in any way emotionally or physically .', None, None, None, 1), ('I found it really easy to put out of my mind', None, None, None, 0), ('after reading it as well .', None, None, None, 1), ('It was something', None, None, None, 0), ("that did n't induce any feelings in me .", None, None, None, 1), ('I did not feel positive nor negative', None, None, None, 0), ('after reading the article .', None, None, None, 1)]]
+Leaf:  N Background I felt pretty neutral
+Leaf:  S span when i read the article .
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint It did n't really bother me
+Leaf:  N Joint or affect me in any way emotionally or physically .
+Inner:  N Joint None Joint NN
+Leaf:  N Temporal I found it really easy to put out of my mind
+Leaf:  S span after reading it as well .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It was something
+Leaf:  S span that did n't induce any feelings in me .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal I did not feel positive nor negative
+Leaf:  S span after reading the article .
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I felt pretty neutral', None, None, None, 0), ('when i read the article .', None, None, None, 1), ("It did n't really bother me", None, None, None, 0), ('or affect me in any way emotionally or physically .', None, None, None, 1), ('I found it really easy to put out of my mind', None, None, None, 0), ('after reading it as well .', None, None, None, 1), ('It was something', None, None, None, 0), ("that did n't induce any feelings in me .", None, None, None, 1), ('I did not feel positive nor negative', None, None, None, 0), ('after reading the article .', None, None, None, 1)]

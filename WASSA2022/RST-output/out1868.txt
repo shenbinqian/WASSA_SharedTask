@@ -1,0 +1,21 @@
+=====================> [[('My feelings towards this article is neutral as well .', None, None, None, 1), ('It did not really make me feel anything .', None, None, None, 1), ('Rather yet , it made me feel a bit bored', None, None, None, 0), ('and i kind of dozed off for a bit .', None, None, None, 1), ('I felt', None, None, None, 0), ("like it was n't anything", None, None, None, 0), ('that would impact me or anything', None, None, None, 0), ('i would think twice about .', None, None, None, 1), ('It made me feel mostly relaxed .', None, None, None, 1), ("I did n't have nay sort of positive or negative emotions towards the article .", None, None, None, 1)]]
+Leaf:  N Elaborate My feelings towards this article is neutral as well .
+Leaf:  S span It did not really make me feel anything .
+Leaf:  N Joint Rather yet , it made me feel a bit bored
+Leaf:  N Joint and i kind of dozed off for a bit .
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I felt
+Leaf:  N Elaborate like it was n't anything
+Leaf:  S span that would impact me or anything
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span i would think twice about .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint It made me feel mostly relaxed .
+Leaf:  N Joint I did n't have nay sort of positive or negative emotions towards the article .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('My feelings towards this article is neutral as well .', None, None, None, 1), ('It did not really make me feel anything .', None, None, None, 1), ('Rather yet , it made me feel a bit bored', None, None, None, 0), ('and i kind of dozed off for a bit .', None, None, None, 1), ('I felt', None, None, None, 0), ("like it was n't anything", None, None, None, 0), ('that would impact me or anything', None, None, None, 0), ('i would think twice about .', None, None, None, 1), ('It made me feel mostly relaxed .', None, None, None, 1), ("I did n't have nay sort of positive or negative emotions towards the article .", None, None, None, 1)]

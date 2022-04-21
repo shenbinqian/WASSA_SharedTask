@@ -1,0 +1,37 @@
+=====================> [[('So what can we do', None, None, None, 0), ('when genocide occurs in different parts of the world ?', None, None, None, 1), ('Does prayer help ? Will war help or hurt more ?', None, None, None, 1), ('When people do not get along ,', None, None, None, 0), ('not because of a shortage of food or water ,', None, None, None, 0), ('but rather because a belief system is not universal ,', None, None, None, 0), ('that is a human tragedy . Saudi Arabia and Iran are prime examples of animalistic behavior at this point in time .', None, None, None, 1), ('We here in America pretty much killed off the American Indians', None, None, None, 0), ('because we wanted the land .', None, None, None, 1), ('Nothing different is happening in the Middle East .', None, None, None, 1), ('We always hear', None, None, None, 0), ('that might makes right', None, None, None, 0), ("but that 's not truly the case .", None, None, None, 1), ('Might makes blight and generations suffer', None, None, None, 0), ('till most of it is forgotten .', None, None, None, 1), ('The moral is too learn from our mistakes', None, None, None, 0), ('and the bad aspects', None, None, None, 0), ('of what history tries to teach us .', None, None, None, 1)]]
+Leaf:  N Background So what can we do
+Leaf:  S span when genocide occurs in different parts of the world ?
+Inner:  N Elaborate None Background NS
+Leaf:  S span Does prayer help ? Will war help or hurt more ?
+Inner:  N Summary None Elaborate NS
+Leaf:  N Cause When people do not get along ,
+Leaf:  N Joint not because of a shortage of food or water ,
+Leaf:  N Joint but rather because a belief system is not universal ,
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Leaf:  N Evaluation that is a human tragedy . Saudi Arabia and Iran are prime examples of animalistic behavior at this point in time .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Explanation We here in America pretty much killed off the American Indians
+Leaf:  S span because we wanted the land .
+Inner:  S span None Explanation NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast Nothing different is happening in the Middle East .
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span We always hear
+Leaf:  S span that might makes right
+Leaf:  N Contrast but that 's not truly the case .
+Inner:  N Attribution None Contrast SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Might makes blight and generations suffer
+Leaf:  S span till most of it is forgotten .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Joint The moral is too learn from our mistakes
+Leaf:  N Elaborate and the bad aspects
+Leaf:  S span of what history tries to teach us .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('So what can we do', None, None, None, 0), ('when genocide occurs in different parts of the world ?', None, None, None, 1), ('Does prayer help ? Will war help or hurt more ?', None, None, None, 1), ('When people do not get along ,', None, None, None, 0), ('not because of a shortage of food or water ,', None, None, None, 0), ('but rather because a belief system is not universal ,', None, None, None, 0), ('that is a human tragedy . Saudi Arabia and Iran are prime examples of animalistic behavior at this point in time .', None, None, None, 1), ('We here in America pretty much killed off the American Indians', None, None, None, 0), ('because we wanted the land .', None, None, None, 1), ('Nothing different is happening in the Middle East .', None, None, None, 1), ('We always hear', None, None, None, 0), ('that might makes right', None, None, None, 0), ("but that 's not truly the case .", None, None, None, 1), ('Might makes blight and generations suffer', None, None, None, 0), ('till most of it is forgotten .', None, None, None, 1), ('The moral is too learn from our mistakes', None, None, None, 0), ('and the bad aspects', None, None, None, 0), ('of what history tries to teach us .', None, None, None, 1)]

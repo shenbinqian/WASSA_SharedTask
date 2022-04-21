@@ -1,0 +1,19 @@
+=====================> [[('Man', None, None, None, 0), ("that 's tough to read -", None, None, None, 0), ('I remember', None, None, None, 0), ('watching those events unfold', None, None, None, 0), ('and just being absolutely miserable and horrified over it .', None, None, None, 1), ('I remember hearing', None, None, None, 0), ('that they were killing hostages one by one on the news ,', None, None, None, 0), ('and just bursting into tears at that point .', None, None, None, 1), ("This article really vividly reminded me of that moment , it 's really sad .", None, None, None, 1)]]
+Leaf:  N Elaborate Man
+Leaf:  S span that 's tough to read -
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Same-Unit I remember
+Leaf:  N Temporal watching those events unfold
+Leaf:  N Temporal and just being absolutely miserable and horrified over it .
+Inner:  N Same-Unit None Temporal NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I remember hearing
+Leaf:  N Attribution that they were killing hostages one by one on the news ,
+Inner:  S span None Attribution SN
+Leaf:  N Cause and just bursting into tears at that point .
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span This article really vividly reminded me of that moment , it 's really sad .
+Inner:  Root None None Elaborate NS
+[('Man', None, None, None, 0), ("that 's tough to read -", None, None, None, 0), ('I remember', None, None, None, 0), ('watching those events unfold', None, None, None, 0), ('and just being absolutely miserable and horrified over it .', None, None, None, 1), ('I remember hearing', None, None, None, 0), ('that they were killing hostages one by one on the news ,', None, None, None, 0), ('and just bursting into tears at that point .', None, None, None, 1), ("This article really vividly reminded me of that moment , it 's really sad .", None, None, None, 1)]

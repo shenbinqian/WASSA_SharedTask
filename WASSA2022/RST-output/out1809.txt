@@ -1,0 +1,21 @@
+=====================> [[('I feel bad for the Queen .', None, None, None, 1), ('She just lost her husband', None, None, None, 0), ("and now she 's sick .", None, None, None, 1), ('I also feel bad for the people over there .', None, None, None, 1), ("They 've had rulers as leaders for so long", None, None, None, 0), ("that most of the were n't even alive", None, None, None, 0), ('to experience anybody else .', None, None, None, 1), ('I hope', None, None, None, 0), ('she recovers', None, None, None, 0), ('and is able to get a few more good years out of her life .', None, None, None, 1)]]
+Leaf:  N Explanation I feel bad for the Queen .
+Leaf:  N Cause She just lost her husband
+Leaf:  S span and now she 's sick .
+Inner:  N Joint None Cause NS
+Leaf:  N Joint I also feel bad for the people over there .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Explanation NS
+Leaf:  N Cause They 've had rulers as leaders for so long
+Leaf:  N Enablement that most of the were n't even alive
+Leaf:  S span to experience anybody else .
+Inner:  S span None Enablement NS
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Joint she recovers
+Leaf:  N Joint and is able to get a few more good years out of her life .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I feel bad for the Queen .', None, None, None, 1), ('She just lost her husband', None, None, None, 0), ("and now she 's sick .", None, None, None, 1), ('I also feel bad for the people over there .', None, None, None, 1), ("They 've had rulers as leaders for so long", None, None, None, 0), ("that most of the were n't even alive", None, None, None, 0), ('to experience anybody else .', None, None, None, 1), ('I hope', None, None, None, 0), ('she recovers', None, None, None, 0), ('and is able to get a few more good years out of her life .', None, None, None, 1)]

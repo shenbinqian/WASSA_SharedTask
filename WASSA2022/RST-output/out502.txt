@@ -1,0 +1,19 @@
+=====================> [[('Working out is important ,', None, None, None, 0), ('but you may want to check the ingredients of the supplements', None, None, None, 0), ('you take .', None, None, None, 1), ('This article talks about a number of ingredients', None, None, None, 0), ('that can cause dangerous side effects', None, None, None, 0), ('and are also very common in work out supplements .', None, None, None, 1), ("It 's scary to think about what we are putting in our body .", None, None, None, 1), ('From now on , I am probably going to cut back', None, None, None, 0), ('and go more natural .', None, None, None, 1)]]
+Leaf:  N Contrast Working out is important ,
+Leaf:  N Elaborate but you may want to check the ingredients of the supplements
+Leaf:  S span you take .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate This article talks about a number of ingredients
+Leaf:  N Joint that can cause dangerous side effects
+Leaf:  N Joint and are also very common in work out supplements .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Comparison It 's scary to think about what we are putting in our body .
+Leaf:  N Joint From now on , I am probably going to cut back
+Leaf:  N Joint and go more natural .
+Inner:  N Comparison None Joint NN
+Inner:  S span None Comparison NN
+Inner:  Root None None Evaluation NS
+[('Working out is important ,', None, None, None, 0), ('but you may want to check the ingredients of the supplements', None, None, None, 0), ('you take .', None, None, None, 1), ('This article talks about a number of ingredients', None, None, None, 0), ('that can cause dangerous side effects', None, None, None, 0), ('and are also very common in work out supplements .', None, None, None, 1), ("It 's scary to think about what we are putting in our body .", None, None, None, 1), ('From now on , I am probably going to cut back', None, None, None, 0), ('and go more natural .', None, None, None, 1)]

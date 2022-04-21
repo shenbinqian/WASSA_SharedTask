@@ -1,0 +1,25 @@
+=====================> [[('I feel', None, None, None, 0), ('like there is so many people out there', None, None, None, 0), ('that are less fortunate then us ,', None, None, None, 0), ('we need to take a second', None, None, None, 0), ('to see how people feel about themselves and the situations', None, None, None, 0), ('they are in', None, None, None, 0), ('and the people around them .', None, None, None, 1), ('I feel', None, None, None, 0), ('like the person', None, None, None, 0), ('writing this', None, None, None, 0), ('has gone through alot in his life', None, None, None, 0), ('and this all just adds into the fact of everything else', None, None, None, 0)]]
+Leaf:  S span I feel
+Leaf:  N Elaborate like there is so many people out there
+Leaf:  S span that are less fortunate then us ,
+Inner:  S span None Elaborate NS
+Leaf:  N Enablement we need to take a second
+Leaf:  N Elaborate to see how people feel about themselves and the situations
+Leaf:  S span they are in
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and the people around them .
+Inner:  S span None Same-Unit NN
+Inner:  N Enablement None Enablement NS
+Inner:  N Attribution None Enablement SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I feel
+Leaf:  N Elaborate like the person
+Leaf:  S span writing this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has gone through alot in his life
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span and this all just adds into the fact of everything else
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I feel', None, None, None, 0), ('like there is so many people out there', None, None, None, 0), ('that are less fortunate then us ,', None, None, None, 0), ('we need to take a second', None, None, None, 0), ('to see how people feel about themselves and the situations', None, None, None, 0), ('they are in', None, None, None, 0), ('and the people around them .', None, None, None, 1), ('I feel', None, None, None, 0), ('like the person', None, None, None, 0), ('writing this', None, None, None, 0), ('has gone through alot in his life', None, None, None, 0), ('and this all just adds into the fact of everything else', None, None, None, 0)]

@@ -1,0 +1,19 @@
+=====================> [[('I feel so bad for this family .', None, None, None, 1), ('I can not even begin to imagine losing my sweet pet , or frankly , even the pets of my friends and loved ones .', None, None, None, 1), ('They must be so upset right now . Thank God they are still alive', None, None, None, 0), ('but I imagine', None, None, None, 0), ('the thought', None, None, None, 0), ('of the pain and suffering', None, None, None, 0), ('their pets went through', None, None, None, 0), ('will haunt them for quite a while .', None, None, None, 1), ('It is so awful .', None, None, None, 1)]]
+Leaf:  N Explanation I feel so bad for this family .
+Leaf:  S span I can not even begin to imagine losing my sweet pet , or frankly , even the pets of my friends and loved ones .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span They must be so upset right now . Thank God they are still alive
+Leaf:  S span but I imagine
+Leaf:  N Elaborate the thought
+Leaf:  N Elaborate of the pain and suffering
+Leaf:  S span their pets went through
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will haunt them for quite a while .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is so awful .
+Inner:  Root None None Evaluation NS
+[('I feel so bad for this family .', None, None, None, 1), ('I can not even begin to imagine losing my sweet pet , or frankly , even the pets of my friends and loved ones .', None, None, None, 1), ('They must be so upset right now . Thank God they are still alive', None, None, None, 0), ('but I imagine', None, None, None, 0), ('the thought', None, None, None, 0), ('of the pain and suffering', None, None, None, 0), ('their pets went through', None, None, None, 0), ('will haunt them for quite a while .', None, None, None, 1), ('It is so awful .', None, None, None, 1)]

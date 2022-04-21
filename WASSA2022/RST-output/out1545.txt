@@ -1,0 +1,23 @@
+=====================> [[('An endangered species of polar bears have seen an increase in the number of them killed by visitors , or hunters .', None, None, None, 1), ('Look at how the people are apparently organizing against the threat to these wonderful , and endangered creatures .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if they can turn the tide ,', None, None, None, 0), ('there are a lot of bad people out there', None, None, None, 0), ('who hunt for sport ,', None, None, None, 0), ('but they can surely slow it down ,', None, None, None, 0), ("and that 's a good thing .", None, None, None, 1), ('I hope', None, None, None, 0), ('their efforts are strong enough', None, None, None, 0), ('that this wonderful species can be preserved , intact , in their natural habitat .', None, None, None, 1)]]
+Leaf:  N Elaborate An endangered species of polar bears have seen an increase in the number of them killed by visitors , or hunters .
+Leaf:  N Evaluation Look at how the people are apparently organizing against the threat to these wonderful , and endangered creatures .
+Leaf:  S span I 'm not sure
+Leaf:  N Explanation if they can turn the tide ,
+Leaf:  N Elaborate there are a lot of bad people out there
+Leaf:  S span who hunt for sport ,
+Inner:  S span None Elaborate NS
+Leaf:  N Evaluation but they can surely slow it down ,
+Leaf:  S span and that 's a good thing .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  N Attribution None Explanation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope
+Leaf:  S span their efforts are strong enough
+Leaf:  N Condition that this wonderful species can be preserved , intact , in their natural habitat .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('An endangered species of polar bears have seen an increase in the number of them killed by visitors , or hunters .', None, None, None, 1), ('Look at how the people are apparently organizing against the threat to these wonderful , and endangered creatures .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if they can turn the tide ,', None, None, None, 0), ('there are a lot of bad people out there', None, None, None, 0), ('who hunt for sport ,', None, None, None, 0), ('but they can surely slow it down ,', None, None, None, 0), ("and that 's a good thing .", None, None, None, 1), ('I hope', None, None, None, 0), ('their efforts are strong enough', None, None, None, 0), ('that this wonderful species can be preserved , intact , in their natural habitat .', None, None, None, 1)]

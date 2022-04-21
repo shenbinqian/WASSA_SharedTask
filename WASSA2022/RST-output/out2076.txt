@@ -1,0 +1,57 @@
+=====================> [[('Did you see the latest on the death toll ?', None, None, None, 1), ('Some were civilians', None, None, None, 0), ('including two women', None, None, None, 0), ('who were in their house .', None, None, None, 1), ('Can you imagine how scared they were ?', None, None, None, 1), ('I always think of their families or friends or partners .', None, None, None, 1), ("Those women were someone 's person .", None, None, None, 1), ('People had their person taken away for no reason .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('how heartbreaking that must feel .', None, None, None, 1), ("If I lost my husband like that I do n't know", None, None, None, 0), ('how I would even go on . Especially being civilians like that and dying in their home .', None, None, None, 1), ('They probably thought', None, None, None, 0), ('they were safe .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what they thought in the last moments .', None, None, None, 1), ('Did they know', None, None, None, 0), ('they were in danger ,', None, None, None, 0), ('could they hear signs ?', None, None, None, 1), ('Did they know for sure', None, None, None, 0), ('they were going to die', None, None, None, 0), ('or did they have hope', None, None, None, 0), ('that they might make it ?', None, None, None, 1), ('Did they shelter together', None, None, None, 0), ('and comfort each other', None, None, None, 0), ('and try to be brave ?', None, None, None, 1), ('I feel sick', None, None, None, 0), ('thinking aobut', None, None, None, 0)]]
+Leaf:  N Elaborate Did you see the latest on the death toll ?
+Leaf:  N Elaborate Some were civilians
+Leaf:  N Elaborate including two women
+Leaf:  S span who were in their house .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation Can you imagine how scared they were ?
+Leaf:  N Elaborate I always think of their families or friends or partners .
+Leaf:  N Elaborate Those women were someone 's person .
+Leaf:  S span People had their person taken away for no reason .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution how heartbreaking that must feel .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span If I lost my husband like that I do n't know
+Leaf:  N Attribution how I would even go on . Especially being civilians like that and dying in their home .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span They probably thought
+Leaf:  N Attribution they were safe .
+Inner:  N Contrast None Attribution SN
+Leaf:  S span I wonder
+Leaf:  N Attribution what they thought in the last moments .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Did they know
+Leaf:  N Attribution they were in danger ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint could they hear signs ?
+Inner:  N Joint None Joint NN
+Leaf:  S span Did they know for sure
+Leaf:  N Attribution they were going to die
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate or did they have hope
+Leaf:  S span that they might make it ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Did they shelter together
+Leaf:  N Joint and comfort each other
+Leaf:  N Joint and try to be brave ?
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background I feel sick
+Leaf:  S span thinking aobut
+Inner:  S span None Background NS
+Inner:  Root None None Evaluation NS
+[('Did you see the latest on the death toll ?', None, None, None, 1), ('Some were civilians', None, None, None, 0), ('including two women', None, None, None, 0), ('who were in their house .', None, None, None, 1), ('Can you imagine how scared they were ?', None, None, None, 1), ('I always think of their families or friends or partners .', None, None, None, 1), ("Those women were someone 's person .", None, None, None, 1), ('People had their person taken away for no reason .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('how heartbreaking that must feel .', None, None, None, 1), ("If I lost my husband like that I do n't know", None, None, None, 0), ('how I would even go on . Especially being civilians like that and dying in their home .', None, None, None, 1), ('They probably thought', None, None, None, 0), ('they were safe .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what they thought in the last moments .', None, None, None, 1), ('Did they know', None, None, None, 0), ('they were in danger ,', None, None, None, 0), ('could they hear signs ?', None, None, None, 1), ('Did they know for sure', None, None, None, 0), ('they were going to die', None, None, None, 0), ('or did they have hope', None, None, None, 0), ('that they might make it ?', None, None, None, 1), ('Did they shelter together', None, None, None, 0), ('and comfort each other', None, None, None, 0), ('and try to be brave ?', None, None, None, 1), ('I feel sick', None, None, None, 0), ('thinking aobut', None, None, None, 0)]

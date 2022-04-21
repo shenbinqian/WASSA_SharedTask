@@ -1,0 +1,33 @@
+=====================> [[('Hey bro you been hearing about that shooting in Charlotte , N.C ?', None, None, None, 1), ("Is n't that pretty messed up", None, None, None, 0), ('that all these police shootings and racial black lives matter approach to life', None, None, None, 0), ('and living day to day ?', None, None, None, 1), ('I ready that 16 cops were injured due to a protest/standoff .', None, None, None, 1), ('I guess they say', None, None, None, 0), ('the cop shot the black man', None, None, None, 0), ('and he was even unarmed .', None, None, None, 1), ('Why so theey have to shot someone', None, None, None, 0), ("when they do n't even have a chance", None, None, None, 0), ('to defend themselves .', None, None, None, 1), ('It is very sad world', None, None, None, 0), ('we all live in these days .', None, None, None, 1), ('No one can get along', None, None, None, 0), ('but shooting and fighting you best believe', None, None, None, 0), ('they can do all that .', None, None, None, 1)]]
+Leaf:  N Summary Hey bro you been hearing about that shooting in Charlotte , N.C ?
+Leaf:  N Cause Is n't that pretty messed up
+Leaf:  N Joint that all these police shootings and racial black lives matter approach to life
+Leaf:  N Joint and living day to day ?
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Elaborate I ready that 16 cops were injured due to a protest/standoff .
+Leaf:  S span I guess they say
+Leaf:  N Joint the cop shot the black man
+Leaf:  N Joint and he was even unarmed .
+Inner:  N Attribution None Joint NN
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Background Why so theey have to shot someone
+Leaf:  N Elaborate when they do n't even have a chance
+Leaf:  S span to defend themselves .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Background NS
+Inner:  S span None Topic-Comment NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is very sad world
+Leaf:  S span we all live in these days .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast No one can get along
+Leaf:  S span but shooting and fighting you best believe
+Leaf:  N Attribution they can do all that .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Hey bro you been hearing about that shooting in Charlotte , N.C ?', None, None, None, 1), ("Is n't that pretty messed up", None, None, None, 0), ('that all these police shootings and racial black lives matter approach to life', None, None, None, 0), ('and living day to day ?', None, None, None, 1), ('I ready that 16 cops were injured due to a protest/standoff .', None, None, None, 1), ('I guess they say', None, None, None, 0), ('the cop shot the black man', None, None, None, 0), ('and he was even unarmed .', None, None, None, 1), ('Why so theey have to shot someone', None, None, None, 0), ("when they do n't even have a chance", None, None, None, 0), ('to defend themselves .', None, None, None, 1), ('It is very sad world', None, None, None, 0), ('we all live in these days .', None, None, None, 1), ('No one can get along', None, None, None, 0), ('but shooting and fighting you best believe', None, None, None, 0), ('they can do all that .', None, None, None, 1)]

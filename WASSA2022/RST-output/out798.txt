@@ -1,0 +1,33 @@
+=====================> [[('Those poor boys .', None, None, None, 1), ('They never asked for any of this .', None, None, None, 1), ('Their father be a died beat dad', None, None, None, 0), ('and kill them . What a completely asshole to scared jerk . The boys were so young and helpless with a dead beat dad .', None, None, None, 1), ('The man should of just killed himself', None, None, None, 0), ('and left those 2 boys out of it .', None, None, None, 1), ('What did he accomplish by killing his sons ? I have no words', None, None, None, 0), ('to describe', None, None, None, 0), ('how much pain', None, None, None, 0), ('those 2 little ones were probably in .', None, None, None, 1), ('Its ashame when kids have to take fault for thier parents misfortunes . And that mother .', None, None, None, 1), ('The heart ache', None, None, None, 0), ('she will have to face', None, None, None, 0), ('of losing not only 1 son but 2 .', None, None, None, 1), ('I can not imagine the sorrow', None, None, None, 0), ('that woukd cause .', None, None, None, 1)]]
+Leaf:  N Elaborate Those poor boys .
+Leaf:  S span They never asked for any of this .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Their father be a died beat dad
+Leaf:  N Joint and kill them . What a completely asshole to scared jerk . The boys were so young and helpless with a dead beat dad .
+Inner:  N Condition None Joint NN
+Leaf:  N Joint The man should of just killed himself
+Leaf:  N Joint and left those 2 boys out of it .
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate What did he accomplish by killing his sons ? I have no words
+Leaf:  S span to describe
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate how much pain
+Leaf:  S span those 2 little ones were probably in .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Its ashame when kids have to take fault for thier parents misfortunes . And that mother .
+Leaf:  N Elaborate The heart ache
+Leaf:  N Elaborate she will have to face
+Leaf:  S span of losing not only 1 son but 2 .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I can not imagine the sorrow
+Leaf:  S span that woukd cause .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Those poor boys .', None, None, None, 1), ('They never asked for any of this .', None, None, None, 1), ('Their father be a died beat dad', None, None, None, 0), ('and kill them . What a completely asshole to scared jerk . The boys were so young and helpless with a dead beat dad .', None, None, None, 1), ('The man should of just killed himself', None, None, None, 0), ('and left those 2 boys out of it .', None, None, None, 1), ('What did he accomplish by killing his sons ? I have no words', None, None, None, 0), ('to describe', None, None, None, 0), ('how much pain', None, None, None, 0), ('those 2 little ones were probably in .', None, None, None, 1), ('Its ashame when kids have to take fault for thier parents misfortunes . And that mother .', None, None, None, 1), ('The heart ache', None, None, None, 0), ('she will have to face', None, None, None, 0), ('of losing not only 1 son but 2 .', None, None, None, 1), ('I can not imagine the sorrow', None, None, None, 0), ('that woukd cause .', None, None, None, 1)]

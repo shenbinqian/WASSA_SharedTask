@@ -1,0 +1,31 @@
+=====================> [[('Did you see', None, None, None, 0), ('that Leonard Cohen passed away ?', None, None, None, 1), ('You know , the guy', None, None, None, 0), ('who made the Hallelujah song .', None, None, None, 1), ('Poor guy passed away', None, None, None, 0), ('after suffering an injury', None, None, None, 0), ('but from what I hear', None, None, None, 0), ('he passed away in his sleep', None, None, None, 0), ("and he did n't suffer at all which is really good .", None, None, None, 1), ('It really makes you think', None, None, None, 0), ('that', None, None, None, 0), ('if he would of went to the hospital', None, None, None, 0), ('he might actually still be alive .', None, None, None, 1), ('Just make sure you get yourself checked', None, None, None, 0), ('if you ever hurt yourself .', None, None, None, 1)]]
+Leaf:  S span Did you see
+Leaf:  N Attribution that Leonard Cohen passed away ?
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate You know , the guy
+Leaf:  S span who made the Hallelujah song .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal Poor guy passed away
+Leaf:  S span after suffering an injury
+Inner:  N Contrast None Temporal NS
+Leaf:  N Same-Unit but from what I hear
+Leaf:  N Same-Unit he passed away in his sleep
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and he did n't suffer at all which is really good .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span It really makes you think
+Leaf:  N Same-Unit that
+Leaf:  S span if he would of went to the hospital
+Leaf:  N Condition he might actually still be alive .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition Just make sure you get yourself checked
+Leaf:  S span if you ever hurt yourself .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Did you see', None, None, None, 0), ('that Leonard Cohen passed away ?', None, None, None, 1), ('You know , the guy', None, None, None, 0), ('who made the Hallelujah song .', None, None, None, 1), ('Poor guy passed away', None, None, None, 0), ('after suffering an injury', None, None, None, 0), ('but from what I hear', None, None, None, 0), ('he passed away in his sleep', None, None, None, 0), ("and he did n't suffer at all which is really good .", None, None, None, 1), ('It really makes you think', None, None, None, 0), ('that', None, None, None, 0), ('if he would of went to the hospital', None, None, None, 0), ('he might actually still be alive .', None, None, None, 1), ('Just make sure you get yourself checked', None, None, None, 0), ('if you ever hurt yourself .', None, None, None, 1)]

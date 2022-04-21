@@ -1,0 +1,17 @@
+=====================> [[('I find', None, None, None, 0), ('it really amusing how Zika has been around since 1947', None, None, None, 0), ('and not much fuss was made about it', None, None, None, 0), ('until it began killing people stateside . As usual , Black bodies are not valued or the conditions', None, None, None, 0), ('surrounding them', None, None, None, 0), ('until the same things begins to plague white people .', None, None, None, 1), ('Zika was minimized and downplayed for over sixty years .', None, None, None, 1), ('That says alot .', None, None, None, 1)]]
+Leaf:  S span I find
+Leaf:  N Temporal it really amusing how Zika has been around since 1947
+Leaf:  N Temporal and not much fuss was made about it
+Inner:  N Attribution None Temporal NN
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate until it began killing people stateside . As usual , Black bodies are not valued or the conditions
+Leaf:  S span surrounding them
+Inner:  N Cause None Elaborate NS
+Leaf:  S span until the same things begins to plague white people .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Background NS
+Leaf:  S span Zika was minimized and downplayed for over sixty years .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span That says alot .
+Inner:  Root None None Evaluation NS
+[('I find', None, None, None, 0), ('it really amusing how Zika has been around since 1947', None, None, None, 0), ('and not much fuss was made about it', None, None, None, 0), ('until it began killing people stateside . As usual , Black bodies are not valued or the conditions', None, None, None, 0), ('surrounding them', None, None, None, 0), ('until the same things begins to plague white people .', None, None, None, 1), ('Zika was minimized and downplayed for over sixty years .', None, None, None, 1), ('That says alot .', None, None, None, 1)]

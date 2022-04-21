@@ -1,0 +1,33 @@
+=====================> [[('I think', None, None, None, 0), ('this family had more then enough warning', None, None, None, 0), ('and notice', None, None, None, 0), ('not to go into that hot spring area .', None, None, None, 1), ('the young man fell', None, None, None, 0), ('and scalded himself to death', None, None, None, 0), ('while his sister/friend sat there', None, None, None, 0), ('and videotaped the whole thing . i dont understand some peoples logic .', None, None, None, 1), ('what made them think', None, None, None, 0), ('this was ok ?', None, None, None, 1), ('what made them think', None, None, None, 0), ('they would be ok', None, None, None, 0), ('and what made them thing', None, None, None, 0), ('that parks put boundaries up jsut', None, None, None, 0), ('because they think', None, None, None, 0), ('its funny .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Joint this family had more then enough warning
+Leaf:  N Elaborate and notice
+Leaf:  S span not to go into that hot spring area .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint the young man fell
+Leaf:  N Joint and scalded himself to death
+Inner:  N Temporal None Joint NN
+Leaf:  N Joint while his sister/friend sat there
+Leaf:  N Joint and videotaped the whole thing . i dont understand some peoples logic .
+Inner:  N Temporal None Joint NN
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span what made them think
+Leaf:  N Attribution this was ok ?
+Inner:  N Joint None Attribution SN
+Leaf:  S span what made them think
+Leaf:  N Attribution they would be ok
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and what made them thing
+Leaf:  N Explanation that parks put boundaries up jsut
+Leaf:  S span because they think
+Leaf:  N Attribution its funny .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('this family had more then enough warning', None, None, None, 0), ('and notice', None, None, None, 0), ('not to go into that hot spring area .', None, None, None, 1), ('the young man fell', None, None, None, 0), ('and scalded himself to death', None, None, None, 0), ('while his sister/friend sat there', None, None, None, 0), ('and videotaped the whole thing . i dont understand some peoples logic .', None, None, None, 1), ('what made them think', None, None, None, 0), ('this was ok ?', None, None, None, 1), ('what made them think', None, None, None, 0), ('they would be ok', None, None, None, 0), ('and what made them thing', None, None, None, 0), ('that parks put boundaries up jsut', None, None, None, 0), ('because they think', None, None, None, 0), ('its funny .', None, None, None, 1)]

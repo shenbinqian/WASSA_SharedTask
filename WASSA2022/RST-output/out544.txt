@@ -1,0 +1,25 @@
+=====================> [[('The article', None, None, None, 0), ('that I just read', None, None, None, 0), ('sheds light', None, None, None, 0), ('on how hard it really is for people to get out of timeshares .', None, None, None, 1), ('The article highlighted an older couple .', None, None, None, 1), ('The couple bought their timeshare', None, None, None, 0), ('when their children were younger', None, None, None, 0), ("and they were able to travel . Now , many years later , the older couple finds it hard it get traveler 's insurance .", None, None, None, 1), ('They also stated', None, None, None, 0), ('how expensive traveling can be alone .', None, None, None, 1), ('The couple is struggling to get rid of their timeshare .', None, None, None, 1), ('It makes me feel for the couple and other people in this financial burden .', None, None, None, 1)]]
+Leaf:  N Elaborate The article
+Leaf:  S span that I just read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span sheds light
+Leaf:  N Attribution on how hard it really is for people to get out of timeshares .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The article highlighted an older couple .
+Leaf:  N Temporal The couple bought their timeshare
+Leaf:  N Joint when their children were younger
+Leaf:  N Joint and they were able to travel . Now , many years later , the older couple finds it hard it get traveler 's insurance .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span They also stated
+Leaf:  N Attribution how expensive traveling can be alone .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The couple is struggling to get rid of their timeshare .
+Leaf:  S span It makes me feel for the couple and other people in this financial burden .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The article', None, None, None, 0), ('that I just read', None, None, None, 0), ('sheds light', None, None, None, 0), ('on how hard it really is for people to get out of timeshares .', None, None, None, 1), ('The article highlighted an older couple .', None, None, None, 1), ('The couple bought their timeshare', None, None, None, 0), ('when their children were younger', None, None, None, 0), ("and they were able to travel . Now , many years later , the older couple finds it hard it get traveler 's insurance .", None, None, None, 1), ('They also stated', None, None, None, 0), ('how expensive traveling can be alone .', None, None, None, 1), ('The couple is struggling to get rid of their timeshare .', None, None, None, 1), ('It makes me feel for the couple and other people in this financial burden .', None, None, None, 1)]

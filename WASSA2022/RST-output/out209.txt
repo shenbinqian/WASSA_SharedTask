@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about leprosy', None, None, None, 0), ('found in squirrels .', None, None, None, 1), ('It is kind of scary to think about what diseases can be lurking in other animals', None, None, None, 0), ('that we are not even aware of .', None, None, None, 1), ('I worry enough about this kind of stuff', None, None, None, 0), ('as it is ,', None, None, None, 0), ('and now I just have more', None, None, None, 0), ('to worry about', None, None, None, 0), ('when I leave the house .', None, None, None, 1), ('Sometimes I think', None, None, None, 0), ('that ignorance is bliss .', None, None, None, 1), ('It makes me want to just stay inside .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about leprosy
+Leaf:  S span found in squirrels .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is kind of scary to think about what diseases can be lurking in other animals
+Leaf:  S span that we are not even aware of .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I worry enough about this kind of stuff
+Leaf:  S span as it is ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and now I just have more
+Leaf:  S span to worry about
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span when I leave the house .
+Inner:  N Background None Temporal NS
+Inner:  S span None Background SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Sometimes I think
+Leaf:  N Attribution that ignorance is bliss .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It makes me want to just stay inside .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about leprosy', None, None, None, 0), ('found in squirrels .', None, None, None, 1), ('It is kind of scary to think about what diseases can be lurking in other animals', None, None, None, 0), ('that we are not even aware of .', None, None, None, 1), ('I worry enough about this kind of stuff', None, None, None, 0), ('as it is ,', None, None, None, 0), ('and now I just have more', None, None, None, 0), ('to worry about', None, None, None, 0), ('when I leave the house .', None, None, None, 1), ('Sometimes I think', None, None, None, 0), ('that ignorance is bliss .', None, None, None, 1), ('It makes me want to just stay inside .', None, None, None, 1)]

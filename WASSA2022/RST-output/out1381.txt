@@ -1,0 +1,17 @@
+=====================> [[('It is really sad how many millions of people are led astray from the truth of the Bible .', None, None, None, 1), ('When people are exposed to hatred all their lives ,', None, None, None, 0), ("it 's very easy for them to become extremists .", None, None, None, 1), ('This suicide bomber in Pakistan is one of the sickest out there .', None, None, None, 1), ('People with no fear of death and who think', None, None, None, 0), ("they 're actually going to be rewarded in the afterlife", None, None, None, 0), ('for killing innocent people ?', None, None, None, 1), ('How stupid !', None, None, None, 1)]]
+Leaf:  N Elaborate It is really sad how many millions of people are led astray from the truth of the Bible .
+Leaf:  S span When people are exposed to hatred all their lives ,
+Leaf:  N Cause it 's very easy for them to become extremists .
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint This suicide bomber in Pakistan is one of the sickest out there .
+Leaf:  S span People with no fear of death and who think
+Leaf:  N Cause they 're actually going to be rewarded in the afterlife
+Leaf:  N Cause for killing innocent people ?
+Inner:  N Attribution None Cause NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span How stupid !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is really sad how many millions of people are led astray from the truth of the Bible .', None, None, None, 1), ('When people are exposed to hatred all their lives ,', None, None, None, 0), ("it 's very easy for them to become extremists .", None, None, None, 1), ('This suicide bomber in Pakistan is one of the sickest out there .', None, None, None, 1), ('People with no fear of death and who think', None, None, None, 0), ("they 're actually going to be rewarded in the afterlife", None, None, None, 0), ('for killing innocent people ?', None, None, None, 1), ('How stupid !', None, None, None, 1)]

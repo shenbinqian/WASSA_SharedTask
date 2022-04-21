@@ -1,0 +1,41 @@
+=====================> [[("I 'm the last one", None, None, None, 0), ('to want to victim blame anyone .', None, None, None, 1), ('I think as a celebrity you have to be a bit more conscious of your actions .', None, None, None, 1), ('Do I think Kim', None, None, None, 0), ('by posting the pics', None, None, None, 0), ('made someone want to rob her ?', None, None, None, 1), ('No ,', None, None, None, 0), ('but I think', None, None, None, 0), ("it 's probably best to be more modest", None, None, None, 0), ('about what you post . I mean , just for safeties sake .', None, None, None, 1), ('I agree ,', None, None, None, 0), ("I 'd be scared to post about Tristan 's ring too", None, None, None, 0), ("especially since it was n't so long ago that Kim was robbed .", None, None, None, 1), ('Yes ,', None, None, None, 0), ("I 'm sure", None, None, None, 0), ('everything is insured ,', None, None, None, 0), ("but it 's still a scary experience", None, None, None, 0), ("and I 'd do everything", None, None, None, 0), ('I could', None, None, None, 0), ('to avoid it .', None, None, None, 1)]]
+Leaf:  N Elaborate I 'm the last one
+Leaf:  S span to want to victim blame anyone .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I think as a celebrity you have to be a bit more conscious of your actions .
+Leaf:  N Same-Unit Do I think Kim
+Leaf:  S span by posting the pics
+Leaf:  N Manner-Means made someone want to rob her ?
+Inner:  N Same-Unit None Manner-Means SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span No ,
+Leaf:  S span but I think
+Leaf:  N Elaborate it 's probably best to be more modest
+Leaf:  S span about what you post . I mean , just for safeties sake .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I agree ,
+Leaf:  N Explanation I 'd be scared to post about Tristan 's ring too
+Leaf:  S span especially since it was n't so long ago that Kim was robbed .
+Inner:  N Contrast None Explanation NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Yes ,
+Leaf:  N Same-Unit I 'm sure
+Leaf:  N Same-Unit everything is insured ,
+Inner:  N Elaborate None Same-Unit NN
+Inner:  S span None Elaborate SN
+Leaf:  N Joint but it 's still a scary experience
+Leaf:  N Elaborate and I 'd do everything
+Leaf:  N Enablement I could
+Leaf:  S span to avoid it .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("I 'm the last one", None, None, None, 0), ('to want to victim blame anyone .', None, None, None, 1), ('I think as a celebrity you have to be a bit more conscious of your actions .', None, None, None, 1), ('Do I think Kim', None, None, None, 0), ('by posting the pics', None, None, None, 0), ('made someone want to rob her ?', None, None, None, 1), ('No ,', None, None, None, 0), ('but I think', None, None, None, 0), ("it 's probably best to be more modest", None, None, None, 0), ('about what you post . I mean , just for safeties sake .', None, None, None, 1), ('I agree ,', None, None, None, 0), ("I 'd be scared to post about Tristan 's ring too", None, None, None, 0), ("especially since it was n't so long ago that Kim was robbed .", None, None, None, 1), ('Yes ,', None, None, None, 0), ("I 'm sure", None, None, None, 0), ('everything is insured ,', None, None, None, 0), ("but it 's still a scary experience", None, None, None, 0), ("and I 'd do everything", None, None, None, 0), ('I could', None, None, None, 0), ('to avoid it .', None, None, None, 1)]

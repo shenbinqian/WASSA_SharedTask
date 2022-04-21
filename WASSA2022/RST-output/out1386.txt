@@ -1,0 +1,29 @@
+=====================> [[('I feel horrible', None, None, None, 0), ('that this is happening .', None, None, None, 1), ('It probably a lot to do with what America has done in that country .', None, None, None, 1), ('They are the ones', None, None, None, 0), ('who armed the rebels', None, None, None, 0), ('and caused this problem .', None, None, None, 1), ('America created the terrorists groups .', None, None, None, 1), ('I know', None, None, None, 0), ('I am not responsible', None, None, None, 0), ('but it makes me sick to know that intelligence agencies from our own countries instigated this problem .', None, None, None, 1), ('I feel sympathy for all those', None, None, None, 0), ('who have been killed', None, None, None, 0), ('and the families', None, None, None, 0), ("who 's lives have been ruined .", None, None, None, 1)]]
+Leaf:  S span I feel horrible
+Leaf:  N Attribution that this is happening .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It probably a lot to do with what America has done in that country .
+Leaf:  N Elaborate They are the ones
+Leaf:  N Joint who armed the rebels
+Leaf:  N Joint and caused this problem .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span America created the terrorists groups .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Attribution I am not responsible
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it makes me sick to know that intelligence agencies from our own countries instigated this problem .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I feel sympathy for all those
+Leaf:  S span who have been killed
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the families
+Leaf:  S span who 's lives have been ruined .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Elaborate NS
+[('I feel horrible', None, None, None, 0), ('that this is happening .', None, None, None, 1), ('It probably a lot to do with what America has done in that country .', None, None, None, 1), ('They are the ones', None, None, None, 0), ('who armed the rebels', None, None, None, 0), ('and caused this problem .', None, None, None, 1), ('America created the terrorists groups .', None, None, None, 1), ('I know', None, None, None, 0), ('I am not responsible', None, None, None, 0), ('but it makes me sick to know that intelligence agencies from our own countries instigated this problem .', None, None, None, 1), ('I feel sympathy for all those', None, None, None, 0), ('who have been killed', None, None, None, 0), ('and the families', None, None, None, 0), ("who 's lives have been ruined .", None, None, None, 1)]

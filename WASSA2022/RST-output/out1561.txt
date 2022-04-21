@@ -1,0 +1,27 @@
+=====================> [[('This is really scary .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I would want to have my life in the hands of someone else like on this whaling boat .', None, None, None, 1), ("someone 's stupid mistakes can really be bad news for everyone", None, None, None, 0), ('trusting that person .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ("If i 'd be interested in going out on a boat , whaling , or even a cruise ship", None, None, None, 0), ('after reading this article.Just one wrong move from another person can seal your fate .', None, None, None, 1), ('It must have been so terrifying for these people . I definitely believe all the trauma', None, None, None, 0), ('they say', None, None, None, 0), ('they have endured', None, None, None, 0), ('and I would definitely rule for them in the suits', None, None, None, 0), ('they brought against the plantiff .', None, None, None, 1)]]
+Leaf:  N Evaluation This is really scary .
+Leaf:  S span I do n't think
+Leaf:  N Attribution I would want to have my life in the hands of someone else like on this whaling boat .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate someone 's stupid mistakes can really be bad news for everyone
+Leaf:  S span trusting that person .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution If i 'd be interested in going out on a boat , whaling , or even a cruise ship
+Inner:  N Temporal None Attribution SN
+Leaf:  S span after reading this article.Just one wrong move from another person can seal your fate .
+Inner:  S span None Temporal NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate It must have been so terrifying for these people . I definitely believe all the trauma
+Leaf:  N Elaborate they say
+Leaf:  S span they have endured
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and I would definitely rule for them in the suits
+Leaf:  S span they brought against the plantiff .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This is really scary .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I would want to have my life in the hands of someone else like on this whaling boat .', None, None, None, 1), ("someone 's stupid mistakes can really be bad news for everyone", None, None, None, 0), ('trusting that person .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ("If i 'd be interested in going out on a boat , whaling , or even a cruise ship", None, None, None, 0), ('after reading this article.Just one wrong move from another person can seal your fate .', None, None, None, 1), ('It must have been so terrifying for these people . I definitely believe all the trauma', None, None, None, 0), ('they say', None, None, None, 0), ('they have endured', None, None, None, 0), ('and I would definitely rule for them in the suits', None, None, None, 0), ('they brought against the plantiff .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('I think', None, None, None, 0), ("it 's unfortunate that people are targetting children", None, None, None, 0), ('to join their terrorist communities .', None, None, None, 1), ("It 's sad because all these kids have a future", None, None, None, 0), ('but they get wrapped up in this brainwashing stuff .', None, None, None, 1), ('And then people are perfectly fine pinning it on an entire community', None, None, None, 0), ("and that 's not fair", None, None, None, 0), ('becuase it really had nothing to do with the community itself', None, None, None, 0), ('and was more of an individuals decision', None, None, None, 0)]]
+Leaf:  S span I think
+Leaf:  N Enablement it 's unfortunate that people are targetting children
+Leaf:  S span to join their terrorist communities .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's sad because all these kids have a future
+Leaf:  N Contrast but they get wrapped up in this brainwashing stuff .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Leaf:  N Contrast And then people are perfectly fine pinning it on an entire community
+Leaf:  N Contrast and that 's not fair
+Inner:  N Explanation None Contrast NN
+Leaf:  N Joint becuase it really had nothing to do with the community itself
+Leaf:  N Joint and was more of an individuals decision
+Inner:  S span None Joint NN
+Inner:  N Background None Explanation NS
+Inner:  Root None None Background SN
+[('I think', None, None, None, 0), ("it 's unfortunate that people are targetting children", None, None, None, 0), ('to join their terrorist communities .', None, None, None, 1), ("It 's sad because all these kids have a future", None, None, None, 0), ('but they get wrapped up in this brainwashing stuff .', None, None, None, 1), ('And then people are perfectly fine pinning it on an entire community', None, None, None, 0), ("and that 's not fair", None, None, None, 0), ('becuase it really had nothing to do with the community itself', None, None, None, 0), ('and was more of an individuals decision', None, None, None, 0)]

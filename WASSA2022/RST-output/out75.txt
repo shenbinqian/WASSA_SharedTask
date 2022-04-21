@@ -1,0 +1,31 @@
+=====================> [[('This is so sad .', None, None, None, 1), ('Today I read about a lady', None, None, None, 0), ('who passed away November 6th', None, None, None, 0), ('and had shared many of her stories of her experiences in the holocaust .', None, None, None, 1), ("IT 's very sad to think there are n't many people left", None, None, None, 0), ('to share these stories .', None, None, None, 1), ('I remember', None, None, None, 0), ('being in Junior high', None, None, None, 0), ('and hearing someone speak about it ,', None, None, None, 0), ('and to think', None, None, None, 0), ('kids these days will never get that .', None, None, None, 1), ('Thankfully , there are museums for people', None, None, None, 0), ('to attend', None, None, None, 0), ('to hear', None, None, None, 0), ('and get closer to what truly happened back then .', None, None, None, 1)]]
+Leaf:  N Explanation This is so sad .
+Leaf:  N Elaborate Today I read about a lady
+Leaf:  S span who passed away November 6th
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and had shared many of her stories of her experiences in the holocaust .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Enablement IT 's very sad to think there are n't many people left
+Leaf:  S span to share these stories .
+Inner:  S span None Enablement NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate I remember
+Leaf:  S span being in Junior high
+Leaf:  N Temporal and hearing someone speak about it ,
+Inner:  S span None Temporal SN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and to think
+Leaf:  N Attribution kids these days will never get that .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Elaborate Thankfully , there are museums for people
+Leaf:  S span to attend
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Joint to hear
+Leaf:  N Joint and get closer to what truly happened back then .
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('This is so sad .', None, None, None, 1), ('Today I read about a lady', None, None, None, 0), ('who passed away November 6th', None, None, None, 0), ('and had shared many of her stories of her experiences in the holocaust .', None, None, None, 1), ("IT 's very sad to think there are n't many people left", None, None, None, 0), ('to share these stories .', None, None, None, 1), ('I remember', None, None, None, 0), ('being in Junior high', None, None, None, 0), ('and hearing someone speak about it ,', None, None, None, 0), ('and to think', None, None, None, 0), ('kids these days will never get that .', None, None, None, 1), ('Thankfully , there are museums for people', None, None, None, 0), ('to attend', None, None, None, 0), ('to hear', None, None, None, 0), ('and get closer to what truly happened back then .', None, None, None, 1)]

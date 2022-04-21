@@ -1,0 +1,31 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('that this happened .', None, None, None, 1), ('Can you imagine what it must be like to flee from something so incredibly dangerous', None, None, None, 0), ('and then lose your life at sea', None, None, None, 0), ('or see people die', None, None, None, 0), ("while you 're escaping ?", None, None, None, 1), ('I wonder sometimes what must possess refugees to do this . Is there no other way for them to escape ? Why do they risk their lives', None, None, None, 0), ('when they know the numbers of people', None, None, None, 0), ('who die in situations like this ?', None, None, None, 1), ('It must be awful where they are coming from', None, None, None, 0), ('for them to risk it all . I mean , look at that star soccer player .', None, None, None, 1), ('She was like royalty in her country and a celebrated athlete .', None, None, None, 1), ('If even she took the risk', None, None, None, 0), ('and died ,', None, None, None, 0), ('what must it be like for other people ?', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution that this happened .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Temporal Can you imagine what it must be like to flee from something so incredibly dangerous
+Leaf:  N Joint and then lose your life at sea
+Leaf:  N Temporal or see people die
+Leaf:  S span while you 're escaping ?
+Inner:  N Joint None Temporal NS
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background I wonder sometimes what must possess refugees to do this . Is there no other way for them to escape ? Why do they risk their lives
+Leaf:  N Elaborate when they know the numbers of people
+Leaf:  S span who die in situations like this ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Cause It must be awful where they are coming from
+Leaf:  S span for them to risk it all . I mean , look at that star soccer player .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span She was like royalty in her country and a celebrated athlete .
+Inner:  S span None Elaborate NS
+Leaf:  N Cause If even she took the risk
+Leaf:  N Cause and died ,
+Inner:  S span None Cause NN
+Leaf:  N Condition what must it be like for other people ?
+Inner:  N Background None Condition SN
+Inner:  S span None Background SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I ca n't believe", None, None, None, 0), ('that this happened .', None, None, None, 1), ('Can you imagine what it must be like to flee from something so incredibly dangerous', None, None, None, 0), ('and then lose your life at sea', None, None, None, 0), ('or see people die', None, None, None, 0), ("while you 're escaping ?", None, None, None, 1), ('I wonder sometimes what must possess refugees to do this . Is there no other way for them to escape ? Why do they risk their lives', None, None, None, 0), ('when they know the numbers of people', None, None, None, 0), ('who die in situations like this ?', None, None, None, 1), ('It must be awful where they are coming from', None, None, None, 0), ('for them to risk it all . I mean , look at that star soccer player .', None, None, None, 1), ('She was like royalty in her country and a celebrated athlete .', None, None, None, 1), ('If even she took the risk', None, None, None, 0), ('and died ,', None, None, None, 0), ('what must it be like for other people ?', None, None, None, 1)]

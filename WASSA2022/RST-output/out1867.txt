@@ -1,0 +1,21 @@
+=====================> [[('My feelings', None, None, None, 0), ('after reading the article', None, None, None, 0), ('is that it made me feel a bit sad .', None, None, None, 1), ('I felt sad', None, None, None, 0), ('because i feel', None, None, None, 0), ('like the oil spills and leaks are going to affect the wildlife especially the ones in the water .', None, None, None, 1), ('I am huge on helping animals', None, None, None, 0), ('and keeping them safe from humans', None, None, None, 0), ('harming them .', None, None, None, 1), ('This article definitely put me more on the negative side .', None, None, None, 1)]]
+Leaf:  N Temporal My feelings
+Leaf:  S span after reading the article
+Inner:  N Same-Unit None Temporal NS
+Leaf:  N Same-Unit is that it made me feel a bit sad .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Explanation I felt sad
+Leaf:  S span because i feel
+Leaf:  N Attribution like the oil spills and leaks are going to affect the wildlife especially the ones in the water .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint I am huge on helping animals
+Leaf:  N Elaborate and keeping them safe from humans
+Leaf:  S span harming them .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Background This article definitely put me more on the negative side .
+Inner:  Root None None Background SN
+[('My feelings', None, None, None, 0), ('after reading the article', None, None, None, 0), ('is that it made me feel a bit sad .', None, None, None, 1), ('I felt sad', None, None, None, 0), ('because i feel', None, None, None, 0), ('like the oil spills and leaks are going to affect the wildlife especially the ones in the water .', None, None, None, 1), ('I am huge on helping animals', None, None, None, 0), ('and keeping them safe from humans', None, None, None, 0), ('harming them .', None, None, None, 1), ('This article definitely put me more on the negative side .', None, None, None, 1)]

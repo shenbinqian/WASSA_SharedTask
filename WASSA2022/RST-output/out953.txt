@@ -1,0 +1,13 @@
+=====================> [[('So the police found this woman', None, None, None, 0), ('wondering the streets in Philadelphia at 1 am with no coat on in the cold .', None, None, None, 1), ("She was in some kind of daze , probably alzheimer 's or something .", None, None, None, 1), ('Anyways , their trying to identify her .', None, None, None, 1), ('It would suck to be in that state of mind .', None, None, None, 1), ('Sounds horrible and potentially scary if your cognizant enough .', None, None, None, 1)]]
+Leaf:  N Elaborate So the police found this woman
+Leaf:  S span wondering the streets in Philadelphia at 1 am with no coat on in the cold .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She was in some kind of daze , probably alzheimer 's or something .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Anyways , their trying to identify her .
+Leaf:  S span It would suck to be in that state of mind .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Sounds horrible and potentially scary if your cognizant enough .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So the police found this woman', None, None, None, 0), ('wondering the streets in Philadelphia at 1 am with no coat on in the cold .', None, None, None, 1), ("She was in some kind of daze , probably alzheimer 's or something .", None, None, None, 1), ('Anyways , their trying to identify her .', None, None, None, 1), ('It would suck to be in that state of mind .', None, None, None, 1), ('Sounds horrible and potentially scary if your cognizant enough .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('The officer', None, None, None, 0), ('whose car had been hit', None, None, None, 0), ('approached Ms Rader', None, None, None, 0), ('to find she had an " unclasped brassiere "', None, None, None, 0), ('and was trying to put on her blouse ,', None, None, None, 0), ('police said.The freshman told the officer that she had been driving back to her residence on campus.The arresting officer wrote in an affidavit :', None, None, None, 0), ('" I asked her', None, None, None, 0), ('why she was not dressed while driving', None, None, None, 0), ('and she stated', None, None, None, 0), ('she was taking a Snapchat photo', None, None, None, 0), ('to send to her boyfriend', None, None, None, 0), ('while she was at a red light .', None, None, None, 1), ('" She was arrested on suspicion of driving while intoxicated', None, None, None, 0), ('and released from jail on Thursday morning on a $ 2,000 ( £ 1,600 ) bail bond ,', None, None, None, 0), ('police said .', None, None, None, 1)]]
+Leaf:  N Elaborate The officer
+Leaf:  S span whose car had been hit
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span approached Ms Rader
+Leaf:  N Joint to find she had an " unclasped brassiere "
+Leaf:  N Joint and was trying to put on her blouse ,
+Inner:  N Attribution None Joint NN
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Attribution None Same-Unit NN
+Leaf:  S span police said.The freshman told the officer that she had been driving back to her residence on campus.The arresting officer wrote in an affidavit :
+Inner:  S span None Attribution NS
+Leaf:  S span " I asked her
+Leaf:  N Attribution why she was not dressed while driving
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and she stated
+Leaf:  N Elaborate she was taking a Snapchat photo
+Leaf:  N Temporal to send to her boyfriend
+Leaf:  S span while she was at a red light .
+Inner:  S span None Temporal NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal " She was arrested on suspicion of driving while intoxicated
+Leaf:  N Temporal and released from jail on Thursday morning on a $ 2,000 ( £ 1,600 ) bail bond ,
+Inner:  N Attribution None Temporal NN
+Leaf:  S span police said .
+Inner:  S span None Attribution NS
+Inner:  Root None None Elaborate NS
+[('The officer', None, None, None, 0), ('whose car had been hit', None, None, None, 0), ('approached Ms Rader', None, None, None, 0), ('to find she had an " unclasped brassiere "', None, None, None, 0), ('and was trying to put on her blouse ,', None, None, None, 0), ('police said.The freshman told the officer that she had been driving back to her residence on campus.The arresting officer wrote in an affidavit :', None, None, None, 0), ('" I asked her', None, None, None, 0), ('why she was not dressed while driving', None, None, None, 0), ('and she stated', None, None, None, 0), ('she was taking a Snapchat photo', None, None, None, 0), ('to send to her boyfriend', None, None, None, 0), ('while she was at a red light .', None, None, None, 1), ('" She was arrested on suspicion of driving while intoxicated', None, None, None, 0), ('and released from jail on Thursday morning on a $ 2,000 ( £ 1,600 ) bail bond ,', None, None, None, 0), ('police said .', None, None, None, 1)]

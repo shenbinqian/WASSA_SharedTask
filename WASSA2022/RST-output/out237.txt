@@ -1,0 +1,27 @@
+=====================> [[('I have read the article', None, None, None, 0), ('and think', None, None, None, 0), ("that it 's a story", None, None, None, 0), ('I have read many times .', None, None, None, 1), ('ISIS claims', None, None, None, 0), ('that the person is part of their army ,', None, None, None, 0), ('but there is no evidence', None, None, None, 0), ('that the person was supported by them .', None, None, None, 1), ('It also shows', None, None, None, 0), ("that it 's almost impossible to tell", None, None, None, 0), ('whether someone will become a terrorist', None, None, None, 0), ('based on their personality', None, None, None, 0), ('or what religion they are .', None, None, None, 1)]]
+Leaf:  N Joint I have read the article
+Leaf:  S span and think
+Leaf:  N Elaborate that it 's a story
+Leaf:  S span I have read many times .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Summary None Joint NN
+Leaf:  S span ISIS claims
+Leaf:  N Attribution that the person is part of their army ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but there is no evidence
+Leaf:  S span that the person was supported by them .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Contrast NS
+Leaf:  S span It also shows
+Leaf:  S span that it 's almost impossible to tell
+Leaf:  N Background whether someone will become a terrorist
+Leaf:  N Joint based on their personality
+Leaf:  N Joint or what religion they are .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Background NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('I have read the article', None, None, None, 0), ('and think', None, None, None, 0), ("that it 's a story", None, None, None, 0), ('I have read many times .', None, None, None, 1), ('ISIS claims', None, None, None, 0), ('that the person is part of their army ,', None, None, None, 0), ('but there is no evidence', None, None, None, 0), ('that the person was supported by them .', None, None, None, 1), ('It also shows', None, None, None, 0), ("that it 's almost impossible to tell", None, None, None, 0), ('whether someone will become a terrorist', None, None, None, 0), ('based on their personality', None, None, None, 0), ('or what religion they are .', None, None, None, 1)]

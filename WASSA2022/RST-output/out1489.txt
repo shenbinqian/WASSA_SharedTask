@@ -1,0 +1,25 @@
+=====================> [[('JUst', None, None, None, 0), ('when you think', None, None, None, 0), ("things could n't get much worse !", None, None, None, 1), ("I just ca n't imagine who in the world would kill ,", None, None, None, 0), ('then mutilate a baby horse !', None, None, None, 1), ('It pretty much sounds like someone with a mental health issue is running around crazy with a gun .', None, None, None, 1), ('It is nice to know so many nonprofits are not only engaged in finding this criminal ,', None, None, None, 0), ('but also to prevent this from happening again ,', None, None, None, 0), ('I think', None, None, None, 0), ('the adult horses were in better shape', None, None, None, 0), ("and that 's why they survived .", None, None, None, 1), ("What kind of lazy loon would mutilate the little horse 's genitals ?", None, None, None, 1)]]
+Leaf:  N Background JUst
+Leaf:  S span when you think
+Leaf:  N Attribution things could n't get much worse !
+Inner:  S span None Attribution SN
+Inner:  N Textual-Organization None Background NS
+Leaf:  N Joint I just ca n't imagine who in the world would kill ,
+Leaf:  N Joint then mutilate a baby horse !
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It pretty much sounds like someone with a mental health issue is running around crazy with a gun .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It is nice to know so many nonprofits are not only engaged in finding this criminal ,
+Leaf:  N Joint but also to prevent this from happening again ,
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  N Joint the adult horses were in better shape
+Leaf:  N Joint and that 's why they survived .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span What kind of lazy loon would mutilate the little horse 's genitals ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('JUst', None, None, None, 0), ('when you think', None, None, None, 0), ("things could n't get much worse !", None, None, None, 1), ("I just ca n't imagine who in the world would kill ,", None, None, None, 0), ('then mutilate a baby horse !', None, None, None, 1), ('It pretty much sounds like someone with a mental health issue is running around crazy with a gun .', None, None, None, 1), ('It is nice to know so many nonprofits are not only engaged in finding this criminal ,', None, None, None, 0), ('but also to prevent this from happening again ,', None, None, None, 0), ('I think', None, None, None, 0), ('the adult horses were in better shape', None, None, None, 0), ("and that 's why they survived .", None, None, None, 1), ("What kind of lazy loon would mutilate the little horse 's genitals ?", None, None, None, 1)]

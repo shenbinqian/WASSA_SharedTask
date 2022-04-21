@@ -1,0 +1,15 @@
+=====================> [[('Hi , I have learned', None, None, None, 0), ('that Syria ’s war escalated abruptly on Friday .', None, None, None, 1), ('Government forces and their Russian allies launched ferocious aerial assaults on Aleppo .', None, None, None, 1), ('Repeated airstrikes destroyed buildings', None, None, None, 0), ('and engulfed neighborhoods ,', None, None, None, 0), ('and flames killed about 100 people there .', None, None, None, 1), ('What is gained with this senseless violence ?', None, None, None, 1)]]
+Leaf:  S span Hi , I have learned
+Leaf:  N Attribution that Syria ’s war escalated abruptly on Friday .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Government forces and their Russian allies launched ferocious aerial assaults on Aleppo .
+Leaf:  N Joint Repeated airstrikes destroyed buildings
+Leaf:  N Joint and engulfed neighborhoods ,
+Leaf:  N Joint and flames killed about 100 people there .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span What is gained with this senseless violence ?
+Inner:  Root None None Evaluation NS
+[('Hi , I have learned', None, None, None, 0), ('that Syria ’s war escalated abruptly on Friday .', None, None, None, 1), ('Government forces and their Russian allies launched ferocious aerial assaults on Aleppo .', None, None, None, 1), ('Repeated airstrikes destroyed buildings', None, None, None, 0), ('and engulfed neighborhoods ,', None, None, None, 0), ('and flames killed about 100 people there .', None, None, None, 1), ('What is gained with this senseless violence ?', None, None, None, 1)]

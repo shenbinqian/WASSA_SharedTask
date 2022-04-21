@@ -1,0 +1,19 @@
+=====================> [[('Talking about Donald Trump is so depressing at this point .', None, None, None, 1), ('I wish', None, None, None, 0), ('that article had a little more about climate change in it ,', None, None, None, 0), ('which seems to be the current biggest actual crisis of his presidency ,', None, None, None, 0), ('but for some reason', None, None, None, 0), ('( horrifyingly )', None, None, None, 0), ('that topic divides people.I want to hear from people', None, None, None, 0), ('who have voted for him', None, None, None, 0), ("and who 's minds have changed .", None, None, None, 1)]]
+Leaf:  N Evaluation Talking about Donald Trump is so depressing at this point .
+Leaf:  S span I wish
+Leaf:  N Elaborate that article had a little more about climate change in it ,
+Leaf:  S span which seems to be the current biggest actual crisis of his presidency ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Manner-Means but for some reason
+Leaf:  S span ( horrifyingly )
+Inner:  N Same-Unit None Manner-Means NS
+Leaf:  N Elaborate that topic divides people.I want to hear from people
+Leaf:  N Joint who have voted for him
+Leaf:  N Joint and who 's minds have changed .
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('Talking about Donald Trump is so depressing at this point .', None, None, None, 1), ('I wish', None, None, None, 0), ('that article had a little more about climate change in it ,', None, None, None, 0), ('which seems to be the current biggest actual crisis of his presidency ,', None, None, None, 0), ('but for some reason', None, None, None, 0), ('( horrifyingly )', None, None, None, 0), ('that topic divides people.I want to hear from people', None, None, None, 0), ('who have voted for him', None, None, None, 0), ("and who 's minds have changed .", None, None, None, 1)]

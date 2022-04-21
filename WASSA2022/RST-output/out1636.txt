@@ -1,0 +1,23 @@
+=====================> [[('Take a look at this guy !', None, None, None, 1), ('What a flip flopper !!', None, None, None, 1), ('He seems to endorse', None, None, None, 0), ('whoever is popular at the time', None, None, None, 0), ('- Trump or Obama .', None, None, None, 1), ('I also hate his only tactic', None, None, None, 0), ('for arguing against his opponent ,', None, None, None, 0), ('drawing on his personal life . Instead of highlighting his policies ,', None, None, None, 0), ('he ’s', None, None, None, 0), ('trying to win on popularity .', None, None, None, 1), ('I would never , ever vote for this guy !', None, None, None, 1)]]
+Leaf:  N Evaluation Take a look at this guy !
+Leaf:  N Explanation What a flip flopper !!
+Leaf:  S span He seems to endorse
+Leaf:  N Attribution whoever is popular at the time
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit - Trump or Obama .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Explanation NS
+Leaf:  N Elaborate I also hate his only tactic
+Leaf:  S span for arguing against his opponent ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span drawing on his personal life . Instead of highlighting his policies ,
+Leaf:  N Same-Unit he ’s
+Leaf:  N Same-Unit trying to win on popularity .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I would never , ever vote for this guy !
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Take a look at this guy !', None, None, None, 1), ('What a flip flopper !!', None, None, None, 1), ('He seems to endorse', None, None, None, 0), ('whoever is popular at the time', None, None, None, 0), ('- Trump or Obama .', None, None, None, 1), ('I also hate his only tactic', None, None, None, 0), ('for arguing against his opponent ,', None, None, None, 0), ('drawing on his personal life . Instead of highlighting his policies ,', None, None, None, 0), ('he ’s', None, None, None, 0), ('trying to win on popularity .', None, None, None, 1), ('I would never , ever vote for this guy !', None, None, None, 1)]

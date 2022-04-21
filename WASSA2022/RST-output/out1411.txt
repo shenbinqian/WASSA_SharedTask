@@ -1,0 +1,27 @@
+=====================> [[('I think', None, None, None, 0), ('that everyone should be aware of the people', None, None, None, 0), ('that they touch .', None, None, None, 1), ('There are times', None, None, None, 0), ('whenever we take others for granted .', None, None, None, 1), ('I think', None, None, None, 0), ("that we do n't always tell each other", None, None, None, 0), ('about what their lives mean to us .', None, None, None, 1), ('I know', None, None, None, 0), ('that it is tough growing up alone in a world', None, None, None, 0), ('without others .', None, None, None, 1), ('I know', None, None, None, 0), ('that it is tough to make lasting friends .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate that everyone should be aware of the people
+Leaf:  S span that they touch .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Background There are times
+Leaf:  S span whenever we take others for granted .
+Inner:  N Elaborate None Background NS
+Leaf:  S span I think
+Leaf:  S span that we do n't always tell each other
+Leaf:  N Attribution about what their lives mean to us .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Elaborate that it is tough growing up alone in a world
+Leaf:  S span without others .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution that it is tough to make lasting friends .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('I think', None, None, None, 0), ('that everyone should be aware of the people', None, None, None, 0), ('that they touch .', None, None, None, 1), ('There are times', None, None, None, 0), ('whenever we take others for granted .', None, None, None, 1), ('I think', None, None, None, 0), ("that we do n't always tell each other", None, None, None, 0), ('about what their lives mean to us .', None, None, None, 1), ('I know', None, None, None, 0), ('that it is tough growing up alone in a world', None, None, None, 0), ('without others .', None, None, None, 1), ('I know', None, None, None, 0), ('that it is tough to make lasting friends .', None, None, None, 1)]

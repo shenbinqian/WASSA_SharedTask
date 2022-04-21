@@ -1,0 +1,27 @@
+=====================> [[('I am so glad', None, None, None, 0), ("that I 'm not a celebrity", None, None, None, 0), ('having my every move made public', None, None, None, 0), ('and being analyzed .', None, None, None, 1), ('It would be awful to be under that constant and never ending scrutiny .', None, None, None, 1), ('The thought', None, None, None, 0), ('of being under the constant watchful eye of the world ,', None, None, None, 0), ('and them profiting from a me', None, None, None, 0), ('having a bad day', None, None, None, 0), ('makes my stomach turn .', None, None, None, 1), ('I feel bad for him in a way ,', None, None, None, 0), ("I 've had a few rocky relationships", None, None, None, 0), ("and I could n't imagine going through them publicly .", None, None, None, 1)]]
+Leaf:  S span I am so glad
+Leaf:  N Elaborate that I 'm not a celebrity
+Leaf:  N Joint having my every move made public
+Leaf:  N Joint and being analyzed .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It would be awful to be under that constant and never ending scrutiny .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate The thought
+Leaf:  S span of being under the constant watchful eye of the world ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and them profiting from a me
+Leaf:  S span having a bad day
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit makes my stomach turn .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation I feel bad for him in a way ,
+Leaf:  N Joint I 've had a few rocky relationships
+Leaf:  N Joint and I could n't imagine going through them publicly .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I am so glad', None, None, None, 0), ("that I 'm not a celebrity", None, None, None, 0), ('having my every move made public', None, None, None, 0), ('and being analyzed .', None, None, None, 1), ('It would be awful to be under that constant and never ending scrutiny .', None, None, None, 1), ('The thought', None, None, None, 0), ('of being under the constant watchful eye of the world ,', None, None, None, 0), ('and them profiting from a me', None, None, None, 0), ('having a bad day', None, None, None, 0), ('makes my stomach turn .', None, None, None, 1), ('I feel bad for him in a way ,', None, None, None, 0), ("I 've had a few rocky relationships", None, None, None, 0), ("and I could n't imagine going through them publicly .", None, None, None, 1)]

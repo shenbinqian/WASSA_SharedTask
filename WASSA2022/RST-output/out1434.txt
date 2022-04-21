@@ -1,0 +1,17 @@
+=====================> [[('While reading the article ,', None, None, None, 0), ('I did not really care too much about the protests', None, None, None, 0), ('made by people in South Korea against their President', None, None, None, 0), ('mainly because it is in South Korea and not here in America .', None, None, None, 1), ("Although I did n't really have much concern for the article", None, None, None, 0), ('I just read ,', None, None, None, 0), ('I hope', None, None, None, 0), ('that these protests will end in South Korea .', None, None, None, 1)]]
+Leaf:  S span While reading the article ,
+Leaf:  N Elaborate I did not really care too much about the protests
+Leaf:  S span made by people in South Korea against their President
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span mainly because it is in South Korea and not here in America .
+Inner:  N Temporal None Explanation NS
+Inner:  N Elaborate None Temporal SN
+Leaf:  N Elaborate Although I did n't really have much concern for the article
+Leaf:  S span I just read ,
+Inner:  S span None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution that these protests will end in South Korea .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('While reading the article ,', None, None, None, 0), ('I did not really care too much about the protests', None, None, None, 0), ('made by people in South Korea against their President', None, None, None, 0), ('mainly because it is in South Korea and not here in America .', None, None, None, 1), ("Although I did n't really have much concern for the article", None, None, None, 0), ('I just read ,', None, None, None, 0), ('I hope', None, None, None, 0), ('that these protests will end in South Korea .', None, None, None, 1)]

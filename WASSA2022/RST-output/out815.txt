@@ -1,0 +1,25 @@
+=====================> [[("I 've never heard of this person or this talk show ,", None, None, None, 0), ('have you ?', None, None, None, 1), ('Mostly I find this stuff kind of boring ,', None, None, None, 0), ('and', None, None, None, 0), ("although it 's sad for people to lose their jobs ,", None, None, None, 0), ('this happens all the time ,', None, None, None, 0), ('and to people', None, None, None, 0), ('who have probably earned a lot less than these people ,', None, None, None, 0), ('and who have a lot less prospects', None, None, None, 0), ('of being reemployed .', None, None, None, 1), ('Shows are cancelled all the time ,', None, None, None, 0), ('so I get kind of annoyed with this kind of news .', None, None, None, 1)]]
+Leaf:  N Attribution I 've never heard of this person or this talk show ,
+Leaf:  S span have you ?
+Inner:  N Evaluation None Attribution NS
+Leaf:  N Joint Mostly I find this stuff kind of boring ,
+Leaf:  N Same-Unit and
+Leaf:  S span although it 's sad for people to lose their jobs ,
+Leaf:  N Joint this happens all the time ,
+Leaf:  N Elaborate and to people
+Leaf:  N Joint who have probably earned a lot less than these people ,
+Leaf:  N Elaborate and who have a lot less prospects
+Leaf:  S span of being reemployed .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause Shows are cancelled all the time ,
+Leaf:  S span so I get kind of annoyed with this kind of news .
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[("I 've never heard of this person or this talk show ,", None, None, None, 0), ('have you ?', None, None, None, 1), ('Mostly I find this stuff kind of boring ,', None, None, None, 0), ('and', None, None, None, 0), ("although it 's sad for people to lose their jobs ,", None, None, None, 0), ('this happens all the time ,', None, None, None, 0), ('and to people', None, None, None, 0), ('who have probably earned a lot less than these people ,', None, None, None, 0), ('and who have a lot less prospects', None, None, None, 0), ('of being reemployed .', None, None, None, 1), ('Shows are cancelled all the time ,', None, None, None, 0), ('so I get kind of annoyed with this kind of news .', None, None, None, 1)]

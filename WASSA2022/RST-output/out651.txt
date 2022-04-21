@@ -1,0 +1,39 @@
+=====================> [[('I just read this crazy article about Wells Fargo', None, None, None, 0), ('that', None, None, None, 0), ('I thought', None, None, None, 0), ('I would share with you .', None, None, None, 1), ('It turns out that low level employees were signing people up for products and things', None, None, None, 0), ('that they did not need .', None, None, None, 1), ('Sometimes they were even forging signatures', None, None, None, 0), ('to get this done .', None, None, None, 1), ('Now before you jump to conclusions and thin k that this is all the employees fault let me fill you in some more .', None, None, None, 1), ('Management came up with a quota and incentive system', None, None, None, 0), ('where employees', None, None, None, 0), ("( who do n't make very good money to begin with )", None, None, None, 0), ('would make extra money the more people they signed up to these new accounts . So basically the people in charge over there thought', None, None, None, 0), ('that it was a good idea', None, None, None, 0), ('to screw over their account holders', None, None, None, 0), ('and give their low-level employees crazy quotas ,', None, None, None, 0), ('all', None, None, None, 0), ('so they could make more money .', None, None, None, 1), ('Then its the workers getting fired .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this crazy article about Wells Fargo
+Leaf:  N Attribution that
+Leaf:  S span I thought
+Inner:  S span None Attribution NS
+Leaf:  N Attribution I would share with you .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It turns out that low level employees were signing people up for products and things
+Leaf:  S span that they did not need .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement Sometimes they were even forging signatures
+Leaf:  S span to get this done .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Now before you jump to conclusions and thin k that this is all the employees fault let me fill you in some more .
+Leaf:  N Elaborate Management came up with a quota and incentive system
+Leaf:  N Elaborate where employees
+Leaf:  S span ( who do n't make very good money to begin with )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would make extra money the more people they signed up to these new accounts . So basically the people in charge over there thought
+Inner:  S span None Same-Unit NN
+Leaf:  N Elaborate that it was a good idea
+Leaf:  N Joint to screw over their account holders
+Leaf:  N Joint and give their low-level employees crazy quotas ,
+Inner:  N Enablement None Joint NN
+Leaf:  N Enablement all
+Leaf:  S span so they could make more money .
+Inner:  S span None Enablement NS
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Then its the workers getting fired .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read this crazy article about Wells Fargo', None, None, None, 0), ('that', None, None, None, 0), ('I thought', None, None, None, 0), ('I would share with you .', None, None, None, 1), ('It turns out that low level employees were signing people up for products and things', None, None, None, 0), ('that they did not need .', None, None, None, 1), ('Sometimes they were even forging signatures', None, None, None, 0), ('to get this done .', None, None, None, 1), ('Now before you jump to conclusions and thin k that this is all the employees fault let me fill you in some more .', None, None, None, 1), ('Management came up with a quota and incentive system', None, None, None, 0), ('where employees', None, None, None, 0), ("( who do n't make very good money to begin with )", None, None, None, 0), ('would make extra money the more people they signed up to these new accounts . So basically the people in charge over there thought', None, None, None, 0), ('that it was a good idea', None, None, None, 0), ('to screw over their account holders', None, None, None, 0), ('and give their low-level employees crazy quotas ,', None, None, None, 0), ('all', None, None, None, 0), ('so they could make more money .', None, None, None, 1), ('Then its the workers getting fired .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('how are you drake I hope you are enjoying your new life and your stay in new york ,', None, None, None, 0), ('I hope', None, None, None, 0), ('you enjoy this new stage of your life now', None, None, None, 0), ('that you are working as a journalist', None, None, None, 0), ('I hope to see you soon in a big television network', None, None, None, 0), ('or read your articles in the biggest national newspapers', None, None, None, 0), ('I hope', None, None, None, 0), ("it 's good for you , my friend , see you later", None, None, None, 0), ('and take good care of yourself', None, None, None, 0)]]
+Leaf:  N Joint how are you drake I hope you are enjoying your new life and your stay in new york ,
+Leaf:  S span I hope
+Leaf:  N Elaborate you enjoy this new stage of your life now
+Leaf:  S span that you are working as a journalist
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint I hope to see you soon in a big television network
+Leaf:  N Joint or read your articles in the biggest national newspapers
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I hope
+Leaf:  N Joint it 's good for you , my friend , see you later
+Leaf:  N Joint and take good care of yourself
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('how are you drake I hope you are enjoying your new life and your stay in new york ,', None, None, None, 0), ('I hope', None, None, None, 0), ('you enjoy this new stage of your life now', None, None, None, 0), ('that you are working as a journalist', None, None, None, 0), ('I hope to see you soon in a big television network', None, None, None, 0), ('or read your articles in the biggest national newspapers', None, None, None, 0), ('I hope', None, None, None, 0), ("it 's good for you , my friend , see you later", None, None, None, 0), ('and take good care of yourself', None, None, None, 0)]

@@ -1,0 +1,25 @@
+=====================> [[('This is an absolute disgrace', None, None, None, 0), ('that it still happens', None, None, None, 0), ('and can happen in America .', None, None, None, 1), ('How are things like this still happening .', None, None, None, 1), ('I get that there has always been murder ,', None, None, None, 0), ('and', None, None, None, 0), ('if someone is determined enough', None, None, None, 0), ('they are going to find a way', None, None, None, 0), ('to do this ,', None, None, None, 0), ('but for it to happen in one of the most locked down and secured places is ridiculous .', None, None, None, 1), ('I feel bad for the family involved', None, None, None, 0), ('and hopefully their loss will help spark a positive change .', None, None, None, 1)]]
+Leaf:  N Elaborate This is an absolute disgrace
+Leaf:  N Joint that it still happens
+Leaf:  N Joint and can happen in America .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span How are things like this still happening .
+Inner:  N Explanation None Explanation NS
+Leaf:  N Joint I get that there has always been murder ,
+Leaf:  N Same-Unit and
+Leaf:  S span if someone is determined enough
+Leaf:  N Elaborate they are going to find a way
+Leaf:  S span to do this ,
+Inner:  N Condition None Elaborate NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Contrast but for it to happen in one of the most locked down and secured places is ridiculous .
+Inner:  N Joint None Contrast NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint I feel bad for the family involved
+Leaf:  N Joint and hopefully their loss will help spark a positive change .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This is an absolute disgrace', None, None, None, 0), ('that it still happens', None, None, None, 0), ('and can happen in America .', None, None, None, 1), ('How are things like this still happening .', None, None, None, 1), ('I get that there has always been murder ,', None, None, None, 0), ('and', None, None, None, 0), ('if someone is determined enough', None, None, None, 0), ('they are going to find a way', None, None, None, 0), ('to do this ,', None, None, None, 0), ('but for it to happen in one of the most locked down and secured places is ridiculous .', None, None, None, 1), ('I feel bad for the family involved', None, None, None, 0), ('and hopefully their loss will help spark a positive change .', None, None, None, 1)]

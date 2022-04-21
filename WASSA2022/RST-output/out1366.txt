@@ -1,0 +1,31 @@
+=====================> [[('I just thought', None, None, None, 0), ('you would want to know my opinion on this .', None, None, None, 1), ("We 've never really talked much about it .", None, None, None, 1), ('I feel like refugees from Syria should be given a free shot here in America .', None, None, None, 1), ('We have been over there', None, None, None, 0), ('messing with their country .', None, None, None, 1), ('We have engaged in war , both indirectly and directly . We have been wavering in our responsibilities there .', None, None, None, 1), ('To Be able to simply sit back here on our haunches in America Judging people', None, None, None, 0), ("who are fleeing for their lives . . definately partially because of our actions , is wrong . They should be welcomed here . They should n't be treated as terrorists . It is important that poor people who are suffering", None, None, None, 0), ('should be welcomed here .', None, None, None, 1), ('These are people', None, None, None, 0), ('who would be glad to be given a shot ,', None, None, None, 0), ('they would work hard .', None, None, None, 1), ('They are family people , hard workers ,', None, None, None, 0), ('many of them are talented a', None, None, None, 0)]]
+Leaf:  S span I just thought
+Leaf:  N Attribution you would want to know my opinion on this .
+Inner:  N Background None Attribution SN
+Leaf:  N Explanation We 've never really talked much about it .
+Leaf:  N Explanation I feel like refugees from Syria should be given a free shot here in America .
+Leaf:  N Elaborate We have been over there
+Leaf:  S span messing with their country .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint We have engaged in war , both indirectly and directly . We have been wavering in our responsibilities there .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate To Be able to simply sit back here on our haunches in America Judging people
+Leaf:  S span who are fleeing for their lives . . definately partially because of our actions , is wrong . They should be welcomed here . They should n't be treated as terrorists . It is important that poor people who are suffering
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be welcomed here .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate These are people
+Leaf:  N Joint who would be glad to be given a shot ,
+Leaf:  N Joint they would work hard .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They are family people , hard workers ,
+Leaf:  N Joint many of them are talented a
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Background NS
+[('I just thought', None, None, None, 0), ('you would want to know my opinion on this .', None, None, None, 1), ("We 've never really talked much about it .", None, None, None, 1), ('I feel like refugees from Syria should be given a free shot here in America .', None, None, None, 1), ('We have been over there', None, None, None, 0), ('messing with their country .', None, None, None, 1), ('We have engaged in war , both indirectly and directly . We have been wavering in our responsibilities there .', None, None, None, 1), ('To Be able to simply sit back here on our haunches in America Judging people', None, None, None, 0), ("who are fleeing for their lives . . definately partially because of our actions , is wrong . They should be welcomed here . They should n't be treated as terrorists . It is important that poor people who are suffering", None, None, None, 0), ('should be welcomed here .', None, None, None, 1), ('These are people', None, None, None, 0), ('who would be glad to be given a shot ,', None, None, None, 0), ('they would work hard .', None, None, None, 1), ('They are family people , hard workers ,', None, None, None, 0), ('many of them are talented a', None, None, None, 0)]

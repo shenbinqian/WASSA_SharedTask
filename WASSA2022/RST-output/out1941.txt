@@ -1,0 +1,17 @@
+=====================> [[('Gosh there has been a bus crash , pretty sad .', None, None, None, 1), ('Apparently a lot of people were hurt .', None, None, None, 1), ('I feel so bad for their friends and family members ,', None, None, None, 0), ("like they are n't even knowing", None, None, None, 0), ('if they are okay', None, None, None, 0), ('or what is going on . Really sad situation .', None, None, None, 1), ('I guess more information will be forthcoming', None, None, None, 0), ("because riht now they did n't have all the details yet .", None, None, None, 1)]]
+Leaf:  N Elaborate Gosh there has been a bus crash , pretty sad .
+Leaf:  S span Apparently a lot of people were hurt .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I feel so bad for their friends and family members ,
+Leaf:  S span like they are n't even knowing
+Leaf:  N Joint if they are okay
+Leaf:  N Joint or what is going on . Really sad situation .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Condition None Elaborate NS
+Leaf:  N Cause I guess more information will be forthcoming
+Leaf:  S span because riht now they did n't have all the details yet .
+Inner:  S span None Cause NS
+Inner:  S span None Condition NS
+Inner:  Root None None Evaluation NS
+[('Gosh there has been a bus crash , pretty sad .', None, None, None, 1), ('Apparently a lot of people were hurt .', None, None, None, 1), ('I feel so bad for their friends and family members ,', None, None, None, 0), ("like they are n't even knowing", None, None, None, 0), ('if they are okay', None, None, None, 0), ('or what is going on . Really sad situation .', None, None, None, 1), ('I guess more information will be forthcoming', None, None, None, 0), ("because riht now they did n't have all the details yet .", None, None, None, 1)]

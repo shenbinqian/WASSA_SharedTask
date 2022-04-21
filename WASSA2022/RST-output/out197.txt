@@ -1,0 +1,23 @@
+=====================> [[("A fire destroyed a family 's house .", None, None, None, 1), ('The people escaped', None, None, None, 0), ('and suffered no harm', None, None, None, 0), ('but two of their cats died .', None, None, None, 1), ('As a result of the fire , they are displaced', None, None, None, 0), ("but at least they 're alive .", None, None, None, 1), ('At least the Red Cross is helping them out .', None, None, None, 1), ('They might be sad about the pets', None, None, None, 0), ('but I am sure', None, None, None, 0), ('they feel fortunate', None, None, None, 0), ('that no people died in this fire .', None, None, None, 1)]]
+Leaf:  N Elaborate A fire destroyed a family 's house .
+Leaf:  N Joint The people escaped
+Leaf:  N Joint and suffered no harm
+Inner:  S span None Joint NN
+Leaf:  N Contrast but two of their cats died .
+Inner:  S span None Contrast SN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Contrast As a result of the fire , they are displaced
+Leaf:  N Contrast but at least they 're alive .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span At least the Red Cross is helping them out .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They might be sad about the pets
+Leaf:  S span but I am sure
+Leaf:  S span they feel fortunate
+Leaf:  N Attribution that no people died in this fire .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[("A fire destroyed a family 's house .", None, None, None, 1), ('The people escaped', None, None, None, 0), ('and suffered no harm', None, None, None, 0), ('but two of their cats died .', None, None, None, 1), ('As a result of the fire , they are displaced', None, None, None, 0), ("but at least they 're alive .", None, None, None, 1), ('At least the Red Cross is helping them out .', None, None, None, 1), ('They might be sad about the pets', None, None, None, 0), ('but I am sure', None, None, None, 0), ('they feel fortunate', None, None, None, 0), ('that no people died in this fire .', None, None, None, 1)]

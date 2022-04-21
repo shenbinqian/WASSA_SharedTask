@@ -1,0 +1,29 @@
+=====================> [[('I read an article', None, None, None, 0), ('about how islamic militants have rounded up civilians', None, None, None, 0), ('and used them for shields .', None, None, None, 1), ('There has been a lot of death happening in the middle east .', None, None, None, 1), ('Could you imagine what it would be like to live in one of those countries ? The people must live their lives in constant fear .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what the average life span is for someone living in one of these countries .', None, None, None, 1), ('I believe', None, None, None, 0), ('that they should do away with immigration laws', None, None, None, 0), ('and let whoever wants to come to America , come to America .', None, None, None, 1), ('There is no way', None, None, None, 0), ('to justify', None, None, None, 0), ('what these people are faced with daily .', None, None, None, 1), ('They should not have to live their lives in fear everyday .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article
+Leaf:  N Joint about how islamic militants have rounded up civilians
+Leaf:  N Joint and used them for shields .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There has been a lot of death happening in the middle east .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Could you imagine what it would be like to live in one of those countries ? The people must live their lives in constant fear .
+Leaf:  S span I wonder
+Leaf:  N Attribution what the average life span is for someone living in one of these countries .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I believe
+Leaf:  N Joint that they should do away with immigration laws
+Leaf:  N Joint and let whoever wants to come to America , come to America .
+Inner:  N Attribution None Joint NN
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate There is no way
+Leaf:  S span to justify
+Leaf:  N Attribution what these people are faced with daily .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They should not have to live their lives in fear everyday .
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  Root None None Evaluation NS
+[('I read an article', None, None, None, 0), ('about how islamic militants have rounded up civilians', None, None, None, 0), ('and used them for shields .', None, None, None, 1), ('There has been a lot of death happening in the middle east .', None, None, None, 1), ('Could you imagine what it would be like to live in one of those countries ? The people must live their lives in constant fear .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what the average life span is for someone living in one of these countries .', None, None, None, 1), ('I believe', None, None, None, 0), ('that they should do away with immigration laws', None, None, None, 0), ('and let whoever wants to come to America , come to America .', None, None, None, 1), ('There is no way', None, None, None, 0), ('to justify', None, None, None, 0), ('what these people are faced with daily .', None, None, None, 1), ('They should not have to live their lives in fear everyday .', None, None, None, 1)]

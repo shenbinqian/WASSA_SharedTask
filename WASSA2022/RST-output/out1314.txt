@@ -1,0 +1,23 @@
+=====================> [[('If people had to see', None, None, None, 0), ('how their food was killed ,', None, None, None, 0), ("there 's a good chance", None, None, None, 0), ("they would n't want to eat it .", None, None, None, 1), ('Between a live chicken and the package', None, None, None, 0), ('you buy at the grocery store', None, None, None, 0), ('lies a world of torture .', None, None, None, 1), ('The inhumane way', None, None, None, 0), ("some of our food , particularly chicken , makes it 's way to our dinner plate", None, None, None, 0), ('is beyond disturbing .', None, None, None, 1), ('Factory farming is simply another word for animal torture .', None, None, None, 1)]]
+Leaf:  S span If people had to see
+Leaf:  N Attribution how their food was killed ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate there 's a good chance
+Leaf:  S span they would n't want to eat it .
+Inner:  N Condition None Elaborate NS
+Inner:  N Explanation None Condition SN
+Leaf:  N Elaborate Between a live chicken and the package
+Leaf:  S span you buy at the grocery store
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit lies a world of torture .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The inhumane way
+Leaf:  S span some of our food , particularly chicken , makes it 's way to our dinner plate
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is beyond disturbing .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Explanation NS
+Leaf:  S span Factory farming is simply another word for animal torture .
+Inner:  Root None None Summary NS
+[('If people had to see', None, None, None, 0), ('how their food was killed ,', None, None, None, 0), ("there 's a good chance", None, None, None, 0), ("they would n't want to eat it .", None, None, None, 1), ('Between a live chicken and the package', None, None, None, 0), ('you buy at the grocery store', None, None, None, 0), ('lies a world of torture .', None, None, None, 1), ('The inhumane way', None, None, None, 0), ("some of our food , particularly chicken , makes it 's way to our dinner plate", None, None, None, 0), ('is beyond disturbing .', None, None, None, 1), ('Factory farming is simply another word for animal torture .', None, None, None, 1)]

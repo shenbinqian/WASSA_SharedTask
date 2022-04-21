@@ -1,0 +1,27 @@
+=====================> [[('While reading this article', None, None, None, 0), ('all I could think of', None, None, None, 0), ('is how much of a shame and alarming it is of the recent shootings', None, None, None, 0), ('that have been taking place all over the USA .', None, None, None, 1), ('I know we have talked about guns and ownership in the past ,', None, None, None, 0), ("but I 'm starting to think", None, None, None, 0), ('it is important to look at what we can do', None, None, None, 0), ('to stop these acts', None, None, None, 0), ('and how we can make a change ourselves .', None, None, None, 1), ('I also was surprised', None, None, None, 0), ('that they did not try to take the story', None, None, None, 0), ('and flip it into being some type of political debate', None, None, None, 0), ('about how the shooter was made about politics or a race war .', None, None, None, 1)]]
+Leaf:  N Same-Unit While reading this article
+Leaf:  S span all I could think of
+Leaf:  N Elaborate is how much of a shame and alarming it is of the recent shootings
+Leaf:  S span that have been taking place all over the USA .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I know we have talked about guns and ownership in the past ,
+Leaf:  S span but I 'm starting to think
+Leaf:  N Enablement it is important to look at what we can do
+Leaf:  S span to stop these acts
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint and how we can make a change ourselves .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I also was surprised
+Leaf:  N Joint that they did not try to take the story
+Leaf:  N Elaborate and flip it into being some type of political debate
+Leaf:  S span about how the shooter was made about politics or a race war .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('While reading this article', None, None, None, 0), ('all I could think of', None, None, None, 0), ('is how much of a shame and alarming it is of the recent shootings', None, None, None, 0), ('that have been taking place all over the USA .', None, None, None, 1), ('I know we have talked about guns and ownership in the past ,', None, None, None, 0), ("but I 'm starting to think", None, None, None, 0), ('it is important to look at what we can do', None, None, None, 0), ('to stop these acts', None, None, None, 0), ('and how we can make a change ourselves .', None, None, None, 1), ('I also was surprised', None, None, None, 0), ('that they did not try to take the story', None, None, None, 0), ('and flip it into being some type of political debate', None, None, None, 0), ('about how the shooter was made about politics or a race war .', None, None, None, 1)]

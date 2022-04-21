@@ -1,0 +1,19 @@
+=====================> [[('Yeah Russia has some real distinct issues for the underclasses', None, None, None, 0), ('which is super ironic', None, None, None, 0), ("given it 's history .", None, None, None, 1), ('The oligarchy in place wants people to have just enough', None, None, None, 0), ('to survive', None, None, None, 0), ('and not complain ,', None, None, None, 0), ('because they know', None, None, None, 0), ('the Russian people can be brought to bear against a mighty nation .', None, None, None, 1), ("It 's happened twice so far .", None, None, None, 1)]]
+Leaf:  N Evaluation Yeah Russia has some real distinct issues for the underclasses
+Leaf:  N Background which is super ironic
+Leaf:  S span given it 's history .
+Inner:  S span None Background NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate The oligarchy in place wants people to have just enough
+Leaf:  N Joint to survive
+Leaf:  N Joint and not complain ,
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because they know
+Leaf:  N Attribution the Russian people can be brought to bear against a mighty nation .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span It 's happened twice so far .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Yeah Russia has some real distinct issues for the underclasses', None, None, None, 0), ('which is super ironic', None, None, None, 0), ("given it 's history .", None, None, None, 1), ('The oligarchy in place wants people to have just enough', None, None, None, 0), ('to survive', None, None, None, 0), ('and not complain ,', None, None, None, 0), ('because they know', None, None, None, 0), ('the Russian people can be brought to bear against a mighty nation .', None, None, None, 1), ("It 's happened twice so far .", None, None, None, 1)]

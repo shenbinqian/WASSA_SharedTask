@@ -1,0 +1,13 @@
+=====================> [[('There are many orphaned children around the world .', None, None, None, 1), ('International displacement is a huge problem', None, None, None, 0), ('that seems to be causing a lot of separated families .', None, None, None, 1), ('These children are having to go to orphanages , shelters , and other temporary placement', None, None, None, 0), ('in order to seek refuge .', None, None, None, 1), ('These children range in age from young to teenagers .', None, None, None, 1)]]
+Leaf:  N Summary There are many orphaned children around the world .
+Leaf:  N Elaborate International displacement is a huge problem
+Leaf:  S span that seems to be causing a lot of separated families .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement These children are having to go to orphanages , shelters , and other temporary placement
+Leaf:  S span in order to seek refuge .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span These children range in age from young to teenagers .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('There are many orphaned children around the world .', None, None, None, 1), ('International displacement is a huge problem', None, None, None, 0), ('that seems to be causing a lot of separated families .', None, None, None, 1), ('These children are having to go to orphanages , shelters , and other temporary placement', None, None, None, 0), ('in order to seek refuge .', None, None, None, 1), ('These children range in age from young to teenagers .', None, None, None, 1)]

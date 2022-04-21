@@ -1,0 +1,23 @@
+=====================> [[("It 's always a bad thing", None, None, None, 0), ('when the murder rate increases .', None, None, None, 1), ('The fact', None, None, None, 0), ('that it had the highest increase in decades is incredibly disturbing ,', None, None, None, 0), ("although it 's important to remember", None, None, None, 0), ('that the overall rate is still much lower', None, None, None, 0), ('than it has been in the past .', None, None, None, 1), ('People think', None, None, None, 0), ('that things are more dangerous than ever today ,', None, None, None, 0), ('but the facts show', None, None, None, 0), ("that 's not true .", None, None, None, 1)]]
+Leaf:  N Background It 's always a bad thing
+Leaf:  S span when the murder rate increases .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate The fact
+Leaf:  S span that it had the highest increase in decades is incredibly disturbing ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span although it 's important to remember
+Leaf:  N Comparison that the overall rate is still much lower
+Leaf:  S span than it has been in the past .
+Inner:  N Attribution None Comparison NS
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  N Summary None Elaborate NS
+Leaf:  S span People think
+Leaf:  N Attribution that things are more dangerous than ever today ,
+Inner:  S span None Attribution SN
+Leaf:  S span but the facts show
+Leaf:  N Attribution that 's not true .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Summary NS
+[("It 's always a bad thing", None, None, None, 0), ('when the murder rate increases .', None, None, None, 1), ('The fact', None, None, None, 0), ('that it had the highest increase in decades is incredibly disturbing ,', None, None, None, 0), ("although it 's important to remember", None, None, None, 0), ('that the overall rate is still much lower', None, None, None, 0), ('than it has been in the past .', None, None, None, 1), ('People think', None, None, None, 0), ('that things are more dangerous than ever today ,', None, None, None, 0), ('but the facts show', None, None, None, 0), ("that 's not true .", None, None, None, 1)]

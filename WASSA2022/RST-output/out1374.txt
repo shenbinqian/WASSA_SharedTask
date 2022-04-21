@@ -1,0 +1,29 @@
+=====================> [[('President Trump is so stupid', None, None, None, 0), ('for pulling out of the Paris deal .', None, None, None, 1), ('Being that our Country is held highly among-st the rest of the world ,', None, None, None, 0), ('you would think', None, None, None, 0), ('that we would be considered with the environment just as much as everyone else .', None, None, None, 1), ('How can he believe', None, None, None, 0), ("Climate Change is n't real", None, None, None, 0), ('How is he allowed to just pull us from this deal', None, None, None, 0), ('we agreed to ?', None, None, None, 1), ('It seems pretty stupid to me', None, None, None, 0), ('that he can just make these changes on his own free will .', None, None, None, 1), ('What happens later down the road', None, None, None, 0), ('when the impact of these decisions are felt', None, None, None, 0), ('and the earth really does have an Angry Summer ?', None, None, None, 1)]]
+Leaf:  N Explanation President Trump is so stupid
+Leaf:  S span for pulling out of the Paris deal .
+Inner:  N Explanation None Explanation NS
+Leaf:  S span Being that our Country is held highly among-st the rest of the world ,
+Leaf:  S span you would think
+Leaf:  N Attribution that we would be considered with the environment just as much as everyone else .
+Inner:  N Background None Attribution SN
+Inner:  N Summary None Background SN
+Leaf:  S span How can he believe
+Leaf:  N Attribution Climate Change is n't real
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate How is he allowed to just pull us from this deal
+Leaf:  S span we agreed to ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span It seems pretty stupid to me
+Leaf:  N Attribution that he can just make these changes on his own free will .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background What happens later down the road
+Leaf:  S span when the impact of these decisions are felt
+Inner:  N Cause None Background NS
+Leaf:  S span and the earth really does have an Angry Summer ?
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('President Trump is so stupid', None, None, None, 0), ('for pulling out of the Paris deal .', None, None, None, 1), ('Being that our Country is held highly among-st the rest of the world ,', None, None, None, 0), ('you would think', None, None, None, 0), ('that we would be considered with the environment just as much as everyone else .', None, None, None, 1), ('How can he believe', None, None, None, 0), ("Climate Change is n't real", None, None, None, 0), ('How is he allowed to just pull us from this deal', None, None, None, 0), ('we agreed to ?', None, None, None, 1), ('It seems pretty stupid to me', None, None, None, 0), ('that he can just make these changes on his own free will .', None, None, None, 1), ('What happens later down the road', None, None, None, 0), ('when the impact of these decisions are felt', None, None, None, 0), ('and the earth really does have an Angry Summer ?', None, None, None, 1)]

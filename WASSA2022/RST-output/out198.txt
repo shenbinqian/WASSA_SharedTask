@@ -1,0 +1,21 @@
+=====================> [[('A diseased', None, None, None, 0), ('called microcephaly has spread from South America to America .', None, None, None, 1), ("It 's a virus", None, None, None, 0), ('which causes severe brain impairment .', None, None, None, 1), ("In the article , a couple 's child has the disease", None, None, None, 0), ('and showed signs of impairment early on .', None, None, None, 1), ('They were worried', None, None, None, 0), ('whether a second child would also have the disease', None, None, None, 0), ('but the child did not', None, None, None, 0), ('even though the odds were one in four .', None, None, None, 1)]]
+Leaf:  N Elaborate A diseased
+Leaf:  S span called microcephaly has spread from South America to America .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It 's a virus
+Leaf:  S span which causes severe brain impairment .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint In the article , a couple 's child has the disease
+Leaf:  N Joint and showed signs of impairment early on .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They were worried
+Leaf:  S span whether a second child would also have the disease
+Leaf:  N Contrast but the child did not
+Leaf:  S span even though the odds were one in four .
+Inner:  N Contrast None Contrast NS
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('A diseased', None, None, None, 0), ('called microcephaly has spread from South America to America .', None, None, None, 1), ("It 's a virus", None, None, None, 0), ('which causes severe brain impairment .', None, None, None, 1), ("In the article , a couple 's child has the disease", None, None, None, 0), ('and showed signs of impairment early on .', None, None, None, 1), ('They were worried', None, None, None, 0), ('whether a second child would also have the disease', None, None, None, 0), ('but the child did not', None, None, None, 0), ('even though the odds were one in four .', None, None, None, 1)]

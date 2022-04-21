@@ -1,0 +1,33 @@
+=====================> [[('After reading the article about Azalia Banks and Russell Crowe ,', None, None, None, 0), ('I must say', None, None, None, 0), ('it was rather humiliating .', None, None, None, 1), ('They treated her really bad .', None, None, None, 1), ('I felt compassion for her . I tried to put myself into her shoe', None, None, None, 0), ('and I know', None, None, None, 0), ('I would have broken down', None, None, None, 0), ('and cried .', None, None, None, 1), ('She should have controlled her tongue as well ,', None, None, None, 0), ('violence begot violence', None, None, None, 0), ('and a soft answer turns away wrath .', None, None, None, 1), ("Russell is not much of a lady 's gentleman", None, None, None, 0), ('he could have dealt with the issue in an amicable manner .', None, None, None, 1), ('Maybe they could just let bygones be bygones', None, None, None, 0), ('and put it behind them .', None, None, None, 1), ('It was rather unfortunate .', None, None, None, 1)]]
+Leaf:  S span After reading the article about Azalia Banks and Russell Crowe ,
+Leaf:  N Background I must say
+Inner:  S span None Background SN
+Leaf:  N Attribution it was rather humiliating .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation They treated her really bad .
+Leaf:  N Temporal I felt compassion for her . I tried to put myself into her shoe
+Leaf:  S span and I know
+Leaf:  N Temporal I would have broken down
+Leaf:  N Temporal and cried .
+Inner:  N Attribution None Temporal NN
+Inner:  N Temporal None Attribution SN
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation She should have controlled her tongue as well ,
+Leaf:  N Joint violence begot violence
+Leaf:  N Joint and a soft answer turns away wrath .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Russell is not much of a lady 's gentleman
+Leaf:  N Joint he could have dealt with the issue in an amicable manner .
+Leaf:  N Temporal Maybe they could just let bygones be bygones
+Leaf:  N Temporal and put it behind them .
+Inner:  N Joint None Temporal NN
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It was rather unfortunate .
+Inner:  Root None None Evaluation NS
+[('After reading the article about Azalia Banks and Russell Crowe ,', None, None, None, 0), ('I must say', None, None, None, 0), ('it was rather humiliating .', None, None, None, 1), ('They treated her really bad .', None, None, None, 1), ('I felt compassion for her . I tried to put myself into her shoe', None, None, None, 0), ('and I know', None, None, None, 0), ('I would have broken down', None, None, None, 0), ('and cried .', None, None, None, 1), ('She should have controlled her tongue as well ,', None, None, None, 0), ('violence begot violence', None, None, None, 0), ('and a soft answer turns away wrath .', None, None, None, 1), ("Russell is not much of a lady 's gentleman", None, None, None, 0), ('he could have dealt with the issue in an amicable manner .', None, None, None, 1), ('Maybe they could just let bygones be bygones', None, None, None, 0), ('and put it behind them .', None, None, None, 1), ('It was rather unfortunate .', None, None, None, 1)]

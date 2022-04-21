@@ -1,0 +1,21 @@
+=====================> [[('Lung cancer is one of the most dangerous and strong illnes .', None, None, None, 1), ('It is scary to think that someone might be carrying that kind of desease', None, None, None, 0), ('just because of them', None, None, None, 0), ('having a hard time', None, None, None, 0), ('letting go of smoking . Also , thinking', None, None, None, 0), ('that even the non-smoking people can get sick', None, None, None, 0), ('and worst they can even have cancer too .', None, None, None, 1), ('Just thinking how things worked', None, None, None, 0), ('regarding cancer', None, None, None, 0), ('is traumatising me .', None, None, None, 1)]]
+Leaf:  N Evaluation Lung cancer is one of the most dangerous and strong illnes .
+Leaf:  N Cause It is scary to think that someone might be carrying that kind of desease
+Leaf:  N Elaborate just because of them
+Leaf:  N Manner-Means having a hard time
+Leaf:  S span letting go of smoking . Also , thinking
+Inner:  S span None Manner-Means NS
+Inner:  S span None Elaborate NS
+Leaf:  N Joint that even the non-smoking people can get sick
+Leaf:  N Joint and worst they can even have cancer too .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Just thinking how things worked
+Leaf:  S span regarding cancer
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is traumatising me .
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('Lung cancer is one of the most dangerous and strong illnes .', None, None, None, 1), ('It is scary to think that someone might be carrying that kind of desease', None, None, None, 0), ('just because of them', None, None, None, 0), ('having a hard time', None, None, None, 0), ('letting go of smoking . Also , thinking', None, None, None, 0), ('that even the non-smoking people can get sick', None, None, None, 0), ('and worst they can even have cancer too .', None, None, None, 1), ('Just thinking how things worked', None, None, None, 0), ('regarding cancer', None, None, None, 0), ('is traumatising me .', None, None, None, 1)]

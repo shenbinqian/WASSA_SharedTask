@@ -1,0 +1,21 @@
+=====================> [[('It is awful that there is such turmoil in the Middle East .', None, None, None, 1), ('It makes me so grateful', None, None, None, 0), ('that I am an American .', None, None, None, 1), ("Is n't it sad", None, None, None, 0), ('that Doctors Without Borders is at risk', None, None, None, 0), ('because of the fighting in the Middle East .', None, None, None, 1), ('Those people donate their time', None, None, None, 0), ('to help others', None, None, None, 0), ('and they have to worry', None, None, None, 0), ('if they are going to be hurt or killed . Such a sad area of the world .', None, None, None, 1)]]
+Leaf:  N Contrast It is awful that there is such turmoil in the Middle East .
+Leaf:  S span It makes me so grateful
+Leaf:  N Attribution that I am an American .
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast NN
+Leaf:  S span Is n't it sad
+Leaf:  N Cause that Doctors Without Borders is at risk
+Leaf:  S span because of the fighting in the Middle East .
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement Those people donate their time
+Leaf:  S span to help others
+Inner:  N Contrast None Enablement NS
+Leaf:  S span and they have to worry
+Leaf:  N Attribution if they are going to be hurt or killed . Such a sad area of the world .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  N Joint None Elaborate NS
+Inner:  Root None None Joint NN
+[('It is awful that there is such turmoil in the Middle East .', None, None, None, 1), ('It makes me so grateful', None, None, None, 0), ('that I am an American .', None, None, None, 1), ("Is n't it sad", None, None, None, 0), ('that Doctors Without Borders is at risk', None, None, None, 0), ('because of the fighting in the Middle East .', None, None, None, 1), ('Those people donate their time', None, None, None, 0), ('to help others', None, None, None, 0), ('and they have to worry', None, None, None, 0), ('if they are going to be hurt or killed . Such a sad area of the world .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('Just read a short article about the Kim Kardashian robbery . Pretty scary for her ,', None, None, None, 0), ('and the robbers kept demanding money .', None, None, None, 1), ('There were language/communication issues between her and the robbers ,', None, None, None, 0), ('she thought', None, None, None, 0), ('they wanted her jewelry ,', None, None, None, 0), ('and they wanted her money .', None, None, None, 1), ('I hope', None, None, None, 0), ('that she gets better security in place', None, None, None, 0), ('so that this never happens again .', None, None, None, 1), ('The article mentioned her providing information about her expensive diamond ring on Facebook', None, None, None, 0), ('- I think', None, None, None, 0), ("there 's a lesson", None, None, None, 0), ('to be learned about that .', None, None, None, 1)]]
+Leaf:  N Joint Just read a short article about the Kim Kardashian robbery . Pretty scary for her ,
+Leaf:  N Joint and the robbers kept demanding money .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint There were language/communication issues between her and the robbers ,
+Leaf:  S span she thought
+Leaf:  N Joint they wanted her jewelry ,
+Leaf:  N Joint and they wanted her money .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Enablement that she gets better security in place
+Leaf:  S span so that this never happens again .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation The article mentioned her providing information about her expensive diamond ring on Facebook
+Leaf:  S span - I think
+Leaf:  N Elaborate there 's a lesson
+Leaf:  S span to be learned about that .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Just read a short article about the Kim Kardashian robbery . Pretty scary for her ,', None, None, None, 0), ('and the robbers kept demanding money .', None, None, None, 1), ('There were language/communication issues between her and the robbers ,', None, None, None, 0), ('she thought', None, None, None, 0), ('they wanted her jewelry ,', None, None, None, 0), ('and they wanted her money .', None, None, None, 1), ('I hope', None, None, None, 0), ('that she gets better security in place', None, None, None, 0), ('so that this never happens again .', None, None, None, 1), ('The article mentioned her providing information about her expensive diamond ring on Facebook', None, None, None, 0), ('- I think', None, None, None, 0), ("there 's a lesson", None, None, None, 0), ('to be learned about that .', None, None, None, 1)]

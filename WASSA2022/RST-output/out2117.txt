@@ -1,0 +1,37 @@
+=====================> [[('The article is very well-written and relatively thoughtful .', None, None, None, 1), ('I also find it heartwarming and touching at times .', None, None, None, 1), ("However , it 's also overflowing with this self-centered ignorance", None, None, None, 0), ('that our internet culture has engendered over the last decade .', None, None, None, 1), ('We are specks , even on this planet , even in our own cities .', None, None, None, 1), ("It 's an enormous world", None, None, None, 0), ('-- unfathomably large .', None, None, None, 1), ('To think', None, None, None, 0), ('that it is not irrational to be afraid of terrorism is stupid . Statistically speaking', None, None, None, 0), ('-- i.e. RATIONALLY speaking', None, None, None, 0), ('-- it is absurd to be afraid of terrorism . And yet intelligent people are . They see the world too much through their phones , through the images', None, None, None, 0), ('( images , not tangible things )', None, None, None, 0), ('depicted on it .', None, None, None, 1), ('The world', None, None, None, 0), ('that exists in our phones', None, None, None, 0), ('does not exist in reality .', None, None, None, 1), ('They are two distinct things .', None, None, None, 1), ('People are stupid .', None, None, None, 1)]]
+Leaf:  N Joint The article is very well-written and relatively thoughtful .
+Leaf:  N Joint I also find it heartwarming and touching at times .
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate However , it 's also overflowing with this self-centered ignorance
+Leaf:  S span that our internet culture has engendered over the last decade .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Explanation None Contrast NN
+Leaf:  N Contrast We are specks , even on this planet , even in our own cities .
+Leaf:  N Evaluation It 's an enormous world
+Leaf:  S span -- unfathomably large .
+Inner:  N Contrast None Evaluation NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span To think
+Leaf:  N Elaborate that it is not irrational to be afraid of terrorism is stupid . Statistically speaking
+Leaf:  S span -- i.e. RATIONALLY speaking
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate -- it is absurd to be afraid of terrorism . And yet intelligent people are . They see the world too much through their phones , through the images
+Leaf:  N Elaborate ( images , not tangible things )
+Leaf:  S span depicted on it .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate The world
+Leaf:  S span that exists in our phones
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit does not exist in reality .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span They are two distinct things .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span People are stupid .
+Inner:  Root None None Evaluation NS
+[('The article is very well-written and relatively thoughtful .', None, None, None, 1), ('I also find it heartwarming and touching at times .', None, None, None, 1), ("However , it 's also overflowing with this self-centered ignorance", None, None, None, 0), ('that our internet culture has engendered over the last decade .', None, None, None, 1), ('We are specks , even on this planet , even in our own cities .', None, None, None, 1), ("It 's an enormous world", None, None, None, 0), ('-- unfathomably large .', None, None, None, 1), ('To think', None, None, None, 0), ('that it is not irrational to be afraid of terrorism is stupid . Statistically speaking', None, None, None, 0), ('-- i.e. RATIONALLY speaking', None, None, None, 0), ('-- it is absurd to be afraid of terrorism . And yet intelligent people are . They see the world too much through their phones , through the images', None, None, None, 0), ('( images , not tangible things )', None, None, None, 0), ('depicted on it .', None, None, None, 1), ('The world', None, None, None, 0), ('that exists in our phones', None, None, None, 0), ('does not exist in reality .', None, None, None, 1), ('They are two distinct things .', None, None, None, 1), ('People are stupid .', None, None, None, 1)]

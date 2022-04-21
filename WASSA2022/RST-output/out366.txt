@@ -1,0 +1,27 @@
+=====================> [[('Hello !', None, None, None, 1), ('I just read this article', None, None, None, 0), ('and would like to share it with you .', None, None, None, 1), ('It is about the oak trees dying along the west coast .', None, None, None, 1), ('I know', None, None, None, 0), ('you are interested', None, None, None, 0), ("and we 've talked about this before .", None, None, None, 1), ('It seems to be caused by beetles', None, None, None, 0), ('and they are multiplying faster', None, None, None, 0), ('because of warm temperatures .', None, None, None, 1), ('I wish there was something more', None, None, None, 0), ('we were doing', None, None, None, 0), ('to stop climate change and these warm temps !', None, None, None, 1)]]
+Leaf:  N Joint Hello !
+Leaf:  N Joint I just read this article
+Leaf:  N Joint and would like to share it with you .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate It is about the oak trees dying along the west coast .
+Leaf:  S span I know
+Leaf:  N Joint you are interested
+Leaf:  N Joint and we 've talked about this before .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint It seems to be caused by beetles
+Leaf:  N Cause and they are multiplying faster
+Leaf:  S span because of warm temperatures .
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I wish there was something more
+Leaf:  N Enablement we were doing
+Leaf:  S span to stop climate change and these warm temps !
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello !', None, None, None, 1), ('I just read this article', None, None, None, 0), ('and would like to share it with you .', None, None, None, 1), ('It is about the oak trees dying along the west coast .', None, None, None, 1), ('I know', None, None, None, 0), ('you are interested', None, None, None, 0), ("and we 've talked about this before .", None, None, None, 1), ('It seems to be caused by beetles', None, None, None, 0), ('and they are multiplying faster', None, None, None, 0), ('because of warm temperatures .', None, None, None, 1), ('I wish there was something more', None, None, None, 0), ('we were doing', None, None, None, 0), ('to stop climate change and these warm temps !', None, None, None, 1)]

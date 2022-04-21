@@ -1,0 +1,25 @@
+=====================> [[('In this day and age , there should not be such a thing as airline discrimination .', None, None, None, 1), ('The only way', None, None, None, 0), ('someone should be stopped or removed from their flights', None, None, None, 0), ('is if they displayed violent behavior', None, None, None, 0), ('or', None, None, None, 0), ('if they were trying to board with weapons .', None, None, None, 1), ('It is not acceptable at all for someone to be barred from their flight due to the color of their skin or their religious or ethnic background .', None, None, None, 1), ('Those', None, None, None, 0), ('who have been discriminated against', None, None, None, 0), ('for these reasons are suffering undue embarrassment and inconvenience .', None, None, None, 1), ('They should be compensated for this unfair treatment', None, None, None, 0), ('and the airlines should be fined heavily .', None, None, None, 1)]]
+Leaf:  N Explanation In this day and age , there should not be such a thing as airline discrimination .
+Leaf:  N Elaborate The only way
+Leaf:  S span someone should be stopped or removed from their flights
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint is if they displayed violent behavior
+Leaf:  N Enablement or
+Leaf:  S span if they were trying to board with weapons .
+Inner:  N Joint None Enablement NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It is not acceptable at all for someone to be barred from their flight due to the color of their skin or their religious or ethnic background .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Those
+Leaf:  N Cause who have been discriminated against
+Leaf:  S span for these reasons are suffering undue embarrassment and inconvenience .
+Inner:  S span None Cause NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Joint They should be compensated for this unfair treatment
+Leaf:  N Joint and the airlines should be fined heavily .
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('In this day and age , there should not be such a thing as airline discrimination .', None, None, None, 1), ('The only way', None, None, None, 0), ('someone should be stopped or removed from their flights', None, None, None, 0), ('is if they displayed violent behavior', None, None, None, 0), ('or', None, None, None, 0), ('if they were trying to board with weapons .', None, None, None, 1), ('It is not acceptable at all for someone to be barred from their flight due to the color of their skin or their religious or ethnic background .', None, None, None, 1), ('Those', None, None, None, 0), ('who have been discriminated against', None, None, None, 0), ('for these reasons are suffering undue embarrassment and inconvenience .', None, None, None, 1), ('They should be compensated for this unfair treatment', None, None, None, 0), ('and the airlines should be fined heavily .', None, None, None, 1)]

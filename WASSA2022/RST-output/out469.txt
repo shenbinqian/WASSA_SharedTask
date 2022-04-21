@@ -1,0 +1,17 @@
+=====================> [[('Trump continues to fuck up the nation .', None, None, None, 1), ('Did you read this story', None, None, None, 0), ('of how Trump wants to back out of the Paris Accord ?', None, None, None, 1), ('As a nation we are finally trying to seriously address climate change', None, None, None, 0), ('and we are doing that with partners around the world .', None, None, None, 1), ('However , Trump the national embarrassment has seen to it', None, None, None, 0), ('that not only do we not continue trying to make the planet better ,', None, None, None, 0), ('but we also betray our allies .', None, None, None, 1)]]
+Leaf:  N Summary Trump continues to fuck up the nation .
+Leaf:  N Elaborate Did you read this story
+Leaf:  S span of how Trump wants to back out of the Paris Accord ?
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Summary NS
+Leaf:  N Joint As a nation we are finally trying to seriously address climate change
+Leaf:  N Joint and we are doing that with partners around the world .
+Inner:  S span None Joint NN
+Leaf:  S span However , Trump the national embarrassment has seen to it
+Leaf:  N Joint that not only do we not continue trying to make the planet better ,
+Leaf:  N Joint but we also betray our allies .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  N Textual-Organization None Contrast SN
+Inner:  Root None None Textual-Organization NN
+[('Trump continues to fuck up the nation .', None, None, None, 1), ('Did you read this story', None, None, None, 0), ('of how Trump wants to back out of the Paris Accord ?', None, None, None, 1), ('As a nation we are finally trying to seriously address climate change', None, None, None, 0), ('and we are doing that with partners around the world .', None, None, None, 1), ('However , Trump the national embarrassment has seen to it', None, None, None, 0), ('that not only do we not continue trying to make the planet better ,', None, None, None, 0), ('but we also betray our allies .', None, None, None, 1)]

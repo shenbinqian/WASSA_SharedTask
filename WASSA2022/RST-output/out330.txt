@@ -1,0 +1,21 @@
+=====================> [[('Although I do think', None, None, None, 0), ('that companies have the right', None, None, None, 0), ('to advertise their product willingly ,', None, None, None, 0), ('I also think', None, None, None, 0), ('that targeting kids is wrong .', None, None, None, 1), ('I think', None, None, None, 0), ('that good health should come first', None, None, None, 0), ('and the advertisement should condone this .', None, None, None, 1), ('Advertisements should not target kids ,', None, None, None, 0), ("given that they do n't really know what is good for them yet .", None, None, None, 1)]]
+Leaf:  S span Although I do think
+Leaf:  N Elaborate that companies have the right
+Leaf:  S span to advertise their product willingly ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  S span I also think
+Leaf:  N Attribution that targeting kids is wrong .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I think
+Leaf:  N Joint that good health should come first
+Leaf:  N Joint and the advertisement should condone this .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation Advertisements should not target kids ,
+Leaf:  S span given that they do n't really know what is good for them yet .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Although I do think', None, None, None, 0), ('that companies have the right', None, None, None, 0), ('to advertise their product willingly ,', None, None, None, 0), ('I also think', None, None, None, 0), ('that targeting kids is wrong .', None, None, None, 1), ('I think', None, None, None, 0), ('that good health should come first', None, None, None, 0), ('and the advertisement should condone this .', None, None, None, 1), ('Advertisements should not target kids ,', None, None, None, 0), ("given that they do n't really know what is good for them yet .", None, None, None, 1)]

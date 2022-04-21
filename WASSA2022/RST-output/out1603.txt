@@ -1,0 +1,45 @@
+=====================> [[('Oh my god ...', None, None, None, 1), ("I ca n't even imagine the fear", None, None, None, 0), ('those two poor boys must have felt .', None, None, None, 1), ('I can only hope', None, None, None, 0), ('they did not see it coming .', None, None, None, 1), ('How disturbed must one be to see this sort of thing as the only way out , the right thing to do ?', None, None, None, 1), ('The pain and loss', None, None, None, 0), ('this family is feeling', None, None, None, 0), ('is probably only compounded due to the conflicting feelings of someone', None, None, None, 0), ('you love', None, None, None, 0), ('committing such an atrocious act on others', None, None, None, 0), ('you love ,', None, None, None, 0), ('whose lives were just beginning .', None, None, None, 1), ('Poor babies ... I do hope', None, None, None, 0), ("they did n't suffer .", None, None, None, 1), ('It shows', None, None, None, 0), ('that complaints of domestic issues should be taken seriously , by everyone .', None, None, None, 1), ('It states', None, None, None, 0), ('he was under investigation/being', None, None, None, 0), ('sought for domestic violations .', None, None, None, 1), ('How did he even get his hands on those boys ?', None, None, None, 1), ("It 's so sad .", None, None, None, 1)]]
+Leaf:  N Elaborate Oh my god ...
+Leaf:  N Elaborate I ca n't even imagine the fear
+Leaf:  S span those two poor boys must have felt .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I can only hope
+Leaf:  N Attribution they did not see it coming .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span How disturbed must one be to see this sort of thing as the only way out , the right thing to do ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate The pain and loss
+Leaf:  S span this family is feeling
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is probably only compounded due to the conflicting feelings of someone
+Leaf:  S span you love
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate committing such an atrocious act on others
+Leaf:  N Elaborate you love ,
+Leaf:  S span whose lives were just beginning .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Poor babies ... I do hope
+Leaf:  N Attribution they did n't suffer .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span It shows
+Leaf:  N Attribution that complaints of domestic issues should be taken seriously , by everyone .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It states
+Leaf:  N Elaborate he was under investigation/being
+Leaf:  S span sought for domestic violations .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span How did he even get his hands on those boys ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's so sad .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Oh my god ...', None, None, None, 1), ("I ca n't even imagine the fear", None, None, None, 0), ('those two poor boys must have felt .', None, None, None, 1), ('I can only hope', None, None, None, 0), ('they did not see it coming .', None, None, None, 1), ('How disturbed must one be to see this sort of thing as the only way out , the right thing to do ?', None, None, None, 1), ('The pain and loss', None, None, None, 0), ('this family is feeling', None, None, None, 0), ('is probably only compounded due to the conflicting feelings of someone', None, None, None, 0), ('you love', None, None, None, 0), ('committing such an atrocious act on others', None, None, None, 0), ('you love ,', None, None, None, 0), ('whose lives were just beginning .', None, None, None, 1), ('Poor babies ... I do hope', None, None, None, 0), ("they did n't suffer .", None, None, None, 1), ('It shows', None, None, None, 0), ('that complaints of domestic issues should be taken seriously , by everyone .', None, None, None, 1), ('It states', None, None, None, 0), ('he was under investigation/being', None, None, None, 0), ('sought for domestic violations .', None, None, None, 1), ('How did he even get his hands on those boys ?', None, None, None, 1), ("It 's so sad .", None, None, None, 1)]

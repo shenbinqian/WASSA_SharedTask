@@ -1,0 +1,19 @@
+=====================> [[('The thought', None, None, None, 0), ('of suffering from sleep paralysis is quite unnerving .', None, None, None, 1), ("It would seemingly be akin being a prisoner in one 's own body .", None, None, None, 1), ('I would encourage anyone', None, None, None, 0), ('suffering from such issues', None, None, None, 0), ('to have such an issue', None, None, None, 0), ('investigated by a doctor . It is very fortunate that we live in a time', None, None, None, 0), ('where doctors can assist individuals with such issues ,', None, None, None, 0), ('so people should really seek help .', None, None, None, 1)]]
+Leaf:  N Elaborate The thought
+Leaf:  S span of suffering from sleep paralysis is quite unnerving .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It would seemingly be akin being a prisoner in one 's own body .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I would encourage anyone
+Leaf:  S span suffering from such issues
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate to have such an issue
+Leaf:  N Elaborate investigated by a doctor . It is very fortunate that we live in a time
+Leaf:  S span where doctors can assist individuals with such issues ,
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span so people should really seek help .
+Inner:  N Same-Unit None Evaluation NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('The thought', None, None, None, 0), ('of suffering from sleep paralysis is quite unnerving .', None, None, None, 1), ("It would seemingly be akin being a prisoner in one 's own body .", None, None, None, 1), ('I would encourage anyone', None, None, None, 0), ('suffering from such issues', None, None, None, 0), ('to have such an issue', None, None, None, 0), ('investigated by a doctor . It is very fortunate that we live in a time', None, None, None, 0), ('where doctors can assist individuals with such issues ,', None, None, None, 0), ('so people should really seek help .', None, None, None, 1)]

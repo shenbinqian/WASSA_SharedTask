@@ -1,0 +1,35 @@
+=====================> [[('I think', None, None, None, 0), ('the robbers probably knew', None, None, None, 0), ('that jewelry would be harder', None, None, None, 0), ('to get away with', None, None, None, 0), ('because in order to make money', None, None, None, 0), ('selling it ,', None, None, None, 0), ('they could be tracked', None, None, None, 0), ('and found out', None, None, None, 0), ('that they were her pieces .', None, None, None, 1), ('It makes more sense to steal money', None, None, None, 0), ('and they probably thought', None, None, None, 0), ('she would have a lot', None, None, None, 0), ('considering she is a huge celebrity .', None, None, None, 1), ('They must not have bothered to think', None, None, None, 0), ("that she probably would n't have cash .", None, None, None, 1), ('I feel bad', None, None, None, 0), ('that she went through that .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  S span the robbers probably knew
+Leaf:  N Elaborate that jewelry would be harder
+Leaf:  S span to get away with
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate because in order to make money
+Leaf:  S span selling it ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint they could be tracked
+Leaf:  S span and found out
+Leaf:  N Attribution that they were her pieces .
+Inner:  N Joint None Attribution SN
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Cause NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It makes more sense to steal money
+Leaf:  S span and they probably thought
+Leaf:  N Background she would have a lot
+Leaf:  S span considering she is a huge celebrity .
+Inner:  N Attribution None Background NS
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They must not have bothered to think
+Leaf:  N Attribution that she probably would n't have cash .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I feel bad
+Leaf:  N Attribution that she went through that .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('the robbers probably knew', None, None, None, 0), ('that jewelry would be harder', None, None, None, 0), ('to get away with', None, None, None, 0), ('because in order to make money', None, None, None, 0), ('selling it ,', None, None, None, 0), ('they could be tracked', None, None, None, 0), ('and found out', None, None, None, 0), ('that they were her pieces .', None, None, None, 1), ('It makes more sense to steal money', None, None, None, 0), ('and they probably thought', None, None, None, 0), ('she would have a lot', None, None, None, 0), ('considering she is a huge celebrity .', None, None, None, 1), ('They must not have bothered to think', None, None, None, 0), ("that she probably would n't have cash .", None, None, None, 1), ('I feel bad', None, None, None, 0), ('that she went through that .', None, None, None, 1)]

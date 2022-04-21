@@ -1,0 +1,43 @@
+=====================> [[('I think', None, None, None, 0), ('it is crazy to think', None, None, None, 0), ('that the Zika virus is just going to disappear .', None, None, None, 1), ("I 'm really worried about getting bit by an infected mosquito", None, None, None, 0), ('and then getting pregnant .', None, None, None, 1), ("I would n't want anything to happen to my baby . This person thinks", None, None, None, 0), ("that we should just put girls in a room with infected mosquito 's", None, None, None, 0), ('and let them get bit .', None, None, None, 1), ("I do n't think", None, None, None, 0), ("you can prevent immunity that way . I do n't think", None, None, None, 0), ('this virus is just going to disappear .', None, None, None, 1), ('I think', None, None, None, 0), ('something has to be done', None, None, None, 0), ('to prevent it', None, None, None, 0), ('from infecting more people .', None, None, None, 1), ('It needs to be controlled .', None, None, None, 1), ('I think', None, None, None, 0), ('it is sad for those', None, None, None, 0), ('that have already gotten the virus .', None, None, None, 1), ('Something has to be done', None, None, None, 0), ('to help these poor people .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  S span it is crazy to think
+Leaf:  N Attribution that the Zika virus is just going to disappear .
+Inner:  N Attribution None Attribution SN
+Inner:  N Summary None Attribution SN
+Leaf:  N Temporal I 'm really worried about getting bit by an infected mosquito
+Leaf:  N Temporal and then getting pregnant .
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span I would n't want anything to happen to my baby . This person thinks
+Leaf:  N Enablement that we should just put girls in a room with infected mosquito 's
+Leaf:  S span and let them get bit .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I do n't think
+Leaf:  S span you can prevent immunity that way . I do n't think
+Leaf:  N Attribution this virus is just going to disappear .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Leaf:  S span I think
+Leaf:  N Enablement something has to be done
+Leaf:  N Elaborate to prevent it
+Leaf:  S span from infecting more people .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It needs to be controlled .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span I think
+Leaf:  N Elaborate it is sad for those
+Leaf:  S span that have already gotten the virus .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement Something has to be done
+Leaf:  S span to help these poor people .
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('I think', None, None, None, 0), ('it is crazy to think', None, None, None, 0), ('that the Zika virus is just going to disappear .', None, None, None, 1), ("I 'm really worried about getting bit by an infected mosquito", None, None, None, 0), ('and then getting pregnant .', None, None, None, 1), ("I would n't want anything to happen to my baby . This person thinks", None, None, None, 0), ("that we should just put girls in a room with infected mosquito 's", None, None, None, 0), ('and let them get bit .', None, None, None, 1), ("I do n't think", None, None, None, 0), ("you can prevent immunity that way . I do n't think", None, None, None, 0), ('this virus is just going to disappear .', None, None, None, 1), ('I think', None, None, None, 0), ('something has to be done', None, None, None, 0), ('to prevent it', None, None, None, 0), ('from infecting more people .', None, None, None, 1), ('It needs to be controlled .', None, None, None, 1), ('I think', None, None, None, 0), ('it is sad for those', None, None, None, 0), ('that have already gotten the virus .', None, None, None, 1), ('Something has to be done', None, None, None, 0), ('to help these poor people .', None, None, None, 1)]

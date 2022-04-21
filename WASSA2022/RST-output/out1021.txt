@@ -1,0 +1,17 @@
+=====================> [[('I feel very sad for the civilians', None, None, None, 0), ('who are caught in the crossfire .', None, None, None, 1), ("It 's sad that people are stuck in the middle of this conflict .", None, None, None, 1), ('I wish there was a peaceful resolution .', None, None, None, 1), ('Both sides should really keep the ceasefire', None, None, None, 0), ('if only to protect the civilians', None, None, None, 0), ('who are caught in the middle .', None, None, None, 1), ('Those people have no control over any of this .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel very sad for the civilians
+Leaf:  S span who are caught in the crossfire .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's sad that people are stuck in the middle of this conflict .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation I wish there was a peaceful resolution .
+Leaf:  N Condition Both sides should really keep the ceasefire
+Leaf:  N Elaborate if only to protect the civilians
+Leaf:  S span who are caught in the middle .
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span Those people have no control over any of this .
+Inner:  Root None None Explanation NS
+[('I feel very sad for the civilians', None, None, None, 0), ('who are caught in the crossfire .', None, None, None, 1), ("It 's sad that people are stuck in the middle of this conflict .", None, None, None, 1), ('I wish there was a peaceful resolution .', None, None, None, 1), ('Both sides should really keep the ceasefire', None, None, None, 0), ('if only to protect the civilians', None, None, None, 0), ('who are caught in the middle .', None, None, None, 1), ('Those people have no control over any of this .', None, None, None, 1)]

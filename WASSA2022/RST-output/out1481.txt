@@ -1,0 +1,37 @@
+=====================> [[('I think', None, None, None, 0), ('if someone is going to take on that responsibility', None, None, None, 0), ('in raising cattle', None, None, None, 0), ('they should at least know', None, None, None, 0), ('what they are doing .', None, None, None, 1), ('This guy , Bundy , does not care for them .', None, None, None, 1), ('They hardly have food or water .', None, None, None, 1), ('They get no interaction', None, None, None, 0), ('so', None, None, None, 0), ('when they do need to round them up ,', None, None, None, 0), ("they 're mean .", None, None, None, 1), ('That should be illegal .', None, None, None, 1), ("I 'm suprised", None, None, None, 0), ('he has not been caught yet .', None, None, None, 1), ('He is very lucky', None, None, None, 0), ('because', None, None, None, 0), ('when he get caught', None, None, None, 0), ('he will regret not taking proper care of them .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate if someone is going to take on that responsibility
+Leaf:  S span in raising cattle
+Inner:  S span None Elaborate NS
+Leaf:  S span they should at least know
+Leaf:  N Attribution what they are doing .
+Inner:  N Condition None Attribution SN
+Inner:  N Attribution None Condition SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Joint This guy , Bundy , does not care for them .
+Leaf:  N Joint They hardly have food or water .
+Leaf:  N Cause They get no interaction
+Leaf:  N Same-Unit so
+Leaf:  S span when they do need to round them up ,
+Leaf:  N Condition they 're mean .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Cause None Same-Unit NN
+Inner:  N Evaluation None Cause NN
+Leaf:  S span That should be illegal .
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I 'm suprised
+Leaf:  N Attribution he has not been caught yet .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation He is very lucky
+Leaf:  N Same-Unit because
+Leaf:  S span when he get caught
+Leaf:  N Condition he will regret not taking proper care of them .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Evaluation NS
+Inner:  Root None None Contrast NN
+[('I think', None, None, None, 0), ('if someone is going to take on that responsibility', None, None, None, 0), ('in raising cattle', None, None, None, 0), ('they should at least know', None, None, None, 0), ('what they are doing .', None, None, None, 1), ('This guy , Bundy , does not care for them .', None, None, None, 1), ('They hardly have food or water .', None, None, None, 1), ('They get no interaction', None, None, None, 0), ('so', None, None, None, 0), ('when they do need to round them up ,', None, None, None, 0), ("they 're mean .", None, None, None, 1), ('That should be illegal .', None, None, None, 1), ("I 'm suprised", None, None, None, 0), ('he has not been caught yet .', None, None, None, 1), ('He is very lucky', None, None, None, 0), ('because', None, None, None, 0), ('when he get caught', None, None, None, 0), ('he will regret not taking proper care of them .', None, None, None, 1)]

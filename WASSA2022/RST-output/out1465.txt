@@ -1,0 +1,19 @@
+=====================> [[('I believe', None, None, None, 0), ('protecting nature is extremely important .', None, None, None, 1), ('Whether it is climate change or restricting grazing ,', None, None, None, 0), ('we must make a commitment', None, None, None, 0), ('to insuring that our lands are preserved for future generations .', None, None, None, 1), ('People can enjoy the outside', None, None, None, 0), ('and enjoying the outside is especially important for a generation', None, None, None, 0), ('that has often been labelled as couch potatoes .', None, None, None, 1), ('Such lands should be well preserved for them .', None, None, None, 1)]]
+Leaf:  S span I believe
+Leaf:  N Attribution protecting nature is extremely important .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Whether it is climate change or restricting grazing ,
+Leaf:  N Elaborate we must make a commitment
+Leaf:  S span to insuring that our lands are preserved for future generations .
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Joint People can enjoy the outside
+Leaf:  N Elaborate and enjoying the outside is especially important for a generation
+Leaf:  S span that has often been labelled as couch potatoes .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Such lands should be well preserved for them .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I believe', None, None, None, 0), ('protecting nature is extremely important .', None, None, None, 1), ('Whether it is climate change or restricting grazing ,', None, None, None, 0), ('we must make a commitment', None, None, None, 0), ('to insuring that our lands are preserved for future generations .', None, None, None, 1), ('People can enjoy the outside', None, None, None, 0), ('and enjoying the outside is especially important for a generation', None, None, None, 0), ('that has often been labelled as couch potatoes .', None, None, None, 1), ('Such lands should be well preserved for them .', None, None, None, 1)]

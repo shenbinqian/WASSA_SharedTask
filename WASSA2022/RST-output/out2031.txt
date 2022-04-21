@@ -1,0 +1,19 @@
+=====================> [[('Dear friend , I have just read the most horrible news article today .', None, None, None, 1), ('There was a black community church', None, None, None, 0), ('that was burned down in a violent , hateful act of arson .', None, None, None, 1), ('Fortunately , no one was killed or severely injured ,', None, None, None, 0), ('but the property damage is quite extensive .', None, None, None, 1), ('There had been a message', None, None, None, 0), ('painted on the walls', None, None, None, 0), ('that said', None, None, None, 0), ('" Vote Trump . "', None, None, None, 0)]]
+Leaf:  N Elaborate Dear friend , I have just read the most horrible news article today .
+Leaf:  N Elaborate There was a black community church
+Leaf:  S span that was burned down in a violent , hateful act of arson .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Contrast Fortunately , no one was killed or severely injured ,
+Leaf:  N Contrast but the property damage is quite extensive .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate There had been a message
+Leaf:  S span painted on the walls
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that said
+Leaf:  N Attribution " Vote Trump . "
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just read the most horrible news article today .', None, None, None, 1), ('There was a black community church', None, None, None, 0), ('that was burned down in a violent , hateful act of arson .', None, None, None, 1), ('Fortunately , no one was killed or severely injured ,', None, None, None, 0), ('but the property damage is quite extensive .', None, None, None, 1), ('There had been a message', None, None, None, 0), ('painted on the walls', None, None, None, 0), ('that said', None, None, None, 0), ('" Vote Trump . "', None, None, None, 0)]

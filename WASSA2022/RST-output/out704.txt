@@ -1,0 +1,21 @@
+=====================> [[('Hey , Josh here is another example of total insanity in a nation', None, None, None, 0), ('that has taken millions of jobs from people around the world', None, None, None, 0), ('but refuses to give any serious consideration to the health and welfare of its citizens .', None, None, None, 1), ('These people are pawns', None, None, None, 0), ('and the sad thing is no one there has the will', None, None, None, 0), ('to fix any of the sanitation problems or air quality issues .', None, None, None, 1), ('What is so hard about it ?', None, None, None, 1), ('Maybe they should start eating some of their relatives ,', None, None, None, 0), ('you know ,', None, None, None, 0), ('cattle .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , Josh here is another example of total insanity in a nation
+Leaf:  N Contrast that has taken millions of jobs from people around the world
+Leaf:  N Contrast but refuses to give any serious consideration to the health and welfare of its citizens .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation These people are pawns
+Leaf:  N Elaborate and the sad thing is no one there has the will
+Leaf:  S span to fix any of the sanitation problems or air quality issues .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation What is so hard about it ?
+Leaf:  N Elaborate Maybe they should start eating some of their relatives ,
+Leaf:  N Same-Unit you know ,
+Leaf:  N Same-Unit cattle .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey , Josh here is another example of total insanity in a nation', None, None, None, 0), ('that has taken millions of jobs from people around the world', None, None, None, 0), ('but refuses to give any serious consideration to the health and welfare of its citizens .', None, None, None, 1), ('These people are pawns', None, None, None, 0), ('and the sad thing is no one there has the will', None, None, None, 0), ('to fix any of the sanitation problems or air quality issues .', None, None, None, 1), ('What is so hard about it ?', None, None, None, 1), ('Maybe they should start eating some of their relatives ,', None, None, None, 0), ('you know ,', None, None, None, 0), ('cattle .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Crazy things are happening in Afghanistan', None, None, None, 0), ('still ...', None, None, None, 1), ("do n't want to go there anytime soon .", None, None, None, 1), ('Too unstable and too many people getting kidnapped', None, None, None, 0), ('...', None, None, None, 1), ('and that would certainly suck .', None, None, None, 1), ('Not that I would really ever want to go to Afghanistan in general anyway .', None, None, None, 1), ('Why would you want to go somewhere so dangerous ?', None, None, None, 1), ("I do n't understand .", None, None, None, 1)]]
+Leaf:  N Same-Unit Crazy things are happening in Afghanistan
+Leaf:  N Same-Unit still ...
+Inner:  N Textual-Organization None Same-Unit NN
+Leaf:  N Evaluation do n't want to go there anytime soon .
+Leaf:  N Evaluation Too unstable and too many people getting kidnapped
+Leaf:  S span ...
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate and that would certainly suck .
+Leaf:  N Evaluation Not that I would really ever want to go to Afghanistan in general anyway .
+Leaf:  S span Why would you want to go somewhere so dangerous ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I do n't understand .
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Crazy things are happening in Afghanistan', None, None, None, 0), ('still ...', None, None, None, 1), ("do n't want to go there anytime soon .", None, None, None, 1), ('Too unstable and too many people getting kidnapped', None, None, None, 0), ('...', None, None, None, 1), ('and that would certainly suck .', None, None, None, 1), ('Not that I would really ever want to go to Afghanistan in general anyway .', None, None, None, 1), ('Why would you want to go somewhere so dangerous ?', None, None, None, 1), ("I do n't understand .", None, None, None, 1)]

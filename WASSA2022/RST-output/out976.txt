@@ -1,0 +1,21 @@
+=====================> [[('So I just read this article about rappers and music artists', None, None, None, 0), ('having a disagreement .', None, None, None, 1), ('It was pretty stupid too ,', None, None, None, 0), ("I do n't get why adults are fighting like high school children .", None, None, None, 1), ('It was all over some petty comments made ,', None, None, None, 0), ('which apparently turned to racist slurs', None, None, None, 0), ('and got someone thrown out fo a building .', None, None, None, 1), ('Of course , everything is he said', None, None, None, 0), ('she said', None, None, None, 0), ("so I ca n't tell who was really wrong in this situation . However , again another situation that shows the stupidity of the human race .", None, None, None, 1)]]
+Leaf:  N Elaborate So I just read this article about rappers and music artists
+Leaf:  S span having a disagreement .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It was pretty stupid too ,
+Leaf:  S span I do n't get why adults are fighting like high school children .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate It was all over some petty comments made ,
+Leaf:  N Cause which apparently turned to racist slurs
+Leaf:  S span and got someone thrown out fo a building .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate Of course , everything is he said
+Leaf:  S span she said
+Inner:  S span None Elaborate NS
+Leaf:  N Cause so I ca n't tell who was really wrong in this situation . However , again another situation that shows the stupidity of the human race .
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('So I just read this article about rappers and music artists', None, None, None, 0), ('having a disagreement .', None, None, None, 1), ('It was pretty stupid too ,', None, None, None, 0), ("I do n't get why adults are fighting like high school children .", None, None, None, 1), ('It was all over some petty comments made ,', None, None, None, 0), ('which apparently turned to racist slurs', None, None, None, 0), ('and got someone thrown out fo a building .', None, None, None, 1), ('Of course , everything is he said', None, None, None, 0), ('she said', None, None, None, 0), ("so I ca n't tell who was really wrong in this situation . However , again another situation that shows the stupidity of the human race .", None, None, None, 1)]

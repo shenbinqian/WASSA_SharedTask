@@ -1,0 +1,29 @@
+=====================> [[('Wow . Let me get this straight :', None, None, None, 0), ('The German Consulate are " invaders "', None, None, None, 0), ('but all of the Middle East and North Africa pouring into Europe like the Camp of the Saints is " refugees "', None, None, None, 0), ('and if we complain about it ,', None, None, None, 0), ("we 're racists . Here 's an idea :", None, None, None, 0), ("All Muslims , Arabs , and whatever else we 're not supposed to notice this week can go back to the Middle East ,", None, None, None, 0), ('and then our " invading " consulates and embassies will be HAPPY to go back to where we came from .', None, None, None, 1), ('Never speak to us again .', None, None, None, 1), ('Ugh .', None, None, None, 1), ('" The Taliban ..... "', None, None, None, 0), ('Yeah , no , the word', None, None, None, 0), ("you 're looking for here", None, None, None, 0), ('is MUSLIMS .', None, None, None, 1), ('The MUSLIMS are the problem , not the Taliban .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow . Let me get this straight :
+Leaf:  N Contrast The German Consulate are " invaders "
+Leaf:  N Contrast but all of the Middle East and North Africa pouring into Europe like the Camp of the Saints is " refugees "
+Inner:  N Joint None Contrast NN
+Leaf:  S span and if we complain about it ,
+Leaf:  N Condition we 're racists . Here 's an idea :
+Inner:  N Elaborate None Condition SN
+Leaf:  N Temporal All Muslims , Arabs , and whatever else we 're not supposed to notice this week can go back to the Middle East ,
+Leaf:  N Temporal and then our " invading " consulates and embassies will be HAPPY to go back to where we came from .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span Never speak to us again .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Textual-Organization Ugh .
+Leaf:  S span " The Taliban ..... "
+Leaf:  N Elaborate Yeah , no , the word
+Leaf:  S span you 're looking for here
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is MUSLIMS .
+Inner:  N Evaluation None Same-Unit NN
+Inner:  N Elaborate None Evaluation SN
+Leaf:  S span The MUSLIMS are the problem , not the Taliban .
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  N Textual-Organization None Textual-Organization NN
+Inner:  Root None None Textual-Organization NN
+[('Wow . Let me get this straight :', None, None, None, 0), ('The German Consulate are " invaders "', None, None, None, 0), ('but all of the Middle East and North Africa pouring into Europe like the Camp of the Saints is " refugees "', None, None, None, 0), ('and if we complain about it ,', None, None, None, 0), ("we 're racists . Here 's an idea :", None, None, None, 0), ("All Muslims , Arabs , and whatever else we 're not supposed to notice this week can go back to the Middle East ,", None, None, None, 0), ('and then our " invading " consulates and embassies will be HAPPY to go back to where we came from .', None, None, None, 1), ('Never speak to us again .', None, None, None, 1), ('Ugh .', None, None, None, 1), ('" The Taliban ..... "', None, None, None, 0), ('Yeah , no , the word', None, None, None, 0), ("you 're looking for here", None, None, None, 0), ('is MUSLIMS .', None, None, None, 1), ('The MUSLIMS are the problem , not the Taliban .', None, None, None, 1)]

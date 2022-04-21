@@ -1,0 +1,17 @@
+=====================> [[('This article is very , very , eye-opening', None, None, None, 0), ('and interesting to read about the the seven biggest threats', None, None, None, 0), ('that President Trump poses to the environment .', None, None, None, 1), ('I think', None, None, None, 0), ('with President Trump', None, None, None, 0), ('backing out of the Paris Agreement', None, None, None, 0), ('and not really focusing a little bit of more efforts on global warming ,', None, None, None, 0), ('there can be a big problem in the future .', None, None, None, 1)]]
+Leaf:  N Joint This article is very , very , eye-opening
+Leaf:  N Elaborate and interesting to read about the the seven biggest threats
+Leaf:  S span that President Trump poses to the environment .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I think
+Leaf:  N Elaborate with President Trump
+Leaf:  N Joint backing out of the Paris Agreement
+Leaf:  N Joint and not really focusing a little bit of more efforts on global warming ,
+Inner:  S span None Joint NN
+Leaf:  N Condition there can be a big problem in the future .
+Inner:  S span None Condition SN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('This article is very , very , eye-opening', None, None, None, 0), ('and interesting to read about the the seven biggest threats', None, None, None, 0), ('that President Trump poses to the environment .', None, None, None, 1), ('I think', None, None, None, 0), ('with President Trump', None, None, None, 0), ('backing out of the Paris Agreement', None, None, None, 0), ('and not really focusing a little bit of more efforts on global warming ,', None, None, None, 0), ('there can be a big problem in the future .', None, None, None, 1)]

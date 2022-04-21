@@ -1,0 +1,19 @@
+=====================> [[('It is just so messed up', None, None, None, 0), ('that there are so many places in the world', None, None, None, 0), ('without easy access to clean water .', None, None, None, 1), ('The answer is never to privatize or " modernize " the water system of a place ,', None, None, None, 0), ('as that is really just an excuse', None, None, None, 0), ('to implement political policies .', None, None, None, 1), ('It is just bizarre that our modern water systems in urban areas are so woefully lacking .', None, None, None, 1), ('Even desert areas of India get enough rainfall each year', None, None, None, 0), ("that a simple catchment system would solve all of a community 's problems .", None, None, None, 1)]]
+Leaf:  N Cause It is just so messed up
+Leaf:  N Elaborate that there are so many places in the world
+Leaf:  S span without easy access to clean water .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation The answer is never to privatize or " modernize " the water system of a place ,
+Leaf:  N Elaborate as that is really just an excuse
+Leaf:  S span to implement political policies .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation It is just bizarre that our modern water systems in urban areas are so woefully lacking .
+Leaf:  S span Even desert areas of India get enough rainfall each year
+Leaf:  N Condition that a simple catchment system would solve all of a community 's problems .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It is just so messed up', None, None, None, 0), ('that there are so many places in the world', None, None, None, 0), ('without easy access to clean water .', None, None, None, 1), ('The answer is never to privatize or " modernize " the water system of a place ,', None, None, None, 0), ('as that is really just an excuse', None, None, None, 0), ('to implement political policies .', None, None, None, 1), ('It is just bizarre that our modern water systems in urban areas are so woefully lacking .', None, None, None, 1), ('Even desert areas of India get enough rainfall each year', None, None, None, 0), ("that a simple catchment system would solve all of a community 's problems .", None, None, None, 1)]

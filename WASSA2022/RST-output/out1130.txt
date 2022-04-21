@@ -1,0 +1,23 @@
+=====================> [[('If you have gone through war ,', None, None, None, 0), ('gone through hell ,', None, None, None, 0), ('you should expect that when you come home to the country', None, None, None, 0), ('that you have been fighting', None, None, None, 0), ('to protect', None, None, None, 0), ('that they will take care of you in some way', None, None, None, 0), ('instead of throwing you out into the cold', None, None, None, 0), ('and basically tell you good luck .', None, None, None, 1), ('It is heartbreaking to know people out there are in poverty ,', None, None, None, 0), ('but especially to know', None, None, None, 0), ('that our war veterans are treated this way .', None, None, None, 1)]]
+Leaf:  N Joint If you have gone through war ,
+Leaf:  N Joint gone through hell ,
+Inner:  S span None Joint NN
+Leaf:  N Elaborate you should expect that when you come home to the country
+Leaf:  N Enablement that you have been fighting
+Leaf:  S span to protect
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit that they will take care of you in some way
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Joint instead of throwing you out into the cold
+Leaf:  N Joint and basically tell you good luck .
+Inner:  S span None Joint NN
+Inner:  N Condition None Contrast NS
+Inner:  N Evaluation None Condition SN
+Leaf:  N Joint It is heartbreaking to know people out there are in poverty ,
+Leaf:  S span but especially to know
+Leaf:  N Attribution that our war veterans are treated this way .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('If you have gone through war ,', None, None, None, 0), ('gone through hell ,', None, None, None, 0), ('you should expect that when you come home to the country', None, None, None, 0), ('that you have been fighting', None, None, None, 0), ('to protect', None, None, None, 0), ('that they will take care of you in some way', None, None, None, 0), ('instead of throwing you out into the cold', None, None, None, 0), ('and basically tell you good luck .', None, None, None, 1), ('It is heartbreaking to know people out there are in poverty ,', None, None, None, 0), ('but especially to know', None, None, None, 0), ('that our war veterans are treated this way .', None, None, None, 1)]

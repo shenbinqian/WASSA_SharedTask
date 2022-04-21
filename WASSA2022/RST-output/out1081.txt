@@ -1,0 +1,13 @@
+=====================> [[('hey friend , you should read about the article i just read .', None, None, None, 1), ('The world is just full of problems.I just pity the way', None, None, None, 0), ('some animals suffer in this world especially in war zone areas like Gaza , Libya Syria.I just wish I could do something about it', None, None, None, 0), ('because serious attention is needed in those', None, None, None, 0), ('zoos.If only I had powers', None, None, None, 0), ('I could do something about the protection of this animals .', None, None, None, 1)]]
+Leaf:  N Summary hey friend , you should read about the article i just read .
+Leaf:  N Elaborate The world is just full of problems.I just pity the way
+Leaf:  S span some animals suffer in this world especially in war zone areas like Gaza , Libya Syria.I just wish I could do something about it
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Same-Unit because serious attention is needed in those
+Leaf:  N Elaborate zoos.If only I had powers
+Leaf:  S span I could do something about the protection of this animals .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('hey friend , you should read about the article i just read .', None, None, None, 1), ('The world is just full of problems.I just pity the way', None, None, None, 0), ('some animals suffer in this world especially in war zone areas like Gaza , Libya Syria.I just wish I could do something about it', None, None, None, 0), ('because serious attention is needed in those', None, None, None, 0), ('zoos.If only I had powers', None, None, None, 0), ('I could do something about the protection of this animals .', None, None, None, 1)]

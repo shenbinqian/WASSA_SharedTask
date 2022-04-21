@@ -1,0 +1,23 @@
+=====================> [[('Hey i just saw this post', None, None, None, 0), ('and this is so sad that the kids in venezuela do not have neough', None, None, None, 0), ('to eat can you beleive', None, None, None, 0), ('that some kids only eat a smll meal for one whole day instead of three full course meals', None, None, None, 0), ('i can not even belueve', None, None, None, 0), ('that what is happening o the world', None, None, None, 0), ('where we arw more concered about putting money inot guns and creating ar', None, None, None, 0), ('when we have bigger issue son our hnads such as te hunger', None, None, None, 0), ('that these people are suffering', None, None, None, 0), ('and there kids so many kids are sudfering', None, None, None, 0), ('and even fainting', None, None, None, 0)]]
+Leaf:  N Attribution Hey i just saw this post
+Leaf:  N Elaborate and this is so sad that the kids in venezuela do not have neough
+Leaf:  S span to eat can you beleive
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution that some kids only eat a smll meal for one whole day instead of three full course meals
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Attribution NS
+Leaf:  S span i can not even belueve
+Leaf:  N Attribution that what is happening o the world
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Background where we arw more concered about putting money inot guns and creating ar
+Leaf:  N Elaborate when we have bigger issue son our hnads such as te hunger
+Leaf:  N Joint that these people are suffering
+Leaf:  N Joint and there kids so many kids are sudfering
+Leaf:  N Joint and even fainting
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hey i just saw this post', None, None, None, 0), ('and this is so sad that the kids in venezuela do not have neough', None, None, None, 0), ('to eat can you beleive', None, None, None, 0), ('that some kids only eat a smll meal for one whole day instead of three full course meals', None, None, None, 0), ('i can not even belueve', None, None, None, 0), ('that what is happening o the world', None, None, None, 0), ('where we arw more concered about putting money inot guns and creating ar', None, None, None, 0), ('when we have bigger issue son our hnads such as te hunger', None, None, None, 0), ('that these people are suffering', None, None, None, 0), ('and there kids so many kids are sudfering', None, None, None, 0), ('and even fainting', None, None, None, 0)]

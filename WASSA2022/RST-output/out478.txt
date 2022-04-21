@@ -1,0 +1,13 @@
+=====================> [[('A two year old in Willoughby Hills East of the Cleveland area fell from his eleven story apartment building .', None, None, None, 1), ('His parents were in the living room', None, None, None, 0), ('and had no idea', None, None, None, 0), ('that this had taken place .', None, None, None, 1), ('There neighbors had found the child motionless on the ground and presumably dead . The police are treating this as a pure accident', None, None, None, 0), ("and do n't anticipate any further charges .", None, None, None, 1)]]
+Leaf:  N Elaborate A two year old in Willoughby Hills East of the Cleveland area fell from his eleven story apartment building .
+Leaf:  N Joint His parents were in the living room
+Leaf:  S span and had no idea
+Leaf:  N Attribution that this had taken place .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint There neighbors had found the child motionless on the ground and presumably dead . The police are treating this as a pure accident
+Leaf:  N Joint and do n't anticipate any further charges .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('A two year old in Willoughby Hills East of the Cleveland area fell from his eleven story apartment building .', None, None, None, 1), ('His parents were in the living room', None, None, None, 0), ('and had no idea', None, None, None, 0), ('that this had taken place .', None, None, None, 1), ('There neighbors had found the child motionless on the ground and presumably dead . The police are treating this as a pure accident', None, None, None, 0), ("and do n't anticipate any further charges .", None, None, None, 1)]

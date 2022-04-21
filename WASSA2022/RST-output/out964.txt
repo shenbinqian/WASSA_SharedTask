@@ -1,0 +1,17 @@
+=====================> [[('Hey , This is some sad news .', None, None, None, 1), ("The rhino could n't be saved from his infectious diseases ,", None, None, None, 0), ('so he had to be put down .', None, None, None, 1), ('I feel bad for the animal', None, None, None, 0), ("as he or she did n't have to live this way .", None, None, None, 1), ('In addition , it was difficult to find treatment for the rhino ,', None, None, None, 0), ('so I feel bad for the veterinarians', None, None, None, 0), ('that had to take care of the rhino .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , This is some sad news .
+Leaf:  N Cause The rhino could n't be saved from his infectious diseases ,
+Leaf:  S span so he had to be put down .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation I feel bad for the animal
+Leaf:  S span as he or she did n't have to live this way .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause In addition , it was difficult to find treatment for the rhino ,
+Leaf:  N Elaborate so I feel bad for the veterinarians
+Leaf:  S span that had to take care of the rhino .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Hey , This is some sad news .', None, None, None, 1), ("The rhino could n't be saved from his infectious diseases ,", None, None, None, 0), ('so he had to be put down .', None, None, None, 1), ('I feel bad for the animal', None, None, None, 0), ("as he or she did n't have to live this way .", None, None, None, 1), ('In addition , it was difficult to find treatment for the rhino ,', None, None, None, 0), ('so I feel bad for the veterinarians', None, None, None, 0), ('that had to take care of the rhino .', None, None, None, 1)]

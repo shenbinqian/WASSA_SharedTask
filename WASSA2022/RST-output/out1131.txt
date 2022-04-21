@@ -1,0 +1,31 @@
+=====================> [[('it was a very gruesome moment', None, None, None, 0), ("it does n't help the fact", None, None, None, 0), ('that refugees face an exhaustive screening process by the United Nations High Commissioner for Refugees', None, None, None, 0), ('that can take years .', None, None, None, 1), ('it is good that when The federal government and its nonprofit partners provide job-search help and cash assistance for refugees during their first months in the United States .', None, None, None, 1), ('After that , they are largely on their own .', None, None, None, 1), ('This strategy has made it hard for refugee families — who often come to America with few assets or material possessions', None, None, None, 0), ('—', None, None, None, 0), ('to move up and out of poverty ,', None, None, None, 0), ('and may be contribute to younger generations ’ sense of isolation , the result', None, None, None, 0), ('of struggling to find their place in this country .', None, None, None, 1), ('Now ,', None, None, None, 0), ('earning a living in the U.S.', None, None, None, 1), ('is proving difficult for younger generations .', None, None, None, 1), ('Donald Trump ’s crusade against immigrants', None, None, None, 0)]]
+Leaf:  N Evaluation it was a very gruesome moment
+Leaf:  N Elaborate it does n't help the fact
+Leaf:  N Elaborate that refugees face an exhaustive screening process by the United Nations High Commissioner for Refugees
+Leaf:  S span that can take years .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal it is good that when The federal government and its nonprofit partners provide job-search help and cash assistance for refugees during their first months in the United States .
+Leaf:  N Temporal After that , they are largely on their own .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Joint This strategy has made it hard for refugee families — who often come to America with few assets or material possessions
+Leaf:  N Joint —
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit to move up and out of poverty ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and may be contribute to younger generations ’ sense of isolation , the result
+Leaf:  S span of struggling to find their place in this country .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Leaf:  N Same-Unit Now ,
+Leaf:  N Same-Unit earning a living in the U.S.
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit is proving difficult for younger generations .
+Inner:  N Background None Same-Unit NN
+Inner:  N Explanation None Background SN
+Leaf:  S span Donald Trump ’s crusade against immigrants
+Inner:  Root None None Explanation NS
+[('it was a very gruesome moment', None, None, None, 0), ("it does n't help the fact", None, None, None, 0), ('that refugees face an exhaustive screening process by the United Nations High Commissioner for Refugees', None, None, None, 0), ('that can take years .', None, None, None, 1), ('it is good that when The federal government and its nonprofit partners provide job-search help and cash assistance for refugees during their first months in the United States .', None, None, None, 1), ('After that , they are largely on their own .', None, None, None, 1), ('This strategy has made it hard for refugee families — who often come to America with few assets or material possessions', None, None, None, 0), ('—', None, None, None, 0), ('to move up and out of poverty ,', None, None, None, 0), ('and may be contribute to younger generations ’ sense of isolation , the result', None, None, None, 0), ('of struggling to find their place in this country .', None, None, None, 1), ('Now ,', None, None, None, 0), ('earning a living in the U.S.', None, None, None, 1), ('is proving difficult for younger generations .', None, None, None, 1), ('Donald Trump ’s crusade against immigrants', None, None, None, 0)]

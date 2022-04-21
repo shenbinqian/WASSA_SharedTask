@@ -1,0 +1,31 @@
+=====================> [[('I just read an article', None, None, None, 0), ('where there was a horrible natural disaster .', None, None, None, 1), ('They were saying', None, None, None, 0), ('how the town is a virtual ghost town', None, None, None, 0), ("and workers were n't allowed to go back", None, None, None, 0), ('until they check the building further .', None, None, None, 1), ('Could you imagine what it would be like to be one of those people , I mean to lose everything', None, None, None, 0), ('you have ?', None, None, None, 1), ('Things', None, None, None, 0), ("you 've worked so hard", None, None, None, 0), ('to aquire', None, None, None, 0), ('just gone ?', None, None, None, 1), ('And God forbid a loved one ?', None, None, None, 1), ("I do n't even know", None, None, None, 0), ('how you would begin to process all of this .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span where there was a horrible natural disaster .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They were saying
+Leaf:  N Joint how the town is a virtual ghost town
+Leaf:  N Condition and workers were n't allowed to go back
+Leaf:  S span until they check the building further .
+Inner:  N Joint None Condition NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Could you imagine what it would be like to be one of those people , I mean to lose everything
+Leaf:  S span you have ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate Things
+Leaf:  N Enablement you 've worked so hard
+Leaf:  S span to aquire
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit just gone ?
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint And God forbid a loved one ?
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I do n't even know
+Leaf:  N Attribution how you would begin to process all of this .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I just read an article', None, None, None, 0), ('where there was a horrible natural disaster .', None, None, None, 1), ('They were saying', None, None, None, 0), ('how the town is a virtual ghost town', None, None, None, 0), ("and workers were n't allowed to go back", None, None, None, 0), ('until they check the building further .', None, None, None, 1), ('Could you imagine what it would be like to be one of those people , I mean to lose everything', None, None, None, 0), ('you have ?', None, None, None, 1), ('Things', None, None, None, 0), ("you 've worked so hard", None, None, None, 0), ('to aquire', None, None, None, 0), ('just gone ?', None, None, None, 1), ('And God forbid a loved one ?', None, None, None, 1), ("I do n't even know", None, None, None, 0), ('how you would begin to process all of this .', None, None, None, 1)]

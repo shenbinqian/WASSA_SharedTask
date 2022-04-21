@@ -1,0 +1,21 @@
+=====================> [[('Poor people , I feel bad for the family', None, None, None, 0), ('they left behind', None, None, None, 0), ('and for their friends and family , my deepest condolences to their relatives .', None, None, None, 1), ('It was an accident', None, None, None, 0), ('and there was nothing', None, None, None, 0), ('that could be done', None, None, None, 0), ('to preven it ,', None, None, None, 0), ('but I hope', None, None, None, 0), ('this serves as lesson to other to be more careful', None, None, None, 0), ('while engaging in that kind of activities .', None, None, None, 1)]]
+Leaf:  N Elaborate Poor people , I feel bad for the family
+Leaf:  S span they left behind
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and for their friends and family , my deepest condolences to their relatives .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint It was an accident
+Leaf:  N Elaborate and there was nothing
+Leaf:  N Enablement that could be done
+Leaf:  S span to preven it ,
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  S span but I hope
+Leaf:  N Temporal this serves as lesson to other to be more careful
+Leaf:  S span while engaging in that kind of activities .
+Inner:  N Attribution None Temporal NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Poor people , I feel bad for the family', None, None, None, 0), ('they left behind', None, None, None, 0), ('and for their friends and family , my deepest condolences to their relatives .', None, None, None, 1), ('It was an accident', None, None, None, 0), ('and there was nothing', None, None, None, 0), ('that could be done', None, None, None, 0), ('to preven it ,', None, None, None, 0), ('but I hope', None, None, None, 0), ('this serves as lesson to other to be more careful', None, None, None, 0), ('while engaging in that kind of activities .', None, None, None, 1)]

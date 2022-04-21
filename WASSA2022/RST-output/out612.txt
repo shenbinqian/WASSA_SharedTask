@@ -1,0 +1,31 @@
+=====================> [[('People often think', None, None, None, 0), ('of what it must be like to be in the 1 %', None, None, None, 0), ('and be ultra successful .', None, None, None, 1), ('But often times we forget about the many pressures and responsibilities', None, None, None, 0), ('that come a long with that .', None, None, None, 1), ('Take Mikhail Lesin for example .', None, None, None, 1), ('The man was very well know and successful', None, None, None, 0), ('and look what happened to him', None, None, None, 0), ('he wound up dead just like everyone else . Now , the conclusion is that it was an accident , but the type of people and industries and location of the world leaves a lot of speculation .', None, None, None, 1), ('I guess thats a price', None, None, None, 0), ('you have', None, None, None, 0), ('to pay', None, None, None, 0), ('if you make enemies in the world .', None, None, None, 1), ('You are either looking over your shoulder all the time', None, None, None, 0), ('or completely stressed to death . What a world .', None, None, None, 1)]]
+Leaf:  S span People often think
+Leaf:  N Joint of what it must be like to be in the 1 %
+Leaf:  N Joint and be ultra successful .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate But often times we forget about the many pressures and responsibilities
+Leaf:  S span that come a long with that .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Take Mikhail Lesin for example .
+Leaf:  S span The man was very well know and successful
+Leaf:  S span and look what happened to him
+Leaf:  N Background he wound up dead just like everyone else . Now , the conclusion is that it was an accident , but the type of people and industries and location of the world leaves a lot of speculation .
+Inner:  N Background None Background SN
+Inner:  S span None Background SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I guess thats a price
+Leaf:  N Elaborate you have
+Leaf:  S span to pay
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if you make enemies in the world .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint You are either looking over your shoulder all the time
+Leaf:  N Joint or completely stressed to death . What a world .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Elaborate NS
+Inner:  Root None None Contrast NN
+[('People often think', None, None, None, 0), ('of what it must be like to be in the 1 %', None, None, None, 0), ('and be ultra successful .', None, None, None, 1), ('But often times we forget about the many pressures and responsibilities', None, None, None, 0), ('that come a long with that .', None, None, None, 1), ('Take Mikhail Lesin for example .', None, None, None, 1), ('The man was very well know and successful', None, None, None, 0), ('and look what happened to him', None, None, None, 0), ('he wound up dead just like everyone else . Now , the conclusion is that it was an accident , but the type of people and industries and location of the world leaves a lot of speculation .', None, None, None, 1), ('I guess thats a price', None, None, None, 0), ('you have', None, None, None, 0), ('to pay', None, None, None, 0), ('if you make enemies in the world .', None, None, None, 1), ('You are either looking over your shoulder all the time', None, None, None, 0), ('or completely stressed to death . What a world .', None, None, None, 1)]

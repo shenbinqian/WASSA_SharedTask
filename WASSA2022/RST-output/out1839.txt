@@ -1,0 +1,21 @@
+=====================> [[('Man how sad ,', None, None, None, 0), ('that is terrible to imagine', None, None, None, 0), ('what the poor dog went through .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('we should hate the guy too much ,', None, None, None, 0), ('even though he should definitely face consequenes .', None, None, None, 1), ('Ultimately I am sure', None, None, None, 0), ("he 's really heart broken", None, None, None, 0), ('about what happened to the dog ,', None, None, None, 0), ('and it was just a mistake not like some negelectful , hateful act .', None, None, None, 1)]]
+Leaf:  N Summary Man how sad ,
+Leaf:  N Elaborate that is terrible to imagine
+Leaf:  S span what the poor dog went through .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution we should hate the guy too much ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span even though he should definitely face consequenes .
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span Ultimately I am sure
+Leaf:  N Explanation he 's really heart broken
+Leaf:  N Joint about what happened to the dog ,
+Leaf:  N Joint and it was just a mistake not like some negelectful , hateful act .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Man how sad ,', None, None, None, 0), ('that is terrible to imagine', None, None, None, 0), ('what the poor dog went through .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('we should hate the guy too much ,', None, None, None, 0), ('even though he should definitely face consequenes .', None, None, None, 1), ('Ultimately I am sure', None, None, None, 0), ("he 's really heart broken", None, None, None, 0), ('about what happened to the dog ,', None, None, None, 0), ('and it was just a mistake not like some negelectful , hateful act .', None, None, None, 1)]

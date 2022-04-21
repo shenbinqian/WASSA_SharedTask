@@ -1,0 +1,31 @@
+=====================> [[('You know', None, None, None, 0), ("I do n't do politics", None, None, None, 0), ('and here is the reason .....', None, None, None, 1), ('" Moldovan Presidential Candidate Criticized For Being A Single Woman —', None, None, None, 0), ('And we thought', None, None, None, 0), ('U.S. politics was strange at the moment .', None, None, None, 1), ('Moldovan presidential candidate Maia Sandu is n’t married .', None, None, None, 1), ('And apparently that ’s a huge problem for a lot of people ,', None, None, None, 0), ('including her country ’s leading religious and political figures .', None, None, None, 1), ('" The press and political zealots have nothing better to talk about', None, None, None, 0), ('than if a presidential candidate is married . Seriously ...', None, None, None, 1), ('if she were a he we would hardly be having the conversation .', None, None, None, 1), ('I would hazard a guess', None, None, None, 0), ('there are much more pressing issues', None, None, None, 0), ('to be debated .', None, None, None, 1)]]
+Leaf:  S span You know
+Leaf:  N Attribution I do n't do politics
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and here is the reason .....
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Textual-Organization " Moldovan Presidential Candidate Criticized For Being A Single Woman —
+Leaf:  S span And we thought
+Leaf:  N Attribution U.S. politics was strange at the moment .
+Inner:  N Textual-Organization None Attribution SN
+Inner:  S span None Textual-Organization NN
+Leaf:  N Evaluation Moldovan presidential candidate Maia Sandu is n’t married .
+Leaf:  N Elaborate And apparently that ’s a huge problem for a lot of people ,
+Leaf:  S span including her country ’s leading religious and political figures .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Comparison " The press and political zealots have nothing better to talk about
+Leaf:  S span than if a presidential candidate is married . Seriously ...
+Inner:  N Evaluation None Comparison NS
+Leaf:  S span if she were a he we would hardly be having the conversation .
+Inner:  N Joint None Evaluation NS
+Leaf:  S span I would hazard a guess
+Leaf:  N Elaborate there are much more pressing issues
+Leaf:  S span to be debated .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Summary None Evaluation NS
+Inner:  S span None Summary SN
+Inner:  Root None None Elaborate NS
+[('You know', None, None, None, 0), ("I do n't do politics", None, None, None, 0), ('and here is the reason .....', None, None, None, 1), ('" Moldovan Presidential Candidate Criticized For Being A Single Woman —', None, None, None, 0), ('And we thought', None, None, None, 0), ('U.S. politics was strange at the moment .', None, None, None, 1), ('Moldovan presidential candidate Maia Sandu is n’t married .', None, None, None, 1), ('And apparently that ’s a huge problem for a lot of people ,', None, None, None, 0), ('including her country ’s leading religious and political figures .', None, None, None, 1), ('" The press and political zealots have nothing better to talk about', None, None, None, 0), ('than if a presidential candidate is married . Seriously ...', None, None, None, 1), ('if she were a he we would hardly be having the conversation .', None, None, None, 1), ('I would hazard a guess', None, None, None, 0), ('there are much more pressing issues', None, None, None, 0), ('to be debated .', None, None, None, 1)]

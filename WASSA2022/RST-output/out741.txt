@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('we should just leave them', None, None, None, 0), ('where they are .', None, None, None, 1), ("They 're not causing any problems .", None, None, None, 1), ("They 're too dangerous and too costly", None, None, None, 0), ('to try to move .', None, None, None, 1), ("There has n't been great reports of them starving .", None, None, None, 1), ('They should be fine to roam around there for now .', None, None, None, 1), ("We do n't want to waste tax dollars", None, None, None, 0), ('to try to deal with a dangerous situation .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate we should just leave them
+Leaf:  S span where they are .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint They 're not causing any problems .
+Leaf:  N Elaborate They 're too dangerous and too costly
+Leaf:  S span to try to move .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There has n't been great reports of them starving .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They should be fine to roam around there for now .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement We do n't want to waste tax dollars
+Leaf:  S span to try to deal with a dangerous situation .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('we should just leave them', None, None, None, 0), ('where they are .', None, None, None, 1), ("They 're not causing any problems .", None, None, None, 1), ("They 're too dangerous and too costly", None, None, None, 0), ('to try to move .', None, None, None, 1), ("There has n't been great reports of them starving .", None, None, None, 1), ('They should be fine to roam around there for now .', None, None, None, 1), ("We do n't want to waste tax dollars", None, None, None, 0), ('to try to deal with a dangerous situation .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Did you hear about that bus crash', None, None, None, 0), ('that happened in Delaware .', None, None, None, 1), ('It was very sad , also I read', None, None, None, 0), ('that 2 people were injured .', None, None, None, 1), ('I hope', None, None, None, 0), ('these people can recover fully from their injuries', None, None, None, 0), ('and go on to lead fulfilling lives . Hopefully something like this will never ever happen again', None, None, None, 0), ('and measures are taken', None, None, None, 0), ('to prevent it .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about that bus crash
+Leaf:  S span that happened in Delaware .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It was very sad , also I read
+Leaf:  N Attribution that 2 people were injured .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Joint these people can recover fully from their injuries
+Leaf:  N Joint and go on to lead fulfilling lives . Hopefully something like this will never ever happen again
+Leaf:  N Enablement and measures are taken
+Leaf:  S span to prevent it .
+Inner:  N Joint None Enablement NS
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Did you hear about that bus crash', None, None, None, 0), ('that happened in Delaware .', None, None, None, 1), ('It was very sad , also I read', None, None, None, 0), ('that 2 people were injured .', None, None, None, 1), ('I hope', None, None, None, 0), ('these people can recover fully from their injuries', None, None, None, 0), ('and go on to lead fulfilling lives . Hopefully something like this will never ever happen again', None, None, None, 0), ('and measures are taken', None, None, None, 0), ('to prevent it .', None, None, None, 1)]

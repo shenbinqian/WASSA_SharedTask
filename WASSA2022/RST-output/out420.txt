@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('it is exciting to learn about new ways', None, None, None, 0), ('to save money in my day to day life .', None, None, None, 1), ('I am thrilled to learn', None, None, None, 0), ('that there is a potentially far more cost effective way for me to live each day ,', None, None, None, 0), ('which will put me on my way towards making my dreams come true .', None, None, None, 1), ('I am intrigued by the service', None, None, None, 0), ('and I ca n’t', None, None, None, 0), ('wait', None, None, None, 0), ('to sink my teeth into something', None, None, None, 0), ('that could be of great service down the road .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate it is exciting to learn about new ways
+Leaf:  S span to save money in my day to day life .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I am thrilled to learn
+Leaf:  N Attribution that there is a potentially far more cost effective way for me to live each day ,
+Inner:  N Cause None Attribution SN
+Leaf:  S span which will put me on my way towards making my dreams come true .
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint I am intrigued by the service
+Leaf:  N Elaborate and I ca n’t
+Leaf:  N Enablement wait
+Leaf:  N Elaborate to sink my teeth into something
+Leaf:  S span that could be of great service down the road .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('it is exciting to learn about new ways', None, None, None, 0), ('to save money in my day to day life .', None, None, None, 1), ('I am thrilled to learn', None, None, None, 0), ('that there is a potentially far more cost effective way for me to live each day ,', None, None, None, 0), ('which will put me on my way towards making my dreams come true .', None, None, None, 1), ('I am intrigued by the service', None, None, None, 0), ('and I ca n’t', None, None, None, 0), ('wait', None, None, None, 0), ('to sink my teeth into something', None, None, None, 0), ('that could be of great service down the road .', None, None, None, 1)]

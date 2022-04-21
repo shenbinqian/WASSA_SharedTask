@@ -1,0 +1,17 @@
+=====================> [[('A Russian twelve year old left for school one morning .', None, None, None, 1), ('Her mother went looking for her', None, None, None, 0), ("when she did n't return home .", None, None, None, 1), ('When she called her cell phone', None, None, None, 0), ('she was told that her daughter had committed suicide as a part of some social group', None, None, None, 0), ('that takes their own lives .', None, None, None, 1), ("It 's sad to see kids", None, None, None, 0), ('seeking attention in this light .', None, None, None, 1)]]
+Leaf:  S span A Russian twelve year old left for school one morning .
+Leaf:  N Temporal Her mother went looking for her
+Leaf:  S span when she did n't return home .
+Inner:  N Background None Temporal NS
+Inner:  N Cause None Background SN
+Leaf:  S span When she called her cell phone
+Leaf:  N Elaborate she was told that her daughter had committed suicide as a part of some social group
+Leaf:  S span that takes their own lives .
+Inner:  N Background None Elaborate NS
+Inner:  N Evaluation None Background SN
+Leaf:  N Elaborate It 's sad to see kids
+Leaf:  S span seeking attention in this light .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('A Russian twelve year old left for school one morning .', None, None, None, 1), ('Her mother went looking for her', None, None, None, 0), ("when she did n't return home .", None, None, None, 1), ('When she called her cell phone', None, None, None, 0), ('she was told that her daughter had committed suicide as a part of some social group', None, None, None, 0), ('that takes their own lives .', None, None, None, 1), ("It 's sad to see kids", None, None, None, 0), ('seeking attention in this light .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I saw a story about Yemen today .', None, None, None, 1), ('Have you read about it .', None, None, None, 1), ('It looks like ethnic cleansing over there .', None, None, None, 1), ('It is so awful hearing about innocent people', None, None, None, 0), ('being killed', None, None, None, 0), ('just because of where they are from .', None, None, None, 1), ("It 's like Nazi Germany in some parts of the world .", None, None, None, 1), ('It is very scary to me .', None, None, None, 1), ('Nobody is really doing anything', None, None, None, 0), ('but making proclamations .', None, None, None, 1), ("Rights groups ca n't seem to do anything either .", None, None, None, 1), ('I wish', None, None, None, 0), ('these evil people would stop doing this .', None, None, None, 1)]]
+Leaf:  N Elaborate I saw a story about Yemen today .
+Leaf:  S span Have you read about it .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It looks like ethnic cleansing over there .
+Leaf:  N Elaborate It is so awful hearing about innocent people
+Leaf:  N Cause being killed
+Leaf:  S span just because of where they are from .
+Inner:  S span None Cause NS
+Inner:  N Summary None Elaborate NS
+Leaf:  S span It 's like Nazi Germany in some parts of the world .
+Inner:  N Evaluation None Summary NS
+Leaf:  S span It is very scary to me .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Nobody is really doing anything
+Leaf:  N Attribution but making proclamations .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Rights groups ca n't seem to do anything either .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Attribution these evil people would stop doing this .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I saw a story about Yemen today .', None, None, None, 1), ('Have you read about it .', None, None, None, 1), ('It looks like ethnic cleansing over there .', None, None, None, 1), ('It is so awful hearing about innocent people', None, None, None, 0), ('being killed', None, None, None, 0), ('just because of where they are from .', None, None, None, 1), ("It 's like Nazi Germany in some parts of the world .", None, None, None, 1), ('It is very scary to me .', None, None, None, 1), ('Nobody is really doing anything', None, None, None, 0), ('but making proclamations .', None, None, None, 1), ("Rights groups ca n't seem to do anything either .", None, None, None, 1), ('I wish', None, None, None, 0), ('these evil people would stop doing this .', None, None, None, 1)]

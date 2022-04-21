@@ -1,0 +1,27 @@
+=====================> [[('Oh ,', None, None, None, 0), ("but global warming is n't real , right ?", None, None, None, 1), ('We have all kinds of time', None, None, None, 0), ('to fix the problem , right ?', None, None, None, 1), ("It 's not humans ,", None, None, None, 0), ("it 's natural variation , right ?", None, None, None, 1), ('Holy crap are we ever ostriches as a species', None, None, None, 0), ('- are we going to dig our heads out of the sand in time', None, None, None, 0), ('? Change has to happen ,', None, None, None, 0), ('and it has to happen now ,', None, None, None, 0), ("we ca n't wait for all the old white men", None, None, None, 0), ('who run things', None, None, None, 0), ('to die', None, None, None, 0)]]
+Leaf:  S span Oh ,
+Leaf:  N Evaluation but global warming is n't real , right ?
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Elaborate We have all kinds of time
+Leaf:  S span to fix the problem , right ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's not humans ,
+Leaf:  N Comparison it 's natural variation , right ?
+Inner:  S span None Comparison SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Condition Holy crap are we ever ostriches as a species
+Leaf:  N Condition - are we going to dig our heads out of the sand in time
+Inner:  N Temporal None Condition NN
+Leaf:  N Joint ? Change has to happen ,
+Leaf:  N Joint and it has to happen now ,
+Inner:  N Temporal None Joint NN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Elaborate we ca n't wait for all the old white men
+Leaf:  S span who run things
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit to die
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Oh ,', None, None, None, 0), ("but global warming is n't real , right ?", None, None, None, 1), ('We have all kinds of time', None, None, None, 0), ('to fix the problem , right ?', None, None, None, 1), ("It 's not humans ,", None, None, None, 0), ("it 's natural variation , right ?", None, None, None, 1), ('Holy crap are we ever ostriches as a species', None, None, None, 0), ('- are we going to dig our heads out of the sand in time', None, None, None, 0), ('? Change has to happen ,', None, None, None, 0), ('and it has to happen now ,', None, None, None, 0), ("we ca n't wait for all the old white men", None, None, None, 0), ('who run things', None, None, None, 0), ('to die', None, None, None, 0)]

@@ -1,0 +1,35 @@
+=====================> [[("I do n't understand", None, None, None, 0), ('why there is so much hate .', None, None, None, 1), ("It 's like every one lives in their own little bubble", None, None, None, 0), ('seeing everything foreign to them as a threat .', None, None, None, 1), ('They take up selfish ideology', None, None, None, 0), ("because they do n't like something ,", None, None, None, 0), ('instead of just disassociating with it .', None, None, None, 1), ('This greatly saddens me ,', None, None, None, 0), ("for I have seen the world in all it 's wonder . Where the majority of people just want to live in peace ,", None, None, None, 0), ('without boundaries .', None, None, None, 1), ('Yet this idea of cultural heritage has become disastrous further dividing people .', None, None, None, 1), ('If only more people could set aside their petty ideals ,', None, None, None, 0), ('and just accept each other as other humans .', None, None, None, 1), ('Instead we classify and further separate ourselves due to every difference .', None, None, None, 1), ('I would prefer to just die , than put up with such cruel disgusting people .', None, None, None, 1), ('I am disgusted with my country of Americans .', None, None, None, 1), ('We deserve to burn ....', None, None, None, 1)]]
+Leaf:  S span I do n't understand
+Leaf:  N Attribution why there is so much hate .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Cause It 's like every one lives in their own little bubble
+Leaf:  S span seeing everything foreign to them as a threat .
+Inner:  N Joint None Cause NS
+Leaf:  N Explanation They take up selfish ideology
+Leaf:  S span because they do n't like something ,
+Inner:  N Contrast None Explanation NS
+Leaf:  S span instead of just disassociating with it .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation This greatly saddens me ,
+Leaf:  N Background for I have seen the world in all it 's wonder . Where the majority of people just want to live in peace ,
+Leaf:  S span without boundaries .
+Inner:  S span None Background NS
+Inner:  S span None Explanation NS
+Leaf:  N Evaluation Yet this idea of cultural heritage has become disastrous further dividing people .
+Leaf:  N Joint If only more people could set aside their petty ideals ,
+Leaf:  N Joint and just accept each other as other humans .
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast Instead we classify and further separate ourselves due to every difference .
+Inner:  S span None Contrast NN
+Inner:  N Contrast None Evaluation NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation I would prefer to just die , than put up with such cruel disgusting people .
+Leaf:  N Evaluation I am disgusted with my country of Americans .
+Leaf:  S span We deserve to burn ....
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't understand", None, None, None, 0), ('why there is so much hate .', None, None, None, 1), ("It 's like every one lives in their own little bubble", None, None, None, 0), ('seeing everything foreign to them as a threat .', None, None, None, 1), ('They take up selfish ideology', None, None, None, 0), ("because they do n't like something ,", None, None, None, 0), ('instead of just disassociating with it .', None, None, None, 1), ('This greatly saddens me ,', None, None, None, 0), ("for I have seen the world in all it 's wonder . Where the majority of people just want to live in peace ,", None, None, None, 0), ('without boundaries .', None, None, None, 1), ('Yet this idea of cultural heritage has become disastrous further dividing people .', None, None, None, 1), ('If only more people could set aside their petty ideals ,', None, None, None, 0), ('and just accept each other as other humans .', None, None, None, 1), ('Instead we classify and further separate ourselves due to every difference .', None, None, None, 1), ('I would prefer to just die , than put up with such cruel disgusting people .', None, None, None, 1), ('I am disgusted with my country of Americans .', None, None, None, 1), ('We deserve to burn ....', None, None, None, 1)]

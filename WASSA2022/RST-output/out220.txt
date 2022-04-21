@@ -1,0 +1,23 @@
+=====================> [[('Oh , please .', None, None, None, 1), ('It is getting hot', None, None, None, 0), ('- climate change .', None, None, None, 1), ('It is getting cold', None, None, None, 0), ('- climate change .', None, None, None, 1), ('There is a fire', None, None, None, 0), ('- climate change .', None, None, None, 1), ('Forget that fact', None, None, None, 0), ('that the climate has changed since the begging of time ,', None, None, None, 0), ('and that people throw cigarettes out the window all the time too .', None, None, None, 1), ('These chicken little articles are also amusing and upsetting at the same time .', None, None, None, 1)]]
+Leaf:  N Elaborate Oh , please .
+Leaf:  S span It is getting hot
+Leaf:  N Background - climate change .
+Inner:  N Summary None Background SN
+Leaf:  S span It is getting cold
+Leaf:  N Temporal - climate change .
+Inner:  S span None Temporal SN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Same-Unit There is a fire
+Leaf:  N Same-Unit - climate change .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Elaborate Forget that fact
+Leaf:  S span that the climate has changed since the begging of time ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and that people throw cigarettes out the window all the time too .
+Inner:  N Textual-Organization None Joint NN
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  S span These chicken little articles are also amusing and upsetting at the same time .
+Inner:  Root None None Evaluation NS
+[('Oh , please .', None, None, None, 1), ('It is getting hot', None, None, None, 0), ('- climate change .', None, None, None, 1), ('It is getting cold', None, None, None, 0), ('- climate change .', None, None, None, 1), ('There is a fire', None, None, None, 0), ('- climate change .', None, None, None, 1), ('Forget that fact', None, None, None, 0), ('that the climate has changed since the begging of time ,', None, None, None, 0), ('and that people throw cigarettes out the window all the time too .', None, None, None, 1), ('These chicken little articles are also amusing and upsetting at the same time .', None, None, None, 1)]

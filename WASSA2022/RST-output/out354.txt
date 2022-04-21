@@ -1,0 +1,17 @@
+=====================> [[('Really ? How are these people allowed to have children ?', None, None, None, 1), ('Its really not that hard to not poison your child is it ?', None, None, None, 1), ("I mean it should n't be ,", None, None, None, 0), ('but maybe these people are high on their own drugs', None, None, None, 0), ("so they do n't notice", None, None, None, 0), ('their kids are getting into them .', None, None, None, 1), ('Its really sad', None, None, None, 0), ('and something should certainly be done .', None, None, None, 1)]]
+Leaf:  N Joint Really ? How are these people allowed to have children ?
+Leaf:  N Evaluation Its really not that hard to not poison your child is it ?
+Leaf:  S span I mean it should n't be ,
+Leaf:  S span but maybe these people are high on their own drugs
+Leaf:  S span so they do n't notice
+Leaf:  N Attribution their kids are getting into them .
+Inner:  N Cause None Attribution SN
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast SN
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation Its really sad
+Leaf:  S span and something should certainly be done .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Really ? How are these people allowed to have children ?', None, None, None, 1), ('Its really not that hard to not poison your child is it ?', None, None, None, 1), ("I mean it should n't be ,", None, None, None, 0), ('but maybe these people are high on their own drugs', None, None, None, 0), ("so they do n't notice", None, None, None, 0), ('their kids are getting into them .', None, None, None, 1), ('Its really sad', None, None, None, 0), ('and something should certainly be done .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('I have a real hard time with this article .', None, None, None, 1), ('My husband is a US Army soldier', None, None, None, 0), ('that fought to take over Mosul the first time at the cost of many lives .', None, None, None, 1), ('And through incompetent measures in our government and military , we let go of Mosul', None, None, None, 0), ('and are again trying to figure out a way', None, None, None, 0), ('to take it back .', None, None, None, 1), ('It makes me sad that there are people being oppressed in the world', None, None, None, 0), ('but it is also clear to me that at what cost do we fight the oppressors', None, None, None, 0), ('and pick a whose side', None, None, None, 0), ('to be on .', None, None, None, 1), ('Maybe we should worry about ourselves stateside', None, None, None, 0), ('and stay out of the mess in the middle east .', None, None, None, 1)]]
+Leaf:  N Explanation I have a real hard time with this article .
+Leaf:  N Elaborate My husband is a US Army soldier
+Leaf:  S span that fought to take over Mosul the first time at the cost of many lives .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal And through incompetent measures in our government and military , we let go of Mosul
+Leaf:  N Elaborate and are again trying to figure out a way
+Leaf:  S span to take it back .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast It makes me sad that there are people being oppressed in the world
+Leaf:  N Joint but it is also clear to me that at what cost do we fight the oppressors
+Leaf:  N Elaborate and pick a whose side
+Leaf:  S span to be on .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Joint Maybe we should worry about ourselves stateside
+Leaf:  N Joint and stay out of the mess in the middle east .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I have a real hard time with this article .', None, None, None, 1), ('My husband is a US Army soldier', None, None, None, 0), ('that fought to take over Mosul the first time at the cost of many lives .', None, None, None, 1), ('And through incompetent measures in our government and military , we let go of Mosul', None, None, None, 0), ('and are again trying to figure out a way', None, None, None, 0), ('to take it back .', None, None, None, 1), ('It makes me sad that there are people being oppressed in the world', None, None, None, 0), ('but it is also clear to me that at what cost do we fight the oppressors', None, None, None, 0), ('and pick a whose side', None, None, None, 0), ('to be on .', None, None, None, 1), ('Maybe we should worry about ourselves stateside', None, None, None, 0), ('and stay out of the mess in the middle east .', None, None, None, 1)]

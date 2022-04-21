@@ -1,0 +1,19 @@
+=====================> [[('This is a perfect example', None, None, None, 0), ('of why we need cameras everywhere .', None, None, None, 1), ('They have this guy on video', None, None, None, 0), ('doing all the bad things', None, None, None, 0), ('he would do .', None, None, None, 1), ('There is no way anyone can make any excuses for him now .', None, None, None, 1), ('They will surely try , though . BLM will probably come up with some story', None, None, None, 0), ('about how he was an upstanding citizen or something', None, None, None, 0), ('we have already heard before .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a perfect example
+Leaf:  S span of why we need cameras everywhere .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They have this guy on video
+Leaf:  N Elaborate doing all the bad things
+Leaf:  S span he would do .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Condition There is no way anyone can make any excuses for him now .
+Leaf:  N Elaborate They will surely try , though . BLM will probably come up with some story
+Leaf:  N Elaborate about how he was an upstanding citizen or something
+Leaf:  S span we have already heard before .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is a perfect example', None, None, None, 0), ('of why we need cameras everywhere .', None, None, None, 1), ('They have this guy on video', None, None, None, 0), ('doing all the bad things', None, None, None, 0), ('he would do .', None, None, None, 1), ('There is no way anyone can make any excuses for him now .', None, None, None, 1), ('They will surely try , though . BLM will probably come up with some story', None, None, None, 0), ('about how he was an upstanding citizen or something', None, None, None, 0), ('we have already heard before .', None, None, None, 1)]

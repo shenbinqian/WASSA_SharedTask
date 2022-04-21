@@ -1,0 +1,21 @@
+=====================> [[('This article was really inspiring .', None, None, None, 1), ('The woman in it goes through so much', None, None, None, 0), ('but she still tries to persevere .', None, None, None, 1), ('I think', None, None, None, 0), ('it is admirable to not give up in the face of such obstacles .', None, None, None, 1), ('But I imagine', None, None, None, 0), ('it was really difficult for her to do !', None, None, None, 1), ('Imagine being in pain like that ...', None, None, None, 1), ("it 's horrifying .", None, None, None, 1), ("What do you think of this article ? Is n't it inspiring ?", None, None, None, 1)]]
+Leaf:  N Elaborate This article was really inspiring .
+Leaf:  S span The woman in it goes through so much
+Leaf:  N Contrast but she still tries to persevere .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I think
+Leaf:  N Attribution it is admirable to not give up in the face of such obstacles .
+Inner:  N Contrast None Attribution SN
+Leaf:  S span But I imagine
+Leaf:  N Attribution it was really difficult for her to do !
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Imagine being in pain like that ...
+Leaf:  S span it 's horrifying .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span What do you think of this article ? Is n't it inspiring ?
+Inner:  Root None None Evaluation NS
+[('This article was really inspiring .', None, None, None, 1), ('The woman in it goes through so much', None, None, None, 0), ('but she still tries to persevere .', None, None, None, 1), ('I think', None, None, None, 0), ('it is admirable to not give up in the face of such obstacles .', None, None, None, 1), ('But I imagine', None, None, None, 0), ('it was really difficult for her to do !', None, None, None, 1), ('Imagine being in pain like that ...', None, None, None, 1), ("it 's horrifying .", None, None, None, 1), ("What do you think of this article ? Is n't it inspiring ?", None, None, None, 1)]

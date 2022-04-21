@@ -1,0 +1,17 @@
+=====================> [[('Hey , take a look at this .', None, None, None, 1), ('Lots of conflicting information here ,', None, None, None, 0), ("but it 'd be awesome", None, None, None, 0), ("if there 's any truth in this story .", None, None, None, 1), ('I hate to see when animals are in horrible conditions like that ,', None, None, None, 0), ('though of course PETA always goes way too far with their involvement .', None, None, None, 1), ("Maybe that 's why I 'm not sure", None, None, None, 0), ("what 's true and what 's not in this article ?", None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey , take a look at this .
+Leaf:  N Contrast Lots of conflicting information here ,
+Leaf:  N Condition but it 'd be awesome
+Leaf:  S span if there 's any truth in this story .
+Inner:  N Contrast None Condition NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Contrast I hate to see when animals are in horrible conditions like that ,
+Leaf:  S span though of course PETA always goes way too far with their involvement .
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span Maybe that 's why I 'm not sure
+Leaf:  N Attribution what 's true and what 's not in this article ?
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Hey , take a look at this .', None, None, None, 1), ('Lots of conflicting information here ,', None, None, None, 0), ("but it 'd be awesome", None, None, None, 0), ("if there 's any truth in this story .", None, None, None, 1), ('I hate to see when animals are in horrible conditions like that ,', None, None, None, 0), ('though of course PETA always goes way too far with their involvement .', None, None, None, 1), ("Maybe that 's why I 'm not sure", None, None, None, 0), ("what 's true and what 's not in this article ?", None, None, None, 1)]

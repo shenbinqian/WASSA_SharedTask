@@ -1,0 +1,39 @@
+=====================> [[('I think', None, None, None, 0), ('the process', None, None, None, 0), ('of dying can contain various levels of trauma .', None, None, None, 1), ('Some people die with less pain ,', None, None, None, 0), ('and we tend to call them lucky .', None, None, None, 1), ('I tend to think', None, None, None, 0), ('the body inflicts various levels of physical and psychological pain over the often somewhat lengthy process of dying .', None, None, None, 1), ('One type of emotion', None, None, None, 0), ('I can partly relate to', None, None, None, 0), ('is the idea', None, None, None, 0), ('that the party', None, None, None, 0), ('( life )', None, None, None, 0), ('keeps going on ,', None, None, None, 0), ('but you have to leave . The idea of no longer consuming new information or experiences .', None, None, None, 1), ('The process of dying inflicts bad emotions on me ,', None, None, None, 0), ('but thinking about being dead does not inflict many emotions on me .', None, None, None, 1), ('I feel neutral or calm about the idea ,', None, None, None, 0), ('and I see no rational reason', None, None, None, 0), ('for worrying about it .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate the process
+Leaf:  S span of dying can contain various levels of trauma .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation Some people die with less pain ,
+Leaf:  S span and we tend to call them lucky .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I tend to think
+Leaf:  N Attribution the body inflicts various levels of physical and psychological pain over the often somewhat lengthy process of dying .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate One type of emotion
+Leaf:  S span I can partly relate to
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is the idea
+Leaf:  N Elaborate that the party
+Leaf:  S span ( life )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit keeps going on ,
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Contrast but you have to leave . The idea of no longer consuming new information or experiences .
+Inner:  S span None Contrast NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Contrast The process of dying inflicts bad emotions on me ,
+Leaf:  N Contrast but thinking about being dead does not inflict many emotions on me .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Joint I feel neutral or calm about the idea ,
+Leaf:  N Elaborate and I see no rational reason
+Leaf:  S span for worrying about it .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('the process', None, None, None, 0), ('of dying can contain various levels of trauma .', None, None, None, 1), ('Some people die with less pain ,', None, None, None, 0), ('and we tend to call them lucky .', None, None, None, 1), ('I tend to think', None, None, None, 0), ('the body inflicts various levels of physical and psychological pain over the often somewhat lengthy process of dying .', None, None, None, 1), ('One type of emotion', None, None, None, 0), ('I can partly relate to', None, None, None, 0), ('is the idea', None, None, None, 0), ('that the party', None, None, None, 0), ('( life )', None, None, None, 0), ('keeps going on ,', None, None, None, 0), ('but you have to leave . The idea of no longer consuming new information or experiences .', None, None, None, 1), ('The process of dying inflicts bad emotions on me ,', None, None, None, 0), ('but thinking about being dead does not inflict many emotions on me .', None, None, None, 1), ('I feel neutral or calm about the idea ,', None, None, None, 0), ('and I see no rational reason', None, None, None, 0), ('for worrying about it .', None, None, None, 1)]

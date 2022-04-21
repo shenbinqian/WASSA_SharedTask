@@ -1,0 +1,25 @@
+=====================> [[('I think', None, None, None, 0), ('that being gay is not a choice ,', None, None, None, 0), ('and that we should accept these individuals no matter what .', None, None, None, 1), ('Their gayness is not hurting or affecting you in any way ,', None, None, None, 0), ('so get over it .', None, None, None, 1), ('I think is natural for someone to be attracted to either sex ,', None, None, None, 0), ('and we need to be more accepting of it .', None, None, None, 1), ('I wish', None, None, None, 0), ('I could hug every gay person', None, None, None, 0), ('who has ever felt like they are worth less', None, None, None, 0), ('than they are ,', None, None, None, 0), ('because they are worth just as much as everyone else .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Joint that being gay is not a choice ,
+Leaf:  N Joint and that we should accept these individuals no matter what .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation Their gayness is not hurting or affecting you in any way ,
+Leaf:  S span so get over it .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I think is natural for someone to be attracted to either sex ,
+Leaf:  N Joint and we need to be more accepting of it .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Elaborate I could hug every gay person
+Leaf:  N Comparison who has ever felt like they are worth less
+Leaf:  S span than they are ,
+Inner:  N Explanation None Comparison NS
+Leaf:  S span because they are worth just as much as everyone else .
+Inner:  S span None Explanation NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('that being gay is not a choice ,', None, None, None, 0), ('and that we should accept these individuals no matter what .', None, None, None, 1), ('Their gayness is not hurting or affecting you in any way ,', None, None, None, 0), ('so get over it .', None, None, None, 1), ('I think is natural for someone to be attracted to either sex ,', None, None, None, 0), ('and we need to be more accepting of it .', None, None, None, 1), ('I wish', None, None, None, 0), ('I could hug every gay person', None, None, None, 0), ('who has ever felt like they are worth less', None, None, None, 0), ('than they are ,', None, None, None, 0), ('because they are worth just as much as everyone else .', None, None, None, 1)]

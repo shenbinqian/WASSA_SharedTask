@@ -1,0 +1,19 @@
+=====================> [[("I ca n't imagine", None, None, None, 0), ('what those girls are going through .', None, None, None, 1), ("One day you 're enjoying a fun family outing", None, None, None, 0), ('and suddenly everyone one is killed in a tragic accident .', None, None, None, 1), ('People are supposed to be safe in places like that .', None, None, None, 1), ("It 's impossible to think", None, None, None, 0), ('that your entire life can be destroyed in a situation like that .', None, None, None, 1), ('Accidents like this should never happen ,', None, None, None, 0), ("as the customers are trusting their family 's safety to the park .", None, None, None, 1)]]
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution what those girls are going through .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span One day you 're enjoying a fun family outing
+Leaf:  N Background and suddenly everyone one is killed in a tragic accident .
+Inner:  N Evaluation None Background SN
+Leaf:  N Joint People are supposed to be safe in places like that .
+Leaf:  S span It 's impossible to think
+Leaf:  N Attribution that your entire life can be destroyed in a situation like that .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background Accidents like this should never happen ,
+Leaf:  S span as the customers are trusting their family 's safety to the park .
+Inner:  S span None Background NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I ca n't imagine", None, None, None, 0), ('what those girls are going through .', None, None, None, 1), ("One day you 're enjoying a fun family outing", None, None, None, 0), ('and suddenly everyone one is killed in a tragic accident .', None, None, None, 1), ('People are supposed to be safe in places like that .', None, None, None, 1), ("It 's impossible to think", None, None, None, 0), ('that your entire life can be destroyed in a situation like that .', None, None, None, 1), ('Accidents like this should never happen ,', None, None, None, 0), ("as the customers are trusting their family 's safety to the park .", None, None, None, 1)]

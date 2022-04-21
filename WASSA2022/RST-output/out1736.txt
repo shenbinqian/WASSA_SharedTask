@@ -1,0 +1,19 @@
+=====================> [[('Hey have you heard about the polar bears ?', None, None, None, 1), ('This global warming thing is going to take over there home land so fast .', None, None, None, 1), ('They will not be able to out swim the things', None, None, None, 0), ('that will b more of a chance', None, None, None, 0), ('at getting them', None, None, None, 0), ('because of whats happening right now .', None, None, None, 1), ('We have to help save the polar bears .', None, None, None, 1), ('Its been pretty terrible how the goverment and companoes just dont care', None, None, None, 0), ('to help save these animals .', None, None, None, 1)]]
+Leaf:  N Explanation Hey have you heard about the polar bears ?
+Leaf:  N Cause This global warming thing is going to take over there home land so fast .
+Leaf:  N Elaborate They will not be able to out swim the things
+Leaf:  N Elaborate that will b more of a chance
+Leaf:  N Cause at getting them
+Leaf:  S span because of whats happening right now .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Evaluation We have to help save the polar bears .
+Leaf:  N Enablement Its been pretty terrible how the goverment and companoes just dont care
+Leaf:  S span to help save these animals .
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey have you heard about the polar bears ?', None, None, None, 1), ('This global warming thing is going to take over there home land so fast .', None, None, None, 1), ('They will not be able to out swim the things', None, None, None, 0), ('that will b more of a chance', None, None, None, 0), ('at getting them', None, None, None, 0), ('because of whats happening right now .', None, None, None, 1), ('We have to help save the polar bears .', None, None, None, 1), ('Its been pretty terrible how the goverment and companoes just dont care', None, None, None, 0), ('to help save these animals .', None, None, None, 1)]

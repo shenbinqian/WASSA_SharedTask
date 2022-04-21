@@ -1,0 +1,25 @@
+=====================> [[('Did you see this ?', None, None, None, 1), ('send it to daddy .', None, None, None, 1), ("Is n't he a leonard cohen fan .", None, None, None, 1), ("I 've never really heard of him", None, None, None, 0), ('but I know', None, None, None, 0), ('daddy likes classical rock music .', None, None, None, 1), ('Ask him', None, None, None, 0), ('if he wants to go swimming this weekend too .', None, None, None, 1), ('The kids really want to see you .', None, None, None, 1), ('We can bring dinner', None, None, None, 0), ('and put it on the grill .', None, None, None, 1), ('Are you in the mood for steak or chicken ?', None, None, None, 1)]]
+Leaf:  N Textual-Organization Did you see this ?
+Leaf:  N Textual-Organization send it to daddy .
+Leaf:  N Elaborate Is n't he a leonard cohen fan .
+Leaf:  S span I 've never really heard of him
+Leaf:  S span but I know
+Leaf:  N Attribution daddy likes classical rock music .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Ask him
+Leaf:  N Attribution if he wants to go swimming this weekend too .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The kids really want to see you .
+Leaf:  N Joint We can bring dinner
+Leaf:  N Joint and put it on the grill .
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Are you in the mood for steak or chicken ?
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  N Textual-Organization None Textual-Organization NN
+Inner:  Root None None Textual-Organization NN
+[('Did you see this ?', None, None, None, 1), ('send it to daddy .', None, None, None, 1), ("Is n't he a leonard cohen fan .", None, None, None, 1), ("I 've never really heard of him", None, None, None, 0), ('but I know', None, None, None, 0), ('daddy likes classical rock music .', None, None, None, 1), ('Ask him', None, None, None, 0), ('if he wants to go swimming this weekend too .', None, None, None, 1), ('The kids really want to see you .', None, None, None, 1), ('We can bring dinner', None, None, None, 0), ('and put it on the grill .', None, None, None, 1), ('Are you in the mood for steak or chicken ?', None, None, None, 1)]

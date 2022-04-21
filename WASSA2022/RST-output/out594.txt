@@ -1,0 +1,23 @@
+=====================> [[('Wow , I just read an article', None, None, None, 0), ('that says', None, None, None, 0), ('coconuts could be in danger', None, None, None, 0), ('of becoming much more scarce .', None, None, None, 1), ('There is a bacteria', None, None, None, 0), ('going around', None, None, None, 0), ('that causes lethal yellowing', None, None, None, 0), ('and wipes them out .', None, None, None, 1), ('Due to the water concentration , a traditional seed bank is not an option .', None, None, None, 1), ('You would have to have a living gene bank .', None, None, None, 1), ('That would affect a lot of companies and industries .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , I just read an article
+Leaf:  S span that says
+Leaf:  N Elaborate coconuts could be in danger
+Leaf:  S span of becoming much more scarce .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There is a bacteria
+Leaf:  S span going around
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint that causes lethal yellowing
+Leaf:  N Joint and wipes them out .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause Due to the water concentration , a traditional seed bank is not an option .
+Leaf:  S span You would have to have a living gene bank .
+Inner:  N Cause None Cause NS
+Leaf:  S span That would affect a lot of companies and industries .
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Wow , I just read an article', None, None, None, 0), ('that says', None, None, None, 0), ('coconuts could be in danger', None, None, None, 0), ('of becoming much more scarce .', None, None, None, 1), ('There is a bacteria', None, None, None, 0), ('going around', None, None, None, 0), ('that causes lethal yellowing', None, None, None, 0), ('and wipes them out .', None, None, None, 1), ('Due to the water concentration , a traditional seed bank is not an option .', None, None, None, 1), ('You would have to have a living gene bank .', None, None, None, 1), ('That would affect a lot of companies and industries .', None, None, None, 1)]

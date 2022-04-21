@@ -1,0 +1,27 @@
+=====================> [[('they are always fighting over there', None, None, None, 0), ('I get sick of hearing about it .', None, None, None, 1), ('The whole place is crazy', None, None, None, 0), ("we should n't even involve ourselves in their problems", None, None, None, 0), ('Let them figure it out .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('you can fix what is wrong', None, None, None, 0), ('just let them work it out', None, None, None, 0), ('and hope for the best that is all we can do .', None, None, None, 1), ('I ran out of time', None, None, None, 0), ('I had the timer', None, None, None, 0), ('it was to short', None, None, None, 0), ('if you want me to write', None, None, None, 0)]]
+Leaf:  N Cause they are always fighting over there
+Leaf:  N Cause I get sick of hearing about it .
+Inner:  N Summary None Cause NN
+Leaf:  N Summary The whole place is crazy
+Leaf:  S span we should n't even involve ourselves in their problems
+Leaf:  N Explanation Let them figure it out .
+Inner:  S span None Explanation SN
+Inner:  N Joint None Summary NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution you can fix what is wrong
+Inner:  S span None Attribution SN
+Leaf:  N Joint just let them work it out
+Leaf:  N Joint and hope for the best that is all we can do .
+Inner:  N Explanation None Joint NN
+Inner:  N Joint None Explanation SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Summary NS
+Leaf:  N Evaluation I ran out of time
+Leaf:  S span I had the timer
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span it was to short
+Inner:  N Same-Unit None Evaluation NS
+Leaf:  N Same-Unit if you want me to write
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Explanation NS
+[('they are always fighting over there', None, None, None, 0), ('I get sick of hearing about it .', None, None, None, 1), ('The whole place is crazy', None, None, None, 0), ("we should n't even involve ourselves in their problems", None, None, None, 0), ('Let them figure it out .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('you can fix what is wrong', None, None, None, 0), ('just let them work it out', None, None, None, 0), ('and hope for the best that is all we can do .', None, None, None, 1), ('I ran out of time', None, None, None, 0), ('I had the timer', None, None, None, 0), ('it was to short', None, None, None, 0), ('if you want me to write', None, None, None, 0)]

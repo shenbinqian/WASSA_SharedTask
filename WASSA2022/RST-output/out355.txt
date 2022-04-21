@@ -1,0 +1,13 @@
+=====================> [[('Its sad and all but when is there every not trouble in the middle east ?', None, None, None, 1), ('You know', None, None, None, 0), ('my grandmother was Syrian', None, None, None, 0), ('so this maybe should be more personal for me , but its kind of not . Those people are crazy .', None, None, None, 1), ('Fell sorry for the civilians', None, None, None, 0), ('though and the united states should really take a lot of refugees from there .', None, None, None, 1)]]
+Leaf:  N Explanation Its sad and all but when is there every not trouble in the middle east ?
+Leaf:  S span You know
+Leaf:  S span my grandmother was Syrian
+Leaf:  N Cause so this maybe should be more personal for me , but its kind of not . Those people are crazy .
+Inner:  N Attribution None Cause SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast Fell sorry for the civilians
+Leaf:  N Contrast though and the united states should really take a lot of refugees from there .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Its sad and all but when is there every not trouble in the middle east ?', None, None, None, 1), ('You know', None, None, None, 0), ('my grandmother was Syrian', None, None, None, 0), ('so this maybe should be more personal for me , but its kind of not . Those people are crazy .', None, None, None, 1), ('Fell sorry for the civilians', None, None, None, 0), ('though and the united states should really take a lot of refugees from there .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('This is a completely unacceptable situation .', None, None, None, 1), ('Our military bombs a Doctors Without Borders medical facility', None, None, None, 0), ('and they have the gall', None, None, None, 0), ('to point their fingers at those', None, None, None, 0), ('who were bombed .', None, None, None, 1), ('And the only restitution', None, None, None, 0), ('they offer', None, None, None, 0), ('is a promise', None, None, None, 0), ('to keep bombing', None, None, None, 0), ('and carrying on', None, None, None, 0), ('just like they were', None, None, None, 0), ('until the mission is completed . Revolting .', None, None, None, 1)]]
+Leaf:  N Explanation This is a completely unacceptable situation .
+Leaf:  N Temporal Our military bombs a Doctors Without Borders medical facility
+Leaf:  N Elaborate and they have the gall
+Leaf:  N Elaborate to point their fingers at those
+Leaf:  S span who were bombed .
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Elaborate NS
+Inner:  N Topic-Comment None Temporal NN
+Leaf:  N Elaborate And the only restitution
+Leaf:  S span they offer
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is a promise
+Leaf:  N Joint to keep bombing
+Leaf:  N Manner-Means and carrying on
+Leaf:  S span just like they were
+Inner:  N Condition None Manner-Means NS
+Leaf:  S span until the mission is completed . Revolting .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Topic-Comment None Same-Unit NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('This is a completely unacceptable situation .', None, None, None, 1), ('Our military bombs a Doctors Without Borders medical facility', None, None, None, 0), ('and they have the gall', None, None, None, 0), ('to point their fingers at those', None, None, None, 0), ('who were bombed .', None, None, None, 1), ('And the only restitution', None, None, None, 0), ('they offer', None, None, None, 0), ('is a promise', None, None, None, 0), ('to keep bombing', None, None, None, 0), ('and carrying on', None, None, None, 0), ('just like they were', None, None, None, 0), ('until the mission is completed . Revolting .', None, None, None, 1)]

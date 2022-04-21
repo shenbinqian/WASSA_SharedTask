@@ -1,0 +1,15 @@
+=====================> [[('I feel', None, None, None, 0), ('like our police force is getting kinda out of control with its killings recently .', None, None, None, 1), ("It 's all i seem to hear about on the news nowadays .", None, None, None, 1), ('They recently charged an officer', None, None, None, 0), ('who shot an unarmed black driver', None, None, None, 0), ("when he was outside his vehicle.It 's like the police do n't even care anymore", None, None, None, 0), ('which is really scary .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like our police force is getting kinda out of control with its killings recently .
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate It 's all i seem to hear about on the news nowadays .
+Leaf:  N Elaborate They recently charged an officer
+Leaf:  N Background who shot an unarmed black driver
+Leaf:  S span when he was outside his vehicle.It 's like the police do n't even care anymore
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span which is really scary .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('I feel', None, None, None, 0), ('like our police force is getting kinda out of control with its killings recently .', None, None, None, 1), ("It 's all i seem to hear about on the news nowadays .", None, None, None, 1), ('They recently charged an officer', None, None, None, 0), ('who shot an unarmed black driver', None, None, None, 0), ("when he was outside his vehicle.It 's like the police do n't even care anymore", None, None, None, 0), ('which is really scary .', None, None, None, 1)]

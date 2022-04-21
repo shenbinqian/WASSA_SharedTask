@@ -1,0 +1,27 @@
+=====================> [[('If you are using trumps name', None, None, None, 0), ('to make him look bad', None, None, None, 0), ('is not the answer here .', None, None, None, 1), ('I know', None, None, None, 0), ('that trump is not being a good president right now', None, None, None, 0), ('but lets not discredit his success .', None, None, None, 1), ('Somebody burned a church', None, None, None, 0), ('that is not related to Donald Trump at all ,', None, None, None, 0), ('lots of Families go to that church .', None, None, None, 1), ('I think', None, None, None, 0), ('someone used this attack as an attack to Donald Trump', None, None, None, 0), ('because he is not affiliated with this', None, None, None, 0), ('and makes people look like he caused this', None, None, None, 0)]]
+Leaf:  N Enablement If you are using trumps name
+Leaf:  S span to make him look bad
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit is not the answer here .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I know
+Leaf:  N Attribution that trump is not being a good president right now
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but lets not discredit his success .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Somebody burned a church
+Leaf:  S span that is not related to Donald Trump at all ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span lots of Families go to that church .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Explanation someone used this attack as an attack to Donald Trump
+Leaf:  S span because he is not affiliated with this
+Inner:  N Joint None Explanation NS
+Leaf:  N Joint and makes people look like he caused this
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('If you are using trumps name', None, None, None, 0), ('to make him look bad', None, None, None, 0), ('is not the answer here .', None, None, None, 1), ('I know', None, None, None, 0), ('that trump is not being a good president right now', None, None, None, 0), ('but lets not discredit his success .', None, None, None, 1), ('Somebody burned a church', None, None, None, 0), ('that is not related to Donald Trump at all ,', None, None, None, 0), ('lots of Families go to that church .', None, None, None, 1), ('I think', None, None, None, 0), ('someone used this attack as an attack to Donald Trump', None, None, None, 0), ('because he is not affiliated with this', None, None, None, 0), ('and makes people look like he caused this', None, None, None, 0)]

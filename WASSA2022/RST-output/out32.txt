@@ -1,0 +1,25 @@
+=====================> [[('Climate change is extremely worrisome .', None, None, None, 1), ('And it is getting worse and worse every year .', None, None, None, 1), ('Something has to be done about it ,', None, None, None, 0), ('and I think', None, None, None, 0), ('it starts with getting rid of corporate contributions to politicians', None, None, None, 0), ('and getting rid of lobbying .', None, None, None, 1), ('The world is dying', None, None, None, 0), ('and I think', None, None, None, 0), ('that needs to be clearly communicated to as many people as possible .', None, None, None, 1), ("Too many CEO 's are thinking about their own profits .", None, None, None, 1), ('The system needs to limit their power', None, None, None, 0), ('and start focusing on the health of the species and the planet instead .', None, None, None, 1)]]
+Leaf:  N Joint Climate change is extremely worrisome .
+Leaf:  N Joint And it is getting worse and worse every year .
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Topic-Comment Something has to be done about it ,
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span and I think
+Leaf:  N Joint it starts with getting rid of corporate contributions to politicians
+Leaf:  N Joint and getting rid of lobbying .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation The world is dying
+Leaf:  S span and I think
+Leaf:  N Attribution that needs to be clearly communicated to as many people as possible .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Too many CEO 's are thinking about their own profits .
+Leaf:  N Joint The system needs to limit their power
+Leaf:  N Joint and start focusing on the health of the species and the planet instead .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Climate change is extremely worrisome .', None, None, None, 1), ('And it is getting worse and worse every year .', None, None, None, 1), ('Something has to be done about it ,', None, None, None, 0), ('and I think', None, None, None, 0), ('it starts with getting rid of corporate contributions to politicians', None, None, None, 0), ('and getting rid of lobbying .', None, None, None, 1), ('The world is dying', None, None, None, 0), ('and I think', None, None, None, 0), ('that needs to be clearly communicated to as many people as possible .', None, None, None, 1), ("Too many CEO 's are thinking about their own profits .", None, None, None, 1), ('The system needs to limit their power', None, None, None, 0), ('and start focusing on the health of the species and the planet instead .', None, None, None, 1)]

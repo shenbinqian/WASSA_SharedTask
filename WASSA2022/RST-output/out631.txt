@@ -1,0 +1,21 @@
+=====================> [[('I just read a very upsetting article about a recent incident', None, None, None, 0), ('involving U.S. troops in Jordan', None, None, None, 0), ('and I wanted to share it with you .', None, None, None, 1), ('There were three U.S. military trainers killed in gunfire by security units at Jordan base , fatally shot by security forces Friday', None, None, None, 0), ('when their vehicle failed to stop at the gate of a military base . I have no idea', None, None, None, 0), ('why the driver did not stop at the gate , which is certainly protocol . They have had serious problems in Jordan recently due to hundreds of thousands of Syrian refugees', None, None, None, 0), ('crossing their border .', None, None, None, 1), ('Jordan is and has been a significant U.S. ally in the war against ISIS', None, None, None, 0), ('and I can only hope', None, None, None, 0), ('that this incident is isolated and not part of a bigger problem . God bless the families of the deceased soldiers !', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a very upsetting article about a recent incident
+Leaf:  S span involving U.S. troops in Jordan
+Inner:  S span None Elaborate NS
+Leaf:  N Cause and I wanted to share it with you .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Background There were three U.S. military trainers killed in gunfire by security units at Jordan base , fatally shot by security forces Friday
+Leaf:  S span when their vehicle failed to stop at the gate of a military base . I have no idea
+Leaf:  N Elaborate why the driver did not stop at the gate , which is certainly protocol . They have had serious problems in Jordan recently due to hundreds of thousands of Syrian refugees
+Leaf:  S span crossing their border .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Jordan is and has been a significant U.S. ally in the war against ISIS
+Leaf:  S span and I can only hope
+Leaf:  N Attribution that this incident is isolated and not part of a bigger problem . God bless the families of the deceased soldiers !
+Inner:  N Evaluation None Attribution SN
+Inner:  S span None Evaluation NN
+Inner:  Root None None Elaborate NS
+[('I just read a very upsetting article about a recent incident', None, None, None, 0), ('involving U.S. troops in Jordan', None, None, None, 0), ('and I wanted to share it with you .', None, None, None, 1), ('There were three U.S. military trainers killed in gunfire by security units at Jordan base , fatally shot by security forces Friday', None, None, None, 0), ('when their vehicle failed to stop at the gate of a military base . I have no idea', None, None, None, 0), ('why the driver did not stop at the gate , which is certainly protocol . They have had serious problems in Jordan recently due to hundreds of thousands of Syrian refugees', None, None, None, 0), ('crossing their border .', None, None, None, 1), ('Jordan is and has been a significant U.S. ally in the war against ISIS', None, None, None, 0), ('and I can only hope', None, None, None, 0), ('that this incident is isolated and not part of a bigger problem . God bless the families of the deceased soldiers !', None, None, None, 1)]

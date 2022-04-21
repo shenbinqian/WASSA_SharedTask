@@ -1,0 +1,37 @@
+=====================> [[('Russia claims', None, None, None, 0), ("bombed UN aid convoy was ' escorted by terrorists", None, None, None, 0), ('A UN aid convoy', None, None, None, 0), ('that was bombed on Monday night', None, None, None, 0), ('was escorted by a " terrorists " ,', None, None, None, 0), ('Russia has claimed in response to accusations', None, None, None, 0), ('it was behind the deadly attacks .', None, None, None, 1), ('Moscow has denied hitting the UN convoy ,', None, None, None, 0), ('which was bombed', None, None, None, 0), ('as it delivered food aid to opposition-held parts of Aleppo on Monday night ,', None, None, None, 0), ('minutes after the military declared the end of a ceasefire . The strikes , carried out by either Syrian or allied Russian warplanes , hit Syrian Red Crescent trucks', None, None, None, 0), ('as staff members were unloading aid in Urem al-Kubra in Aleppo province .', None, None, None, 1), ('More than a dozen were killed', None, None, None, 0), ('including Omar Barakat , the organisation ’s director .', None, None, None, 1), ('Pictures', None, None, None, 0), ('shared by activists', None, None, None, 0), ('showed burned bodies next to a UNHCR badge .', None, None, None, 1), ("Russia 's defence ministry relea", None, None, None, 0)]]
+Leaf:  S span Russia claims
+Leaf:  N Attribution bombed UN aid convoy was ' escorted by terrorists
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate A UN aid convoy
+Leaf:  S span that was bombed on Monday night
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was escorted by a " terrorists " ,
+Inner:  N Attribution None Same-Unit NN
+Leaf:  N Elaborate Russia has claimed in response to accusations
+Leaf:  S span it was behind the deadly attacks .
+Inner:  S span None Elaborate NS
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate Moscow has denied hitting the UN convoy ,
+Leaf:  S span which was bombed
+Inner:  N Background None Elaborate NS
+Leaf:  S span as it delivered food aid to opposition-held parts of Aleppo on Monday night ,
+Inner:  N Temporal None Background NS
+Leaf:  N Temporal minutes after the military declared the end of a ceasefire . The strikes , carried out by either Syrian or allied Russian warplanes , hit Syrian Red Crescent trucks
+Leaf:  S span as staff members were unloading aid in Urem al-Kubra in Aleppo province .
+Inner:  S span None Temporal NS
+Inner:  N Cause None Temporal NS
+Leaf:  N Elaborate More than a dozen were killed
+Leaf:  S span including Omar Barakat , the organisation ’s director .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Cause NS
+Leaf:  N Elaborate Pictures
+Leaf:  S span shared by activists
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit showed burned bodies next to a UNHCR badge .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Topic-Change Russia 's defence ministry relea
+Inner:  Root None None Topic-Change NN
+[('Russia claims', None, None, None, 0), ("bombed UN aid convoy was ' escorted by terrorists", None, None, None, 0), ('A UN aid convoy', None, None, None, 0), ('that was bombed on Monday night', None, None, None, 0), ('was escorted by a " terrorists " ,', None, None, None, 0), ('Russia has claimed in response to accusations', None, None, None, 0), ('it was behind the deadly attacks .', None, None, None, 1), ('Moscow has denied hitting the UN convoy ,', None, None, None, 0), ('which was bombed', None, None, None, 0), ('as it delivered food aid to opposition-held parts of Aleppo on Monday night ,', None, None, None, 0), ('minutes after the military declared the end of a ceasefire . The strikes , carried out by either Syrian or allied Russian warplanes , hit Syrian Red Crescent trucks', None, None, None, 0), ('as staff members were unloading aid in Urem al-Kubra in Aleppo province .', None, None, None, 1), ('More than a dozen were killed', None, None, None, 0), ('including Omar Barakat , the organisation ’s director .', None, None, None, 1), ('Pictures', None, None, None, 0), ('shared by activists', None, None, None, 0), ('showed burned bodies next to a UNHCR badge .', None, None, None, 1), ("Russia 's defence ministry relea", None, None, None, 0)]

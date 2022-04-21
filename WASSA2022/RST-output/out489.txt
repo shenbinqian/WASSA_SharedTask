@@ -1,0 +1,19 @@
+=====================> [[("I really did n't realize", None, None, None, 0), ('how quickly climate change could have an effect on certain areas of the world .', None, None, None, 1), ('I do believe', None, None, None, 0), ('that climate change is being caused by humans to a good extent ,', None, None, None, 0), ("but I 'm not sure", None, None, None, 0), ('if negative impacts will come as quickly', None, None, None, 0), ('as some people speculate .', None, None, None, 1), ("It 's very interesting but I am concerned for the safety of some people", None, None, None, 0), ('if things continue this way .', None, None, None, 1)]]
+Leaf:  S span I really did n't realize
+Leaf:  N Attribution how quickly climate change could have an effect on certain areas of the world .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do believe
+Leaf:  N Attribution that climate change is being caused by humans to a good extent ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I 'm not sure
+Leaf:  N Comparison if negative impacts will come as quickly
+Leaf:  S span as some people speculate .
+Inner:  N Attribution None Comparison NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Condition It 's very interesting but I am concerned for the safety of some people
+Leaf:  S span if things continue this way .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I really did n't realize", None, None, None, 0), ('how quickly climate change could have an effect on certain areas of the world .', None, None, None, 1), ('I do believe', None, None, None, 0), ('that climate change is being caused by humans to a good extent ,', None, None, None, 0), ("but I 'm not sure", None, None, None, 0), ('if negative impacts will come as quickly', None, None, None, 0), ('as some people speculate .', None, None, None, 1), ("It 's very interesting but I am concerned for the safety of some people", None, None, None, 0), ('if things continue this way .', None, None, None, 1)]

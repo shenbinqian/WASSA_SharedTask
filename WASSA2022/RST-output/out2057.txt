@@ -1,0 +1,25 @@
+=====================> [[('Just read this story about a father and son in China ,', None, None, None, 0), ('the son fell in a well', None, None, None, 0), ('and died', None, None, None, 0), ('while helping the father pick vegetables .', None, None, None, 1), ('If it were up to me ,', None, None, None, 0), ("after recovering the boy 's body ,", None, None, None, 0), ("I 'd have taken the father to an adult sized well", None, None, None, 0), ('and threw him in', None, None, None, 0), ('and said', None, None, None, 0), ("' Good luck getting out . '", None, None, None, 0), ('and walked away .', None, None, None, 1), ('Parents need to take better care of their children .', None, None, None, 1)]]
+Leaf:  N Elaborate Just read this story about a father and son in China ,
+Leaf:  N Temporal the son fell in a well
+Leaf:  N Temporal and died
+Leaf:  S span while helping the father pick vegetables .
+Inner:  N Temporal None Temporal NS
+Inner:  S span None Temporal NN
+Inner:  N Condition None Elaborate NS
+Leaf:  N Same-Unit If it were up to me ,
+Leaf:  N Same-Unit after recovering the boy 's body ,
+Inner:  S span None Same-Unit NN
+Leaf:  N Joint I 'd have taken the father to an adult sized well
+Leaf:  N Joint and threw him in
+Inner:  N Joint None Joint NN
+Leaf:  S span and said
+Leaf:  N Attribution ' Good luck getting out . '
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and walked away .
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Condition NS
+Leaf:  S span Parents need to take better care of their children .
+Inner:  Root None None Evaluation NS
+[('Just read this story about a father and son in China ,', None, None, None, 0), ('the son fell in a well', None, None, None, 0), ('and died', None, None, None, 0), ('while helping the father pick vegetables .', None, None, None, 1), ('If it were up to me ,', None, None, None, 0), ("after recovering the boy 's body ,", None, None, None, 0), ("I 'd have taken the father to an adult sized well", None, None, None, 0), ('and threw him in', None, None, None, 0), ('and said', None, None, None, 0), ("' Good luck getting out . '", None, None, None, 0), ('and walked away .', None, None, None, 1), ('Parents need to take better care of their children .', None, None, None, 1)]

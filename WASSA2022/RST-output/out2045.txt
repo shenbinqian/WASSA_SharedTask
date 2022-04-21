@@ -1,0 +1,23 @@
+=====================> [[('hey !', None, None, None, 1), ('What is it with the generations these days ?', None, None, None, 1), ('All these kids or even adults want the best photos', None, None, None, 0), ('to share on facebook or other social media all for what . .', None, None, None, 1), ('a like ?', None, None, None, 1), ('Did you hear about the guy', None, None, None, 0), ('who was attacked by his python', None, None, None, 0), ('who he was trying to take a photo with .', None, None, None, 1), ('While domesticated snakes can be docile ,', None, None, None, 0), ('you must still realize', None, None, None, 0), ('they are snakes and large ones at that !', None, None, None, 1)]]
+Leaf:  N Summary hey !
+Leaf:  S span What is it with the generations these days ?
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate All these kids or even adults want the best photos
+Leaf:  S span to share on facebook or other social media all for what . .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate a like ?
+Leaf:  N Elaborate Did you hear about the guy
+Leaf:  N Elaborate who was attacked by his python
+Leaf:  S span who he was trying to take a photo with .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span While domesticated snakes can be docile ,
+Leaf:  S span you must still realize
+Leaf:  N Attribution they are snakes and large ones at that !
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('hey !', None, None, None, 1), ('What is it with the generations these days ?', None, None, None, 1), ('All these kids or even adults want the best photos', None, None, None, 0), ('to share on facebook or other social media all for what . .', None, None, None, 1), ('a like ?', None, None, None, 1), ('Did you hear about the guy', None, None, None, 0), ('who was attacked by his python', None, None, None, 0), ('who he was trying to take a photo with .', None, None, None, 1), ('While domesticated snakes can be docile ,', None, None, None, 0), ('you must still realize', None, None, None, 0), ('they are snakes and large ones at that !', None, None, None, 1)]

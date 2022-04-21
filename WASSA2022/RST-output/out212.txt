@@ -1,0 +1,29 @@
+=====================> [[('Victim Amanda divulged her horrific experience ,', None, None, None, 0), ('including her parents', None, None, None, 0), ('making her pose for explicit photographs', None, None, None, 0), ('and videotaping their sexual encounters with a view', None, None, None, 0), ('to sell them online.f', None, None, None, 0), ('I could take it all back', None, None, None, 0), ('I would .', None, None, None, 1), ('I hate myself for what I did , "', None, None, None, 0), ('she added , along with claims', None, None, None, 0), ('that Amanda \'s father made her " join him " in abusing their daughter .', None, None, None, 1), ('She suggested', None, None, None, 0), ("it was all her then-husband 's idea", None, None, None, 0), ('and that she had initially fought him for three months ,', None, None, None, 0), ('but eventually " gave in " .', None, None, None, 1)]]
+Leaf:  N Elaborate Victim Amanda divulged her horrific experience ,
+Leaf:  N Elaborate including her parents
+Leaf:  N Joint making her pose for explicit photographs
+Leaf:  N Elaborate and videotaping their sexual encounters with a view
+Leaf:  S span to sell them online.f
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I could take it all back
+Leaf:  S span I would .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Attribution I hate myself for what I did , "
+Leaf:  N Elaborate she added , along with claims
+Leaf:  S span that Amanda 's father made her " join him " in abusing their daughter .
+Inner:  S span None Elaborate NS
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span She suggested
+Leaf:  N Joint it was all her then-husband 's idea
+Leaf:  N Contrast and that she had initially fought him for three months ,
+Leaf:  S span but eventually " gave in " .
+Inner:  N Joint None Contrast NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Victim Amanda divulged her horrific experience ,', None, None, None, 0), ('including her parents', None, None, None, 0), ('making her pose for explicit photographs', None, None, None, 0), ('and videotaping their sexual encounters with a view', None, None, None, 0), ('to sell them online.f', None, None, None, 0), ('I could take it all back', None, None, None, 0), ('I would .', None, None, None, 1), ('I hate myself for what I did , "', None, None, None, 0), ('she added , along with claims', None, None, None, 0), ('that Amanda \'s father made her " join him " in abusing their daughter .', None, None, None, 1), ('She suggested', None, None, None, 0), ("it was all her then-husband 's idea", None, None, None, 0), ('and that she had initially fought him for three months ,', None, None, None, 0), ('but eventually " gave in " .', None, None, None, 1)]

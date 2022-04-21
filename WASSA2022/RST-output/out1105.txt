@@ -1,0 +1,31 @@
+=====================> [[('I read an article about a young mother-to-be', None, None, None, 0), ('who lost her twins , prematurely ,', None, None, None, 0), ('after being shot in the stomach .', None, None, None, 1), ('It really raises a good question for me and a lot of people ,', None, None, None, 0), ('which is :', None, None, None, 0), ('when do we consider a life to begin ? As for me , I consider life to begin', None, None, None, 0), ('when a human takes his or her first breath . Possibly a religious thing , I guess', None, None, None, 0), ('-- my parents and grandparents and entire family believed the same .', None, None, None, 1), ('But', None, None, None, 0), ('because there is no unified belief system as to this issue ,', None, None, None, 0), ('I find it difficult to form an opinion', None, None, None, 0), ('as to how people should be prosecuted', None, None, None, 0), ('when a fetus is harmed .', None, None, None, 1), ('I really wish', None, None, None, 0), ('there were one answer to this problem .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about a young mother-to-be
+Leaf:  N Temporal who lost her twins , prematurely ,
+Leaf:  S span after being shot in the stomach .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It really raises a good question for me and a lot of people ,
+Leaf:  S span which is :
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background when do we consider a life to begin ? As for me , I consider life to begin
+Leaf:  N Elaborate when a human takes his or her first breath . Possibly a religious thing , I guess
+Leaf:  S span -- my parents and grandparents and entire family believed the same .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Leaf:  N Same-Unit But
+Leaf:  S span because there is no unified belief system as to this issue ,
+Leaf:  N Elaborate I find it difficult to form an opinion
+Leaf:  N Background as to how people should be prosecuted
+Leaf:  S span when a fetus is harmed .
+Inner:  S span None Background NS
+Inner:  N Explanation None Elaborate NS
+Inner:  N Same-Unit None Explanation SN
+Inner:  N Background None Same-Unit NN
+Inner:  S span None Background SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I really wish
+Leaf:  N Attribution there were one answer to this problem .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I read an article about a young mother-to-be', None, None, None, 0), ('who lost her twins , prematurely ,', None, None, None, 0), ('after being shot in the stomach .', None, None, None, 1), ('It really raises a good question for me and a lot of people ,', None, None, None, 0), ('which is :', None, None, None, 0), ('when do we consider a life to begin ? As for me , I consider life to begin', None, None, None, 0), ('when a human takes his or her first breath . Possibly a religious thing , I guess', None, None, None, 0), ('-- my parents and grandparents and entire family believed the same .', None, None, None, 1), ('But', None, None, None, 0), ('because there is no unified belief system as to this issue ,', None, None, None, 0), ('I find it difficult to form an opinion', None, None, None, 0), ('as to how people should be prosecuted', None, None, None, 0), ('when a fetus is harmed .', None, None, None, 1), ('I really wish', None, None, None, 0), ('there were one answer to this problem .', None, None, None, 1)]

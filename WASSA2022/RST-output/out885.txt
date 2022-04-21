@@ -1,0 +1,29 @@
+=====================> [[('What a shame .', None, None, None, 1), ('I wish', None, None, None, 0), ('the article went more into detail', None, None, None, 0), ('about what happened to the actress and the guy', None, None, None, 0), ('she was with .', None, None, None, 1), ("I 'm assuming", None, None, None, 0), ('they just broke in', None, None, None, 0), ('and then used tear gas on the couple ?', None, None, None, 1), ('How did they escape from the masked men ?', None, None, None, 1), ('Or did the masked guys just steal stuff', None, None, None, 0), ('and then leave ?', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('what the gun laws in France are', None, None, None, 0), ('but these reports would make me feel uneasy there .', None, None, None, 1)]]
+Leaf:  N Evaluation What a shame .
+Leaf:  S span I wish
+Leaf:  N Elaborate the article went more into detail
+Leaf:  N Elaborate about what happened to the actress and the guy
+Leaf:  S span she was with .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I 'm assuming
+Leaf:  N Temporal they just broke in
+Leaf:  N Temporal and then used tear gas on the couple ?
+Inner:  N Attribution None Temporal NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint How did they escape from the masked men ?
+Leaf:  N Temporal Or did the masked guys just steal stuff
+Leaf:  N Temporal and then leave ?
+Inner:  N Joint None Temporal NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate I 'm not sure
+Leaf:  S span what the gun laws in France are
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but these reports would make me feel uneasy there .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('What a shame .', None, None, None, 1), ('I wish', None, None, None, 0), ('the article went more into detail', None, None, None, 0), ('about what happened to the actress and the guy', None, None, None, 0), ('she was with .', None, None, None, 1), ("I 'm assuming", None, None, None, 0), ('they just broke in', None, None, None, 0), ('and then used tear gas on the couple ?', None, None, None, 1), ('How did they escape from the masked men ?', None, None, None, 1), ('Or did the masked guys just steal stuff', None, None, None, 0), ('and then leave ?', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('what the gun laws in France are', None, None, None, 0), ('but these reports would make me feel uneasy there .', None, None, None, 1)]

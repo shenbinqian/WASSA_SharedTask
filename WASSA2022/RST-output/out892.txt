@@ -1,0 +1,25 @@
+=====================> [[('Hello , I have just read this article', None, None, None, 0), ('and have to say', None, None, None, 0), ('that it was a very good and interesting read .', None, None, None, 1), ('It is about the Chartered Institute of Environmental Health and they discuss', None, None, None, 0), ('how smoking should be banned in all parks , zoos , and playgrounds', None, None, None, 0), ('to reduce the chances of children growing up', None, None, None, 0), ('thinking', None, None, None, 0), ('that using cigarettes is normal .', None, None, None, 1), ('I can see', None, None, None, 0), ('why some might say', None, None, None, 0), ('that this is the last step', None, None, None, 0), ('before criminalization of the product and consumer .', None, None, None, 1)]]
+Leaf:  N Evaluation Hello , I have just read this article
+Leaf:  S span and have to say
+Leaf:  N Attribution that it was a very good and interesting read .
+Inner:  N Evaluation None Attribution SN
+Inner:  N Elaborate None Evaluation NN
+Leaf:  S span It is about the Chartered Institute of Environmental Health and they discuss
+Leaf:  N Enablement how smoking should be banned in all parks , zoos , and playgrounds
+Leaf:  N Elaborate to reduce the chances of children growing up
+Leaf:  S span thinking
+Leaf:  N Attribution that using cigarettes is normal .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I can see
+Leaf:  S span why some might say
+Leaf:  N Elaborate that this is the last step
+Leaf:  S span before criminalization of the product and consumer .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hello , I have just read this article', None, None, None, 0), ('and have to say', None, None, None, 0), ('that it was a very good and interesting read .', None, None, None, 1), ('It is about the Chartered Institute of Environmental Health and they discuss', None, None, None, 0), ('how smoking should be banned in all parks , zoos , and playgrounds', None, None, None, 0), ('to reduce the chances of children growing up', None, None, None, 0), ('thinking', None, None, None, 0), ('that using cigarettes is normal .', None, None, None, 1), ('I can see', None, None, None, 0), ('why some might say', None, None, None, 0), ('that this is the last step', None, None, None, 0), ('before criminalization of the product and consumer .', None, None, None, 1)]

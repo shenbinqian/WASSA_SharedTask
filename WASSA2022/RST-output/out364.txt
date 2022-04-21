@@ -1,0 +1,25 @@
+=====================> [[('I really am sick of these pseudo scientists', None, None, None, 0), ('running around', None, None, None, 0), ('screaming', None, None, None, 0), ('the sky is falling .', None, None, None, 1), ('It is a load of garbage science .', None, None, None, 1), ('The take a snapshot of the earth , a vastly complicated system with millions of variables', None, None, None, 0), ('that is in constant flux and motion .', None, None, None, 1), ('They plug this into a model with a couple of hundred hand picked variables', None, None, None, 0), ('and pronounce', None, None, None, 0), ('that we are all doomed .', None, None, None, 1), ('It is bad science', None, None, None, 0), ('and everyone knows it .', None, None, None, 1)]]
+Leaf:  N Elaborate I really am sick of these pseudo scientists
+Leaf:  N Enablement running around
+Leaf:  S span screaming
+Leaf:  N Attribution the sky is falling .
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is a load of garbage science .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The take a snapshot of the earth , a vastly complicated system with millions of variables
+Leaf:  S span that is in constant flux and motion .
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal They plug this into a model with a couple of hundred hand picked variables
+Leaf:  S span and pronounce
+Leaf:  N Attribution that we are all doomed .
+Inner:  N Temporal None Attribution SN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Joint It is bad science
+Leaf:  N Joint and everyone knows it .
+Inner:  S span None Joint NN
+Inner:  N Temporal None Evaluation NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Elaborate NS
+[('I really am sick of these pseudo scientists', None, None, None, 0), ('running around', None, None, None, 0), ('screaming', None, None, None, 0), ('the sky is falling .', None, None, None, 1), ('It is a load of garbage science .', None, None, None, 1), ('The take a snapshot of the earth , a vastly complicated system with millions of variables', None, None, None, 0), ('that is in constant flux and motion .', None, None, None, 1), ('They plug this into a model with a couple of hundred hand picked variables', None, None, None, 0), ('and pronounce', None, None, None, 0), ('that we are all doomed .', None, None, None, 1), ('It is bad science', None, None, None, 0), ('and everyone knows it .', None, None, None, 1)]

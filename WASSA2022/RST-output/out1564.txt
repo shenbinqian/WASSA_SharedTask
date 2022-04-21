@@ -1,0 +1,23 @@
+=====================> [[('I knew', None, None, None, 0), ("trump really doesnt ' believe fully in the climate change", None, None, None, 0), ("and that it 's caused my human actions .", None, None, None, 1), ("I think he 's putting this topic on the back burner", None, None, None, 0), ('since there are more important things', None, None, None, 0), ('to concentrate .', None, None, None, 1), ('I have to say', None, None, None, 0), ('I agree with him', None, None, None, 0), ('but at some point during his presidency , it should be looked at and see what kind of changes ,', None, None, None, 0), ('if any need to take place ,', None, None, None, 0), ('and then make them happen', None, None, None, 0)]]
+Leaf:  S span I knew
+Leaf:  N Joint trump really doesnt ' believe fully in the climate change
+Leaf:  N Joint and that it 's caused my human actions .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation I think he 's putting this topic on the back burner
+Leaf:  N Elaborate since there are more important things
+Leaf:  S span to concentrate .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I have to say
+Leaf:  S span I agree with him
+Leaf:  N Elaborate but at some point during his presidency , it should be looked at and see what kind of changes ,
+Leaf:  S span if any need to take place ,
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal and then make them happen
+Inner:  N Contrast None Temporal NN
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I knew', None, None, None, 0), ("trump really doesnt ' believe fully in the climate change", None, None, None, 0), ("and that it 's caused my human actions .", None, None, None, 1), ("I think he 's putting this topic on the back burner", None, None, None, 0), ('since there are more important things', None, None, None, 0), ('to concentrate .', None, None, None, 1), ('I have to say', None, None, None, 0), ('I agree with him', None, None, None, 0), ('but at some point during his presidency , it should be looked at and see what kind of changes ,', None, None, None, 0), ('if any need to take place ,', None, None, None, 0), ('and then make them happen', None, None, None, 0)]

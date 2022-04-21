@@ -1,0 +1,29 @@
+=====================> [[('hello brother I hope', None, None, None, 0), ('you are well these days', None, None, None, 0), ('and thought a lot about you', None, None, None, 0), ('and more', None, None, None, 0), ('when I see the news', None, None, None, 0), ('I find out', None, None, None, 0), ('that Saudi Arabia is struggling to expand its territory', None, None, None, 0), ('no matter what this pado should take care', None, None, None, 0), ('of being there', None, None, None, 0), ('is very dangerous', None, None, None, 0), ('so be careful', None, None, None, 0), ('I hope', None, None, None, 0), ('you take care of yourself', None, None, None, 0), ('and think of us', None, None, None, 0)]]
+Leaf:  S span hello brother I hope
+Leaf:  N Joint you are well these days
+Leaf:  N Joint and thought a lot about you
+Inner:  N Temporal None Joint NN
+Leaf:  N Temporal and more
+Inner:  N Attribution None Temporal NN
+Inner:  N Temporal None Attribution SN
+Leaf:  S span when I see the news
+Inner:  N Same-Unit None Temporal NS
+Leaf:  S span I find out
+Leaf:  N Contrast that Saudi Arabia is struggling to expand its territory
+Leaf:  N Evaluation no matter what this pado should take care
+Leaf:  S span of being there
+Inner:  S span None Evaluation NS
+Inner:  N Same-Unit None Contrast NS
+Leaf:  N Same-Unit is very dangerous
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate so be careful
+Leaf:  S span I hope
+Leaf:  N Joint you take care of yourself
+Leaf:  N Joint and think of us
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('hello brother I hope', None, None, None, 0), ('you are well these days', None, None, None, 0), ('and thought a lot about you', None, None, None, 0), ('and more', None, None, None, 0), ('when I see the news', None, None, None, 0), ('I find out', None, None, None, 0), ('that Saudi Arabia is struggling to expand its territory', None, None, None, 0), ('no matter what this pado should take care', None, None, None, 0), ('of being there', None, None, None, 0), ('is very dangerous', None, None, None, 0), ('so be careful', None, None, None, 0), ('I hope', None, None, None, 0), ('you take care of yourself', None, None, None, 0), ('and think of us', None, None, None, 0)]

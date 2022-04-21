@@ -1,0 +1,31 @@
+=====================> [[('you will not believe', None, None, None, 0), ('the crazy article', None, None, None, 0), ('i just read .', None, None, None, 1), ('Let me tell you about it .', None, None, None, 1), ('The article was about a man', None, None, None, 0), ('who had killed himself', None, None, None, 0), ('after killing his wife', None, None, None, 0), ('and the main thing', None, None, None, 0), ('that was being questioned', None, None, None, 0), ('was " why did he have to die ? " What ??? I do n\'t understand', None, None, None, 0), ("why they are n't looking into why he killed his wife", None, None, None, 0), ("since they do n't know .", None, None, None, 1), ('Its pretty easy to speculate', None, None, None, 0), ('why he killed himself .', None, None, None, 1), ("I just do n't even know what to think about this article .", None, None, None, 1)]]
+Leaf:  S span you will not believe
+Leaf:  N Elaborate the crazy article
+Leaf:  S span i just read .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Let me tell you about it .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The article was about a man
+Leaf:  N Background who had killed himself
+Leaf:  S span after killing his wife
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and the main thing
+Leaf:  S span that was being questioned
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span was " why did he have to die ? " What ??? I do n't understand
+Leaf:  N Explanation why they are n't looking into why he killed his wife
+Leaf:  S span since they do n't know .
+Inner:  N Attribution None Explanation NS
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Background None Same-Unit NN
+Inner:  N Joint None Background SN
+Leaf:  S span Its pretty easy to speculate
+Leaf:  N Attribution why he killed himself .
+Inner:  N Joint None Attribution SN
+Inner:  N Summary None Joint NN
+Leaf:  S span I just do n't even know what to think about this article .
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('you will not believe', None, None, None, 0), ('the crazy article', None, None, None, 0), ('i just read .', None, None, None, 1), ('Let me tell you about it .', None, None, None, 1), ('The article was about a man', None, None, None, 0), ('who had killed himself', None, None, None, 0), ('after killing his wife', None, None, None, 0), ('and the main thing', None, None, None, 0), ('that was being questioned', None, None, None, 0), ('was " why did he have to die ? " What ??? I do n\'t understand', None, None, None, 0), ("why they are n't looking into why he killed his wife", None, None, None, 0), ("since they do n't know .", None, None, None, 1), ('Its pretty easy to speculate', None, None, None, 0), ('why he killed himself .', None, None, None, 1), ("I just do n't even know what to think about this article .", None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('Another presumably liberal leaning teacher has been placed on leave', None, None, None, 0), ('after comparing Donald Trump to Adolf Hitler .', None, None, None, 1), ('He claims', None, None, None, 0), ('his statements are all backed by historical facts .', None, None, None, 1), ("I support the school district 's decision", None, None, None, 0), ('to suspend him .', None, None, None, 1), ('If statements like this had been made about Barack Obama ,', None, None, None, 0), ('it would likely be all over nightly news .', None, None, None, 1)]]
+Leaf:  N Background Another presumably liberal leaning teacher has been placed on leave
+Leaf:  S span after comparing Donald Trump to Adolf Hitler .
+Inner:  N Elaborate None Background NS
+Leaf:  S span He claims
+Leaf:  N Attribution his statements are all backed by historical facts .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I support the school district 's decision
+Leaf:  S span to suspend him .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span If statements like this had been made about Barack Obama ,
+Leaf:  N Condition it would likely be all over nightly news .
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('Another presumably liberal leaning teacher has been placed on leave', None, None, None, 0), ('after comparing Donald Trump to Adolf Hitler .', None, None, None, 1), ('He claims', None, None, None, 0), ('his statements are all backed by historical facts .', None, None, None, 1), ("I support the school district 's decision", None, None, None, 0), ('to suspend him .', None, None, None, 1), ('If statements like this had been made about Barack Obama ,', None, None, None, 0), ('it would likely be all over nightly news .', None, None, None, 1)]

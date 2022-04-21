@@ -1,0 +1,17 @@
+=====================> [[('Humans think', None, None, None, 0), ('they control the world and everything in it .', None, None, None, 1), ('This wolf broke away from its pack', None, None, None, 0), ('searching for a mate', None, None, None, 0), ('and intended no harm , but yet , humans , empowered snipers', None, None, None, 0), ('to be exact ,', None, None, None, 0), ('quickly put an end to the life of a living being', None, None, None, 0), ("-- for what ? It 's a shame to see that humans do not respect the lives of anything else on this planet .", None, None, None, 1)]]
+Leaf:  S span Humans think
+Leaf:  N Attribution they control the world and everything in it .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate This wolf broke away from its pack
+Leaf:  S span searching for a mate
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and intended no harm , but yet , humans , empowered snipers
+Leaf:  S span to be exact ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit quickly put an end to the life of a living being
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span -- for what ? It 's a shame to see that humans do not respect the lives of anything else on this planet .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Humans think', None, None, None, 0), ('they control the world and everything in it .', None, None, None, 1), ('This wolf broke away from its pack', None, None, None, 0), ('searching for a mate', None, None, None, 0), ('and intended no harm , but yet , humans , empowered snipers', None, None, None, 0), ('to be exact ,', None, None, None, 0), ('quickly put an end to the life of a living being', None, None, None, 0), ("-- for what ? It 's a shame to see that humans do not respect the lives of anything else on this planet .", None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('Just read an article about Mariah Carey , not sure why', None, None, None, 0), ('as it seemed pretty gossipy .', None, None, None, 1), ('Apparently she is on a yacht or something with someone', None, None, None, 0), ('who made her ex pretty jealous . Seems like the ex was right on target with his read of the guy .', None, None, None, 1), ('Good for Mariah', None, None, None, 0), ('for moving on I guess .', None, None, None, 1), ('Hope the sushi was good ,', None, None, None, 0), ('watch out for intestinal parasites !', None, None, None, 1)]]
+Leaf:  N Explanation Just read an article about Mariah Carey , not sure why
+Leaf:  S span as it seemed pretty gossipy .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Apparently she is on a yacht or something with someone
+Leaf:  S span who made her ex pretty jealous . Seems like the ex was right on target with his read of the guy .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Good for Mariah
+Leaf:  S span for moving on I guess .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Hope the sushi was good ,
+Leaf:  S span watch out for intestinal parasites !
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Just read an article about Mariah Carey , not sure why', None, None, None, 0), ('as it seemed pretty gossipy .', None, None, None, 1), ('Apparently she is on a yacht or something with someone', None, None, None, 0), ('who made her ex pretty jealous . Seems like the ex was right on target with his read of the guy .', None, None, None, 1), ('Good for Mariah', None, None, None, 0), ('for moving on I guess .', None, None, None, 1), ('Hope the sushi was good ,', None, None, None, 0), ('watch out for intestinal parasites !', None, None, None, 1)]

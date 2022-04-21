@@ -1,0 +1,27 @@
+=====================> [[('Michael Moore did it again !', None, None, None, 1), ('The man might not be much to look at ,', None, None, None, 0), ('but he continually nails liberals social values with an iron fist .', None, None, None, 1), ("This time it was him predicting Trump 's victory in a film ,", None, None, None, 0), ('but what next ? He is serving as a light post for liberals ,', None, None, None, 0), ('trying to wake them up', None, None, None, 0), ('that aspects of the Democratic party are out of tune with the greater American people ,', None, None, None, 0), ('but will they listen ? Trump won for many reasons ,', None, None, None, 0), ('and', None, None, None, 0), ('while he encourages liberals to tell', None, None, None, 0), ('their conservative friends Hillary " won the popular vote , "', None, None, None, 0), ('What good will that even do ?', None, None, None, 1), ('The time for liberals to get better in-tune with the needs of the greater american conservative public has long since passed ...', None, None, None, 1)]]
+Leaf:  N Elaborate Michael Moore did it again !
+Leaf:  S span The man might not be much to look at ,
+Leaf:  N Background but he continually nails liberals social values with an iron fist .
+Leaf:  S span This time it was him predicting Trump 's victory in a film ,
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast SN
+Leaf:  N Elaborate but what next ? He is serving as a light post for liberals ,
+Leaf:  S span trying to wake them up
+Leaf:  N Attribution that aspects of the Democratic party are out of tune with the greater American people ,
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but will they listen ? Trump won for many reasons ,
+Inner:  N Joint None Contrast SN
+Leaf:  N Same-Unit and
+Leaf:  S span while he encourages liberals to tell
+Leaf:  N Attribution their conservative friends Hillary " won the popular vote , "
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span What good will that even do ?
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The time for liberals to get better in-tune with the needs of the greater american conservative public has long since passed ...
+Inner:  Root None None Evaluation NS
+[('Michael Moore did it again !', None, None, None, 1), ('The man might not be much to look at ,', None, None, None, 0), ('but he continually nails liberals social values with an iron fist .', None, None, None, 1), ("This time it was him predicting Trump 's victory in a film ,", None, None, None, 0), ('but what next ? He is serving as a light post for liberals ,', None, None, None, 0), ('trying to wake them up', None, None, None, 0), ('that aspects of the Democratic party are out of tune with the greater American people ,', None, None, None, 0), ('but will they listen ? Trump won for many reasons ,', None, None, None, 0), ('and', None, None, None, 0), ('while he encourages liberals to tell', None, None, None, 0), ('their conservative friends Hillary " won the popular vote , "', None, None, None, 0), ('What good will that even do ?', None, None, None, 1), ('The time for liberals to get better in-tune with the needs of the greater american conservative public has long since passed ...', None, None, None, 1)]

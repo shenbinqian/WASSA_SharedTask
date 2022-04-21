@@ -1,0 +1,31 @@
+=====================> [[('Megyn Kelly during an interview ,', None, None, None, 0), ('repeatedly shaking his finger at her', None, None, None, 0), ('and accusing her of being “ fascinated with sex ”', None, None, None, 0), ('because she brought up allegations of sexual assault against Trump . In a scolding tone , Gingrich tried to tell Kelly', None, None, None, 0), ('which words', None, None, None, 0), ('she could or could not use .', None, None, None, 1), ('Gingrich once had a fascination of his own with Bill Clinton ’s sex life ,', None, None, None, 0), ('as he was a driving force behind the movement', None, None, None, 0), ('to impeach Clinton', None, None, None, 0), ('following a consensual sexual relationship', None, None, None, 0), ('he had with a young former intern .', None, None, None, 1), ('Clinton became the second president in American history to be impeached by the House ,', None, None, None, 0), ('but he was acquitted by the Senate . Voters , meanwhile , punished the Republicans for what they saw as an overreach :', None, None, None, 0), ('The GOP lost five House seats in the 1998 midterm elections ,', None, None, None, 0), ('which led to Gingrich ’s resignation as speaker .', None, None, None, 1)]]
+Leaf:  N Elaborate Megyn Kelly during an interview ,
+Leaf:  N Joint repeatedly shaking his finger at her
+Leaf:  N Joint and accusing her of being “ fascinated with sex ”
+Inner:  N Explanation None Joint NN
+Leaf:  S span because she brought up allegations of sexual assault against Trump . In a scolding tone , Gingrich tried to tell Kelly
+Leaf:  N Elaborate which words
+Leaf:  S span she could or could not use .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Gingrich once had a fascination of his own with Bill Clinton ’s sex life ,
+Leaf:  N Elaborate as he was a driving force behind the movement
+Leaf:  N Background to impeach Clinton
+Leaf:  N Elaborate following a consensual sexual relationship
+Leaf:  S span he had with a young former intern .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Clinton became the second president in American history to be impeached by the House ,
+Leaf:  N Contrast but he was acquitted by the Senate . Voters , meanwhile , punished the Republicans for what they saw as an overreach :
+Inner:  N Explanation None Contrast SN
+Leaf:  N Cause The GOP lost five House seats in the 1998 midterm elections ,
+Leaf:  S span which led to Gingrich ’s resignation as speaker .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Megyn Kelly during an interview ,', None, None, None, 0), ('repeatedly shaking his finger at her', None, None, None, 0), ('and accusing her of being “ fascinated with sex ”', None, None, None, 0), ('because she brought up allegations of sexual assault against Trump . In a scolding tone , Gingrich tried to tell Kelly', None, None, None, 0), ('which words', None, None, None, 0), ('she could or could not use .', None, None, None, 1), ('Gingrich once had a fascination of his own with Bill Clinton ’s sex life ,', None, None, None, 0), ('as he was a driving force behind the movement', None, None, None, 0), ('to impeach Clinton', None, None, None, 0), ('following a consensual sexual relationship', None, None, None, 0), ('he had with a young former intern .', None, None, None, 1), ('Clinton became the second president in American history to be impeached by the House ,', None, None, None, 0), ('but he was acquitted by the Senate . Voters , meanwhile , punished the Republicans for what they saw as an overreach :', None, None, None, 0), ('The GOP lost five House seats in the 1998 midterm elections ,', None, None, None, 0), ('which led to Gingrich ’s resignation as speaker .', None, None, None, 1)]

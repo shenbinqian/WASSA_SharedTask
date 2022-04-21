@@ -1,0 +1,21 @@
+=====================> [[("I 've been reading about the drastic increase in migrants", None, None, None, 0), ('trying to get from Africa to Europe across the Mediterranean Sea .', None, None, None, 1), ('This year has seen large amounts of people', None, None, None, 0), ('seeking refuge in Europe ,', None, None, None, 0), ('and large increases in fatalities for those', None, None, None, 0), ('attempting the crossing .', None, None, None, 1), ('These people are fleeing desperate conditions in hope of a better life', None, None, None, 0), ('and are attempting risky crossings', None, None, None, 0), ('because there are not enough safe ways', None, None, None, 0), ('to migrate .', None, None, None, 1)]]
+Leaf:  N Elaborate I 've been reading about the drastic increase in migrants
+Leaf:  S span trying to get from Africa to Europe across the Mediterranean Sea .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This year has seen large amounts of people
+Leaf:  S span seeking refuge in Europe ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and large increases in fatalities for those
+Leaf:  S span attempting the crossing .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint These people are fleeing desperate conditions in hope of a better life
+Leaf:  N Explanation and are attempting risky crossings
+Leaf:  N Elaborate because there are not enough safe ways
+Leaf:  S span to migrate .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I 've been reading about the drastic increase in migrants", None, None, None, 0), ('trying to get from Africa to Europe across the Mediterranean Sea .', None, None, None, 1), ('This year has seen large amounts of people', None, None, None, 0), ('seeking refuge in Europe ,', None, None, None, 0), ('and large increases in fatalities for those', None, None, None, 0), ('attempting the crossing .', None, None, None, 1), ('These people are fleeing desperate conditions in hope of a better life', None, None, None, 0), ('and are attempting risky crossings', None, None, None, 0), ('because there are not enough safe ways', None, None, None, 0), ('to migrate .', None, None, None, 1)]

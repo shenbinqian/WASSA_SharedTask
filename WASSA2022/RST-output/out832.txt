@@ -1,0 +1,25 @@
+=====================> [[('While reading this ,', None, None, None, 0), ("I ca n't help", None, None, None, 0), ('but think', None, None, None, 0), ('about how much of politics nowadays is about money .', None, None, None, 1), ('How many millions of dollars is spent', None, None, None, 0), ('trying to convince people', None, None, None, 0), ('that someone is a good person and right for the job .', None, None, None, 1), ('It should be like any other position .', None, None, None, 1), ('Work hard . Do good .', None, None, None, 1), ('Build a resume', None, None, None, 0), ('you can be proud of', None, None, None, 0), ('and let that speak for itself !', None, None, None, 1)]]
+Leaf:  S span While reading this ,
+Leaf:  N Background I ca n't help
+Inner:  S span None Background SN
+Leaf:  N Background but think
+Inner:  S span None Background SN
+Leaf:  N Attribution about how much of politics nowadays is about money .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement How many millions of dollars is spent
+Leaf:  S span trying to convince people
+Leaf:  N Attribution that someone is a good person and right for the job .
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It should be like any other position .
+Leaf:  N Joint Work hard . Do good .
+Leaf:  N Elaborate Build a resume
+Leaf:  N Joint you can be proud of
+Leaf:  N Joint and let that speak for itself !
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('While reading this ,', None, None, None, 0), ("I ca n't help", None, None, None, 0), ('but think', None, None, None, 0), ('about how much of politics nowadays is about money .', None, None, None, 1), ('How many millions of dollars is spent', None, None, None, 0), ('trying to convince people', None, None, None, 0), ('that someone is a good person and right for the job .', None, None, None, 1), ('It should be like any other position .', None, None, None, 1), ('Work hard . Do good .', None, None, None, 1), ('Build a resume', None, None, None, 0), ('you can be proud of', None, None, None, 0), ('and let that speak for itself !', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('It looks like Wells Fargo was illegally confiscating cars of service members', None, None, None, 0), ('to pay off debts ,', None, None, None, 0), ('repossessing them .', None, None, None, 1), ('This is a terrible situation', None, None, None, 0), ('and thing to do ,', None, None, None, 0), ("I ca n't imagine having my car repossessed ,", None, None, None, 0), ('and how awful that must be on so many levels .', None, None, None, 1), ('Not having your car ,', None, None, None, 0), ('having', None, None, None, 0), ('to watch them', None, None, None, 0), ('take it away ,', None, None, None, 0), ('and everything .', None, None, None, 1)]]
+Leaf:  N Enablement It looks like Wells Fargo was illegally confiscating cars of service members
+Leaf:  S span to pay off debts ,
+Inner:  N Enablement None Enablement NS
+Leaf:  S span repossessing them .
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Elaborate This is a terrible situation
+Leaf:  S span and thing to do ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I ca n't imagine having my car repossessed ,
+Leaf:  S span and how awful that must be on so many levels .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint Not having your car ,
+Leaf:  N Elaborate having
+Leaf:  N Elaborate to watch them
+Leaf:  S span take it away ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and everything .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('It looks like Wells Fargo was illegally confiscating cars of service members', None, None, None, 0), ('to pay off debts ,', None, None, None, 0), ('repossessing them .', None, None, None, 1), ('This is a terrible situation', None, None, None, 0), ('and thing to do ,', None, None, None, 0), ("I ca n't imagine having my car repossessed ,", None, None, None, 0), ('and how awful that must be on so many levels .', None, None, None, 1), ('Not having your car ,', None, None, None, 0), ('having', None, None, None, 0), ('to watch them', None, None, None, 0), ('take it away ,', None, None, None, 0), ('and everything .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('I think', None, None, None, 0), ('the situation in allepo is really dire .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why the syrian government is trying to harm the people there', None, None, None, 0), ("whey they did n't do anything wrong .", None, None, None, 1), ('I think', None, None, None, 0), ('the whole situation is really sad and that a lot of innocent people are getting hurt for no reason .', None, None, None, 1), ('War is awful', None, None, None, 0), ('and I hope', None, None, None, 0), ("that there 's a solution to it soon .", None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that the UN is trying to do something ,', None, None, None, 0), ("but I just do n't think", None, None, None, 0), ("that it 's enough .", None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution the situation in allepo is really dire .
+Inner:  N Summary None Attribution SN
+Leaf:  S span I do n't understand
+Leaf:  N Elaborate why the syrian government is trying to harm the people there
+Leaf:  S span whey they did n't do anything wrong .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution the whole situation is really sad and that a lot of innocent people are getting hurt for no reason .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint War is awful
+Leaf:  S span and I hope
+Leaf:  N Attribution that there 's a solution to it soon .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I 'm glad
+Leaf:  N Attribution that the UN is trying to do something ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I just do n't think
+Leaf:  N Attribution that it 's enough .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('the situation in allepo is really dire .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why the syrian government is trying to harm the people there', None, None, None, 0), ("whey they did n't do anything wrong .", None, None, None, 1), ('I think', None, None, None, 0), ('the whole situation is really sad and that a lot of innocent people are getting hurt for no reason .', None, None, None, 1), ('War is awful', None, None, None, 0), ('and I hope', None, None, None, 0), ("that there 's a solution to it soon .", None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that the UN is trying to do something ,', None, None, None, 0), ("but I just do n't think", None, None, None, 0), ("that it 's enough .", None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[("I do n't really understand the uproar over some birds .", None, None, None, 1), ('Maybe I am being just unsympathetic ,', None, None, None, 0), ("or maybe I 'm not as understanding", None, None, None, 0), ('as I thought', None, None, None, 0), ('I originally was .', None, None, None, 1), ('To spend all this money ,', None, None, None, 0), ('and all this time ,', None, None, None, 0), ('to save these birds ,', None, None, None, 0), ('seems kind of silly to me .', None, None, None, 1), ("Why do n't we focus the funds on something", None, None, None, 0), ('else', None, None, None, 0), ('that actually helps people ?', None, None, None, 1)]]
+Leaf:  N Evaluation I do n't really understand the uproar over some birds .
+Leaf:  N Joint Maybe I am being just unsympathetic ,
+Leaf:  N Comparison or maybe I 'm not as understanding
+Leaf:  N Elaborate as I thought
+Leaf:  S span I originally was .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint To spend all this money ,
+Leaf:  N Enablement and all this time ,
+Leaf:  S span to save these birds ,
+Inner:  N Joint None Enablement NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit seems kind of silly to me .
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate Why do n't we focus the funds on something
+Leaf:  N Elaborate else
+Leaf:  S span that actually helps people ?
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("I do n't really understand the uproar over some birds .", None, None, None, 1), ('Maybe I am being just unsympathetic ,', None, None, None, 0), ("or maybe I 'm not as understanding", None, None, None, 0), ('as I thought', None, None, None, 0), ('I originally was .', None, None, None, 1), ('To spend all this money ,', None, None, None, 0), ('and all this time ,', None, None, None, 0), ('to save these birds ,', None, None, None, 0), ('seems kind of silly to me .', None, None, None, 1), ("Why do n't we focus the funds on something", None, None, None, 0), ('else', None, None, None, 0), ('that actually helps people ?', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('What this also taught me is that I think', None, None, None, 0), ('poverty teaches you to value anything and everything', None, None, None, 0), ('you have . .', None, None, None, 1), ('importance of friends , importance of one time meal , importance of tiniest thing in your life . .', None, None, None, 1), ('It teaches you to survive on bare minimum .', None, None, None, 1), ('Poverty teaches gratitude .', None, None, None, 1), ('Some of the most happy people in the world are those people', None, None, None, 0), ('who have the least .', None, None, None, 1), ("When you are n't flooded with tons of material goods", None, None, None, 0), ('you can focus more on the simple things', None, None, None, 0), ('that you do have .', None, None, None, 1), ('Look at Brazil', None, None, None, 0), ('the have to struggle to eat', None, None, None, 0), ("but it 's what keeps them humble .", None, None, None, 1)]]
+Leaf:  S span What this also taught me is that I think
+Leaf:  N Elaborate poverty teaches you to value anything and everything
+Leaf:  S span you have . .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint importance of friends , importance of one time meal , importance of tiniest thing in your life . .
+Leaf:  N Joint It teaches you to survive on bare minimum .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Poverty teaches gratitude .
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Some of the most happy people in the world are those people
+Leaf:  S span who have the least .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span When you are n't flooded with tons of material goods
+Leaf:  N Elaborate you can focus more on the simple things
+Leaf:  S span that you do have .
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Same-Unit Look at Brazil
+Leaf:  N Same-Unit the have to struggle to eat
+Inner:  S span None Same-Unit NN
+Leaf:  N Contrast but it 's what keeps them humble .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('What this also taught me is that I think', None, None, None, 0), ('poverty teaches you to value anything and everything', None, None, None, 0), ('you have . .', None, None, None, 1), ('importance of friends , importance of one time meal , importance of tiniest thing in your life . .', None, None, None, 1), ('It teaches you to survive on bare minimum .', None, None, None, 1), ('Poverty teaches gratitude .', None, None, None, 1), ('Some of the most happy people in the world are those people', None, None, None, 0), ('who have the least .', None, None, None, 1), ("When you are n't flooded with tons of material goods", None, None, None, 0), ('you can focus more on the simple things', None, None, None, 0), ('that you do have .', None, None, None, 1), ('Look at Brazil', None, None, None, 0), ('the have to struggle to eat', None, None, None, 0), ("but it 's what keeps them humble .", None, None, None, 1)]

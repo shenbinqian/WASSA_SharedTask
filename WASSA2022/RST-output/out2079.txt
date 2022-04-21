@@ -1,0 +1,41 @@
+=====================> [[("I really did n't realize", None, None, None, 0), ('how far the oppression of women in Saudi Arabia went .', None, None, None, 1), ('I knew some of the points', None, None, None, 0), ("but definitely did n't realize", None, None, None, 0), ('a woman always had a male guardian .', None, None, None, 1), ("I did n't realize", None, None, None, 0), ('if her husband died ,', None, None, None, 0), ('her son could become her guardian .', None, None, None, 1), ('Where is the dignity in that ?', None, None, None, 1), ('Can you imagine how bad it would feel to need permission', None, None, None, 0), ('to work , go to school , rent an apartment ,', None, None, None, 0), ('do anything you want basically ? And to need to get permission from your own child ? Imagine rasing a child , feeding him ,', None, None, None, 0), ('chaging his diapers ,', None, None, None, 0), ("teaching him how to act ... and then suddenly needing that child 's permission", None, None, None, 0), ('to do anything', None, None, None, 0), ("or have to get his signature on anything . That 's so demoralizing . Women really are treated like property there .", None, None, None, 1), ('I hope', None, None, None, 0), ('they get the changes', None, None, None, 0), ('they deserve', None, None, None, 0), ("but it 's scary to think of the power strug", None, None, None, 0)]]
+Leaf:  S span I really did n't realize
+Leaf:  N Attribution how far the oppression of women in Saudi Arabia went .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast I knew some of the points
+Leaf:  S span but definitely did n't realize
+Leaf:  N Attribution a woman always had a male guardian .
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast NN
+Leaf:  S span I did n't realize
+Leaf:  S span if her husband died ,
+Leaf:  N Condition her son could become her guardian .
+Inner:  N Attribution None Condition SN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Where is the dignity in that ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Can you imagine how bad it would feel to need permission
+Leaf:  N Joint to work , go to school , rent an apartment ,
+Leaf:  N Joint do anything you want basically ? And to need to get permission from your own child ? Imagine rasing a child , feeding him ,
+Inner:  N Joint None Joint NN
+Leaf:  N Joint chaging his diapers ,
+Leaf:  N Elaborate teaching him how to act ... and then suddenly needing that child 's permission
+Leaf:  N Joint to do anything
+Leaf:  N Joint or have to get his signature on anything . That 's so demoralizing . Women really are treated like property there .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate they get the changes
+Leaf:  S span they deserve
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but it 's scary to think of the power strug
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[("I really did n't realize", None, None, None, 0), ('how far the oppression of women in Saudi Arabia went .', None, None, None, 1), ('I knew some of the points', None, None, None, 0), ("but definitely did n't realize", None, None, None, 0), ('a woman always had a male guardian .', None, None, None, 1), ("I did n't realize", None, None, None, 0), ('if her husband died ,', None, None, None, 0), ('her son could become her guardian .', None, None, None, 1), ('Where is the dignity in that ?', None, None, None, 1), ('Can you imagine how bad it would feel to need permission', None, None, None, 0), ('to work , go to school , rent an apartment ,', None, None, None, 0), ('do anything you want basically ? And to need to get permission from your own child ? Imagine rasing a child , feeding him ,', None, None, None, 0), ('chaging his diapers ,', None, None, None, 0), ("teaching him how to act ... and then suddenly needing that child 's permission", None, None, None, 0), ('to do anything', None, None, None, 0), ("or have to get his signature on anything . That 's so demoralizing . Women really are treated like property there .", None, None, None, 1), ('I hope', None, None, None, 0), ('they get the changes', None, None, None, 0), ('they deserve', None, None, None, 0), ("but it 's scary to think of the power strug", None, None, None, 0)]

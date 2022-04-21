@@ -1,0 +1,29 @@
+=====================> [[('This is such a sad story .', None, None, None, 1), ('I blame the owner of the dog .', None, None, None, 1), ('She should not have had her dog off leash .', None, None, None, 1), ('A big dog like that can really scare someone .', None, None, None, 1), ('Not everyone is a dog lover', None, None, None, 0), ('like we are .', None, None, None, 1), ('Poor Macie had to feel the pain', None, None, None, 0), ("because her owner was n't doing the right thing .", None, None, None, 1), ('Perhaps the fine', None, None, None, 0), ('for having dogs off leash', None, None, None, 0), ('will result in people not taking their dogs off leash', None, None, None, 0), ('when they walk .', None, None, None, 1), ('Take them to a dog park', None, None, None, 0), ('and let them run .', None, None, None, 1)]]
+Leaf:  N Elaborate This is such a sad story .
+Leaf:  N Elaborate I blame the owner of the dog .
+Leaf:  S span She should not have had her dog off leash .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span A big dog like that can really scare someone .
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Comparison Not everyone is a dog lover
+Leaf:  S span like we are .
+Inner:  S span None Comparison NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause Poor Macie had to feel the pain
+Leaf:  S span because her owner was n't doing the right thing .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Perhaps the fine
+Leaf:  S span for having dogs off leash
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Background will result in people not taking their dogs off leash
+Leaf:  S span when they walk .
+Inner:  N Same-Unit None Background NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint Take them to a dog park
+Leaf:  N Joint and let them run .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is such a sad story .', None, None, None, 1), ('I blame the owner of the dog .', None, None, None, 1), ('She should not have had her dog off leash .', None, None, None, 1), ('A big dog like that can really scare someone .', None, None, None, 1), ('Not everyone is a dog lover', None, None, None, 0), ('like we are .', None, None, None, 1), ('Poor Macie had to feel the pain', None, None, None, 0), ("because her owner was n't doing the right thing .", None, None, None, 1), ('Perhaps the fine', None, None, None, 0), ('for having dogs off leash', None, None, None, 0), ('will result in people not taking their dogs off leash', None, None, None, 0), ('when they walk .', None, None, None, 1), ('Take them to a dog park', None, None, None, 0), ('and let them run .', None, None, None, 1)]

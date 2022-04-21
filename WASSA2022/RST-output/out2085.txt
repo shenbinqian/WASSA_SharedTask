@@ -1,0 +1,31 @@
+=====================> [[('I wish', None, None, None, 0), ('that the whole system', None, None, None, 0), ('that dealt with poaching', None, None, None, 0), ('and the monitoring of it was reformed .', None, None, None, 1), ('I hate to see the statistics and scenarios', None, None, None, 0), ('that state that', None, None, None, 0), ('even when the animals are recovered ,', None, None, None, 0), ('that they still face harsh and inhumane conditions . If more people actually cared enough', None, None, None, 0), ('to make their voices heard', None, None, None, 0), ('I think', None, None, None, 0), ('things could change .', None, None, None, 1), ('If there was a central system', None, None, None, 0), ('that everybody could work', None, None, None, 0), ('in things would be a lot better of than each state/nation/city', None, None, None, 0), ('having their own policies .', None, None, None, 1)]]
+Leaf:  S span I wish
+Leaf:  N Elaborate that the whole system
+Leaf:  S span that dealt with poaching
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and the monitoring of it was reformed .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I hate to see the statistics and scenarios
+Leaf:  N Same-Unit that state that
+Leaf:  S span even when the animals are recovered ,
+Leaf:  N Enablement that they still face harsh and inhumane conditions . If more people actually cared enough
+Leaf:  S span to make their voices heard
+Inner:  N Contrast None Enablement NS
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Leaf:  N Condition I think
+Inner:  S span None Condition SN
+Leaf:  N Attribution things could change .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate If there was a central system
+Leaf:  N Same-Unit that everybody could work
+Leaf:  N Same-Unit in things would be a lot better of than each state/nation/city
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span having their own policies .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I wish', None, None, None, 0), ('that the whole system', None, None, None, 0), ('that dealt with poaching', None, None, None, 0), ('and the monitoring of it was reformed .', None, None, None, 1), ('I hate to see the statistics and scenarios', None, None, None, 0), ('that state that', None, None, None, 0), ('even when the animals are recovered ,', None, None, None, 0), ('that they still face harsh and inhumane conditions . If more people actually cared enough', None, None, None, 0), ('to make their voices heard', None, None, None, 0), ('I think', None, None, None, 0), ('things could change .', None, None, None, 1), ('If there was a central system', None, None, None, 0), ('that everybody could work', None, None, None, 0), ('in things would be a lot better of than each state/nation/city', None, None, None, 0), ('having their own policies .', None, None, None, 1)]

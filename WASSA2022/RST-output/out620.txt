@@ -1,0 +1,37 @@
+=====================> [[('It will never end ,', None, None, None, 0), ('we will made to feel guilty about anything', None, None, None, 0), ('we enjoy . Not to mention that the " scientists " have regularly been shown to be fudging the climate change numbers .', None, None, None, 1), ("They do n't want you to know that", None, None, None, 0), ('but want you to feel bad for having a cheeseburger .', None, None, None, 1), ("I do n't like the cutting down of rain forests", None, None, None, 0), ('and believe', None, None, None, 0), ('that needs to end ,', None, None, None, 0), ('but I think', None, None, None, 0), ('there are other answers .', None, None, None, 1), ('Getting rid of a great food supply is not one of them .', None, None, None, 1), ('Eating meat keeps us healthy and strong', None, None, None, 0), ('and may be the reason', None, None, None, 0), ('our brains grew to the size they did .', None, None, None, 1), ('Many politicians would want our brains to start getting smaller and more compliant .', None, None, None, 1), ('Getting rid of meat is not the answer', None, None, None, 0), ("and if we did n't waste time", None, None, None, 0), ('we could think of better solutions .', None, None, None, 1)]]
+Leaf:  N Cause It will never end ,
+Leaf:  N Elaborate we will made to feel guilty about anything
+Leaf:  S span we enjoy . Not to mention that the " scientists " have regularly been shown to be fudging the climate change numbers .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast They do n't want you to know that
+Leaf:  N Contrast but want you to feel bad for having a cheeseburger .
+Inner:  S span None Contrast NN
+Inner:  N Cause None Elaborate NS
+Inner:  N Evaluation None Cause NN
+Leaf:  N Joint I do n't like the cutting down of rain forests
+Leaf:  S span and believe
+Leaf:  N Attribution that needs to end ,
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  S span but I think
+Leaf:  N Attribution there are other answers .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Getting rid of a great food supply is not one of them .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Eating meat keeps us healthy and strong
+Leaf:  N Cause and may be the reason
+Leaf:  S span our brains grew to the size they did .
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Many politicians would want our brains to start getting smaller and more compliant .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Getting rid of meat is not the answer
+Leaf:  S span and if we did n't waste time
+Leaf:  N Condition we could think of better solutions .
+Inner:  N Joint None Condition SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('It will never end ,', None, None, None, 0), ('we will made to feel guilty about anything', None, None, None, 0), ('we enjoy . Not to mention that the " scientists " have regularly been shown to be fudging the climate change numbers .', None, None, None, 1), ("They do n't want you to know that", None, None, None, 0), ('but want you to feel bad for having a cheeseburger .', None, None, None, 1), ("I do n't like the cutting down of rain forests", None, None, None, 0), ('and believe', None, None, None, 0), ('that needs to end ,', None, None, None, 0), ('but I think', None, None, None, 0), ('there are other answers .', None, None, None, 1), ('Getting rid of a great food supply is not one of them .', None, None, None, 1), ('Eating meat keeps us healthy and strong', None, None, None, 0), ('and may be the reason', None, None, None, 0), ('our brains grew to the size they did .', None, None, None, 1), ('Many politicians would want our brains to start getting smaller and more compliant .', None, None, None, 1), ('Getting rid of meat is not the answer', None, None, None, 0), ("and if we did n't waste time", None, None, None, 0), ('we could think of better solutions .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[("I do n't understand", None, None, None, 0), ('why we continue to fight this battle .', None, None, None, 1), ('People in our military are getting killed.It is not a good sign', None, None, None, 0), ('that anything positive is happening over there .', None, None, None, 1), ('I hate reading about military deaths .', None, None, None, 1), ('It is so sad', None, None, None, 0), ('that people have to go out there', None, None, None, 0), ('and fight .', None, None, None, 1), ('It seems unfair to me that their families at home get to get the phone calls', None, None, None, 0), ('that their love ones have died', None, None, None, 0), ('regardless of the circumstances .', None, None, None, 1), ('We need to do a better job', None, None, None, 0), ('at fighting batters', None, None, None, 0), ('we actually need', None, None, None, 0), ('to fight ,', None, None, None, 0), ('vs fighting the battles of others .', None, None, None, 1)]]
+Leaf:  S span I do n't understand
+Leaf:  N Attribution why we continue to fight this battle .
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate People in our military are getting killed.It is not a good sign
+Leaf:  S span that anything positive is happening over there .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Evaluation I hate reading about military deaths .
+Leaf:  S span It is so sad
+Leaf:  N Joint that people have to go out there
+Leaf:  N Joint and fight .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It seems unfair to me that their families at home get to get the phone calls
+Leaf:  S span that their love ones have died
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span regardless of the circumstances .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate We need to do a better job
+Leaf:  N Elaborate at fighting batters
+Leaf:  N Elaborate we actually need
+Leaf:  S span to fight ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit vs fighting the battles of others .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("I do n't understand", None, None, None, 0), ('why we continue to fight this battle .', None, None, None, 1), ('People in our military are getting killed.It is not a good sign', None, None, None, 0), ('that anything positive is happening over there .', None, None, None, 1), ('I hate reading about military deaths .', None, None, None, 1), ('It is so sad', None, None, None, 0), ('that people have to go out there', None, None, None, 0), ('and fight .', None, None, None, 1), ('It seems unfair to me that their families at home get to get the phone calls', None, None, None, 0), ('that their love ones have died', None, None, None, 0), ('regardless of the circumstances .', None, None, None, 1), ('We need to do a better job', None, None, None, 0), ('at fighting batters', None, None, None, 0), ('we actually need', None, None, None, 0), ('to fight ,', None, None, None, 0), ('vs fighting the battles of others .', None, None, None, 1)]

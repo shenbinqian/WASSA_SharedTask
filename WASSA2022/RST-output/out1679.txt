@@ -1,0 +1,13 @@
+=====================> [[('This was an interesting article .', None, None, None, 1), ('I am a supporter of capital punishment ,', None, None, None, 0), ('yet I find lethal injection to be absolutely ridiculous .', None, None, None, 1), ('It costs an insane amount of money', None, None, None, 0), ('just to execute somebody with this method ,', None, None, None, 0), ('when a few bullets for less than a couple dollars would do the job just as well if not better .', None, None, None, 1)]]
+Leaf:  N Elaborate This was an interesting article .
+Leaf:  S span I am a supporter of capital punishment ,
+Leaf:  N Contrast yet I find lethal injection to be absolutely ridiculous .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Enablement It costs an insane amount of money
+Leaf:  S span just to execute somebody with this method ,
+Inner:  N Contrast None Enablement NS
+Leaf:  S span when a few bullets for less than a couple dollars would do the job just as well if not better .
+Inner:  S span None Contrast NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('This was an interesting article .', None, None, None, 1), ('I am a supporter of capital punishment ,', None, None, None, 0), ('yet I find lethal injection to be absolutely ridiculous .', None, None, None, 1), ('It costs an insane amount of money', None, None, None, 0), ('just to execute somebody with this method ,', None, None, None, 0), ('when a few bullets for less than a couple dollars would do the job just as well if not better .', None, None, None, 1)]

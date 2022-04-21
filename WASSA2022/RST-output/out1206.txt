@@ -1,0 +1,19 @@
+=====================> [[('This is a sad article .', None, None, None, 1), ('Some many things are unknown for those', None, None, None, 0), ('born outside the country .', None, None, None, 1), ('It is always unfair that others are able to get deported', None, None, None, 0), ('after spending most of their lives in the USA , especially those', None, None, None, 0), ('that came at a very early age .', None, None, None, 1), ('Also US parents', None, None, None, 0), ('that adopt children', None, None, None, 0), ('should be granted us citizenship .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a sad article .
+Leaf:  N Elaborate Some many things are unknown for those
+Leaf:  S span born outside the country .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background It is always unfair that others are able to get deported
+Leaf:  N Elaborate after spending most of their lives in the USA , especially those
+Leaf:  S span that came at a very early age .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Leaf:  N Elaborate Also US parents
+Leaf:  S span that adopt children
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be granted us citizenship .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is a sad article .', None, None, None, 1), ('Some many things are unknown for those', None, None, None, 0), ('born outside the country .', None, None, None, 1), ('It is always unfair that others are able to get deported', None, None, None, 0), ('after spending most of their lives in the USA , especially those', None, None, None, 0), ('that came at a very early age .', None, None, None, 1), ('Also US parents', None, None, None, 0), ('that adopt children', None, None, None, 0), ('should be granted us citizenship .', None, None, None, 1)]

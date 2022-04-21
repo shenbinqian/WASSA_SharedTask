@@ -1,0 +1,25 @@
+=====================> [[("It 's unfortunate what happened .", None, None, None, 1), ('If I was a politican', None, None, None, 0), ("I 'd say", None, None, None, 0), ('my heart and prayers go out to the victims affected ,', None, None, None, 0), ("but honestly ? It 's hard to feel much sympathy for people so far away .", None, None, None, 1), ('I find the governments efforts', None, None, None, 0), ('to house', None, None, None, 0), ('and protect', None, None, None, 0), ('the affected civillians admirable .', None, None, None, 1), ('We have federal agencies', None, None, None, 0), ('devoted to disaster relief in the US ,', None, None, None, 0), ('but we only go so far in helping people .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's unfortunate what happened .
+Leaf:  S span If I was a politican
+Leaf:  S span I 'd say
+Leaf:  N Attribution my heart and prayers go out to the victims affected ,
+Inner:  N Condition None Attribution SN
+Inner:  N Contrast None Condition SN
+Leaf:  S span but honestly ? It 's hard to feel much sympathy for people so far away .
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Elaborate I find the governments efforts
+Leaf:  N Joint to house
+Leaf:  N Joint and protect
+Leaf:  N Joint the affected civillians admirable .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Elaborate We have federal agencies
+Leaf:  S span devoted to disaster relief in the US ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but we only go so far in helping people .
+Inner:  N Topic-Change None Contrast NS
+Inner:  Root None None Topic-Change NN
+[("It 's unfortunate what happened .", None, None, None, 1), ('If I was a politican', None, None, None, 0), ("I 'd say", None, None, None, 0), ('my heart and prayers go out to the victims affected ,', None, None, None, 0), ("but honestly ? It 's hard to feel much sympathy for people so far away .", None, None, None, 1), ('I find the governments efforts', None, None, None, 0), ('to house', None, None, None, 0), ('and protect', None, None, None, 0), ('the affected civillians admirable .', None, None, None, 1), ('We have federal agencies', None, None, None, 0), ('devoted to disaster relief in the US ,', None, None, None, 0), ('but we only go so far in helping people .', None, None, None, 1)]

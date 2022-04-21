@@ -1,0 +1,23 @@
+=====================> [[("It 's unfortunate", None, None, None, 0), ('and it makes it difficult to want to carry on .', None, None, None, 1), ('There is a lesson here though .', None, None, None, 1), ("No matter how dark things get , you ca n't let them win .", None, None, None, 1), ('You have to keep pushing on', None, None, None, 0), ('and not let it get to you .', None, None, None, 1), ('They say', None, None, None, 0), ('that adversity builds character', None, None, None, 0), ('and it really is true .', None, None, None, 1), ('So even when bad things happen ,', None, None, None, 0), ("you ca n't let it defeat you .", None, None, None, 1)]]
+Leaf:  N Joint It 's unfortunate
+Leaf:  N Joint and it makes it difficult to want to carry on .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate There is a lesson here though .
+Leaf:  N Explanation No matter how dark things get , you ca n't let them win .
+Leaf:  N Joint You have to keep pushing on
+Leaf:  N Joint and not let it get to you .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span They say
+Leaf:  N Elaborate that adversity builds character
+Leaf:  S span and it really is true .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span So even when bad things happen ,
+Leaf:  N Contrast you ca n't let it defeat you .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's unfortunate", None, None, None, 0), ('and it makes it difficult to want to carry on .', None, None, None, 1), ('There is a lesson here though .', None, None, None, 1), ("No matter how dark things get , you ca n't let them win .", None, None, None, 1), ('You have to keep pushing on', None, None, None, 0), ('and not let it get to you .', None, None, None, 1), ('They say', None, None, None, 0), ('that adversity builds character', None, None, None, 0), ('and it really is true .', None, None, None, 1), ('So even when bad things happen ,', None, None, None, 0), ("you ca n't let it defeat you .", None, None, None, 1)]

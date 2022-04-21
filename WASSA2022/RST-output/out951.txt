@@ -1,0 +1,17 @@
+=====================> [[('I read this article about a bus', None, None, None, 0), ('that was hit a random car from out of nowhere .', None, None, None, 1), ('The bus was parked', None, None, None, 0), ('and the car just plowed into it .', None, None, None, 1), ("It 's kind of fucked up but typical . A few people were hospitalized", None, None, None, 0), ('but no one died . Anyways their investigating the crash .', None, None, None, 1), ('These types of incidents happen so often', None, None, None, 0), ("I 'm rather numb to their effects .", None, None, None, 1)]]
+Leaf:  N Elaborate I read this article about a bus
+Leaf:  S span that was hit a random car from out of nowhere .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The bus was parked
+Leaf:  N Temporal and the car just plowed into it .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast It 's kind of fucked up but typical . A few people were hospitalized
+Leaf:  N Contrast but no one died . Anyways their investigating the crash .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span These types of incidents happen so often
+Leaf:  N Background I 'm rather numb to their effects .
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('I read this article about a bus', None, None, None, 0), ('that was hit a random car from out of nowhere .', None, None, None, 1), ('The bus was parked', None, None, None, 0), ('and the car just plowed into it .', None, None, None, 1), ("It 's kind of fucked up but typical . A few people were hospitalized", None, None, None, 0), ('but no one died . Anyways their investigating the crash .', None, None, None, 1), ('These types of incidents happen so often', None, None, None, 0), ("I 'm rather numb to their effects .", None, None, None, 1)]

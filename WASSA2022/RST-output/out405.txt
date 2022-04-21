@@ -1,0 +1,27 @@
+=====================> [[('Nothing gets to me more', None, None, None, 0), ('than hearing about hungry children .', None, None, None, 1), ('Nobody should go hungry .', None, None, None, 1), ("There 's so much food in this world .", None, None, None, 1), ('It breaks my heart', None, None, None, 0), ('to hear about kids', None, None, None, 0), ('fainting in school', None, None, None, 0), ("because they 've only had one meal for the day .", None, None, None, 1), ('I wish there was a way', None, None, None, 0), ('to help these kids more directly .', None, None, None, 1), ("I 'm not one", None, None, None, 0), ('to give to large non-profit organizations', None, None, None, 0), ('but I feel so bad for these kids .', None, None, None, 1)]]
+Leaf:  N Comparison Nothing gets to me more
+Leaf:  S span than hearing about hungry children .
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Summary Nobody should go hungry .
+Leaf:  S span There 's so much food in this world .
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause It breaks my heart
+Leaf:  N Elaborate to hear about kids
+Leaf:  N Cause fainting in school
+Leaf:  S span because they 've only had one meal for the day .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Condition None Evaluation NS
+Leaf:  N Elaborate I wish there was a way
+Leaf:  S span to help these kids more directly .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Condition NS
+Leaf:  N Elaborate I 'm not one
+Leaf:  S span to give to large non-profit organizations
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but I feel so bad for these kids .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Nothing gets to me more', None, None, None, 0), ('than hearing about hungry children .', None, None, None, 1), ('Nobody should go hungry .', None, None, None, 1), ("There 's so much food in this world .", None, None, None, 1), ('It breaks my heart', None, None, None, 0), ('to hear about kids', None, None, None, 0), ('fainting in school', None, None, None, 0), ("because they 've only had one meal for the day .", None, None, None, 1), ('I wish there was a way', None, None, None, 0), ('to help these kids more directly .', None, None, None, 1), ("I 'm not one", None, None, None, 0), ('to give to large non-profit organizations', None, None, None, 0), ('but I feel so bad for these kids .', None, None, None, 1)]

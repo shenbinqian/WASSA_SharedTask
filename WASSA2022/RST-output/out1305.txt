@@ -1,0 +1,23 @@
+=====================> [[('I am a little confused', None, None, None, 0), ('as to how these hacks happen ,', None, None, None, 0), ('but it sucks', None, None, None, 0), ('when they do . I am a Yahoo user', None, None, None, 0), ('and think', None, None, None, 0), ('they have had to take precautionary measures multiple times in recent years', None, None, None, 0), ('to stop issues .', None, None, None, 1), ('Data breaches are troubling', None, None, None, 0), ('and can affect us all', None, None, None, 0), ("so I am not happy about the article 's details", None, None, None, 0), ('that make me somewhat nervous .', None, None, None, 1)]]
+Leaf:  N Elaborate I am a little confused
+Leaf:  S span as to how these hacks happen ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Background but it sucks
+Leaf:  S span when they do . I am a Yahoo user
+Inner:  N Joint None Background NS
+Leaf:  S span and think
+Leaf:  N Enablement they have had to take precautionary measures multiple times in recent years
+Leaf:  S span to stop issues .
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Joint Data breaches are troubling
+Leaf:  N Joint and can affect us all
+Inner:  S span None Joint NN
+Leaf:  N Elaborate so I am not happy about the article 's details
+Leaf:  S span that make me somewhat nervous .
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('I am a little confused', None, None, None, 0), ('as to how these hacks happen ,', None, None, None, 0), ('but it sucks', None, None, None, 0), ('when they do . I am a Yahoo user', None, None, None, 0), ('and think', None, None, None, 0), ('they have had to take precautionary measures multiple times in recent years', None, None, None, 0), ('to stop issues .', None, None, None, 1), ('Data breaches are troubling', None, None, None, 0), ('and can affect us all', None, None, None, 0), ("so I am not happy about the article 's details", None, None, None, 0), ('that make me somewhat nervous .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('It is sad', None, None, None, 0), ('that people have nothing better to do', None, None, None, 0), ("than to get into other people 's business .", None, None, None, 1), ('It seems that we are at an all time low as a society', None, None, None, 0), ("and that there is no respect for other people 's privacy .", None, None, None, 1), ('This is what I see as the darker side of the internet .', None, None, None, 1), ('It opens the the door for behavior', None, None, None, 0), ('that should not be encouraged in for a safe and productive society .', None, None, None, 1)]]
+Leaf:  S span It is sad
+Leaf:  N Enablement that people have nothing better to do
+Leaf:  S span than to get into other people 's business .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It seems that we are at an all time low as a society
+Leaf:  N Joint and that there is no respect for other people 's privacy .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate This is what I see as the darker side of the internet .
+Leaf:  N Elaborate It opens the the door for behavior
+Leaf:  S span that should not be encouraged in for a safe and productive society .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('It is sad', None, None, None, 0), ('that people have nothing better to do', None, None, None, 0), ("than to get into other people 's business .", None, None, None, 1), ('It seems that we are at an all time low as a society', None, None, None, 0), ("and that there is no respect for other people 's privacy .", None, None, None, 1), ('This is what I see as the darker side of the internet .', None, None, None, 1), ('It opens the the door for behavior', None, None, None, 0), ('that should not be encouraged in for a safe and productive society .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('Well I just read this ridiculously long article about someone', None, None, None, 0), ('who would take vacations with their family', None, None, None, 0), ('I think .', None, None, None, 1), ('The person just talked about some of their trips ,', None, None, None, 0), ('and talked', None, None, None, 0), ('about how vacations and travel in general can expand you as a person .', None, None, None, 1), ('I agree with this claim ,', None, None, None, 0), ('and wish traveling could be a little cheaper .', None, None, None, 1)]]
+Leaf:  N Elaborate Well I just read this ridiculously long article about someone
+Leaf:  S span who would take vacations with their family
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I think .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Joint The person just talked about some of their trips ,
+Leaf:  S span and talked
+Leaf:  N Attribution about how vacations and travel in general can expand you as a person .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I agree with this claim ,
+Leaf:  N Joint and wish traveling could be a little cheaper .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Well I just read this ridiculously long article about someone', None, None, None, 0), ('who would take vacations with their family', None, None, None, 0), ('I think .', None, None, None, 1), ('The person just talked about some of their trips ,', None, None, None, 0), ('and talked', None, None, None, 0), ('about how vacations and travel in general can expand you as a person .', None, None, None, 1), ('I agree with this claim ,', None, None, None, 0), ('and wish traveling could be a little cheaper .', None, None, None, 1)]

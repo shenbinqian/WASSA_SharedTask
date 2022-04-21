@@ -1,0 +1,13 @@
+=====================> [[('This is unfortunately the consequence of conflicts within this part of the world .', None, None, None, 1), ('Certain countries are not interested in the peace process', None, None, None, 0), ('and will deliberatley sabotage any effort .', None, None, None, 1), ('The convey was most likely not escorted by terrorists ,', None, None, None, 0), ('however , it is a common claim', None, None, None, 0), ('made by aggressive nations under these circumstances .', None, None, None, 1)]]
+Leaf:  N Elaborate This is unfortunately the consequence of conflicts within this part of the world .
+Leaf:  N Joint Certain countries are not interested in the peace process
+Leaf:  N Joint and will deliberatley sabotage any effort .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The convey was most likely not escorted by terrorists ,
+Leaf:  N Elaborate however , it is a common claim
+Leaf:  S span made by aggressive nations under these circumstances .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('This is unfortunately the consequence of conflicts within this part of the world .', None, None, None, 1), ('Certain countries are not interested in the peace process', None, None, None, 0), ('and will deliberatley sabotage any effort .', None, None, None, 1), ('The convey was most likely not escorted by terrorists ,', None, None, None, 0), ('however , it is a common claim', None, None, None, 0), ('made by aggressive nations under these circumstances .', None, None, None, 1)]

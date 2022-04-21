@@ -1,0 +1,35 @@
+=====================> [[('I have no idea', None, None, None, 0), ('what any of that means', None, None, None, 0), ('but I wonder', None, None, None, 0), ('sometimes what it would be like to play a game', None, None, None, 0), ('that goes on over more than one day .', None, None, None, 1), ('Imagine if you could go back home', None, None, None, 0), ('and go to sleep at halftime of the Super Bowl', None, None, None, 0), ('and then come back the next day and play the second half . Maybe then the Falcons would have taken the 2nd half of that game against the Patriots more seriously .', None, None, None, 1), ('When I watched Lebron crush the Raptors', None, None, None, 0), ('I was kind of curious as to how they slept', None, None, None, 0), ('knowing', None, None, None, 0), ('a game was coming up .', None, None, None, 1), ('They probably felt scared ,', None, None, None, 0), ('like they had a big test', None, None, None, 0), ('coming up', None, None, None, 0), ("and they did n't think", None, None, None, 0), ('they were prepared .', None, None, None, 1)]]
+Leaf:  S span I have no idea
+Leaf:  N Attribution what any of that means
+Inner:  S span None Attribution SN
+Leaf:  S span but I wonder
+Leaf:  N Elaborate sometimes what it would be like to play a game
+Leaf:  S span that goes on over more than one day .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint Imagine if you could go back home
+Leaf:  N Joint and go to sleep at halftime of the Super Bowl
+Inner:  N Temporal None Joint NN
+Leaf:  N Temporal and then come back the next day and play the second half . Maybe then the Falcons would have taken the 2nd half of that game against the Patriots more seriously .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span When I watched Lebron crush the Raptors
+Leaf:  N Background I was kind of curious as to how they slept
+Leaf:  S span knowing
+Leaf:  N Attribution a game was coming up .
+Inner:  S span None Attribution SN
+Inner:  N Background None Background NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Joint They probably felt scared ,
+Leaf:  N Elaborate like they had a big test
+Leaf:  S span coming up
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and they did n't think
+Leaf:  N Attribution they were prepared .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I have no idea', None, None, None, 0), ('what any of that means', None, None, None, 0), ('but I wonder', None, None, None, 0), ('sometimes what it would be like to play a game', None, None, None, 0), ('that goes on over more than one day .', None, None, None, 1), ('Imagine if you could go back home', None, None, None, 0), ('and go to sleep at halftime of the Super Bowl', None, None, None, 0), ('and then come back the next day and play the second half . Maybe then the Falcons would have taken the 2nd half of that game against the Patriots more seriously .', None, None, None, 1), ('When I watched Lebron crush the Raptors', None, None, None, 0), ('I was kind of curious as to how they slept', None, None, None, 0), ('knowing', None, None, None, 0), ('a game was coming up .', None, None, None, 1), ('They probably felt scared ,', None, None, None, 0), ('like they had a big test', None, None, None, 0), ('coming up', None, None, None, 0), ("and they did n't think", None, None, None, 0), ('they were prepared .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('I just dont have many', None, None, None, 0), ('feeling about this article .', None, None, None, 1), ('I guess i feel bad for the teachers', None, None, None, 0), ('but it doesnt exactly bother me .', None, None, None, 1), ('I am not too concerned with affairs in other countries', None, None, None, 0), ('unless it is about war or peace and political things .', None, None, None, 1), ('Packing up', None, None, None, 0), ('and having to move your live away in just a few days', None, None, None, 0), ('is very hard', None, None, None, 0), ('and i guess i feel some sympathy about that .', None, None, None, 1)]]
+Leaf:  N Elaborate I just dont have many
+Leaf:  S span feeling about this article .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast I guess i feel bad for the teachers
+Leaf:  N Contrast but it doesnt exactly bother me .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Condition I am not too concerned with affairs in other countries
+Leaf:  S span unless it is about war or peace and political things .
+Inner:  S span None Condition NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Packing up
+Leaf:  N Joint and having to move your live away in just a few days
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit is very hard
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span and i guess i feel some sympathy about that .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just dont have many', None, None, None, 0), ('feeling about this article .', None, None, None, 1), ('I guess i feel bad for the teachers', None, None, None, 0), ('but it doesnt exactly bother me .', None, None, None, 1), ('I am not too concerned with affairs in other countries', None, None, None, 0), ('unless it is about war or peace and political things .', None, None, None, 1), ('Packing up', None, None, None, 0), ('and having to move your live away in just a few days', None, None, None, 0), ('is very hard', None, None, None, 0), ('and i guess i feel some sympathy about that .', None, None, None, 1)]

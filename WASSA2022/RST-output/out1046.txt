@@ -1,0 +1,25 @@
+=====================> [[('I have come across an article about the civilian casualties in Afghanistan .', None, None, None, 1), ('The war is such a terrible thing .', None, None, None, 1), ('Small children are dying', None, None, None, 0), ('just because of some military operations ,', None, None, None, 0), ('i.e. some grown-ups can not negotiate', None, None, None, 0), ('and agree on resolution of the disagreements .', None, None, None, 1), ('My heart aches', None, None, None, 0), ('as I read', None, None, None, 0), ('that burnt children corpses are tended by mourning relatives .', None, None, None, 1), ('It must be unbearably painful to exist in such pitiful condition in such a poor country', None, None, None, 0), ('and on top of that to lose your children .', None, None, None, 1), ('Life is so unfair and cruel sometimes .', None, None, None, 1)]]
+Leaf:  N Elaborate I have come across an article about the civilian casualties in Afghanistan .
+Leaf:  N Explanation The war is such a terrible thing .
+Leaf:  N Cause Small children are dying
+Leaf:  S span just because of some military operations ,
+Inner:  N Summary None Cause NS
+Leaf:  N Joint i.e. some grown-ups can not negotiate
+Leaf:  N Joint and agree on resolution of the disagreements .
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Background My heart aches
+Leaf:  S span as I read
+Leaf:  N Attribution that burnt children corpses are tended by mourning relatives .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Background NS
+Leaf:  N Temporal It must be unbearably painful to exist in such pitiful condition in such a poor country
+Leaf:  N Temporal and on top of that to lose your children .
+Inner:  S span None Temporal NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Life is so unfair and cruel sometimes .
+Inner:  Root None None Evaluation NS
+[('I have come across an article about the civilian casualties in Afghanistan .', None, None, None, 1), ('The war is such a terrible thing .', None, None, None, 1), ('Small children are dying', None, None, None, 0), ('just because of some military operations ,', None, None, None, 0), ('i.e. some grown-ups can not negotiate', None, None, None, 0), ('and agree on resolution of the disagreements .', None, None, None, 1), ('My heart aches', None, None, None, 0), ('as I read', None, None, None, 0), ('that burnt children corpses are tended by mourning relatives .', None, None, None, 1), ('It must be unbearably painful to exist in such pitiful condition in such a poor country', None, None, None, 0), ('and on top of that to lose your children .', None, None, None, 1), ('Life is so unfair and cruel sometimes .', None, None, None, 1)]

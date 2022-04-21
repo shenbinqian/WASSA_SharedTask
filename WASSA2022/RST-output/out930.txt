@@ -1,0 +1,23 @@
+=====================> [[('I had no idea', None, None, None, 0), ('that the Great Lakes area had problems with earthquakes .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ("that it was n't a bigger on", None, None, None, 0), ('but it is still had how much damage was done .', None, None, None, 1), ('I feel better for those families', None, None, None, 0), ('that lost loved ones .', None, None, None, 1), ('You would think', None, None, None, 0), ('in this modern age we would be able to detect earthquakes sooner', None, None, None, 0), ('and have enough time', None, None, None, 0), ('to evacuate an area .', None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Attribution that the Great Lakes area had problems with earthquakes .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'm glad
+Leaf:  S span that it was n't a bigger on
+Leaf:  N Contrast but it is still had how much damage was done .
+Inner:  N Attribution None Contrast SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I feel better for those families
+Leaf:  S span that lost loved ones .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span You would think
+Leaf:  N Joint in this modern age we would be able to detect earthquakes sooner
+Leaf:  N Elaborate and have enough time
+Leaf:  S span to evacuate an area .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I had no idea', None, None, None, 0), ('that the Great Lakes area had problems with earthquakes .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ("that it was n't a bigger on", None, None, None, 0), ('but it is still had how much damage was done .', None, None, None, 1), ('I feel better for those families', None, None, None, 0), ('that lost loved ones .', None, None, None, 1), ('You would think', None, None, None, 0), ('in this modern age we would be able to detect earthquakes sooner', None, None, None, 0), ('and have enough time', None, None, None, 0), ('to evacuate an area .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('Dear friend , I have just finished reading an article about a horse', None, None, None, 0), ('that was murdered .', None, None, None, 1), ('The suspect killed the Salt River Wild Horse with a gun', None, None, None, 0), ('and wounded two other younger horses .', None, None, None, 1), ('There is now a reward for any information', None, None, None, 0), ('leading to the arrest and conviction of the killer .', None, None, None, 1), ('The reward is currently set at $ 25,000 .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just finished reading an article about a horse
+Leaf:  S span that was murdered .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The suspect killed the Salt River Wild Horse with a gun
+Leaf:  N Joint and wounded two other younger horses .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There is now a reward for any information
+Leaf:  S span leading to the arrest and conviction of the killer .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The reward is currently set at $ 25,000 .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just finished reading an article about a horse', None, None, None, 0), ('that was murdered .', None, None, None, 1), ('The suspect killed the Salt River Wild Horse with a gun', None, None, None, 0), ('and wounded two other younger horses .', None, None, None, 1), ('There is now a reward for any information', None, None, None, 0), ('leading to the arrest and conviction of the killer .', None, None, None, 1), ('The reward is currently set at $ 25,000 .', None, None, None, 1)]

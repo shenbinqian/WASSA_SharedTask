@@ -1,0 +1,31 @@
+=====================> [[('I just read an article', None, None, None, 0), ('Regarding a severe problem in the Chicago area with the fact', None, None, None, 0), ('that their public water supply has high amounts of lead traces .', None, None, None, 1), ('Just what I need , another worldly problem to stress about ?! Article shook me ,', None, None, None, 0), ('as the health of not only myself but my children is of the upmost importance to me .', None, None, None, 1), ('I know , I do n’t live in the Chicago area ,', None, None, None, 0), ('but the article certainly made me think about the water', None, None, None, 0), ('that I drink every day ,', None, None, None, 0), ('and my children drink and then just threw foods', None, None, None, 0), ('that I have cooked and prepared .', None, None, None, 1), ('Even my local town has just posted something on the fact', None, None, None, 0), ('that they need $ 3.2 million', None, None, None, 0), ('to repair the water mains in the one square-mile town', None, None, None, 0), ('as the water pipes are corroded and near health hazard . I Will be researching this locally .', None, None, None, 1), ('I will also be researching for more info on the subject', None, None, None, 0)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  N Elaborate Regarding a severe problem in the Chicago area with the fact
+Leaf:  S span that their public water supply has high amounts of lead traces .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation Just what I need , another worldly problem to stress about ?! Article shook me ,
+Leaf:  S span as the health of not only myself but my children is of the upmost importance to me .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know , I do n’t live in the Chicago area ,
+Leaf:  N Elaborate but the article certainly made me think about the water
+Leaf:  S span that I drink every day ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and my children drink and then just threw foods
+Leaf:  S span that I have cooked and prepared .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Even my local town has just posted something on the fact
+Leaf:  N Enablement that they need $ 3.2 million
+Leaf:  S span to repair the water mains in the one square-mile town
+Inner:  N Background None Enablement NS
+Leaf:  S span as the water pipes are corroded and near health hazard . I Will be researching this locally .
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint I will also be researching for more info on the subject
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read an article', None, None, None, 0), ('Regarding a severe problem in the Chicago area with the fact', None, None, None, 0), ('that their public water supply has high amounts of lead traces .', None, None, None, 1), ('Just what I need , another worldly problem to stress about ?! Article shook me ,', None, None, None, 0), ('as the health of not only myself but my children is of the upmost importance to me .', None, None, None, 1), ('I know , I do n’t live in the Chicago area ,', None, None, None, 0), ('but the article certainly made me think about the water', None, None, None, 0), ('that I drink every day ,', None, None, None, 0), ('and my children drink and then just threw foods', None, None, None, 0), ('that I have cooked and prepared .', None, None, None, 1), ('Even my local town has just posted something on the fact', None, None, None, 0), ('that they need $ 3.2 million', None, None, None, 0), ('to repair the water mains in the one square-mile town', None, None, None, 0), ('as the water pipes are corroded and near health hazard . I Will be researching this locally .', None, None, None, 1), ('I will also be researching for more info on the subject', None, None, None, 0)]

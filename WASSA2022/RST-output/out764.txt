@@ -1,0 +1,23 @@
+=====================> [[('Water parks and amusement parks in general are just disasters', None, None, None, 0), ('waiting to happen .', None, None, None, 1), ("We truly do n't know", None, None, None, 0), ('how dangerous some of these things are', None, None, None, 0), ('until something goes wrong .', None, None, None, 1), ('Then we all see what was so obvious yet impossible', None, None, None, 0), ('to see', None, None, None, 0), ('until pointed out .', None, None, None, 1), ('I am going to avoid these places like the plague .', None, None, None, 1), ('Plus life is too short', None, None, None, 0), ('to wait in lines .', None, None, None, 1)]]
+Leaf:  N Elaborate Water parks and amusement parks in general are just disasters
+Leaf:  S span waiting to happen .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span We truly do n't know
+Leaf:  N Attribution how dangerous some of these things are
+Inner:  N Background None Attribution SN
+Leaf:  S span until something goes wrong .
+Inner:  N Temporal None Background NS
+Leaf:  N Elaborate Then we all see what was so obvious yet impossible
+Leaf:  N Background to see
+Leaf:  S span until pointed out .
+Inner:  S span None Background NS
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am going to avoid these places like the plague .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Cause Plus life is too short
+Leaf:  S span to wait in lines .
+Inner:  S span None Cause NS
+Inner:  Root None None Explanation NS
+[('Water parks and amusement parks in general are just disasters', None, None, None, 0), ('waiting to happen .', None, None, None, 1), ("We truly do n't know", None, None, None, 0), ('how dangerous some of these things are', None, None, None, 0), ('until something goes wrong .', None, None, None, 1), ('Then we all see what was so obvious yet impossible', None, None, None, 0), ('to see', None, None, None, 0), ('until pointed out .', None, None, None, 1), ('I am going to avoid these places like the plague .', None, None, None, 1), ('Plus life is too short', None, None, None, 0), ('to wait in lines .', None, None, None, 1)]

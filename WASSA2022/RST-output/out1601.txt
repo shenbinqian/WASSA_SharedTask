@@ -1,0 +1,35 @@
+=====================> [[('Oh my gosh !', None, None, None, 1), ('Can you even imagine this ?', None, None, None, 1), ('Thinking of citizens being torn from their homes , tortured , frightened !', None, None, None, 1), ('How could they just blatantly violate people in this way ?', None, None, None, 1), ('I suppose it is hopeful', None, None, None, 0), ('that we might learn from this , correct mistakes ,', None, None, None, 0), ("but that does n't mitigate the harm", None, None, None, 0), ('that was done !', None, None, None, 1), ("It also does n't bode well", None, None, None, 0), ('that protecting the victims now , after the fact , also seems to be in question .', None, None, None, 1), ('The assumption', None, None, None, 0), ('that they were informed of the release of the data ,', None, None, None, 0), ("I think , is reckless . Verification that the already suffering victims wo n't be further victimized", None, None, None, 0), ('is as important as the far reaching implications of the data itself !', None, None, None, 1), ('I wonder', None, None, None, 0), ('why there is no mention of the ramifications to the department either .', None, None, None, 1), ('Just releasing the data is great , but what about investigations and punishments ?', None, None, None, 1)]]
+Leaf:  N Summary Oh my gosh !
+Leaf:  N Summary Can you even imagine this ?
+Leaf:  S span Thinking of citizens being torn from their homes , tortured , frightened !
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span How could they just blatantly violate people in this way ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I suppose it is hopeful
+Leaf:  N Attribution that we might learn from this , correct mistakes ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but that does n't mitigate the harm
+Leaf:  S span that was done !
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate It also does n't bode well
+Leaf:  S span that protecting the victims now , after the fact , also seems to be in question .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate The assumption
+Leaf:  S span that they were informed of the release of the data ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I think , is reckless . Verification that the already suffering victims wo n't be further victimized
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit is as important as the far reaching implications of the data itself !
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I wonder
+Leaf:  N Attribution why there is no mention of the ramifications to the department either .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Just releasing the data is great , but what about investigations and punishments ?
+Inner:  Root None None Evaluation NS
+[('Oh my gosh !', None, None, None, 1), ('Can you even imagine this ?', None, None, None, 1), ('Thinking of citizens being torn from their homes , tortured , frightened !', None, None, None, 1), ('How could they just blatantly violate people in this way ?', None, None, None, 1), ('I suppose it is hopeful', None, None, None, 0), ('that we might learn from this , correct mistakes ,', None, None, None, 0), ("but that does n't mitigate the harm", None, None, None, 0), ('that was done !', None, None, None, 1), ("It also does n't bode well", None, None, None, 0), ('that protecting the victims now , after the fact , also seems to be in question .', None, None, None, 1), ('The assumption', None, None, None, 0), ('that they were informed of the release of the data ,', None, None, None, 0), ("I think , is reckless . Verification that the already suffering victims wo n't be further victimized", None, None, None, 0), ('is as important as the far reaching implications of the data itself !', None, None, None, 1), ('I wonder', None, None, None, 0), ('why there is no mention of the ramifications to the department either .', None, None, None, 1), ('Just releasing the data is great , but what about investigations and punishments ?', None, None, None, 1)]

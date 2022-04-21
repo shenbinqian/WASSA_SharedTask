@@ -1,0 +1,21 @@
+=====================> [[('A mayor and his bodyguards in the Philippines was shot and killed by local law enforcement .', None, None, None, 1), ('He was in to the illegal drug business .', None, None, None, 1), ('He was elected to take a stance against drugs .', None, None, None, 1), ("It 's really weird to think that a mayor was the one", None, None, None, 0), ('taking part in the illegal drug trade .', None, None, None, 1), ('It makes me wonder', None, None, None, 0), ('who can you really trust .', None, None, None, 1), ('He was said to be a narco-politician .', None, None, None, 1), ('Sad to think', None, None, None, 0), ("the people ca n't even trust his own mayor .", None, None, None, 1)]]
+Leaf:  N Elaborate A mayor and his bodyguards in the Philippines was shot and killed by local law enforcement .
+Leaf:  S span He was in to the illegal drug business .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He was elected to take a stance against drugs .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's really weird to think that a mayor was the one
+Leaf:  S span taking part in the illegal drug trade .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It makes me wonder
+Leaf:  N Attribution who can you really trust .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation He was said to be a narco-politician .
+Leaf:  S span Sad to think
+Leaf:  N Attribution the people ca n't even trust his own mayor .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('A mayor and his bodyguards in the Philippines was shot and killed by local law enforcement .', None, None, None, 1), ('He was in to the illegal drug business .', None, None, None, 1), ('He was elected to take a stance against drugs .', None, None, None, 1), ("It 's really weird to think that a mayor was the one", None, None, None, 0), ('taking part in the illegal drug trade .', None, None, None, 1), ('It makes me wonder', None, None, None, 0), ('who can you really trust .', None, None, None, 1), ('He was said to be a narco-politician .', None, None, None, 1), ('Sad to think', None, None, None, 0), ("the people ca n't even trust his own mayor .", None, None, None, 1)]

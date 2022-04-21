@@ -1,0 +1,17 @@
+=====================> [[('Every time', None, None, None, 0), ('I hear something about ISIS ,', None, None, None, 0), ("I ca n't help but think about the role", None, None, None, 0), ('the US played in its creation and the horrors', None, None, None, 0), ('that have come from the vacuum of power in the region .', None, None, None, 1), ("I 'm thankful to be American", None, None, None, 0), ('when I read something like this , but also ashamed at the same time', None, None, None, 0), ("in who we 've chosen to represent us , not just now , but over the past 30 years .", None, None, None, 1)]]
+Leaf:  N Elaborate Every time
+Leaf:  S span I hear something about ISIS ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate I ca n't help but think about the role
+Leaf:  N Elaborate the US played in its creation and the horrors
+Leaf:  S span that have come from the vacuum of power in the region .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Background I 'm thankful to be American
+Leaf:  N Background when I read something like this , but also ashamed at the same time
+Leaf:  S span in who we 've chosen to represent us , not just now , but over the past 30 years .
+Inner:  S span None Background NS
+Inner:  S span None Background NS
+Inner:  Root None None Elaborate NS
+[('Every time', None, None, None, 0), ('I hear something about ISIS ,', None, None, None, 0), ("I ca n't help but think about the role", None, None, None, 0), ('the US played in its creation and the horrors', None, None, None, 0), ('that have come from the vacuum of power in the region .', None, None, None, 1), ("I 'm thankful to be American", None, None, None, 0), ('when I read something like this , but also ashamed at the same time', None, None, None, 0), ("in who we 've chosen to represent us , not just now , but over the past 30 years .", None, None, None, 1)]

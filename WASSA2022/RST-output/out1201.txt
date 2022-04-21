@@ -1,0 +1,37 @@
+=====================> [[('I feel so sad for the world .', None, None, None, 1), ('The world needs a revolution and good people in charge of the countries .', None, None, None, 1), ('Bad people need to disappear from this world ,', None, None, None, 0), ('we need specials force to deal with injustice from this world .', None, None, None, 1), ('A lot of people is in pain', None, None, None, 0), ('because of different beliefs , race , culture and bad presidents .', None, None, None, 1), ('People around the world should have the same opportunities', None, None, None, 0), ('to be happy', None, None, None, 0), ('and have a fair life .', None, None, None, 1), ('I would like to help every injustice in the world . Big countries in the would should help all the people', None, None, None, 0), ('that are suffering', None, None, None, 0), ('because of injustice .', None, None, None, 1), ('I can see a lot of pain around the world', None, None, None, 0), ('and I just can say', None, None, None, 0), ('that a lot of people with resources are extremely selfish .', None, None, None, 1), ('We need powerful people', None, None, None, 0), ('dealing with this kind of situations .', None, None, None, 1), ('On the other hand , people should make disappear ISIS from the map ASAP .', None, None, None, 1)]]
+Leaf:  N Explanation I feel so sad for the world .
+Leaf:  N Joint The world needs a revolution and good people in charge of the countries .
+Leaf:  N Joint Bad people need to disappear from this world ,
+Leaf:  N Joint we need specials force to deal with injustice from this world .
+Inner:  N Explanation None Joint NN
+Leaf:  N Cause A lot of people is in pain
+Leaf:  S span because of different beliefs , race , culture and bad presidents .
+Inner:  S span None Cause NS
+Inner:  N Joint None Explanation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate People around the world should have the same opportunities
+Leaf:  N Joint to be happy
+Leaf:  N Joint and have a fair life .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I would like to help every injustice in the world . Big countries in the would should help all the people
+Leaf:  N Cause that are suffering
+Leaf:  S span because of injustice .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I can see a lot of pain around the world
+Leaf:  S span and I just can say
+Leaf:  N Attribution that a lot of people with resources are extremely selfish .
+Inner:  N Joint None Attribution SN
+Inner:  N Cause None Joint NN
+Leaf:  N Elaborate We need powerful people
+Leaf:  S span dealing with this kind of situations .
+Inner:  S span None Elaborate NS
+Inner:  N Comparison None Cause NS
+Leaf:  N Comparison On the other hand , people should make disappear ISIS from the map ASAP .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I feel so sad for the world .', None, None, None, 1), ('The world needs a revolution and good people in charge of the countries .', None, None, None, 1), ('Bad people need to disappear from this world ,', None, None, None, 0), ('we need specials force to deal with injustice from this world .', None, None, None, 1), ('A lot of people is in pain', None, None, None, 0), ('because of different beliefs , race , culture and bad presidents .', None, None, None, 1), ('People around the world should have the same opportunities', None, None, None, 0), ('to be happy', None, None, None, 0), ('and have a fair life .', None, None, None, 1), ('I would like to help every injustice in the world . Big countries in the would should help all the people', None, None, None, 0), ('that are suffering', None, None, None, 0), ('because of injustice .', None, None, None, 1), ('I can see a lot of pain around the world', None, None, None, 0), ('and I just can say', None, None, None, 0), ('that a lot of people with resources are extremely selfish .', None, None, None, 1), ('We need powerful people', None, None, None, 0), ('dealing with this kind of situations .', None, None, None, 1), ('On the other hand , people should make disappear ISIS from the map ASAP .', None, None, None, 1)]

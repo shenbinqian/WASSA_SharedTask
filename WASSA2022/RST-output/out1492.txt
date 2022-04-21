@@ -1,0 +1,21 @@
+=====================> [[('What I learned about this situation was that sometimes life is not fair .', None, None, None, 1), ('Seeing this boy', None, None, None, 0), ('trapped in a place for 4 days', None, None, None, 0), ('is terrible .', None, None, None, 1), ('His poor body tried to survive', None, None, None, 0), ('and grab on for dear life', None, None, None, 0), ('but children are not exempt from this life .', None, None, None, 1), ('To think about that kid in that positiion makes me sad .', None, None, None, 1), ('His family is the one', None, None, None, 0), ('that suffers unfortunately .', None, None, None, 1)]]
+Leaf:  N Elaborate What I learned about this situation was that sometimes life is not fair .
+Leaf:  N Elaborate Seeing this boy
+Leaf:  S span trapped in a place for 4 days
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is terrible .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint His poor body tried to survive
+Leaf:  N Joint and grab on for dear life
+Inner:  S span None Joint NN
+Leaf:  N Contrast but children are not exempt from this life .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span To think about that kid in that positiion makes me sad .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate His family is the one
+Leaf:  S span that suffers unfortunately .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('What I learned about this situation was that sometimes life is not fair .', None, None, None, 1), ('Seeing this boy', None, None, None, 0), ('trapped in a place for 4 days', None, None, None, 0), ('is terrible .', None, None, None, 1), ('His poor body tried to survive', None, None, None, 0), ('and grab on for dear life', None, None, None, 0), ('but children are not exempt from this life .', None, None, None, 1), ('To think about that kid in that positiion makes me sad .', None, None, None, 1), ('His family is the one', None, None, None, 0), ('that suffers unfortunately .', None, None, None, 1)]

@@ -1,0 +1,35 @@
+=====================> [[('I am a firm believer of inoccent till proven guilty .', None, None, None, 1), ('But come on .', None, None, None, 1), ('There are multiple accounts with several different wome .', None, None, None, 1), ('That are coming forward towards this guy .', None, None, None, 1), ('This man needs taking off of the streets', None, None, None, 0), ('and put in jail .', None, None, None, 1), ('The things', None, None, None, 0), ('he did to multiple women', None, None, None, 0), ('is disgusting .', None, None, None, 1), ('I feel bad for these women', None, None, None, 0), ('who did not come forward in the beginning .', None, None, None, 1), ('Whether they were scared for their lives or just ashamed .', None, None, None, 1), ('It seems like alec could get a girl', None, None, None, 0), ('but just took things to far and to the next level .', None, None, None, 1), ('It ashame that a successful young man does something like this', None, None, None, 0), ('and ruins his entire life .', None, None, None, 1), ('Over sex .', None, None, None, 1)]]
+Leaf:  N Contrast I am a firm believer of inoccent till proven guilty .
+Leaf:  S span But come on .
+Leaf:  N Elaborate There are multiple accounts with several different wome .
+Leaf:  S span That are coming forward towards this guy .
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Temporal This man needs taking off of the streets
+Leaf:  N Temporal and put in jail .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate The things
+Leaf:  S span he did to multiple women
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is disgusting .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I feel bad for these women
+Leaf:  S span who did not come forward in the beginning .
+Inner:  N Background None Elaborate NS
+Leaf:  S span Whether they were scared for their lives or just ashamed .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast It seems like alec could get a girl
+Leaf:  N Contrast but just took things to far and to the next level .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Cause It ashame that a successful young man does something like this
+Leaf:  S span and ruins his entire life .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Background None Contrast NS
+Leaf:  S span Over sex .
+Inner:  Root None None Background NS
+[('I am a firm believer of inoccent till proven guilty .', None, None, None, 1), ('But come on .', None, None, None, 1), ('There are multiple accounts with several different wome .', None, None, None, 1), ('That are coming forward towards this guy .', None, None, None, 1), ('This man needs taking off of the streets', None, None, None, 0), ('and put in jail .', None, None, None, 1), ('The things', None, None, None, 0), ('he did to multiple women', None, None, None, 0), ('is disgusting .', None, None, None, 1), ('I feel bad for these women', None, None, None, 0), ('who did not come forward in the beginning .', None, None, None, 1), ('Whether they were scared for their lives or just ashamed .', None, None, None, 1), ('It seems like alec could get a girl', None, None, None, 0), ('but just took things to far and to the next level .', None, None, None, 1), ('It ashame that a successful young man does something like this', None, None, None, 0), ('and ruins his entire life .', None, None, None, 1), ('Over sex .', None, None, None, 1)]

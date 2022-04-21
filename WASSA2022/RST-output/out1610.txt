@@ -1,0 +1,21 @@
+=====================> [[('These home grown terrorists are becoming more and more of a problem .', None, None, None, 1), ('How do we monitor better people', None, None, None, 0), ('who are already in this country ?', None, None, None, 1), ('Stopping immigration is not going to solve this problem .', None, None, None, 1), ('It is the people right here in our own country', None, None, None, 0), ('who are killing each other .', None, None, None, 1), ('That problem has to be solved !!!', None, None, None, 1), ('How do we keep tabs on people', None, None, None, 0), ('and catch them', None, None, None, 0), ('before they kill their fellow citizens ?', None, None, None, 1)]]
+Leaf:  N Summary These home grown terrorists are becoming more and more of a problem .
+Leaf:  N Elaborate How do we monitor better people
+Leaf:  S span who are already in this country ?
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Summary NS
+Leaf:  N Evaluation Stopping immigration is not going to solve this problem .
+Leaf:  N Elaborate It is the people right here in our own country
+Leaf:  S span who are killing each other .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span That problem has to be solved !!!
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint How do we keep tabs on people
+Leaf:  N Joint and catch them
+Inner:  N Temporal None Joint NN
+Leaf:  S span before they kill their fellow citizens ?
+Inner:  S span None Temporal NS
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[('These home grown terrorists are becoming more and more of a problem .', None, None, None, 1), ('How do we monitor better people', None, None, None, 0), ('who are already in this country ?', None, None, None, 1), ('Stopping immigration is not going to solve this problem .', None, None, None, 1), ('It is the people right here in our own country', None, None, None, 0), ('who are killing each other .', None, None, None, 1), ('That problem has to be solved !!!', None, None, None, 1), ('How do we keep tabs on people', None, None, None, 0), ('and catch them', None, None, None, 0), ('before they kill their fellow citizens ?', None, None, None, 1)]

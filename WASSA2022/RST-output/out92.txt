@@ -1,0 +1,19 @@
+=====================> [[('Wow , how dare this person hurt a poor flamingo for no reason !?', None, None, None, 1), ('Why would some random dude go to Busch Gardens', None, None, None, 0), ('and abuse a bird', None, None, None, 0), ('who was minding its own business ?', None, None, None, 1), ('Poor bird had to be euthanized', None, None, None, 0), ('because of its injuries !', None, None, None, 1), ('The bird was 19 years old !', None, None, None, 1), ('It seems that there may have to be some sort of background check or mental health testing', None, None, None, 0), ('before you are even allowed to visit a place like this.Just unbelievable the way things happen ! Soooo SAD !', None, None, None, 1)]]
+Leaf:  N Summary Wow , how dare this person hurt a poor flamingo for no reason !?
+Leaf:  N Joint Why would some random dude go to Busch Gardens
+Leaf:  N Elaborate and abuse a bird
+Leaf:  S span who was minding its own business ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Cause None Summary NS
+Leaf:  N Cause Poor bird had to be euthanized
+Leaf:  S span because of its injuries !
+Inner:  N Elaborate None Cause NS
+Leaf:  S span The bird was 19 years old !
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It seems that there may have to be some sort of background check or mental health testing
+Leaf:  N Condition before you are even allowed to visit a place like this.Just unbelievable the way things happen ! Soooo SAD !
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('Wow , how dare this person hurt a poor flamingo for no reason !?', None, None, None, 1), ('Why would some random dude go to Busch Gardens', None, None, None, 0), ('and abuse a bird', None, None, None, 0), ('who was minding its own business ?', None, None, None, 1), ('Poor bird had to be euthanized', None, None, None, 0), ('because of its injuries !', None, None, None, 1), ('The bird was 19 years old !', None, None, None, 1), ('It seems that there may have to be some sort of background check or mental health testing', None, None, None, 0), ('before you are even allowed to visit a place like this.Just unbelievable the way things happen ! Soooo SAD !', None, None, None, 1)]

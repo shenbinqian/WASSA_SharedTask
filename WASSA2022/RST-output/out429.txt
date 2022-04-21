@@ -1,0 +1,17 @@
+=====================> [[('This whole story of all the thirty three miners found dead is an unfortunate tragedy .', None, None, None, 1), ('Their loss is really going to affect their family , friends , and co workers for the company', None, None, None, 0), ('that they work for', None, None, None, 0), ('to .', None, None, None, 1), ('These type of losses could have been avoided', None, None, None, 0), ('if they received more help', None, None, None, 0), ('or they could have trained them more for incase any unexpected events', None, None, None, 0), ('that could occur like this one for example .', None, None, None, 1)]]
+Leaf:  N Elaborate This whole story of all the thirty three miners found dead is an unfortunate tragedy .
+Leaf:  N Elaborate Their loss is really going to affect their family , friends , and co workers for the company
+Leaf:  S span that they work for
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit to .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition These type of losses could have been avoided
+Leaf:  N Joint if they received more help
+Leaf:  N Elaborate or they could have trained them more for incase any unexpected events
+Leaf:  S span that could occur like this one for example .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  Root None None Evaluation NS
+[('This whole story of all the thirty three miners found dead is an unfortunate tragedy .', None, None, None, 1), ('Their loss is really going to affect their family , friends , and co workers for the company', None, None, None, 0), ('that they work for', None, None, None, 0), ('to .', None, None, None, 1), ('These type of losses could have been avoided', None, None, None, 0), ('if they received more help', None, None, None, 0), ('or they could have trained them more for incase any unexpected events', None, None, None, 0), ('that could occur like this one for example .', None, None, None, 1)]

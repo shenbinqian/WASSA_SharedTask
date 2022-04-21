@@ -1,0 +1,25 @@
+=====================> [[('Hello friend , how have you been lately ? ,', None, None, None, 0), ('I have some curiosity about an article', None, None, None, 0), ('that I read recently ,', None, None, None, 0), ('that helped me a lot ,', None, None, None, 0), ('that I realized', None, None, None, 0), ('that the article had a problem', None, None, None, 0), ('that interested me more ,', None, None, None, 0), ('because of the events that were happening in this , for example :', None, None, None, 0), ('that a study', None, None, None, 0), ('published online through the journal Current Biology', None, None, None, 0), ('revealed', None, None, None, 0), ('that in the period of 25 years , half the size of the Amazon , and twice the size of the state of Alaska , has been exhausted .', None, None, None, 1)]]
+Leaf:  N Elaborate Hello friend , how have you been lately ? ,
+Leaf:  N Elaborate I have some curiosity about an article
+Leaf:  S span that I read recently ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate that helped me a lot ,
+Leaf:  S span that I realized
+Leaf:  N Elaborate that the article had a problem
+Leaf:  S span that interested me more ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because of the events that were happening in this , for example :
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate that a study
+Leaf:  S span published online through the journal Current Biology
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit revealed
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution that in the period of 25 years , half the size of the Amazon , and twice the size of the state of Alaska , has been exhausted .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello friend , how have you been lately ? ,', None, None, None, 0), ('I have some curiosity about an article', None, None, None, 0), ('that I read recently ,', None, None, None, 0), ('that helped me a lot ,', None, None, None, 0), ('that I realized', None, None, None, 0), ('that the article had a problem', None, None, None, 0), ('that interested me more ,', None, None, None, 0), ('because of the events that were happening in this , for example :', None, None, None, 0), ('that a study', None, None, None, 0), ('published online through the journal Current Biology', None, None, None, 0), ('revealed', None, None, None, 0), ('that in the period of 25 years , half the size of the Amazon , and twice the size of the state of Alaska , has been exhausted .', None, None, None, 1)]

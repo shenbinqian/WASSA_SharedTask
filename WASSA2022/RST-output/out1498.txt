@@ -1,0 +1,25 @@
+=====================> [[('I kind of think', None, None, None, 0), ('this article was written in a tongue-in-cheek manner', None, None, None, 0), ('especially when you read that last line', None, None, None, 0), ('-- what a pun !', None, None, None, 1), ('If there is any truth to it , though ,', None, None, None, 0), ('what could possible cause these kinds of chemical burns on a shampoo product', None, None, None, 0), ('that should be thoroughly tested', None, None, None, 0), ('when mixed with water in the shower .', None, None, None, 1), ('How could it even happen like that ? Is there actual lye in these bottles ?', None, None, None, 1), ('I guess', None, None, None, 0), ("we 'll find out", None, None, None, 0), ('when the case goes to trial .', None, None, None, 1)]]
+Leaf:  S span I kind of think
+Leaf:  N Background this article was written in a tongue-in-cheek manner
+Leaf:  S span especially when you read that last line
+Inner:  N Evaluation None Background NS
+Leaf:  S span -- what a pun !
+Inner:  N Attribution None Evaluation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span If there is any truth to it , though ,
+Leaf:  N Elaborate what could possible cause these kinds of chemical burns on a shampoo product
+Leaf:  N Background that should be thoroughly tested
+Leaf:  S span when mixed with water in the shower .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span How could it even happen like that ? Is there actual lye in these bottles ?
+Inner:  N Condition None Elaborate NS
+Inner:  N Evaluation None Condition SN
+Leaf:  S span I guess
+Leaf:  N Condition we 'll find out
+Leaf:  S span when the case goes to trial .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I kind of think', None, None, None, 0), ('this article was written in a tongue-in-cheek manner', None, None, None, 0), ('especially when you read that last line', None, None, None, 0), ('-- what a pun !', None, None, None, 1), ('If there is any truth to it , though ,', None, None, None, 0), ('what could possible cause these kinds of chemical burns on a shampoo product', None, None, None, 0), ('that should be thoroughly tested', None, None, None, 0), ('when mixed with water in the shower .', None, None, None, 1), ('How could it even happen like that ? Is there actual lye in these bottles ?', None, None, None, 1), ('I guess', None, None, None, 0), ("we 'll find out", None, None, None, 0), ('when the case goes to trial .', None, None, None, 1)]

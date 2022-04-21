@@ -1,0 +1,23 @@
+=====================> [[('I was saddened', None, None, None, 0), ('to hear of a Chinese military fighter pilot', None, None, None, 0), ('who was killed in a training exercise recently .', None, None, None, 1), ("It 's unclear what the cause of the crash was ,", None, None, None, 0), ("but it 's certainly a tragedy to all involved regardless .", None, None, None, 1), ("It 's horrifying to think of the time and training", None, None, None, 0), ('that someone like that would put in', None, None, None, 0), ('to learning to pilot the aircraft', None, None, None, 0), ('and to think', None, None, None, 0), ("that it would n't be enough", None, None, None, 0), ('to keep her safe .', None, None, None, 1)]]
+Leaf:  S span I was saddened
+Leaf:  N Elaborate to hear of a Chinese military fighter pilot
+Leaf:  S span who was killed in a training exercise recently .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It 's unclear what the cause of the crash was ,
+Leaf:  N Contrast but it 's certainly a tragedy to all involved regardless .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate It 's horrifying to think of the time and training
+Leaf:  N Enablement that someone like that would put in
+Leaf:  S span to learning to pilot the aircraft
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and to think
+Leaf:  N Elaborate that it would n't be enough
+Leaf:  S span to keep her safe .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I was saddened', None, None, None, 0), ('to hear of a Chinese military fighter pilot', None, None, None, 0), ('who was killed in a training exercise recently .', None, None, None, 1), ("It 's unclear what the cause of the crash was ,", None, None, None, 0), ("but it 's certainly a tragedy to all involved regardless .", None, None, None, 1), ("It 's horrifying to think of the time and training", None, None, None, 0), ('that someone like that would put in', None, None, None, 0), ('to learning to pilot the aircraft', None, None, None, 0), ('and to think', None, None, None, 0), ("that it would n't be enough", None, None, None, 0), ('to keep her safe .', None, None, None, 1)]

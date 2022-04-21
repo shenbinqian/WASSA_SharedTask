@@ -1,0 +1,27 @@
+=====================> [[("Again , I would n't share this with anyone ;", None, None, None, 0), ("it 's not that interesting to me or to the people", None, None, None, 0), ('that I know .', None, None, None, 1), ('Have you seen this article about the sudden rise in tiger murders by poachers ?', None, None, None, 1), ("It 's pretty shitty", None, None, None, 0), ('that this still goes on ,', None, None, None, 0), ('but what can you do ?', None, None, None, 1), ('People are going to be horrible for all kinds of reasons', None, None, None, 0), ('and nothing is going to change .', None, None, None, 1), ('What do you think about it ?', None, None, None, 1), ('Did you think', None, None, None, 0), ('that this was an interesting article ?', None, None, None, 1), ("What 's your thoughts ?", None, None, None, 1)]]
+Leaf:  N Explanation Again , I would n't share this with anyone ;
+Leaf:  N Elaborate it 's not that interesting to me or to the people
+Leaf:  S span that I know .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Evaluation Have you seen this article about the sudden rise in tiger murders by poachers ?
+Leaf:  S span It 's pretty shitty
+Leaf:  N Evaluation that this still goes on ,
+Inner:  S span None Evaluation SN
+Leaf:  N Contrast but what can you do ?
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint People are going to be horrible for all kinds of reasons
+Leaf:  N Joint and nothing is going to change .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint What do you think about it ?
+Leaf:  S span Did you think
+Leaf:  N Attribution that this was an interesting article ?
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint What 's your thoughts ?
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("Again , I would n't share this with anyone ;", None, None, None, 0), ("it 's not that interesting to me or to the people", None, None, None, 0), ('that I know .', None, None, None, 1), ('Have you seen this article about the sudden rise in tiger murders by poachers ?', None, None, None, 1), ("It 's pretty shitty", None, None, None, 0), ('that this still goes on ,', None, None, None, 0), ('but what can you do ?', None, None, None, 1), ('People are going to be horrible for all kinds of reasons', None, None, None, 0), ('and nothing is going to change .', None, None, None, 1), ('What do you think about it ?', None, None, None, 1), ('Did you think', None, None, None, 0), ('that this was an interesting article ?', None, None, None, 1), ("What 's your thoughts ?", None, None, None, 1)]

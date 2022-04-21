@@ -1,0 +1,37 @@
+=====================> [[('The real problem with people', None, None, None, 0), ('born with critical illness', None, None, None, 0), ('is that we try so hard', None, None, None, 0), ('to give them a normal life .', None, None, None, 1), ('However these people are not normal .', None, None, None, 1), ('And', None, None, None, 0), ('to force them into feeling normal while a nice sentiment ,', None, None, None, 0), ('is hardly productive .', None, None, None, 1), ('Instead we should focus', None, None, None, 0), ('on how these people can live differently', None, None, None, 0), ('than trying to merge them into general society .', None, None, None, 1), ("Society it 's self is a disgusting community of work", None, None, None, 0), ('till you die . No matter what it is you chose to do . Take Autism for example , we try so hard to normalize them . However with my experience these people are brilliant in their own ways', None, None, None, 0), ("that we ca n't understand .", None, None, None, 1), ('They see things in an alien like manor of ultra basic instinct .', None, None, None, 1), ("This instinct should have it 's own way", None, None, None, 0), ('of flourishing', None, None, None, 0), ('instead of bowing down to the rest of us .', None, None, None, 1)]]
+Leaf:  N Elaborate The real problem with people
+Leaf:  S span born with critical illness
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement is that we try so hard
+Leaf:  S span to give them a normal life .
+Inner:  N Same-Unit None Enablement NS
+Inner:  S span None Same-Unit NN
+Leaf:  N Contrast However these people are not normal .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Same-Unit And
+Leaf:  N Same-Unit to force them into feeling normal while a nice sentiment ,
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit is hardly productive .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement Instead we should focus
+Leaf:  S span on how these people can live differently
+Inner:  N Comparison None Enablement NS
+Leaf:  S span than trying to merge them into general society .
+Inner:  S span None Comparison NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate Society it 's self is a disgusting community of work
+Leaf:  N Elaborate till you die . No matter what it is you chose to do . Take Autism for example , we try so hard to normalize them . However with my experience these people are brilliant in their own ways
+Leaf:  S span that we ca n't understand .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They see things in an alien like manor of ultra basic instinct .
+Leaf:  N Elaborate This instinct should have it 's own way
+Leaf:  N Contrast of flourishing
+Leaf:  N Contrast instead of bowing down to the rest of us .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('The real problem with people', None, None, None, 0), ('born with critical illness', None, None, None, 0), ('is that we try so hard', None, None, None, 0), ('to give them a normal life .', None, None, None, 1), ('However these people are not normal .', None, None, None, 1), ('And', None, None, None, 0), ('to force them into feeling normal while a nice sentiment ,', None, None, None, 0), ('is hardly productive .', None, None, None, 1), ('Instead we should focus', None, None, None, 0), ('on how these people can live differently', None, None, None, 0), ('than trying to merge them into general society .', None, None, None, 1), ("Society it 's self is a disgusting community of work", None, None, None, 0), ('till you die . No matter what it is you chose to do . Take Autism for example , we try so hard to normalize them . However with my experience these people are brilliant in their own ways', None, None, None, 0), ("that we ca n't understand .", None, None, None, 1), ('They see things in an alien like manor of ultra basic instinct .', None, None, None, 1), ("This instinct should have it 's own way", None, None, None, 0), ('of flourishing', None, None, None, 0), ('instead of bowing down to the rest of us .', None, None, None, 1)]

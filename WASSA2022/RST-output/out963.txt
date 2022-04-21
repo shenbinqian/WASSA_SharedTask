@@ -1,0 +1,25 @@
+=====================> [[('Hey bud , Check this news out .', None, None, None, 1), ('Apparently a couple was on a cruise ship', None, None, None, 0), ('and the husband fell off the ship unintentionally .', None, None, None, 1), ('After reading the whole article ,', None, None, None, 0), ('I believe', None, None, None, 0), ('that the other husband has the right', None, None, None, 0), ('to sue the authorities', None, None, None, 0), ('for not saving the his husband', None, None, None, 0), ('after he fell off . In any case ,', None, None, None, 0), ('whether the person was guilty of previous crimes ,', None, None, None, 0), ('he or she should be saved', None, None, None, 0), ('or this would have been seen as sketchy work by the police officers .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey bud , Check this news out .
+Leaf:  N Temporal Apparently a couple was on a cruise ship
+Leaf:  N Temporal and the husband fell off the ship unintentionally .
+Inner:  S span None Temporal NN
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  S span After reading the whole article ,
+Leaf:  S span I believe
+Leaf:  N Elaborate that the other husband has the right
+Leaf:  N Explanation to sue the authorities
+Leaf:  N Background for not saving the his husband
+Leaf:  S span after he fell off . In any case ,
+Inner:  S span None Background NS
+Inner:  S span None Explanation NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span whether the person was guilty of previous crimes ,
+Leaf:  N Cause he or she should be saved
+Leaf:  N Cause or this would have been seen as sketchy work by the police officers .
+Inner:  N Condition None Cause NN
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  Root None None Topic-Change NS
+[('Hey bud , Check this news out .', None, None, None, 1), ('Apparently a couple was on a cruise ship', None, None, None, 0), ('and the husband fell off the ship unintentionally .', None, None, None, 1), ('After reading the whole article ,', None, None, None, 0), ('I believe', None, None, None, 0), ('that the other husband has the right', None, None, None, 0), ('to sue the authorities', None, None, None, 0), ('for not saving the his husband', None, None, None, 0), ('after he fell off . In any case ,', None, None, None, 0), ('whether the person was guilty of previous crimes ,', None, None, None, 0), ('he or she should be saved', None, None, None, 0), ('or this would have been seen as sketchy work by the police officers .', None, None, None, 1)]

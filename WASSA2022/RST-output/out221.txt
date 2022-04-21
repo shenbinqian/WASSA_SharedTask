@@ -1,0 +1,29 @@
+=====================> [[("This article says that , A deeper look inside Wells Fargo 's shameful vault —", None, None, None, 0), ("People my kids ' age ,", None, None, None, 0), ('who track their money by smartphone , wonder', None, None, None, 0), ('why garish competing bank branches still stud every shopping district in Philadelphia and the suburbs .', None, None, None, 1), ('Now we know :', None, None, None, 0), ('Behind the lollipops and the barred cages', None, None, None, 0), ('where the tellers sit ,', None, None, None, 0), ('perverse incentives at many banks turn branches into , not just stores , but sweatshops ,', None, None, None, 0), ('pushing products', None, None, None, 0), ("customers do n't need", None, None, None, 0), ('and may not have ordered , thanks to admissions by Wells Fargo Bank , the dominant lender around Philadelphia , and veteran bankers . Facing outrage , Wells Fargo has belatedly stalled tens of millions of dollars in stock awards to two top executives', None, None, None, 0), ('after admitting', None, None, None, 0), ('it fired 5,300 low-paid workers over five years', None, None, None, 0), ('for opening phony accounts .', None, None, None, 1)]]
+Leaf:  N Summary This article says that , A deeper look inside Wells Fargo 's shameful vault —
+Leaf:  N Elaborate People my kids ' age ,
+Leaf:  S span who track their money by smartphone , wonder
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution why garish competing bank branches still stud every shopping district in Philadelphia and the suburbs .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Now we know :
+Leaf:  N Elaborate Behind the lollipops and the barred cages
+Leaf:  S span where the tellers sit ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate perverse incentives at many banks turn branches into , not just stores , but sweatshops ,
+Leaf:  N Elaborate pushing products
+Leaf:  N Joint customers do n't need
+Leaf:  N Joint and may not have ordered , thanks to admissions by Wells Fargo Bank , the dominant lender around Philadelphia , and veteran bankers . Facing outrage , Wells Fargo has belatedly stalled tens of millions of dollars in stock awards to two top executives
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Leaf:  S span after admitting
+Leaf:  N Cause it fired 5,300 low-paid workers over five years
+Leaf:  S span for opening phony accounts .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Background NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[("This article says that , A deeper look inside Wells Fargo 's shameful vault —", None, None, None, 0), ("People my kids ' age ,", None, None, None, 0), ('who track their money by smartphone , wonder', None, None, None, 0), ('why garish competing bank branches still stud every shopping district in Philadelphia and the suburbs .', None, None, None, 1), ('Now we know :', None, None, None, 0), ('Behind the lollipops and the barred cages', None, None, None, 0), ('where the tellers sit ,', None, None, None, 0), ('perverse incentives at many banks turn branches into , not just stores , but sweatshops ,', None, None, None, 0), ('pushing products', None, None, None, 0), ("customers do n't need", None, None, None, 0), ('and may not have ordered , thanks to admissions by Wells Fargo Bank , the dominant lender around Philadelphia , and veteran bankers . Facing outrage , Wells Fargo has belatedly stalled tens of millions of dollars in stock awards to two top executives', None, None, None, 0), ('after admitting', None, None, None, 0), ('it fired 5,300 low-paid workers over five years', None, None, None, 0), ('for opening phony accounts .', None, None, None, 1)]

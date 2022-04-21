@@ -1,0 +1,19 @@
+=====================> [[('I feel so sorry for these people', None, None, None, 0), ('trying to flee their current situation .', None, None, None, 1), ('These crossings need to be safer for these people .', None, None, None, 1), ('All of these people drown and for what ? A chance at freedom , a chance', None, None, None, 0), ('to get away from what they fear ,', None, None, None, 0), ('and I feel', None, None, None, 0), ('like these people need to be helped', None, None, None, 0), ('and find a way', None, None, None, 0), ('to get them across safely .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel so sorry for these people
+Leaf:  S span trying to flee their current situation .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation These crossings need to be safer for these people .
+Leaf:  N Elaborate All of these people drown and for what ? A chance at freedom , a chance
+Leaf:  S span to get away from what they fear ,
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and I feel
+Leaf:  N Joint like these people need to be helped
+Leaf:  N Elaborate and find a way
+Leaf:  S span to get them across safely .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I feel so sorry for these people', None, None, None, 0), ('trying to flee their current situation .', None, None, None, 1), ('These crossings need to be safer for these people .', None, None, None, 1), ('All of these people drown and for what ? A chance at freedom , a chance', None, None, None, 0), ('to get away from what they fear ,', None, None, None, 0), ('and I feel', None, None, None, 0), ('like these people need to be helped', None, None, None, 0), ('and find a way', None, None, None, 0), ('to get them across safely .', None, None, None, 1)]

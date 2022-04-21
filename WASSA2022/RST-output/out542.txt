@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about Trump protesters', None, None, None, 0), ('that had fireworks shot at them .', None, None, None, 1), ('This story breaks my heart .', None, None, None, 1), ('Some of the protestors also were spit on', None, None, None, 0), ('and endured racial slurs .', None, None, None, 1), ('I do not understand', None, None, None, 0), ('how a group could commit such a mean act of violence .', None, None, None, 1), ('The group', None, None, None, 0), ('that shot the fireworks', None, None, None, 0), ('were never caught ,', None, None, None, 0), ('which makes this story even worse .', None, None, None, 1), ('People should be able to express their views in safety .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about Trump protesters
+Leaf:  S span that had fireworks shot at them .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This story breaks my heart .
+Leaf:  N Joint Some of the protestors also were spit on
+Leaf:  N Joint and endured racial slurs .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I do not understand
+Leaf:  N Attribution how a group could commit such a mean act of violence .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate The group
+Leaf:  S span that shot the fireworks
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit were never caught ,
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span which makes this story even worse .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span People should be able to express their views in safety .
+Inner:  Root None None Evaluation NS
+[('I just read an article about Trump protesters', None, None, None, 0), ('that had fireworks shot at them .', None, None, None, 1), ('This story breaks my heart .', None, None, None, 1), ('Some of the protestors also were spit on', None, None, None, 0), ('and endured racial slurs .', None, None, None, 1), ('I do not understand', None, None, None, 0), ('how a group could commit such a mean act of violence .', None, None, None, 1), ('The group', None, None, None, 0), ('that shot the fireworks', None, None, None, 0), ('were never caught ,', None, None, None, 0), ('which makes this story even worse .', None, None, None, 1), ('People should be able to express their views in safety .', None, None, None, 1)]

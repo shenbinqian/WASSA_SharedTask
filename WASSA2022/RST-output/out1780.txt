@@ -1,0 +1,11 @@
+=====================> [[('ISTANBUL , have you heard what is going on over near Turkey ?', None, None, None, 1), ('Man I am not even really sure myself', None, None, None, 0), ('but it sounds pretty messed up . At least eight members of parliament were charged with some type terrorism-related crimes .', None, None, None, 1), ('This is just sickening to me .', None, None, None, 1), ('Turkey ’s parliament voted to strip lawmakers of their immunity', None, None, None, 0)]]
+Leaf:  N Textual-Organization ISTANBUL , have you heard what is going on over near Turkey ?
+Leaf:  N Contrast Man I am not even really sure myself
+Leaf:  S span but it sounds pretty messed up . At least eight members of parliament were charged with some type terrorism-related crimes .
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span This is just sickening to me .
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  N Elaborate None Textual-Organization NN
+Leaf:  S span Turkey ’s parliament voted to strip lawmakers of their immunity
+Inner:  Root None None Elaborate NS
+[('ISTANBUL , have you heard what is going on over near Turkey ?', None, None, None, 1), ('Man I am not even really sure myself', None, None, None, 0), ('but it sounds pretty messed up . At least eight members of parliament were charged with some type terrorism-related crimes .', None, None, None, 1), ('This is just sickening to me .', None, None, None, 1), ('Turkey ’s parliament voted to strip lawmakers of their immunity', None, None, None, 0)]

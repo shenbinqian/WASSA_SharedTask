@@ -1,0 +1,21 @@
+=====================> [[("I do n't know much about cricket", None, None, None, 0), ("but apparently in England it 's a very big deal !", None, None, None, 1), ("This one town 's team is under the gun", None, None, None, 0), ('to win the championship', None, None, None, 0), ('and needs only 33 more points', None, None, None, 0), ('to pull it off .', None, None, None, 1), ('Can you imagine the pressure of the coach and players ??? That must be some fierce competition over there .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they have as big of a fan base', None, None, None, 0), ('as most of our sports do here in the states ?', None, None, None, 1)]]
+Leaf:  S span I do n't know much about cricket
+Leaf:  N Contrast but apparently in England it 's a very big deal !
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate This one town 's team is under the gun
+Leaf:  S span to win the championship
+Inner:  N Joint None Elaborate NS
+Leaf:  N Enablement and needs only 33 more points
+Leaf:  S span to pull it off .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Can you imagine the pressure of the coach and players ??? That must be some fierce competition over there .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Comparison if they have as big of a fan base
+Leaf:  S span as most of our sports do here in the states ?
+Inner:  N Attribution None Comparison NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[("I do n't know much about cricket", None, None, None, 0), ("but apparently in England it 's a very big deal !", None, None, None, 1), ("This one town 's team is under the gun", None, None, None, 0), ('to win the championship', None, None, None, 0), ('and needs only 33 more points', None, None, None, 0), ('to pull it off .', None, None, None, 1), ('Can you imagine the pressure of the coach and players ??? That must be some fierce competition over there .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they have as big of a fan base', None, None, None, 0), ('as most of our sports do here in the states ?', None, None, None, 1)]

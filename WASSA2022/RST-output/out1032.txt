@@ -1,0 +1,23 @@
+=====================> [[('The article also good.but some times also said', None, None, None, 0), ('medical teams were examining the bodies', None, None, None, 0), ('and trying to determine their identities .', None, None, None, 1), ('“ The investigation is just beginning , ”', None, None, None, 0), ('he said .', None, None, None, 1), ('The Iraqi Joint Command issued a brief statement', None, None, None, 0), ('condemning the Islamic State . “ Gangs of ISIS militants continue to commit crimes against our people , ”', None, None, None, 0), ('the military said .', None, None, None, 1), ('Fighters from the Islamic State ,', None, None, None, 0), ('also known as ISIS ,', None, None, None, 0), ('have held the city of Mosul and surrounding towns and villages for more than two years .', None, None, None, 1)]]
+Leaf:  S span The article also good.but some times also said
+Leaf:  N Joint medical teams were examining the bodies
+Leaf:  N Joint and trying to determine their identities .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution “ The investigation is just beginning , ”
+Leaf:  S span he said .
+Inner:  S span None Attribution NS
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate The Iraqi Joint Command issued a brief statement
+Leaf:  S span condemning the Islamic State . “ Gangs of ISIS militants continue to commit crimes against our people , ”
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span the military said .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate Fighters from the Islamic State ,
+Leaf:  S span also known as ISIS ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have held the city of Mosul and surrounding towns and villages for more than two years .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('The article also good.but some times also said', None, None, None, 0), ('medical teams were examining the bodies', None, None, None, 0), ('and trying to determine their identities .', None, None, None, 1), ('“ The investigation is just beginning , ”', None, None, None, 0), ('he said .', None, None, None, 1), ('The Iraqi Joint Command issued a brief statement', None, None, None, 0), ('condemning the Islamic State . “ Gangs of ISIS militants continue to commit crimes against our people , ”', None, None, None, 0), ('the military said .', None, None, None, 1), ('Fighters from the Islamic State ,', None, None, None, 0), ('also known as ISIS ,', None, None, None, 0), ('have held the city of Mosul and surrounding towns and villages for more than two years .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[("It 's always sad to hear of entertainers , especially comics ,", None, None, None, 0), ('losing their spark', None, None, None, 0), ('because of dementia .', None, None, None, 1), ("I was n't really a Monty Python fan myself", None, None, None, 0), ("but I 've heard a lot about them", None, None, None, 0), ('growing up', None, None, None, 0), ('and it seems that they were a great deal of fun for their fans .', None, None, None, 1), ('I know', None, None, None, 0), ('they influenced and produced some favorite comics of mine .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's always sad to hear of entertainers , especially comics ,
+Leaf:  N Cause losing their spark
+Leaf:  S span because of dementia .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I was n't really a Monty Python fan myself
+Leaf:  N Temporal but I 've heard a lot about them
+Leaf:  S span growing up
+Inner:  N Joint None Temporal NS
+Leaf:  N Joint and it seems that they were a great deal of fun for their fans .
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I know
+Leaf:  N Attribution they influenced and produced some favorite comics of mine .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("It 's always sad to hear of entertainers , especially comics ,", None, None, None, 0), ('losing their spark', None, None, None, 0), ('because of dementia .', None, None, None, 1), ("I was n't really a Monty Python fan myself", None, None, None, 0), ("but I 've heard a lot about them", None, None, None, 0), ('growing up', None, None, None, 0), ('and it seems that they were a great deal of fun for their fans .', None, None, None, 1), ('I know', None, None, None, 0), ('they influenced and produced some favorite comics of mine .', None, None, None, 1)]

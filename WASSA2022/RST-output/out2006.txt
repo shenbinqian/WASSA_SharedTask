@@ -1,0 +1,21 @@
+=====================> [[('Hi Bob , I just read this article on a suicide bombing attack in Afghanistan', None, None, None, 0), ('and it truly wrecked my heart .', None, None, None, 1), ('I want you to take a look at this', None, None, None, 0), ('and tell me how you feel .', None, None, None, 1), ('Becareful out there .', None, None, None, 1), ('I know', None, None, None, 0), ('you are deployed in Iraq', None, None, None, 0), ('but still , the same thing can happen .', None, None, None, 1), ('Always watch your back', None, None, None, 0), ("and I 'll be praying for you everyday .", None, None, None, 1)]]
+Leaf:  N Cause Hi Bob , I just read this article on a suicide bombing attack in Afghanistan
+Leaf:  S span and it truly wrecked my heart .
+Inner:  N Cause None Cause NS
+Leaf:  N Temporal I want you to take a look at this
+Leaf:  N Temporal and tell me how you feel .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate Becareful out there .
+Leaf:  S span I know
+Leaf:  S span you are deployed in Iraq
+Leaf:  N Contrast but still , the same thing can happen .
+Inner:  N Attribution None Contrast SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint Always watch your back
+Leaf:  N Joint and I 'll be praying for you everyday .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hi Bob , I just read this article on a suicide bombing attack in Afghanistan', None, None, None, 0), ('and it truly wrecked my heart .', None, None, None, 1), ('I want you to take a look at this', None, None, None, 0), ('and tell me how you feel .', None, None, None, 1), ('Becareful out there .', None, None, None, 1), ('I know', None, None, None, 0), ('you are deployed in Iraq', None, None, None, 0), ('but still , the same thing can happen .', None, None, None, 1), ('Always watch your back', None, None, None, 0), ("and I 'll be praying for you everyday .", None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('Not that we need to necessarily get ourselves overly involved in the affairs and well-being of other countries ,', None, None, None, 0), ('but we should definitely be paying attention to what is going on in the world around us .', None, None, None, 1), ('There is human suffering everywhere', None, None, None, 0), ('and I think', None, None, None, 0), ('that most of the time we are completely oblivious to it ,', None, None, None, 0), ("or we do n't want to face it .", None, None, None, 1), ('I believe', None, None, None, 0), ('that it is a good thing', None, None, None, 0), ('to be able to realize', None, None, None, 0), ('how cruel human beings can be to one another', None, None, None, 0), ('and to appreciate what we have', None, None, None, 0), ('when we have it', None, None, None, 0), ('and not take things for granted .', None, None, None, 1), ('Considering we could always have it much worse .', None, None, None, 1)]]
+Leaf:  N Contrast Not that we need to necessarily get ourselves overly involved in the affairs and well-being of other countries ,
+Leaf:  N Contrast but we should definitely be paying attention to what is going on in the world around us .
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Joint There is human suffering everywhere
+Leaf:  S span and I think
+Leaf:  N Joint that most of the time we are completely oblivious to it ,
+Leaf:  N Joint or we do n't want to face it .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I believe
+Leaf:  N Elaborate that it is a good thing
+Leaf:  S span to be able to realize
+Leaf:  N Attribution how cruel human beings can be to one another
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Background and to appreciate what we have
+Leaf:  S span when we have it
+Inner:  N Joint None Background NS
+Leaf:  N Joint and not take things for granted .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Considering we could always have it much worse .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Not that we need to necessarily get ourselves overly involved in the affairs and well-being of other countries ,', None, None, None, 0), ('but we should definitely be paying attention to what is going on in the world around us .', None, None, None, 1), ('There is human suffering everywhere', None, None, None, 0), ('and I think', None, None, None, 0), ('that most of the time we are completely oblivious to it ,', None, None, None, 0), ("or we do n't want to face it .", None, None, None, 1), ('I believe', None, None, None, 0), ('that it is a good thing', None, None, None, 0), ('to be able to realize', None, None, None, 0), ('how cruel human beings can be to one another', None, None, None, 0), ('and to appreciate what we have', None, None, None, 0), ('when we have it', None, None, None, 0), ('and not take things for granted .', None, None, None, 1), ('Considering we could always have it much worse .', None, None, None, 1)]

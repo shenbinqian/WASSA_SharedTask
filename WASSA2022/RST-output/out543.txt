@@ -1,0 +1,21 @@
+=====================> [[('The article', None, None, None, 0), ('that I just read', None, None, None, 0), ('was about the ongoing violence and fighting between Kenya and South Sudan .', None, None, None, 1), ('The words in the article really struck a nerve with me .', None, None, None, 1), ('It made me cry .', None, None, None, 1), ('There have been thousands of people', None, None, None, 0), ('who have lost their lives during this argument .', None, None, None, 1), ('It makes me want to reach out and help in any way possible .', None, None, None, 1), ('The fighting needs to stop', None, None, None, 0), ('and peace needs to be restored between these two nations .', None, None, None, 1)]]
+Leaf:  N Elaborate The article
+Leaf:  S span that I just read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was about the ongoing violence and fighting between Kenya and South Sudan .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The words in the article really struck a nerve with me .
+Leaf:  S span It made me cry .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There have been thousands of people
+Leaf:  S span who have lost their lives during this argument .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It makes me want to reach out and help in any way possible .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint The fighting needs to stop
+Leaf:  N Joint and peace needs to be restored between these two nations .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The article', None, None, None, 0), ('that I just read', None, None, None, 0), ('was about the ongoing violence and fighting between Kenya and South Sudan .', None, None, None, 1), ('The words in the article really struck a nerve with me .', None, None, None, 1), ('It made me cry .', None, None, None, 1), ('There have been thousands of people', None, None, None, 0), ('who have lost their lives during this argument .', None, None, None, 1), ('It makes me want to reach out and help in any way possible .', None, None, None, 1), ('The fighting needs to stop', None, None, None, 0), ('and peace needs to be restored between these two nations .', None, None, None, 1)]

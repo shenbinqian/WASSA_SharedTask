@@ -1,0 +1,37 @@
+=====================> [[('This situation', None, None, None, 0), ('I read about', None, None, None, 0), ('concerning refugees', None, None, None, 0), ('fleeing to Mediterranean countries such as Greece', None, None, None, 0), ('and Italy is sad', None, None, None, 0), ('and concerns me .', None, None, None, 1), ('Clearly the conditions in their native countries have gotten to be so unbearable', None, None, None, 0), ("that they are willing to risk their own and their families ' lives", None, None, None, 0), ('to try for a different life in another country , with no guarantee', None, None, None, 0), ('that life there would be an improvement .', None, None, None, 1), ('Its difficult to understand . Life must be so terrible in these countries due to horrendous governance ,', None, None, None, 0), ('which I suppose is something difficult for the typical American to picture .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that we live in a country', None, None, None, 0), ('where there are relative freedoms', None, None, None, 0), ('and the individual and his or her family can live independently', None, None, None, 0), ('and get their needs met and wants .', None, None, None, 1), ('Living in fear is no way to live .', None, None, None, 1)]]
+Leaf:  N Elaborate This situation
+Leaf:  S span I read about
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate concerning refugees
+Leaf:  S span fleeing to Mediterranean countries such as Greece
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and Italy is sad
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and concerns me .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause Clearly the conditions in their native countries have gotten to be so unbearable
+Leaf:  N Enablement that they are willing to risk their own and their families ' lives
+Leaf:  N Elaborate to try for a different life in another country , with no guarantee
+Leaf:  S span that life there would be an improvement .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate Its difficult to understand . Life must be so terrible in these countries due to horrendous governance ,
+Leaf:  S span which I suppose is something difficult for the typical American to picture .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm glad
+Leaf:  N Elaborate that we live in a country
+Leaf:  N Joint where there are relative freedoms
+Leaf:  N Joint and the individual and his or her family can live independently
+Leaf:  N Joint and get their needs met and wants .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Living in fear is no way to live .
+Inner:  Root None None Evaluation NS
+[('This situation', None, None, None, 0), ('I read about', None, None, None, 0), ('concerning refugees', None, None, None, 0), ('fleeing to Mediterranean countries such as Greece', None, None, None, 0), ('and Italy is sad', None, None, None, 0), ('and concerns me .', None, None, None, 1), ('Clearly the conditions in their native countries have gotten to be so unbearable', None, None, None, 0), ("that they are willing to risk their own and their families ' lives", None, None, None, 0), ('to try for a different life in another country , with no guarantee', None, None, None, 0), ('that life there would be an improvement .', None, None, None, 1), ('Its difficult to understand . Life must be so terrible in these countries due to horrendous governance ,', None, None, None, 0), ('which I suppose is something difficult for the typical American to picture .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that we live in a country', None, None, None, 0), ('where there are relative freedoms', None, None, None, 0), ('and the individual and his or her family can live independently', None, None, None, 0), ('and get their needs met and wants .', None, None, None, 1), ('Living in fear is no way to live .', None, None, None, 1)]

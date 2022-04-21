@@ -1,0 +1,17 @@
+=====================> [[('I just read this old article about the 2016 election .', None, None, None, 1), ("It 's interesting how many things", None, None, None, 0), ('it talked about', None, None, None, 0), ('that were under reported at the time', None, None, None, 0), ('and have become more widely known in the last year , such as the dark posts on Facebook and modeling results of ads .', None, None, None, 1), ("I just hope we 've learned our lesson", None, None, None, 0), ('since that election', None, None, None, 0), ("and Trump is n't elected for another term .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read this old article about the 2016 election .
+Leaf:  N Elaborate It 's interesting how many things
+Leaf:  S span it talked about
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint that were under reported at the time
+Leaf:  N Joint and have become more widely known in the last year , such as the dark posts on Facebook and modeling results of ads .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background I just hope we 've learned our lesson
+Leaf:  N Temporal since that election
+Leaf:  N Temporal and Trump is n't elected for another term .
+Inner:  S span None Temporal NN
+Inner:  S span None Background NS
+Inner:  Root None None Evaluation NS
+[('I just read this old article about the 2016 election .', None, None, None, 1), ("It 's interesting how many things", None, None, None, 0), ('it talked about', None, None, None, 0), ('that were under reported at the time', None, None, None, 0), ('and have become more widely known in the last year , such as the dark posts on Facebook and modeling results of ads .', None, None, None, 1), ("I just hope we 've learned our lesson", None, None, None, 0), ('since that election', None, None, None, 0), ("and Trump is n't elected for another term .", None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('I read an article', None, None, None, 0), ('about how a man killed himself', None, None, None, 0), ('after killing his wife .', None, None, None, 1), ('It sounded like the man really had some problems .', None, None, None, 1), ('I dont understand', None, None, None, 0), ('how you could kill someone', None, None, None, 0), ('that', None, None, None, 0), ('you say', None, None, None, 0), ('you love .', None, None, None, 1), ('The article said', None, None, None, 0), ('he " hacked his wife to death " .', None, None, None, 1), ('That sure sounds rather violent . The woman was rushed to the hospital all bloody', None, None, None, 0), ('and the man was in a coma .', None, None, None, 1), ('The hospital confirmed', None, None, None, 0), ('that the woman had passed .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article
+Leaf:  N Temporal about how a man killed himself
+Leaf:  S span after killing his wife .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It sounded like the man really had some problems .
+Leaf:  S span I dont understand
+Leaf:  N Elaborate how you could kill someone
+Leaf:  N Attribution that
+Leaf:  S span you say
+Leaf:  N Attribution you love .
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The article said
+Leaf:  N Attribution he " hacked his wife to death " .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint That sure sounds rather violent . The woman was rushed to the hospital all bloody
+Leaf:  N Joint and the man was in a coma .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span The hospital confirmed
+Leaf:  N Attribution that the woman had passed .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I read an article', None, None, None, 0), ('about how a man killed himself', None, None, None, 0), ('after killing his wife .', None, None, None, 1), ('It sounded like the man really had some problems .', None, None, None, 1), ('I dont understand', None, None, None, 0), ('how you could kill someone', None, None, None, 0), ('that', None, None, None, 0), ('you say', None, None, None, 0), ('you love .', None, None, None, 1), ('The article said', None, None, None, 0), ('he " hacked his wife to death " .', None, None, None, 1), ('That sure sounds rather violent . The woman was rushed to the hospital all bloody', None, None, None, 0), ('and the man was in a coma .', None, None, None, 1), ('The hospital confirmed', None, None, None, 0), ('that the woman had passed .', None, None, None, 1)]

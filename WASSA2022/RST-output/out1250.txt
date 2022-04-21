@@ -1,0 +1,27 @@
+=====================> [[('Before social media , you had to pay to get out information about your business .', None, None, None, 1), ('Now , every person and company is its own media brand', None, None, None, 0), ('- and there are significantly less barriers', None, None, None, 0), ('to reaching people.his', None, None, None, 0), ('has allowed smaller brands to gain a foothold in the market much easier .', None, None, None, 1), ('When we see trends like craft beer , food trucks , and local fashion , that is often the result', None, None, None, 0), ('of harnessing social media platforms', None, None, None, 0), ('to build a following in a cost effective way .', None, None, None, 1), ('Prior to smartphones and social adoption , it was much more difficult ( and expensive ) to reach people ,', None, None, None, 0), ('especially if your location was n’t on a main street .', None, None, None, 1), ('One or two small businesses is n’t enough', None, None, None, 0), ('to worry a big brand ,', None, None, None, 0), ('but millions of them around the country can make a serious dent in their market shar', None, None, None, 0)]]
+Leaf:  N Contrast Before social media , you had to pay to get out information about your business .
+Leaf:  N Joint Now , every person and company is its own media brand
+Leaf:  N Elaborate - and there are significantly less barriers
+Leaf:  S span to reaching people.his
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has allowed smaller brands to gain a foothold in the market much easier .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate When we see trends like craft beer , food trucks , and local fashion , that is often the result
+Leaf:  N Enablement of harnessing social media platforms
+Leaf:  S span to build a following in a cost effective way .
+Inner:  S span None Enablement NS
+Inner:  N Comparison None Elaborate NS
+Leaf:  N Condition Prior to smartphones and social adoption , it was much more difficult ( and expensive ) to reach people ,
+Leaf:  S span especially if your location was n’t on a main street .
+Inner:  S span None Condition NS
+Inner:  S span None Comparison NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate One or two small businesses is n’t enough
+Leaf:  S span to worry a big brand ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but millions of them around the country can make a serious dent in their market shar
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Elaborate NS
+Inner:  Root None None Contrast NN
+[('Before social media , you had to pay to get out information about your business .', None, None, None, 1), ('Now , every person and company is its own media brand', None, None, None, 0), ('- and there are significantly less barriers', None, None, None, 0), ('to reaching people.his', None, None, None, 0), ('has allowed smaller brands to gain a foothold in the market much easier .', None, None, None, 1), ('When we see trends like craft beer , food trucks , and local fashion , that is often the result', None, None, None, 0), ('of harnessing social media platforms', None, None, None, 0), ('to build a following in a cost effective way .', None, None, None, 1), ('Prior to smartphones and social adoption , it was much more difficult ( and expensive ) to reach people ,', None, None, None, 0), ('especially if your location was n’t on a main street .', None, None, None, 1), ('One or two small businesses is n’t enough', None, None, None, 0), ('to worry a big brand ,', None, None, None, 0), ('but millions of them around the country can make a serious dent in their market shar', None, None, None, 0)]

@@ -1,0 +1,15 @@
+=====================> [[('The artical is he US closed its education gender gap in 2016 .', None, None, None, 1), ('This means there is a large pool of educated female talent ,', None, None, None, 0), ('even though fewer women are actually working ,', None, None, None, 0), ('as can be seen in the table', None, None, None, 0), ("showing the United States ' scores below .", None, None, None, 1), ('The annual report looks at progress towards equality between men and women in four key areas :', None, None, None, 0), ('educational attainment , health and survival , economic opportunity , and political empowerment .', None, None, None, 1)]]
+Leaf:  N Cause The artical is he US closed its education gender gap in 2016 .
+Leaf:  N Contrast This means there is a large pool of educated female talent ,
+Leaf:  S span even though fewer women are actually working ,
+Inner:  N Attribution None Contrast NS
+Leaf:  N Elaborate as can be seen in the table
+Leaf:  S span showing the United States ' scores below .
+Inner:  S span None Elaborate NS
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate The annual report looks at progress towards equality between men and women in four key areas :
+Leaf:  S span educational attainment , health and survival , economic opportunity , and political empowerment .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The artical is he US closed its education gender gap in 2016 .', None, None, None, 1), ('This means there is a large pool of educated female talent ,', None, None, None, 0), ('even though fewer women are actually working ,', None, None, None, 0), ('as can be seen in the table', None, None, None, 0), ("showing the United States ' scores below .", None, None, None, 1), ('The annual report looks at progress towards equality between men and women in four key areas :', None, None, None, 0), ('educational attainment , health and survival , economic opportunity , and political empowerment .', None, None, None, 1)]

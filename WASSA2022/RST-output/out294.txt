@@ -1,0 +1,19 @@
+=====================> [[("It 's sad the train wreck cost 4 people their lives .", None, None, None, 1), ('One can only hope none of the injured are critical .', None, None, None, 1), ('It would be great', None, None, None, 0), ('if they could find the cause of the accident .', None, None, None, 1), ("If they do n't ,", None, None, None, 0), ("who 's to say", None, None, None, 0), ("it wo n't happen again ?", None, None, None, 1), ('The statistics could be even worse next time .', None, None, None, 1), ('Wish this could have been prevented .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's sad the train wreck cost 4 people their lives .
+Leaf:  N Evaluation One can only hope none of the injured are critical .
+Leaf:  N Condition It would be great
+Leaf:  S span if they could find the cause of the accident .
+Inner:  N Evaluation None Condition NS
+Leaf:  S span If they do n't ,
+Leaf:  S span who 's to say
+Leaf:  N Attribution it wo n't happen again ?
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation The statistics could be even worse next time .
+Leaf:  S span Wish this could have been prevented .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("It 's sad the train wreck cost 4 people their lives .", None, None, None, 1), ('One can only hope none of the injured are critical .', None, None, None, 1), ('It would be great', None, None, None, 0), ('if they could find the cause of the accident .', None, None, None, 1), ("If they do n't ,", None, None, None, 0), ("who 's to say", None, None, None, 0), ("it wo n't happen again ?", None, None, None, 1), ('The statistics could be even worse next time .', None, None, None, 1), ('Wish this could have been prevented .', None, None, None, 1)]

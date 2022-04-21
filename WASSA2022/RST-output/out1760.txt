@@ -1,0 +1,19 @@
+=====================> [[('Damaging the Amazon rain forest , one of the most iconic and well-known rain forests', None, None, None, 0), ('known to man ,', None, None, None, 0), ('just to get oil is simply inexcusable .', None, None, None, 1), ("The US 's hunt for crude oil is coming with disastrous consequences", None, None, None, 0), ('and needs to be rectified .', None, None, None, 1), ('By tearing down the Amazon trees , hurtful greenhouse gases are rising into the air ,', None, None, None, 0), ('damaging the air quality around us .', None, None, None, 1), ("Corporations should n't be able to hurt the environment like this .", None, None, None, 1), ('It makes me angry .', None, None, None, 1)]]
+Leaf:  N Elaborate Damaging the Amazon rain forest , one of the most iconic and well-known rain forests
+Leaf:  S span known to man ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit just to get oil is simply inexcusable .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint The US 's hunt for crude oil is coming with disastrous consequences
+Leaf:  N Joint and needs to be rectified .
+Inner:  N Explanation None Joint NN
+Leaf:  N Cause By tearing down the Amazon trees , hurtful greenhouse gases are rising into the air ,
+Leaf:  S span damaging the air quality around us .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span Corporations should n't be able to hurt the environment like this .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It makes me angry .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Damaging the Amazon rain forest , one of the most iconic and well-known rain forests', None, None, None, 0), ('known to man ,', None, None, None, 0), ('just to get oil is simply inexcusable .', None, None, None, 1), ("The US 's hunt for crude oil is coming with disastrous consequences", None, None, None, 0), ('and needs to be rectified .', None, None, None, 1), ('By tearing down the Amazon trees , hurtful greenhouse gases are rising into the air ,', None, None, None, 0), ('damaging the air quality around us .', None, None, None, 1), ("Corporations should n't be able to hurt the environment like this .", None, None, None, 1), ('It makes me angry .', None, None, None, 1)]

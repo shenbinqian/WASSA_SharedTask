@@ -1,0 +1,27 @@
+=====================> [[('I didnt even bother reading this .', None, None, None, 1), ('I skimmed it .', None, None, None, 1), ("It 's a meaningless bore .", None, None, None, 1), ('Why Im writing you', None, None, None, 0), ('to tell you', None, None, None, 0), ('this is beyond me ,', None, None, None, 0), ('but my masters here believe', None, None, None, 0), ('it will be revealing in some way . And Im nothing if not a slave to my masters . So I write .', None, None, None, 1), ('To you , my friends .', None, None, None, 1), ('I hope', None, None, None, 0), ('you will find more meaningful things', None, None, None, 0), ('to read', None, None, None, 0), ('and do than this kind of crap .', None, None, None, 1)]]
+Leaf:  N Contrast I didnt even bother reading this .
+Leaf:  N Contrast I skimmed it .
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span It 's a meaningless bore .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement Why Im writing you
+Leaf:  S span to tell you
+Leaf:  N Attribution this is beyond me ,
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Leaf:  S span but my masters here believe
+Leaf:  N Attribution it will be revealing in some way . And Im nothing if not a slave to my masters . So I write .
+Inner:  N Contrast None Attribution SN
+Inner:  N Enablement None Contrast SN
+Leaf:  S span To you , my friends .
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span I hope
+Leaf:  N Elaborate you will find more meaningful things
+Leaf:  N Joint to read
+Leaf:  N Joint and do than this kind of crap .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I didnt even bother reading this .', None, None, None, 1), ('I skimmed it .', None, None, None, 1), ("It 's a meaningless bore .", None, None, None, 1), ('Why Im writing you', None, None, None, 0), ('to tell you', None, None, None, 0), ('this is beyond me ,', None, None, None, 0), ('but my masters here believe', None, None, None, 0), ('it will be revealing in some way . And Im nothing if not a slave to my masters . So I write .', None, None, None, 1), ('To you , my friends .', None, None, None, 1), ('I hope', None, None, None, 0), ('you will find more meaningful things', None, None, None, 0), ('to read', None, None, None, 0), ('and do than this kind of crap .', None, None, None, 1)]

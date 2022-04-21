@@ -1,0 +1,21 @@
+=====================> [[('The modeling industry is very different', None, None, None, 0), ('than the rest of the world', None, None, None, 0), ('it seems .', None, None, None, 1), ('I read an article', None, None, None, 0), ('that male models , even the best ones , are paid a fraction of what female models earn .', None, None, None, 1), ('I guess this is because a lot more money is spent by woman in the fashion and personal products industry .', None, None, None, 1), ('The article says', None, None, None, 0), ('more men are grooming themselves', None, None, None, 0), ("and it 's starting to bring wages for male models slowly up .", None, None, None, 1), ("I guess that 's just business .", None, None, None, 1)]]
+Leaf:  N Comparison The modeling industry is very different
+Leaf:  S span than the rest of the world
+Inner:  N Attribution None Comparison NS
+Leaf:  S span it seems .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span I read an article
+Leaf:  N Attribution that male models , even the best ones , are paid a fraction of what female models earn .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I guess this is because a lot more money is spent by woman in the fashion and personal products industry .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span The article says
+Leaf:  N Joint more men are grooming themselves
+Leaf:  N Joint and it 's starting to bring wages for male models slowly up .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I guess that 's just business .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The modeling industry is very different', None, None, None, 0), ('than the rest of the world', None, None, None, 0), ('it seems .', None, None, None, 1), ('I read an article', None, None, None, 0), ('that male models , even the best ones , are paid a fraction of what female models earn .', None, None, None, 1), ('I guess this is because a lot more money is spent by woman in the fashion and personal products industry .', None, None, None, 1), ('The article says', None, None, None, 0), ('more men are grooming themselves', None, None, None, 0), ("and it 's starting to bring wages for male models slowly up .", None, None, None, 1), ("I guess that 's just business .", None, None, None, 1)]

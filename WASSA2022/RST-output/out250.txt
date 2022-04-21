@@ -1,0 +1,19 @@
+=====================> [[('I just read about a group of people', None, None, None, 0), ('that were celebrating Halloween', None, None, None, 0), ('and got hit by a car .', None, None, None, 1), ('It makes me wonder', None, None, None, 0), ('how people can be so irresponsible with children .', None, None, None, 1), ('They were riding on the back of a trailer', None, None, None, 0), ('when they got hit by another car .', None, None, None, 1), ('That is so unsafe .', None, None, None, 1), ("I would n't even want to do that with other adults , let alone children .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read about a group of people
+Leaf:  S span that were celebrating Halloween
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and got hit by a car .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It makes me wonder
+Leaf:  N Elaborate how people can be so irresponsible with children .
+Leaf:  N Temporal They were riding on the back of a trailer
+Leaf:  N Temporal when they got hit by another car .
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation That is so unsafe .
+Leaf:  S span I would n't even want to do that with other adults , let alone children .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read about a group of people', None, None, None, 0), ('that were celebrating Halloween', None, None, None, 0), ('and got hit by a car .', None, None, None, 1), ('It makes me wonder', None, None, None, 0), ('how people can be so irresponsible with children .', None, None, None, 1), ('They were riding on the back of a trailer', None, None, None, 0), ('when they got hit by another car .', None, None, None, 1), ('That is so unsafe .', None, None, None, 1), ("I would n't even want to do that with other adults , let alone children .", None, None, None, 1)]

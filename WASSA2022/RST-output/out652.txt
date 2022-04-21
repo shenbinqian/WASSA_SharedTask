@@ -1,0 +1,37 @@
+=====================> [[('Hey you hear about the Coffee Killer ?', None, None, None, 1), ('In Indonesia some chick', None, None, None, 0), ('who is also Australian', None, None, None, 0), ('has been found guilty of killing her friend', None, None, None, 0), ('by putting cyanide in her coffee .', None, None, None, 1), ('I did not get too many details about all of the evidence', None, None, None, 0), ('that they have against her', None, None, None, 0), ('but to me at least it does not seem like they have that much evidence .', None, None, None, 1), ('I guess', None, None, None, 0), ('she ordered her friend a coffee', None, None, None, 0), ('before her friend got there', None, None, None, 0), ('and right after she took a sip of the coffee', None, None, None, 0), ('she keeled over and died . Pretty crazy , right ? I think', None, None, None, 0), ('she probably did it', None, None, None, 0), ('but their motive is weak', None, None, None, 0), ('and I do not think', None, None, None, 0), ('that she would have been found guilty', None, None, None, 0), ('if the trial was going on in the US .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey you hear about the Coffee Killer ?
+Leaf:  N Elaborate In Indonesia some chick
+Leaf:  S span who is also Australian
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Manner-Means has been found guilty of killing her friend
+Leaf:  S span by putting cyanide in her coffee .
+Inner:  N Same-Unit None Manner-Means NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate I did not get too many details about all of the evidence
+Leaf:  S span that they have against her
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but to me at least it does not seem like they have that much evidence .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Temporal she ordered her friend a coffee
+Leaf:  S span before her friend got there
+Inner:  N Temporal None Temporal NS
+Leaf:  S span and right after she took a sip of the coffee
+Leaf:  N Temporal she keeled over and died . Pretty crazy , right ? I think
+Inner:  S span None Temporal SN
+Leaf:  N Attribution she probably did it
+Inner:  N Temporal None Attribution SN
+Inner:  N Contrast None Temporal NN
+Leaf:  S span but their motive is weak
+Inner:  N Joint None Contrast NS
+Leaf:  S span and I do not think
+Leaf:  N Condition that she would have been found guilty
+Leaf:  S span if the trial was going on in the US .
+Inner:  N Attribution None Condition NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey you hear about the Coffee Killer ?', None, None, None, 1), ('In Indonesia some chick', None, None, None, 0), ('who is also Australian', None, None, None, 0), ('has been found guilty of killing her friend', None, None, None, 0), ('by putting cyanide in her coffee .', None, None, None, 1), ('I did not get too many details about all of the evidence', None, None, None, 0), ('that they have against her', None, None, None, 0), ('but to me at least it does not seem like they have that much evidence .', None, None, None, 1), ('I guess', None, None, None, 0), ('she ordered her friend a coffee', None, None, None, 0), ('before her friend got there', None, None, None, 0), ('and right after she took a sip of the coffee', None, None, None, 0), ('she keeled over and died . Pretty crazy , right ? I think', None, None, None, 0), ('she probably did it', None, None, None, 0), ('but their motive is weak', None, None, None, 0), ('and I do not think', None, None, None, 0), ('that she would have been found guilty', None, None, None, 0), ('if the trial was going on in the US .', None, None, None, 1)]

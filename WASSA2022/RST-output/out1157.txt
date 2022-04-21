@@ -1,0 +1,21 @@
+=====================> [[('This sounds like a horrible accident .', None, None, None, 1), ("I ca n't even imagine", None, None, None, 0), ('what that family is going through .', None, None, None, 1), ('The ones', None, None, None, 0), ('that were involved in the accident', None, None, None, 0), ('but survived', None, None, None, 0), ('probably saw some horrible things , and those kids', None, None, None, 0), ('who witnessed their mother die .', None, None, None, 1), ("As a parent myself that 's a terrifying thought", None, None, None, 0), ('I would never want my son to go through something like that .', None, None, None, 1)]]
+Leaf:  N Summary This sounds like a horrible accident .
+Leaf:  S span I ca n't even imagine
+Leaf:  N Attribution what that family is going through .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The ones
+Leaf:  N Contrast that were involved in the accident
+Leaf:  S span but survived
+Inner:  S span None Contrast NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate probably saw some horrible things , and those kids
+Leaf:  S span who witnessed their mother die .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation As a parent myself that 's a terrifying thought
+Leaf:  S span I would never want my son to go through something like that .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This sounds like a horrible accident .', None, None, None, 1), ("I ca n't even imagine", None, None, None, 0), ('what that family is going through .', None, None, None, 1), ('The ones', None, None, None, 0), ('that were involved in the accident', None, None, None, 0), ('but survived', None, None, None, 0), ('probably saw some horrible things , and those kids', None, None, None, 0), ('who witnessed their mother die .', None, None, None, 1), ("As a parent myself that 's a terrifying thought", None, None, None, 0), ('I would never want my son to go through something like that .', None, None, None, 1)]

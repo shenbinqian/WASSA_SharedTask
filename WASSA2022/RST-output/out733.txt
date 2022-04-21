@@ -1,0 +1,31 @@
+=====================> [[('Floyd Mayweather owes a jewelry store some money .', None, None, None, 1), ("It seems like it 's the richest people in the world", None, None, None, 0), ('that always find some excuse', None, None, None, 0), ('either not to pay taxes or not to pay someone money', None, None, None, 0), ('that is owed .', None, None, None, 1), ('He has all that money ,', None, None, None, 0), ('and he has to be sued', None, None, None, 0), ('to pay for something', None, None, None, 0), ('that he could have easily paid for in full upfront .', None, None, None, 1), ('People like him are ridiculous .', None, None, None, 1), ('There are so many people out here', None, None, None, 0), ('starving ,', None, None, None, 0), ('and here he is sitting in his mansion', None, None, None, 0), ('not paying for something', None, None, None, 0), ('he bought .', None, None, None, 1)]]
+Leaf:  N Summary Floyd Mayweather owes a jewelry store some money .
+Leaf:  N Elaborate It seems like it 's the richest people in the world
+Leaf:  N Elaborate that always find some excuse
+Leaf:  N Elaborate either not to pay taxes or not to pay someone money
+Leaf:  S span that is owed .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He has all that money ,
+Leaf:  N Enablement and he has to be sued
+Leaf:  N Elaborate to pay for something
+Leaf:  S span that he could have easily paid for in full upfront .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Enablement NS
+Inner:  S span None Explanation SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation People like him are ridiculous .
+Leaf:  N Elaborate There are so many people out here
+Leaf:  S span starving ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Manner-Means and here he is sitting in his mansion
+Leaf:  N Elaborate not paying for something
+Leaf:  S span he bought .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Manner-Means NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Floyd Mayweather owes a jewelry store some money .', None, None, None, 1), ("It seems like it 's the richest people in the world", None, None, None, 0), ('that always find some excuse', None, None, None, 0), ('either not to pay taxes or not to pay someone money', None, None, None, 0), ('that is owed .', None, None, None, 1), ('He has all that money ,', None, None, None, 0), ('and he has to be sued', None, None, None, 0), ('to pay for something', None, None, None, 0), ('that he could have easily paid for in full upfront .', None, None, None, 1), ('People like him are ridiculous .', None, None, None, 1), ('There are so many people out here', None, None, None, 0), ('starving ,', None, None, None, 0), ('and here he is sitting in his mansion', None, None, None, 0), ('not paying for something', None, None, None, 0), ('he bought .', None, None, None, 1)]

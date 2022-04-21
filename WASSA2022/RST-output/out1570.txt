@@ -1,0 +1,23 @@
+=====================> [[('Corruption in corporations are an everyday occurrence .', None, None, None, 1), ('And it seems more and more the American workers are the victims of these erroneous fat cats .', None, None, None, 1), ("It 's deplorable that the CEO gets away with corporate corruption", None, None, None, 0), ('and', None, None, None, 0), ('when the conscious of the workers come into play ,', None, None, None, 0), ('they fire', None, None, None, 0), ('and ruin their lively hood .', None, None, None, 1), ('The corporations are in league with Washington', None, None, None, 0), ('due to the money trails .', None, None, None, 1), ('When the money is taken out of politics', None, None, None, 0), ('things will be better .', None, None, None, 1)]]
+Leaf:  N Cause Corruption in corporations are an everyday occurrence .
+Leaf:  N Evaluation And it seems more and more the American workers are the victims of these erroneous fat cats .
+Leaf:  N Joint It 's deplorable that the CEO gets away with corporate corruption
+Leaf:  N Same-Unit and
+Leaf:  S span when the conscious of the workers come into play ,
+Leaf:  N Joint they fire
+Leaf:  N Joint and ruin their lively hood .
+Inner:  N Background None Joint NN
+Inner:  N Same-Unit None Background SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Cause NS
+Leaf:  N Cause The corporations are in league with Washington
+Leaf:  S span due to the money trails .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span When the money is taken out of politics
+Leaf:  N Condition things will be better .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Corruption in corporations are an everyday occurrence .', None, None, None, 1), ('And it seems more and more the American workers are the victims of these erroneous fat cats .', None, None, None, 1), ("It 's deplorable that the CEO gets away with corporate corruption", None, None, None, 0), ('and', None, None, None, 0), ('when the conscious of the workers come into play ,', None, None, None, 0), ('they fire', None, None, None, 0), ('and ruin their lively hood .', None, None, None, 1), ('The corporations are in league with Washington', None, None, None, 0), ('due to the money trails .', None, None, None, 1), ('When the money is taken out of politics', None, None, None, 0), ('things will be better .', None, None, None, 1)]

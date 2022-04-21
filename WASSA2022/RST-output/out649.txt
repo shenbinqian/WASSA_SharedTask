@@ -1,0 +1,39 @@
+=====================> [[('That is just crazy', None, None, None, 0), ('that a person', None, None, None, 0), ('waiting on his surfboard', None, None, None, 0), ('was attacked by a shark .', None, None, None, 1), ('That must have been pretty scary .', None, None, None, 1), ('I am glad', None, None, None, 0), ("that he did n't lose a leg or anything ,", None, None, None, 0), ('but still , that would have been very scary . All of the sudden , boom , you are hit by a shark .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I would want to go to that place again', None, None, None, 0), ('to surf if I was a surfer .', None, None, None, 1), ('I think', None, None, None, 0), ("people need to be cautious when surfing . I do n't think", None, None, None, 0), ('it is really our place to force sharks away ,', None, None, None, 0), ('as they live in the water .', None, None, None, 1), ('I think', None, None, None, 0), ('people just need to be smart and surf', None, None, None, 0), ('where there is a very low chance', None, None, None, 0), ('of being attacked by a shark .', None, None, None, 1)]]
+Leaf:  N Manner-Means That is just crazy
+Leaf:  N Elaborate that a person
+Leaf:  S span waiting on his surfboard
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was attacked by a shark .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Joint That must have been pretty scary .
+Leaf:  S span I am glad
+Leaf:  N Attribution that he did n't lose a leg or anything ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but still , that would have been very scary . All of the sudden , boom , you are hit by a shark .
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I do n't think
+Leaf:  N Enablement I would want to go to that place again
+Leaf:  S span to surf if I was a surfer .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  S span people need to be cautious when surfing . I do n't think
+Leaf:  N Explanation it is really our place to force sharks away ,
+Leaf:  S span as they live in the water .
+Inner:  N Attribution None Explanation NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Elaborate people just need to be smart and surf
+Leaf:  N Elaborate where there is a very low chance
+Leaf:  S span of being attacked by a shark .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('That is just crazy', None, None, None, 0), ('that a person', None, None, None, 0), ('waiting on his surfboard', None, None, None, 0), ('was attacked by a shark .', None, None, None, 1), ('That must have been pretty scary .', None, None, None, 1), ('I am glad', None, None, None, 0), ("that he did n't lose a leg or anything ,", None, None, None, 0), ('but still , that would have been very scary . All of the sudden , boom , you are hit by a shark .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I would want to go to that place again', None, None, None, 0), ('to surf if I was a surfer .', None, None, None, 1), ('I think', None, None, None, 0), ("people need to be cautious when surfing . I do n't think", None, None, None, 0), ('it is really our place to force sharks away ,', None, None, None, 0), ('as they live in the water .', None, None, None, 1), ('I think', None, None, None, 0), ('people just need to be smart and surf', None, None, None, 0), ('where there is a very low chance', None, None, None, 0), ('of being attacked by a shark .', None, None, None, 1)]

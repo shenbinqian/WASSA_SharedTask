@@ -1,0 +1,29 @@
+=====================> [[('Another story', None, None, None, 0), ('that I am sending about Janet Reno .', None, None, None, 1), ('Thought she lived a good and long life ,', None, None, None, 0), ('I always felt sorry for her', None, None, None, 0), ('and always wondered', None, None, None, 0), ('why she accepted the tough job of Attorney General .', None, None, None, 1), ('I felt sorry', None, None, None, 0), ('since she was often attacked for not only political reasons but her appearance also .', None, None, None, 1), ('She was unattractive and somewhat manly looking', None, None, None, 0), ('and the media used that against her .', None, None, None, 1), ('Made fun of her . This article mentions an encounter with Eleanor Roosevelt', None, None, None, 0), ('and her looks remind me of Janet .', None, None, None, 1), ('So maybe that is why she took the post .', None, None, None, 1), ('Wanted to be like her hero .', None, None, None, 1)]]
+Leaf:  N Elaborate Another story
+Leaf:  S span that I am sending about Janet Reno .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Thought she lived a good and long life ,
+Leaf:  N Joint I always felt sorry for her
+Leaf:  S span and always wondered
+Leaf:  N Attribution why she accepted the tough job of Attorney General .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Background I felt sorry
+Leaf:  S span since she was often attacked for not only political reasons but her appearance also .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint She was unattractive and somewhat manly looking
+Leaf:  N Joint and the media used that against her .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint Made fun of her . This article mentions an encounter with Eleanor Roosevelt
+Leaf:  N Joint and her looks remind me of Janet .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span So maybe that is why she took the post .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span Wanted to be like her hero .
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Another story', None, None, None, 0), ('that I am sending about Janet Reno .', None, None, None, 1), ('Thought she lived a good and long life ,', None, None, None, 0), ('I always felt sorry for her', None, None, None, 0), ('and always wondered', None, None, None, 0), ('why she accepted the tough job of Attorney General .', None, None, None, 1), ('I felt sorry', None, None, None, 0), ('since she was often attacked for not only political reasons but her appearance also .', None, None, None, 1), ('She was unattractive and somewhat manly looking', None, None, None, 0), ('and the media used that against her .', None, None, None, 1), ('Made fun of her . This article mentions an encounter with Eleanor Roosevelt', None, None, None, 0), ('and her looks remind me of Janet .', None, None, None, 1), ('So maybe that is why she took the post .', None, None, None, 1), ('Wanted to be like her hero .', None, None, None, 1)]

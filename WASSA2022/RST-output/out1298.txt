@@ -1,0 +1,25 @@
+=====================> [[('This is a big price for reality shows', None, None, None, 0), ('featuring filthy rich people', None, None, None, 0), ('who care more', None, None, None, 0), ('about being seen', None, None, None, 0), ('than being safe .', None, None, None, 1), ("I 'm sorry ,", None, None, None, 0), ("I ca n't feel too bad for Kardashian West", None, None, None, 0), ('for being robbed , with so much tempting loot around .', None, None, None, 1), ('It must have been frightening for her to be tied up ,', None, None, None, 0), ('but', None, None, None, 0), ('if I were that rich ,', None, None, None, 0), ('I certainly would not flaunt it .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a big price for reality shows
+Leaf:  N Elaborate featuring filthy rich people
+Leaf:  N Elaborate who care more
+Leaf:  N Comparison about being seen
+Leaf:  N Comparison than being safe .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I 'm sorry ,
+Leaf:  N Explanation I ca n't feel too bad for Kardashian West
+Leaf:  S span for being robbed , with so much tempting loot around .
+Inner:  N Joint None Explanation NS
+Inner:  N Explanation None Joint NN
+Leaf:  S span It must have been frightening for her to be tied up ,
+Leaf:  N Same-Unit but
+Leaf:  S span if I were that rich ,
+Leaf:  N Condition I certainly would not flaunt it .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('This is a big price for reality shows', None, None, None, 0), ('featuring filthy rich people', None, None, None, 0), ('who care more', None, None, None, 0), ('about being seen', None, None, None, 0), ('than being safe .', None, None, None, 1), ("I 'm sorry ,", None, None, None, 0), ("I ca n't feel too bad for Kardashian West", None, None, None, 0), ('for being robbed , with so much tempting loot around .', None, None, None, 1), ('It must have been frightening for her to be tied up ,', None, None, None, 0), ('but', None, None, None, 0), ('if I were that rich ,', None, None, None, 0), ('I certainly would not flaunt it .', None, None, None, 1)]

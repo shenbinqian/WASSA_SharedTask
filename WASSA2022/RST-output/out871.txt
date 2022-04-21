@@ -1,0 +1,19 @@
+=====================> [[('Another Taliban attack in Afghanistan today ,', None, None, None, 0), ('this time', None, None, None, 0), ('directed against the Germans .', None, None, None, 1), ('A few dead and many wounded , primarily women and children .', None, None, None, 1), ('They said', None, None, None, 0), ('it was in retaliation against US air strikes', None, None, None, 0), ('that have cause a lot of civilian casualties .', None, None, None, 1), ('An endless cycle , just like before . Remind me again', None, None, None, 0), ("why we 're there .", None, None, None, 1)]]
+Leaf:  N Elaborate Another Taliban attack in Afghanistan today ,
+Leaf:  N Elaborate this time
+Leaf:  S span directed against the Germans .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate A few dead and many wounded , primarily women and children .
+Leaf:  S span They said
+Leaf:  N Elaborate it was in retaliation against US air strikes
+Leaf:  S span that have cause a lot of civilian casualties .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Leaf:  S span An endless cycle , just like before . Remind me again
+Leaf:  N Attribution why we 're there .
+Inner:  S span None Attribution SN
+Inner:  Root None None Summary NS
+[('Another Taliban attack in Afghanistan today ,', None, None, None, 0), ('this time', None, None, None, 0), ('directed against the Germans .', None, None, None, 1), ('A few dead and many wounded , primarily women and children .', None, None, None, 1), ('They said', None, None, None, 0), ('it was in retaliation against US air strikes', None, None, None, 0), ('that have cause a lot of civilian casualties .', None, None, None, 1), ('An endless cycle , just like before . Remind me again', None, None, None, 0), ("why we 're there .", None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('I completely agree with what the quotes in the article .', None, None, None, 1), ('Things in this country are awful and unsafe for minorities .', None, None, None, 1), ('Things need to change .', None, None, None, 1), ('The entire country and justice system are set in racism .', None, None, None, 1), ('I wish people', None, None, None, 0), ('who claim', None, None, None, 0), ('they', None, None, None, 0), ('" do n\'t care for politics " or support " blue lives "', None, None, None, 0), ('would actually stop to listen to what these people have to say .', None, None, None, 1)]]
+Leaf:  N Evaluation I completely agree with what the quotes in the article .
+Leaf:  S span Things in this country are awful and unsafe for minorities .
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Contrast Things need to change .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Evaluation The entire country and justice system are set in racism .
+Leaf:  N Elaborate I wish people
+Leaf:  S span who claim
+Leaf:  N Same-Unit they
+Leaf:  N Same-Unit " do n't care for politics " or support " blue lives "
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit would actually stop to listen to what these people have to say .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I completely agree with what the quotes in the article .', None, None, None, 1), ('Things in this country are awful and unsafe for minorities .', None, None, None, 1), ('Things need to change .', None, None, None, 1), ('The entire country and justice system are set in racism .', None, None, None, 1), ('I wish people', None, None, None, 0), ('who claim', None, None, None, 0), ('they', None, None, None, 0), ('" do n\'t care for politics " or support " blue lives "', None, None, None, 0), ('would actually stop to listen to what these people have to say .', None, None, None, 1)]

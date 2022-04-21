@@ -1,0 +1,31 @@
+=====================> [[('Honestly I do feel bad for him', None, None, None, 0), ('but at the same time you should not be taking a selfie around an animal', None, None, None, 0), ('that is clearly so dangerous .', None, None, None, 1), ('Pythons are really dangerous animals', None, None, None, 0), ('and I get that the man had rescued the reptile from a local hotel', None, None, None, 0), ('but even still , you need to have your eyes on that thing at all times .', None, None, None, 1), ('I feel like some people are not as responsible', None, None, None, 0), ('as they should be ,', None, None, None, 0), ('and that goes for anything . People are too busy spending their life', None, None, None, 0), ('looking through the viewfinder of their smartphone camera', None, None, None, 0), ('and are so busy trying to document everything online in their desperate , never ending quest for more likes and followers that they are willing to put their personal safety on the line ,', None, None, None, 0), ("and that 's really sad", None, None, None, 0), ('and I think', None, None, None, 0), ("it really speaks to where we 're going as a society as well ,", None, None, None, 0), ("and it 's frustrating .", None, None, None, 1)]]
+Leaf:  N Contrast Honestly I do feel bad for him
+Leaf:  N Elaborate but at the same time you should not be taking a selfie around an animal
+Leaf:  S span that is clearly so dangerous .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Contrast NS
+Leaf:  N Joint Pythons are really dangerous animals
+Leaf:  N Joint and I get that the man had rescued the reptile from a local hotel
+Inner:  S span None Joint NN
+Leaf:  N Contrast but even still , you need to have your eyes on that thing at all times .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Comparison I feel like some people are not as responsible
+Leaf:  S span as they should be ,
+Inner:  N Evaluation None Comparison NS
+Leaf:  N Manner-Means and that goes for anything . People are too busy spending their life
+Leaf:  S span looking through the viewfinder of their smartphone camera
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Joint and are so busy trying to document everything online in their desperate , never ending quest for more likes and followers that they are willing to put their personal safety on the line ,
+Inner:  N Evaluation None Joint NN
+Leaf:  S span and that 's really sad
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Leaf:  S span and I think
+Leaf:  N Attribution it really speaks to where we 're going as a society as well ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span and it 's frustrating .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Honestly I do feel bad for him', None, None, None, 0), ('but at the same time you should not be taking a selfie around an animal', None, None, None, 0), ('that is clearly so dangerous .', None, None, None, 1), ('Pythons are really dangerous animals', None, None, None, 0), ('and I get that the man had rescued the reptile from a local hotel', None, None, None, 0), ('but even still , you need to have your eyes on that thing at all times .', None, None, None, 1), ('I feel like some people are not as responsible', None, None, None, 0), ('as they should be ,', None, None, None, 0), ('and that goes for anything . People are too busy spending their life', None, None, None, 0), ('looking through the viewfinder of their smartphone camera', None, None, None, 0), ('and are so busy trying to document everything online in their desperate , never ending quest for more likes and followers that they are willing to put their personal safety on the line ,', None, None, None, 0), ("and that 's really sad", None, None, None, 0), ('and I think', None, None, None, 0), ("it really speaks to where we 're going as a society as well ,", None, None, None, 0), ("and it 's frustrating .", None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about famed basketball star , Scottie Pippen .', None, None, None, 1), ('Someone thought', None, None, None, 0), ('it was new worthy to make the world aware', None, None, None, 0), ('that he and his wife got into a screaming match', None, None, None, 0), ('and she was afraid .', None, None, None, 1), ('The truth is , no one', None, None, None, 0), ('but their family knows', None, None, None, 0), ("what 's really going on .", None, None, None, 1), ('His wife could be a very dramatic person .', None, None, None, 1), ('She could be giving him a hard time .', None, None, None, 1), ('While domestic violence and emotional abuse should never be tolerated ,', None, None, None, 0), ('we should leave people to deal with their own screaming matches .', None, None, None, 1)]]
+Leaf:  S span I just read an article about famed basketball star , Scottie Pippen .
+Leaf:  S span Someone thought
+Leaf:  S span it was new worthy to make the world aware
+Leaf:  N Joint that he and his wife got into a screaming match
+Leaf:  N Joint and she was afraid .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Same-Unit The truth is , no one
+Leaf:  S span but their family knows
+Leaf:  N Attribution what 's really going on .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint His wife could be a very dramatic person .
+Leaf:  N Joint She could be giving him a hard time .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span While domestic violence and emotional abuse should never be tolerated ,
+Leaf:  N Contrast we should leave people to deal with their own screaming matches .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('I just read an article about famed basketball star , Scottie Pippen .', None, None, None, 1), ('Someone thought', None, None, None, 0), ('it was new worthy to make the world aware', None, None, None, 0), ('that he and his wife got into a screaming match', None, None, None, 0), ('and she was afraid .', None, None, None, 1), ('The truth is , no one', None, None, None, 0), ('but their family knows', None, None, None, 0), ("what 's really going on .", None, None, None, 1), ('His wife could be a very dramatic person .', None, None, None, 1), ('She could be giving him a hard time .', None, None, None, 1), ('While domestic violence and emotional abuse should never be tolerated ,', None, None, None, 0), ('we should leave people to deal with their own screaming matches .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Can you believe', None, None, None, 0), ('how people are acting over this ?', None, None, None, 1), ('They are acting like a bunch of rabid animals .', None, None, None, 1), ('This is not how you protest .', None, None, None, 1), ('Going around', None, None, None, 0), ('acting violent and destroying things', None, None, None, 0), ('does not solve anything .', None, None, None, 1), ('This is chaos .', None, None, None, 1), ('There is no excuse for this type of behavior', None, None, None, 0), ("just because you do n't agree with an election .", None, None, None, 1)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution how people are acting over this ?
+Inner:  N Summary None Attribution SN
+Leaf:  N Summary They are acting like a bunch of rabid animals .
+Leaf:  S span This is not how you protest .
+Inner:  S span None Summary NS
+Inner:  N Summary None Summary NS
+Leaf:  N Elaborate Going around
+Leaf:  S span acting violent and destroying things
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit does not solve anything .
+Inner:  S span None Same-Unit NN
+Inner:  N Summary None Summary NS
+Leaf:  N Elaborate This is chaos .
+Leaf:  N Cause There is no excuse for this type of behavior
+Leaf:  S span just because you do n't agree with an election .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Can you believe', None, None, None, 0), ('how people are acting over this ?', None, None, None, 1), ('They are acting like a bunch of rabid animals .', None, None, None, 1), ('This is not how you protest .', None, None, None, 1), ('Going around', None, None, None, 0), ('acting violent and destroying things', None, None, None, 0), ('does not solve anything .', None, None, None, 1), ('This is chaos .', None, None, None, 1), ('There is no excuse for this type of behavior', None, None, None, 0), ("just because you do n't agree with an election .", None, None, None, 1)]

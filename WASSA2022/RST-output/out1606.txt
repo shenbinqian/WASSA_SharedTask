@@ -1,0 +1,21 @@
+=====================> [[('The fact', None, None, None, 0), ('that so many people still die of smoking deaths is unbelievable .', None, None, None, 1), ('With so much knowledge', None, None, None, 0), ('these days we should be able to educate people about the danger', None, None, None, 0), ('associated with smoking', None, None, None, 0), ('and change this pattern !', None, None, None, 1), ('And the fact', None, None, None, 0), ('that the WHO recommends taxation at 75 percent of retail cost', None, None, None, 0), ('and NO states do this', None, None, None, 0), ('is crazy !', None, None, None, 1)]]
+Leaf:  N Elaborate The fact
+Leaf:  S span that so many people still die of smoking deaths is unbelievable .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement With so much knowledge
+Leaf:  N Elaborate these days we should be able to educate people about the danger
+Leaf:  S span associated with smoking
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and change this pattern !
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Enablement NS
+Leaf:  N Elaborate And the fact
+Leaf:  N Comparison that the WHO recommends taxation at 75 percent of retail cost
+Leaf:  N Comparison and NO states do this
+Inner:  S span None Comparison NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is crazy !
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The fact', None, None, None, 0), ('that so many people still die of smoking deaths is unbelievable .', None, None, None, 1), ('With so much knowledge', None, None, None, 0), ('these days we should be able to educate people about the danger', None, None, None, 0), ('associated with smoking', None, None, None, 0), ('and change this pattern !', None, None, None, 1), ('And the fact', None, None, None, 0), ('that the WHO recommends taxation at 75 percent of retail cost', None, None, None, 0), ('and NO states do this', None, None, None, 0), ('is crazy !', None, None, None, 1)]

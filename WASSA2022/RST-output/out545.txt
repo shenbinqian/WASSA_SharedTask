@@ -1,0 +1,23 @@
+=====================> [[('The article', None, None, None, 0), ('I just read', None, None, None, 0), ('discusses how the US is driving the extinction of Amazon rain forest', None, None, None, 0), ('by importing Amazon oil .', None, None, None, 1), ('This story made me feel very upset .', None, None, None, 1), ("The world 's rain forests are play a major role in our existence .", None, None, None, 1), ('Without them ,', None, None, None, 0), ('we would probably no longer exist .', None, None, None, 1), ('It makes me feel like there are people out there', None, None, None, 0), ('that just care about making a profit .', None, None, None, 1), ('These people need to open their eyes to the bigger picture .', None, None, None, 1)]]
+Leaf:  N Elaborate The article
+Leaf:  S span I just read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Manner-Means discusses how the US is driving the extinction of Amazon rain forest
+Leaf:  S span by importing Amazon oil .
+Inner:  N Same-Unit None Manner-Means NS
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Explanation This story made me feel very upset .
+Leaf:  N Evaluation The world 's rain forests are play a major role in our existence .
+Leaf:  S span Without them ,
+Leaf:  N Condition we would probably no longer exist .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate It makes me feel like there are people out there
+Leaf:  S span that just care about making a profit .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span These people need to open their eyes to the bigger picture .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Cause NS
+[('The article', None, None, None, 0), ('I just read', None, None, None, 0), ('discusses how the US is driving the extinction of Amazon rain forest', None, None, None, 0), ('by importing Amazon oil .', None, None, None, 1), ('This story made me feel very upset .', None, None, None, 1), ("The world 's rain forests are play a major role in our existence .", None, None, None, 1), ('Without them ,', None, None, None, 0), ('we would probably no longer exist .', None, None, None, 1), ('It makes me feel like there are people out there', None, None, None, 0), ('that just care about making a profit .', None, None, None, 1), ('These people need to open their eyes to the bigger picture .', None, None, None, 1)]

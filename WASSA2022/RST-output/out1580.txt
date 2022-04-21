@@ -1,0 +1,27 @@
+=====================> [[('I think', None, None, None, 0), ('protests these days are getting out of hand .', None, None, None, 1), ("It 's one thing", None, None, None, 0), ('if people want to protest peacefully ,', None, None, None, 0), ("but it 's another", None, None, None, 0), ('if they are damaging property', None, None, None, 0), ('and being aggressive and dangerous .', None, None, None, 1), ('I believe', None, None, None, 0), ('people should have a right', None, None, None, 0), ('to protest ,', None, None, None, 0), ('but some laws must be in place .', None, None, None, 1), ("If you ca n't follow them", None, None, None, 0), ('there will need to be consequences .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution protests these days are getting out of hand .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Background It 's one thing
+Leaf:  S span if people want to protest peacefully ,
+Inner:  N Contrast None Background NS
+Leaf:  N Background but it 's another
+Leaf:  N Joint if they are damaging property
+Leaf:  N Joint and being aggressive and dangerous .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I believe
+Leaf:  N Elaborate people should have a right
+Leaf:  S span to protest ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but some laws must be in place .
+Inner:  N Attribution None Contrast NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If you ca n't follow them
+Leaf:  N Condition there will need to be consequences .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('protests these days are getting out of hand .', None, None, None, 1), ("It 's one thing", None, None, None, 0), ('if people want to protest peacefully ,', None, None, None, 0), ("but it 's another", None, None, None, 0), ('if they are damaging property', None, None, None, 0), ('and being aggressive and dangerous .', None, None, None, 1), ('I believe', None, None, None, 0), ('people should have a right', None, None, None, 0), ('to protest ,', None, None, None, 0), ('but some laws must be in place .', None, None, None, 1), ("If you ca n't follow them", None, None, None, 0), ('there will need to be consequences .', None, None, None, 1)]

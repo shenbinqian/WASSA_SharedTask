@@ -1,0 +1,31 @@
+=====================> [[('This is just sick .', None, None, None, 1), ('It kills me', None, None, None, 0), ('that this lady is a parent .', None, None, None, 1), ('I am more confused', None, None, None, 0), ('that the step-father had no idea .', None, None, None, 1), ('I doubt', None, None, None, 0), ('after moving to multiple houses', None, None, None, 0), ('that you would not have noticed something was off . I mean you never went into these closets ?', None, None, None, 1), ('The biggest issue here though is that this woman thought', None, None, None, 0), ('she would rid herself of a problem', None, None, None, 0), ('because of social services checking in on her .', None, None, None, 1), ('It is disgusting . I am surprised', None, None, None, 0), ('the other kids survived .', None, None, None, 1), ('They all must have lived in fear of this lady .', None, None, None, 1), ('Makes me so mad people kill kids .', None, None, None, 1)]]
+Leaf:  N Joint This is just sick .
+Leaf:  S span It kills me
+Leaf:  N Attribution that this lady is a parent .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I am more confused
+Leaf:  N Attribution that the step-father had no idea .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I doubt
+Leaf:  S span after moving to multiple houses
+Leaf:  N Attribution that you would not have noticed something was off . I mean you never went into these closets ?
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The biggest issue here though is that this woman thought
+Leaf:  N Cause she would rid herself of a problem
+Leaf:  S span because of social services checking in on her .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is disgusting . I am surprised
+Leaf:  N Attribution the other kids survived .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They all must have lived in fear of this lady .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Makes me so mad people kill kids .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is just sick .', None, None, None, 1), ('It kills me', None, None, None, 0), ('that this lady is a parent .', None, None, None, 1), ('I am more confused', None, None, None, 0), ('that the step-father had no idea .', None, None, None, 1), ('I doubt', None, None, None, 0), ('after moving to multiple houses', None, None, None, 0), ('that you would not have noticed something was off . I mean you never went into these closets ?', None, None, None, 1), ('The biggest issue here though is that this woman thought', None, None, None, 0), ('she would rid herself of a problem', None, None, None, 0), ('because of social services checking in on her .', None, None, None, 1), ('It is disgusting . I am surprised', None, None, None, 0), ('the other kids survived .', None, None, None, 1), ('They all must have lived in fear of this lady .', None, None, None, 1), ('Makes me so mad people kill kids .', None, None, None, 1)]

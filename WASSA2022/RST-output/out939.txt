@@ -1,0 +1,21 @@
+=====================> [[('Of course I only know', None, None, None, 0), ('what I read in the article .', None, None, None, 1), ('It sounds like it could be the ex police officer was trying to protect himself .', None, None, None, 1), ('The son was already arrested for assaulted the father .', None, None, None, 1), ('I believe', None, None, None, 0), ('the police will investigate the shooting', None, None, None, 0), ('and take the necessary actions .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('the police will look the other way', None, None, None, 0), ('just because he is an ex police officer .', None, None, None, 1)]]
+Leaf:  S span Of course I only know
+Leaf:  N Attribution what I read in the article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It sounds like it could be the ex police officer was trying to protect himself .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The son was already arrested for assaulted the father .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I believe
+Leaf:  N Joint the police will investigate the shooting
+Leaf:  N Joint and take the necessary actions .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I do n't think
+Leaf:  N Cause the police will look the other way
+Leaf:  S span just because he is an ex police officer .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Of course I only know', None, None, None, 0), ('what I read in the article .', None, None, None, 1), ('It sounds like it could be the ex police officer was trying to protect himself .', None, None, None, 1), ('The son was already arrested for assaulted the father .', None, None, None, 1), ('I believe', None, None, None, 0), ('the police will investigate the shooting', None, None, None, 0), ('and take the necessary actions .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('the police will look the other way', None, None, None, 0), ('just because he is an ex police officer .', None, None, None, 1)]

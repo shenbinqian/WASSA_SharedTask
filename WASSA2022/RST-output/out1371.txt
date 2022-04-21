@@ -1,0 +1,19 @@
+=====================> [[('That is nice .', None, None, None, 1), ('Isis is using Chemical Weapons against us now', None, None, None, 0), ('?', None, None, None, 1), ('What is the world coming to ,', None, None, None, 0), ('and how much longer are we going to put our military out there for this ?', None, None, None, 1), ('Especially now', None, None, None, 0), ('that they are being exposed to chemicals', None, None, None, 0), ('that can burn the skin , and due some bad damage .', None, None, None, 1), ("This does n't does n't seem right at all .", None, None, None, 1)]]
+Leaf:  S span That is nice .
+Leaf:  N Contrast Isis is using Chemical Weapons against us now
+Leaf:  N Contrast ?
+Inner:  N Joint None Contrast NN
+Leaf:  N Joint What is the world coming to ,
+Leaf:  N Joint and how much longer are we going to put our military out there for this ?
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Especially now
+Leaf:  N Elaborate that they are being exposed to chemicals
+Leaf:  S span that can burn the skin , and due some bad damage .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Inner:  N Evaluation None Evaluation SN
+Leaf:  S span This does n't does n't seem right at all .
+Inner:  Root None None Evaluation NS
+[('That is nice .', None, None, None, 1), ('Isis is using Chemical Weapons against us now', None, None, None, 0), ('?', None, None, None, 1), ('What is the world coming to ,', None, None, None, 0), ('and how much longer are we going to put our military out there for this ?', None, None, None, 1), ('Especially now', None, None, None, 0), ('that they are being exposed to chemicals', None, None, None, 0), ('that can burn the skin , and due some bad damage .', None, None, None, 1), ("This does n't does n't seem right at all .", None, None, None, 1)]

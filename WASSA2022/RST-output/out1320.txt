@@ -1,0 +1,15 @@
+=====================> [[('Even though Donald trump condemns these actions by his supporters', None, None, None, 0), ("it does n't stop the fact", None, None, None, 0), ('that he incites this sort of behavior with his comments and his proposed laws .', None, None, None, 1), ('Trumps supporters , well a decent majority love his call of racism and bigotry .', None, None, None, 1), ('It is bno surpise', None, None, None, 0), ('that his supporters are the epitomy of racisma', None, None, None, 0), ('nd there behavior is not surpring .', None, None, None, 1)]]
+Leaf:  S span Even though Donald trump condemns these actions by his supporters
+Leaf:  N Elaborate it does n't stop the fact
+Leaf:  S span that he incites this sort of behavior with his comments and his proposed laws .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Evaluation Trumps supporters , well a decent majority love his call of racism and bigotry .
+Leaf:  N Elaborate It is bno surpise
+Leaf:  N Joint that his supporters are the epitomy of racisma
+Leaf:  N Joint nd there behavior is not surpring .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Even though Donald trump condemns these actions by his supporters', None, None, None, 0), ("it does n't stop the fact", None, None, None, 0), ('that he incites this sort of behavior with his comments and his proposed laws .', None, None, None, 1), ('Trumps supporters , well a decent majority love his call of racism and bigotry .', None, None, None, 1), ('It is bno surpise', None, None, None, 0), ('that his supporters are the epitomy of racisma', None, None, None, 0), ('nd there behavior is not surpring .', None, None, None, 1)]

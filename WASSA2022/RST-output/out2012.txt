@@ -1,0 +1,21 @@
+=====================> [[('Most people just got " sick and tired "', None, None, None, 0), ('about hearing the elections , on either side ,', None, None, None, 0), ("and did n't want to bother with it anymore .", None, None, None, 1), ('I think', None, None, None, 0), ("it 's partially responsible for Trump getting elected .", None, None, None, 1), ("You ca n't escape the news", None, None, None, 0), ("when it 's on every device", None, None, None, 0), ("that you 've got ,", None, None, None, 0), ('and most people are reading the news on their devices', None, None, None, 0), ('when they used to be looking at their friends .', None, None, None, 1)]]
+Leaf:  N Background Most people just got " sick and tired "
+Leaf:  S span about hearing the elections , on either side ,
+Inner:  N Joint None Background NS
+Leaf:  N Joint and did n't want to bother with it anymore .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  N Attribution it 's partially responsible for Trump getting elected .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Background You ca n't escape the news
+Leaf:  N Elaborate when it 's on every device
+Leaf:  S span that you 've got ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Temporal and most people are reading the news on their devices
+Leaf:  S span when they used to be looking at their friends .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Background NS
+Inner:  Root None None Topic-Change NN
+[('Most people just got " sick and tired "', None, None, None, 0), ('about hearing the elections , on either side ,', None, None, None, 0), ("and did n't want to bother with it anymore .", None, None, None, 1), ('I think', None, None, None, 0), ("it 's partially responsible for Trump getting elected .", None, None, None, 1), ("You ca n't escape the news", None, None, None, 0), ("when it 's on every device", None, None, None, 0), ("that you 've got ,", None, None, None, 0), ('and most people are reading the news on their devices', None, None, None, 0), ('when they used to be looking at their friends .', None, None, None, 1)]

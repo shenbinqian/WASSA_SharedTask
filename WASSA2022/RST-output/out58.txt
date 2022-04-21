@@ -1,0 +1,27 @@
+=====================> [[('Apparently another Christian was murdered in a Muslim land ,', None, None, None, 0), ('and the excuse was that he blasphemed ,', None, None, None, 0), ('when he had really just shared an anti-ISIS cartoon .', None, None, None, 1), ('It is no wonder that religious minorities in Syria supported Assad .', None, None, None, 1), ('At least he protects them .', None, None, None, 1), ('He probably has committed atrocities ,', None, None, None, 0), ('but it seems every side has committed atrocities there .', None, None, None, 1), ('This murder was in Jordan ,', None, None, None, 0), ('and even though the Jordanian royals come off as urbane Westerners ,', None, None, None, 0), ('there is obviously an undercurrent of extreme Islamism in some of the population .', None, None, None, 1), ('Christians are murdered all the time around the world ,', None, None, None, 0), ('but this rarely gets attention in the US media ,', None, None, None, 0), ('which is completely corrupt .', None, None, None, 1)]]
+Leaf:  N Elaborate Apparently another Christian was murdered in a Muslim land ,
+Leaf:  N Temporal and the excuse was that he blasphemed ,
+Leaf:  S span when he had really just shared an anti-ISIS cartoon .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is no wonder that religious minorities in Syria supported Assad .
+Leaf:  S span At least he protects them .
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Contrast He probably has committed atrocities ,
+Leaf:  N Contrast but it seems every side has committed atrocities there .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate This murder was in Jordan ,
+Leaf:  S span and even though the Jordanian royals come off as urbane Westerners ,
+Leaf:  N Contrast there is obviously an undercurrent of extreme Islamism in some of the population .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Contrast Christians are murdered all the time around the world ,
+Leaf:  N Elaborate but this rarely gets attention in the US media ,
+Leaf:  S span which is completely corrupt .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Topic-Change None Contrast NN
+Inner:  Root None None Topic-Change NN
+[('Apparently another Christian was murdered in a Muslim land ,', None, None, None, 0), ('and the excuse was that he blasphemed ,', None, None, None, 0), ('when he had really just shared an anti-ISIS cartoon .', None, None, None, 1), ('It is no wonder that religious minorities in Syria supported Assad .', None, None, None, 1), ('At least he protects them .', None, None, None, 1), ('He probably has committed atrocities ,', None, None, None, 0), ('but it seems every side has committed atrocities there .', None, None, None, 1), ('This murder was in Jordan ,', None, None, None, 0), ('and even though the Jordanian royals come off as urbane Westerners ,', None, None, None, 0), ('there is obviously an undercurrent of extreme Islamism in some of the population .', None, None, None, 1), ('Christians are murdered all the time around the world ,', None, None, None, 0), ('but this rarely gets attention in the US media ,', None, None, None, 0), ('which is completely corrupt .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[("Why ca n't people just live in peace ?", None, None, None, 1), ('These things happen way too often .', None, None, None, 1), ("What does killing innocent people do to further an offender 's cause ?", None, None, None, 1), ("I ca n't imagine the panic and terror", None, None, None, 0), ('the attendees must have felt .', None, None, None, 1), ('It makes me nervous every time', None, None, None, 0), ("I 'm in a crowded venue .", None, None, None, 1), ('You like to think', None, None, None, 0), ("it ca n't happen to you , but honestly , you just do n't know .", None, None, None, 1), ('We all have such a short time here ,', None, None, None, 0), ('we should be able to enjoy it', None, None, None, 0), ('without fear .', None, None, None, 1)]]
+Leaf:  N Explanation Why ca n't people just live in peace ?
+Leaf:  N Joint These things happen way too often .
+Leaf:  N Joint What does killing innocent people do to further an offender 's cause ?
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate I ca n't imagine the panic and terror
+Leaf:  S span the attendees must have felt .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition It makes me nervous every time
+Leaf:  S span I 'm in a crowded venue .
+Inner:  N Elaborate None Condition NS
+Leaf:  S span You like to think
+Leaf:  N Attribution it ca n't happen to you , but honestly , you just do n't know .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span We all have such a short time here ,
+Leaf:  N Manner-Means we should be able to enjoy it
+Leaf:  S span without fear .
+Inner:  N Background None Manner-Means NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[("Why ca n't people just live in peace ?", None, None, None, 1), ('These things happen way too often .', None, None, None, 1), ("What does killing innocent people do to further an offender 's cause ?", None, None, None, 1), ("I ca n't imagine the panic and terror", None, None, None, 0), ('the attendees must have felt .', None, None, None, 1), ('It makes me nervous every time', None, None, None, 0), ("I 'm in a crowded venue .", None, None, None, 1), ('You like to think', None, None, None, 0), ("it ca n't happen to you , but honestly , you just do n't know .", None, None, None, 1), ('We all have such a short time here ,', None, None, None, 0), ('we should be able to enjoy it', None, None, None, 0), ('without fear .', None, None, None, 1)]

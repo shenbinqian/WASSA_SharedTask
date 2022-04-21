@@ -1,0 +1,23 @@
+=====================> [[('Who knew', None, None, None, 0), ('that a typhoon', None, None, None, 0), ('hitting two countries', None, None, None, 0), ('would be less disturbing that articles about trees and dust .', None, None, None, 1), ('Our compassion is ruled by numbers', None, None, None, 0), ('and when two people die a storm we yawn .', None, None, None, 1), ('But show us dead trees', None, None, None, 0), ('for tell us', None, None, None, 0), ('we are breathing residue for a toilet cleaner', None, None, None, 0), ('and we freeze with panic .', None, None, None, 1), ('Perspective is a hard thing to find sometimes .', None, None, None, 1)]]
+Leaf:  S span Who knew
+Leaf:  N Elaborate that a typhoon
+Leaf:  S span hitting two countries
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would be less disturbing that articles about trees and dust .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint Our compassion is ruled by numbers
+Leaf:  N Joint and when two people die a storm we yawn .
+Inner:  N Contrast None Joint NN
+Leaf:  N Enablement But show us dead trees
+Leaf:  S span for tell us
+Leaf:  N Attribution we are breathing residue for a toilet cleaner
+Inner:  S span None Attribution SN
+Leaf:  N Cause and we freeze with panic .
+Inner:  S span None Cause SN
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Perspective is a hard thing to find sometimes .
+Inner:  Root None None Evaluation NS
+[('Who knew', None, None, None, 0), ('that a typhoon', None, None, None, 0), ('hitting two countries', None, None, None, 0), ('would be less disturbing that articles about trees and dust .', None, None, None, 1), ('Our compassion is ruled by numbers', None, None, None, 0), ('and when two people die a storm we yawn .', None, None, None, 1), ('But show us dead trees', None, None, None, 0), ('for tell us', None, None, None, 0), ('we are breathing residue for a toilet cleaner', None, None, None, 0), ('and we freeze with panic .', None, None, None, 1), ('Perspective is a hard thing to find sometimes .', None, None, None, 1)]

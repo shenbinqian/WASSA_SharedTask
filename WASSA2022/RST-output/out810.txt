@@ -1,0 +1,23 @@
+=====================> [[('I am stressed about this article', None, None, None, 0), ('since gasoline is involved .', None, None, None, 1), ('Gasoline is a big thing not just for me , my family , my frienda', None, None, None, 0), ('but it is a big thing for everyone .', None, None, None, 1), ('It is always a bad news', None, None, None, 0), ('to know', None, None, None, 0), ('that something', None, None, None, 0), ('like this happened or happening', None, None, None, 0), ('because it will slow down the work', None, None, None, 0), ('we have to do .', None, None, None, 1), ('It destroys plans and budget of every individual .', None, None, None, 1)]]
+Leaf:  N Cause I am stressed about this article
+Leaf:  S span since gasoline is involved .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Gasoline is a big thing not just for me , my family , my frienda
+Leaf:  N Elaborate but it is a big thing for everyone .
+Inner:  N Elaborate None Elaborate SN
+Leaf:  N Elaborate It is always a bad news
+Leaf:  S span to know
+Leaf:  N Elaborate that something
+Leaf:  S span like this happened or happening
+Inner:  N Attribution None Elaborate NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate because it will slow down the work
+Leaf:  S span we have to do .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span It destroys plans and budget of every individual .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I am stressed about this article', None, None, None, 0), ('since gasoline is involved .', None, None, None, 1), ('Gasoline is a big thing not just for me , my family , my frienda', None, None, None, 0), ('but it is a big thing for everyone .', None, None, None, 1), ('It is always a bad news', None, None, None, 0), ('to know', None, None, None, 0), ('that something', None, None, None, 0), ('like this happened or happening', None, None, None, 0), ('because it will slow down the work', None, None, None, 0), ('we have to do .', None, None, None, 1), ('It destroys plans and budget of every individual .', None, None, None, 1)]

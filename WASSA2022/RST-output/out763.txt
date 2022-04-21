@@ -1,0 +1,23 @@
+=====================> [[('I can not believe', None, None, None, 0), ("that the women in Trump 's base do n't understand", None, None, None, 0), ('that they are electing men', None, None, None, 0), ('who continue to ensure', None, None, None, 0), ('that they remain subservient and demeaned .', None, None, None, 1), ('I understand the whole " traditional family " structure ,', None, None, None, 0), ('but this is ridiculous .', None, None, None, 1), ('Averting your eyes to abject misogyny', None, None, None, 0), ('because you want to win', None, None, None, 0), ('is appalling and disgusting .', None, None, None, 1), ("I just do n't understand .", None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Attribution that the women in Trump 's base do n't understand
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate that they are electing men
+Leaf:  S span who continue to ensure
+Leaf:  N Attribution that they remain subservient and demeaned .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I understand the whole " traditional family " structure ,
+Leaf:  N Contrast but this is ridiculous .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Background Averting your eyes to abject misogyny
+Leaf:  S span because you want to win
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit is appalling and disgusting .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I just do n't understand .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I can not believe', None, None, None, 0), ("that the women in Trump 's base do n't understand", None, None, None, 0), ('that they are electing men', None, None, None, 0), ('who continue to ensure', None, None, None, 0), ('that they remain subservient and demeaned .', None, None, None, 1), ('I understand the whole " traditional family " structure ,', None, None, None, 0), ('but this is ridiculous .', None, None, None, 1), ('Averting your eyes to abject misogyny', None, None, None, 0), ('because you want to win', None, None, None, 0), ('is appalling and disgusting .', None, None, None, 1), ("I just do n't understand .", None, None, None, 1)]

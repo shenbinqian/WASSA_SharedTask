@@ -1,0 +1,21 @@
+=====================> [[('Did you hear about the earthquake in Tanzania ?', None, None, None, 1), ('There were over 200 deaths .', None, None, None, 1), ("It 's so scary", None, None, None, 0), ("because you ca n't really prepare for something like that .", None, None, None, 1), ('I live in California', None, None, None, 0), ('so people are always warning us about the san andres fault line .', None, None, None, 1), ('I get so worried', None, None, None, 0), ('thinking', None, None, None, 0), ('about how bad it might get', None, None, None, 0), ('if something like that happens to us .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about the earthquake in Tanzania ?
+Leaf:  S span There were over 200 deaths .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause It 's so scary
+Leaf:  S span because you ca n't really prepare for something like that .
+Inner:  S span None Cause NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I live in California
+Leaf:  N Cause so people are always warning us about the san andres fault line .
+Inner:  S span None Cause SN
+Inner:  N Cause None Explanation NS
+Leaf:  N Background I get so worried
+Leaf:  S span thinking
+Leaf:  N Condition about how bad it might get
+Leaf:  S span if something like that happens to us .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  Root None None Cause NS
+[('Did you hear about the earthquake in Tanzania ?', None, None, None, 1), ('There were over 200 deaths .', None, None, None, 1), ("It 's so scary", None, None, None, 0), ("because you ca n't really prepare for something like that .", None, None, None, 1), ('I live in California', None, None, None, 0), ('so people are always warning us about the san andres fault line .', None, None, None, 1), ('I get so worried', None, None, None, 0), ('thinking', None, None, None, 0), ('about how bad it might get', None, None, None, 0), ('if something like that happens to us .', None, None, None, 1)]

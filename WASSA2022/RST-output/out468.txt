@@ -1,0 +1,21 @@
+=====================> [[('Oh my god .', None, None, None, 1), ('Did you hear about this story of this family of two girls', None, None, None, 0), ('that got killed on Halloweed ?', None, None, None, 1), ('Apparently they were hit in a trailer', None, None, None, 0), ('and that cause them to die .', None, None, None, 1), ('Could you imagine just wanting to go out and have fun', None, None, None, 0), ('while trick and treating', None, None, None, 0), ('but then you get the sad news', None, None, None, 0), ('that you daughters are dead ?', None, None, None, 1), ('This is heartbreaking for that family .', None, None, None, 1)]]
+Leaf:  N Elaborate Oh my god .
+Leaf:  N Elaborate Did you hear about this story of this family of two girls
+Leaf:  S span that got killed on Halloweed ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause Apparently they were hit in a trailer
+Leaf:  S span and that cause them to die .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal Could you imagine just wanting to go out and have fun
+Leaf:  S span while trick and treating
+Inner:  S span None Temporal NS
+Leaf:  N Elaborate but then you get the sad news
+Leaf:  S span that you daughters are dead ?
+Inner:  N Background None Elaborate NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span This is heartbreaking for that family .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Oh my god .', None, None, None, 1), ('Did you hear about this story of this family of two girls', None, None, None, 0), ('that got killed on Halloweed ?', None, None, None, 1), ('Apparently they were hit in a trailer', None, None, None, 0), ('and that cause them to die .', None, None, None, 1), ('Could you imagine just wanting to go out and have fun', None, None, None, 0), ('while trick and treating', None, None, None, 0), ('but then you get the sad news', None, None, None, 0), ('that you daughters are dead ?', None, None, None, 1), ('This is heartbreaking for that family .', None, None, None, 1)]

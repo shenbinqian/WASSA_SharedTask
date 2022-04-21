@@ -1,0 +1,17 @@
+=====================> [[('The spread of cholera is very widespread in Haiti .', None, None, None, 1), ('It is costing tons of lives ,', None, None, None, 0), ('and money food and doctors are very much needed .', None, None, None, 1), ('Its hard to control like any other high spreading disease .', None, None, None, 1), ('Doctors need resources so much', None, None, None, 0), ('that they cant keep up with ever growing number of patients .', None, None, None, 1), ('They need food , medical supplies , and other miscellaneous equipment', None, None, None, 0), ('that would help them improve their job and combating the outbreak .', None, None, None, 1)]]
+Leaf:  N Cause The spread of cholera is very widespread in Haiti .
+Leaf:  N Joint It is costing tons of lives ,
+Leaf:  N Joint and money food and doctors are very much needed .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Its hard to control like any other high spreading disease .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Cause Doctors need resources so much
+Leaf:  S span that they cant keep up with ever growing number of patients .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate They need food , medical supplies , and other miscellaneous equipment
+Leaf:  S span that would help them improve their job and combating the outbreak .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The spread of cholera is very widespread in Haiti .', None, None, None, 1), ('It is costing tons of lives ,', None, None, None, 0), ('and money food and doctors are very much needed .', None, None, None, 1), ('Its hard to control like any other high spreading disease .', None, None, None, 1), ('Doctors need resources so much', None, None, None, 0), ('that they cant keep up with ever growing number of patients .', None, None, None, 1), ('They need food , medical supplies , and other miscellaneous equipment', None, None, None, 0), ('that would help them improve their job and combating the outbreak .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('People are so selfish in this world .', None, None, None, 1), ('It makes me so sick .', None, None, None, 1), ('Like why are you even married', None, None, None, 0), ("if you do n't want to be with your wife ?", None, None, None, 1), ('Why would you destroy a little boys life', None, None, None, 0), ('because you are too distracted by women ?', None, None, None, 1), ('This guy has a lot of things going wrong for him', None, None, None, 0), ("but it 's that I just read an article about a dad", None, None, None, 0), ('leaving his 22 month old in a hot car', None, None, None, 0), ('and the article has to focus', None, None, None, 0), ('on how the dad was cheating on his wife', None, None, None, 0), ('instead of focusing on how sad it is', None, None, None, 0), ('that a little boy died !', None, None, None, 1)]]
+Leaf:  N Evaluation People are so selfish in this world .
+Leaf:  N Elaborate It makes me so sick .
+Leaf:  N Background Like why are you even married
+Leaf:  S span if you do n't want to be with your wife ?
+Inner:  N Joint None Background NS
+Leaf:  N Cause Why would you destroy a little boys life
+Leaf:  S span because you are too distracted by women ?
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span This guy has a lot of things going wrong for him
+Leaf:  N Elaborate but it 's that I just read an article about a dad
+Leaf:  S span leaving his 22 month old in a hot car
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the article has to focus
+Leaf:  S span on how the dad was cheating on his wife
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span instead of focusing on how sad it is
+Leaf:  N Attribution that a little boy died !
+Inner:  N Contrast None Attribution SN
+Inner:  N Same-Unit None Contrast NN
+Inner:  N Evaluation None Same-Unit NN
+Inner:  S span None Evaluation SN
+Inner:  Root None None Evaluation NS
+[('People are so selfish in this world .', None, None, None, 1), ('It makes me so sick .', None, None, None, 1), ('Like why are you even married', None, None, None, 0), ("if you do n't want to be with your wife ?", None, None, None, 1), ('Why would you destroy a little boys life', None, None, None, 0), ('because you are too distracted by women ?', None, None, None, 1), ('This guy has a lot of things going wrong for him', None, None, None, 0), ("but it 's that I just read an article about a dad", None, None, None, 0), ('leaving his 22 month old in a hot car', None, None, None, 0), ('and the article has to focus', None, None, None, 0), ('on how the dad was cheating on his wife', None, None, None, 0), ('instead of focusing on how sad it is', None, None, None, 0), ('that a little boy died !', None, None, None, 1)]

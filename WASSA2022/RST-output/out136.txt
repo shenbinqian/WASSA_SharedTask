@@ -1,0 +1,19 @@
+=====================> [[('This crash is so sad', None, None, None, 0), ('to hear about .', None, None, None, 1), ('It involves such undeserving people ,', None, None, None, 0), ("and it does not sound like it was even the bus driver 's fault .", None, None, None, 1), ('These people were just trying to get to where they need to be ,', None, None, None, 0), ('and then something terrible happened .', None, None, None, 1), ('It is very sad', None, None, None, 0), ('and could happen to anyone at anytime .', None, None, None, 1), ('YOu never know what might go wrong in this world .', None, None, None, 1)]]
+Leaf:  N Elaborate This crash is so sad
+Leaf:  S span to hear about .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It involves such undeserving people ,
+Leaf:  N Joint and it does not sound like it was even the bus driver 's fault .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span These people were just trying to get to where they need to be ,
+Leaf:  N Background and then something terrible happened .
+Inner:  N Evaluation None Background SN
+Leaf:  N Joint It is very sad
+Leaf:  N Joint and could happen to anyone at anytime .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span YOu never know what might go wrong in this world .
+Inner:  Root None None Evaluation NS
+[('This crash is so sad', None, None, None, 0), ('to hear about .', None, None, None, 1), ('It involves such undeserving people ,', None, None, None, 0), ("and it does not sound like it was even the bus driver 's fault .", None, None, None, 1), ('These people were just trying to get to where they need to be ,', None, None, None, 0), ('and then something terrible happened .', None, None, None, 1), ('It is very sad', None, None, None, 0), ('and could happen to anyone at anytime .', None, None, None, 1), ('YOu never know what might go wrong in this world .', None, None, None, 1)]

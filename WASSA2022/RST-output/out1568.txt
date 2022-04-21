@@ -1,0 +1,23 @@
+=====================> [[('I really like Kate', None, None, None, 0), ('and she is an amazing actress .', None, None, None, 1), ('It sucks', None, None, None, 0), ('that she and her husband after so many years have decided to call it quits .', None, None, None, 1), ('America has one of the highest divorce rates in the world ,', None, None, None, 0), ('which makes me feel', None, None, None, 0), ('that love is harder to attain today .', None, None, None, 1), ('Although I am a hopeless romantic', None, None, None, 0), ('and I feel', None, None, None, 0), ('that not every coupling has to be condemned to such a fate', None, None, None, 0), ('as Kate , Len and most Americans have to endure .', None, None, None, 1)]]
+Leaf:  N Joint I really like Kate
+Leaf:  N Joint and she is an amazing actress .
+Inner:  S span None Joint NN
+Leaf:  S span It sucks
+Leaf:  N Attribution that she and her husband after so many years have decided to call it quits .
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  N Evaluation America has one of the highest divorce rates in the world ,
+Leaf:  S span which makes me feel
+Leaf:  N Attribution that love is harder to attain today .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Although I am a hopeless romantic
+Leaf:  S span and I feel
+Leaf:  N Comparison that not every coupling has to be condemned to such a fate
+Leaf:  S span as Kate , Len and most Americans have to endure .
+Inner:  N Attribution None Comparison NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I really like Kate', None, None, None, 0), ('and she is an amazing actress .', None, None, None, 1), ('It sucks', None, None, None, 0), ('that she and her husband after so many years have decided to call it quits .', None, None, None, 1), ('America has one of the highest divorce rates in the world ,', None, None, None, 0), ('which makes me feel', None, None, None, 0), ('that love is harder to attain today .', None, None, None, 1), ('Although I am a hopeless romantic', None, None, None, 0), ('and I feel', None, None, None, 0), ('that not every coupling has to be condemned to such a fate', None, None, None, 0), ('as Kate , Len and most Americans have to endure .', None, None, None, 1)]

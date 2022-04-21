@@ -1,0 +1,21 @@
+=====================> [[('There are immigrants in this country', None, None, None, 0), ('that are having a hard time assimilation in to the American Culture .', None, None, None, 1), ('The article blames Trump', None, None, None, 0), ('I believe', None, None, None, 0), ('there are most things at work here than just him .', None, None, None, 1), ('It seems the system is working', None, None, None, 0), ('as intended', None, None, None, 0), ('and it was in place before Trump . People need to be able to assimilate', None, None, None, 0), ('as it keeps our country at peace .', None, None, None, 1), ('What do you think we should do about it ?', None, None, None, 1)]]
+Leaf:  N Elaborate There are immigrants in this country
+Leaf:  S span that are having a hard time assimilation in to the American Culture .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The article blames Trump
+Leaf:  S span I believe
+Leaf:  N Attribution there are most things at work here than just him .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Manner-Means It seems the system is working
+Leaf:  N Joint as intended
+Leaf:  N Joint and it was in place before Trump . People need to be able to assimilate
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span as it keeps our country at peace .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span What do you think we should do about it ?
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('There are immigrants in this country', None, None, None, 0), ('that are having a hard time assimilation in to the American Culture .', None, None, None, 1), ('The article blames Trump', None, None, None, 0), ('I believe', None, None, None, 0), ('there are most things at work here than just him .', None, None, None, 1), ('It seems the system is working', None, None, None, 0), ('as intended', None, None, None, 0), ('and it was in place before Trump . People need to be able to assimilate', None, None, None, 0), ('as it keeps our country at peace .', None, None, None, 1), ('What do you think we should do about it ?', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('How sad ,', None, None, None, 0), ('if you get a chance', None, None, None, 0), ('read this', None, None, None, 0), ('and maybe share , it could be the difference for this person', None, None, None, 0), ('to find her family !', None, None, None, 1), ('Sometimes I see these announcements', None, None, None, 0), ('and I usually read and share them ,', None, None, None, 0), ('I hope', None, None, None, 0), ('they find who she is', None, None, None, 0), ('and most importanly I hope they find her family', None, None, None, 0), ('and get her some help .', None, None, None, 1), ('I think', None, None, None, 0), ('the more people see , read and share this info ,', None, None, None, 0), ('the bigger the chance', None, None, None, 0), ('to find her identity and family ,', None, None, None, 0), ('imagine', None, None, None, 0), ('if it was someone', None, None, None, 0), ('you knew .', None, None, None, 1)]]
+Leaf:  S span How sad ,
+Leaf:  N Elaborate if you get a chance
+Leaf:  N Joint read this
+Leaf:  N Elaborate and maybe share , it could be the difference for this person
+Leaf:  S span to find her family !
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Joint Sometimes I see these announcements
+Leaf:  N Joint and I usually read and share them ,
+Leaf:  S span I hope
+Leaf:  N Attribution they find who she is
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and most importanly I hope they find her family
+Leaf:  N Joint and get her some help .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  S span I think
+Leaf:  N Cause the more people see , read and share this info ,
+Leaf:  N Elaborate the bigger the chance
+Leaf:  S span to find her identity and family ,
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span imagine
+Leaf:  N Elaborate if it was someone
+Leaf:  S span you knew .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('How sad ,', None, None, None, 0), ('if you get a chance', None, None, None, 0), ('read this', None, None, None, 0), ('and maybe share , it could be the difference for this person', None, None, None, 0), ('to find her family !', None, None, None, 1), ('Sometimes I see these announcements', None, None, None, 0), ('and I usually read and share them ,', None, None, None, 0), ('I hope', None, None, None, 0), ('they find who she is', None, None, None, 0), ('and most importanly I hope they find her family', None, None, None, 0), ('and get her some help .', None, None, None, 1), ('I think', None, None, None, 0), ('the more people see , read and share this info ,', None, None, None, 0), ('the bigger the chance', None, None, None, 0), ('to find her identity and family ,', None, None, None, 0), ('imagine', None, None, None, 0), ('if it was someone', None, None, None, 0), ('you knew .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[("It 's always sad to hear about someone", None, None, None, 0), ('( s )', None, None, None, 0), ('dying especially there are children involved ,', None, None, None, 0), ('luckily only adults were killed', None, None, None, 0), ('according to the article', None, None, None, 0), ('and the children survived', None, None, None, 0), ("but it 's emotional , physical , and mentally hard for the children to adapt to it .", None, None, None, 1), ('Maybe the adults were there parents', None, None, None, 0), ('and watching somebody', None, None, None, 0), ('kill your own family members', None, None, None, 0), ('is heart-wrenching .', None, None, None, 1), ('My love and prayers go out for the kids', None, None, None, 0)]]
+Leaf:  N Elaborate It 's always sad to hear about someone
+Leaf:  S span ( s )
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span dying especially there are children involved ,
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Attribution luckily only adults were killed
+Leaf:  S span according to the article
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span and the children survived
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but it 's emotional , physical , and mentally hard for the children to adapt to it .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint Maybe the adults were there parents
+Leaf:  N Elaborate and watching somebody
+Leaf:  S span kill your own family members
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is heart-wrenching .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span My love and prayers go out for the kids
+Inner:  Root None None Elaborate NS
+[("It 's always sad to hear about someone", None, None, None, 0), ('( s )', None, None, None, 0), ('dying especially there are children involved ,', None, None, None, 0), ('luckily only adults were killed', None, None, None, 0), ('according to the article', None, None, None, 0), ('and the children survived', None, None, None, 0), ("but it 's emotional , physical , and mentally hard for the children to adapt to it .", None, None, None, 1), ('Maybe the adults were there parents', None, None, None, 0), ('and watching somebody', None, None, None, 0), ('kill your own family members', None, None, None, 0), ('is heart-wrenching .', None, None, None, 1), ('My love and prayers go out for the kids', None, None, None, 0)]

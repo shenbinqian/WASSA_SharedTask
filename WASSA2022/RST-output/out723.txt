@@ -1,0 +1,25 @@
+=====================> [[('It always upsets me', None, None, None, 0), ('when I read articles about land conflicts', None, None, None, 0), ('involving Native American tribes ,', None, None, None, 0), ('especially when it involves oil pipelines .', None, None, None, 1), ('I fully support expanding domestic oil operations', None, None, None, 0), ('so as to better establish energy independence ,', None, None, None, 0), ('but care should be taken', None, None, None, 0), ('to respect the needs of others', None, None, None, 0), ('when developing pipelines .', None, None, None, 1), ('It may be expensive to ensure environmental care is taken and , when necessary , to reroute the pipelines', None, None, None, 0), ('to avoid encroaching on sacred lands ,', None, None, None, 0), ("but that does n't mean it 's not worth the expense .", None, None, None, 1)]]
+Leaf:  N Background It always upsets me
+Leaf:  N Elaborate when I read articles about land conflicts
+Leaf:  S span involving Native American tribes ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span especially when it involves oil pipelines .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Enablement I fully support expanding domestic oil operations
+Leaf:  S span so as to better establish energy independence ,
+Inner:  S span None Enablement NS
+Leaf:  N Enablement but care should be taken
+Leaf:  N Background to respect the needs of others
+Leaf:  S span when developing pipelines .
+Inner:  S span None Background NS
+Inner:  N Contrast None Enablement NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Enablement It may be expensive to ensure environmental care is taken and , when necessary , to reroute the pipelines
+Leaf:  S span to avoid encroaching on sacred lands ,
+Inner:  S span None Enablement NS
+Leaf:  N Contrast but that does n't mean it 's not worth the expense .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It always upsets me', None, None, None, 0), ('when I read articles about land conflicts', None, None, None, 0), ('involving Native American tribes ,', None, None, None, 0), ('especially when it involves oil pipelines .', None, None, None, 1), ('I fully support expanding domestic oil operations', None, None, None, 0), ('so as to better establish energy independence ,', None, None, None, 0), ('but care should be taken', None, None, None, 0), ('to respect the needs of others', None, None, None, 0), ('when developing pipelines .', None, None, None, 1), ('It may be expensive to ensure environmental care is taken and , when necessary , to reroute the pipelines', None, None, None, 0), ('to avoid encroaching on sacred lands ,', None, None, None, 0), ("but that does n't mean it 's not worth the expense .", None, None, None, 1)]

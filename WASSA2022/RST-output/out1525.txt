@@ -1,0 +1,21 @@
+=====================> [[('I just read an article about wind turbines', None, None, None, 0), ('killing birds .', None, None, None, 1), ("I had n't ever thought about it before ,", None, None, None, 0), ('but it makes a lot of sense .', None, None, None, 1), ("It 's just curious", None, None, None, 0), ('that', None, None, None, 0), ('in trying to be " green , "', None, None, None, 0), ('were actually hurting part of the ecology . Apparently , hundreds of thousands of birds are being killed annually .', None, None, None, 1), ('Worst of all , they are killing Golden Eagles , an endangered species !', None, None, None, 1), ("It 's just really sad .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about wind turbines
+Leaf:  S span killing birds .
+Inner:  S span None Elaborate NS
+Leaf:  S span I had n't ever thought about it before ,
+Leaf:  N Contrast but it makes a lot of sense .
+Inner:  N Enablement None Contrast SN
+Inner:  N Elaborate None Enablement SN
+Leaf:  S span It 's just curious
+Leaf:  N Same-Unit that
+Leaf:  S span in trying to be " green , "
+Leaf:  N Background were actually hurting part of the ecology . Apparently , hundreds of thousands of birds are being killed annually .
+Inner:  N Same-Unit None Background SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Worst of all , they are killing Golden Eagles , an endangered species !
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's just really sad .
+Inner:  Root None None Evaluation NS
+[('I just read an article about wind turbines', None, None, None, 0), ('killing birds .', None, None, None, 1), ("I had n't ever thought about it before ,", None, None, None, 0), ('but it makes a lot of sense .', None, None, None, 1), ("It 's just curious", None, None, None, 0), ('that', None, None, None, 0), ('in trying to be " green , "', None, None, None, 0), ('were actually hurting part of the ecology . Apparently , hundreds of thousands of birds are being killed annually .', None, None, None, 1), ('Worst of all , they are killing Golden Eagles , an endangered species !', None, None, None, 1), ("It 's just really sad .", None, None, None, 1)]

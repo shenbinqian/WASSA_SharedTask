@@ -1,0 +1,25 @@
+=====================> [[("I do n't believe this at all .", None, None, None, 1), ('I think', None, None, None, 0), ('people are overreacting to the news', None, None, None, 0), ('that Trump was elected president .', None, None, None, 1), ('There are always bad apples out there ,', None, None, None, 0), ('no matter who the president is .', None, None, None, 1), ('To blame this on the president ,', None, None, None, 0), ('right after he was even elected ,', None, None, None, 0), ('is wrong .', None, None, None, 1), ('Give the guy a chance', None, None, None, 0), ('and get over it', None, None, None, 0), ('and try to make something positive of this .', None, None, None, 1)]]
+Leaf:  N Explanation I do n't believe this at all .
+Leaf:  S span I think
+Leaf:  N Elaborate people are overreacting to the news
+Leaf:  S span that Trump was elected president .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Explanation NS
+Leaf:  N Contrast There are always bad apples out there ,
+Leaf:  S span no matter who the president is .
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Temporal To blame this on the president ,
+Leaf:  S span right after he was even elected ,
+Inner:  N Same-Unit None Temporal NS
+Leaf:  N Same-Unit is wrong .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Joint Give the guy a chance
+Leaf:  N Joint and get over it
+Leaf:  N Joint and try to make something positive of this .
+Inner:  N Joint None Joint NN
+Inner:  N Topic-Comment None Joint NN
+Inner:  Root None None Topic-Comment NN
+[("I do n't believe this at all .", None, None, None, 1), ('I think', None, None, None, 0), ('people are overreacting to the news', None, None, None, 0), ('that Trump was elected president .', None, None, None, 1), ('There are always bad apples out there ,', None, None, None, 0), ('no matter who the president is .', None, None, None, 1), ('To blame this on the president ,', None, None, None, 0), ('right after he was even elected ,', None, None, None, 0), ('is wrong .', None, None, None, 1), ('Give the guy a chance', None, None, None, 0), ('and get over it', None, None, None, 0), ('and try to make something positive of this .', None, None, None, 1)]

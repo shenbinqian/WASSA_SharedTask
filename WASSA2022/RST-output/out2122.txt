@@ -1,0 +1,21 @@
+=====================> [[("I do n't really get why no one was charged in this murder .", None, None, None, 1), ('They have two suspects', None, None, None, 0), ('and they need to look harder at evidence', None, None, None, 0), ('to charge someone or both people in the case .', None, None, None, 1), ('This is a bit ridiculous that no one is being charged .', None, None, None, 1), ('What do you think ? Do you think', None, None, None, 0), ('they should be charged ?', None, None, None, 1), ('What do you think about the evidence ?', None, None, None, 1), ('You know', None, None, None, 0), ('how much I love true crime stories !', None, None, None, 1)]]
+Leaf:  N Explanation I do n't really get why no one was charged in this murder .
+Leaf:  N Joint They have two suspects
+Leaf:  N Enablement and they need to look harder at evidence
+Leaf:  S span to charge someone or both people in the case .
+Inner:  N Joint None Enablement NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This is a bit ridiculous that no one is being charged .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span What do you think ? Do you think
+Leaf:  N Attribution they should be charged ?
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint What do you think about the evidence ?
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Explanation NS
+Leaf:  S span You know
+Leaf:  N Attribution how much I love true crime stories !
+Inner:  N Textual-Organization None Attribution SN
+Inner:  Root None None Textual-Organization NN
+[("I do n't really get why no one was charged in this murder .", None, None, None, 1), ('They have two suspects', None, None, None, 0), ('and they need to look harder at evidence', None, None, None, 0), ('to charge someone or both people in the case .', None, None, None, 1), ('This is a bit ridiculous that no one is being charged .', None, None, None, 1), ('What do you think ? Do you think', None, None, None, 0), ('they should be charged ?', None, None, None, 1), ('What do you think about the evidence ?', None, None, None, 1), ('You know', None, None, None, 0), ('how much I love true crime stories !', None, None, None, 1)]

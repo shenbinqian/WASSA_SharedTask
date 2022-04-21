@@ -1,0 +1,21 @@
+=====================> [[('Hey I just wanted you know', None, None, None, 0), ('that I read something disturbing this morning in an article .', None, None, None, 1), ('There were bombings', None, None, None, 0), ('and people were killed over fuel .', None, None, None, 1), ('This is alarming and out of control .', None, None, None, 1), ("I 'm feeling so many emotions right now .", None, None, None, 1), ('From upset to angry .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people can blow other people up over something so trivial and stupid .', None, None, None, 1), ('They were just wanting fuel !', None, None, None, 1)]]
+Leaf:  S span Hey I just wanted you know
+Leaf:  N Attribution that I read something disturbing this morning in an article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint There were bombings
+Leaf:  N Joint and people were killed over fuel .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is alarming and out of control .
+Inner:  N Cause None Evaluation NS
+Leaf:  N Elaborate I 'm feeling so many emotions right now .
+Leaf:  N Joint From upset to angry .
+Leaf:  S span I do n't understand
+Leaf:  N Attribution how people can blow other people up over something so trivial and stupid .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They were just wanting fuel !
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Cause NS
+[('Hey I just wanted you know', None, None, None, 0), ('that I read something disturbing this morning in an article .', None, None, None, 1), ('There were bombings', None, None, None, 0), ('and people were killed over fuel .', None, None, None, 1), ('This is alarming and out of control .', None, None, None, 1), ("I 'm feeling so many emotions right now .", None, None, None, 1), ('From upset to angry .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people can blow other people up over something so trivial and stupid .', None, None, None, 1), ('They were just wanting fuel !', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('that this is a kind of funny story .', None, None, None, 1), ('I enjoy hearing about escaped animals from the zoo for some reason .', None, None, None, 1), ('If you think about it', None, None, None, 0), ('the zoo is just one big animal jail .', None, None, None, 1), ('I am sure', None, None, None, 0), ('that I would resent the fact', None, None, None, 0), ('of being locked up', None, None, None, 0), ('if I was a wild animal .', None, None, None, 1), ('Some of these animals have never known the difference .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution that this is a kind of funny story .
+Inner:  N Background None Attribution SN
+Leaf:  N Explanation I enjoy hearing about escaped animals from the zoo for some reason .
+Leaf:  S span If you think about it
+Leaf:  N Condition the zoo is just one big animal jail .
+Inner:  N Evaluation None Condition SN
+Leaf:  S span I am sure
+Leaf:  N Elaborate that I would resent the fact
+Leaf:  S span of being locked up
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if I was a wild animal .
+Inner:  N Attribution None Condition NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Some of these animals have never known the difference .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Background NS
+[('I think', None, None, None, 0), ('that this is a kind of funny story .', None, None, None, 1), ('I enjoy hearing about escaped animals from the zoo for some reason .', None, None, None, 1), ('If you think about it', None, None, None, 0), ('the zoo is just one big animal jail .', None, None, None, 1), ('I am sure', None, None, None, 0), ('that I would resent the fact', None, None, None, 0), ('of being locked up', None, None, None, 0), ('if I was a wild animal .', None, None, None, 1), ('Some of these animals have never known the difference .', None, None, None, 1)]

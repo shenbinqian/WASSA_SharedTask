@@ -1,0 +1,21 @@
+=====================> [[("It 's really sad that it seems that so many people are ignorant", None, None, None, 0), ('when they purchase pets .', None, None, None, 1), ('People should be more dedicated to animals and the environment', None, None, None, 0), ('and', None, None, None, 0), ("if they do n't feel prepared", None, None, None, 0), ('to take care of a pet', None, None, None, 0), ('then they should just , not get one .', None, None, None, 1), ('This is why goldfish are invading Australia .', None, None, None, 1), ('Invasive species are extremely problematic to the ecosystem', None, None, None, 0), ('and combating them is difficult and expensive .', None, None, None, 1)]]
+Leaf:  N Background It 's really sad that it seems that so many people are ignorant
+Leaf:  S span when they purchase pets .
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint People should be more dedicated to animals and the environment
+Leaf:  N Joint and
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Elaborate if they do n't feel prepared
+Leaf:  S span to take care of a pet
+Inner:  S span None Elaborate NS
+Leaf:  N Condition then they should just , not get one .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Cause None Evaluation NS
+Leaf:  N Explanation This is why goldfish are invading Australia .
+Leaf:  N Joint Invasive species are extremely problematic to the ecosystem
+Leaf:  N Joint and combating them is difficult and expensive .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Cause NS
+[("It 's really sad that it seems that so many people are ignorant", None, None, None, 0), ('when they purchase pets .', None, None, None, 1), ('People should be more dedicated to animals and the environment', None, None, None, 0), ('and', None, None, None, 0), ("if they do n't feel prepared", None, None, None, 0), ('to take care of a pet', None, None, None, 0), ('then they should just , not get one .', None, None, None, 1), ('This is why goldfish are invading Australia .', None, None, None, 1), ('Invasive species are extremely problematic to the ecosystem', None, None, None, 0), ('and combating them is difficult and expensive .', None, None, None, 1)]

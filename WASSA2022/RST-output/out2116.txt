@@ -1,0 +1,31 @@
+=====================> [[("I find the story of the wolf 's death more ironic and amusing than saddening .", None, None, None, 1), ("It 's just a single wolf ;", None, None, None, 0), ('it could have died innumerable ways .', None, None, None, 1), ("I really do n't care .", None, None, None, 1), ('I find the article', None, None, None, 0), ('describing it', None, None, None, 0), ('to be absurd , however .', None, None, None, 1), ('Describing a Wildlife Services program in the way', None, None, None, 0), ('it did', None, None, None, 0), ('was over-the-top . Besides , I always find these perspectives backwards :', None, None, None, 0), ('people', None, None, None, 0), ('who are seemingly more concerned about the welfare of animals than people .', None, None, None, 1), ('If you want to champion something', None, None, None, 0), ('or complain about something ,', None, None, None, 0), ('start with human problems .', None, None, None, 1)]]
+Leaf:  N Elaborate I find the story of the wolf 's death more ironic and amusing than saddening .
+Leaf:  S span It 's just a single wolf ;
+Leaf:  N Contrast it could have died innumerable ways .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I really do n't care .
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate I find the article
+Leaf:  S span describing it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit to be absurd , however .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Describing a Wildlife Services program in the way
+Leaf:  S span it did
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was over-the-top . Besides , I always find these perspectives backwards :
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate people
+Leaf:  S span who are seemingly more concerned about the welfare of animals than people .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint If you want to champion something
+Leaf:  N Joint or complain about something ,
+Inner:  S span None Joint NN
+Leaf:  N Condition start with human problems .
+Inner:  S span None Condition SN
+Inner:  Root None None Elaborate NS
+[("I find the story of the wolf 's death more ironic and amusing than saddening .", None, None, None, 1), ("It 's just a single wolf ;", None, None, None, 0), ('it could have died innumerable ways .', None, None, None, 1), ("I really do n't care .", None, None, None, 1), ('I find the article', None, None, None, 0), ('describing it', None, None, None, 0), ('to be absurd , however .', None, None, None, 1), ('Describing a Wildlife Services program in the way', None, None, None, 0), ('it did', None, None, None, 0), ('was over-the-top . Besides , I always find these perspectives backwards :', None, None, None, 0), ('people', None, None, None, 0), ('who are seemingly more concerned about the welfare of animals than people .', None, None, None, 1), ('If you want to champion something', None, None, None, 0), ('or complain about something ,', None, None, None, 0), ('start with human problems .', None, None, None, 1)]

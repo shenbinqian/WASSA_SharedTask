@@ -1,0 +1,31 @@
+=====================> [[('Wow .', None, None, None, 1), ("I can imagine being in that man 's shoes .", None, None, None, 1), ('It sounds as if his son could have been more disturbed', None, None, None, 0), ('than originally thought at the other arrest .', None, None, None, 1), ('I would be devastated', None, None, None, 0), ('if I felt so threatened by my own child', None, None, None, 0), ('that I had to resort to violence .', None, None, None, 1), ("I mean , how terrible it must be ! Though details are n't completely clear , it sounds as if the son had some issues", None, None, None, 0), ("that were n't completely dealt with", None, None, None, 0), ('and it resulted in some sort of confrontation with his dad . How terrible to have to carry this with him the rest of forever .', None, None, None, 1), ('It would break my heart in two .', None, None, None, 1), ('I hope', None, None, None, 0), ('he gets deep counseling for his grief and guilt .', None, None, None, 1), ('Perhaps if the son had ,', None, None, None, 0), ("it would n't have happened . More 's the pity .", None, None, None, 1)]]
+Leaf:  N Evaluation Wow .
+Leaf:  N Evaluation I can imagine being in that man 's shoes .
+Leaf:  N Comparison It sounds as if his son could have been more disturbed
+Leaf:  S span than originally thought at the other arrest .
+Inner:  N Evaluation None Comparison NS
+Leaf:  N Condition I would be devastated
+Leaf:  N Cause if I felt so threatened by my own child
+Leaf:  S span that I had to resort to violence .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Condition NS
+Leaf:  N Elaborate I mean , how terrible it must be ! Though details are n't completely clear , it sounds as if the son had some issues
+Leaf:  S span that were n't completely dealt with
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and it resulted in some sort of confrontation with his dad . How terrible to have to carry this with him the rest of forever .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span It would break my heart in two .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Attribution he gets deep counseling for his grief and guilt .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Perhaps if the son had ,
+Leaf:  N Condition it would n't have happened . More 's the pity .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow .', None, None, None, 1), ("I can imagine being in that man 's shoes .", None, None, None, 1), ('It sounds as if his son could have been more disturbed', None, None, None, 0), ('than originally thought at the other arrest .', None, None, None, 1), ('I would be devastated', None, None, None, 0), ('if I felt so threatened by my own child', None, None, None, 0), ('that I had to resort to violence .', None, None, None, 1), ("I mean , how terrible it must be ! Though details are n't completely clear , it sounds as if the son had some issues", None, None, None, 0), ("that were n't completely dealt with", None, None, None, 0), ('and it resulted in some sort of confrontation with his dad . How terrible to have to carry this with him the rest of forever .', None, None, None, 1), ('It would break my heart in two .', None, None, None, 1), ('I hope', None, None, None, 0), ('he gets deep counseling for his grief and guilt .', None, None, None, 1), ('Perhaps if the son had ,', None, None, None, 0), ("it would n't have happened . More 's the pity .", None, None, None, 1)]

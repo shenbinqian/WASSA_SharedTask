@@ -1,0 +1,17 @@
+=====================> [[('The wildfire burned the field more than 13,300 acres .', None, None, None, 1), ('This is the 75 % of agricultural land .', None, None, None, 1), ('The farmers was very sad about the wildfire .', None, None, None, 1), ('Their lands are damaged very highly due to the wildfire .', None, None, None, 1), ('The emergency fire safety team save the 25 % of land from the wildfire .', None, None, None, 1), ('This could be very helpful to the farmers .', None, None, None, 1), ('Although , they loss the 75 % agricultural land .', None, None, None, 1), ('Even they are did not plant any plants from the burned agricultural land .', None, None, None, 1)]]
+Leaf:  N Elaborate The wildfire burned the field more than 13,300 acres .
+Leaf:  S span This is the 75 % of agricultural land .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate The farmers was very sad about the wildfire .
+Leaf:  S span Their lands are damaged very highly due to the wildfire .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Comparison The emergency fire safety team save the 25 % of land from the wildfire .
+Leaf:  S span This could be very helpful to the farmers .
+Inner:  S span None Comparison NS
+Leaf:  N Contrast Although , they loss the 75 % agricultural land .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Even they are did not plant any plants from the burned agricultural land .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Evaluation NS
+[('The wildfire burned the field more than 13,300 acres .', None, None, None, 1), ('This is the 75 % of agricultural land .', None, None, None, 1), ('The farmers was very sad about the wildfire .', None, None, None, 1), ('Their lands are damaged very highly due to the wildfire .', None, None, None, 1), ('The emergency fire safety team save the 25 % of land from the wildfire .', None, None, None, 1), ('This could be very helpful to the farmers .', None, None, None, 1), ('Although , they loss the 75 % agricultural land .', None, None, None, 1), ('Even they are did not plant any plants from the burned agricultural land .', None, None, None, 1)]

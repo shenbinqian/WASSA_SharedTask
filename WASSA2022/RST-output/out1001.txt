@@ -1,0 +1,21 @@
+=====================> [[('Having traveled through Afghanistan in the mid-1970s', None, None, None, 0), ('and having had a son', None, None, None, 0), ('deployed in Afghanistan during the US incursion ,', None, None, None, 0), ('I can tell you', None, None, None, 0), ('that the country is profoundly backward and disorganized even at the best of times .', None, None, None, 1), ('This influx of refugees will cause chaos on a massive scale .', None, None, None, 1), ('The USA should help .', None, None, None, 1), ('If we are willing to invade and contribute to the destabilization of the country in our own interests ,', None, None, None, 0), ('we should also be willing to come in as a magnanimous gesture', None, None, None, 0), ('and help out these poor people in the time of their need .', None, None, None, 1)]]
+Leaf:  N Joint Having traveled through Afghanistan in the mid-1970s
+Leaf:  N Elaborate and having had a son
+Leaf:  S span deployed in Afghanistan during the US incursion ,
+Inner:  S span None Elaborate NS
+Leaf:  S span I can tell you
+Leaf:  N Attribution that the country is profoundly backward and disorganized even at the best of times .
+Inner:  N Background None Attribution SN
+Inner:  N Joint None Background SN
+Inner:  N Cause None Joint NN
+Leaf:  S span This influx of refugees will cause chaos on a massive scale .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation The USA should help .
+Leaf:  S span If we are willing to invade and contribute to the destabilization of the country in our own interests ,
+Leaf:  N Joint we should also be willing to come in as a magnanimous gesture
+Leaf:  N Joint and help out these poor people in the time of their need .
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Having traveled through Afghanistan in the mid-1970s', None, None, None, 0), ('and having had a son', None, None, None, 0), ('deployed in Afghanistan during the US incursion ,', None, None, None, 0), ('I can tell you', None, None, None, 0), ('that the country is profoundly backward and disorganized even at the best of times .', None, None, None, 1), ('This influx of refugees will cause chaos on a massive scale .', None, None, None, 1), ('The USA should help .', None, None, None, 1), ('If we are willing to invade and contribute to the destabilization of the country in our own interests ,', None, None, None, 0), ('we should also be willing to come in as a magnanimous gesture', None, None, None, 0), ('and help out these poor people in the time of their need .', None, None, None, 1)]

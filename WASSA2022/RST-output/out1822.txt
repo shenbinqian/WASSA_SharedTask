@@ -1,0 +1,25 @@
+=====================> [[('This is the world', None, None, None, 0), ('we live in now .', None, None, None, 1), ('Until we have heavy weapons', None, None, None, 0), ('that are meant for killing like guns , explosives , and machines ,', None, None, None, 0), ('we will never have an end in the conflict in Middle East', None, None, None, 0), ('-- or any country for that matter .', None, None, None, 1), ('If it does finish ,', None, None, None, 0), ('a lot of people will suffer and die first', None, None, None, 0), ('which is worrisome .', None, None, None, 1), ('Millions and millions of people experience subhuman living conditions', None, None, None, 0), ("and there 's nothing", None, None, None, 0), ('we can do .', None, None, None, 1)]]
+Leaf:  N Elaborate This is the world
+Leaf:  S span we live in now .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Until we have heavy weapons
+Leaf:  S span that are meant for killing like guns , explosives , and machines ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate we will never have an end in the conflict in Middle East
+Leaf:  S span -- or any country for that matter .
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  S span If it does finish ,
+Leaf:  N Condition a lot of people will suffer and die first
+Inner:  N Evaluation None Condition SN
+Leaf:  S span which is worrisome .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause Millions and millions of people experience subhuman living conditions
+Leaf:  N Elaborate and there 's nothing
+Leaf:  S span we can do .
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('This is the world', None, None, None, 0), ('we live in now .', None, None, None, 1), ('Until we have heavy weapons', None, None, None, 0), ('that are meant for killing like guns , explosives , and machines ,', None, None, None, 0), ('we will never have an end in the conflict in Middle East', None, None, None, 0), ('-- or any country for that matter .', None, None, None, 1), ('If it does finish ,', None, None, None, 0), ('a lot of people will suffer and die first', None, None, None, 0), ('which is worrisome .', None, None, None, 1), ('Millions and millions of people experience subhuman living conditions', None, None, None, 0), ("and there 's nothing", None, None, None, 0), ('we can do .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('California has problems similar to Flint Michigan', None, None, None, 0), ('when it comes to providing clean water to everyone .', None, None, None, 1), ('While California passed clean water acts', None, None, None, 0), ('to remedy this ,', None, None, None, 0), ('it has had trouble', None, None, None, 0), ('providing for the poor in unincorporated areas such as Methany Tract', None, None, None, 0), ('( sp ? ) .', None, None, None, 1), ('But California has recognized', None, None, None, 0), ('that having access to clean water is a right for all people .', None, None, None, 1), ('Currently they are working', None, None, None, 0), ('on having a nearby city help provide clean water to the Methany Tract citizens .', None, None, None, 1), ('It really makes one wonder about all the damage already done , the health problems , the children ,', None, None, None, 0), ('and it makes one wonder', None, None, None, 0), ('how many other places and other states need to have this resolved .', None, None, None, 1)]]
+Leaf:  N Background California has problems similar to Flint Michigan
+Leaf:  S span when it comes to providing clean water to everyone .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate While California passed clean water acts
+Leaf:  S span to remedy this ,
+Inner:  S span None Elaborate NS
+Leaf:  N Manner-Means it has had trouble
+Leaf:  S span providing for the poor in unincorporated areas such as Methany Tract
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span ( sp ? ) .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Leaf:  S span But California has recognized
+Leaf:  N Attribution that having access to clean water is a right for all people .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement Currently they are working
+Leaf:  S span on having a nearby city help provide clean water to the Methany Tract citizens .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint It really makes one wonder about all the damage already done , the health problems , the children ,
+Leaf:  S span and it makes one wonder
+Leaf:  N Attribution how many other places and other states need to have this resolved .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('California has problems similar to Flint Michigan', None, None, None, 0), ('when it comes to providing clean water to everyone .', None, None, None, 1), ('While California passed clean water acts', None, None, None, 0), ('to remedy this ,', None, None, None, 0), ('it has had trouble', None, None, None, 0), ('providing for the poor in unincorporated areas such as Methany Tract', None, None, None, 0), ('( sp ? ) .', None, None, None, 1), ('But California has recognized', None, None, None, 0), ('that having access to clean water is a right for all people .', None, None, None, 1), ('Currently they are working', None, None, None, 0), ('on having a nearby city help provide clean water to the Methany Tract citizens .', None, None, None, 1), ('It really makes one wonder about all the damage already done , the health problems , the children ,', None, None, None, 0), ('and it makes one wonder', None, None, None, 0), ('how many other places and other states need to have this resolved .', None, None, None, 1)]

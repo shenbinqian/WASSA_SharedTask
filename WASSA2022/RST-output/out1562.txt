@@ -1,0 +1,29 @@
+=====================> [[('This is really sad !', None, None, None, 1), ('I would think', None, None, None, 0), ('there would be a way', None, None, None, 0), ('to stop this from happening .', None, None, None, 1), ('Everyone knows this is being done ,', None, None, None, 0), ("so why could n't they stop it .", None, None, None, 1), ('The human traffiking is a sad thing', None, None, None, 0), ('and', None, None, None, 0), ('to have them all dying', None, None, None, 0), ('try', None, None, None, 0), ('to get to another place', None, None, None, 0), ('is sad.There must be some kind of policing', None, None, None, 0), ('that could be done', None, None, None, 0), ('wherever the people are boarding these boats .', None, None, None, 1)]]
+Leaf:  N Evaluation This is really sad !
+Leaf:  S span I would think
+Leaf:  N Elaborate there would be a way
+Leaf:  S span to stop this from happening .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Everyone knows this is being done ,
+Leaf:  N Cause so why could n't they stop it .
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint The human traffiking is a sad thing
+Leaf:  N Cause and
+Leaf:  N Enablement to have them all dying
+Leaf:  N Enablement try
+Leaf:  S span to get to another place
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Elaborate is sad.There must be some kind of policing
+Leaf:  N Background that could be done
+Leaf:  S span wherever the people are boarding these boats .
+Inner:  S span None Background NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is really sad !', None, None, None, 1), ('I would think', None, None, None, 0), ('there would be a way', None, None, None, 0), ('to stop this from happening .', None, None, None, 1), ('Everyone knows this is being done ,', None, None, None, 0), ("so why could n't they stop it .", None, None, None, 1), ('The human traffiking is a sad thing', None, None, None, 0), ('and', None, None, None, 0), ('to have them all dying', None, None, None, 0), ('try', None, None, None, 0), ('to get to another place', None, None, None, 0), ('is sad.There must be some kind of policing', None, None, None, 0), ('that could be done', None, None, None, 0), ('wherever the people are boarding these boats .', None, None, None, 1)]

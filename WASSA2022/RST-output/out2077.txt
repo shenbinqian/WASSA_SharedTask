@@ -1,0 +1,33 @@
+=====================> [[('I want to say', None, None, None, 0), ("I 'm surprised", None, None, None, 0), ("but I 'm not .", None, None, None, 1), ('Cain is just going through the same thing', None, None, None, 0), ('Leslie Jones and tons of other women go through on twitter .', None, None, None, 1), ('Everyone hates on women getting involved in anything men " own " like comic books and Ghostbusters . Its ridiculous . She was targeted by all the incels online', None, None, None, 0), ("and they 're the angriest vilest group", None, None, None, 0), ('to deal with .', None, None, None, 1), ('I hope she just writes a different series', None, None, None, 0), ("and keeps going . She does n't need a twitter account . She can create more material with strong feminist characters and themes .", None, None, None, 1), ('Marvel is n\'t really afraid of those topics and they do address a lot of " edgier " themes', None, None, None, 0), ('and they have female representation .', None, None, None, 1), ('So hopefully she keeps writing', None, None, None, 0), ("and I ca n't wait until the day", None, None, None, 0), ('those attitudes against women are considered weird and in the minority .', None, None, None, 1), ('Wait until everyone lo', None, None, None, 0)]]
+Leaf:  S span I want to say
+Leaf:  N Attribution I 'm surprised
+Inner:  S span None Attribution SN
+Leaf:  N Attribution but I 'm not .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Cain is just going through the same thing
+Leaf:  S span Leslie Jones and tons of other women go through on twitter .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Everyone hates on women getting involved in anything men " own " like comic books and Ghostbusters . Its ridiculous . She was targeted by all the incels online
+Leaf:  N Elaborate and they 're the angriest vilest group
+Leaf:  S span to deal with .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Joint I hope she just writes a different series
+Leaf:  N Joint and keeps going . She does n't need a twitter account . She can create more material with strong feminist characters and themes .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint Marvel is n't really afraid of those topics and they do address a lot of " edgier " themes
+Leaf:  N Joint and they have female representation .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint So hopefully she keeps writing
+Leaf:  N Elaborate and I ca n't wait until the day
+Leaf:  S span those attitudes against women are considered weird and in the minority .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint Wait until everyone lo
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('I want to say', None, None, None, 0), ("I 'm surprised", None, None, None, 0), ("but I 'm not .", None, None, None, 1), ('Cain is just going through the same thing', None, None, None, 0), ('Leslie Jones and tons of other women go through on twitter .', None, None, None, 1), ('Everyone hates on women getting involved in anything men " own " like comic books and Ghostbusters . Its ridiculous . She was targeted by all the incels online', None, None, None, 0), ("and they 're the angriest vilest group", None, None, None, 0), ('to deal with .', None, None, None, 1), ('I hope she just writes a different series', None, None, None, 0), ("and keeps going . She does n't need a twitter account . She can create more material with strong feminist characters and themes .", None, None, None, 1), ('Marvel is n\'t really afraid of those topics and they do address a lot of " edgier " themes', None, None, None, 0), ('and they have female representation .', None, None, None, 1), ('So hopefully she keeps writing', None, None, None, 0), ("and I ca n't wait until the day", None, None, None, 0), ('those attitudes against women are considered weird and in the minority .', None, None, None, 1), ('Wait until everyone lo', None, None, None, 0)]

@@ -1,0 +1,19 @@
+=====================> [[("It 's unfortunate that the divers died ,", None, None, None, 0), ('but they knew', None, None, None, 0), ('that they were getting into something dangerous .', None, None, None, 1), ('They were correct', None, None, None, 0), ('that there is a certain fascination with exploring these mysterious areas .', None, None, None, 1), ('It is the natural drive of the greatest people in history .', None, None, None, 1), ('The desire', None, None, None, 0), ('to understand more', None, None, None, 0), ('is an essential part of humanity .', None, None, None, 1)]]
+Leaf:  N Contrast It 's unfortunate that the divers died ,
+Leaf:  S span but they knew
+Leaf:  N Attribution that they were getting into something dangerous .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span They were correct
+Leaf:  N Attribution that there is a certain fascination with exploring these mysterious areas .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It is the natural drive of the greatest people in history .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The desire
+Leaf:  S span to understand more
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is an essential part of humanity .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's unfortunate that the divers died ,", None, None, None, 0), ('but they knew', None, None, None, 0), ('that they were getting into something dangerous .', None, None, None, 1), ('They were correct', None, None, None, 0), ('that there is a certain fascination with exploring these mysterious areas .', None, None, None, 1), ('It is the natural drive of the greatest people in history .', None, None, None, 1), ('The desire', None, None, None, 0), ('to understand more', None, None, None, 0), ('is an essential part of humanity .', None, None, None, 1)]

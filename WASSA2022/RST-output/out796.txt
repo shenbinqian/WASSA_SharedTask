@@ -1,0 +1,43 @@
+=====================> [[("It 's very upsetting to me", None, None, None, 0), ('that people feel', None, None, None, 0), ('they still need to poach elephants and rhinos just for their ivory .', None, None, None, 1), ("It 's a species", None, None, None, 0), ('that you are making extinct here .', None, None, None, 1), ('Why are people', None, None, None, 0), ('not trying', None, None, None, 0), ('to control', None, None, None, 0), ('or help the situation more ?', None, None, None, 1), ('There has to be some kind d of co trolling standards for the extinction of the rhino and elephant . I believe', None, None, None, 0), ('I saw something', None, None, None, 0), ('not that long ago', None, None, None, 0), ('that actually painted the tusks', None, None, None, 0), ('and got s of elephants and rhinos', None, None, None, 0), ('that permantely stained them', None, None, None, 0), ('so the poachers work not beable ti use the ivory .', None, None, None, 1), ('They stained them a pink or blue color .', None, None, None, 1), ('We should try and regulate that', None, None, None, 0), ('and do that', None, None, None, 0), ('so no one will kill these animals .', None, None, None, 1), ("If that 's possible .", None, None, None, 1)]]
+Leaf:  S span It 's very upsetting to me
+Leaf:  S span that people feel
+Leaf:  N Attribution they still need to poach elephants and rhinos just for their ivory .
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate It 's a species
+Leaf:  S span that you are making extinct here .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate Why are people
+Leaf:  N Enablement not trying
+Leaf:  N Joint to control
+Leaf:  N Joint or help the situation more ?
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span There has to be some kind d of co trolling standards for the extinction of the rhino and elephant . I believe
+Leaf:  N Elaborate I saw something
+Leaf:  S span not that long ago
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint that actually painted the tusks
+Leaf:  N Elaborate and got s of elephants and rhinos
+Leaf:  N Cause that permantely stained them
+Leaf:  S span so the poachers work not beable ti use the ivory .
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They stained them a pink or blue color .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint We should try and regulate that
+Leaf:  S span and do that
+Leaf:  N Condition so no one will kill these animals .
+Inner:  N Joint None Condition SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span If that 's possible .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("It 's very upsetting to me", None, None, None, 0), ('that people feel', None, None, None, 0), ('they still need to poach elephants and rhinos just for their ivory .', None, None, None, 1), ("It 's a species", None, None, None, 0), ('that you are making extinct here .', None, None, None, 1), ('Why are people', None, None, None, 0), ('not trying', None, None, None, 0), ('to control', None, None, None, 0), ('or help the situation more ?', None, None, None, 1), ('There has to be some kind d of co trolling standards for the extinction of the rhino and elephant . I believe', None, None, None, 0), ('I saw something', None, None, None, 0), ('not that long ago', None, None, None, 0), ('that actually painted the tusks', None, None, None, 0), ('and got s of elephants and rhinos', None, None, None, 0), ('that permantely stained them', None, None, None, 0), ('so the poachers work not beable ti use the ivory .', None, None, None, 1), ('They stained them a pink or blue color .', None, None, None, 1), ('We should try and regulate that', None, None, None, 0), ('and do that', None, None, None, 0), ('so no one will kill these animals .', None, None, None, 1), ("If that 's possible .", None, None, None, 1)]

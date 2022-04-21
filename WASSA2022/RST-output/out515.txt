@@ -1,0 +1,27 @@
+=====================> [[('This is such a sad story .', None, None, None, 1), ('I feel so much for the mother', None, None, None, 0), ('trying to get away .', None, None, None, 1), ("Sometimes it seems like things wo n't be so bad .", None, None, None, 1), ('Sometimes it seems like tomorrow is another chance ,', None, None, None, 0), ("but it seems to me that you ca n't give people the opportunity", None, None, None, 0), ('to destroy', None, None, None, 0), ('because they will .', None, None, None, 1), ('I would always encourage a one strike policy for my friends .', None, None, None, 1), ('That reminds me ,', None, None, None, 0), ('how was your friend', None, None, None, 0), ('after her husband threatened to shoot her', None, None, None, 0), ('- are they still together ?', None, None, None, 1)]]
+Leaf:  N Elaborate This is such a sad story .
+Leaf:  N Elaborate I feel so much for the mother
+Leaf:  S span trying to get away .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Sometimes it seems like things wo n't be so bad .
+Leaf:  N Contrast Sometimes it seems like tomorrow is another chance ,
+Leaf:  N Elaborate but it seems to me that you ca n't give people the opportunity
+Leaf:  S span to destroy
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because they will .
+Inner:  N Contrast None Explanation NS
+Inner:  N Joint None Contrast NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I would always encourage a one strike policy for my friends .
+Leaf:  N Elaborate That reminds me ,
+Leaf:  N Background how was your friend
+Leaf:  S span after her husband threatened to shoot her
+Inner:  S span None Background NS
+Leaf:  N Elaborate - are they still together ?
+Inner:  S span None Elaborate SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is such a sad story .', None, None, None, 1), ('I feel so much for the mother', None, None, None, 0), ('trying to get away .', None, None, None, 1), ("Sometimes it seems like things wo n't be so bad .", None, None, None, 1), ('Sometimes it seems like tomorrow is another chance ,', None, None, None, 0), ("but it seems to me that you ca n't give people the opportunity", None, None, None, 0), ('to destroy', None, None, None, 0), ('because they will .', None, None, None, 1), ('I would always encourage a one strike policy for my friends .', None, None, None, 1), ('That reminds me ,', None, None, None, 0), ('how was your friend', None, None, None, 0), ('after her husband threatened to shoot her', None, None, None, 0), ('- are they still together ?', None, None, None, 1)]

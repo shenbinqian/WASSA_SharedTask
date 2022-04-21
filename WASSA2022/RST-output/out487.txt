@@ -1,0 +1,15 @@
+=====================> [[("That 's a really strange and messed up situation .", None, None, None, 1), ("It 's really sad for the children involved", None, None, None, 0), ("and it 's very troubling that any country could plan out such an awful attack .", None, None, None, 1), ('I hope', None, None, None, 0), ('that things change in those areas of the world', None, None, None, 0), ('and more security is put in place', None, None, None, 0), ('so these types of attacks can be detected and negated .', None, None, None, 1)]]
+Leaf:  N Evaluation That 's a really strange and messed up situation .
+Leaf:  N Joint It 's really sad for the children involved
+Leaf:  N Joint and it 's very troubling that any country could plan out such an awful attack .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Joint that things change in those areas of the world
+Leaf:  N Enablement and more security is put in place
+Leaf:  S span so these types of attacks can be detected and negated .
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[("That 's a really strange and messed up situation .", None, None, None, 1), ("It 's really sad for the children involved", None, None, None, 0), ("and it 's very troubling that any country could plan out such an awful attack .", None, None, None, 1), ('I hope', None, None, None, 0), ('that things change in those areas of the world', None, None, None, 0), ('and more security is put in place', None, None, None, 0), ('so these types of attacks can be detected and negated .', None, None, None, 1)]

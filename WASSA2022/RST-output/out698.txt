@@ -1,0 +1,17 @@
+=====================> [[('Mexico is disturbed by our current President Donald J Trump .', None, None, None, 1), ('Their currency Pesos dropped a lot', None, None, None, 0), ('when he was elected .', None, None, None, 1), ('Trump wants to build a wall between the two countries borders as well .', None, None, None, 1), ('The Mexican government seems very apprehensive about our new glorious President .', None, None, None, 1), ('Their economy might drop due to the building of the wall and lowering of all the immigrants', None, None, None, 0), ('trying to get into the U.S.', None, None, None, 1), ('by crossing into our borders .', None, None, None, 1)]]
+Leaf:  N Explanation Mexico is disturbed by our current President Donald J Trump .
+Leaf:  N Background Their currency Pesos dropped a lot
+Leaf:  S span when he was elected .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Trump wants to build a wall between the two countries borders as well .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause The Mexican government seems very apprehensive about our new glorious President .
+Leaf:  N Elaborate Their economy might drop due to the building of the wall and lowering of all the immigrants
+Leaf:  S span trying to get into the U.S.
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span by crossing into our borders .
+Inner:  S span None Manner-Means NS
+Inner:  S span None Cause NS
+Inner:  Root None None Cause NS
+[('Mexico is disturbed by our current President Donald J Trump .', None, None, None, 1), ('Their currency Pesos dropped a lot', None, None, None, 0), ('when he was elected .', None, None, None, 1), ('Trump wants to build a wall between the two countries borders as well .', None, None, None, 1), ('The Mexican government seems very apprehensive about our new glorious President .', None, None, None, 1), ('Their economy might drop due to the building of the wall and lowering of all the immigrants', None, None, None, 0), ('trying to get into the U.S.', None, None, None, 1), ('by crossing into our borders .', None, None, None, 1)]

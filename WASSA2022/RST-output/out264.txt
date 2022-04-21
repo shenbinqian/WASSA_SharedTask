@@ -1,0 +1,15 @@
+=====================> [[('Dear friend , I have just finished reading a very interesting and somewhat disturbing article .', None, None, None, 1), ('It was about Thomas Arthur , an inmate on death row in Alabama .', None, None, None, 1), ('There began a massive legal battle between the courts , justices , and lawyers about the legality and morality of lethal injection practices .', None, None, None, 1), ('I feel conflicted', None, None, None, 0), ('because on one hand , these people committed unthinkable crimes', None, None, None, 0), ('and deserve severe punishment ,', None, None, None, 0), ('but on the other hand , taking a life may still not be justifiable .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just finished reading a very interesting and somewhat disturbing article .
+Leaf:  S span It was about Thomas Arthur , an inmate on death row in Alabama .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There began a massive legal battle between the courts , justices , and lawyers about the legality and morality of lethal injection practices .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I feel conflicted
+Leaf:  N Joint because on one hand , these people committed unthinkable crimes
+Leaf:  N Joint and deserve severe punishment ,
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast but on the other hand , taking a life may still not be justifiable .
+Inner:  S span None Contrast NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Dear friend , I have just finished reading a very interesting and somewhat disturbing article .', None, None, None, 1), ('It was about Thomas Arthur , an inmate on death row in Alabama .', None, None, None, 1), ('There began a massive legal battle between the courts , justices , and lawyers about the legality and morality of lethal injection practices .', None, None, None, 1), ('I feel conflicted', None, None, None, 0), ('because on one hand , these people committed unthinkable crimes', None, None, None, 0), ('and deserve severe punishment ,', None, None, None, 0), ('but on the other hand , taking a life may still not be justifiable .', None, None, None, 1)]

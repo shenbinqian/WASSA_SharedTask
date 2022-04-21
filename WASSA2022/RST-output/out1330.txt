@@ -1,0 +1,23 @@
+=====================> [[('Wow . So sad to see yet another species on the way to extinction .', None, None, None, 1), ("It 's crazy to think", None, None, None, 0), ("that there 's only 60 of one species left in the world .", None, None, None, 1), ('I know', None, None, None, 0), ('that it was the same way with the white rhino', None, None, None, 0), ('- it was like we knew', None, None, None, 0), ('it was coming ,', None, None, None, 0), ('but we were completely unable to stop it ,', None, None, None, 0), ('because it was just too late .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they could keep them in captivity .', None, None, None, 1)]]
+Leaf:  N Evaluation Wow . So sad to see yet another species on the way to extinction .
+Leaf:  S span It 's crazy to think
+Leaf:  N Attribution that there 's only 60 of one species left in the world .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Background that it was the same way with the white rhino
+Leaf:  S span - it was like we knew
+Leaf:  N Attribution it was coming ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but we were completely unable to stop it ,
+Inner:  S span None Contrast NS
+Inner:  N Explanation None Background NS
+Leaf:  S span because it was just too late .
+Inner:  N Attribution None Explanation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I wonder
+Leaf:  N Attribution if they could keep them in captivity .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Wow . So sad to see yet another species on the way to extinction .', None, None, None, 1), ("It 's crazy to think", None, None, None, 0), ("that there 's only 60 of one species left in the world .", None, None, None, 1), ('I know', None, None, None, 0), ('that it was the same way with the white rhino', None, None, None, 0), ('- it was like we knew', None, None, None, 0), ('it was coming ,', None, None, None, 0), ('but we were completely unable to stop it ,', None, None, None, 0), ('because it was just too late .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they could keep them in captivity .', None, None, None, 1)]

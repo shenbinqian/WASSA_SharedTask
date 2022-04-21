@@ -1,0 +1,27 @@
+=====================> [[("I ca n't stand protesters !", None, None, None, 1), ("I 'm so sick of people", None, None, None, 0), ('acting like this is an appropriate way', None, None, None, 0), ('to voice their opinions .', None, None, None, 1), ('Acting like animals', None, None, None, 0), ('destroying things ,', None, None, None, 0), ('it just sickens me really .', None, None, None, 1), ('What happened to people', None, None, None, 0), ('acting mature and responsible in life ?', None, None, None, 1), ('Jesus Christ ,', None, None, None, 0), ('going out', None, None, None, 0), ('looting things and destroying .', None, None, None, 1), ('What is wrong with people .', None, None, None, 1)]]
+Leaf:  N Explanation I ca n't stand protesters !
+Leaf:  N Elaborate I 'm so sick of people
+Leaf:  N Elaborate acting like this is an appropriate way
+Leaf:  S span to voice their opinions .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate Acting like animals
+Leaf:  S span destroying things ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span it just sickens me really .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate What happened to people
+Leaf:  S span acting mature and responsible in life ?
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Explanation NS
+Leaf:  N Elaborate Jesus Christ ,
+Leaf:  N Enablement going out
+Leaf:  S span looting things and destroying .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span What is wrong with people .
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[("I ca n't stand protesters !", None, None, None, 1), ("I 'm so sick of people", None, None, None, 0), ('acting like this is an appropriate way', None, None, None, 0), ('to voice their opinions .', None, None, None, 1), ('Acting like animals', None, None, None, 0), ('destroying things ,', None, None, None, 0), ('it just sickens me really .', None, None, None, 1), ('What happened to people', None, None, None, 0), ('acting mature and responsible in life ?', None, None, None, 1), ('Jesus Christ ,', None, None, None, 0), ('going out', None, None, None, 0), ('looting things and destroying .', None, None, None, 1), ('What is wrong with people .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('This is a really interesting article about primates .', None, None, None, 1), ('It just talks about some of the things', None, None, None, 0), ('this certain species of primate does', None, None, None, 0), ('as they get older .', None, None, None, 1), ('They tend to adjust their position', None, None, None, 0), ('so they can see things better', None, None, None, 0), ('as they age . The younger bonobos sit close to their partner', None, None, None, 0), ('when they groom', None, None, None, 0), ('but the older ones sit ridiculously far away .', None, None, None, 1), ("I would n't even think", None, None, None, 0), ('their arms could reach', None, None, None, 0), ('when I read', None, None, None, 0), ('the distance was over a foot .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a really interesting article about primates .
+Leaf:  N Elaborate It just talks about some of the things
+Leaf:  N Background this certain species of primate does
+Leaf:  S span as they get older .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement They tend to adjust their position
+Leaf:  S span so they can see things better
+Inner:  N Temporal None Enablement NS
+Leaf:  N Temporal as they age . The younger bonobos sit close to their partner
+Leaf:  N Temporal when they groom
+Inner:  N Contrast None Temporal NN
+Leaf:  N Contrast but the older ones sit ridiculously far away .
+Inner:  S span None Contrast NN
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I would n't even think
+Leaf:  N Attribution their arms could reach
+Inner:  N Temporal None Attribution SN
+Leaf:  S span when I read
+Leaf:  N Attribution the distance was over a foot .
+Inner:  S span None Attribution SN
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is a really interesting article about primates .', None, None, None, 1), ('It just talks about some of the things', None, None, None, 0), ('this certain species of primate does', None, None, None, 0), ('as they get older .', None, None, None, 1), ('They tend to adjust their position', None, None, None, 0), ('so they can see things better', None, None, None, 0), ('as they age . The younger bonobos sit close to their partner', None, None, None, 0), ('when they groom', None, None, None, 0), ('but the older ones sit ridiculously far away .', None, None, None, 1), ("I would n't even think", None, None, None, 0), ('their arms could reach', None, None, None, 0), ('when I read', None, None, None, 0), ('the distance was over a foot .', None, None, None, 1)]

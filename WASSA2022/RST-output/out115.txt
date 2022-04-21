@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('this situation will more or less quickly be resolved .', None, None, None, 1), ('It is just a temporary issue', None, None, None, 0), ('and I really believe', None, None, None, 0), ('the gas prices will go back to normal .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('there should be too much to worry about .', None, None, None, 1), ('I remember', None, None, None, 0), ('this happened around the crisis here back in 2009', None, None, None, 0), ('and everything was settled rather quickly .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution this situation will more or less quickly be resolved .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint It is just a temporary issue
+Leaf:  S span and I really believe
+Leaf:  N Attribution the gas prices will go back to normal .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  S span I do n't think
+Leaf:  N Attribution there should be too much to worry about .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Explanation NS
+Leaf:  S span I remember
+Leaf:  N Temporal this happened around the crisis here back in 2009
+Leaf:  N Temporal and everything was settled rather quickly .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Explanation NS
+[('I think', None, None, None, 0), ('this situation will more or less quickly be resolved .', None, None, None, 1), ('It is just a temporary issue', None, None, None, 0), ('and I really believe', None, None, None, 0), ('the gas prices will go back to normal .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('there should be too much to worry about .', None, None, None, 1), ('I remember', None, None, None, 0), ('this happened around the crisis here back in 2009', None, None, None, 0), ('and everything was settled rather quickly .', None, None, None, 1)]

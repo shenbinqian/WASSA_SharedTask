@@ -1,0 +1,31 @@
+=====================> [[('This sounds like such a freak thing .', None, None, None, 1), ('It must be so hard for the family', None, None, None, 0), ('because there are no answers', None, None, None, 0), ('and they need answers .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('this is something', None, None, None, 0), ('that is easy to figure out .', None, None, None, 1), ('It sounds like a severe case of pneumonia , but from what , how and why . And the fluid on the brain of the one sister is so strange .', None, None, None, 1), ('I would think', None, None, None, 0), ('they would know more after the autopsies ,', None, None, None, 0), ("and I do n't understand", None, None, None, 0), ('why that is taking so long .', None, None, None, 1), ("I 'm thinking", None, None, None, 0), ('that the family wants to bring the bodies back to the States', None, None, None, 0), ('and that could be holding up the autopsies .', None, None, None, 1)]]
+Leaf:  N Explanation This sounds like such a freak thing .
+Leaf:  N Explanation It must be so hard for the family
+Leaf:  N Joint because there are no answers
+Leaf:  N Joint and they need answers .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I 'm not sure
+Leaf:  N Elaborate this is something
+Leaf:  S span that is easy to figure out .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It sounds like a severe case of pneumonia , but from what , how and why . And the fluid on the brain of the one sister is so strange .
+Leaf:  S span I would think
+Leaf:  N Attribution they would know more after the autopsies ,
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I do n't understand
+Leaf:  N Attribution why that is taking so long .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm thinking
+Leaf:  N Cause that the family wants to bring the bodies back to the States
+Leaf:  S span and that could be holding up the autopsies .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This sounds like such a freak thing .', None, None, None, 1), ('It must be so hard for the family', None, None, None, 0), ('because there are no answers', None, None, None, 0), ('and they need answers .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('this is something', None, None, None, 0), ('that is easy to figure out .', None, None, None, 1), ('It sounds like a severe case of pneumonia , but from what , how and why . And the fluid on the brain of the one sister is so strange .', None, None, None, 1), ('I would think', None, None, None, 0), ('they would know more after the autopsies ,', None, None, None, 0), ("and I do n't understand", None, None, None, 0), ('why that is taking so long .', None, None, None, 1), ("I 'm thinking", None, None, None, 0), ('that the family wants to bring the bodies back to the States', None, None, None, 0), ('and that could be holding up the autopsies .', None, None, None, 1)]

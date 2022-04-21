@@ -1,0 +1,21 @@
+=====================> [[('It is very difficult for me to imagine how any person could leave a baby in a shoe box .', None, None, None, 1), ("I just do n't understand", None, None, None, 0), ('how you could even leave a baby alone .', None, None, None, 1), ('Thank God', None, None, None, 0), ('the baby was in good health ,', None, None, None, 0), ('at least whoever left', None, None, None, 0), ('the poor thing seems to have taken good care of it', None, None, None, 0), ('other than leaving it in a shoe box .', None, None, None, 1), ('Maybe in the end this will turn out to be a good thing for this baby ,', None, None, None, 0), ('one can only hope .', None, None, None, 1)]]
+Leaf:  N Explanation It is very difficult for me to imagine how any person could leave a baby in a shoe box .
+Leaf:  S span I just do n't understand
+Leaf:  N Attribution how you could even leave a baby alone .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Thank God
+Leaf:  N Evaluation the baby was in good health ,
+Leaf:  N Elaborate at least whoever left
+Leaf:  S span the poor thing seems to have taken good care of it
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span other than leaving it in a shoe box .
+Inner:  S span None Temporal NS
+Inner:  N Attribution None Evaluation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation Maybe in the end this will turn out to be a good thing for this baby ,
+Leaf:  S span one can only hope .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It is very difficult for me to imagine how any person could leave a baby in a shoe box .', None, None, None, 1), ("I just do n't understand", None, None, None, 0), ('how you could even leave a baby alone .', None, None, None, 1), ('Thank God', None, None, None, 0), ('the baby was in good health ,', None, None, None, 0), ('at least whoever left', None, None, None, 0), ('the poor thing seems to have taken good care of it', None, None, None, 0), ('other than leaving it in a shoe box .', None, None, None, 1), ('Maybe in the end this will turn out to be a good thing for this baby ,', None, None, None, 0), ('one can only hope .', None, None, None, 1)]

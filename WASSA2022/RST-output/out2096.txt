@@ -1,0 +1,47 @@
+=====================> [[("I did n't think much of Wells Fargo", None, None, None, 0), ('before reading the article', None, None, None, 0), ('but now that I know about some of their violations of the law ,', None, None, None, 0), ("I do n't care for them as much", None, None, None, 0), ('as I did .', None, None, None, 1), ('I think', None, None, None, 0), ('it was interesting and informative to know of some of their malpractices . The settlement is good and correct to right some of the wrongs', None, None, None, 0), ('they have done', None, None, None, 0), ('and people', None, None, None, 0), ('they have harmed .', None, None, None, 1), ('It will help the people', None, None, None, 0), ('they have harmed', None, None, None, 0), ('and seek to right the wrong', None, None, None, 0), ('and there will be justice .', None, None, None, 1), ('Wells Fargo is big', None, None, None, 0), ('and they should not harm others', None, None, None, 0), ('and the articles is well told on what happened to them and what they did in detail . They were fined for repeated violations', None, None, None, 0), ('and have a clear intent', None, None, None, 0), ('of what they were doing', None, None, None, 0), ('and how they were acting towards their customers', None, None, None, 0), ('and was not the best way', None, None, None, 0), ('to act towards others .', None, None, None, 1), ('You would find it interesting .', None, None, None, 1)]]
+Leaf:  N Temporal I did n't think much of Wells Fargo
+Leaf:  S span before reading the article
+Inner:  S span None Temporal NS
+Leaf:  S span but now that I know about some of their violations of the law ,
+Leaf:  N Comparison I do n't care for them as much
+Leaf:  S span as I did .
+Inner:  N Background None Comparison NS
+Inner:  N Contrast None Background SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I think
+Leaf:  N Elaborate it was interesting and informative to know of some of their malpractices . The settlement is good and correct to right some of the wrongs
+Leaf:  S span they have done
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and people
+Leaf:  S span they have harmed .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It will help the people
+Leaf:  S span they have harmed
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and seek to right the wrong
+Inner:  S span None Same-Unit NN
+Leaf:  N Condition and there will be justice .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Wells Fargo is big
+Leaf:  N Joint and they should not harm others
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and the articles is well told on what happened to them and what they did in detail . They were fined for repeated violations
+Leaf:  N Elaborate and have a clear intent
+Leaf:  N Joint of what they were doing
+Leaf:  N Joint and how they were acting towards their customers
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and was not the best way
+Leaf:  S span to act towards others .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span You would find it interesting .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I did n't think much of Wells Fargo", None, None, None, 0), ('before reading the article', None, None, None, 0), ('but now that I know about some of their violations of the law ,', None, None, None, 0), ("I do n't care for them as much", None, None, None, 0), ('as I did .', None, None, None, 1), ('I think', None, None, None, 0), ('it was interesting and informative to know of some of their malpractices . The settlement is good and correct to right some of the wrongs', None, None, None, 0), ('they have done', None, None, None, 0), ('and people', None, None, None, 0), ('they have harmed .', None, None, None, 1), ('It will help the people', None, None, None, 0), ('they have harmed', None, None, None, 0), ('and seek to right the wrong', None, None, None, 0), ('and there will be justice .', None, None, None, 1), ('Wells Fargo is big', None, None, None, 0), ('and they should not harm others', None, None, None, 0), ('and the articles is well told on what happened to them and what they did in detail . They were fined for repeated violations', None, None, None, 0), ('and have a clear intent', None, None, None, 0), ('of what they were doing', None, None, None, 0), ('and how they were acting towards their customers', None, None, None, 0), ('and was not the best way', None, None, None, 0), ('to act towards others .', None, None, None, 1), ('You would find it interesting .', None, None, None, 1)]

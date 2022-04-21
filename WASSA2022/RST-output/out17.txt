@@ -1,0 +1,27 @@
+=====================> [[('This is a crazy story with so many facets to it , omg .', None, None, None, 1), ("I mean on one hand , I do n't support an eye for an eye .", None, None, None, 1), ("I do n't support the death penalty", None, None, None, 0), ("and I do n't support blinding someone . BUT on the other hand , this is a country", None, None, None, 0), ('where women really struggle', None, None, None, 0), ('and the justice system is not well developed . ALSO , he blinded a FOUR YEAR OLD GIRL .', None, None, None, 1), ('What the fuck is wrong with this guy .', None, None, None, 1), ('So', None, None, None, 0), ('if this was in America', None, None, None, 0), ('I would not support it ,', None, None, None, 0), ("but I do n't feel right condemning the actions of an entirely different country", None, None, None, 0), ('for doing what they felt', None, None, None, 0), ('needed to be done .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a crazy story with so many facets to it , omg .
+Leaf:  N Joint I mean on one hand , I do n't support an eye for an eye .
+Leaf:  N Joint I do n't support the death penalty
+Leaf:  N Elaborate and I do n't support blinding someone . BUT on the other hand , this is a country
+Leaf:  N Joint where women really struggle
+Leaf:  N Joint and the justice system is not well developed . ALSO , he blinded a FOUR YEAR OLD GIRL .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span What the fuck is wrong with this guy .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Same-Unit So
+Leaf:  S span if this was in America
+Leaf:  N Condition I would not support it ,
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Explanation but I do n't feel right condemning the actions of an entirely different country
+Leaf:  S span for doing what they felt
+Leaf:  N Attribution needed to be done .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is a crazy story with so many facets to it , omg .', None, None, None, 1), ("I mean on one hand , I do n't support an eye for an eye .", None, None, None, 1), ("I do n't support the death penalty", None, None, None, 0), ("and I do n't support blinding someone . BUT on the other hand , this is a country", None, None, None, 0), ('where women really struggle', None, None, None, 0), ('and the justice system is not well developed . ALSO , he blinded a FOUR YEAR OLD GIRL .', None, None, None, 1), ('What the fuck is wrong with this guy .', None, None, None, 1), ('So', None, None, None, 0), ('if this was in America', None, None, None, 0), ('I would not support it ,', None, None, None, 0), ("but I do n't feel right condemning the actions of an entirely different country", None, None, None, 0), ('for doing what they felt', None, None, None, 0), ('needed to be done .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Hello again !', None, None, None, 1), ('Writing to share some things', None, None, None, 0), ('I have been learning about .', None, None, None, 1), ('I read', None, None, None, 0), ('that Syrians and Iraqis are granted asylum in Germany far more often than Pakistanis , and Nigerians .', None, None, None, 1), ('Germany is confronting the task', None, None, None, 0), ('of deciding who gets to stay .', None, None, None, 1), ('If you ’re from Syria or Iraq , sanctuary is almost guaranteed .', None, None, None, 1), ('But', None, None, None, 0), ('if you ’re from Nigeria or Pakistan ,', None, None, None, 0), ('chances are you journeyed all the way there for nothing .', None, None, None, 1), ('This is so distressing !', None, None, None, 1)]]
+Leaf:  N Elaborate Hello again !
+Leaf:  N Elaborate Writing to share some things
+Leaf:  S span I have been learning about .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I read
+Leaf:  N Attribution that Syrians and Iraqis are granted asylum in Germany far more often than Pakistanis , and Nigerians .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Germany is confronting the task
+Leaf:  S span of deciding who gets to stay .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast If you ’re from Syria or Iraq , sanctuary is almost guaranteed .
+Leaf:  N Comparison But
+Leaf:  N Comparison if you ’re from Nigeria or Pakistan ,
+Inner:  S span None Comparison NN
+Leaf:  N Condition chances are you journeyed all the way there for nothing .
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is so distressing !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hello again !', None, None, None, 1), ('Writing to share some things', None, None, None, 0), ('I have been learning about .', None, None, None, 1), ('I read', None, None, None, 0), ('that Syrians and Iraqis are granted asylum in Germany far more often than Pakistanis , and Nigerians .', None, None, None, 1), ('Germany is confronting the task', None, None, None, 0), ('of deciding who gets to stay .', None, None, None, 1), ('If you ’re from Syria or Iraq , sanctuary is almost guaranteed .', None, None, None, 1), ('But', None, None, None, 0), ('if you ’re from Nigeria or Pakistan ,', None, None, None, 0), ('chances are you journeyed all the way there for nothing .', None, None, None, 1), ('This is so distressing !', None, None, None, 1)]

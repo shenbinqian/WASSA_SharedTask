@@ -1,0 +1,23 @@
+=====================> [[('This right here is bullshit .', None, None, None, 1), ("I do n't know who wrote this shit article", None, None, None, 0), ('but from what I read it argues', None, None, None, 0), ('that livestock are more a contributor to gas emissions in our atmosphere then vehicle emissions .', None, None, None, 1), ('It spouts some numbers and facts', None, None, None, 0), ('but I can see straight away', None, None, None, 0), ('this is a fabricated article', None, None, None, 0), ('that is completely biased .', None, None, None, 1), ('This is the crap', None, None, None, 0), ('we need', None, None, None, 0), ('to take out of our news .', None, None, None, 1)]]
+Leaf:  N Summary This right here is bullshit .
+Leaf:  S span I do n't know who wrote this shit article
+Leaf:  S span but from what I read it argues
+Leaf:  N Attribution that livestock are more a contributor to gas emissions in our atmosphere then vehicle emissions .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span It spouts some numbers and facts
+Leaf:  S span but I can see straight away
+Leaf:  N Elaborate this is a fabricated article
+Leaf:  S span that is completely biased .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is the crap
+Leaf:  N Enablement we need
+Leaf:  S span to take out of our news .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('This right here is bullshit .', None, None, None, 1), ("I do n't know who wrote this shit article", None, None, None, 0), ('but from what I read it argues', None, None, None, 0), ('that livestock are more a contributor to gas emissions in our atmosphere then vehicle emissions .', None, None, None, 1), ('It spouts some numbers and facts', None, None, None, 0), ('but I can see straight away', None, None, None, 0), ('this is a fabricated article', None, None, None, 0), ('that is completely biased .', None, None, None, 1), ('This is the crap', None, None, None, 0), ('we need', None, None, None, 0), ('to take out of our news .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I read an article about the concern for Mexico now', None, None, None, 0), ('that Trump is president .', None, None, None, 1), ('I think', None, None, None, 0), ('it is exaggerated', None, None, None, 0), ('that he will doom Mexico and the United States .', None, None, None, 1), ('I think', None, None, None, 0), ('he is only trying to do what is right for America .', None, None, None, 1), ('I think', None, None, None, 0), ('if he sees', None, None, None, 0), ('that this type of action will cause America distress ,', None, None, None, 0), ('he will not take it .', None, None, None, 1), ('I think', None, None, None, 0), ("he is truly trying to act in America 's best interest .", None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about the concern for Mexico now
+Leaf:  S span that Trump is president .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Elaborate it is exaggerated
+Leaf:  S span that he will doom Mexico and the United States .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution he is only trying to do what is right for America .
+Inner:  N Joint None Attribution SN
+Leaf:  N Same-Unit I think
+Leaf:  S span if he sees
+Leaf:  N Attribution that this type of action will cause America distress ,
+Inner:  S span None Attribution SN
+Leaf:  N Condition he will not take it .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I think
+Leaf:  N Attribution he is truly trying to act in America 's best interest .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I read an article about the concern for Mexico now', None, None, None, 0), ('that Trump is president .', None, None, None, 1), ('I think', None, None, None, 0), ('it is exaggerated', None, None, None, 0), ('that he will doom Mexico and the United States .', None, None, None, 1), ('I think', None, None, None, 0), ('he is only trying to do what is right for America .', None, None, None, 1), ('I think', None, None, None, 0), ('if he sees', None, None, None, 0), ('that this type of action will cause America distress ,', None, None, None, 0), ('he will not take it .', None, None, None, 1), ('I think', None, None, None, 0), ("he is truly trying to act in America 's best interest .", None, None, None, 1)]

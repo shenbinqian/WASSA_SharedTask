@@ -1,0 +1,31 @@
+=====================> [[('I would give these people a life sentence in prison .', None, None, None, 1), ('People', None, None, None, 0), ('who steal from the less fortunate', None, None, None, 0), ('and exploit resources', None, None, None, 0), ('and innocents have no place in our society !', None, None, None, 1), ('They stole from pensioners and investors', None, None, None, 0), ('and blew millions on luxuries and other forms of pleasurable experiences at the expense of people ,', None, None, None, 0), ('causing suffering and pain !', None, None, None, 1), ("They should be punished accordingly , a dark cell with a toilet and a meal of prison mush twice a day would serve them just right . It 's a typical story about wealthy and elite out there ,", None, None, None, 0), ('who always harm the innocents', None, None, None, 0), ('and somehow able to get away', None, None, None, 0), ('and proven " innocent " .', None, None, None, 1), ('I would especially show no mercy', None, None, None, 0), ('when it comes to these greedy bankers all over the world .', None, None, None, 1), ('There is absolutely no excuse for their crimes-so much poverty and grief all over the world !', None, None, None, 1)]]
+Leaf:  N Textual-Organization I would give these people a life sentence in prison .
+Leaf:  N Elaborate People
+Leaf:  N Joint who steal from the less fortunate
+Leaf:  N Joint and exploit resources
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and innocents have no place in our society !
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They stole from pensioners and investors
+Leaf:  N Joint and blew millions on luxuries and other forms of pleasurable experiences at the expense of people ,
+Inner:  N Cause None Joint NN
+Leaf:  S span causing suffering and pain !
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate They should be punished accordingly , a dark cell with a toilet and a meal of prison mush twice a day would serve them just right . It 's a typical story about wealthy and elite out there ,
+Leaf:  N Temporal who always harm the innocents
+Leaf:  N Temporal and somehow able to get away
+Leaf:  N Temporal and proven " innocent " .
+Inner:  N Temporal None Temporal NN
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background I would especially show no mercy
+Leaf:  S span when it comes to these greedy bankers all over the world .
+Inner:  N Elaborate None Background NS
+Leaf:  S span There is absolutely no excuse for their crimes-so much poverty and grief all over the world !
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('I would give these people a life sentence in prison .', None, None, None, 1), ('People', None, None, None, 0), ('who steal from the less fortunate', None, None, None, 0), ('and exploit resources', None, None, None, 0), ('and innocents have no place in our society !', None, None, None, 1), ('They stole from pensioners and investors', None, None, None, 0), ('and blew millions on luxuries and other forms of pleasurable experiences at the expense of people ,', None, None, None, 0), ('causing suffering and pain !', None, None, None, 1), ("They should be punished accordingly , a dark cell with a toilet and a meal of prison mush twice a day would serve them just right . It 's a typical story about wealthy and elite out there ,", None, None, None, 0), ('who always harm the innocents', None, None, None, 0), ('and somehow able to get away', None, None, None, 0), ('and proven " innocent " .', None, None, None, 1), ('I would especially show no mercy', None, None, None, 0), ('when it comes to these greedy bankers all over the world .', None, None, None, 1), ('There is absolutely no excuse for their crimes-so much poverty and grief all over the world !', None, None, None, 1)]

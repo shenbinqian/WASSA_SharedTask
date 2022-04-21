@@ -1,0 +1,21 @@
+=====================> [[('I just read an article', None, None, None, 0), ('about how the CO2 levels are high this year', None, None, None, 0), ('and they might not lower for generations', None, None, None, 0), ('to come .', None, None, None, 1), ('That is so sad for our children and grandchildren .', None, None, None, 1), ('I feel', None, None, None, 0), ('like instances', None, None, None, 0), ('such as this can cause health issues .', None, None, None, 1), ('Not only am I concerned about myself', None, None, None, 0), ('but Im concerned about my children and future grandchildren .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  N Condition about how the CO2 levels are high this year
+Leaf:  N Elaborate and they might not lower for generations
+Leaf:  S span to come .
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation That is so sad for our children and grandchildren .
+Leaf:  S span I feel
+Leaf:  N Elaborate like instances
+Leaf:  S span such as this can cause health issues .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint Not only am I concerned about myself
+Leaf:  N Joint but Im concerned about my children and future grandchildren .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I just read an article', None, None, None, 0), ('about how the CO2 levels are high this year', None, None, None, 0), ('and they might not lower for generations', None, None, None, 0), ('to come .', None, None, None, 1), ('That is so sad for our children and grandchildren .', None, None, None, 1), ('I feel', None, None, None, 0), ('like instances', None, None, None, 0), ('such as this can cause health issues .', None, None, None, 1), ('Not only am I concerned about myself', None, None, None, 0), ('but Im concerned about my children and future grandchildren .', None, None, None, 1)]

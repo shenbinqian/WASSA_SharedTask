@@ -1,0 +1,25 @@
+=====================> [[('I agree with this article completely .', None, None, None, 1), ('I used to take the pill for awhile', None, None, None, 0), ('and it did change my moods', None, None, None, 0), ('and make me feel weird and just off .', None, None, None, 1), ('So I switched to the depo shot and same thing .', None, None, None, 1), ('It made me feel super depressed', None, None, None, 0), ('and also made me gain a lot of weight . I have had some kind of bad side effect with every birth control', None, None, None, 0), ("I 've ever tried .", None, None, None, 1), ('I refuse to take any form of birth control now except for condoms', None, None, None, 0), ('and I track my cycle', None, None, None, 0), ('so I know', None, None, None, 0), ("when I 'm fertile .", None, None, None, 1)]]
+Leaf:  N Elaborate I agree with this article completely .
+Leaf:  N Temporal I used to take the pill for awhile
+Leaf:  N Joint and it did change my moods
+Leaf:  N Joint and make me feel weird and just off .
+Inner:  N Temporal None Joint NN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Cause So I switched to the depo shot and same thing .
+Leaf:  N Joint It made me feel super depressed
+Leaf:  N Elaborate and also made me gain a lot of weight . I have had some kind of bad side effect with every birth control
+Leaf:  S span I 've ever tried .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Joint I refuse to take any form of birth control now except for condoms
+Leaf:  N Enablement and I track my cycle
+Leaf:  S span so I know
+Leaf:  N Attribution when I 'm fertile .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Inner:  S span None Evaluation NN
+Inner:  Root None None Elaborate NS
+[('I agree with this article completely .', None, None, None, 1), ('I used to take the pill for awhile', None, None, None, 0), ('and it did change my moods', None, None, None, 0), ('and make me feel weird and just off .', None, None, None, 1), ('So I switched to the depo shot and same thing .', None, None, None, 1), ('It made me feel super depressed', None, None, None, 0), ('and also made me gain a lot of weight . I have had some kind of bad side effect with every birth control', None, None, None, 0), ("I 've ever tried .", None, None, None, 1), ('I refuse to take any form of birth control now except for condoms', None, None, None, 0), ('and I track my cycle', None, None, None, 0), ('so I know', None, None, None, 0), ("when I 'm fertile .", None, None, None, 1)]

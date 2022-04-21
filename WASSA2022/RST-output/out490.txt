@@ -1,0 +1,27 @@
+=====================> [[('That is really sad to hear .', None, None, None, 1), ("It 's awful that cars can be so unsafe", None, None, None, 0), ('and sometimes people forget', None, None, None, 0), ('how easy it is to get into an accident', None, None, None, 0), ("if everyone is n't careful and observant .", None, None, None, 1), ('It said', None, None, None, 0), ('this happened at 6:30 pm', None, None, None, 0), ('so I wonder', None, None, None, 0), ("if maybe the sun was shining right in someone 's eyes", None, None, None, 0), ('because that has happened to me at sunset', None, None, None, 0), ('and I could barely see .', None, None, None, 1), ("It 's difficult to pull over", None, None, None, 0), ('and stop in those conditions as well .', None, None, None, 1)]]
+Leaf:  N Evaluation That is really sad to hear .
+Leaf:  N Joint It 's awful that cars can be so unsafe
+Leaf:  S span and sometimes people forget
+Leaf:  N Condition how easy it is to get into an accident
+Leaf:  S span if everyone is n't careful and observant .
+Inner:  N Attribution None Condition NS
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span It said
+Leaf:  N Attribution this happened at 6:30 pm
+Inner:  S span None Attribution SN
+Leaf:  S span so I wonder
+Leaf:  N Explanation if maybe the sun was shining right in someone 's eyes
+Leaf:  N Joint because that has happened to me at sunset
+Leaf:  N Joint and I could barely see .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Explanation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It 's difficult to pull over
+Leaf:  N Joint and stop in those conditions as well .
+Inner:  S span None Joint NN
+Inner:  N Cause None Evaluation NS
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('That is really sad to hear .', None, None, None, 1), ("It 's awful that cars can be so unsafe", None, None, None, 0), ('and sometimes people forget', None, None, None, 0), ('how easy it is to get into an accident', None, None, None, 0), ("if everyone is n't careful and observant .", None, None, None, 1), ('It said', None, None, None, 0), ('this happened at 6:30 pm', None, None, None, 0), ('so I wonder', None, None, None, 0), ("if maybe the sun was shining right in someone 's eyes", None, None, None, 0), ('because that has happened to me at sunset', None, None, None, 0), ('and I could barely see .', None, None, None, 1), ("It 's difficult to pull over", None, None, None, 0), ('and stop in those conditions as well .', None, None, None, 1)]

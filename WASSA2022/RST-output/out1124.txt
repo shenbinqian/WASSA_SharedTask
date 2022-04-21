@@ -1,0 +1,21 @@
+=====================> [[('Apparently the giant albatross is being destroyed by giant mice', None, None, None, 0), ('that have overrun one of their main breeding islands .', None, None, None, 1), ("I do n't exactly understand how ,", None, None, None, 0), ("but the parents have n't learned", None, None, None, 0), ('that the mice are a threat', None, None, None, 0), ('and just sit there', None, None, None, 0), ('and watch them eat the babies .', None, None, None, 1), ('Seeing as how they are meat eaters', None, None, None, 0), ("you 'd think", None, None, None, 0), ('the mice would provide an easy snack .', None, None, None, 1)]]
+Leaf:  N Elaborate Apparently the giant albatross is being destroyed by giant mice
+Leaf:  S span that have overrun one of their main breeding islands .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't exactly understand how ,
+Leaf:  S span but the parents have n't learned
+Leaf:  N Attribution that the mice are a threat
+Inner:  N Cause None Attribution SN
+Leaf:  N Joint and just sit there
+Leaf:  N Joint and watch them eat the babies .
+Inner:  N Cause None Joint NN
+Inner:  N Contrast None Cause NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Seeing as how they are meat eaters
+Leaf:  S span you 'd think
+Leaf:  N Attribution the mice would provide an easy snack .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  Root None None Evaluation NS
+[('Apparently the giant albatross is being destroyed by giant mice', None, None, None, 0), ('that have overrun one of their main breeding islands .', None, None, None, 1), ("I do n't exactly understand how ,", None, None, None, 0), ("but the parents have n't learned", None, None, None, 0), ('that the mice are a threat', None, None, None, 0), ('and just sit there', None, None, None, 0), ('and watch them eat the babies .', None, None, None, 1), ('Seeing as how they are meat eaters', None, None, None, 0), ("you 'd think", None, None, None, 0), ('the mice would provide an easy snack .', None, None, None, 1)]

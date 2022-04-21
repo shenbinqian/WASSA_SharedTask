@@ -1,0 +1,15 @@
+=====================> [[("It 's amazing how much destruction two large warring nations can do to such a smaller nation .", None, None, None, 1), ('The Middle East was never in a position of power ,', None, None, None, 0), ('they have been fighting for a millenia ,', None, None, None, 0), ('but the destruction is much greater now ,', None, None, None, 0), ('there has never been weaponry so large and crushing to such a small state nation .', None, None, None, 1), ("It 's unbelievable that an entire generation of culture will be separated from their families", None, None, None, 0), ('and can only take what they have learned so far .', None, None, None, 1)]]
+Leaf:  N Summary It 's amazing how much destruction two large warring nations can do to such a smaller nation .
+Leaf:  N Joint The Middle East was never in a position of power ,
+Leaf:  N Joint they have been fighting for a millenia ,
+Inner:  S span None Joint NN
+Leaf:  N Elaborate but the destruction is much greater now ,
+Leaf:  S span there has never been weaponry so large and crushing to such a small state nation .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint It 's unbelievable that an entire generation of culture will be separated from their families
+Leaf:  N Joint and can only take what they have learned so far .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("It 's amazing how much destruction two large warring nations can do to such a smaller nation .", None, None, None, 1), ('The Middle East was never in a position of power ,', None, None, None, 0), ('they have been fighting for a millenia ,', None, None, None, 0), ('but the destruction is much greater now ,', None, None, None, 0), ('there has never been weaponry so large and crushing to such a small state nation .', None, None, None, 1), ("It 's unbelievable that an entire generation of culture will be separated from their families", None, None, None, 0), ('and can only take what they have learned so far .', None, None, None, 1)]

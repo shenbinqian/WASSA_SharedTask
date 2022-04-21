@@ -1,0 +1,27 @@
+=====================> [[('I feel bad for that baby .', None, None, None, 1), ('The way it sounds , especially with the bottle of milk', None, None, None, 0), ('being in there ,', None, None, None, 0), ('it sounds like someone had the baby', None, None, None, 0), ("and could n't keep it", None, None, None, 0), ('so they left it there .', None, None, None, 1), ('I wish people would use the fire station safe haven option .', None, None, None, 1), ('I thought', None, None, None, 0), ('it was interesting that they mentioned that a 14 year old heard the cries .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if the 14 year old was the one', None, None, None, 0), ('who had the baby', None, None, None, 0), ('and had to hide it .', None, None, None, 1)]]
+Leaf:  N Explanation I feel bad for that baby .
+Leaf:  N Elaborate The way it sounds , especially with the bottle of milk
+Leaf:  S span being in there ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint it sounds like someone had the baby
+Leaf:  N Joint and could n't keep it
+Inner:  S span None Joint NN
+Leaf:  N Cause so they left it there .
+Inner:  N Same-Unit None Cause SN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation I wish people would use the fire station safe haven option .
+Leaf:  S span I thought
+Leaf:  N Attribution it was interesting that they mentioned that a 14 year old heard the cries .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Elaborate if the 14 year old was the one
+Leaf:  N Joint who had the baby
+Leaf:  N Joint and had to hide it .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I feel bad for that baby .', None, None, None, 1), ('The way it sounds , especially with the bottle of milk', None, None, None, 0), ('being in there ,', None, None, None, 0), ('it sounds like someone had the baby', None, None, None, 0), ("and could n't keep it", None, None, None, 0), ('so they left it there .', None, None, None, 1), ('I wish people would use the fire station safe haven option .', None, None, None, 1), ('I thought', None, None, None, 0), ('it was interesting that they mentioned that a 14 year old heard the cries .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if the 14 year old was the one', None, None, None, 0), ('who had the baby', None, None, None, 0), ('and had to hide it .', None, None, None, 1)]

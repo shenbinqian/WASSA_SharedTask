@@ -1,0 +1,19 @@
+=====================> [[('the state in Syria is bad .', None, None, None, 1), ('the Syrian conflation has a medical source in rebel-held Aleppo', None, None, None, 0), ('told the AFP news agency', None, None, None, 0), ('that a shortage of blood meant hospitals were struggling to deal with the huge number of casualties', None, None, None, 0), ('caused by air strikes over the past four days .', None, None, None, 1), ('There was also no water supply in many areas', None, None, None, 0), ('after pumping stations were damaged at the weekend ,', None, None, None, 0), ('and several charity kitchens were forced to close', None, None, None, 0), ('because of the violence .', None, None, None, 1)]]
+Leaf:  N Explanation the state in Syria is bad .
+Leaf:  N Same-Unit the Syrian conflation has a medical source in rebel-held Aleppo
+Leaf:  N Same-Unit told the AFP news agency
+Inner:  S span None Same-Unit NN
+Leaf:  N Cause that a shortage of blood meant hospitals were struggling to deal with the huge number of casualties
+Leaf:  S span caused by air strikes over the past four days .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Background There was also no water supply in many areas
+Leaf:  S span after pumping stations were damaged at the weekend ,
+Inner:  N Joint None Background NS
+Leaf:  N Cause and several charity kitchens were forced to close
+Leaf:  S span because of the violence .
+Inner:  N Joint None Cause NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('the state in Syria is bad .', None, None, None, 1), ('the Syrian conflation has a medical source in rebel-held Aleppo', None, None, None, 0), ('told the AFP news agency', None, None, None, 0), ('that a shortage of blood meant hospitals were struggling to deal with the huge number of casualties', None, None, None, 0), ('caused by air strikes over the past four days .', None, None, None, 1), ('There was also no water supply in many areas', None, None, None, 0), ('after pumping stations were damaged at the weekend ,', None, None, None, 0), ('and several charity kitchens were forced to close', None, None, None, 0), ('because of the violence .', None, None, None, 1)]

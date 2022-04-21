@@ -1,0 +1,17 @@
+=====================> [[('Wow , just wow .', None, None, None, 1), ('I think', None, None, None, 0), ('that the possibility', None, None, None, 0), ('of nominating this judge', None, None, None, 0), ('for the Supreme Court really needs to be reexamined closely', None, None, None, 0), ('in that this nomination could cause bigger problems and chaos across the country .', None, None, None, 1), ('There would be heavy debates and fights from both sides', None, None, None, 0), ('and in the end , there unfortunately would be no progress .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , just wow .
+Leaf:  S span I think
+Leaf:  N Elaborate that the possibility
+Leaf:  N Same-Unit of nominating this judge
+Leaf:  N Same-Unit for the Supreme Court really needs to be reexamined closely
+Inner:  S span None Same-Unit NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span in that this nomination could cause bigger problems and chaos across the country .
+Inner:  N Attribution None Explanation NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Joint There would be heavy debates and fights from both sides
+Leaf:  N Joint and in the end , there unfortunately would be no progress .
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Wow , just wow .', None, None, None, 1), ('I think', None, None, None, 0), ('that the possibility', None, None, None, 0), ('of nominating this judge', None, None, None, 0), ('for the Supreme Court really needs to be reexamined closely', None, None, None, 0), ('in that this nomination could cause bigger problems and chaos across the country .', None, None, None, 1), ('There would be heavy debates and fights from both sides', None, None, None, 0), ('and in the end , there unfortunately would be no progress .', None, None, None, 1)]

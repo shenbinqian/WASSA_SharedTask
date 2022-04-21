@@ -1,0 +1,33 @@
+=====================> [[('I just read an article', None, None, None, 0), ('that outlines', None, None, None, 0), ('what Obama did', None, None, None, 0), ('to help the " poor "', None, None, None, 0), ('compared to what Trump wants to do', None, None, None, 0), ("to take these things away . Obviously , the poor are going to have a much harder time under Trump 's administration .", None, None, None, 1), ('I think', None, None, None, 0), ('it goes without saying', None, None, None, 0), ('that I hate this guy', None, None, None, 0), ("and I ca n't believe", None, None, None, 0), ('he is our president .', None, None, None, 1), ('I am counting the days til the next presidential election .', None, None, None, 1), ("If these idiots vote for him again , well , I wo n't believe it .", None, None, None, 1), ("Although , I did n't believe", None, None, None, 0), ('he would be voted in in the first place either . It is just sad that our country is taking ten steps way way back', None, None, None, 0), ('voting in this guy .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span that outlines
+Leaf:  N Enablement what Obama did
+Leaf:  S span to help the " poor "
+Inner:  N Comparison None Enablement NS
+Leaf:  N Elaborate compared to what Trump wants to do
+Leaf:  S span to take these things away . Obviously , the poor are going to have a much harder time under Trump 's administration .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Comparison NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I think
+Leaf:  S span it goes without saying
+Leaf:  N Joint that I hate this guy
+Leaf:  S span and I ca n't believe
+Leaf:  N Attribution he is our president .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate I am counting the days til the next presidential election .
+Leaf:  N Contrast If these idiots vote for him again , well , I wo n't believe it .
+Leaf:  S span Although , I did n't believe
+Leaf:  N Manner-Means he would be voted in in the first place either . It is just sad that our country is taking ten steps way way back
+Leaf:  S span voting in this guy .
+Inner:  N Attribution None Manner-Means NS
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('I just read an article', None, None, None, 0), ('that outlines', None, None, None, 0), ('what Obama did', None, None, None, 0), ('to help the " poor "', None, None, None, 0), ('compared to what Trump wants to do', None, None, None, 0), ("to take these things away . Obviously , the poor are going to have a much harder time under Trump 's administration .", None, None, None, 1), ('I think', None, None, None, 0), ('it goes without saying', None, None, None, 0), ('that I hate this guy', None, None, None, 0), ("and I ca n't believe", None, None, None, 0), ('he is our president .', None, None, None, 1), ('I am counting the days til the next presidential election .', None, None, None, 1), ("If these idiots vote for him again , well , I wo n't believe it .", None, None, None, 1), ("Although , I did n't believe", None, None, None, 0), ('he would be voted in in the first place either . It is just sad that our country is taking ten steps way way back', None, None, None, 0), ('voting in this guy .', None, None, None, 1)]

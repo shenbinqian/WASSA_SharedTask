@@ -1,0 +1,19 @@
+=====================> [[("It 's amazing what people will do", None, None, None, 0), ('to avoid embarrassment .', None, None, None, 1), ('I just heard about a guy', None, None, None, 0), ('who was concerned over urinary track issues', None, None, None, 0), ('and decided the best way', None, None, None, 0), ('to figure out his problem', None, None, None, 0), ('was to shove a stainless steel chopstick into his urethra .', None, None, None, 1), ('It had to be removed via surgery ,', None, None, None, 0), ('and it sounds like it was successful , but Jesus Christ man , go to a doctor .', None, None, None, 1)]]
+Leaf:  N Enablement It 's amazing what people will do
+Leaf:  S span to avoid embarrassment .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate I just heard about a guy
+Leaf:  S span who was concerned over urinary track issues
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and decided the best way
+Leaf:  S span to figure out his problem
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was to shove a stainless steel chopstick into his urethra .
+Inner:  N Background None Same-Unit NN
+Inner:  N Cause None Background SN
+Leaf:  N Elaborate It had to be removed via surgery ,
+Leaf:  S span and it sounds like it was successful , but Jesus Christ man , go to a doctor .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[("It 's amazing what people will do", None, None, None, 0), ('to avoid embarrassment .', None, None, None, 1), ('I just heard about a guy', None, None, None, 0), ('who was concerned over urinary track issues', None, None, None, 0), ('and decided the best way', None, None, None, 0), ('to figure out his problem', None, None, None, 0), ('was to shove a stainless steel chopstick into his urethra .', None, None, None, 1), ('It had to be removed via surgery ,', None, None, None, 0), ('and it sounds like it was successful , but Jesus Christ man , go to a doctor .', None, None, None, 1)]

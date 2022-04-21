@@ -1,0 +1,21 @@
+=====================> [[('People love to go and see animals', None, None, None, 0), ('and experience them in the wild , especially in their natural habitats .', None, None, None, 1), ('You have to stop', None, None, None, 0), ('and think', None, None, None, 0), ('how this can be affecting these said animals .', None, None, None, 1), ('Public access to wild animals in their natural environment can drop birth rates', None, None, None, 0), ('and even cause death to the animals .', None, None, None, 1), ('They can become endangered', None, None, None, 0), ('and some people even go as far', None, None, None, 0), ('as to hunt them .', None, None, None, 1)]]
+Leaf:  N Joint People love to go and see animals
+Leaf:  N Joint and experience them in the wild , especially in their natural habitats .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint You have to stop
+Leaf:  N Joint and think
+Inner:  S span None Joint NN
+Leaf:  N Attribution how this can be affecting these said animals .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Public access to wild animals in their natural environment can drop birth rates
+Leaf:  N Joint and even cause death to the animals .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint They can become endangered
+Leaf:  N Enablement and some people even go as far
+Leaf:  S span as to hunt them .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('People love to go and see animals', None, None, None, 0), ('and experience them in the wild , especially in their natural habitats .', None, None, None, 1), ('You have to stop', None, None, None, 0), ('and think', None, None, None, 0), ('how this can be affecting these said animals .', None, None, None, 1), ('Public access to wild animals in their natural environment can drop birth rates', None, None, None, 0), ('and even cause death to the animals .', None, None, None, 1), ('They can become endangered', None, None, None, 0), ('and some people even go as far', None, None, None, 0), ('as to hunt them .', None, None, None, 1)]

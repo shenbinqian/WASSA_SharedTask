@@ -1,0 +1,17 @@
+=====================> [[('This kind of thing happens in North Korea all the time .', None, None, None, 1), ('The country has so little usable farmland ,', None, None, None, 0), ('that any weather disruption is a major problem .', None, None, None, 1), ('This is what happened during the Arduous March in the 90s ,', None, None, None, 0), ('after Kim Il Sung died .', None, None, None, 1), ('The country had a couple bad years', None, None, None, 0), ('because of drought and then flooding ,', None, None, None, 0), ('and suddenly everyone was starving .', None, None, None, 1)]]
+Leaf:  N Elaborate This kind of thing happens in North Korea all the time .
+Leaf:  N Cause The country has so little usable farmland ,
+Leaf:  S span that any weather disruption is a major problem .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal This is what happened during the Arduous March in the 90s ,
+Leaf:  S span after Kim Il Sung died .
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Cause The country had a couple bad years
+Leaf:  S span because of drought and then flooding ,
+Inner:  N Cause None Cause NS
+Leaf:  S span and suddenly everyone was starving .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This kind of thing happens in North Korea all the time .', None, None, None, 1), ('The country has so little usable farmland ,', None, None, None, 0), ('that any weather disruption is a major problem .', None, None, None, 1), ('This is what happened during the Arduous March in the 90s ,', None, None, None, 0), ('after Kim Il Sung died .', None, None, None, 1), ('The country had a couple bad years', None, None, None, 0), ('because of drought and then flooding ,', None, None, None, 0), ('and suddenly everyone was starving .', None, None, None, 1)]

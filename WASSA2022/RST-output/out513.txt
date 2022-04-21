@@ -1,0 +1,31 @@
+=====================> [[('Ugh', None, None, None, 0), ('- can you believe this story ?', None, None, None, 1), ('First', None, None, None, 0), ('- why not just go to the doctor ?', None, None, None, 1), ("Do n't be shy ,", None, None, None, 0), ("it 's your dick", None, None, None, 0), ("we 're talking", None, None, None, 0), ('about .', None, None, None, 1), ('Then , why insert a chopstick', None, None, None, 0), ('SO FAR', None, None, None, 0), ('THAT YOU COULDN " T GET IT OUT . Holy crap , that sounds awful .', None, None, None, 1), ('I am totally shocked', None, None, None, 0), ('to read this', None, None, None, 0), ('and can only imagine the pain', None, None, None, 0), ('- but then again , he did bring it upon himself .', None, None, None, 1)]]
+Leaf:  N Summary Ugh
+Leaf:  S span - can you believe this story ?
+Inner:  N Summary None Summary NS
+Leaf:  S span First
+Leaf:  N Background - why not just go to the doctor ?
+Inner:  N Joint None Background SN
+Leaf:  N Evaluation Do n't be shy ,
+Leaf:  N Elaborate it 's your dick
+Leaf:  S span we 're talking
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit about .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Evaluation NS
+Inner:  N Temporal None Joint NN
+Leaf:  N Elaborate Then , why insert a chopstick
+Leaf:  N Cause SO FAR
+Leaf:  S span THAT YOU COULDN " T GET IT OUT . Holy crap , that sounds awful .
+Inner:  S span None Cause NS
+Inner:  N Temporal None Elaborate NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I am totally shocked
+Leaf:  N Attribution to read this
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and can only imagine the pain
+Inner:  N Contrast None Joint NN
+Leaf:  S span - but then again , he did bring it upon himself .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Ugh', None, None, None, 0), ('- can you believe this story ?', None, None, None, 1), ('First', None, None, None, 0), ('- why not just go to the doctor ?', None, None, None, 1), ("Do n't be shy ,", None, None, None, 0), ("it 's your dick", None, None, None, 0), ("we 're talking", None, None, None, 0), ('about .', None, None, None, 1), ('Then , why insert a chopstick', None, None, None, 0), ('SO FAR', None, None, None, 0), ('THAT YOU COULDN " T GET IT OUT . Holy crap , that sounds awful .', None, None, None, 1), ('I am totally shocked', None, None, None, 0), ('to read this', None, None, None, 0), ('and can only imagine the pain', None, None, None, 0), ('- but then again , he did bring it upon himself .', None, None, None, 1)]

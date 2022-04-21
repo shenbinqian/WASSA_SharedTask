@@ -1,0 +1,35 @@
+=====================> [[('Thomas referred the case to the full court ,', None, None, None, 0), ('and shortly before midnight , the justices issued an order granting Arthur ’s stay request .', None, None, None, 1), ('The order included a statement from Chief Justice John G. Roberts Jr.', None, None, None, 1), ('explaining', None, None, None, 0), ('that', None, None, None, 0), ('while he did not believe', None, None, None, 0), ('this case merited a review from the Supreme Court ,', None, None, None, 0), ('he had decided to vote for a stay anyway as a courtesy to his colleagues .', None, None, None, 1), ('Roberts wrote', None, None, None, 0), ('that four of the other justices had voted in favor', None, None, None, 0), ('of staying the execution .', None, None, None, 1), ('While it takes five justices to overturn a lower court ruling , it takes only four to accept a case . “ To afford them the opportunity', None, None, None, 0), ('to more fully consider the suitability of this case for review ,', None, None, None, 0), ('including these circumstances ,', None, None, None, 0), ('I vote to grant the stay as a courtesy , ”', None, None, None, 0), ('he wrote .', None, None, None, 1), ('Justices Thomas and Samuel Alito would have rejected the requ', None, None, None, 0)]]
+Leaf:  N Temporal Thomas referred the case to the full court ,
+Leaf:  N Temporal and shortly before midnight , the justices issued an order granting Arthur ’s stay request .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate The order included a statement from Chief Justice John G. Roberts Jr.
+Leaf:  S span explaining
+Leaf:  N Same-Unit that
+Leaf:  S span while he did not believe
+Leaf:  N Attribution this case merited a review from the Supreme Court ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast he had decided to vote for a stay anyway as a courtesy to his colleagues .
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Roberts wrote
+Leaf:  N Elaborate that four of the other justices had voted in favor
+Leaf:  S span of staying the execution .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate While it takes five justices to overturn a lower court ruling , it takes only four to accept a case . “ To afford them the opportunity
+Leaf:  N Elaborate to more fully consider the suitability of this case for review ,
+Leaf:  S span including these circumstances ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Enablement I vote to grant the stay as a courtesy , ”
+Inner:  N Attribution None Enablement SN
+Leaf:  S span he wrote .
+Inner:  S span None Attribution NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Justices Thomas and Samuel Alito would have rejected the requ
+Inner:  Root None None Evaluation NS
+[('Thomas referred the case to the full court ,', None, None, None, 0), ('and shortly before midnight , the justices issued an order granting Arthur ’s stay request .', None, None, None, 1), ('The order included a statement from Chief Justice John G. Roberts Jr.', None, None, None, 1), ('explaining', None, None, None, 0), ('that', None, None, None, 0), ('while he did not believe', None, None, None, 0), ('this case merited a review from the Supreme Court ,', None, None, None, 0), ('he had decided to vote for a stay anyway as a courtesy to his colleagues .', None, None, None, 1), ('Roberts wrote', None, None, None, 0), ('that four of the other justices had voted in favor', None, None, None, 0), ('of staying the execution .', None, None, None, 1), ('While it takes five justices to overturn a lower court ruling , it takes only four to accept a case . “ To afford them the opportunity', None, None, None, 0), ('to more fully consider the suitability of this case for review ,', None, None, None, 0), ('including these circumstances ,', None, None, None, 0), ('I vote to grant the stay as a courtesy , ”', None, None, None, 0), ('he wrote .', None, None, None, 1), ('Justices Thomas and Samuel Alito would have rejected the requ', None, None, None, 0)]

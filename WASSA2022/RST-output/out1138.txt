@@ -1,0 +1,31 @@
+=====================> [[('I am writing to you', None, None, None, 0), ('regarding the floods in Louisiana ,', None, None, None, 0), ('and all the displaced residents .', None, None, None, 1), ('I try to put myself in their position ,', None, None, None, 0), ('and wonder', None, None, None, 0), ('what would be my hearts desire as to a viable solution .', None, None, None, 1), ('If it would be more beneficial to relocate to another area ,', None, None, None, 0), ('where I can then begin to rebuild my life ,', None, None, None, 0), ('and replace that which was destroyed .', None, None, None, 1), ('However there is an underlying disadvantage to Louisiana , as a whole ,', None, None, None, 0), ('if in the case so many would want to leave and relocate . The State is in a very difficult and decisive moment , given what they are faced with . Especially in the areas of unemployment , on average', None, None, None, 0), ('when someone is having problems', None, None, None, 0), ('finding gainful employment ,', None, None, None, 0), ('they will move to another location for work reasons alone , and nothing to do with a natural disaster', None, None, None, 0), ('as Louisiana is faced with .', None, None, None, 1)]]
+Leaf:  S span I am writing to you
+Leaf:  N Attribution regarding the floods in Louisiana ,
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit and all the displaced residents .
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Joint I try to put myself in their position ,
+Leaf:  S span and wonder
+Leaf:  N Attribution what would be my hearts desire as to a viable solution .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Enablement If it would be more beneficial to relocate to another area ,
+Leaf:  N Joint where I can then begin to rebuild my life ,
+Leaf:  N Joint and replace that which was destroyed .
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Condition However there is an underlying disadvantage to Louisiana , as a whole ,
+Leaf:  N Same-Unit if in the case so many would want to leave and relocate . The State is in a very difficult and decisive moment , given what they are faced with . Especially in the areas of unemployment , on average
+Leaf:  N Elaborate when someone is having problems
+Leaf:  S span finding gainful employment ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate they will move to another location for work reasons alone , and nothing to do with a natural disaster
+Leaf:  S span as Louisiana is faced with .
+Inner:  N Background None Elaborate NS
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Condition NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Cause NS
+[('I am writing to you', None, None, None, 0), ('regarding the floods in Louisiana ,', None, None, None, 0), ('and all the displaced residents .', None, None, None, 1), ('I try to put myself in their position ,', None, None, None, 0), ('and wonder', None, None, None, 0), ('what would be my hearts desire as to a viable solution .', None, None, None, 1), ('If it would be more beneficial to relocate to another area ,', None, None, None, 0), ('where I can then begin to rebuild my life ,', None, None, None, 0), ('and replace that which was destroyed .', None, None, None, 1), ('However there is an underlying disadvantage to Louisiana , as a whole ,', None, None, None, 0), ('if in the case so many would want to leave and relocate . The State is in a very difficult and decisive moment , given what they are faced with . Especially in the areas of unemployment , on average', None, None, None, 0), ('when someone is having problems', None, None, None, 0), ('finding gainful employment ,', None, None, None, 0), ('they will move to another location for work reasons alone , and nothing to do with a natural disaster', None, None, None, 0), ('as Louisiana is faced with .', None, None, None, 1)]

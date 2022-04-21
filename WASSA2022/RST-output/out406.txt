@@ -1,0 +1,17 @@
+=====================> [[('Did you hear about what had happened to the kid in china .', None, None, None, 1), ('They found his body dead in a desserted well in China', None, None, None, 0), ('after he was helping his father pick some vegetables or something like that .', None, None, None, 1), ('I just feel', None, None, None, 0), ('like if he was helping his father ,', None, None, None, 0), ('then it is hard to believe', None, None, None, 0), ('that his dad did not know', None, None, None, 0), ('he had fallen into the well . Either way , sad story .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about what had happened to the kid in china .
+Leaf:  N Temporal They found his body dead in a desserted well in China
+Leaf:  S span after he was helping his father pick some vegetables or something like that .
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span I just feel
+Leaf:  S span like if he was helping his father ,
+Leaf:  S span then it is hard to believe
+Leaf:  S span that his dad did not know
+Leaf:  N Attribution he had fallen into the well . Either way , sad story .
+Inner:  N Attribution None Attribution SN
+Inner:  N Condition None Attribution SN
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Did you hear about what had happened to the kid in china .', None, None, None, 1), ('They found his body dead in a desserted well in China', None, None, None, 0), ('after he was helping his father pick some vegetables or something like that .', None, None, None, 1), ('I just feel', None, None, None, 0), ('like if he was helping his father ,', None, None, None, 0), ('then it is hard to believe', None, None, None, 0), ('that his dad did not know', None, None, None, 0), ('he had fallen into the well . Either way , sad story .', None, None, None, 1)]

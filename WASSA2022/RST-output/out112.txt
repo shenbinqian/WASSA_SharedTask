@@ -1,0 +1,17 @@
+=====================> [[('I am really saddened', None, None, None, 0), ('by what is happening in Brazil .', None, None, None, 1), ("I ca n't stand", None, None, None, 0), ('that this type of damage is happening in nature .', None, None, None, 1), ('We as citizens of the world really have to step up our efforts', None, None, None, 0), ("so that it does n't happen more often .", None, None, None, 1), ('We should little by little try to reverse the damage', None, None, None, 0), ('that has been done for better good .', None, None, None, 1)]]
+Leaf:  S span I am really saddened
+Leaf:  N Attribution by what is happening in Brazil .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I ca n't stand
+Leaf:  N Attribution that this type of damage is happening in nature .
+Inner:  N Joint None Attribution SN
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Enablement We as citizens of the world really have to step up our efforts
+Leaf:  S span so that it does n't happen more often .
+Inner:  N Cause None Enablement NS
+Leaf:  N Elaborate We should little by little try to reverse the damage
+Leaf:  S span that has been done for better good .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Cause NS
+Inner:  Root None None Topic-Comment NN
+[('I am really saddened', None, None, None, 0), ('by what is happening in Brazil .', None, None, None, 1), ("I ca n't stand", None, None, None, 0), ('that this type of damage is happening in nature .', None, None, None, 1), ('We as citizens of the world really have to step up our efforts', None, None, None, 0), ("so that it does n't happen more often .", None, None, None, 1), ('We should little by little try to reverse the damage', None, None, None, 0), ('that has been done for better good .', None, None, None, 1)]

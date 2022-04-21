@@ -1,0 +1,35 @@
+=====================> [[('I read a very disturbing article about a recent study on depression', None, None, None, 0), ('resulting from birth control drugs .', None, None, None, 1), ('The study was performed by the University of Copenhagen', None, None, None, 0), ('and has confirmed a link between hormonal contraceptives and depression .', None, None, None, 1), ('The study was extensive', None, None, None, 0), ('and performed over a decade .', None, None, None, 1), ('The incident of depression was magnified over 28 %', None, None, None, 0), ('when taking the combination pill ,', None, None, None, 0), ('and even went as high as 78 % in the teenage population ! Alternatives to the pill', None, None, None, 0), ('which are longer-acting such as the ring and implant', None, None, None, 0), ('were even higher scoring in depression .', None, None, None, 1), ('One outstanding take-away for me in this article is the fact', None, None, None, 0), ('that women are only fertile about six days per month', None, None, None, 0), ('as opposed to men', None, None, None, 0), ('who are basically fertile every day ,', None, None, None, 0), ('and yet the birth control burden falls on women .', None, None, None, 1), ('Hopefully men will share that soon .', None, None, None, 1)]]
+Leaf:  N Elaborate I read a very disturbing article about a recent study on depression
+Leaf:  S span resulting from birth control drugs .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The study was performed by the University of Copenhagen
+Leaf:  N Joint and has confirmed a link between hormonal contraceptives and depression .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint The study was extensive
+Leaf:  N Joint and performed over a decade .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background The incident of depression was magnified over 28 %
+Leaf:  S span when taking the combination pill ,
+Inner:  N Joint None Background NS
+Leaf:  N Elaborate and even went as high as 78 % in the teenage population ! Alternatives to the pill
+Leaf:  S span which are longer-acting such as the ring and implant
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit were even higher scoring in depression .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate One outstanding take-away for me in this article is the fact
+Leaf:  N Comparison that women are only fertile about six days per month
+Leaf:  N Elaborate as opposed to men
+Leaf:  S span who are basically fertile every day ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and yet the birth control burden falls on women .
+Inner:  N Comparison None Joint NN
+Inner:  S span None Comparison NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Hopefully men will share that soon .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I read a very disturbing article about a recent study on depression', None, None, None, 0), ('resulting from birth control drugs .', None, None, None, 1), ('The study was performed by the University of Copenhagen', None, None, None, 0), ('and has confirmed a link between hormonal contraceptives and depression .', None, None, None, 1), ('The study was extensive', None, None, None, 0), ('and performed over a decade .', None, None, None, 1), ('The incident of depression was magnified over 28 %', None, None, None, 0), ('when taking the combination pill ,', None, None, None, 0), ('and even went as high as 78 % in the teenage population ! Alternatives to the pill', None, None, None, 0), ('which are longer-acting such as the ring and implant', None, None, None, 0), ('were even higher scoring in depression .', None, None, None, 1), ('One outstanding take-away for me in this article is the fact', None, None, None, 0), ('that women are only fertile about six days per month', None, None, None, 0), ('as opposed to men', None, None, None, 0), ('who are basically fertile every day ,', None, None, None, 0), ('and yet the birth control burden falls on women .', None, None, None, 1), ('Hopefully men will share that soon .', None, None, None, 1)]

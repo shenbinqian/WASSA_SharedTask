@@ -1,0 +1,29 @@
+=====================> [[('This is a sad story .', None, None, None, 1), ('There is a Rhino Orphanage ,', None, None, None, 0), ('but a beloved rhino just passed about .', None, None, None, 1), ('They tried so hard', None, None, None, 0), ('to save this rhino ,', None, None, None, 0), ('and unfortunately the baby rhino', None, None, None, 0), ('named Thula', None, None, None, 0), ('is the area', None, None, None, 0), ('that this happened in .', None, None, None, 1), ('It never gets easier . The other rhinos here are being taken care of ,', None, None, None, 0), ('but it was a great loss ,', None, None, None, 0), ('and we all feel so bad about it .', None, None, None, 1), ('The name of the baby rhino was Isibindi ,', None, None, None, 0), ('and she will be missed .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a sad story .
+Leaf:  N Elaborate There is a Rhino Orphanage ,
+Leaf:  N Elaborate but a beloved rhino just passed about .
+Leaf:  S span They tried so hard
+Leaf:  N Attribution to save this rhino ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate and unfortunately the baby rhino
+Leaf:  S span named Thula
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is the area
+Leaf:  S span that this happened in .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span It never gets easier . The other rhinos here are being taken care of ,
+Leaf:  N Evaluation but it was a great loss ,
+Leaf:  S span and we all feel so bad about it .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation The name of the baby rhino was Isibindi ,
+Leaf:  S span and she will be missed .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is a sad story .', None, None, None, 1), ('There is a Rhino Orphanage ,', None, None, None, 0), ('but a beloved rhino just passed about .', None, None, None, 1), ('They tried so hard', None, None, None, 0), ('to save this rhino ,', None, None, None, 0), ('and unfortunately the baby rhino', None, None, None, 0), ('named Thula', None, None, None, 0), ('is the area', None, None, None, 0), ('that this happened in .', None, None, None, 1), ('It never gets easier . The other rhinos here are being taken care of ,', None, None, None, 0), ('but it was a great loss ,', None, None, None, 0), ('and we all feel so bad about it .', None, None, None, 1), ('The name of the baby rhino was Isibindi ,', None, None, None, 0), ('and she will be missed .', None, None, None, 1)]

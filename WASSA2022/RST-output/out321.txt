@@ -1,0 +1,17 @@
+=====================> [[('Check out this article .', None, None, None, 1), ('Remember I was telling you the other day about that man from the bank', None, None, None, 0), ('who approached me in the market ?', None, None, None, 1), ('He was asking about my savings plan and long and short term goals .', None, None, None, 1), ('He also asked about my mortgage .', None, None, None, 1), ('I bet he has the same pressures as the bank workers in Pennsylvania .', None, None, None, 1), ('So shady !', None, None, None, 1), ('I would never want to work under that kind of pressure .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Check out this article .
+Leaf:  N Elaborate Remember I was telling you the other day about that man from the bank
+Leaf:  S span who approached me in the market ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint He was asking about my savings plan and long and short term goals .
+Leaf:  N Joint He also asked about my mortgage .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I bet he has the same pressures as the bank workers in Pennsylvania .
+Leaf:  N Evaluation So shady !
+Leaf:  S span I would never want to work under that kind of pressure .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Check out this article .', None, None, None, 1), ('Remember I was telling you the other day about that man from the bank', None, None, None, 0), ('who approached me in the market ?', None, None, None, 1), ('He was asking about my savings plan and long and short term goals .', None, None, None, 1), ('He also asked about my mortgage .', None, None, None, 1), ('I bet he has the same pressures as the bank workers in Pennsylvania .', None, None, None, 1), ('So shady !', None, None, None, 1), ('I would never want to work under that kind of pressure .', None, None, None, 1)]

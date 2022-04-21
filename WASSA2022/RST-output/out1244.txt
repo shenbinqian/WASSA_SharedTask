@@ -1,0 +1,19 @@
+=====================> [[('This is another example of the racism in this country ,', None, None, None, 0), ('the officers again use extreme deadly force against a black person ,', None, None, None, 0), ('just because he was black ,', None, None, None, 0), ('he was not a threat', None, None, None, 0), ('and yet they shot him', None, None, None, 0), ('without hesitation .', None, None, None, 1), ('We feel more insecure with officers around than safe ,', None, None, None, 0), ('and still they can kill people', None, None, None, 0), ('and get away with it .', None, None, None, 1)]]
+Leaf:  N Elaborate This is another example of the racism in this country ,
+Leaf:  N Same-Unit the officers again use extreme deadly force against a black person ,
+Leaf:  S span just because he was black ,
+Leaf:  N Background he was not a threat
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Leaf:  N Manner-Means and yet they shot him
+Leaf:  S span without hesitation .
+Inner:  N Contrast None Manner-Means NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate We feel more insecure with officers around than safe ,
+Leaf:  N Joint and still they can kill people
+Leaf:  N Joint and get away with it .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This is another example of the racism in this country ,', None, None, None, 0), ('the officers again use extreme deadly force against a black person ,', None, None, None, 0), ('just because he was black ,', None, None, None, 0), ('he was not a threat', None, None, None, 0), ('and yet they shot him', None, None, None, 0), ('without hesitation .', None, None, None, 1), ('We feel more insecure with officers around than safe ,', None, None, None, 0), ('and still they can kill people', None, None, None, 0), ('and get away with it .', None, None, None, 1)]

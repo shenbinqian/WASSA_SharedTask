@@ -1,0 +1,15 @@
+=====================> [[('Why are there so many issues between the middle eastern countries and the United States ?', None, None, None, 1), ('There needs to be world peace', None, None, None, 0), ('and each nation should stop trying to be the powerful dog here .', None, None, None, 1), ('I wish', None, None, None, 0), ('everyone could just get along', None, None, None, 0), ("and we would n't have to waste so much time with these political affairs .", None, None, None, 1), ('So many people lost lives over nonsense .', None, None, None, 1)]]
+Leaf:  N Evaluation Why are there so many issues between the middle eastern countries and the United States ?
+Leaf:  N Joint There needs to be world peace
+Leaf:  N Joint and each nation should stop trying to be the powerful dog here .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I wish
+Leaf:  N Joint everyone could just get along
+Leaf:  N Joint and we would n't have to waste so much time with these political affairs .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span So many people lost lives over nonsense .
+Inner:  Root None None Explanation NS
+[('Why are there so many issues between the middle eastern countries and the United States ?', None, None, None, 1), ('There needs to be world peace', None, None, None, 0), ('and each nation should stop trying to be the powerful dog here .', None, None, None, 1), ('I wish', None, None, None, 0), ('everyone could just get along', None, None, None, 0), ("and we would n't have to waste so much time with these political affairs .", None, None, None, 1), ('So many people lost lives over nonsense .', None, None, None, 1)]

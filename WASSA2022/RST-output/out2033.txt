@@ -1,0 +1,13 @@
+=====================> [[('Dear friend , I have just read a shocking and depressing news article about a muslim woman', None, None, None, 0), ('who had her clothing set on fire in the middle of the street in New York City .', None, None, None, 1), ('She was wearing a hijab', None, None, None, 0), ('when she was approached and set on fire . The police have not caught the man', None, None, None, 0), ('who set the woman on fire ,', None, None, None, 0), ('though they are looking for him .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just read a shocking and depressing news article about a muslim woman
+Leaf:  S span who had her clothing set on fire in the middle of the street in New York City .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal She was wearing a hijab
+Leaf:  N Elaborate when she was approached and set on fire . The police have not caught the man
+Leaf:  S span who set the woman on fire ,
+Inner:  N Temporal None Elaborate NS
+Inner:  N Contrast None Temporal NN
+Leaf:  S span though they are looking for him .
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just read a shocking and depressing news article about a muslim woman', None, None, None, 0), ('who had her clothing set on fire in the middle of the street in New York City .', None, None, None, 1), ('She was wearing a hijab', None, None, None, 0), ('when she was approached and set on fire . The police have not caught the man', None, None, None, 0), ('who set the woman on fire ,', None, None, None, 0), ('though they are looking for him .', None, None, None, 1)]

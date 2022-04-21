@@ -1,0 +1,19 @@
+=====================> [[('The story about the air strikes is very saddening . Especially the part', None, None, None, 0), ('in which a hospital was mistakenly bombed', None, None, None, 0), ('which led to injuries and loss of life .', None, None, None, 1), ('And the children', None, None, None, 0), ('we died ,', None, None, None, 0), ('that is heartbreaking .', None, None, None, 1), ("It should n't be that way , war is an awful , ugly thing .", None, None, None, 1), ('Decisions like this should be of absolute certainty', None, None, None, 0), ('because of the unjust loss of innocent lives .', None, None, None, 1)]]
+Leaf:  N Elaborate The story about the air strikes is very saddening . Especially the part
+Leaf:  S span in which a hospital was mistakenly bombed
+Inner:  N Cause None Elaborate NS
+Leaf:  S span which led to injuries and loss of life .
+Inner:  N Joint None Cause NS
+Leaf:  N Elaborate And the children
+Leaf:  S span we died ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span that is heartbreaking .
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation It should n't be that way , war is an awful , ugly thing .
+Leaf:  N Cause Decisions like this should be of absolute certainty
+Leaf:  S span because of the unjust loss of innocent lives .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('The story about the air strikes is very saddening . Especially the part', None, None, None, 0), ('in which a hospital was mistakenly bombed', None, None, None, 0), ('which led to injuries and loss of life .', None, None, None, 1), ('And the children', None, None, None, 0), ('we died ,', None, None, None, 0), ('that is heartbreaking .', None, None, None, 1), ("It should n't be that way , war is an awful , ugly thing .", None, None, None, 1), ('Decisions like this should be of absolute certainty', None, None, None, 0), ('because of the unjust loss of innocent lives .', None, None, None, 1)]

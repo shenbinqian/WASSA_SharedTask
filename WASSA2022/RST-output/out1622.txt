@@ -1,0 +1,37 @@
+=====================> [[('It is sad that children are still dying from measles .', None, None, None, 1), ('According to UNICEF , there is a simple vaccine', None, None, None, 0), ('that can be given ,', None, None, None, 0), ('which would stop children from being affected .', None, None, None, 1), ('It affects most children in poor countries ,', None, None, None, 0), ('which is very sad .', None, None, None, 1), ('The vaccine is n’t that expensive', None, None, None, 0), ('and you would think', None, None, None, 0), ('that the leaders of all countries would get together', None, None, None, 0), ('and do something about this problem . It is not just up to the USA to stand up and do something .', None, None, None, 1), ('These other countries ( even though they are poor ) need to get more educated', None, None, None, 0), ('and help protect their own children and citizens in their own country . It is sad that children and others have to die', None, None, None, 0), ('because we ca n’t coordinate with each other ,', None, None, None, 0), ('to get the vaccines to those', None, None, None, 0), ('who need it most .', None, None, None, 1), ('I feel sorry for those families', None, None, None, 0), ('who have suffered the loss of a child', None, None, None, 0), ('due', None, None, None, 0)]]
+Leaf:  N Elaborate It is sad that children are still dying from measles .
+Leaf:  N Elaborate According to UNICEF , there is a simple vaccine
+Leaf:  S span that can be given ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span which would stop children from being affected .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It affects most children in poor countries ,
+Leaf:  S span which is very sad .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The vaccine is n’t that expensive
+Leaf:  S span and you would think
+Leaf:  N Temporal that the leaders of all countries would get together
+Leaf:  N Temporal and do something about this problem . It is not just up to the USA to stand up and do something .
+Inner:  N Attribution None Temporal NN
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint These other countries ( even though they are poor ) need to get more educated
+Leaf:  N Joint and help protect their own children and citizens in their own country . It is sad that children and others have to die
+Inner:  N Cause None Joint NN
+Leaf:  S span because we ca n’t coordinate with each other ,
+Inner:  N Enablement None Cause NS
+Leaf:  N Elaborate to get the vaccines to those
+Leaf:  S span who need it most .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I feel sorry for those families
+Leaf:  N Cause who have suffered the loss of a child
+Leaf:  S span due
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('It is sad that children are still dying from measles .', None, None, None, 1), ('According to UNICEF , there is a simple vaccine', None, None, None, 0), ('that can be given ,', None, None, None, 0), ('which would stop children from being affected .', None, None, None, 1), ('It affects most children in poor countries ,', None, None, None, 0), ('which is very sad .', None, None, None, 1), ('The vaccine is n’t that expensive', None, None, None, 0), ('and you would think', None, None, None, 0), ('that the leaders of all countries would get together', None, None, None, 0), ('and do something about this problem . It is not just up to the USA to stand up and do something .', None, None, None, 1), ('These other countries ( even though they are poor ) need to get more educated', None, None, None, 0), ('and help protect their own children and citizens in their own country . It is sad that children and others have to die', None, None, None, 0), ('because we ca n’t coordinate with each other ,', None, None, None, 0), ('to get the vaccines to those', None, None, None, 0), ('who need it most .', None, None, None, 1), ('I feel sorry for those families', None, None, None, 0), ('who have suffered the loss of a child', None, None, None, 0), ('due', None, None, None, 0)]

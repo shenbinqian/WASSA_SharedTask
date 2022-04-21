@@ -1,0 +1,19 @@
+=====================> [[('Poaching seems to be a pretty big deal lately ,', None, None, None, 0), ('like this year is the worst yet for rhinos apparently .', None, None, None, 1), ("It 's really stupid .", None, None, None, 1), ('Wiping out species', None, None, None, 0), ('just so some rich asshole can have their special magic placebo .', None, None, None, 1), ("Did n't one species of rhino just go extinct ?", None, None, None, 1), ('I wonder', None, None, None, 0), ('if this other species will die off before us too', None, None, None, 0), ("or if we 'll be able to curb it .", None, None, None, 1)]]
+Leaf:  N Elaborate Poaching seems to be a pretty big deal lately ,
+Leaf:  S span like this year is the worst yet for rhinos apparently .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's really stupid .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Enablement Wiping out species
+Leaf:  S span just so some rich asshole can have their special magic placebo .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Did n't one species of rhino just go extinct ?
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span I wonder
+Leaf:  N Joint if this other species will die off before us too
+Leaf:  N Joint or if we 'll be able to curb it .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Topic-Comment NS
+[('Poaching seems to be a pretty big deal lately ,', None, None, None, 0), ('like this year is the worst yet for rhinos apparently .', None, None, None, 1), ("It 's really stupid .", None, None, None, 1), ('Wiping out species', None, None, None, 0), ('just so some rich asshole can have their special magic placebo .', None, None, None, 1), ("Did n't one species of rhino just go extinct ?", None, None, None, 1), ('I wonder', None, None, None, 0), ('if this other species will die off before us too', None, None, None, 0), ("or if we 'll be able to curb it .", None, None, None, 1)]

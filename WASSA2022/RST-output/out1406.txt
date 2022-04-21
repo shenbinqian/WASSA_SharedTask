@@ -1,0 +1,27 @@
+=====================> [[('After reading this article I realized', None, None, None, 0), ('that our country is getting lazier and lazier .', None, None, None, 1), ("It does n't surprise me", None, None, None, 0), ('when most Millenials out there feel entitled to everything .', None, None, None, 1), ("People do n't think for themselves anymore", None, None, None, 0), ('or work hard for what they want .', None, None, None, 1), ('Not that people lack the intelligence', None, None, None, 0), ("but that they do n't use it .", None, None, None, 1), ('They go to college ,', None, None, None, 0), ('which is hard work ,', None, None, None, 0), ('but then they expect a job', None, None, None, 0), ('to be handed to them .', None, None, None, 1), ("The real world is n't after high school , its after college .", None, None, None, 1)]]
+Leaf:  S span After reading this article I realized
+Leaf:  N Attribution that our country is getting lazier and lazier .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition It does n't surprise me
+Leaf:  S span when most Millenials out there feel entitled to everything .
+Inner:  N Elaborate None Condition NS
+Leaf:  N Joint People do n't think for themselves anymore
+Leaf:  N Joint or work hard for what they want .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Contrast Not that people lack the intelligence
+Leaf:  N Contrast but that they do n't use it .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They go to college ,
+Leaf:  S span which is hard work ,
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Elaborate but then they expect a job
+Leaf:  S span to be handed to them .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The real world is n't after high school , its after college .
+Inner:  Root None None Evaluation NS
+[('After reading this article I realized', None, None, None, 0), ('that our country is getting lazier and lazier .', None, None, None, 1), ("It does n't surprise me", None, None, None, 0), ('when most Millenials out there feel entitled to everything .', None, None, None, 1), ("People do n't think for themselves anymore", None, None, None, 0), ('or work hard for what they want .', None, None, None, 1), ('Not that people lack the intelligence', None, None, None, 0), ("but that they do n't use it .", None, None, None, 1), ('They go to college ,', None, None, None, 0), ('which is hard work ,', None, None, None, 0), ('but then they expect a job', None, None, None, 0), ('to be handed to them .', None, None, None, 1), ("The real world is n't after high school , its after college .", None, None, None, 1)]

@@ -1,0 +1,35 @@
+=====================> [[('I felt', None, None, None, 0), ('that reading the excerpt from the article was sad', None, None, None, 0), ('and had me feeling distraught to an extent .', None, None, None, 1), ('I know', None, None, None, 0), ("it 's just an article", None, None, None, 0), ('but hearing about all the bad in the world is just an assured way', None, None, None, 0), ('to get a poor start to the day .', None, None, None, 1), ('I was mostly wondering', None, None, None, 0), ('what the situation was', None, None, None, 0), ('where Richard Hong was killed in the Los Angeles home .', None, None, None, 1), ("Whos home was it and why was George Stroumbolopoulos there . I 'd like to know the more intricate details", None, None, None, 0), ('of what went down in this crime .', None, None, None, 1), ('Was it a murder of passion or was it cold blooded .', None, None, None, 1), ('Was it in the moment', None, None, None, 0), ('or was it calculated .', None, None, None, 1), ('What will happen now ,', None, None, None, 0), ('hopefully and investigation can uncover this .', None, None, None, 1)]]
+Leaf:  S span I felt
+Leaf:  N Joint that reading the excerpt from the article was sad
+Leaf:  N Joint and had me feeling distraught to an extent .
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution it 's just an article
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but hearing about all the bad in the world is just an assured way
+Leaf:  S span to get a poor start to the day .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I was mostly wondering
+Leaf:  N Elaborate what the situation was
+Leaf:  S span where Richard Hong was killed in the Los Angeles home .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate Whos home was it and why was George Stroumbolopoulos there . I 'd like to know the more intricate details
+Leaf:  S span of what went down in this crime .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint Was it a murder of passion or was it cold blooded .
+Leaf:  N Joint Was it in the moment
+Leaf:  N Joint or was it calculated .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span What will happen now ,
+Leaf:  N Condition hopefully and investigation can uncover this .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I felt', None, None, None, 0), ('that reading the excerpt from the article was sad', None, None, None, 0), ('and had me feeling distraught to an extent .', None, None, None, 1), ('I know', None, None, None, 0), ("it 's just an article", None, None, None, 0), ('but hearing about all the bad in the world is just an assured way', None, None, None, 0), ('to get a poor start to the day .', None, None, None, 1), ('I was mostly wondering', None, None, None, 0), ('what the situation was', None, None, None, 0), ('where Richard Hong was killed in the Los Angeles home .', None, None, None, 1), ("Whos home was it and why was George Stroumbolopoulos there . I 'd like to know the more intricate details", None, None, None, 0), ('of what went down in this crime .', None, None, None, 1), ('Was it a murder of passion or was it cold blooded .', None, None, None, 1), ('Was it in the moment', None, None, None, 0), ('or was it calculated .', None, None, None, 1), ('What will happen now ,', None, None, None, 0), ('hopefully and investigation can uncover this .', None, None, None, 1)]

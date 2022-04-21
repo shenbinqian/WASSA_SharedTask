@@ -1,0 +1,17 @@
+=====================> [[('Poor orangutan .', None, None, None, 1), ('I hope', None, None, None, 0), ('her treatment is successful', None, None, None, 0), ('and she is able to return to living in the wild , or at least in a zoo .', None, None, None, 1), ('You hear a lot of stories these days about illegal animal trading .', None, None, None, 1), ('Humans need to learn', None, None, None, 0), ('that wild animals are not there for our entertainment', None, None, None, 0), ('and should be kept in their habitats .', None, None, None, 1)]]
+Leaf:  S span Poor orangutan .
+Leaf:  S span I hope
+Leaf:  N Joint her treatment is successful
+Leaf:  N Joint and she is able to return to living in the wild , or at least in a zoo .
+Inner:  N Attribution None Joint NN
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  N Evaluation You hear a lot of stories these days about illegal animal trading .
+Leaf:  S span Humans need to learn
+Leaf:  N Joint that wild animals are not there for our entertainment
+Leaf:  N Joint and should be kept in their habitats .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Poor orangutan .', None, None, None, 1), ('I hope', None, None, None, 0), ('her treatment is successful', None, None, None, 0), ('and she is able to return to living in the wild , or at least in a zoo .', None, None, None, 1), ('You hear a lot of stories these days about illegal animal trading .', None, None, None, 1), ('Humans need to learn', None, None, None, 0), ('that wild animals are not there for our entertainment', None, None, None, 0), ('and should be kept in their habitats .', None, None, None, 1)]

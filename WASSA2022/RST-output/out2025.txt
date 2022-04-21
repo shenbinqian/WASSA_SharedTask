@@ -1,0 +1,19 @@
+=====================> [[('Erdogan is a thug and a dictator in training ,', None, None, None, 0), ("it 's such a shame he came into power .", None, None, None, 1), ('i feel for the kurds and all people of turkey .', None, None, None, 1), ('He knows', None, None, None, 0), ('that the people would get rid of him', None, None, None, 0), ('so he needs to crack down on his political opponents , such a pathetic " leader " !', None, None, None, 1), ('i am confident', None, None, None, 0), ('the Turkish people will be able to oust him', None, None, None, 0), ('and democratic elections will be held again in turkey !', None, None, None, 1)]]
+Leaf:  N Evaluation Erdogan is a thug and a dictator in training ,
+Leaf:  S span it 's such a shame he came into power .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate i feel for the kurds and all people of turkey .
+Leaf:  S span He knows
+Leaf:  N Attribution that the people would get rid of him
+Inner:  S span None Attribution SN
+Leaf:  N Explanation so he needs to crack down on his political opponents , such a pathetic " leader " !
+Inner:  S span None Explanation SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span i am confident
+Leaf:  N Temporal the Turkish people will be able to oust him
+Leaf:  N Temporal and democratic elections will be held again in turkey !
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Erdogan is a thug and a dictator in training ,', None, None, None, 0), ("it 's such a shame he came into power .", None, None, None, 1), ('i feel for the kurds and all people of turkey .', None, None, None, 1), ('He knows', None, None, None, 0), ('that the people would get rid of him', None, None, None, 0), ('so he needs to crack down on his political opponents , such a pathetic " leader " !', None, None, None, 1), ('i am confident', None, None, None, 0), ('the Turkish people will be able to oust him', None, None, None, 0), ('and democratic elections will be held again in turkey !', None, None, None, 1)]

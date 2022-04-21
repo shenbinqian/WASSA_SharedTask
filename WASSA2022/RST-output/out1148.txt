@@ -1,0 +1,19 @@
+=====================> [[('I just read this article', None, None, None, 0), ('about how ISIS are doing dehumanizing acts upon former law officials .', None, None, None, 1), ('It disgusts me', None, None, None, 0), ('how they do what they do', None, None, None, 0), ('and are not being stopped .', None, None, None, 1), ('I believe', None, None, None, 0), ('that every nation in the world should rise up', None, None, None, 0), ('and stand against ISIS .', None, None, None, 1), ('They should no longer be able to continue to do what they do on a daily basis .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article
+Leaf:  S span about how ISIS are doing dehumanizing acts upon former law officials .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It disgusts me
+Leaf:  N Joint how they do what they do
+Leaf:  N Joint and are not being stopped .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I believe
+Leaf:  N Joint that every nation in the world should rise up
+Leaf:  N Joint and stand against ISIS .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They should no longer be able to continue to do what they do on a daily basis .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I just read this article', None, None, None, 0), ('about how ISIS are doing dehumanizing acts upon former law officials .', None, None, None, 1), ('It disgusts me', None, None, None, 0), ('how they do what they do', None, None, None, 0), ('and are not being stopped .', None, None, None, 1), ('I believe', None, None, None, 0), ('that every nation in the world should rise up', None, None, None, 0), ('and stand against ISIS .', None, None, None, 1), ('They should no longer be able to continue to do what they do on a daily basis .', None, None, None, 1)]

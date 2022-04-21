@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('in this day and age , there is no reason to be poaching tigers , or any other rare game for that matter .', None, None, None, 1), ("I 've discussed this with my friends before ,", None, None, None, 0), ('the poachers are generally low status people ,', None, None, None, 0), ('trying to feed themselves ,', None, None, None, 0), ("and they 're selling to the highest bidder", None, None, None, 0), ('they can find . Even if you jail the poachers ,', None, None, None, 0), ('more will pop up out of desperation .', None, None, None, 1), ("One day , we 'll look back", None, None, None, 0), ('and see all of the greed killing rare animals purposefully , rather than the crappy way', None, None, None, 0), ('we move them out of their territories naturally as humans .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution in this day and age , there is no reason to be poaching tigers , or any other rare game for that matter .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I 've discussed this with my friends before ,
+Leaf:  N Elaborate the poachers are generally low status people ,
+Leaf:  S span trying to feed themselves ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and they 're selling to the highest bidder
+Leaf:  S span they can find . Even if you jail the poachers ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast more will pop up out of desperation .
+Inner:  N Joint None Contrast SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span One day , we 'll look back
+Leaf:  N Elaborate and see all of the greed killing rare animals purposefully , rather than the crappy way
+Leaf:  S span we move them out of their territories naturally as humans .
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('in this day and age , there is no reason to be poaching tigers , or any other rare game for that matter .', None, None, None, 1), ("I 've discussed this with my friends before ,", None, None, None, 0), ('the poachers are generally low status people ,', None, None, None, 0), ('trying to feed themselves ,', None, None, None, 0), ("and they 're selling to the highest bidder", None, None, None, 0), ('they can find . Even if you jail the poachers ,', None, None, None, 0), ('more will pop up out of desperation .', None, None, None, 1), ("One day , we 'll look back", None, None, None, 0), ('and see all of the greed killing rare animals purposefully , rather than the crappy way', None, None, None, 0), ('we move them out of their territories naturally as humans .', None, None, None, 1)]

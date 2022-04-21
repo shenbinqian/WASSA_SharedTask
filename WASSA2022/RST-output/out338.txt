@@ -1,0 +1,21 @@
+=====================> [[('Gosh , another article about the Middle East and terrorists .', None, None, None, 1), ('This was is pretty much like the one', None, None, None, 0), ('I ready earlier .', None, None, None, 1), ('Things never get better .', None, None, None, 1), ("The terrorists wo n't even allow people to leave the city", None, None, None, 0), ("they 're holding ,", None, None, None, 0), ('to try and reach the Iraqi army nearby', None, None, None, 0), ('who could help them .', None, None, None, 1), ('Maybe the UN needs to step in', None, None, None, 0), ('and do something .', None, None, None, 1)]]
+Leaf:  N Elaborate Gosh , another article about the Middle East and terrorists .
+Leaf:  N Elaborate This was is pretty much like the one
+Leaf:  S span I ready earlier .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Explanation Things never get better .
+Leaf:  N Elaborate The terrorists wo n't even allow people to leave the city
+Leaf:  S span they 're holding ,
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate to try and reach the Iraqi army nearby
+Leaf:  S span who could help them .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Enablement NS
+Leaf:  N Temporal Maybe the UN needs to step in
+Leaf:  N Temporal and do something .
+Inner:  S span None Temporal NN
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('Gosh , another article about the Middle East and terrorists .', None, None, None, 1), ('This was is pretty much like the one', None, None, None, 0), ('I ready earlier .', None, None, None, 1), ('Things never get better .', None, None, None, 1), ("The terrorists wo n't even allow people to leave the city", None, None, None, 0), ("they 're holding ,", None, None, None, 0), ('to try and reach the Iraqi army nearby', None, None, None, 0), ('who could help them .', None, None, None, 1), ('Maybe the UN needs to step in', None, None, None, 0), ('and do something .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Suicide is horrible', None, None, None, 0), ('and to think', None, None, None, 0), ('that there is a whole subculture', None, None, None, 0), ('that is devoted to it', None, None, None, 0), ('really saddens me .', None, None, None, 1), ('Could you imagine', None, None, None, 0), ('if this was your child', None, None, None, 0), ('and you had no clue', None, None, None, 0), ('that they were being coaxed into hurting themselves', None, None, None, 0), ('because they seen others doing it .', None, None, None, 1), ("I could n't imagine", None, None, None, 0), ('how it must feel being a parent', None, None, None, 0), ('and finding out', None, None, None, 0), ("that your child 's life was so bad", None, None, None, 0), ('that you had to kill themselves .', None, None, None, 1)]]
+Leaf:  N Joint Suicide is horrible
+Leaf:  S span and to think
+Leaf:  N Elaborate that there is a whole subculture
+Leaf:  S span that is devoted to it
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit really saddens me .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Could you imagine
+Leaf:  N Joint if this was your child
+Leaf:  S span and you had no clue
+Leaf:  N Cause that they were being coaxed into hurting themselves
+Leaf:  S span because they seen others doing it .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I could n't imagine
+Leaf:  N Joint how it must feel being a parent
+Leaf:  S span and finding out
+Leaf:  N Cause that your child 's life was so bad
+Leaf:  S span that you had to kill themselves .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Suicide is horrible', None, None, None, 0), ('and to think', None, None, None, 0), ('that there is a whole subculture', None, None, None, 0), ('that is devoted to it', None, None, None, 0), ('really saddens me .', None, None, None, 1), ('Could you imagine', None, None, None, 0), ('if this was your child', None, None, None, 0), ('and you had no clue', None, None, None, 0), ('that they were being coaxed into hurting themselves', None, None, None, 0), ('because they seen others doing it .', None, None, None, 1), ("I could n't imagine", None, None, None, 0), ('how it must feel being a parent', None, None, None, 0), ('and finding out', None, None, None, 0), ("that your child 's life was so bad", None, None, None, 0), ('that you had to kill themselves .', None, None, None, 1)]

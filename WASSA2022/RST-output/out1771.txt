@@ -1,0 +1,23 @@
+=====================> [[('I was reading an article about poachers', None, None, None, 0), ('killing off many elephants', None, None, None, 0), ('because of the ivory trade .', None, None, None, 1), ('One part', None, None, None, 0), ('that stuck in my mind is that in one country , the elephants are protected more', None, None, None, 0), ('than they are in the neighboring country .', None, None, None, 1), ('It is odd that an elephant can literally walk away from its protection', None, None, None, 0), ('by wandering into the neighboring country .', None, None, None, 1), ('I was not aware of any of this .', None, None, None, 1), ('The article somewhat jokingly said', None, None, None, 0), ('that elephants do not have passports .', None, None, None, 1)]]
+Leaf:  N Elaborate I was reading an article about poachers
+Leaf:  N Cause killing off many elephants
+Leaf:  S span because of the ivory trade .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate One part
+Leaf:  N Comparison that stuck in my mind is that in one country , the elephants are protected more
+Leaf:  S span than they are in the neighboring country .
+Inner:  S span None Comparison NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Manner-Means It is odd that an elephant can literally walk away from its protection
+Leaf:  S span by wandering into the neighboring country .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  S span I was not aware of any of this .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The article somewhat jokingly said
+Leaf:  N Attribution that elephants do not have passports .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I was reading an article about poachers', None, None, None, 0), ('killing off many elephants', None, None, None, 0), ('because of the ivory trade .', None, None, None, 1), ('One part', None, None, None, 0), ('that stuck in my mind is that in one country , the elephants are protected more', None, None, None, 0), ('than they are in the neighboring country .', None, None, None, 1), ('It is odd that an elephant can literally walk away from its protection', None, None, None, 0), ('by wandering into the neighboring country .', None, None, None, 1), ('I was not aware of any of this .', None, None, None, 1), ('The article somewhat jokingly said', None, None, None, 0), ('that elephants do not have passports .', None, None, None, 1)]

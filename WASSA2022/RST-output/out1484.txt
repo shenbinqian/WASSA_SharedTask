@@ -1,0 +1,31 @@
+=====================> [[('I am so sick and tired of Donald Trump .', None, None, None, 1), ('He has no idea', None, None, None, 0), ('what he is doing .', None, None, None, 1), ('He is making America a laughing stock to the world .', None, None, None, 1), ('He is a puppet .', None, None, None, 1), ('He is a big man baby', None, None, None, 0), ('who can not take criticism', None, None, None, 0), ('or do a job right .', None, None, None, 1), ("He 's not as rich", None, None, None, 0), ('as he says .', None, None, None, 1), ('He does what he wants', None, None, None, 0), ('and figures', None, None, None, 0), ('money will take care of it all .', None, None, None, 1), ('I can not wait', None, None, None, 0), ('till he is out of office .', None, None, None, 1)]]
+Leaf:  N Elaborate I am so sick and tired of Donald Trump .
+Leaf:  S span He has no idea
+Leaf:  N Attribution what he is doing .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Summary He is making America a laughing stock to the world .
+Leaf:  S span He is a puppet .
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate He is a big man baby
+Leaf:  N Joint who can not take criticism
+Leaf:  N Joint or do a job right .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Comparison He 's not as rich
+Leaf:  S span as he says .
+Inner:  N Contrast None Comparison NS
+Leaf:  N Joint He does what he wants
+Leaf:  S span and figures
+Leaf:  N Attribution money will take care of it all .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Joint None Contrast NS
+Leaf:  N Condition I can not wait
+Leaf:  S span till he is out of office .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I am so sick and tired of Donald Trump .', None, None, None, 1), ('He has no idea', None, None, None, 0), ('what he is doing .', None, None, None, 1), ('He is making America a laughing stock to the world .', None, None, None, 1), ('He is a puppet .', None, None, None, 1), ('He is a big man baby', None, None, None, 0), ('who can not take criticism', None, None, None, 0), ('or do a job right .', None, None, None, 1), ("He 's not as rich", None, None, None, 0), ('as he says .', None, None, None, 1), ('He does what he wants', None, None, None, 0), ('and figures', None, None, None, 0), ('money will take care of it all .', None, None, None, 1), ('I can not wait', None, None, None, 0), ('till he is out of office .', None, None, None, 1)]

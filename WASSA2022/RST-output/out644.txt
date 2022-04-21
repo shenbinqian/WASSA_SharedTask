@@ -1,0 +1,19 @@
+=====================> [[('wow its just amazing to me how many countries look the other way', None, None, None, 0), ('while civilians are being killed or injured .', None, None, None, 1), ('Over 300 killed and over 400 injured in less then one month .', None, None, None, 1), ('There is no excuse for this .', None, None, None, 1), ('There is nothing on earth', None, None, None, 0), ('that should make this ok .', None, None, None, 1), ('I am sad for them .', None, None, None, 1), ('SO many lives are affected', None, None, None, 0), ('when will it stop ?', None, None, None, 1)]]
+Leaf:  N Background wow its just amazing to me how many countries look the other way
+Leaf:  S span while civilians are being killed or injured .
+Inner:  N Elaborate None Background NS
+Leaf:  S span Over 300 killed and over 400 injured in less then one month .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Summary There is no excuse for this .
+Leaf:  N Elaborate There is nothing on earth
+Leaf:  S span that should make this ok .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span I am sad for them .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause SO many lives are affected
+Leaf:  N Cause when will it stop ?
+Inner:  S span None Cause NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('wow its just amazing to me how many countries look the other way', None, None, None, 0), ('while civilians are being killed or injured .', None, None, None, 1), ('Over 300 killed and over 400 injured in less then one month .', None, None, None, 1), ('There is no excuse for this .', None, None, None, 1), ('There is nothing on earth', None, None, None, 0), ('that should make this ok .', None, None, None, 1), ('I am sad for them .', None, None, None, 1), ('SO many lives are affected', None, None, None, 0), ('when will it stop ?', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('This was a somewhat interesting article about the frequency of eye injuries in sports for children .', None, None, None, 1), ('They really could have used more data in the article but interesting all the same .', None, None, None, 1), ('The only real gripe', None, None, None, 0), ('I had', None, None, None, 0), ('was somehow playing with airsoft guns around the house are counted as sports related injuries', None, None, None, 0), ("so the data does n't seem that reliable .", None, None, None, 1)]]
+Leaf:  N Comparison This was a somewhat interesting article about the frequency of eye injuries in sports for children .
+Leaf:  S span They really could have used more data in the article but interesting all the same .
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Elaborate The only real gripe
+Leaf:  S span I had
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Cause was somehow playing with airsoft guns around the house are counted as sports related injuries
+Leaf:  S span so the data does n't seem that reliable .
+Inner:  N Same-Unit None Cause NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Elaborate NS
+[('This was a somewhat interesting article about the frequency of eye injuries in sports for children .', None, None, None, 1), ('They really could have used more data in the article but interesting all the same .', None, None, None, 1), ('The only real gripe', None, None, None, 0), ('I had', None, None, None, 0), ('was somehow playing with airsoft guns around the house are counted as sports related injuries', None, None, None, 0), ("so the data does n't seem that reliable .", None, None, None, 1)]

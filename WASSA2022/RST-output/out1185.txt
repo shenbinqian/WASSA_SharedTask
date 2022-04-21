@@ -1,0 +1,19 @@
+=====================> [[('Terrorism has become so commonplace', None, None, None, 0), ('that it does not even alarm me anymore .', None, None, None, 1), ('It is simply just another day in the world', None, None, None, 0), ('that we have come to live in .', None, None, None, 1), ('No one really wants to address the reasons', None, None, None, 0), ('that drive people to terrorism ,', None, None, None, 0), ('so I guess', None, None, None, 0), ('we will just continue to let the media sensationalize death', None, None, None, 0), ('and complain about it the next day .', None, None, None, 1)]]
+Leaf:  N Cause Terrorism has become so commonplace
+Leaf:  S span that it does not even alarm me anymore .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate It is simply just another day in the world
+Leaf:  S span that we have come to live in .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate No one really wants to address the reasons
+Leaf:  S span that drive people to terrorism ,
+Inner:  S span None Elaborate NS
+Leaf:  N Topic-Comment so I guess
+Leaf:  N Joint we will just continue to let the media sensationalize death
+Leaf:  N Joint and complain about it the next day .
+Inner:  N Topic-Comment None Joint NN
+Inner:  N Explanation None Topic-Comment NN
+Inner:  S span None Explanation SN
+Inner:  Root None None Elaborate NS
+[('Terrorism has become so commonplace', None, None, None, 0), ('that it does not even alarm me anymore .', None, None, None, 1), ('It is simply just another day in the world', None, None, None, 0), ('that we have come to live in .', None, None, None, 1), ('No one really wants to address the reasons', None, None, None, 0), ('that drive people to terrorism ,', None, None, None, 0), ('so I guess', None, None, None, 0), ('we will just continue to let the media sensationalize death', None, None, None, 0), ('and complain about it the next day .', None, None, None, 1)]

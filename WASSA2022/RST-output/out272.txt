@@ -1,0 +1,19 @@
+=====================> [[('For days , a hazy pall has spread across much of northern Georgia ,', None, None, None, 0), ('including metro Atlanta , home to 5.7 million people .', None, None, None, 1), ('State officials warned', None, None, None, 0), ('that the air is unhealthy ,', None, None, None, 0), ('and cautioned people with breathing problems to stay indoors as much as possible .', None, None, None, 1), ('With state firefighters scrambling to quench the blazes currently active ,', None, None, None, 0), ('officials told people to avoid starting new fires', None, None, None, 0), ('that could quickly spread . “ We ’re a cigar butt away from a disaster , ”', None, None, None, 0), ('said John Williams , adventure guide at Amicalola Falls , a state park near the southern terminus of the Appalachian Trail in Georgia', None, None, None, 0)]]
+Leaf:  N Elaborate For days , a hazy pall has spread across much of northern Georgia ,
+Leaf:  S span including metro Atlanta , home to 5.7 million people .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span State officials warned
+Leaf:  N Attribution that the air is unhealthy ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and cautioned people with breathing problems to stay indoors as much as possible .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span With state firefighters scrambling to quench the blazes currently active ,
+Leaf:  N Elaborate officials told people to avoid starting new fires
+Leaf:  S span that could quickly spread . “ We ’re a cigar butt away from a disaster , ”
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span said John Williams , adventure guide at Amicalola Falls , a state park near the southern terminus of the Appalachian Trail in Georgia
+Inner:  N Background None Attribution NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('For days , a hazy pall has spread across much of northern Georgia ,', None, None, None, 0), ('including metro Atlanta , home to 5.7 million people .', None, None, None, 1), ('State officials warned', None, None, None, 0), ('that the air is unhealthy ,', None, None, None, 0), ('and cautioned people with breathing problems to stay indoors as much as possible .', None, None, None, 1), ('With state firefighters scrambling to quench the blazes currently active ,', None, None, None, 0), ('officials told people to avoid starting new fires', None, None, None, 0), ('that could quickly spread . “ We ’re a cigar butt away from a disaster , ”', None, None, None, 0), ('said John Williams , adventure guide at Amicalola Falls , a state park near the southern terminus of the Appalachian Trail in Georgia', None, None, None, 0)]

@@ -1,0 +1,29 @@
+=====================> [[('In a lot of ways , things never really do change .', None, None, None, 1), ("I 'm certainly empathetic to what they are going through .", None, None, None, 1), ('It just illustrates', None, None, None, 0), ('that we have a long way', None, None, None, 0), ('to go', None, None, None, 0), ('and still a lot of progress', None, None, None, 0), ('we have', None, None, None, 0), ('to make .', None, None, None, 1), ("It 's incidents like this", None, None, None, 0), ('that really do show you', None, None, None, 0), ('why so many people are so hostile towards law enforcement .', None, None, None, 1), ('One would think', None, None, None, 0), ('that things would change in this regard ,', None, None, None, 0), ("but it 's just a steady rehash of events .", None, None, None, 1)]]
+Leaf:  N Elaborate In a lot of ways , things never really do change .
+Leaf:  S span I 'm certainly empathetic to what they are going through .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It just illustrates
+Leaf:  N Elaborate that we have a long way
+Leaf:  S span to go
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and still a lot of progress
+Leaf:  N Elaborate we have
+Leaf:  S span to make .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate It 's incidents like this
+Leaf:  S span that really do show you
+Leaf:  N Attribution why so many people are so hostile towards law enforcement .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span One would think
+Leaf:  N Attribution that things would change in this regard ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but it 's just a steady rehash of events .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('In a lot of ways , things never really do change .', None, None, None, 1), ("I 'm certainly empathetic to what they are going through .", None, None, None, 1), ('It just illustrates', None, None, None, 0), ('that we have a long way', None, None, None, 0), ('to go', None, None, None, 0), ('and still a lot of progress', None, None, None, 0), ('we have', None, None, None, 0), ('to make .', None, None, None, 1), ("It 's incidents like this", None, None, None, 0), ('that really do show you', None, None, None, 0), ('why so many people are so hostile towards law enforcement .', None, None, None, 1), ('One would think', None, None, None, 0), ('that things would change in this regard ,', None, None, None, 0), ("but it 's just a steady rehash of events .", None, None, None, 1)]

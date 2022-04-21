@@ -1,0 +1,19 @@
+=====================> [[('This is horrible .', None, None, None, 1), ('Too have a disaster like this happen is sad .', None, None, None, 1), ('Other nations should do what we can', None, None, None, 0), ('in order to help .', None, None, None, 1), ('You never know', None, None, None, 0), ('when we may need the help for other countries .', None, None, None, 1), ('We know as a country how hard it is to loss everything to a natural disaster .', None, None, None, 1), ('All the lives lost it is best practice', None, None, None, 0), ('to help out .', None, None, None, 1)]]
+Leaf:  N Elaborate This is horrible .
+Leaf:  S span Too have a disaster like this happen is sad .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Enablement Other nations should do what we can
+Leaf:  S span in order to help .
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span You never know
+Leaf:  N Attribution when we may need the help for other countries .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We know as a country how hard it is to loss everything to a natural disaster .
+Leaf:  N Elaborate All the lives lost it is best practice
+Leaf:  S span to help out .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('This is horrible .', None, None, None, 1), ('Too have a disaster like this happen is sad .', None, None, None, 1), ('Other nations should do what we can', None, None, None, 0), ('in order to help .', None, None, None, 1), ('You never know', None, None, None, 0), ('when we may need the help for other countries .', None, None, None, 1), ('We know as a country how hard it is to loss everything to a natural disaster .', None, None, None, 1), ('All the lives lost it is best practice', None, None, None, 0), ('to help out .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Hey , I just read this insane article about the situation in Aleppo .', None, None, None, 1), ("I did n't even realize", None, None, None, 0), ('how bad it was .', None, None, None, 1), ('People are dying', None, None, None, 0), ('and have no hope for the future .', None, None, None, 1), ('It really makes me appreciate everything', None, None, None, 0), ('I have in life', None, None, None, 0), ('and the article makes all my problems seem so trivial and insignificant by comparison .', None, None, None, 1), ('Anyway , you should check it out .', None, None, None, 1)]]
+Leaf:  N Manner-Means Hey , I just read this insane article about the situation in Aleppo .
+Leaf:  S span I did n't even realize
+Leaf:  N Attribution how bad it was .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint People are dying
+Leaf:  N Joint and have no hope for the future .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It really makes me appreciate everything
+Leaf:  S span I have in life
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and the article makes all my problems seem so trivial and insignificant by comparison .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span Anyway , you should check it out .
+Inner:  Root None None Evaluation NS
+[('Hey , I just read this insane article about the situation in Aleppo .', None, None, None, 1), ("I did n't even realize", None, None, None, 0), ('how bad it was .', None, None, None, 1), ('People are dying', None, None, None, 0), ('and have no hope for the future .', None, None, None, 1), ('It really makes me appreciate everything', None, None, None, 0), ('I have in life', None, None, None, 0), ('and the article makes all my problems seem so trivial and insignificant by comparison .', None, None, None, 1), ('Anyway , you should check it out .', None, None, None, 1)]

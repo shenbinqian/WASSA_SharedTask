@@ -1,0 +1,19 @@
+=====================> [[('You have what amounts to a horrible murder case in a rich area of Manhattan .', None, None, None, 1), ('Usually in a case like this police struggle', None, None, None, 0), ('to come up with a single suspect ,', None, None, None, 0), ('but in this instance , you have two .', None, None, None, 1), ('There is no lack of evidence either .', None, None, None, 1), ('The police found a tremendous amount of evidence at the scene .', None, None, None, 1), ('Did they collaborate on the murder ?', None, None, None, 1), ('If not , which one did it ?', None, None, None, 1), ('The police will have a hard time with this one .', None, None, None, 1)]]
+Leaf:  N Elaborate You have what amounts to a horrible murder case in a rich area of Manhattan .
+Leaf:  N Enablement Usually in a case like this police struggle
+Leaf:  S span to come up with a single suspect ,
+Inner:  N Contrast None Enablement NS
+Leaf:  N Contrast but in this instance , you have two .
+Inner:  N Joint None Contrast NN
+Leaf:  N Joint There is no lack of evidence either .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span The police found a tremendous amount of evidence at the scene .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Did they collaborate on the murder ?
+Leaf:  N Joint If not , which one did it ?
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The police will have a hard time with this one .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('You have what amounts to a horrible murder case in a rich area of Manhattan .', None, None, None, 1), ('Usually in a case like this police struggle', None, None, None, 0), ('to come up with a single suspect ,', None, None, None, 0), ('but in this instance , you have two .', None, None, None, 1), ('There is no lack of evidence either .', None, None, None, 1), ('The police found a tremendous amount of evidence at the scene .', None, None, None, 1), ('Did they collaborate on the murder ?', None, None, None, 1), ('If not , which one did it ?', None, None, None, 1), ('The police will have a hard time with this one .', None, None, None, 1)]

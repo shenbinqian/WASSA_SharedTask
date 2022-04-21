@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ("it 's a shame that they made the employees create fake accounts", None, None, None, 0), ('in order to drive up the sales .', None, None, None, 1), ('What a shame . Why are they blaming the employees', None, None, None, 0), ('when it was those in higher positions', None, None, None, 0), ('who were forced into doing what they did .', None, None, None, 1), ("If they was n't forced", None, None, None, 0), ("then it never would 've happened .", None, None, None, 1), ('I feel sorry for the worker ,', None, None, None, 0), ("but I would 've quit", None, None, None, 0), ('before they had me do something fraudulent .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Enablement it 's a shame that they made the employees create fake accounts
+Leaf:  S span in order to drive up the sales .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background What a shame . Why are they blaming the employees
+Leaf:  N Elaborate when it was those in higher positions
+Leaf:  S span who were forced into doing what they did .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  S span If they was n't forced
+Leaf:  N Condition then it never would 've happened .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I feel sorry for the worker ,
+Leaf:  N Temporal but I would 've quit
+Leaf:  S span before they had me do something fraudulent .
+Inner:  N Contrast None Temporal NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ("it 's a shame that they made the employees create fake accounts", None, None, None, 0), ('in order to drive up the sales .', None, None, None, 1), ('What a shame . Why are they blaming the employees', None, None, None, 0), ('when it was those in higher positions', None, None, None, 0), ('who were forced into doing what they did .', None, None, None, 1), ("If they was n't forced", None, None, None, 0), ("then it never would 've happened .", None, None, None, 1), ('I feel sorry for the worker ,', None, None, None, 0), ("but I would 've quit", None, None, None, 0), ('before they had me do something fraudulent .', None, None, None, 1)]

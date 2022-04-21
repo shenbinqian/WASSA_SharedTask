@@ -1,0 +1,19 @@
+=====================> [[('My feelings', None, None, None, 0), ('after reading this article', None, None, None, 0), ('was that it gave me a somewhat negative feeling .', None, None, None, 1), ("I tried to see things from the immigrant 's point of views .", None, None, None, 1), ('I tried to see', None, None, None, 0), ('how their families would be separated', None, None, None, 0), ('and how hard it would be to see one another .', None, None, None, 1), ('Sometimes , they mightnot even be able to see each other again .', None, None, None, 1), ('I felt a bit sad as well .', None, None, None, 1)]]
+Leaf:  N Temporal My feelings
+Leaf:  S span after reading this article
+Inner:  N Same-Unit None Temporal NS
+Leaf:  N Same-Unit was that it gave me a somewhat negative feeling .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Joint I tried to see things from the immigrant 's point of views .
+Leaf:  S span I tried to see
+Leaf:  N Joint how their families would be separated
+Leaf:  N Elaborate and how hard it would be to see one another .
+Leaf:  S span Sometimes , they mightnot even be able to see each other again .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I felt a bit sad as well .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('My feelings', None, None, None, 0), ('after reading this article', None, None, None, 0), ('was that it gave me a somewhat negative feeling .', None, None, None, 1), ("I tried to see things from the immigrant 's point of views .", None, None, None, 1), ('I tried to see', None, None, None, 0), ('how their families would be separated', None, None, None, 0), ('and how hard it would be to see one another .', None, None, None, 1), ('Sometimes , they mightnot even be able to see each other again .', None, None, None, 1), ('I felt a bit sad as well .', None, None, None, 1)]

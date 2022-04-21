@@ -1,0 +1,47 @@
+=====================> [[('This is so sad .', None, None, None, 1), ('Nothing makes me sadder', None, None, None, 0), ('than when you hear about people', None, None, None, 0), ("who absolutely did n't see the end coming .", None, None, None, 1), ('THe worst tradgedies are when you hear about people', None, None, None, 0), ('that were otherwise happy or celebrating .', None, None, None, 1), ('THey just wanted to have fun', None, None, None, 0), ('and enjoy themselves', None, None, None, 0), ('and they never saw the end coming .', None, None, None, 1), ("THey were n't prepared . Their families were n't prepared .", None, None, None, 1), ('They just thought', None, None, None, 0), ("they were out having fun on halloween . It 's so sad . Especially the children . I cant imagine how confusing it is for other kids now .", None, None, None, 1), ('Did they have siblings', None, None, None, 0), ('that need it explained', None, None, None, 0), ('or that were even there', None, None, None, 0), ('and saw it ?', None, None, None, 1), ("They 'll have assemblies at school", None, None, None, 0), ('to explain it to the other kids .', None, None, None, 1), ('Those are always so sad and confusing .', None, None, None, 1), ('I always feel so terrible for the people left behind .', None, None, None, 1), ('I can not handle facing a loss', None, None, None, 0), ('that big .', None, None, None, 1), ('And they were all r', None, None, None, 0)]]
+Leaf:  N Explanation This is so sad .
+Leaf:  N Comparison Nothing makes me sadder
+Leaf:  N Elaborate than when you hear about people
+Leaf:  S span who absolutely did n't see the end coming .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Elaborate THe worst tradgedies are when you hear about people
+Leaf:  S span that were otherwise happy or celebrating .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint THey just wanted to have fun
+Leaf:  N Joint and enjoy themselves
+Inner:  S span None Joint NN
+Leaf:  N Background and they never saw the end coming .
+Inner:  S span None Background SN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Summary THey were n't prepared . Their families were n't prepared .
+Leaf:  S span They just thought
+Leaf:  N Attribution they were out having fun on halloween . It 's so sad . Especially the children . I cant imagine how confusing it is for other kids now .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate Did they have siblings
+Leaf:  N Joint that need it explained
+Leaf:  N Joint or that were even there
+Leaf:  N Joint and saw it ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Enablement They 'll have assemblies at school
+Leaf:  S span to explain it to the other kids .
+Inner:  S span None Enablement NS
+Inner:  S span None Cause NS
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Those are always so sad and confusing .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I always feel so terrible for the people left behind .
+Leaf:  N Elaborate I can not handle facing a loss
+Leaf:  S span that big .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span And they were all r
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This is so sad .', None, None, None, 1), ('Nothing makes me sadder', None, None, None, 0), ('than when you hear about people', None, None, None, 0), ("who absolutely did n't see the end coming .", None, None, None, 1), ('THe worst tradgedies are when you hear about people', None, None, None, 0), ('that were otherwise happy or celebrating .', None, None, None, 1), ('THey just wanted to have fun', None, None, None, 0), ('and enjoy themselves', None, None, None, 0), ('and they never saw the end coming .', None, None, None, 1), ("THey were n't prepared . Their families were n't prepared .", None, None, None, 1), ('They just thought', None, None, None, 0), ("they were out having fun on halloween . It 's so sad . Especially the children . I cant imagine how confusing it is for other kids now .", None, None, None, 1), ('Did they have siblings', None, None, None, 0), ('that need it explained', None, None, None, 0), ('or that were even there', None, None, None, 0), ('and saw it ?', None, None, None, 1), ("They 'll have assemblies at school", None, None, None, 0), ('to explain it to the other kids .', None, None, None, 1), ('Those are always so sad and confusing .', None, None, None, 1), ('I always feel so terrible for the people left behind .', None, None, None, 1), ('I can not handle facing a loss', None, None, None, 0), ('that big .', None, None, None, 1), ('And they were all r', None, None, None, 0)]

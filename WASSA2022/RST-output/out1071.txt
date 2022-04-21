@@ -1,0 +1,45 @@
+=====================> [[('hey whats going on Jacob ?', None, None, None, 1), ('I want to tell vent out something', None, None, None, 0), ('I read in this article .', None, None, None, 1), ('There was a Saudi-led coalition', None, None, None, 0), ('that is backed by the US ,', None, None, None, 0), ('they had led an attack in Yemen ,', None, None, None, 0), ('that had killed around 43 people .', None, None, None, 1), ('This is sad to hear so much killing in this world .', None, None, None, 1), ('According to what I read', None, None, None, 0), ('this happened', None, None, None, 0), ('because they are trying to take someone out of power', None, None, None, 0), ('and they are trying to bring in a new leader ,', None, None, None, 0), ('I think', None, None, None, 0), ('his name is Abed Rabbo Mansour . The USA wants to put him in there .', None, None, None, 1), ('Also they are more people dying from the long conflict ,', None, None, None, 0), ('people are starving', None, None, None, 0), ('and also Planes had attacked a funeral place', None, None, None, 0), ('and they had killed people there as well .', None, None, None, 1), ('All this necessary killing is not good for this word .', None, None, None, 1), ('This is really , really bad', None, None, None, 0), ('that we need war', None, None, None, 0), ('to solve problems .', None, None, None, 1)]]
+Leaf:  N Topic-Comment hey whats going on Jacob ?
+Leaf:  N Elaborate I want to tell vent out something
+Leaf:  S span I read in this article .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There was a Saudi-led coalition
+Leaf:  S span that is backed by the US ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate they had led an attack in Yemen ,
+Leaf:  S span that had killed around 43 people .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span This is sad to hear so much killing in this world .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span According to what I read
+Leaf:  N Cause this happened
+Leaf:  N Joint because they are trying to take someone out of power
+Leaf:  N Joint and they are trying to bring in a new leader ,
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I think
+Leaf:  N Attribution his name is Abed Rabbo Mansour . The USA wants to put him in there .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Also they are more people dying from the long conflict ,
+Leaf:  N Joint people are starving
+Leaf:  N Joint and also Planes had attacked a funeral place
+Leaf:  N Joint and they had killed people there as well .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation All this necessary killing is not good for this word .
+Leaf:  N Elaborate This is really , really bad
+Leaf:  N Enablement that we need war
+Leaf:  S span to solve problems .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('hey whats going on Jacob ?', None, None, None, 1), ('I want to tell vent out something', None, None, None, 0), ('I read in this article .', None, None, None, 1), ('There was a Saudi-led coalition', None, None, None, 0), ('that is backed by the US ,', None, None, None, 0), ('they had led an attack in Yemen ,', None, None, None, 0), ('that had killed around 43 people .', None, None, None, 1), ('This is sad to hear so much killing in this world .', None, None, None, 1), ('According to what I read', None, None, None, 0), ('this happened', None, None, None, 0), ('because they are trying to take someone out of power', None, None, None, 0), ('and they are trying to bring in a new leader ,', None, None, None, 0), ('I think', None, None, None, 0), ('his name is Abed Rabbo Mansour . The USA wants to put him in there .', None, None, None, 1), ('Also they are more people dying from the long conflict ,', None, None, None, 0), ('people are starving', None, None, None, 0), ('and also Planes had attacked a funeral place', None, None, None, 0), ('and they had killed people there as well .', None, None, None, 1), ('All this necessary killing is not good for this word .', None, None, None, 1), ('This is really , really bad', None, None, None, 0), ('that we need war', None, None, None, 0), ('to solve problems .', None, None, None, 1)]

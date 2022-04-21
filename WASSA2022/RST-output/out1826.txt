@@ -1,0 +1,19 @@
+=====================> [[('we have to become aware of climate change .', None, None, None, 1), ('This problem belongs to everyone', None, None, None, 0), ('and', None, None, None, 0), ('if we ignore this problem ,', None, None, None, 0), ('it will become irreversible .', None, None, None, 1), ('We will not have anything', None, None, None, 0), ('to inherit from our children .', None, None, None, 1), ('Let us support campaigns for the conservation of the environment and the use of renewable energy .', None, None, None, 1), ('The politicians only watch over the interests of the companies and not of the individuals .', None, None, None, 1)]]
+Leaf:  N Explanation we have to become aware of climate change .
+Leaf:  N Joint This problem belongs to everyone
+Leaf:  N Same-Unit and
+Leaf:  S span if we ignore this problem ,
+Leaf:  N Condition it will become irreversible .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Cause None Joint NN
+Leaf:  N Elaborate We will not have anything
+Leaf:  S span to inherit from our children .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Contrast Let us support campaigns for the conservation of the environment and the use of renewable energy .
+Leaf:  S span The politicians only watch over the interests of the companies and not of the individuals .
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('we have to become aware of climate change .', None, None, None, 1), ('This problem belongs to everyone', None, None, None, 0), ('and', None, None, None, 0), ('if we ignore this problem ,', None, None, None, 0), ('it will become irreversible .', None, None, None, 1), ('We will not have anything', None, None, None, 0), ('to inherit from our children .', None, None, None, 1), ('Let us support campaigns for the conservation of the environment and the use of renewable energy .', None, None, None, 1), ('The politicians only watch over the interests of the companies and not of the individuals .', None, None, None, 1)]

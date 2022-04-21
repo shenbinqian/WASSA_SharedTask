@@ -1,0 +1,23 @@
+=====================> [[('Can you believe', None, None, None, 0), ('what this family has done to these girls ?', None, None, None, 1), ('They have treated these children so heinously .', None, None, None, 1), ('It is insane', None, None, None, 0), ("that the police would n't do anything", None, None, None, 0), ('until they were basically forced by the media .', None, None, None, 1), ('I can appreciate things', None, None, None, 0), ('that happened later', None, None, None, 0), ('to help these girls', None, None, None, 0), ('but this so unfair .', None, None, None, 1), ('This breaks my heart .', None, None, None, 1)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution what this family has done to these girls ?
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation They have treated these children so heinously .
+Leaf:  S span It is insane
+Leaf:  N Background that the police would n't do anything
+Leaf:  S span until they were basically forced by the media .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I can appreciate things
+Leaf:  N Enablement that happened later
+Leaf:  S span to help these girls
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but this so unfair .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This breaks my heart .
+Inner:  Root None None Evaluation NS
+[('Can you believe', None, None, None, 0), ('what this family has done to these girls ?', None, None, None, 1), ('They have treated these children so heinously .', None, None, None, 1), ('It is insane', None, None, None, 0), ("that the police would n't do anything", None, None, None, 0), ('until they were basically forced by the media .', None, None, None, 1), ('I can appreciate things', None, None, None, 0), ('that happened later', None, None, None, 0), ('to help these girls', None, None, None, 0), ('but this so unfair .', None, None, None, 1), ('This breaks my heart .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('This is just crazy ,', None, None, None, 0), ('you have to feel for the mother , but at the same time what kind of apartment has that many violations', None, None, None, 0), ('and is still not punished .', None, None, None, 1), ('They need to sue them and anybody', None, None, None, 0), ('involved with this .', None, None, None, 1), ('I cant believe', None, None, None, 0), ("that in today 's society that tragedies like this are tolerated .", None, None, None, 1), ('Somebody needs to go to jail for the death of this little girl and the injuries', None, None, None, 0), ('that her mother suffered .', None, None, None, 1), ('I cant imagine', None, None, None, 0), ('what the mother is going through', None, None, None, 0), ('and she probably blames herself .', None, None, None, 1), ('Things like this should just not happen .', None, None, None, 1)]]
+Leaf:  N Evaluation This is just crazy ,
+Leaf:  N Joint you have to feel for the mother , but at the same time what kind of apartment has that many violations
+Leaf:  N Joint and is still not punished .
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Elaborate They need to sue them and anybody
+Leaf:  S span involved with this .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span I cant believe
+Leaf:  N Attribution that in today 's society that tragedies like this are tolerated .
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate Somebody needs to go to jail for the death of this little girl and the injuries
+Leaf:  S span that her mother suffered .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I cant imagine
+Leaf:  N Attribution what the mother is going through
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and she probably blames herself .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Things like this should just not happen .
+Inner:  Root None None Evaluation NS
+[('This is just crazy ,', None, None, None, 0), ('you have to feel for the mother , but at the same time what kind of apartment has that many violations', None, None, None, 0), ('and is still not punished .', None, None, None, 1), ('They need to sue them and anybody', None, None, None, 0), ('involved with this .', None, None, None, 1), ('I cant believe', None, None, None, 0), ("that in today 's society that tragedies like this are tolerated .", None, None, None, 1), ('Somebody needs to go to jail for the death of this little girl and the injuries', None, None, None, 0), ('that her mother suffered .', None, None, None, 1), ('I cant imagine', None, None, None, 0), ('what the mother is going through', None, None, None, 0), ('and she probably blames herself .', None, None, None, 1), ('Things like this should just not happen .', None, None, None, 1)]

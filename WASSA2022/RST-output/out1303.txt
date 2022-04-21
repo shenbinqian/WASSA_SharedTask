@@ -1,0 +1,21 @@
+=====================> [[('I am a little bit on the fences', None, None, None, 0), ('about how to approach immigration and the Mexican border problem .', None, None, None, 1), ('This article talks about different issues', None, None, None, 0), ('President Trump has had his hands in', None, None, None, 0), ('on and how some problems are arising .', None, None, None, 1), ('I think', None, None, None, 0), ('the countries need to stand alone', None, None, None, 0), ('and work on their own issues', None, None, None, 0), ('so they have home build strength .', None, None, None, 1), ('Seems like a lot of compromising is not taking place .', None, None, None, 1)]]
+Leaf:  N Elaborate I am a little bit on the fences
+Leaf:  S span about how to approach immigration and the Mexican border problem .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This article talks about different issues
+Leaf:  N Same-Unit President Trump has had his hands in
+Leaf:  N Same-Unit on and how some problems are arising .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Joint the countries need to stand alone
+Leaf:  N Enablement and work on their own issues
+Leaf:  S span so they have home build strength .
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint Seems like a lot of compromising is not taking place .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I am a little bit on the fences', None, None, None, 0), ('about how to approach immigration and the Mexican border problem .', None, None, None, 1), ('This article talks about different issues', None, None, None, 0), ('President Trump has had his hands in', None, None, None, 0), ('on and how some problems are arising .', None, None, None, 1), ('I think', None, None, None, 0), ('the countries need to stand alone', None, None, None, 0), ('and work on their own issues', None, None, None, 0), ('so they have home build strength .', None, None, None, 1), ('Seems like a lot of compromising is not taking place .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('More trouble at the North Dakota pipeline protests !', None, None, None, 1), ('They have brought in riot police', None, None, None, 0), ('who are trying to break up the protestors .', None, None, None, 1), ('It looks like they are using rubber bullets', None, None, None, 0), ('and arresting a lot of people .', None, None, None, 1), ('It is scary', None, None, None, 0), ('that we can not peacefully protest in this country', None, None, None, 0), ('without fear of injury or arrest .', None, None, None, 1), ('I hope everyone is okay .', None, None, None, 1)]]
+Leaf:  N Elaborate More trouble at the North Dakota pipeline protests !
+Leaf:  N Elaborate They have brought in riot police
+Leaf:  S span who are trying to break up the protestors .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It looks like they are using rubber bullets
+Leaf:  N Joint and arresting a lot of people .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is scary
+Leaf:  N Manner-Means that we can not peacefully protest in this country
+Leaf:  S span without fear of injury or arrest .
+Inner:  N Attribution None Manner-Means NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope everyone is okay .
+Inner:  Root None None Elaborate NS
+[('More trouble at the North Dakota pipeline protests !', None, None, None, 1), ('They have brought in riot police', None, None, None, 0), ('who are trying to break up the protestors .', None, None, None, 1), ('It looks like they are using rubber bullets', None, None, None, 0), ('and arresting a lot of people .', None, None, None, 1), ('It is scary', None, None, None, 0), ('that we can not peacefully protest in this country', None, None, None, 0), ('without fear of injury or arrest .', None, None, None, 1), ('I hope everyone is okay .', None, None, None, 1)]

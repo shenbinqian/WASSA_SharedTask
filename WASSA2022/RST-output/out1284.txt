@@ -1,0 +1,19 @@
+=====================> [[('so i just read this article , a very interesting one .', None, None, None, 1), ('you all need to read it', None, None, None, 0), ('to understand', None, None, None, 0), ('what it is really about .', None, None, None, 1), ('there is a way', None, None, None, 0), ('the author puts things in a very simple way for everyone to understand .', None, None, None, 1), ('i would encourage you all to find it', None, None, None, 0), ('and read it .', None, None, None, 1), ('it will be worth your time .', None, None, None, 1)]]
+Leaf:  N Summary so i just read this article , a very interesting one .
+Leaf:  N Enablement you all need to read it
+Leaf:  S span to understand
+Leaf:  N Attribution what it is really about .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate there is a way
+Leaf:  S span the author puts things in a very simple way for everyone to understand .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint i would encourage you all to find it
+Leaf:  N Joint and read it .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span it will be worth your time .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('so i just read this article , a very interesting one .', None, None, None, 1), ('you all need to read it', None, None, None, 0), ('to understand', None, None, None, 0), ('what it is really about .', None, None, None, 1), ('there is a way', None, None, None, 0), ('the author puts things in a very simple way for everyone to understand .', None, None, None, 1), ('i would encourage you all to find it', None, None, None, 0), ('and read it .', None, None, None, 1), ('it will be worth your time .', None, None, None, 1)]

@@ -1,0 +1,45 @@
+=====================> [[('I totally get this in a lot of ways .', None, None, None, 1), ('I used to roll my eyes at people', None, None, None, 0), ('who were frothing at the mouth over Obama', None, None, None, 0), ('being elected ,', None, None, None, 0), ('and how they seemed to make grand statements of the world', None, None, None, 0), ('ending RIGHT NOW', None, None, None, 0), ('because a black man was in the white house . Now ...', None, None, None, 1), ("I do n't know .", None, None, None, 1), ('I see my friends and family', None, None, None, 0), ('freaking out', None, None, None, 0), ('and I want to tell them to just chill out .', None, None, None, 1), ("Obama did n't destroy America", None, None, None, 0), ('-- the right wingers were wrong about that .', None, None, None, 1), ('Neither will Trump . Life will keep going . It brings a lot of stress listening to people freaking out all the time .', None, None, None, 1), ('And yet , I get it .', None, None, None, 1), ('I get why they are worried', None, None, None, 0), ('and freaking out .', None, None, None, 1), ("I do n't like it either ,", None, None, None, 0), ("but I do n't get the point", None, None, None, 0), ('of stressing out so much .', None, None, None, 1), ("But then again , I 've completely dissociated from all this .", None, None, None, 1), ("I do n't really read the news anymore .", None, None, None, 1)]]
+Leaf:  N Explanation I totally get this in a lot of ways .
+Leaf:  N Elaborate I used to roll my eyes at people
+Leaf:  N Elaborate who were frothing at the mouth over Obama
+Leaf:  S span being elected ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and how they seemed to make grand statements of the world
+Leaf:  N Cause ending RIGHT NOW
+Leaf:  S span because a black man was in the white house . Now ...
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Evaluation I do n't know .
+Inner:  S span None Evaluation SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I see my friends and family
+Leaf:  S span freaking out
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause and I want to tell them to just chill out .
+Inner:  N Elaborate None Cause NN
+Leaf:  N Evaluation Obama did n't destroy America
+Leaf:  S span -- the right wingers were wrong about that .
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint Neither will Trump . Life will keep going . It brings a lot of stress listening to people freaking out all the time .
+Inner:  S span None Joint NN
+Leaf:  N Elaborate And yet , I get it .
+Leaf:  N Joint I get why they are worried
+Leaf:  N Joint and freaking out .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I do n't like it either ,
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Elaborate but I do n't get the point
+Leaf:  S span of stressing out so much .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint But then again , I 've completely dissociated from all this .
+Leaf:  N Joint I do n't really read the news anymore .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I totally get this in a lot of ways .', None, None, None, 1), ('I used to roll my eyes at people', None, None, None, 0), ('who were frothing at the mouth over Obama', None, None, None, 0), ('being elected ,', None, None, None, 0), ('and how they seemed to make grand statements of the world', None, None, None, 0), ('ending RIGHT NOW', None, None, None, 0), ('because a black man was in the white house . Now ...', None, None, None, 1), ("I do n't know .", None, None, None, 1), ('I see my friends and family', None, None, None, 0), ('freaking out', None, None, None, 0), ('and I want to tell them to just chill out .', None, None, None, 1), ("Obama did n't destroy America", None, None, None, 0), ('-- the right wingers were wrong about that .', None, None, None, 1), ('Neither will Trump . Life will keep going . It brings a lot of stress listening to people freaking out all the time .', None, None, None, 1), ('And yet , I get it .', None, None, None, 1), ('I get why they are worried', None, None, None, 0), ('and freaking out .', None, None, None, 1), ("I do n't like it either ,", None, None, None, 0), ("but I do n't get the point", None, None, None, 0), ('of stressing out so much .', None, None, None, 1), ("But then again , I 've completely dissociated from all this .", None, None, None, 1), ("I do n't really read the news anymore .", None, None, None, 1)]

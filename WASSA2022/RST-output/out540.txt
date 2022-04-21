@@ -1,0 +1,37 @@
+=====================> [[('I really feel bad for Turkey .', None, None, None, 1), ('I think', None, None, None, 0), ('they are trying to do everything', None, None, None, 0), ('they can', None, None, None, 0), ('to get rid of terrorism in the country .', None, None, None, 1), ('It seems that their efforts are for naught .', None, None, None, 1), ('They want to keep the people safe and yet more terrorist groups keep popping up .', None, None, None, 1), ('Then the lawmakers are involved', None, None, None, 0), ('and there is only so much you can do .', None, None, None, 1), ("Turkey is constantly at war . I 'm wondering", None, None, None, 0), ('if this will end up with the US', None, None, None, 0), ('trying to do something over there', None, None, None, 0), ('or bringing that trouble here .', None, None, None, 1), ('It is upsetting really to hear about all this going on in the world', None, None, None, 0), ('when people just want peace .', None, None, None, 1), ('There is always terrorism and someone', None, None, None, 0), ('trying to bring down a country ,', None, None, None, 0), ('but the country tries its hardest to fight back despite opposition .', None, None, None, 1)]]
+Leaf:  N Explanation I really feel bad for Turkey .
+Leaf:  S span I think
+Leaf:  N Elaborate they are trying to do everything
+Leaf:  S span they can
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to get rid of terrorism in the country .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Leaf:  N Explanation It seems that their efforts are for naught .
+Leaf:  N Joint They want to keep the people safe and yet more terrorist groups keep popping up .
+Leaf:  N Joint Then the lawmakers are involved
+Leaf:  N Joint and there is only so much you can do .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  N Topic-Change None Explanation NS
+Leaf:  S span Turkey is constantly at war . I 'm wondering
+Leaf:  N Elaborate if this will end up with the US
+Leaf:  S span trying to do something over there
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint or bringing that trouble here .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Temporal It is upsetting really to hear about all this going on in the world
+Leaf:  S span when people just want peace .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate There is always terrorism and someone
+Leaf:  S span trying to bring down a country ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but the country tries its hardest to fight back despite opposition .
+Inner:  S span None Contrast SN
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('I really feel bad for Turkey .', None, None, None, 1), ('I think', None, None, None, 0), ('they are trying to do everything', None, None, None, 0), ('they can', None, None, None, 0), ('to get rid of terrorism in the country .', None, None, None, 1), ('It seems that their efforts are for naught .', None, None, None, 1), ('They want to keep the people safe and yet more terrorist groups keep popping up .', None, None, None, 1), ('Then the lawmakers are involved', None, None, None, 0), ('and there is only so much you can do .', None, None, None, 1), ("Turkey is constantly at war . I 'm wondering", None, None, None, 0), ('if this will end up with the US', None, None, None, 0), ('trying to do something over there', None, None, None, 0), ('or bringing that trouble here .', None, None, None, 1), ('It is upsetting really to hear about all this going on in the world', None, None, None, 0), ('when people just want peace .', None, None, None, 1), ('There is always terrorism and someone', None, None, None, 0), ('trying to bring down a country ,', None, None, None, 0), ('but the country tries its hardest to fight back despite opposition .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('Religion should be a freedom of choice .', None, None, None, 1), ('Some people are Christians', None, None, None, 0), ('and some are Muslims or Islamic .', None, None, None, 1), ('This makes me sad Christians chose a different religion', None, None, None, 0), ('so why should the Islams brutalize them', None, None, None, 0), ('and hurt them ?', None, None, None, 1), ('That is cruelty and one of the reasons', None, None, None, 0), ('why there will always be war in those countries .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I would ever want to visit those places ,', None, None, None, 0), ('I would be very scared .', None, None, None, 1), ('They target Christians and kill priests .', None, None, None, 1), ('These people are heartless ,', None, None, None, 0), ('forcing these people out of their home .', None, None, None, 1)]]
+Leaf:  N Elaborate Religion should be a freedom of choice .
+Leaf:  N Joint Some people are Christians
+Leaf:  N Joint and some are Muslims or Islamic .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Topic-Comment This makes me sad Christians chose a different religion
+Leaf:  N Joint so why should the Islams brutalize them
+Leaf:  N Joint and hurt them ?
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Cause That is cruelty and one of the reasons
+Leaf:  N Cause why there will always be war in those countries .
+Inner:  S span None Cause NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution I would ever want to visit those places ,
+Inner:  N Cause None Attribution SN
+Leaf:  N Cause I would be very scared .
+Inner:  N Elaborate None Cause NN
+Leaf:  S span They target Christians and kill priests .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause These people are heartless ,
+Leaf:  S span forcing these people out of their home .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Religion should be a freedom of choice .', None, None, None, 1), ('Some people are Christians', None, None, None, 0), ('and some are Muslims or Islamic .', None, None, None, 1), ('This makes me sad Christians chose a different religion', None, None, None, 0), ('so why should the Islams brutalize them', None, None, None, 0), ('and hurt them ?', None, None, None, 1), ('That is cruelty and one of the reasons', None, None, None, 0), ('why there will always be war in those countries .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('I would ever want to visit those places ,', None, None, None, 0), ('I would be very scared .', None, None, None, 1), ('They target Christians and kill priests .', None, None, None, 1), ('These people are heartless ,', None, None, None, 0), ('forcing these people out of their home .', None, None, None, 1)]

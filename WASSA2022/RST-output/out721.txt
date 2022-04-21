@@ -1,0 +1,19 @@
+=====================> [[('I am deeply disturbed', None, None, None, 0), ('by what I have read in this article .', None, None, None, 1), ('It seems that a man committed a senseless act of murder', None, None, None, 0), ('by pouring flammable liquid on an innocent bus driver', None, None, None, 0), ('and setting him afire .', None, None, None, 1), ('There is never an acceptable excuse for such an act .', None, None, None, 1), ('I can only guess', None, None, None, 0), ('that racism is the motivation for the act', None, None, None, 0), ('as the victim was a member of the Indian community .', None, None, None, 1)]]
+Leaf:  S span I am deeply disturbed
+Leaf:  N Attribution by what I have read in this article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Manner-Means It seems that a man committed a senseless act of murder
+Leaf:  N Joint by pouring flammable liquid on an innocent bus driver
+Leaf:  N Joint and setting him afire .
+Inner:  S span None Joint NN
+Inner:  N Summary None Manner-Means NS
+Leaf:  S span There is never an acceptable excuse for such an act .
+Inner:  N Elaborate None Summary NS
+Leaf:  S span I can only guess
+Leaf:  N Background that racism is the motivation for the act
+Leaf:  S span as the victim was a member of the Indian community .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I am deeply disturbed', None, None, None, 0), ('by what I have read in this article .', None, None, None, 1), ('It seems that a man committed a senseless act of murder', None, None, None, 0), ('by pouring flammable liquid on an innocent bus driver', None, None, None, 0), ('and setting him afire .', None, None, None, 1), ('There is never an acceptable excuse for such an act .', None, None, None, 1), ('I can only guess', None, None, None, 0), ('that racism is the motivation for the act', None, None, None, 0), ('as the victim was a member of the Indian community .', None, None, None, 1)]

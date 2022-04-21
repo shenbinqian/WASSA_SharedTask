@@ -1,0 +1,29 @@
+=====================> [[('I just read an article about U.S. soldiers', None, None, None, 0), ('being killed in Jordan .', None, None, None, 1), ('This is tearing my heart out', None, None, None, 0), ("and I ca n't get the images", None, None, None, 0), ('of what must have happened out of my mind .', None, None, None, 1), ('You know', None, None, None, 0), ('that I was in the military myself', None, None, None, 0), ("and it makes it that much harder on me . I ca n't begin to imagine how the families of these soldiers must feel . From what I read , apparently this was an accident and the soldiers were shot", None, None, None, 0), ("when they failed to stop at the checkpoint going into the base . The base was already on alert due to a previous car bomb attack . I 'm guessing", None, None, None, 0), ('that they felt', None, None, None, 0), ("they could n't take any chances on it", None, None, None, 0), ('being another car bomber', None, None, None, 0), ("and went ahead and shot at the vehicle . It 's so sad . It 's bad enough that these brave men have to face dangers from the enemy ,", None, None, None, 0), ('but when they get taken down by friendly fire ?', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about U.S. soldiers
+Leaf:  S span being killed in Jordan .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint This is tearing my heart out
+Leaf:  N Elaborate and I ca n't get the images
+Leaf:  S span of what must have happened out of my mind .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span You know
+Leaf:  N Attribution that I was in the military myself
+Inner:  N Cause None Attribution SN
+Leaf:  N Background and it makes it that much harder on me . I ca n't begin to imagine how the families of these soldiers must feel . From what I read , apparently this was an accident and the soldiers were shot
+Leaf:  S span when they failed to stop at the checkpoint going into the base . The base was already on alert due to a previous car bomb attack . I 'm guessing
+Inner:  S span None Background NS
+Leaf:  S span that they felt
+Leaf:  N Manner-Means they could n't take any chances on it
+Leaf:  S span being another car bomber
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Joint and went ahead and shot at the vehicle . It 's so sad . It 's bad enough that these brave men have to face dangers from the enemy ,
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast but when they get taken down by friendly fire ?
+Inner:  N Attribution None Contrast NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Cause NS
+[('I just read an article about U.S. soldiers', None, None, None, 0), ('being killed in Jordan .', None, None, None, 1), ('This is tearing my heart out', None, None, None, 0), ("and I ca n't get the images", None, None, None, 0), ('of what must have happened out of my mind .', None, None, None, 1), ('You know', None, None, None, 0), ('that I was in the military myself', None, None, None, 0), ("and it makes it that much harder on me . I ca n't begin to imagine how the families of these soldiers must feel . From what I read , apparently this was an accident and the soldiers were shot", None, None, None, 0), ("when they failed to stop at the checkpoint going into the base . The base was already on alert due to a previous car bomb attack . I 'm guessing", None, None, None, 0), ('that they felt', None, None, None, 0), ("they could n't take any chances on it", None, None, None, 0), ('being another car bomber', None, None, None, 0), ("and went ahead and shot at the vehicle . It 's so sad . It 's bad enough that these brave men have to face dangers from the enemy ,", None, None, None, 0), ('but when they get taken down by friendly fire ?', None, None, None, 1)]

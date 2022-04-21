@@ -1,0 +1,19 @@
+=====================> [[('it is too bad', None, None, None, 0), ('that so many people still deny', None, None, None, 0), ('that polution', None, None, None, 0), ('and man made climate change is destroying our natural world .', None, None, None, 1), ('it makes me wonder', None, None, None, 0), ('what will be left for my grandchildren', None, None, None, 0), ('to enjoy of our natural world .', None, None, None, 1), ('in my life i have noticed the degredation of the ourdoors to a fair extent', None, None, None, 0), ('and it is only accelerating . woe to mankind .', None, None, None, 1)]]
+Leaf:  S span it is too bad
+Leaf:  S span that so many people still deny
+Leaf:  N Joint that polution
+Leaf:  N Joint and man made climate change is destroying our natural world .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span it makes me wonder
+Leaf:  N Enablement what will be left for my grandchildren
+Leaf:  S span to enjoy of our natural world .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause in my life i have noticed the degredation of the ourdoors to a fair extent
+Leaf:  S span and it is only accelerating . woe to mankind .
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('it is too bad', None, None, None, 0), ('that so many people still deny', None, None, None, 0), ('that polution', None, None, None, 0), ('and man made climate change is destroying our natural world .', None, None, None, 1), ('it makes me wonder', None, None, None, 0), ('what will be left for my grandchildren', None, None, None, 0), ('to enjoy of our natural world .', None, None, None, 1), ('in my life i have noticed the degredation of the ourdoors to a fair extent', None, None, None, 0), ('and it is only accelerating . woe to mankind .', None, None, None, 1)]

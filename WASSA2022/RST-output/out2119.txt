@@ -1,0 +1,25 @@
+=====================> [[('This article makes me feel almost nothing .', None, None, None, 1), ("It 's just numbers and a city , basically .", None, None, None, 1), ('It might as well be fictional .', None, None, None, 1), ("I do n't know these people ;", None, None, None, 0), ("they do n't really exist except as creations of my own imagination .", None, None, None, 1), ('To pretend', None, None, None, 0), ('that I actually care about these people is foolish . Again ,', None, None, None, 0), ("they do n't really exist .", None, None, None, 1), ('They might as well be microbes on a planet a trillion light years away .', None, None, None, 1), ("I ca n't bring myself to pretend", None, None, None, 0), ('I feel something for numbers in a far away land .', None, None, None, 1), ("They do n't even have names or faces .", None, None, None, 1)]]
+Leaf:  N Elaborate This article makes me feel almost nothing .
+Leaf:  N Summary It 's just numbers and a city , basically .
+Leaf:  N Elaborate It might as well be fictional .
+Leaf:  N Summary I do n't know these people ;
+Leaf:  S span they do n't really exist except as creations of my own imagination .
+Inner:  S span None Summary NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span To pretend
+Leaf:  N Attribution that I actually care about these people is foolish . Again ,
+Inner:  S span None Attribution SN
+Leaf:  N Evaluation they do n't really exist .
+Inner:  N Joint None Evaluation SN
+Leaf:  N Joint They might as well be microbes on a planet a trillion light years away .
+Inner:  N Joint None Joint NN
+Leaf:  S span I ca n't bring myself to pretend
+Leaf:  N Attribution I feel something for numbers in a far away land .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They do n't even have names or faces .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This article makes me feel almost nothing .', None, None, None, 1), ("It 's just numbers and a city , basically .", None, None, None, 1), ('It might as well be fictional .', None, None, None, 1), ("I do n't know these people ;", None, None, None, 0), ("they do n't really exist except as creations of my own imagination .", None, None, None, 1), ('To pretend', None, None, None, 0), ('that I actually care about these people is foolish . Again ,', None, None, None, 0), ("they do n't really exist .", None, None, None, 1), ('They might as well be microbes on a planet a trillion light years away .', None, None, None, 1), ("I ca n't bring myself to pretend", None, None, None, 0), ('I feel something for numbers in a far away land .', None, None, None, 1), ("They do n't even have names or faces .", None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('I just read this article', None, None, None, 0), ('about how Canada actually had school', None, None, None, 0), ('where they would force indigenous people of their land', None, None, None, 0), ('to go .', None, None, None, 1), ('They tried to erase their history , and their language .', None, None, None, 1), ('I always thought', None, None, None, 0), ('canada was such a peaceful country .', None, None, None, 1), ('These people were even experimented on ,', None, None, None, 0), ('and the school was still in operation up until 1996 ! , That is astonishing . I thought , we , americans , were the only ones', None, None, None, 0), ('who forced the indigenous people away , or tried to kill their culture .', None, None, None, 1), ('This just shows you', None, None, None, 0), ('that people are pretty much the same ,', None, None, None, 0), ('and pretty much were savages , until recently . Even now though , we still have a long way', None, None, None, 0), ('to go ,', None, None, None, 0), ('until we reach a place', None, None, None, 0), ('where everyones culture and differences are celebrated ,', None, None, None, 0), ('and not shamed ,', None, None, None, 0), ('and destroyed', None, None, None, 0)]]
+Leaf:  N Elaborate I just read this article
+Leaf:  N Elaborate about how Canada actually had school
+Leaf:  N Enablement where they would force indigenous people of their land
+Leaf:  S span to go .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They tried to erase their history , and their language .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I always thought
+Leaf:  N Attribution canada was such a peaceful country .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal These people were even experimented on ,
+Leaf:  N Elaborate and the school was still in operation up until 1996 ! , That is astonishing . I thought , we , americans , were the only ones
+Leaf:  S span who forced the indigenous people away , or tried to kill their culture .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span This just shows you
+Leaf:  N Attribution that people are pretty much the same ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and pretty much were savages , until recently . Even now though , we still have a long way
+Leaf:  S span to go ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Elaborate until we reach a place
+Leaf:  N Joint where everyones culture and differences are celebrated ,
+Leaf:  N Joint and not shamed ,
+Leaf:  N Joint and destroyed
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I just read this article', None, None, None, 0), ('about how Canada actually had school', None, None, None, 0), ('where they would force indigenous people of their land', None, None, None, 0), ('to go .', None, None, None, 1), ('They tried to erase their history , and their language .', None, None, None, 1), ('I always thought', None, None, None, 0), ('canada was such a peaceful country .', None, None, None, 1), ('These people were even experimented on ,', None, None, None, 0), ('and the school was still in operation up until 1996 ! , That is astonishing . I thought , we , americans , were the only ones', None, None, None, 0), ('who forced the indigenous people away , or tried to kill their culture .', None, None, None, 1), ('This just shows you', None, None, None, 0), ('that people are pretty much the same ,', None, None, None, 0), ('and pretty much were savages , until recently . Even now though , we still have a long way', None, None, None, 0), ('to go ,', None, None, None, 0), ('until we reach a place', None, None, None, 0), ('where everyones culture and differences are celebrated ,', None, None, None, 0), ('and not shamed ,', None, None, None, 0), ('and destroyed', None, None, None, 0)]

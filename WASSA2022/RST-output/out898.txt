@@ -1,0 +1,21 @@
+=====================> [[('How terrible it would be to live your life', None, None, None, 0), ('knowing', None, None, None, 0), ('you murdered someone .', None, None, None, 1), ('It would be interesting to speak to somebody ,', None, None, None, 0), ('who was maybe sixty or seventy ,', None, None, None, 0), ('and had murdered someone as a young person ,', None, None, None, 0), ('what they would have to say about it ,', None, None, None, 0), ('how they feel about it', None, None, None, 0), ("and what they 've learned ,", None, None, None, 0), ('having killed someone , about themselves and society .', None, None, None, 1)]]
+Leaf:  N Manner-Means How terrible it would be to live your life
+Leaf:  S span knowing
+Leaf:  N Attribution you murdered someone .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Elaborate It would be interesting to speak to somebody ,
+Leaf:  N Joint who was maybe sixty or seventy ,
+Leaf:  N Joint and had murdered someone as a young person ,
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Joint what they would have to say about it ,
+Leaf:  N Joint how they feel about it
+Leaf:  N Elaborate and what they 've learned ,
+Leaf:  S span having killed someone , about themselves and society .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('How terrible it would be to live your life', None, None, None, 0), ('knowing', None, None, None, 0), ('you murdered someone .', None, None, None, 1), ('It would be interesting to speak to somebody ,', None, None, None, 0), ('who was maybe sixty or seventy ,', None, None, None, 0), ('and had murdered someone as a young person ,', None, None, None, 0), ('what they would have to say about it ,', None, None, None, 0), ('how they feel about it', None, None, None, 0), ("and what they 've learned ,", None, None, None, 0), ('having killed someone , about themselves and society .', None, None, None, 1)]

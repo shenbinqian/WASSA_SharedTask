@@ -1,0 +1,41 @@
+=====================> [[('This article about post-traumatic stress disorder is disturbing on many levels .', None, None, None, 1), ("This country really does n't take care of our veterans .", None, None, None, 1), ('Not to mention the fact', None, None, None, 0), ('that Vietnam and Iraq were unnecessary wars in the first place .', None, None, None, 1), ('I worry', None, None, None, 0), ("we 're headed for another war ,", None, None, None, 0), ('and with the VA in the state', None, None, None, 0), ("that it 's in ,", None, None, None, 0), ("how can they possibly care for more war veterans ? They ca n't meet the needs of the ones", None, None, None, 0), ('who already need help .', None, None, None, 1), ("It 's heartbreaking to imagine these soldiers re-experiencing the war over and over again .", None, None, None, 1), ('However , I am glad to hear', None, None, None, 0), ('that there is help for people', None, None, None, 0), ('who have PTSD .', None, None, None, 1), ('I remember', None, None, None, 0), ('when we were kids', None, None, None, 0), ('and first hearing about PTSD in Vietnam vets , it was thought that no one ever recovered from it .', None, None, None, 1), ('Healing is possible ,', None, None, None, 0), ('but the vets have to find the right people', None, None, None, 0), ('to help them .', None, None, None, 1)]]
+Leaf:  N Explanation This article about post-traumatic stress disorder is disturbing on many levels .
+Leaf:  N Joint This country really does n't take care of our veterans .
+Leaf:  N Elaborate Not to mention the fact
+Leaf:  S span that Vietnam and Iraq were unnecessary wars in the first place .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I worry
+Leaf:  N Attribution we 're headed for another war ,
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Elaborate and with the VA in the state
+Leaf:  S span that it 's in ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate how can they possibly care for more war veterans ? They ca n't meet the needs of the ones
+Leaf:  S span who already need help .
+Inner:  N Explanation None Elaborate NS
+Inner:  N Same-Unit None Explanation SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It 's heartbreaking to imagine these soldiers re-experiencing the war over and over again .
+Inner:  N Contrast None Evaluation NS
+Leaf:  S span However , I am glad to hear
+Leaf:  N Elaborate that there is help for people
+Leaf:  S span who have PTSD .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Explanation NS
+Leaf:  N Same-Unit I remember
+Leaf:  N Same-Unit when we were kids
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit and first hearing about PTSD in Vietnam vets , it was thought that no one ever recovered from it .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Healing is possible ,
+Leaf:  N Elaborate but the vets have to find the right people
+Leaf:  S span to help them .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This article about post-traumatic stress disorder is disturbing on many levels .', None, None, None, 1), ("This country really does n't take care of our veterans .", None, None, None, 1), ('Not to mention the fact', None, None, None, 0), ('that Vietnam and Iraq were unnecessary wars in the first place .', None, None, None, 1), ('I worry', None, None, None, 0), ("we 're headed for another war ,", None, None, None, 0), ('and with the VA in the state', None, None, None, 0), ("that it 's in ,", None, None, None, 0), ("how can they possibly care for more war veterans ? They ca n't meet the needs of the ones", None, None, None, 0), ('who already need help .', None, None, None, 1), ("It 's heartbreaking to imagine these soldiers re-experiencing the war over and over again .", None, None, None, 1), ('However , I am glad to hear', None, None, None, 0), ('that there is help for people', None, None, None, 0), ('who have PTSD .', None, None, None, 1), ('I remember', None, None, None, 0), ('when we were kids', None, None, None, 0), ('and first hearing about PTSD in Vietnam vets , it was thought that no one ever recovered from it .', None, None, None, 1), ('Healing is possible ,', None, None, None, 0), ('but the vets have to find the right people', None, None, None, 0), ('to help them .', None, None, None, 1)]

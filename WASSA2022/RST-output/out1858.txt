@@ -1,0 +1,25 @@
+=====================> [[('This is just disgusting .', None, None, None, 1), ('I can not believe', None, None, None, 0), ('that this is happening to people .', None, None, None, 1), ('Why are people afraid', None, None, None, 0), ('to go to the doctor ?', None, None, None, 1), ('there is no reason for this .', None, None, None, 1), ('I am numb to all this madness', None, None, None, 0), ('and I can not believe', None, None, None, 0), ("I am writing about a man 's penis right now .", None, None, None, 1), ('I can not find any excuse for this', None, None, None, 0), ('and people need to be educated about the healthcare system', None, None, None, 0), ('so they are not so afraid of it .', None, None, None, 1)]]
+Leaf:  N Elaborate This is just disgusting .
+Leaf:  S span I can not believe
+Leaf:  N Attribution that this is happening to people .
+Inner:  S span None Attribution SN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate Why are people afraid
+Leaf:  S span to go to the doctor ?
+Inner:  N Summary None Elaborate NS
+Leaf:  S span there is no reason for this .
+Inner:  S span None Summary NS
+Inner:  N Summary None Summary NS
+Leaf:  N Joint I am numb to all this madness
+Leaf:  S span and I can not believe
+Leaf:  N Attribution I am writing about a man 's penis right now .
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint I can not find any excuse for this
+Leaf:  S span and people need to be educated about the healthcare system
+Leaf:  N Condition so they are not so afraid of it .
+Inner:  N Joint None Condition SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('This is just disgusting .', None, None, None, 1), ('I can not believe', None, None, None, 0), ('that this is happening to people .', None, None, None, 1), ('Why are people afraid', None, None, None, 0), ('to go to the doctor ?', None, None, None, 1), ('there is no reason for this .', None, None, None, 1), ('I am numb to all this madness', None, None, None, 0), ('and I can not believe', None, None, None, 0), ("I am writing about a man 's penis right now .", None, None, None, 1), ('I can not find any excuse for this', None, None, None, 0), ('and people need to be educated about the healthcare system', None, None, None, 0), ('so they are not so afraid of it .', None, None, None, 1)]

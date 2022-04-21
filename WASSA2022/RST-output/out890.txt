@@ -1,0 +1,37 @@
+=====================> [[('People in America are going to have it worse', None, None, None, 0), ('despite all the federal “ inequality spending ”', None, None, None, 0), ('done during the Obama administration .', None, None, None, 1), ('The article says', None, None, None, 0), ('that Trump and the congress are going to undo what Obama started .', None, None, None, 1), ('The article says', None, None, None, 0), ('that they are also trying to undo Obama care', None, None, None, 0), ('and that ’s part of it .', None, None, None, 1), ('I know Obamacare made me poorer by about $ 600 a month', None, None, None, 0), ('and I ’m not rich !', None, None, None, 1), ('It goes on about SS and how evil tax cuts are .', None, None, None, 1), ('I do n’t know what to think about this', None, None, None, 0), ('since the news these days are often fiction .', None, None, None, 1), ('It seems to contradict itself', None, None, None, 0), ('by saying', None, None, None, 0), ('unemployment rates have dropped .', None, None, None, 1), ('With more people working is n’t there more tax revenue ?', None, None, None, 1), ('Confused but I feel for the poor ...', None, None, None, 1)]]
+Leaf:  N Contrast People in America are going to have it worse
+Leaf:  N Elaborate despite all the federal “ inequality spending ”
+Leaf:  S span done during the Obama administration .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span The article says
+Leaf:  N Attribution that Trump and the congress are going to undo what Obama started .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The article says
+Leaf:  N Attribution that they are also trying to undo Obama care
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and that ’s part of it .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I know Obamacare made me poorer by about $ 600 a month
+Leaf:  N Joint and I ’m not rich !
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It goes on about SS and how evil tax cuts are .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I do n’t know what to think about this
+Leaf:  S span since the news these days are often fiction .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Manner-Means It seems to contradict itself
+Leaf:  S span by saying
+Leaf:  N Attribution unemployment rates have dropped .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span With more people working is n’t there more tax revenue ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Confused but I feel for the poor ...
+Inner:  Root None None Evaluation NS
+[('People in America are going to have it worse', None, None, None, 0), ('despite all the federal “ inequality spending ”', None, None, None, 0), ('done during the Obama administration .', None, None, None, 1), ('The article says', None, None, None, 0), ('that Trump and the congress are going to undo what Obama started .', None, None, None, 1), ('The article says', None, None, None, 0), ('that they are also trying to undo Obama care', None, None, None, 0), ('and that ’s part of it .', None, None, None, 1), ('I know Obamacare made me poorer by about $ 600 a month', None, None, None, 0), ('and I ’m not rich !', None, None, None, 1), ('It goes on about SS and how evil tax cuts are .', None, None, None, 1), ('I do n’t know what to think about this', None, None, None, 0), ('since the news these days are often fiction .', None, None, None, 1), ('It seems to contradict itself', None, None, None, 0), ('by saying', None, None, None, 0), ('unemployment rates have dropped .', None, None, None, 1), ('With more people working is n’t there more tax revenue ?', None, None, None, 1), ('Confused but I feel for the poor ...', None, None, None, 1)]

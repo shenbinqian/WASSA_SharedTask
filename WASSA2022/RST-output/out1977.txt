@@ -1,0 +1,19 @@
+=====================> [[('I just read', None, None, None, 0), ('that a chain of for profit schools got shut down .', None, None, None, 1), ('Good riddance honestly .', None, None, None, 1), ("Things like education , prisons , healthcare , etc. should n't be for profit .", None, None, None, 1), ('They were probably taking advantage of young people ,', None, None, None, 0), ('so they deserve to be shut down .', None, None, None, 1), ('They were using public funds on top of that .', None, None, None, 1), ('Like why should the school receive tax payer money', None, None, None, 0), ("if they 're profiting ?", None, None, None, 1)]]
+Leaf:  S span I just read
+Leaf:  N Attribution that a chain of for profit schools got shut down .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation Good riddance honestly .
+Leaf:  N Evaluation Things like education , prisons , healthcare , etc. should n't be for profit .
+Leaf:  N Cause They were probably taking advantage of young people ,
+Leaf:  S span so they deserve to be shut down .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Evaluation They were using public funds on top of that .
+Leaf:  N Background Like why should the school receive tax payer money
+Leaf:  S span if they 're profiting ?
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I just read', None, None, None, 0), ('that a chain of for profit schools got shut down .', None, None, None, 1), ('Good riddance honestly .', None, None, None, 1), ("Things like education , prisons , healthcare , etc. should n't be for profit .", None, None, None, 1), ('They were probably taking advantage of young people ,', None, None, None, 0), ('so they deserve to be shut down .', None, None, None, 1), ('They were using public funds on top of that .', None, None, None, 1), ('Like why should the school receive tax payer money', None, None, None, 0), ("if they 're profiting ?", None, None, None, 1)]

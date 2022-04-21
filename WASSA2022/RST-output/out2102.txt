@@ -1,0 +1,19 @@
+=====================> [[('It looks like some rappers are fighting over', None, None, None, 0), ('who got credit to some song', None, None, None, 0), ('that was written .', None, None, None, 1), ('It seems like some simple petty argument', None, None, None, 0), ('that needs to be decided in court .', None, None, None, 1), ('That being said ,', None, None, None, 0), ('a million dollars is a lot of money .', None, None, None, 1), ('If someone is cheated out of this money ,', None, None, None, 0), ('they deserve to get it back in my opnion .', None, None, None, 1)]]
+Leaf:  N Elaborate It looks like some rappers are fighting over
+Leaf:  N Elaborate who got credit to some song
+Leaf:  S span that was written .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It seems like some simple petty argument
+Leaf:  S span that needs to be decided in court .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span That being said ,
+Leaf:  N Elaborate a million dollars is a lot of money .
+Inner:  N Elaborate None Elaborate SN
+Leaf:  S span If someone is cheated out of this money ,
+Leaf:  N Condition they deserve to get it back in my opnion .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('It looks like some rappers are fighting over', None, None, None, 0), ('who got credit to some song', None, None, None, 0), ('that was written .', None, None, None, 1), ('It seems like some simple petty argument', None, None, None, 0), ('that needs to be decided in court .', None, None, None, 1), ('That being said ,', None, None, None, 0), ('a million dollars is a lot of money .', None, None, None, 1), ('If someone is cheated out of this money ,', None, None, None, 0), ('they deserve to get it back in my opnion .', None, None, None, 1)]

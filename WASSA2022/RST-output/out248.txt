@@ -1,0 +1,21 @@
+=====================> [[('I know', None, None, None, 0), ('people tend to get really angry at law enforcement', None, None, None, 0), ("when a shooting or bombing does n't get prevented ,", None, None, None, 0), ('but I feel like it is way too complicated of an issue .', None, None, None, 1), ('I just read and article about it ,', None, None, None, 0), ('and for law enforcement to keep enough information', None, None, None, 0), ('and follow enough leads', None, None, None, 0), ('to prevent every attack ,', None, None, None, 0), ('we would need to sacrifice a lot of our civil liberties .', None, None, None, 1), ('It is just not worth it .', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Background people tend to get really angry at law enforcement
+Leaf:  S span when a shooting or bombing does n't get prevented ,
+Inner:  N Attribution None Background NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I feel like it is way too complicated of an issue .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Same-Unit I just read and article about it ,
+Leaf:  N Joint and for law enforcement to keep enough information
+Leaf:  N Enablement and follow enough leads
+Leaf:  S span to prevent every attack ,
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Leaf:  N Cause we would need to sacrifice a lot of our civil liberties .
+Inner:  N Same-Unit None Cause SN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is just not worth it .
+Inner:  Root None None Evaluation NS
+[('I know', None, None, None, 0), ('people tend to get really angry at law enforcement', None, None, None, 0), ("when a shooting or bombing does n't get prevented ,", None, None, None, 0), ('but I feel like it is way too complicated of an issue .', None, None, None, 1), ('I just read and article about it ,', None, None, None, 0), ('and for law enforcement to keep enough information', None, None, None, 0), ('and follow enough leads', None, None, None, 0), ('to prevent every attack ,', None, None, None, 0), ('we would need to sacrifice a lot of our civil liberties .', None, None, None, 1), ('It is just not worth it .', None, None, None, 1)]

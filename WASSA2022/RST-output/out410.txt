@@ -1,0 +1,25 @@
+=====================> [[('So I think', None, None, None, 0), ('I just read the most interesting article to date ever published .', None, None, None, 1), ('A girl ran into a police officer with her car ,', None, None, None, 0), ('while taking a nude topless selfie', None, None, None, 0), ('to send to her boyfriend .', None, None, None, 1), ('Feel a little bad for her ,', None, None, None, 0), ('even though she should not be doing this , especially with a glass of wine in her cup holder haha .', None, None, None, 1), ('Guessing she was drunk ,', None, None, None, 0), ('which is the main crime here .', None, None, None, 1), ('She had a bond of 2000 dollars', None, None, None, 0), ('I believe .', None, None, None, 1), ('I kind of want her to be freed haha .', None, None, None, 1)]]
+Leaf:  S span So I think
+Leaf:  N Attribution I just read the most interesting article to date ever published .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal A girl ran into a police officer with her car ,
+Leaf:  N Elaborate while taking a nude topless selfie
+Leaf:  S span to send to her boyfriend .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Contrast Feel a little bad for her ,
+Leaf:  S span even though she should not be doing this , especially with a glass of wine in her cup holder haha .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Evaluation Guessing she was drunk ,
+Leaf:  S span which is the main crime here .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Attribution She had a bond of 2000 dollars
+Leaf:  S span I believe .
+Inner:  N Evaluation None Attribution NS
+Leaf:  S span I kind of want her to be freed haha .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So I think', None, None, None, 0), ('I just read the most interesting article to date ever published .', None, None, None, 1), ('A girl ran into a police officer with her car ,', None, None, None, 0), ('while taking a nude topless selfie', None, None, None, 0), ('to send to her boyfriend .', None, None, None, 1), ('Feel a little bad for her ,', None, None, None, 0), ('even though she should not be doing this , especially with a glass of wine in her cup holder haha .', None, None, None, 1), ('Guessing she was drunk ,', None, None, None, 0), ('which is the main crime here .', None, None, None, 1), ('She had a bond of 2000 dollars', None, None, None, 0), ('I believe .', None, None, None, 1), ('I kind of want her to be freed haha .', None, None, None, 1)]

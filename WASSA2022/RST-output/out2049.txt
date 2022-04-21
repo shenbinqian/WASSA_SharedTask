@@ -1,0 +1,33 @@
+=====================> [[('I read an article about all of these protests', None, None, None, 0), ('that have been happening .', None, None, None, 1), ('A guy in Portland', None, None, None, 0), ('who was Protesting Trump', None, None, None, 0), ('was shot', None, None, None, 0), ('but he is going to be okay . Of course the cops are acting like the protesters are the problem .', None, None, None, 1), ('These protests are going on all over the country', None, None, None, 0), ('and it is pretty moving to see all of these people stand up', None, None, None, 0), ('for what they believe in .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('this orange bufoon was elected to be our President .', None, None, None, 1), ('What were people thinking', None, None, None, 0), ('when they voted for him ?', None, None, None, 1), ('Did they believe', None, None, None, 0), ('he was going to unite the country', None, None, None, 0), ('and be some great leader ?', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about all of these protests
+Leaf:  S span that have been happening .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate A guy in Portland
+Leaf:  S span who was Protesting Trump
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was shot
+Inner:  S span None Same-Unit NN
+Leaf:  N Contrast but he is going to be okay . Of course the cops are acting like the protesters are the problem .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint These protests are going on all over the country
+Leaf:  N Elaborate and it is pretty moving to see all of these people stand up
+Leaf:  S span for what they believe in .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution this orange bufoon was elected to be our President .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background What were people thinking
+Leaf:  S span when they voted for him ?
+Inner:  N Joint None Background NS
+Leaf:  S span Did they believe
+Leaf:  N Joint he was going to unite the country
+Leaf:  N Joint and be some great leader ?
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I read an article about all of these protests', None, None, None, 0), ('that have been happening .', None, None, None, 1), ('A guy in Portland', None, None, None, 0), ('who was Protesting Trump', None, None, None, 0), ('was shot', None, None, None, 0), ('but he is going to be okay . Of course the cops are acting like the protesters are the problem .', None, None, None, 1), ('These protests are going on all over the country', None, None, None, 0), ('and it is pretty moving to see all of these people stand up', None, None, None, 0), ('for what they believe in .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('this orange bufoon was elected to be our President .', None, None, None, 1), ('What were people thinking', None, None, None, 0), ('when they voted for him ?', None, None, None, 1), ('Did they believe', None, None, None, 0), ('he was going to unite the country', None, None, None, 0), ('and be some great leader ?', None, None, None, 1)]

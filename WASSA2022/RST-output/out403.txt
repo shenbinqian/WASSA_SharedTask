@@ -1,0 +1,23 @@
+=====================> [[('I feel', None, None, None, 0), ('like a similar scenario happens at least once a year in Hollywood .', None, None, None, 1), ('When I hear about stories', None, None, None, 0), ('that happen in Hollywood ,', None, None, None, 0), ('the lifestyles are so different than mine', None, None, None, 0), ("that it 's almost like it 's not real ,", None, None, None, 0), ("like it 's a movie .", None, None, None, 1), ('People in Hollywood always have something', None, None, None, 0), ('to complain about', None, None, None, 0), ("so it 's hard to feel sympathy for them ,", None, None, None, 0), ('even when something like this happens .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like a similar scenario happens at least once a year in Hollywood .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate When I hear about stories
+Leaf:  S span that happen in Hollywood ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Cause the lifestyles are so different than mine
+Leaf:  N Summary that it 's almost like it 's not real ,
+Leaf:  S span like it 's a movie .
+Inner:  S span None Summary NS
+Inner:  N Same-Unit None Cause NS
+Inner:  N Summary None Same-Unit NN
+Leaf:  N Elaborate People in Hollywood always have something
+Leaf:  S span to complain about
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause so it 's hard to feel sympathy for them ,
+Inner:  N Contrast None Cause NN
+Leaf:  S span even when something like this happens .
+Inner:  S span None Contrast NS
+Inner:  S span None Summary NS
+Inner:  Root None None Explanation NS
+[('I feel', None, None, None, 0), ('like a similar scenario happens at least once a year in Hollywood .', None, None, None, 1), ('When I hear about stories', None, None, None, 0), ('that happen in Hollywood ,', None, None, None, 0), ('the lifestyles are so different than mine', None, None, None, 0), ("that it 's almost like it 's not real ,", None, None, None, 0), ("like it 's a movie .", None, None, None, 1), ('People in Hollywood always have something', None, None, None, 0), ('to complain about', None, None, None, 0), ("so it 's hard to feel sympathy for them ,", None, None, None, 0), ('even when something like this happens .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('issues like basic income , universal healthcare , and right to assisted dying are way more important .', None, None, None, 1), ('My interest', None, None, None, 0), ('in being fit or healthy', None, None, None, 0), ('is the reduction of painful symptoms .', None, None, None, 1), ('When I eat sugar , carbs , and enriched flour foods ,', None, None, None, 0), ('my legs hurt ,', None, None, None, 0), ('my back hurts ,', None, None, None, 0), ('my stomach digestion goes very bad ,', None, None, None, 0), ('and I get heartburn .', None, None, None, 1), ("For me , it 's not so much about being fat or not , it 's about reducing pain .", None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution issues like basic income , universal healthcare , and right to assisted dying are way more important .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate My interest
+Leaf:  S span in being fit or healthy
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is the reduction of painful symptoms .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span When I eat sugar , carbs , and enriched flour foods ,
+Leaf:  N Joint my legs hurt ,
+Leaf:  N Joint my back hurts ,
+Leaf:  N Temporal my stomach digestion goes very bad ,
+Leaf:  N Temporal and I get heartburn .
+Inner:  N Joint None Temporal NN
+Inner:  N Joint None Joint NN
+Inner:  N Cause None Joint NN
+Inner:  S span None Cause SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span For me , it 's not so much about being fat or not , it 's about reducing pain .
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('issues like basic income , universal healthcare , and right to assisted dying are way more important .', None, None, None, 1), ('My interest', None, None, None, 0), ('in being fit or healthy', None, None, None, 0), ('is the reduction of painful symptoms .', None, None, None, 1), ('When I eat sugar , carbs , and enriched flour foods ,', None, None, None, 0), ('my legs hurt ,', None, None, None, 0), ('my back hurts ,', None, None, None, 0), ('my stomach digestion goes very bad ,', None, None, None, 0), ('and I get heartburn .', None, None, None, 1), ("For me , it 's not so much about being fat or not , it 's about reducing pain .", None, None, None, 1)]

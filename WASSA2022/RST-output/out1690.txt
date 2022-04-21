@@ -1,0 +1,35 @@
+=====================> [[('Salley Jessy Raphael was on the show', None, None, None, 0), ('" Where are they now " with Oprah ,', None, None, None, 0), ('she claims', None, None, None, 0), ('she was betrayed by her producers .', None, None, None, 1), ("I remember watching her show in the 80 's and 90 's .", None, None, None, 1), ('It had become a show like Jerry Springer', None, None, None, 0), ('and she claims', None, None, None, 0), ('she wishes', None, None, None, 0), ('she had spoken up about the direction the show was going .', None, None, None, 1), ('She felt like her staff of 250 people thought', None, None, None, 0), ('she knew', None, None, None, 0), ('the show was going to be canceled in 2002', None, None, None, 0), ('but she did not know anything about it . She was a strong personality', None, None, None, 0), ('and I think', None, None, None, 0), ('if she wanted to change the direction of the show', None, None, None, 0), ('she could have .', None, None, None, 1), ('Hindsight is twenty-twenty .', None, None, None, 1)]]
+Leaf:  N Joint Salley Jessy Raphael was on the show
+Leaf:  N Joint " Where are they now " with Oprah ,
+Inner:  N Same-Unit None Joint NN
+Leaf:  S span she claims
+Leaf:  N Attribution she was betrayed by her producers .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Background None Same-Unit NN
+Leaf:  N Elaborate I remember watching her show in the 80 's and 90 's .
+Leaf:  S span It had become a show like Jerry Springer
+Leaf:  S span and she claims
+Leaf:  S span she wishes
+Leaf:  N Attribution she had spoken up about the direction the show was going .
+Inner:  N Attribution None Attribution SN
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span She felt like her staff of 250 people thought
+Leaf:  S span she knew
+Leaf:  N Attribution the show was going to be canceled in 2002
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Joint but she did not know anything about it . She was a strong personality
+Leaf:  N Same-Unit and I think
+Leaf:  S span if she wanted to change the direction of the show
+Leaf:  N Condition she could have .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Background NS
+Leaf:  S span Hindsight is twenty-twenty .
+Inner:  Root None None Evaluation NS
+[('Salley Jessy Raphael was on the show', None, None, None, 0), ('" Where are they now " with Oprah ,', None, None, None, 0), ('she claims', None, None, None, 0), ('she was betrayed by her producers .', None, None, None, 1), ("I remember watching her show in the 80 's and 90 's .", None, None, None, 1), ('It had become a show like Jerry Springer', None, None, None, 0), ('and she claims', None, None, None, 0), ('she wishes', None, None, None, 0), ('she had spoken up about the direction the show was going .', None, None, None, 1), ('She felt like her staff of 250 people thought', None, None, None, 0), ('she knew', None, None, None, 0), ('the show was going to be canceled in 2002', None, None, None, 0), ('but she did not know anything about it . She was a strong personality', None, None, None, 0), ('and I think', None, None, None, 0), ('if she wanted to change the direction of the show', None, None, None, 0), ('she could have .', None, None, None, 1), ('Hindsight is twenty-twenty .', None, None, None, 1)]

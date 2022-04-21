@@ -1,0 +1,27 @@
+=====================> [[('Hey , I just read an article', None, None, None, 0), ('written by a snowflake', None, None, None, 0), ('that is melting under manmade " global warming " .', None, None, None, 1), ('One thing', None, None, None, 0), ('I have never understood', None, None, None, 0), ('is how the communist party took over the environmental movement', None, None, None, 0), ('without a shot .', None, None, None, 1), ("Remember when we found out the founder of ' GreenPeace ' left", None, None, None, 0), ('after discovering the flood of communist and socialist coming into academia', None, None, None, 0), ('and the organization', None, None, None, 0), ('he started ? I wish someone', None, None, None, 0), ('would actually do some research', None, None, None, 0), ('instead of repeating the same old stuff .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I just read an article
+Leaf:  N Elaborate written by a snowflake
+Leaf:  S span that is melting under manmade " global warming " .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Attribution One thing
+Leaf:  S span I have never understood
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Manner-Means is how the communist party took over the environmental movement
+Leaf:  S span without a shot .
+Inner:  N Same-Unit None Manner-Means NS
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Temporal Remember when we found out the founder of ' GreenPeace ' left
+Leaf:  N Same-Unit after discovering the flood of communist and socialist coming into academia
+Leaf:  N Elaborate and the organization
+Leaf:  S span he started ? I wish someone
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would actually do some research
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Contrast instead of repeating the same old stuff .
+Inner:  N Same-Unit None Contrast NN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Temporal NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Hey , I just read an article', None, None, None, 0), ('written by a snowflake', None, None, None, 0), ('that is melting under manmade " global warming " .', None, None, None, 1), ('One thing', None, None, None, 0), ('I have never understood', None, None, None, 0), ('is how the communist party took over the environmental movement', None, None, None, 0), ('without a shot .', None, None, None, 1), ("Remember when we found out the founder of ' GreenPeace ' left", None, None, None, 0), ('after discovering the flood of communist and socialist coming into academia', None, None, None, 0), ('and the organization', None, None, None, 0), ('he started ? I wish someone', None, None, None, 0), ('would actually do some research', None, None, None, 0), ('instead of repeating the same old stuff .', None, None, None, 1)]

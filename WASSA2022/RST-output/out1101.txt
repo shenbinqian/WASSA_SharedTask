@@ -1,0 +1,37 @@
+=====================> [[('Dear C. , I just read an article about gun deaths', None, None, None, 0), ('-- specifically when guns are used against children .', None, None, None, 1), ('Small , isolated cases', None, None, None, 0), ('that happened in small towns .', None, None, None, 1), ("As I was reading the background and history of the families , it occurred to me that there 's a strong socioeconomic component present ,", None, None, None, 0), ("and that the people described were n't what you and I would call middle-class , and definitely not well-educated . It 's like we were talking about the other day , I do n't think", None, None, None, 0), ('that the dems can possibly win this fight', None, None, None, 0), ("unless they are able to appeal to gun owners . I do n't think", None, None, None, 0), ('that this dynamic is going to change', None, None, None, 0), ('-- I mean ,', None, None, None, 0), ('when you think about it ,', None, None, None, 0), ('guns symbolize power ,', None, None, None, 0), ('and in the article', None, None, None, 0), ('I read ,', None, None, None, 0), ('what came across', None, None, None, 0), ('is that the people', None, None, None, 0), ('who used them against children ( one child against another )', None, None, None, 0), ('need to feel power .', None, None, None, 1)]]
+Leaf:  N Background Dear C. , I just read an article about gun deaths
+Leaf:  S span -- specifically when guns are used against children .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate Small , isolated cases
+Leaf:  S span that happened in small towns .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint As I was reading the background and history of the families , it occurred to me that there 's a strong socioeconomic component present ,
+Leaf:  S span and that the people described were n't what you and I would call middle-class , and definitely not well-educated . It 's like we were talking about the other day , I do n't think
+Leaf:  N Condition that the dems can possibly win this fight
+Leaf:  S span unless they are able to appeal to gun owners . I do n't think
+Leaf:  N Attribution that this dynamic is going to change
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Condition NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Same-Unit -- I mean ,
+Leaf:  N Same-Unit when you think about it ,
+Inner:  S span None Same-Unit NN
+Leaf:  N Elaborate guns symbolize power ,
+Inner:  S span None Elaborate SN
+Inner:  N Joint None Explanation NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate and in the article
+Leaf:  S span I read ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit what came across
+Leaf:  N Elaborate is that the people
+Leaf:  S span who used them against children ( one child against another )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit need to feel power .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Dear C. , I just read an article about gun deaths', None, None, None, 0), ('-- specifically when guns are used against children .', None, None, None, 1), ('Small , isolated cases', None, None, None, 0), ('that happened in small towns .', None, None, None, 1), ("As I was reading the background and history of the families , it occurred to me that there 's a strong socioeconomic component present ,", None, None, None, 0), ("and that the people described were n't what you and I would call middle-class , and definitely not well-educated . It 's like we were talking about the other day , I do n't think", None, None, None, 0), ('that the dems can possibly win this fight', None, None, None, 0), ("unless they are able to appeal to gun owners . I do n't think", None, None, None, 0), ('that this dynamic is going to change', None, None, None, 0), ('-- I mean ,', None, None, None, 0), ('when you think about it ,', None, None, None, 0), ('guns symbolize power ,', None, None, None, 0), ('and in the article', None, None, None, 0), ('I read ,', None, None, None, 0), ('what came across', None, None, None, 0), ('is that the people', None, None, None, 0), ('who used them against children ( one child against another )', None, None, None, 0), ('need to feel power .', None, None, None, 1)]

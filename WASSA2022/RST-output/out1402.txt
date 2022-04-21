@@ -1,0 +1,23 @@
+=====================> [[('i think', None, None, None, 0), ('this article represtens us in the fact', None, None, None, 0), ('that all ee see in our fracebook timeline would be posts about the elctions or posts about politcis every where instagram and every single social media', None, None, None, 0), ('that we use', None, None, None, 0), ('is filled with these posts', None, None, None, 0), ('and they are just not necessary for us to look at everyday', None, None, None, 0), ('they flood our timelines', None, None, None, 0), ('and they just influence people', None, None, None, 0), ('to become the worst and very hostile in the comments', None, None, None, 0), ('why do we encourage this talall', None, None, None, 0), ('we do not need to be seeing this every single day', None, None, None, 0)]]
+Leaf:  S span i think
+Leaf:  N Elaborate this article represtens us in the fact
+Leaf:  N Elaborate that all ee see in our fracebook timeline would be posts about the elctions or posts about politcis every where instagram and every single social media
+Leaf:  S span that we use
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is filled with these posts
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span and they are just not necessary for us to look at everyday
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint they flood our timelines
+Leaf:  N Enablement and they just influence people
+Leaf:  S span to become the worst and very hostile in the comments
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Evaluation why do we encourage this talall
+Leaf:  S span we do not need to be seeing this every single day
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Evaluation NS
+Inner:  Root None None Attribution SN
+[('i think', None, None, None, 0), ('this article represtens us in the fact', None, None, None, 0), ('that all ee see in our fracebook timeline would be posts about the elctions or posts about politcis every where instagram and every single social media', None, None, None, 0), ('that we use', None, None, None, 0), ('is filled with these posts', None, None, None, 0), ('and they are just not necessary for us to look at everyday', None, None, None, 0), ('they flood our timelines', None, None, None, 0), ('and they just influence people', None, None, None, 0), ('to become the worst and very hostile in the comments', None, None, None, 0), ('why do we encourage this talall', None, None, None, 0), ('we do not need to be seeing this every single day', None, None, None, 0)]

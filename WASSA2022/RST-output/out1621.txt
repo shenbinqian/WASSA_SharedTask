@@ -1,0 +1,43 @@
+=====================> [[('I just read the article on the oil spill .', None, None, None, 1), ('Even though I do agree with oil digging ,', None, None, None, 0), ('when things go wrong ,', None, None, None, 0), ('it does have severe consequences .', None, None, None, 1), ('I feel mostly bad for the birds and sea life ,', None, None, None, 0), ('which will obviously be affected .', None, None, None, 1), ('You would think with all the money', None, None, None, 0), ('these oil companies profit from ,', None, None, None, 0), ('they would take more safety precautions , in trying to avoid accidents from happening .', None, None, None, 1), ('I know', None, None, None, 0), ('the industry creates a lot of jobs and most often , nothing goes wrong .', None, None, None, 1), ('But', None, None, None, 0), ('when it does ,', None, None, None, 0), ('it can be catastrophic for the wildlife in the area and those that live in the area . Or even those areas', None, None, None, 0), ('that rely on tourism ,', None, None, None, 0), ('if people ca n’t go into the oceans', None, None, None, 0), ('or there is oil', None, None, None, 0), ('spilling onto their beaches .', None, None, None, 1), ('Not sure what the answer is ,', None, None, None, 0), ('or if there even is an answer to it .', None, None, None, 1), ('It just makes me sad to see those beautiful birds', None, None, None, 0)]]
+Leaf:  N Elaborate I just read the article on the oil spill .
+Leaf:  S span Even though I do agree with oil digging ,
+Leaf:  S span when things go wrong ,
+Leaf:  N Contrast it does have severe consequences .
+Inner:  N Contrast None Contrast SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate I feel mostly bad for the birds and sea life ,
+Leaf:  S span which will obviously be affected .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate You would think with all the money
+Leaf:  S span these oil companies profit from ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit they would take more safety precautions , in trying to avoid accidents from happening .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate I know
+Leaf:  S span the industry creates a lot of jobs and most often , nothing goes wrong .
+Inner:  S span None Elaborate NS
+Leaf:  N Same-Unit But
+Leaf:  S span when it does ,
+Leaf:  N Elaborate it can be catastrophic for the wildlife in the area and those that live in the area . Or even those areas
+Leaf:  S span that rely on tourism ,
+Inner:  N Background None Elaborate NS
+Inner:  N Same-Unit None Background SN
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Joint if people ca n’t go into the oceans
+Leaf:  N Elaborate or there is oil
+Leaf:  S span spilling onto their beaches .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint Not sure what the answer is ,
+Leaf:  N Joint or if there even is an answer to it .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It just makes me sad to see those beautiful birds
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I just read the article on the oil spill .', None, None, None, 1), ('Even though I do agree with oil digging ,', None, None, None, 0), ('when things go wrong ,', None, None, None, 0), ('it does have severe consequences .', None, None, None, 1), ('I feel mostly bad for the birds and sea life ,', None, None, None, 0), ('which will obviously be affected .', None, None, None, 1), ('You would think with all the money', None, None, None, 0), ('these oil companies profit from ,', None, None, None, 0), ('they would take more safety precautions , in trying to avoid accidents from happening .', None, None, None, 1), ('I know', None, None, None, 0), ('the industry creates a lot of jobs and most often , nothing goes wrong .', None, None, None, 1), ('But', None, None, None, 0), ('when it does ,', None, None, None, 0), ('it can be catastrophic for the wildlife in the area and those that live in the area . Or even those areas', None, None, None, 0), ('that rely on tourism ,', None, None, None, 0), ('if people ca n’t go into the oceans', None, None, None, 0), ('or there is oil', None, None, None, 0), ('spilling onto their beaches .', None, None, None, 1), ('Not sure what the answer is ,', None, None, None, 0), ('or if there even is an answer to it .', None, None, None, 1), ('It just makes me sad to see those beautiful birds', None, None, None, 0)]

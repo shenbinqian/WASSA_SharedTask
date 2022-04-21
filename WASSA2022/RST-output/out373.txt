@@ -1,0 +1,23 @@
+=====================> [[('It is unreal that so many issues can come out of a natural disaster like this .', None, None, None, 1), ('YOu would think', None, None, None, 0), ('that we could pull together more', None, None, None, 0), ('and help people !', None, None, None, 1), ('I can not imagine what would happen to us', None, None, None, 0), ('if a natural dister happened here ,', None, None, None, 0), ('we would never recover .', None, None, None, 1), ('This is soo scary .', None, None, None, 1), ('I am thankful for all of the people', None, None, None, 0), ('volunteering time', None, None, None, 0), ('to help !', None, None, None, 1)]]
+Leaf:  N Evaluation It is unreal that so many issues can come out of a natural disaster like this .
+Leaf:  S span YOu would think
+Leaf:  N Joint that we could pull together more
+Leaf:  N Joint and help people !
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Condition I can not imagine what would happen to us
+Leaf:  S span if a natural dister happened here ,
+Inner:  N Cause None Condition NS
+Leaf:  N Cause we would never recover .
+Inner:  N Joint None Cause NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation This is soo scary .
+Leaf:  N Elaborate I am thankful for all of the people
+Leaf:  N Enablement volunteering time
+Leaf:  S span to help !
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It is unreal that so many issues can come out of a natural disaster like this .', None, None, None, 1), ('YOu would think', None, None, None, 0), ('that we could pull together more', None, None, None, 0), ('and help people !', None, None, None, 1), ('I can not imagine what would happen to us', None, None, None, 0), ('if a natural dister happened here ,', None, None, None, 0), ('we would never recover .', None, None, None, 1), ('This is soo scary .', None, None, None, 1), ('I am thankful for all of the people', None, None, None, 0), ('volunteering time', None, None, None, 0), ('to help !', None, None, None, 1)]

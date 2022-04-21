@@ -1,0 +1,17 @@
+=====================> [[('Just read another " EPA " article', None, None, None, 0), ('promoting its usual bull shit .', None, None, None, 1), ('This time its the " a la The Simpsons fish with 3 heads "', None, None, None, 0), ('where a scientist is taking a picture of his ONE deformed Salmon', None, None, None, 0), ('he cought', None, None, None, 0), ('and wants the entire world to flip out about his 1 mutated fish .', None, None, None, 1), ('Well , ever seen a 4 leaf clover ?', None, None, None, 1), ('Thats " mutated " as well right ?', None, None, None, 1)]]
+Leaf:  N Elaborate Just read another " EPA " article
+Leaf:  S span promoting its usual bull shit .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This time its the " a la The Simpsons fish with 3 heads "
+Leaf:  N Temporal where a scientist is taking a picture of his ONE deformed Salmon
+Leaf:  N Joint he cought
+Leaf:  N Joint and wants the entire world to flip out about his 1 mutated fish .
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Well , ever seen a 4 leaf clover ?
+Leaf:  S span Thats " mutated " as well right ?
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Just read another " EPA " article', None, None, None, 0), ('promoting its usual bull shit .', None, None, None, 1), ('This time its the " a la The Simpsons fish with 3 heads "', None, None, None, 0), ('where a scientist is taking a picture of his ONE deformed Salmon', None, None, None, 0), ('he cought', None, None, None, 0), ('and wants the entire world to flip out about his 1 mutated fish .', None, None, None, 1), ('Well , ever seen a 4 leaf clover ?', None, None, None, 1), ('Thats " mutated " as well right ?', None, None, None, 1)]

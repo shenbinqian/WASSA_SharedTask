@@ -1,0 +1,23 @@
+=====================> [[('Cricket players in England are likely going to have trouble sleeping after a 4th day of the first Test .', None, None, None, 1), ('Being in their shoes ,', None, None, None, 0), ('playing hard', None, None, None, 0), ('and working together', None, None, None, 0), ('is the key', None, None, None, 0), ('to beating Bangladesh', None, None, None, 0), ('and they need to stay on top of their game in order to win .', None, None, None, 1), ("While it 's physically demanding ,", None, None, None, 0), ('giving up', None, None, None, 0), ('or blaming lack of sleep', None, None, None, 0), ('is simply not an option for the team .', None, None, None, 1)]]
+Leaf:  N Explanation Cricket players in England are likely going to have trouble sleeping after a 4th day of the first Test .
+Leaf:  N Joint Being in their shoes ,
+Leaf:  N Joint playing hard
+Leaf:  N Joint and working together
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Elaborate is the key
+Leaf:  S span to beating Bangladesh
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and they need to stay on top of their game in order to win .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span While it 's physically demanding ,
+Leaf:  N Joint giving up
+Leaf:  N Joint or blaming lack of sleep
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit is simply not an option for the team .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Cricket players in England are likely going to have trouble sleeping after a 4th day of the first Test .', None, None, None, 1), ('Being in their shoes ,', None, None, None, 0), ('playing hard', None, None, None, 0), ('and working together', None, None, None, 0), ('is the key', None, None, None, 0), ('to beating Bangladesh', None, None, None, 0), ('and they need to stay on top of their game in order to win .', None, None, None, 1), ("While it 's physically demanding ,", None, None, None, 0), ('giving up', None, None, None, 0), ('or blaming lack of sleep', None, None, None, 0), ('is simply not an option for the team .', None, None, None, 1)]

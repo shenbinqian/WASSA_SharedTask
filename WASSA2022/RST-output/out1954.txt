@@ -1,0 +1,35 @@
+=====================> [[('I do think', None, None, None, 0), ('that this male birth control for men should be a thing .', None, None, None, 1), ('Men should be able to decide', None, None, None, 0), ('if those risks are worth the protection .', None, None, None, 1), ('Men should have the ability', None, None, None, 0), ('to take birth control in their own hands ,', None, None, None, 0), ('as they never know', None, None, None, 0), ('if a woman is lieing', None, None, None, 0), ("about taking her 's", None, None, None, 0), ('or if they have been taking it properly . An added protection could never hurt for both parties . I , however , do not feel very sympathetic .', None, None, None, 1), ('I think', None, None, None, 0), ('women are always looking for things', None, None, None, 0), ('to complain about ,', None, None, None, 0), ('and this is just another thing .', None, None, None, 1), ('Women , get over it .', None, None, None, 1), ('If your side effects from your birth control are too strong ,', None, None, None, 0), ("then just do n't have sex .", None, None, None, 1)]]
+Leaf:  S span I do think
+Leaf:  N Attribution that this male birth control for men should be a thing .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Men should be able to decide
+Leaf:  N Attribution if those risks are worth the protection .
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate Men should have the ability
+Leaf:  S span to take birth control in their own hands ,
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span as they never know
+Leaf:  N Elaborate if a woman is lieing
+Leaf:  S span about taking her 's
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint or if they have been taking it properly . An added protection could never hurt for both parties . I , however , do not feel very sympathetic .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Elaborate women are always looking for things
+Leaf:  S span to complain about ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and this is just another thing .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation Women , get over it .
+Leaf:  S span If your side effects from your birth control are too strong ,
+Leaf:  N Condition then just do n't have sex .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I do think', None, None, None, 0), ('that this male birth control for men should be a thing .', None, None, None, 1), ('Men should be able to decide', None, None, None, 0), ('if those risks are worth the protection .', None, None, None, 1), ('Men should have the ability', None, None, None, 0), ('to take birth control in their own hands ,', None, None, None, 0), ('as they never know', None, None, None, 0), ('if a woman is lieing', None, None, None, 0), ("about taking her 's", None, None, None, 0), ('or if they have been taking it properly . An added protection could never hurt for both parties . I , however , do not feel very sympathetic .', None, None, None, 1), ('I think', None, None, None, 0), ('women are always looking for things', None, None, None, 0), ('to complain about ,', None, None, None, 0), ('and this is just another thing .', None, None, None, 1), ('Women , get over it .', None, None, None, 1), ('If your side effects from your birth control are too strong ,', None, None, None, 0), ("then just do n't have sex .", None, None, None, 1)]

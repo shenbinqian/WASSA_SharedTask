@@ -1,0 +1,21 @@
+=====================> [[("I ca n't say", None, None, None, 0), ('that I specifically care about the election ,', None, None, None, 0), ('and would rather have someone besides the two main parties win for once .', None, None, None, 1), ('I also personally dont like Trump ,', None, None, None, 0), ('as I find him to be a rather bombastic idiot ,', None, None, None, 0), ('and wish', None, None, None, 0), ('Hillary wuold have won ,', None, None, None, 0), ("though I did n't particularly want either of them .", None, None, None, 1), ('I hope', None, None, None, 0), ('he takes the stress of the election into becoming a better leader .', None, None, None, 1)]]
+Leaf:  S span I ca n't say
+Leaf:  N Joint that I specifically care about the election ,
+Leaf:  N Joint and would rather have someone besides the two main parties win for once .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Explanation I also personally dont like Trump ,
+Leaf:  N Joint as I find him to be a rather bombastic idiot ,
+Leaf:  S span and wish
+Leaf:  N Attribution Hillary wuold have won ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span though I did n't particularly want either of them .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I hope
+Leaf:  N Attribution he takes the stress of the election into becoming a better leader .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[("I ca n't say", None, None, None, 0), ('that I specifically care about the election ,', None, None, None, 0), ('and would rather have someone besides the two main parties win for once .', None, None, None, 1), ('I also personally dont like Trump ,', None, None, None, 0), ('as I find him to be a rather bombastic idiot ,', None, None, None, 0), ('and wish', None, None, None, 0), ('Hillary wuold have won ,', None, None, None, 0), ("though I did n't particularly want either of them .", None, None, None, 1), ('I hope', None, None, None, 0), ('he takes the stress of the election into becoming a better leader .', None, None, None, 1)]

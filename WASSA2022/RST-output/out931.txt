@@ -1,0 +1,21 @@
+=====================> [[('That was the strangest article', None, None, None, 0), ("I 've ever read", None, None, None, 0), ("- I 'm not sure", None, None, None, 0), ('why I read it .', None, None, None, 1), ('Was it an error ?', None, None, None, 1), ('Art / ? It just said something like " article title - article - article source -', None, None, None, 0), ('date . " I \'m not sure how to emotionally react to such a thing', None, None, None, 0), ('since it had no emotional content whatsoever , no biographical content , no factual content , no real content at all .', None, None, None, 1), ('Seriously , I believe', None, None, None, 0), ('there is a malfunction in the survey .', None, None, None, 1)]]
+Leaf:  N Elaborate That was the strangest article
+Leaf:  S span I 've ever read
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span - I 'm not sure
+Leaf:  N Attribution why I read it .
+Inner:  S span None Attribution SN
+Inner:  N Summary None Explanation NS
+Leaf:  S span Was it an error ?
+Inner:  N Joint None Summary NS
+Leaf:  N Joint Art / ? It just said something like " article title - article - article source -
+Leaf:  N Joint date . " I 'm not sure how to emotionally react to such a thing
+Inner:  N Explanation None Joint NN
+Leaf:  S span since it had no emotional content whatsoever , no biographical content , no factual content , no real content at all .
+Inner:  N Joint None Explanation NS
+Inner:  N Summary None Joint NN
+Leaf:  S span Seriously , I believe
+Leaf:  N Attribution there is a malfunction in the survey .
+Inner:  S span None Attribution SN
+Inner:  Root None None Summary NS
+[('That was the strangest article', None, None, None, 0), ("I 've ever read", None, None, None, 0), ("- I 'm not sure", None, None, None, 0), ('why I read it .', None, None, None, 1), ('Was it an error ?', None, None, None, 1), ('Art / ? It just said something like " article title - article - article source -', None, None, None, 0), ('date . " I \'m not sure how to emotionally react to such a thing', None, None, None, 0), ('since it had no emotional content whatsoever , no biographical content , no factual content , no real content at all .', None, None, None, 1), ('Seriously , I believe', None, None, None, 0), ('there is a malfunction in the survey .', None, None, None, 1)]

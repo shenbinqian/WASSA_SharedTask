@@ -1,0 +1,35 @@
+=====================> [[('i feel', None, None, None, 0), ('like we need to do somthing about this problem', None, None, None, 0), ('that is going on', None, None, None, 0), ('we dont need moms', None, None, None, 0), ('overdoseing on drugs', None, None, None, 0), ('plus doing it', None, None, None, 0), ('while they are driving .', None, None, None, 1), ('maybe there is a program', None, None, None, 0), ('we could start', None, None, None, 0), ('to help these mom in need', None, None, None, 0), ('and the kids', None, None, None, 0), ('that they have should be taken care by someone', None, None, None, 0), ('else while they are getting the help', None, None, None, 0), ('that they need', None, None, None, 0), ('to get better', None, None, None, 0), ('and then they can get there kids back', None, None, None, 0), ('when they are able to take care of them', None, None, None, 0)]]
+Leaf:  S span i feel
+Leaf:  N Elaborate like we need to do somthing about this problem
+Leaf:  S span that is going on
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate we dont need moms
+Leaf:  S span overdoseing on drugs
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background plus doing it
+Leaf:  S span while they are driving .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate maybe there is a program
+Leaf:  S span we could start
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to help these mom in need
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Elaborate and the kids
+Leaf:  N Temporal that they have should be taken care by someone
+Leaf:  N Elaborate else while they are getting the help
+Leaf:  S span that they need
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to get better
+Inner:  N Temporal None Enablement NS
+Inner:  N Temporal None Temporal NN
+Leaf:  N Background and then they can get there kids back
+Leaf:  S span when they are able to take care of them
+Inner:  N Temporal None Background NS
+Inner:  S span None Temporal NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('i feel', None, None, None, 0), ('like we need to do somthing about this problem', None, None, None, 0), ('that is going on', None, None, None, 0), ('we dont need moms', None, None, None, 0), ('overdoseing on drugs', None, None, None, 0), ('plus doing it', None, None, None, 0), ('while they are driving .', None, None, None, 1), ('maybe there is a program', None, None, None, 0), ('we could start', None, None, None, 0), ('to help these mom in need', None, None, None, 0), ('and the kids', None, None, None, 0), ('that they have should be taken care by someone', None, None, None, 0), ('else while they are getting the help', None, None, None, 0), ('that they need', None, None, None, 0), ('to get better', None, None, None, 0), ('and then they can get there kids back', None, None, None, 0), ('when they are able to take care of them', None, None, None, 0)]

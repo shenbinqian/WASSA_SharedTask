@@ -1,0 +1,25 @@
+=====================> [[('I know', None, None, None, 0), ('that the affordable care act will effect alot of people out there', None, None, None, 0), ('who are already struggling', None, None, None, 0), ('but this is an issue', None, None, None, 0), ('that just sounds wrong to me .', None, None, None, 1), ('First because so many women', None, None, None, 0), ('that I know', None, None, None, 0), ('who have gotten and IUD', None, None, None, 0), ('had complications', None, None, None, 0), ('and second because the issue', None, None, None, 0), ('of women being able to choose to have an abortion', None, None, None, 0), ('is a bitter conversation to me .', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Elaborate that the affordable care act will effect alot of people out there
+Leaf:  S span who are already struggling
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but this is an issue
+Leaf:  S span that just sounds wrong to me .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Explanation None Contrast NN
+Leaf:  N Elaborate First because so many women
+Leaf:  N Elaborate that I know
+Leaf:  S span who have gotten and IUD
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit had complications
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and second because the issue
+Leaf:  S span of women being able to choose to have an abortion
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a bitter conversation to me .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('I know', None, None, None, 0), ('that the affordable care act will effect alot of people out there', None, None, None, 0), ('who are already struggling', None, None, None, 0), ('but this is an issue', None, None, None, 0), ('that just sounds wrong to me .', None, None, None, 1), ('First because so many women', None, None, None, 0), ('that I know', None, None, None, 0), ('who have gotten and IUD', None, None, None, 0), ('had complications', None, None, None, 0), ('and second because the issue', None, None, None, 0), ('of women being able to choose to have an abortion', None, None, None, 0), ('is a bitter conversation to me .', None, None, None, 1)]

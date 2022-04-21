@@ -1,0 +1,33 @@
+=====================> [[('Hey , I just read this article today .', None, None, None, 1), ('It takes place in 2011', None, None, None, 0), ('and is about an inmates at a federal prison', None, None, None, 0), ('that had to choose between living with a violent cellmate', None, None, None, 0), ('or end up in shackles . In the cell they had to spend nearly 24 hours a day together in a concrete room smaller than a parking space , can you imagine ?', None, None, None, 1), ('I learned', None, None, None, 0), ('that they have a form of punishment there', None, None, None, 0), ('and it is called " four-pointing " . They cuff each limb to the corner of a concrete slab or bed frame .', None, None, None, 1), ('That just sounds like torture to me .', None, None, None, 1), ('The guy', None, None, None, 0), ('that the story is about', None, None, None, 0), ('is serving a 35-year sentence for drug trafficking and assaulting a corrections officer .', None, None, None, 1), ('This prison is known as the toughest prison', None, None, None, 0), ('and I can see why .', None, None, None, 1), ('You really should read this article ,', None, None, None, 0), ('it is very eye opening .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I just read this article today .
+Leaf:  N Joint It takes place in 2011
+Leaf:  N Elaborate and is about an inmates at a federal prison
+Leaf:  N Condition that had to choose between living with a violent cellmate
+Leaf:  N Condition or end up in shackles . In the cell they had to spend nearly 24 hours a day together in a concrete room smaller than a parking space , can you imagine ?
+Inner:  S span None Condition NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I learned
+Leaf:  N Elaborate that they have a form of punishment there
+Leaf:  S span and it is called " four-pointing " . They cuff each limb to the corner of a concrete slab or bed frame .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span That just sounds like torture to me .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The guy
+Leaf:  S span that the story is about
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is serving a 35-year sentence for drug trafficking and assaulting a corrections officer .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Evaluation This prison is known as the toughest prison
+Leaf:  S span and I can see why .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation You really should read this article ,
+Leaf:  S span it is very eye opening .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Hey , I just read this article today .', None, None, None, 1), ('It takes place in 2011', None, None, None, 0), ('and is about an inmates at a federal prison', None, None, None, 0), ('that had to choose between living with a violent cellmate', None, None, None, 0), ('or end up in shackles . In the cell they had to spend nearly 24 hours a day together in a concrete room smaller than a parking space , can you imagine ?', None, None, None, 1), ('I learned', None, None, None, 0), ('that they have a form of punishment there', None, None, None, 0), ('and it is called " four-pointing " . They cuff each limb to the corner of a concrete slab or bed frame .', None, None, None, 1), ('That just sounds like torture to me .', None, None, None, 1), ('The guy', None, None, None, 0), ('that the story is about', None, None, None, 0), ('is serving a 35-year sentence for drug trafficking and assaulting a corrections officer .', None, None, None, 1), ('This prison is known as the toughest prison', None, None, None, 0), ('and I can see why .', None, None, None, 1), ('You really should read this article ,', None, None, None, 0), ('it is very eye opening .', None, None, None, 1)]

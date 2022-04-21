@@ -1,0 +1,23 @@
+=====================> [[('Hello there .', None, None, None, 1), ('I just read this story about a cop', None, None, None, 0), ('who killed a totally unarmed black man', None, None, None, 0), ('and I think', None, None, None, 0), ('it is disgusting .', None, None, None, 1), ('The police has been very biased against blacks lately', None, None, None, 0), ('and this is just another example', None, None, None, 0), ('of how bad things have gotten .', None, None, None, 1), ('I think', None, None, None, 0), ('this cop needs to be sentenced severely', None, None, None, 0), ('so that all other cops can also refrain from doing the same', None, None, None, 0)]]
+Leaf:  N Elaborate Hello there .
+Leaf:  N Elaborate I just read this story about a cop
+Leaf:  S span who killed a totally unarmed black man
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and I think
+Leaf:  N Attribution it is disgusting .
+Inner:  N Evaluation None Attribution SN
+Inner:  N Explanation None Evaluation NN
+Leaf:  N Cause The police has been very biased against blacks lately
+Leaf:  N Elaborate and this is just another example
+Leaf:  S span of how bad things have gotten .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I think
+Leaf:  N Enablement this cop needs to be sentenced severely
+Leaf:  S span so that all other cops can also refrain from doing the same
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Hello there .', None, None, None, 1), ('I just read this story about a cop', None, None, None, 0), ('who killed a totally unarmed black man', None, None, None, 0), ('and I think', None, None, None, 0), ('it is disgusting .', None, None, None, 1), ('The police has been very biased against blacks lately', None, None, None, 0), ('and this is just another example', None, None, None, 0), ('of how bad things have gotten .', None, None, None, 1), ('I think', None, None, None, 0), ('this cop needs to be sentenced severely', None, None, None, 0), ('so that all other cops can also refrain from doing the same', None, None, None, 0)]

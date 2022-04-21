@@ -1,0 +1,21 @@
+=====================> [[("I ca n't even imagine half the stuff", None, None, None, 0), ('that the people of Aleppo are going though .', None, None, None, 1), ('It must be some kind of nightmare', None, None, None, 0), ('to get a text', None, None, None, 0), ('that your city is going to be bombed .', None, None, None, 1), ("I 'm really thankful", None, None, None, 0), ('that you joined the reserves', None, None, None, 0), ("and not something that 'd get you deployed .", None, None, None, 1), ("I 'm grateful", None, None, None, 0), ('that I have you and a much more stable country .', None, None, None, 1)]]
+Leaf:  N Elaborate I ca n't even imagine half the stuff
+Leaf:  S span that the people of Aleppo are going though .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It must be some kind of nightmare
+Leaf:  N Elaborate to get a text
+Leaf:  S span that your city is going to be bombed .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm really thankful
+Leaf:  N Joint that you joined the reserves
+Leaf:  N Joint and not something that 'd get you deployed .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I 'm grateful
+Leaf:  N Attribution that I have you and a much more stable country .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("I ca n't even imagine half the stuff", None, None, None, 0), ('that the people of Aleppo are going though .', None, None, None, 1), ('It must be some kind of nightmare', None, None, None, 0), ('to get a text', None, None, None, 0), ('that your city is going to be bombed .', None, None, None, 1), ("I 'm really thankful", None, None, None, 0), ('that you joined the reserves', None, None, None, 0), ("and not something that 'd get you deployed .", None, None, None, 1), ("I 'm grateful", None, None, None, 0), ('that I have you and a much more stable country .', None, None, None, 1)]

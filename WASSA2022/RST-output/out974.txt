@@ -1,0 +1,25 @@
+=====================> [[('I honestly cant remember', None, None, None, 0), ('what i read .', None, None, None, 1), ('I walked away for a drink', None, None, None, 0), ('and came back', None, None, None, 0), ('and i completely forgot .', None, None, None, 1), ('Reading these articles like this in succession is tedious', None, None, None, 0), ('and makes the stories asll run together', None, None, None, 0), ('making the retention of the story hard to keep .', None, None, None, 1), ('I would have reread the article', None, None, None, 0), ('if i could', None, None, None, 0), ('and there was an option', None, None, None, 0), ('to', None, None, None, 0)]]
+Leaf:  S span I honestly cant remember
+Leaf:  N Attribution what i read .
+Inner:  N Background None Attribution SN
+Leaf:  N Temporal I walked away for a drink
+Leaf:  N Temporal and came back
+Inner:  S span None Temporal NN
+Leaf:  N Temporal and i completely forgot .
+Inner:  S span None Temporal SN
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint Reading these articles like this in succession is tedious
+Leaf:  N Cause and makes the stories asll run together
+Leaf:  S span making the retention of the story hard to keep .
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition I would have reread the article
+Leaf:  N Joint if i could
+Leaf:  N Elaborate and there was an option
+Leaf:  S span to
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I honestly cant remember', None, None, None, 0), ('what i read .', None, None, None, 1), ('I walked away for a drink', None, None, None, 0), ('and came back', None, None, None, 0), ('and i completely forgot .', None, None, None, 1), ('Reading these articles like this in succession is tedious', None, None, None, 0), ('and makes the stories asll run together', None, None, None, 0), ('making the retention of the story hard to keep .', None, None, None, 1), ('I would have reread the article', None, None, None, 0), ('if i could', None, None, None, 0), ('and there was an option', None, None, None, 0), ('to', None, None, None, 0)]

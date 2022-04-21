@@ -1,0 +1,29 @@
+=====================> [[('Hey guys check this article out .', None, None, None, 1), ('I was talking to about this sleep paralysis thing .', None, None, None, 1), ("It 's such a scary event", None, None, None, 0), ('I do no wish upon anyone .', None, None, None, 1), ("I 've experienced it in the past", None, None, None, 0), ('and is no fun .', None, None, None, 1), ('Some people hear voices ,', None, None, None, 0), ('others see ghosts or the likes .', None, None, None, 1), ('I hope', None, None, None, 0), ('you guys never have to experience such a thing .', None, None, None, 1), ("It 's good thing", None, None, None, 0), ('to know', None, None, None, 0), ('that it has a medical term', None, None, None, 0), ('and is not sometihng actually paranormal .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey guys check this article out .
+Leaf:  S span I was talking to about this sleep paralysis thing .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It 's such a scary event
+Leaf:  S span I do no wish upon anyone .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I 've experienced it in the past
+Leaf:  N Joint and is no fun .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Some people hear voices ,
+Leaf:  N Joint others see ghosts or the likes .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Attribution you guys never have to experience such a thing .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It 's good thing
+Leaf:  S span to know
+Leaf:  N Joint that it has a medical term
+Leaf:  N Joint and is not sometihng actually paranormal .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey guys check this article out .', None, None, None, 1), ('I was talking to about this sleep paralysis thing .', None, None, None, 1), ("It 's such a scary event", None, None, None, 0), ('I do no wish upon anyone .', None, None, None, 1), ("I 've experienced it in the past", None, None, None, 0), ('and is no fun .', None, None, None, 1), ('Some people hear voices ,', None, None, None, 0), ('others see ghosts or the likes .', None, None, None, 1), ('I hope', None, None, None, 0), ('you guys never have to experience such a thing .', None, None, None, 1), ("It 's good thing", None, None, None, 0), ('to know', None, None, None, 0), ('that it has a medical term', None, None, None, 0), ('and is not sometihng actually paranormal .', None, None, None, 1)]

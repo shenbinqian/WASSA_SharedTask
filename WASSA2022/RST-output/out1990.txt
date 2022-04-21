@@ -1,0 +1,23 @@
+=====================> [[('Another article claimed', None, None, None, 0), ('climate change is the cause of a disaster .', None, None, None, 1), ('I just find it hard to believe .', None, None, None, 1), ('I think', None, None, None, 0), ('that this earth was every changing', None, None, None, 0), ('before we started getting more industrialized .', None, None, None, 1), ('I think', None, None, None, 0), ('the earth is much older', None, None, None, 0), ('than we are', None, None, None, 0), ('and cycles through different climates .', None, None, None, 1), ('These disaster have always been a part of the earth and always will .', None, None, None, 1)]]
+Leaf:  S span Another article claimed
+Leaf:  N Attribution climate change is the cause of a disaster .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation I just find it hard to believe .
+Leaf:  S span I think
+Leaf:  N Temporal that this earth was every changing
+Leaf:  S span before we started getting more industrialized .
+Inner:  N Attribution None Temporal NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I think
+Leaf:  N Comparison the earth is much older
+Leaf:  N Joint than we are
+Leaf:  N Joint and cycles through different climates .
+Inner:  N Comparison None Joint NN
+Inner:  N Attribution None Comparison NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span These disaster have always been a part of the earth and always will .
+Inner:  Root None None Elaborate NS
+[('Another article claimed', None, None, None, 0), ('climate change is the cause of a disaster .', None, None, None, 1), ('I just find it hard to believe .', None, None, None, 1), ('I think', None, None, None, 0), ('that this earth was every changing', None, None, None, 0), ('before we started getting more industrialized .', None, None, None, 1), ('I think', None, None, None, 0), ('the earth is much older', None, None, None, 0), ('than we are', None, None, None, 0), ('and cycles through different climates .', None, None, None, 1), ('These disaster have always been a part of the earth and always will .', None, None, None, 1)]

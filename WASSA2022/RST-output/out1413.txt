@@ -1,0 +1,29 @@
+=====================> [[('Whenever you hear about tragedy', None, None, None, 0), ("you ca n't help", None, None, None, 0), ('but put yourself in their place', None, None, None, 0), ('and worry', None, None, None, 0), ('about how they feel .', None, None, None, 1), ('You wonder', None, None, None, 0), ('about how they react ,', None, None, None, 0), ('and how they can believe', None, None, None, 0), ('that a simple accident can hurt someone', None, None, None, 0), ('that they love .', None, None, None, 1), ('I am sure', None, None, None, 0), ('that they will second guess themselves ,', None, None, None, 0), ('and wonder', None, None, None, 0), ('how they could let something like that happen .', None, None, None, 1)]]
+Leaf:  S span Whenever you hear about tragedy
+Leaf:  N Contrast you ca n't help
+Leaf:  N Joint but put yourself in their place
+Leaf:  S span and worry
+Leaf:  N Attribution about how they feel .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Background None Contrast NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span You wonder
+Leaf:  N Joint about how they react ,
+Leaf:  S span and how they can believe
+Leaf:  N Elaborate that a simple accident can hurt someone
+Leaf:  S span that they love .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am sure
+Leaf:  N Joint that they will second guess themselves ,
+Leaf:  S span and wonder
+Leaf:  N Attribution how they could let something like that happen .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Whenever you hear about tragedy', None, None, None, 0), ("you ca n't help", None, None, None, 0), ('but put yourself in their place', None, None, None, 0), ('and worry', None, None, None, 0), ('about how they feel .', None, None, None, 1), ('You wonder', None, None, None, 0), ('about how they react ,', None, None, None, 0), ('and how they can believe', None, None, None, 0), ('that a simple accident can hurt someone', None, None, None, 0), ('that they love .', None, None, None, 1), ('I am sure', None, None, None, 0), ('that they will second guess themselves ,', None, None, None, 0), ('and wonder', None, None, None, 0), ('how they could let something like that happen .', None, None, None, 1)]

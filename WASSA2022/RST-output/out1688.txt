@@ -1,0 +1,29 @@
+=====================> [[('Just when you think', None, None, None, 0), ('you have heard enough crazy Donald Trump stories', None, None, None, 0), ('this one takes the cake .', None, None, None, 1), ('I just read about a mother from Fresno Texas', None, None, None, 0), ('who not only kicked her elementary son out of the house', None, None, None, 0), ('for voting in a mock school election for Donald Trump', None, None, None, 0), ('she also videotaped it .', None, None, None, 1), ("Well , of course , the video went viral . The Fort Bend County Texas sheriff 's department went to check out the situation", None, None, None, 0), ('and the child seemed to be in good health . The mother made the child stand on the street corner with a sign', None, None, None, 0), ('telling why he was kicked out of the house .', None, None, None, 1), ('The mother claims now', None, None, None, 0), ('that it was only a joke .', None, None, None, 1), ('I hope', None, None, None, 0), ('the child is not permanently scarred from this incident .', None, None, None, 1)]]
+Leaf:  S span Just when you think
+Leaf:  N Attribution you have heard enough crazy Donald Trump stories
+Inner:  S span None Attribution SN
+Leaf:  N Background this one takes the cake .
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate I just read about a mother from Fresno Texas
+Leaf:  N Explanation who not only kicked her elementary son out of the house
+Leaf:  S span for voting in a mock school election for Donald Trump
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Same-Unit she also videotaped it .
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span Well , of course , the video went viral . The Fort Bend County Texas sheriff 's department went to check out the situation
+Leaf:  N Elaborate and the child seemed to be in good health . The mother made the child stand on the street corner with a sign
+Leaf:  S span telling why he was kicked out of the house .
+Inner:  N Manner-Means None Elaborate NS
+Inner:  S span None Manner-Means SN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The mother claims now
+Leaf:  N Attribution that it was only a joke .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution the child is not permanently scarred from this incident .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Just when you think', None, None, None, 0), ('you have heard enough crazy Donald Trump stories', None, None, None, 0), ('this one takes the cake .', None, None, None, 1), ('I just read about a mother from Fresno Texas', None, None, None, 0), ('who not only kicked her elementary son out of the house', None, None, None, 0), ('for voting in a mock school election for Donald Trump', None, None, None, 0), ('she also videotaped it .', None, None, None, 1), ("Well , of course , the video went viral . The Fort Bend County Texas sheriff 's department went to check out the situation", None, None, None, 0), ('and the child seemed to be in good health . The mother made the child stand on the street corner with a sign', None, None, None, 0), ('telling why he was kicked out of the house .', None, None, None, 1), ('The mother claims now', None, None, None, 0), ('that it was only a joke .', None, None, None, 1), ('I hope', None, None, None, 0), ('the child is not permanently scarred from this incident .', None, None, None, 1)]

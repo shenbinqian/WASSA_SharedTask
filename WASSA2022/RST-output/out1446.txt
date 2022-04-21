@@ -1,0 +1,27 @@
+=====================> [[('This article was very interesting', None, None, None, 0), ('but also written a little strange .', None, None, None, 1), ('It was about a wolf', None, None, None, 0), ('who had wondered off from the pack .', None, None, None, 1), ('The wolf was a protected wolf part of a group', None, None, None, 0), ('being protected by some biological organization .', None, None, None, 1), ('Had a tracking monitor on him and his life was largely documented .', None, None, None, 1), ('I guess', None, None, None, 0), ('he wondered from the pack', None, None, None, 0), ('looking to mate . Well the government , federal government , killed the wolf by a sniper person', None, None, None, 0), ('and its caused a big uproar .', None, None, None, 1), ('Kind of weird', None, None, None, 0), ('but I guess that is a thing .', None, None, None, 1)]]
+Leaf:  N Joint This article was very interesting
+Leaf:  N Joint but also written a little strange .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate It was about a wolf
+Leaf:  S span who had wondered off from the pack .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The wolf was a protected wolf part of a group
+Leaf:  S span being protected by some biological organization .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Had a tracking monitor on him and his life was largely documented .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Enablement he wondered from the pack
+Leaf:  S span looking to mate . Well the government , federal government , killed the wolf by a sniper person
+Inner:  N Cause None Enablement NS
+Leaf:  S span and its caused a big uproar .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Kind of weird
+Leaf:  S span but I guess that is a thing .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This article was very interesting', None, None, None, 0), ('but also written a little strange .', None, None, None, 1), ('It was about a wolf', None, None, None, 0), ('who had wondered off from the pack .', None, None, None, 1), ('The wolf was a protected wolf part of a group', None, None, None, 0), ('being protected by some biological organization .', None, None, None, 1), ('Had a tracking monitor on him and his life was largely documented .', None, None, None, 1), ('I guess', None, None, None, 0), ('he wondered from the pack', None, None, None, 0), ('looking to mate . Well the government , federal government , killed the wolf by a sniper person', None, None, None, 0), ('and its caused a big uproar .', None, None, None, 1), ('Kind of weird', None, None, None, 0), ('but I guess that is a thing .', None, None, None, 1)]

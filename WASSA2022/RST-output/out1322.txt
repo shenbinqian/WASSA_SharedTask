@@ -1,0 +1,31 @@
+=====================> [[('Hate seems to be increasing in this country .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('that hate crimes are going up .', None, None, None, 1), ("I do n't know what 's going on", None, None, None, 0), ("but people ca n't seem to handle themselves", None, None, None, 0), ('and use restraint .', None, None, None, 1), ('People are becoming too short-fused', None, None, None, 0), ('and trigger happy on attacking others with hate crimes .', None, None, None, 1), ('I hope', None, None, None, 0), ('things get better', None, None, None, 0), ("but the article did n't seem too optimistic .", None, None, None, 1), ('I guess', None, None, None, 0), ('the more we talk about this kind of stuff the better', None, None, None, 0), ("so it does n't get ignored .", None, None, None, 1), ("It 's an important issue .", None, None, None, 1)]]
+Leaf:  N Elaborate Hate seems to be increasing in this country .
+Leaf:  N Elaborate I just read an article
+Leaf:  S span that hate crimes are going up .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't know what 's going on
+Leaf:  N Joint but people ca n't seem to handle themselves
+Leaf:  N Joint and use restraint .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint People are becoming too short-fused
+Leaf:  N Joint and trigger happy on attacking others with hate crimes .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I hope
+Leaf:  N Attribution things get better
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but the article did n't seem too optimistic .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I guess
+Leaf:  N Enablement the more we talk about this kind of stuff the better
+Leaf:  S span so it does n't get ignored .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's an important issue .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hate seems to be increasing in this country .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('that hate crimes are going up .', None, None, None, 1), ("I do n't know what 's going on", None, None, None, 0), ("but people ca n't seem to handle themselves", None, None, None, 0), ('and use restraint .', None, None, None, 1), ('People are becoming too short-fused', None, None, None, 0), ('and trigger happy on attacking others with hate crimes .', None, None, None, 1), ('I hope', None, None, None, 0), ('things get better', None, None, None, 0), ("but the article did n't seem too optimistic .", None, None, None, 1), ('I guess', None, None, None, 0), ('the more we talk about this kind of stuff the better', None, None, None, 0), ("so it does n't get ignored .", None, None, None, 1), ("It 's an important issue .", None, None, None, 1)]

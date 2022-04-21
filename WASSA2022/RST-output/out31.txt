@@ -1,0 +1,39 @@
+=====================> [[('I wish', None, None, None, 0), ('there was something more', None, None, None, 0), ('that I could do .', None, None, None, 1), ('This is getting out of hand ,', None, None, None, 0), ("but it 's kind of far away geographically from us .", None, None, None, 1), ('There needs to be something', None, None, None, 0), ('the international community can do .', None, None, None, 1), ('Farmers everywhere are killing pests and animals', None, None, None, 0), ('that interfere with their farms ,', None, None, None, 0), ('but elephants are completely different from pests .', None, None, None, 1), ('They are extremely smart', None, None, None, 0), ('and are just hungry .', None, None, None, 1), ('I honestly wonder', None, None, None, 0), ('if we should come up with a plan', None, None, None, 0), ('to feed them ,', None, None, None, 0), ('and this might sound crazy ,', None, None, None, 0), ('but try to study elephants', None, None, None, 0), ('and come up with some way', None, None, None, 0), ('to communicate abstract ideas with them .', None, None, None, 1)]]
+Leaf:  S span I wish
+Leaf:  N Elaborate there was something more
+Leaf:  S span that I could do .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Topic-Change None Attribution SN
+Leaf:  N Elaborate This is getting out of hand ,
+Leaf:  N Contrast but it 's kind of far away geographically from us .
+Leaf:  N Elaborate There needs to be something
+Leaf:  S span the international community can do .
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Farmers everywhere are killing pests and animals
+Leaf:  S span that interfere with their farms ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but elephants are completely different from pests .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint They are extremely smart
+Leaf:  N Joint and are just hungry .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I honestly wonder
+Leaf:  N Elaborate if we should come up with a plan
+Leaf:  S span to feed them ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and this might sound crazy ,
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Leaf:  N Joint but try to study elephants
+Leaf:  N Elaborate and come up with some way
+Leaf:  S span to communicate abstract ideas with them .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Explanation NS
+Inner:  Root None None Topic-Change NN
+[('I wish', None, None, None, 0), ('there was something more', None, None, None, 0), ('that I could do .', None, None, None, 1), ('This is getting out of hand ,', None, None, None, 0), ("but it 's kind of far away geographically from us .", None, None, None, 1), ('There needs to be something', None, None, None, 0), ('the international community can do .', None, None, None, 1), ('Farmers everywhere are killing pests and animals', None, None, None, 0), ('that interfere with their farms ,', None, None, None, 0), ('but elephants are completely different from pests .', None, None, None, 1), ('They are extremely smart', None, None, None, 0), ('and are just hungry .', None, None, None, 1), ('I honestly wonder', None, None, None, 0), ('if we should come up with a plan', None, None, None, 0), ('to feed them ,', None, None, None, 0), ('and this might sound crazy ,', None, None, None, 0), ('but try to study elephants', None, None, None, 0), ('and come up with some way', None, None, None, 0), ('to communicate abstract ideas with them .', None, None, None, 1)]

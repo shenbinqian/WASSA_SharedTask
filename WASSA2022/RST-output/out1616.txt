@@ -1,0 +1,17 @@
+=====================> [[('I just learned about the British banker', None, None, None, 0), ('who killed the two Indonesian women in Hong Kong .', None, None, None, 1), ('How horrifying that we have people like this in the world .', None, None, None, 1), ('They seem like your everyday ordinary person ,', None, None, None, 0), ('but it shows', None, None, None, 0), ('you just never know .', None, None, None, 1), ('You always have to stay safe , not take chances', None, None, None, 0), ("and do n't trust appearances .", None, None, None, 1)]]
+Leaf:  N Elaborate I just learned about the British banker
+Leaf:  S span who killed the two Indonesian women in Hong Kong .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate How horrifying that we have people like this in the world .
+Leaf:  S span They seem like your everyday ordinary person ,
+Leaf:  S span but it shows
+Leaf:  N Attribution you just never know .
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint You always have to stay safe , not take chances
+Leaf:  N Joint and do n't trust appearances .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just learned about the British banker', None, None, None, 0), ('who killed the two Indonesian women in Hong Kong .', None, None, None, 1), ('How horrifying that we have people like this in the world .', None, None, None, 1), ('They seem like your everyday ordinary person ,', None, None, None, 0), ('but it shows', None, None, None, 0), ('you just never know .', None, None, None, 1), ('You always have to stay safe , not take chances', None, None, None, 0), ("and do n't trust appearances .", None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('My heart aches for the people of Aleppo .', None, None, None, 1), ('They are driven from their homes', None, None, None, 0), ('and have nowhere to go .', None, None, None, 1), ('The children must be so afraid ,', None, None, None, 0), ("I ca n't imagine myself and my family", None, None, None, 0), ('going through something like that .', None, None, None, 1), ("It does n't seem like there is an end to this situation in the near future .", None, None, None, 1), ('I wish there was something', None, None, None, 0), ('that we could do', None, None, None, 0), ('to help these refugees .', None, None, None, 1), ('They must feel so helpless and abandoned .', None, None, None, 1)]]
+Leaf:  N Elaborate My heart aches for the people of Aleppo .
+Leaf:  N Joint They are driven from their homes
+Leaf:  N Joint and have nowhere to go .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The children must be so afraid ,
+Leaf:  N Elaborate I ca n't imagine myself and my family
+Leaf:  S span going through something like that .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast It does n't seem like there is an end to this situation in the near future .
+Leaf:  N Elaborate I wish there was something
+Leaf:  N Enablement that we could do
+Leaf:  S span to help these refugees .
+Inner:  S span None Enablement NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span They must feel so helpless and abandoned .
+Inner:  S span None Explanation NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('My heart aches for the people of Aleppo .', None, None, None, 1), ('They are driven from their homes', None, None, None, 0), ('and have nowhere to go .', None, None, None, 1), ('The children must be so afraid ,', None, None, None, 0), ("I ca n't imagine myself and my family", None, None, None, 0), ('going through something like that .', None, None, None, 1), ("It does n't seem like there is an end to this situation in the near future .", None, None, None, 1), ('I wish there was something', None, None, None, 0), ('that we could do', None, None, None, 0), ('to help these refugees .', None, None, None, 1), ('They must feel so helpless and abandoned .', None, None, None, 1)]

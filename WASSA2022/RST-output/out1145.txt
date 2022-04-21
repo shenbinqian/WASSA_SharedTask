@@ -1,0 +1,39 @@
+=====================> [[("I 'm not sure", None, None, None, 0), ('how to feel about this .', None, None, None, 1), ('We really do need to go green ,', None, None, None, 0), ('but at what point do we call it green', None, None, None, 0), ('when it kills so many animals ?', None, None, None, 1), ("I 'm a little aghast ,", None, None, None, 0), ('even though I know', None, None, None, 0), ('science needs evidence in numbers ,', None, None, None, 0), ('that they are wasting money', None, None, None, 0), ('on figuring out that species', None, None, None, 0), ('that typically migrate', None, None, None, 0), ('are * gasp * being killed in places other than where they are from .', None, None, None, 1), ('Put that money towards developing something', None, None, None, 0), ('that stops the problem .', None, None, None, 1), ('We need green energy like wind and solar ,', None, None, None, 0), ("so let 's find a solution", None, None, None, 0), ('to make it so', None, None, None, 0), ("that we do n't keep losing", None, None, None, 0), ("what we 're trying to save .", None, None, None, 1)]]
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution how to feel about this .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast We really do need to go green ,
+Leaf:  N Explanation but at what point do we call it green
+Leaf:  S span when it kills so many animals ?
+Inner:  N Contrast None Explanation NS
+Inner:  N Topic-Comment None Contrast NN
+Leaf:  S span I 'm a little aghast ,
+Leaf:  S span even though I know
+Leaf:  N Attribution science needs evidence in numbers ,
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Manner-Means that they are wasting money
+Leaf:  N Elaborate on figuring out that species
+Leaf:  S span that typically migrate
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are * gasp * being killed in places other than where they are from .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Manner-Means NS
+Inner:  N Temporal None Elaborate NS
+Inner:  N Topic-Comment None Temporal SN
+Leaf:  N Elaborate Put that money towards developing something
+Leaf:  S span that stops the problem .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span We need green energy like wind and solar ,
+Leaf:  N Elaborate so let 's find a solution
+Leaf:  N Enablement to make it so
+Leaf:  N Elaborate that we do n't keep losing
+Leaf:  S span what we 're trying to save .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Topic-Comment None Topic-Comment NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[("I 'm not sure", None, None, None, 0), ('how to feel about this .', None, None, None, 1), ('We really do need to go green ,', None, None, None, 0), ('but at what point do we call it green', None, None, None, 0), ('when it kills so many animals ?', None, None, None, 1), ("I 'm a little aghast ,", None, None, None, 0), ('even though I know', None, None, None, 0), ('science needs evidence in numbers ,', None, None, None, 0), ('that they are wasting money', None, None, None, 0), ('on figuring out that species', None, None, None, 0), ('that typically migrate', None, None, None, 0), ('are * gasp * being killed in places other than where they are from .', None, None, None, 1), ('Put that money towards developing something', None, None, None, 0), ('that stops the problem .', None, None, None, 1), ('We need green energy like wind and solar ,', None, None, None, 0), ("so let 's find a solution", None, None, None, 0), ('to make it so', None, None, None, 0), ("that we do n't keep losing", None, None, None, 0), ("what we 're trying to save .", None, None, None, 1)]

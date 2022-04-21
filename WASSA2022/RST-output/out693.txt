@@ -1,0 +1,21 @@
+=====================> [[('Let ’s hope', None, None, None, 0), ('those are very isolated incidents', None, None, None, 0), ('triggered by people with mental health issues .', None, None, None, 1), ('It might be that there were crazy things like that happening', None, None, None, 0), ('before but we heard less about them .', None, None, None, 1), ('Still , I ’ve been reading everywhere', None, None, None, 0), ('that hate crimes or incidents', None, None, None, 0), ('motivated by racism', None, None, None, 0), ('are climbing .', None, None, None, 1), ('And it ’s not surprising considering that bigots are being empowered by people in high positions , some in a very high position …', None, None, None, 0)]]
+Leaf:  S span Let ’s hope
+Leaf:  N Elaborate those are very isolated incidents
+Leaf:  S span triggered by people with mental health issues .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Temporal It might be that there were crazy things like that happening
+Leaf:  S span before but we heard less about them .
+Inner:  S span None Temporal NS
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Elaborate Still , I ’ve been reading everywhere
+Leaf:  N Elaborate that hate crimes or incidents
+Leaf:  S span motivated by racism
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are climbing .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span And it ’s not surprising considering that bigots are being empowered by people in high positions , some in a very high position …
+Inner:  S span None Evaluation NS
+Inner:  Root None None Contrast NS
+[('Let ’s hope', None, None, None, 0), ('those are very isolated incidents', None, None, None, 0), ('triggered by people with mental health issues .', None, None, None, 1), ('It might be that there were crazy things like that happening', None, None, None, 0), ('before but we heard less about them .', None, None, None, 1), ('Still , I ’ve been reading everywhere', None, None, None, 0), ('that hate crimes or incidents', None, None, None, 0), ('motivated by racism', None, None, None, 0), ('are climbing .', None, None, None, 1), ('And it ’s not surprising considering that bigots are being empowered by people in high positions , some in a very high position …', None, None, None, 0)]

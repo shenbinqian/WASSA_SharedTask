@@ -1,0 +1,29 @@
+=====================> [[('Hey soul sista .', None, None, None, 1), ('I know', None, None, None, 0), ('this whole Crutcher thing has you shook .', None, None, None, 1), ('I am certain you have read more articles on this matter .', None, None, None, 1), ('Let me say', None, None, None, 0), ('that reading this worries me as well .', None, None, None, 1), ('My wife is worried for her daddy', None, None, None, 0), ('who lives in the area .', None, None, None, 1), ('Please do me a favor', None, None, None, 0), ('and bring this article up in your weekly political meetings .', None, None, None, 1), ('I just want to make sure', None, None, None, 0), ('this gets more movement along the grass root channels', None, None, None, 0), ('you work with .', None, None, None, 1), ('I am sending my best with this article to you .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey soul sista .
+Leaf:  S span I know
+Leaf:  N Attribution this whole Crutcher thing has you shook .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I am certain you have read more articles on this matter .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Let me say
+Leaf:  N Attribution that reading this worries me as well .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate My wife is worried for her daddy
+Leaf:  S span who lives in the area .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Joint Please do me a favor
+Leaf:  N Joint and bring this article up in your weekly political meetings .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I just want to make sure
+Leaf:  N Elaborate this gets more movement along the grass root channels
+Leaf:  S span you work with .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span I am sending my best with this article to you .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey soul sista .', None, None, None, 1), ('I know', None, None, None, 0), ('this whole Crutcher thing has you shook .', None, None, None, 1), ('I am certain you have read more articles on this matter .', None, None, None, 1), ('Let me say', None, None, None, 0), ('that reading this worries me as well .', None, None, None, 1), ('My wife is worried for her daddy', None, None, None, 0), ('who lives in the area .', None, None, None, 1), ('Please do me a favor', None, None, None, 0), ('and bring this article up in your weekly political meetings .', None, None, None, 1), ('I just want to make sure', None, None, None, 0), ('this gets more movement along the grass root channels', None, None, None, 0), ('you work with .', None, None, None, 1), ('I am sending my best with this article to you .', None, None, None, 1)]

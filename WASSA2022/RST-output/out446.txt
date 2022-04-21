@@ -1,0 +1,35 @@
+=====================> [[('Isnt it crazy man that more and more sports legends are starting to pass away ?', None, None, None, 1), ('Him and Jack were perhaps the most important icons in golf .', None, None, None, 1), ('Have you ever had an Arnold Palmer ?', None, None, None, 1), ("It 's a really good drink too . We should share a few Arnold Palmers later on today", None, None, None, 0), ("to honor the life of this great man . Should we hit a few rounds today as well ? I mean I know you 're a big gold fan ,", None, None, None, 0), ('so I understand', None, None, None, 0), ('how this is upsetting you .', None, None, None, 1), ('I will send you more articles about him later on today', None, None, None, 0), ('so we can talk more about him .', None, None, None, 1), ('What do you think ?', None, None, None, 1), ('Who do you think was better ? Jack or Arnold ? What about tiger ? Either way , I hope', None, None, None, 0), ('you get this article', None, None, None, 0), ('and it helps lift your spirits a bit .', None, None, None, 1), ('I can not really connect to the article', None, None, None, 0), ('since I am not a big golf person ,', None, None, None, 0), ('but I still think', None, None, None, 0), ('we should honor the man .', None, None, None, 1)]]
+Leaf:  N Explanation Isnt it crazy man that more and more sports legends are starting to pass away ?
+Leaf:  N Elaborate Him and Jack were perhaps the most important icons in golf .
+Leaf:  N Evaluation Have you ever had an Arnold Palmer ?
+Leaf:  N Enablement It 's a really good drink too . We should share a few Arnold Palmers later on today
+Leaf:  S span to honor the life of this great man . Should we hit a few rounds today as well ? I mean I know you 're a big gold fan ,
+Inner:  N Cause None Enablement NS
+Leaf:  S span so I understand
+Leaf:  N Attribution how this is upsetting you .
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Enablement I will send you more articles about him later on today
+Leaf:  S span so we can talk more about him .
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Joint What do you think ?
+Leaf:  S span Who do you think was better ? Jack or Arnold ? What about tiger ? Either way , I hope
+Leaf:  N Joint you get this article
+Leaf:  N Joint and it helps lift your spirits a bit .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause I can not really connect to the article
+Leaf:  S span since I am not a big golf person ,
+Inner:  S span None Cause NS
+Leaf:  S span but I still think
+Leaf:  N Attribution we should honor the man .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('Isnt it crazy man that more and more sports legends are starting to pass away ?', None, None, None, 1), ('Him and Jack were perhaps the most important icons in golf .', None, None, None, 1), ('Have you ever had an Arnold Palmer ?', None, None, None, 1), ("It 's a really good drink too . We should share a few Arnold Palmers later on today", None, None, None, 0), ("to honor the life of this great man . Should we hit a few rounds today as well ? I mean I know you 're a big gold fan ,", None, None, None, 0), ('so I understand', None, None, None, 0), ('how this is upsetting you .', None, None, None, 1), ('I will send you more articles about him later on today', None, None, None, 0), ('so we can talk more about him .', None, None, None, 1), ('What do you think ?', None, None, None, 1), ('Who do you think was better ? Jack or Arnold ? What about tiger ? Either way , I hope', None, None, None, 0), ('you get this article', None, None, None, 0), ('and it helps lift your spirits a bit .', None, None, None, 1), ('I can not really connect to the article', None, None, None, 0), ('since I am not a big golf person ,', None, None, None, 0), ('but I still think', None, None, None, 0), ('we should honor the man .', None, None, None, 1)]

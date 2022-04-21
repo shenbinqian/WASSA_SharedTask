@@ -1,0 +1,21 @@
+=====================> [[("I 'm just in shock", None, None, None, 0), ('at what I read .', None, None, None, 1), ('All these migrants', None, None, None, 0), ('attempting to make a better life', None, None, None, 0), ('for themselves ironically met an untimely and unexpected end .', None, None, None, 1), ('We must think about all these poor people', None, None, None, 0), ('who are forced to flee', None, None, None, 0), ('and find better lives .', None, None, None, 1), ('We must learn to accept them', None, None, None, 0), ('instead of having them forced to survive .', None, None, None, 1)]]
+Leaf:  N Background I 'm just in shock
+Leaf:  S span at what I read .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate All these migrants
+Leaf:  N Enablement attempting to make a better life
+Leaf:  S span for themselves ironically met an untimely and unexpected end .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We must think about all these poor people
+Leaf:  N Enablement who are forced to flee
+Leaf:  S span and find better lives .
+Inner:  S span None Enablement NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Contrast We must learn to accept them
+Leaf:  N Contrast instead of having them forced to survive .
+Inner:  S span None Contrast NN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I 'm just in shock", None, None, None, 0), ('at what I read .', None, None, None, 1), ('All these migrants', None, None, None, 0), ('attempting to make a better life', None, None, None, 0), ('for themselves ironically met an untimely and unexpected end .', None, None, None, 1), ('We must think about all these poor people', None, None, None, 0), ('who are forced to flee', None, None, None, 0), ('and find better lives .', None, None, None, 1), ('We must learn to accept them', None, None, None, 0), ('instead of having them forced to survive .', None, None, None, 1)]

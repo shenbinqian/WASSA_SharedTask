@@ -1,0 +1,19 @@
+=====================> [[('Thinking of the earthquakes , makes me think of the issue on global warming and climate change .', None, None, None, 1), ('It seems like we are having more and more natural disasters .', None, None, None, 1), ('This leads you to think of the cause', None, None, None, 0), ('and how climate change had to be happening .', None, None, None, 1), ('I could not imagine .', None, None, None, 1), ('Shows you to be grateful ,', None, None, None, 0), ('you never know', None, None, None, 0), ('what could happen .', None, None, None, 1), ('Something are just out of your control .', None, None, None, 1)]]
+Leaf:  N Elaborate Thinking of the earthquakes , makes me think of the issue on global warming and climate change .
+Leaf:  N Cause It seems like we are having more and more natural disasters .
+Leaf:  N Joint This leads you to think of the cause
+Leaf:  N Joint and how climate change had to be happening .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I could not imagine .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Shows you to be grateful ,
+Leaf:  S span you never know
+Leaf:  N Attribution what could happen .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Leaf:  S span Something are just out of your control .
+Inner:  S span None Summary NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Thinking of the earthquakes , makes me think of the issue on global warming and climate change .', None, None, None, 1), ('It seems like we are having more and more natural disasters .', None, None, None, 1), ('This leads you to think of the cause', None, None, None, 0), ('and how climate change had to be happening .', None, None, None, 1), ('I could not imagine .', None, None, None, 1), ('Shows you to be grateful ,', None, None, None, 0), ('you never know', None, None, None, 0), ('what could happen .', None, None, None, 1), ('Something are just out of your control .', None, None, None, 1)]

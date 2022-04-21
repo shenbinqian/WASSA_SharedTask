@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('that people try to pin a lot of stuff on trump as far', None, None, None, 0), ('as sexism goes ,', None, None, None, 0), ("but it does n't really matter .", None, None, None, 1), ('if people want trump out of office', None, None, None, 0), ('then they need to find something', None, None, None, 0), ('else to pin on him .', None, None, None, 1), ('He tampered with the election via the russians ,', None, None, None, 0), ('and thats what people need to pin on him .', None, None, None, 1), ("This sexism nonsense is n't going to go anywhere", None, None, None, 0)]]
+Leaf:  S span I think
+Leaf:  N Background that people try to pin a lot of stuff on trump as far
+Leaf:  S span as sexism goes ,
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it does n't really matter .
+Inner:  N Explanation None Contrast SN
+Leaf:  S span if people want trump out of office
+Leaf:  N Elaborate then they need to find something
+Leaf:  S span else to pin on him .
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  S span He tampered with the election via the russians ,
+Leaf:  N Elaborate and thats what people need to pin on him .
+Inner:  S span None Elaborate SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This sexism nonsense is n't going to go anywhere
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('that people try to pin a lot of stuff on trump as far', None, None, None, 0), ('as sexism goes ,', None, None, None, 0), ("but it does n't really matter .", None, None, None, 1), ('if people want trump out of office', None, None, None, 0), ('then they need to find something', None, None, None, 0), ('else to pin on him .', None, None, None, 1), ('He tampered with the election via the russians ,', None, None, None, 0), ('and thats what people need to pin on him .', None, None, None, 1), ("This sexism nonsense is n't going to go anywhere", None, None, None, 0)]

@@ -1,0 +1,23 @@
+=====================> [[('So I read an article on Leon Russell', None, None, None, 0), ('passing away .', None, None, None, 1), ('I really do not listen to rock and roll music like that ,', None, None, None, 0), ('but from the article you can just see', None, None, None, 0), ('how many people', None, None, None, 0), ('he has', None, None, None, 0), ('touched in his life in positive ways .', None, None, None, 1), ('There was even a quote from Elton John', None, None, None, 0), ('talking', None, None, None, 0), ('about how influential Russel was in his own life , and the impact', None, None, None, 0), ('he had on his stardom .', None, None, None, 1)]]
+Leaf:  N Elaborate So I read an article on Leon Russell
+Leaf:  S span passing away .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I really do not listen to rock and roll music like that ,
+Leaf:  S span but from the article you can just see
+Leaf:  N Elaborate how many people
+Leaf:  S span he has
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit touched in his life in positive ways .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate There was even a quote from Elton John
+Leaf:  S span talking
+Leaf:  N Elaborate about how influential Russel was in his own life , and the impact
+Leaf:  S span he had on his stardom .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('So I read an article on Leon Russell', None, None, None, 0), ('passing away .', None, None, None, 1), ('I really do not listen to rock and roll music like that ,', None, None, None, 0), ('but from the article you can just see', None, None, None, 0), ('how many people', None, None, None, 0), ('he has', None, None, None, 0), ('touched in his life in positive ways .', None, None, None, 1), ('There was even a quote from Elton John', None, None, None, 0), ('talking', None, None, None, 0), ('about how influential Russel was in his own life , and the impact', None, None, None, 0), ('he had on his stardom .', None, None, None, 1)]

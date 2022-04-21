@@ -1,0 +1,17 @@
+=====================> [[('This is such a shame .', None, None, None, 1), ('It seemed like Uganda was making progress with the change in their attitudes toward homosexuality', None, None, None, 0), ('but this seems like a major setback .', None, None, None, 1), ('Why can people not just let others love', None, None, None, 0), ('who they want ?', None, None, None, 1), ('I will always support our LGBTQ + friends and loved ones', None, None, None, 0), ('and I will never understand those', None, None, None, 0), ("who do n't .", None, None, None, 1)]]
+Leaf:  N Explanation This is such a shame .
+Leaf:  N Contrast It seemed like Uganda was making progress with the change in their attitudes toward homosexuality
+Leaf:  N Contrast but this seems like a major setback .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Elaborate Why can people not just let others love
+Leaf:  S span who they want ?
+Inner:  N Explanation None Elaborate NS
+Inner:  N Elaborate None Explanation NN
+Leaf:  N Joint I will always support our LGBTQ + friends and loved ones
+Leaf:  N Elaborate and I will never understand those
+Leaf:  S span who do n't .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This is such a shame .', None, None, None, 1), ('It seemed like Uganda was making progress with the change in their attitudes toward homosexuality', None, None, None, 0), ('but this seems like a major setback .', None, None, None, 1), ('Why can people not just let others love', None, None, None, 0), ('who they want ?', None, None, None, 1), ('I will always support our LGBTQ + friends and loved ones', None, None, None, 0), ('and I will never understand those', None, None, None, 0), ("who do n't .", None, None, None, 1)]

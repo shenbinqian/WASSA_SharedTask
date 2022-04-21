@@ -1,0 +1,13 @@
+=====================> [[('Here is an article', None, None, None, 0), ('that pretty much sums up', None, None, None, 0), ('what most people already know about Donald Trump and his campaign platform .', None, None, None, 1), ('This is highlights some of the main points ,', None, None, None, 0), ('including his stances on immigration , abortion rights , gun rights , Comey , the Clintons , and a variety of other topics .', None, None, None, 1), ("It 's a good refresher .", None, None, None, 1)]]
+Leaf:  N Elaborate Here is an article
+Leaf:  S span that pretty much sums up
+Leaf:  N Attribution what most people already know about Donald Trump and his campaign platform .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is highlights some of the main points ,
+Leaf:  S span including his stances on immigration , abortion rights , gun rights , Comey , the Clintons , and a variety of other topics .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's a good refresher .
+Inner:  Root None None Evaluation NS
+[('Here is an article', None, None, None, 0), ('that pretty much sums up', None, None, None, 0), ('what most people already know about Donald Trump and his campaign platform .', None, None, None, 1), ('This is highlights some of the main points ,', None, None, None, 0), ('including his stances on immigration , abortion rights , gun rights , Comey , the Clintons , and a variety of other topics .', None, None, None, 1), ("It 's a good refresher .", None, None, None, 1)]

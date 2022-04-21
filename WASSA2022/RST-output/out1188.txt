@@ -1,0 +1,19 @@
+=====================> [[('The police asked for help to the people for identify the lady .', None, None, None, 1), ('I think , she was escaped from the police custody', None, None, None, 0), ('and placed in the Philadelphia high way .', None, None, None, 1), ('The police explores the identification marks of the lady .', None, None, None, 1), ('The police asked for help to the people for identify the lady .', None, None, None, 1), ('I think ,', None, None, None, 0), ('she was escaped from the police custody', None, None, None, 0), ('and placed in the Philadelphia high way .', None, None, None, 1), ('The police explores the identification marks of the lady .', None, None, None, 1)]]
+Leaf:  N Elaborate The police asked for help to the people for identify the lady .
+Leaf:  N Joint I think , she was escaped from the police custody
+Leaf:  N Joint and placed in the Philadelphia high way .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The police explores the identification marks of the lady .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The police asked for help to the people for identify the lady .
+Leaf:  S span I think ,
+Leaf:  N Joint she was escaped from the police custody
+Leaf:  N Joint and placed in the Philadelphia high way .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The police explores the identification marks of the lady .
+Inner:  Root None None Elaborate NS
+[('The police asked for help to the people for identify the lady .', None, None, None, 1), ('I think , she was escaped from the police custody', None, None, None, 0), ('and placed in the Philadelphia high way .', None, None, None, 1), ('The police explores the identification marks of the lady .', None, None, None, 1), ('The police asked for help to the people for identify the lady .', None, None, None, 1), ('I think ,', None, None, None, 0), ('she was escaped from the police custody', None, None, None, 0), ('and placed in the Philadelphia high way .', None, None, None, 1), ('The police explores the identification marks of the lady .', None, None, None, 1)]

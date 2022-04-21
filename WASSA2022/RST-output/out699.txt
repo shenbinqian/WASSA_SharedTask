@@ -1,0 +1,11 @@
+=====================> [[('Bankia a banking company in Spain had their board members spend unauthorized private money from the bank on hotels , entertainment food , and other luxuries .', None, None, None, 1), ('All this was spent from credit cards', None, None, None, 0), ('used by the bank itself .', None, None, None, 1), ('The spending was unauthorized and not reported to the tax authorities at all .', None, None, None, 1), ('Bankia was already in the limelight already due to being bailed out by the government in 13 million dollars .', None, None, None, 1)]]
+Leaf:  N Elaborate Bankia a banking company in Spain had their board members spend unauthorized private money from the bank on hotels , entertainment food , and other luxuries .
+Leaf:  N Elaborate All this was spent from credit cards
+Leaf:  S span used by the bank itself .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The spending was unauthorized and not reported to the tax authorities at all .
+Inner:  S span None Elaborate NS
+Inner:  N Comparison None Elaborate NS
+Leaf:  S span Bankia was already in the limelight already due to being bailed out by the government in 13 million dollars .
+Inner:  Root None None Comparison NS
+[('Bankia a banking company in Spain had their board members spend unauthorized private money from the bank on hotels , entertainment food , and other luxuries .', None, None, None, 1), ('All this was spent from credit cards', None, None, None, 0), ('used by the bank itself .', None, None, None, 1), ('The spending was unauthorized and not reported to the tax authorities at all .', None, None, None, 1), ('Bankia was already in the limelight already due to being bailed out by the government in 13 million dollars .', None, None, None, 1)]

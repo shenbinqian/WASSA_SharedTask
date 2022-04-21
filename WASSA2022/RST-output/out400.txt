@@ -1,0 +1,25 @@
+=====================> [[('Trump should really not underestimate the blacks .', None, None, None, 1), ('They got complacent after two Obama terms ,', None, None, None, 0), ("and did n't come out in force", None, None, None, 0), ('like they should have for the election .', None, None, None, 1), ('Now that Trump is in office ,', None, None, None, 0), ("I do n't think", None, None, None, 0), ("there 's any way", None, None, None, 0), ('he can win the black vote ,', None, None, None, 0), ('and that would definitely sway the election in 2020 .', None, None, None, 1), ('I really think', None, None, None, 0), ("Trump 's days are numbered ,", None, None, None, 0), ("whether it 's impeachment or defeat in the next election .", None, None, None, 1)]]
+Leaf:  N Explanation Trump should really not underestimate the blacks .
+Leaf:  N Joint They got complacent after two Obama terms ,
+Leaf:  N Comparison and did n't come out in force
+Leaf:  N Comparison like they should have for the election .
+Inner:  N Joint None Comparison NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Leaf:  S span Now that Trump is in office ,
+Leaf:  S span I do n't think
+Leaf:  N Elaborate there 's any way
+Leaf:  S span he can win the black vote ,
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and that would definitely sway the election in 2020 .
+Inner:  N Attribution None Cause NS
+Inner:  N Background None Attribution SN
+Inner:  N Elaborate None Background SN
+Leaf:  S span I really think
+Leaf:  N Attribution Trump 's days are numbered ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span whether it 's impeachment or defeat in the next election .
+Inner:  S span None Contrast NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('Trump should really not underestimate the blacks .', None, None, None, 1), ('They got complacent after two Obama terms ,', None, None, None, 0), ("and did n't come out in force", None, None, None, 0), ('like they should have for the election .', None, None, None, 1), ('Now that Trump is in office ,', None, None, None, 0), ("I do n't think", None, None, None, 0), ("there 's any way", None, None, None, 0), ('he can win the black vote ,', None, None, None, 0), ('and that would definitely sway the election in 2020 .', None, None, None, 1), ('I really think', None, None, None, 0), ("Trump 's days are numbered ,", None, None, None, 0), ("whether it 's impeachment or defeat in the next election .", None, None, None, 1)]

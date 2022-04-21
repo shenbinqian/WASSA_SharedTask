@@ -1,0 +1,23 @@
+=====================> [[('Honestly , any woman', None, None, None, 0), ('who is a member of the Republican party is ignorant .', None, None, None, 1), ('Egregious men have always dominated this party', None, None, None, 0), ('and anyone', None, None, None, 0), ('who will follow them , willingly or unwillingly .', None, None, None, 1), ('It disturbs me', None, None, None, 0), ('that so many women will bend to the will of a man', None, None, None, 0), ('and follow', None, None, None, 0), ('whatever they say .', None, None, None, 1), ("Even with Donald Trump 's antics , degradation , and name-calling , these women are still following party , rather than their own best interest .", None, None, None, 1), ('Disgusting !', None, None, None, 1)]]
+Leaf:  N Elaborate Honestly , any woman
+Leaf:  S span who is a member of the Republican party is ignorant .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Same-Unit Egregious men have always dominated this party
+Leaf:  N Elaborate and anyone
+Leaf:  S span who will follow them , willingly or unwillingly .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It disturbs me
+Leaf:  N Joint that so many women will bend to the will of a man
+Leaf:  S span and follow
+Leaf:  N Attribution whatever they say .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Even with Donald Trump 's antics , degradation , and name-calling , these women are still following party , rather than their own best interest .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Disgusting !
+Inner:  Root None None Evaluation NS
+[('Honestly , any woman', None, None, None, 0), ('who is a member of the Republican party is ignorant .', None, None, None, 1), ('Egregious men have always dominated this party', None, None, None, 0), ('and anyone', None, None, None, 0), ('who will follow them , willingly or unwillingly .', None, None, None, 1), ('It disturbs me', None, None, None, 0), ('that so many women will bend to the will of a man', None, None, None, 0), ('and follow', None, None, None, 0), ('whatever they say .', None, None, None, 1), ("Even with Donald Trump 's antics , degradation , and name-calling , these women are still following party , rather than their own best interest .", None, None, None, 1), ('Disgusting !', None, None, None, 1)]

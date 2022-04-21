@@ -1,0 +1,27 @@
+=====================> [[("I 'm not sure", None, None, None, 0), ('how to feel about animals', None, None, None, 0), ('that are considered as abused', None, None, None, 0), ('when being used for entertainment purposes .', None, None, None, 1), ('It gives us the opportunity', None, None, None, 0), ('to learn and see them up close', None, None, None, 0), ('but at the same time its hard to handle the fact', None, None, None, 0), ('that these animals might be feeling pain .', None, None, None, 1), ('I mean imagine', None, None, None, 0), ('being captive by monkeys', None, None, None, 0), ('your whole life', None, None, None, 0), ('so they can introduce them to humans .', None, None, None, 1), ('Would be sad .', None, None, None, 1)]]
+Leaf:  S span I 'm not sure
+Leaf:  N Elaborate how to feel about animals
+Leaf:  N Background that are considered as abused
+Leaf:  S span when being used for entertainment purposes .
+Inner:  S span None Background NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It gives us the opportunity
+Leaf:  S span to learn and see them up close
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but at the same time its hard to handle the fact
+Leaf:  S span that these animals might be feeling pain .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Summary None Elaborate NS
+Leaf:  S span I mean imagine
+Leaf:  N Enablement being captive by monkeys
+Leaf:  S span your whole life
+Inner:  N Enablement None Enablement NS
+Leaf:  S span so they can introduce them to humans .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Would be sad .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("I 'm not sure", None, None, None, 0), ('how to feel about animals', None, None, None, 0), ('that are considered as abused', None, None, None, 0), ('when being used for entertainment purposes .', None, None, None, 1), ('It gives us the opportunity', None, None, None, 0), ('to learn and see them up close', None, None, None, 0), ('but at the same time its hard to handle the fact', None, None, None, 0), ('that these animals might be feeling pain .', None, None, None, 1), ('I mean imagine', None, None, None, 0), ('being captive by monkeys', None, None, None, 0), ('your whole life', None, None, None, 0), ('so they can introduce them to humans .', None, None, None, 1), ('Would be sad .', None, None, None, 1)]

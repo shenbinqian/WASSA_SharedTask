@@ -1,0 +1,17 @@
+=====================> [[('Its heart wrenching to read stories', None, None, None, 0), ('and see pictures of kids', None, None, None, 0), ('forced into labor .', None, None, None, 1), ('I personally feel', None, None, None, 0), ('that is the height of cruelty .', None, None, None, 1), ('Turkey is particularly notorious for child trafficking and labor ,', None, None, None, 0), ('its alarming the government is not doing anything about this problem .', None, None, None, 1), ('Children should be put in school not some factory !', None, None, None, 1)]]
+Leaf:  N Joint Its heart wrenching to read stories
+Leaf:  N Elaborate and see pictures of kids
+Leaf:  S span forced into labor .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I personally feel
+Leaf:  N Attribution that is the height of cruelty .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Turkey is particularly notorious for child trafficking and labor ,
+Leaf:  N Background its alarming the government is not doing anything about this problem .
+Inner:  N Evaluation None Background SN
+Leaf:  S span Children should be put in school not some factory !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Its heart wrenching to read stories', None, None, None, 0), ('and see pictures of kids', None, None, None, 0), ('forced into labor .', None, None, None, 1), ('I personally feel', None, None, None, 0), ('that is the height of cruelty .', None, None, None, 1), ('Turkey is particularly notorious for child trafficking and labor ,', None, None, None, 0), ('its alarming the government is not doing anything about this problem .', None, None, None, 1), ('Children should be put in school not some factory !', None, None, None, 1)]

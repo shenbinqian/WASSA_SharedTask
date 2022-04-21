@@ -1,0 +1,21 @@
+=====================> [[('These type of events of bomb explosions and terrorist threats are extremely dangerous', None, None, None, 0), ('and should be taken very seriously .', None, None, None, 1), ('People are just going around for their day', None, None, None, 0), ("and they do n't really know what could happen to them", None, None, None, 0), ('and these type of incidents are very tragic and hurtful .', None, None, None, 1), ('The security measures in the United States should be more careful', None, None, None, 0), ('and should check anyone', None, None, None, 0), ('that is suspicious', None, None, None, 0), ('and make the country a safer place', None, None, None, 0), ('than how it already is .', None, None, None, 1)]]
+Leaf:  N Joint These type of events of bomb explosions and terrorist threats are extremely dangerous
+Leaf:  N Joint and should be taken very seriously .
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint People are just going around for their day
+Leaf:  N Joint and they do n't really know what could happen to them
+Inner:  N Cause None Joint NN
+Leaf:  S span and these type of incidents are very tragic and hurtful .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint The security measures in the United States should be more careful
+Leaf:  N Elaborate and should check anyone
+Leaf:  N Joint that is suspicious
+Leaf:  N Comparison and make the country a safer place
+Leaf:  S span than how it already is .
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('These type of events of bomb explosions and terrorist threats are extremely dangerous', None, None, None, 0), ('and should be taken very seriously .', None, None, None, 1), ('People are just going around for their day', None, None, None, 0), ("and they do n't really know what could happen to them", None, None, None, 0), ('and these type of incidents are very tragic and hurtful .', None, None, None, 1), ('The security measures in the United States should be more careful', None, None, None, 0), ('and should check anyone', None, None, None, 0), ('that is suspicious', None, None, None, 0), ('and make the country a safer place', None, None, None, 0), ('than how it already is .', None, None, None, 1)]

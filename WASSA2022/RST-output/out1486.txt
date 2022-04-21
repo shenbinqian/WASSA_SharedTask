@@ -1,0 +1,21 @@
+=====================> [[('Hey I thought', None, None, None, 0), ("you 'd be interested in this article", None, None, None, 0), ('I just read about the complications', None, None, None, 0), ('associated with contact lenses .', None, None, None, 1), ('I know', None, None, None, 0), ('you were considering allowing Mary to get contacts instead of her glasses this year .', None, None, None, 1), ('It seems that complications can range from microbial infections to complete blindness !', None, None, None, 1), ('Interestly , the CDC notes', None, None, None, 0), ('that there are less incidents with the disposable lenses .', None, None, None, 1), ('Have you considered them at all ?', None, None, None, 1)]]
+Leaf:  S span Hey I thought
+Leaf:  N Attribution you 'd be interested in this article
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate I just read about the complications
+Leaf:  S span associated with contact lenses .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  S span I know
+Leaf:  N Attribution you were considering allowing Mary to get contacts instead of her glasses this year .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span It seems that complications can range from microbial infections to complete blindness !
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Interestly , the CDC notes
+Leaf:  N Attribution that there are less incidents with the disposable lenses .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Have you considered them at all ?
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey I thought', None, None, None, 0), ("you 'd be interested in this article", None, None, None, 0), ('I just read about the complications', None, None, None, 0), ('associated with contact lenses .', None, None, None, 1), ('I know', None, None, None, 0), ('you were considering allowing Mary to get contacts instead of her glasses this year .', None, None, None, 1), ('It seems that complications can range from microbial infections to complete blindness !', None, None, None, 1), ('Interestly , the CDC notes', None, None, None, 0), ('that there are less incidents with the disposable lenses .', None, None, None, 1), ('Have you considered them at all ?', None, None, None, 1)]

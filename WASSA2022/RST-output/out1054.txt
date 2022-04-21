@@ -1,0 +1,35 @@
+=====================> [[('Before reading this article', None, None, None, 0), ('I use to think', None, None, None, 0), ('that Flint was the only major water problem', None, None, None, 0), ('and I know', None, None, None, 0), ('that people have more on ,', None, None, None, 0), ('but Flint is still having a water problem .', None, None, None, 1), ("I 'm mad", None, None, None, 0), ('that California is the only state', None, None, None, 0), ('to pass laws', None, None, None, 0), ('for people to have rights to clean water .', None, None, None, 1), ('I know', None, None, None, 0), ('California has water issues with drought ,', None, None, None, 0), ('but nobody should go with out clean water .', None, None, None, 1), ('Reading the article , reminds me', None, None, None, 0), ('that this is a world wide issue', None, None, None, 0), ('and we must figure a way', None, None, None, 0), ('to provide fresh and clean water to everyone . Especially those in need .', None, None, None, 1)]]
+Leaf:  N Temporal Before reading this article
+Leaf:  S span I use to think
+Leaf:  N Attribution that Flint was the only major water problem
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I know
+Leaf:  N Attribution that people have more on ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but Flint is still having a water problem .
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span I 'm mad
+Leaf:  N Elaborate that California is the only state
+Leaf:  N Elaborate to pass laws
+Leaf:  S span for people to have rights to clean water .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution California has water issues with drought ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but nobody should go with out clean water .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Reading the article , reminds me
+Leaf:  N Joint that this is a world wide issue
+Leaf:  N Elaborate and we must figure a way
+Leaf:  S span to provide fresh and clean water to everyone . Especially those in need .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Before reading this article', None, None, None, 0), ('I use to think', None, None, None, 0), ('that Flint was the only major water problem', None, None, None, 0), ('and I know', None, None, None, 0), ('that people have more on ,', None, None, None, 0), ('but Flint is still having a water problem .', None, None, None, 1), ("I 'm mad", None, None, None, 0), ('that California is the only state', None, None, None, 0), ('to pass laws', None, None, None, 0), ('for people to have rights to clean water .', None, None, None, 1), ('I know', None, None, None, 0), ('California has water issues with drought ,', None, None, None, 0), ('but nobody should go with out clean water .', None, None, None, 1), ('Reading the article , reminds me', None, None, None, 0), ('that this is a world wide issue', None, None, None, 0), ('and we must figure a way', None, None, None, 0), ('to provide fresh and clean water to everyone . Especially those in need .', None, None, None, 1)]

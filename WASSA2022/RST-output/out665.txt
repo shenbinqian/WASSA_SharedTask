@@ -1,0 +1,25 @@
+=====================> [[('I am thankful', None, None, None, 0), ('that there are people', None, None, None, 0), ('who care about this issue ,', None, None, None, 0), ("but I really do n't .", None, None, None, 1), ('I feel', None, None, None, 0), ('like this is just part of the life-cycle', None, None, None, 0), ("and I do n't really get why so much money is being wasted on a problem", None, None, None, 0), ("and is n't necessarily crucial . However ,", None, None, None, 0), ('as I said ,', None, None, None, 0), ("it 's probably good that people", None, None, None, 0), ('who know more about this issue than I do', None, None, None, 0), ('are caring about the problem .', None, None, None, 1)]]
+Leaf:  S span I am thankful
+Leaf:  N Elaborate that there are people
+Leaf:  S span who care about this issue ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I really do n't .
+Inner:  N Explanation None Contrast NS
+Leaf:  S span I feel
+Leaf:  N Attribution like this is just part of the life-cycle
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and I do n't really get why so much money is being wasted on a problem
+Leaf:  N Attribution and is n't necessarily crucial . However ,
+Leaf:  S span as I said ,
+Inner:  N Joint None Attribution NS
+Inner:  S span None Joint NN
+Leaf:  N Elaborate it 's probably good that people
+Leaf:  S span who know more about this issue than I do
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are caring about the problem .
+Inner:  N Background None Same-Unit NN
+Inner:  N Joint None Background SN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('I am thankful', None, None, None, 0), ('that there are people', None, None, None, 0), ('who care about this issue ,', None, None, None, 0), ("but I really do n't .", None, None, None, 1), ('I feel', None, None, None, 0), ('like this is just part of the life-cycle', None, None, None, 0), ("and I do n't really get why so much money is being wasted on a problem", None, None, None, 0), ("and is n't necessarily crucial . However ,", None, None, None, 0), ('as I said ,', None, None, None, 0), ("it 's probably good that people", None, None, None, 0), ('who know more about this issue than I do', None, None, None, 0), ('are caring about the problem .', None, None, None, 1)]

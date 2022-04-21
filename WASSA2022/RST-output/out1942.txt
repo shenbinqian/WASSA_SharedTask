@@ -1,0 +1,27 @@
+=====================> [[('OMG did you realize', None, None, None, 0), ('that bananas could become extinct ?', None, None, None, 1), ('This is so devastating to me', None, None, None, 0), ('because they are one of the only fruits', None, None, None, 0), ('I even like ,', None, None, None, 0), ('plus my kids love them .', None, None, None, 1), ('We need to do everything', None, None, None, 0), ('we can', None, None, None, 0), ('to prevent this from happening ~ !', None, None, None, 1), ('Bananas absolutely must be saved .', None, None, None, 1), ('I think', None, None, None, 0), ('this would be a serious issue', None, None, None, 0), ('if this were to actuallyh appen .', None, None, None, 1)]]
+Leaf:  S span OMG did you realize
+Leaf:  N Attribution that bananas could become extinct ?
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation This is so devastating to me
+Leaf:  N Elaborate because they are one of the only fruits
+Leaf:  N Joint I even like ,
+Leaf:  N Joint plus my kids love them .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate We need to do everything
+Leaf:  N Enablement we can
+Leaf:  S span to prevent this from happening ~ !
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Bananas absolutely must be saved .
+Leaf:  S span I think
+Leaf:  N Condition this would be a serious issue
+Leaf:  S span if this were to actuallyh appen .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('OMG did you realize', None, None, None, 0), ('that bananas could become extinct ?', None, None, None, 1), ('This is so devastating to me', None, None, None, 0), ('because they are one of the only fruits', None, None, None, 0), ('I even like ,', None, None, None, 0), ('plus my kids love them .', None, None, None, 1), ('We need to do everything', None, None, None, 0), ('we can', None, None, None, 0), ('to prevent this from happening ~ !', None, None, None, 1), ('Bananas absolutely must be saved .', None, None, None, 1), ('I think', None, None, None, 0), ('this would be a serious issue', None, None, None, 0), ('if this were to actuallyh appen .', None, None, None, 1)]

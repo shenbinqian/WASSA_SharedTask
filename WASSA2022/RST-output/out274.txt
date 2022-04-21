@@ -1,0 +1,45 @@
+=====================> [[('The person', None, None, None, 0), ('I thought', None, None, None, 0), ('I was', None, None, None, 0), ('supposed to be or was going to be or who I thought', None, None, None, 0), ('I was six months ago is now somebody completely different .', None, None, None, 1), ('I realize ,', None, None, None, 0), ('‘ Wow , I really thought', None, None, None, 0), ('that I was so brave and so gracious this entire time', None, None, None, 0), ('and really I was just hiding .', None, None, None, 1), ('’” Handler ,', None, None, None, 0), ('whose mom died of breast cancer in 2006 ,', None, None, None, 0), ('got choked up during the emotional interview . “ Do n’t cry ! Do n’t cry ! ” Doherty told the talk show host', None, None, None, 0), ('as Handler tried to hold back tears . “ Well , I mean , all right — hold on a second , ”', None, None, None, 0), ('Handler , 41 , said ,', None, None, None, 0), ('while tilting her head back', None, None, None, 0), ('to keep the tears from streaming down her face . “ This was very hard and not humbling —', None, None, None, 0), ('because I ’ve already been humbled by cancer , ”', None, None, None, 0), ('Doherty then continues .', None, None, None, 1), ('“ It was hard in the sense', None, None, None, 0), ('of rethinking sort of who you are', None, None, None, 0), ('and how you come to terms with', None, None, None, 0), ('who are now an', None, None, None, 0)]]
+Leaf:  N Elaborate The person
+Leaf:  S span I thought
+Inner:  S span None Elaborate NS
+Leaf:  N Same-Unit I was
+Leaf:  N Same-Unit supposed to be or was going to be or who I thought
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution I was six months ago is now somebody completely different .
+Inner:  N Attribution None Attribution SN
+Inner:  N Cause None Attribution SN
+Leaf:  S span I realize ,
+Leaf:  S span ‘ Wow , I really thought
+Leaf:  N Joint that I was so brave and so gracious this entire time
+Leaf:  N Joint and really I was just hiding .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate ’” Handler ,
+Leaf:  S span whose mom died of breast cancer in 2006 ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit got choked up during the emotional interview . “ Do n’t cry ! Do n’t cry ! ” Doherty told the talk show host
+Inner:  N Background None Same-Unit NN
+Leaf:  N Attribution as Handler tried to hold back tears . “ Well , I mean , all right — hold on a second , ”
+Leaf:  S span Handler , 41 , said ,
+Inner:  S span None Attribution NS
+Inner:  N Temporal None Background NS
+Leaf:  N Enablement while tilting her head back
+Leaf:  S span to keep the tears from streaming down her face . “ This was very hard and not humbling —
+Inner:  N Explanation None Enablement NS
+Leaf:  S span because I ’ve already been humbled by cancer , ”
+Inner:  S span None Explanation NS
+Inner:  N Attribution None Temporal NS
+Leaf:  S span Doherty then continues .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate “ It was hard in the sense
+Leaf:  S span of rethinking sort of who you are
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and how you come to terms with
+Leaf:  S span who are now an
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The person', None, None, None, 0), ('I thought', None, None, None, 0), ('I was', None, None, None, 0), ('supposed to be or was going to be or who I thought', None, None, None, 0), ('I was six months ago is now somebody completely different .', None, None, None, 1), ('I realize ,', None, None, None, 0), ('‘ Wow , I really thought', None, None, None, 0), ('that I was so brave and so gracious this entire time', None, None, None, 0), ('and really I was just hiding .', None, None, None, 1), ('’” Handler ,', None, None, None, 0), ('whose mom died of breast cancer in 2006 ,', None, None, None, 0), ('got choked up during the emotional interview . “ Do n’t cry ! Do n’t cry ! ” Doherty told the talk show host', None, None, None, 0), ('as Handler tried to hold back tears . “ Well , I mean , all right — hold on a second , ”', None, None, None, 0), ('Handler , 41 , said ,', None, None, None, 0), ('while tilting her head back', None, None, None, 0), ('to keep the tears from streaming down her face . “ This was very hard and not humbling —', None, None, None, 0), ('because I ’ve already been humbled by cancer , ”', None, None, None, 0), ('Doherty then continues .', None, None, None, 1), ('“ It was hard in the sense', None, None, None, 0), ('of rethinking sort of who you are', None, None, None, 0), ('and how you come to terms with', None, None, None, 0), ('who are now an', None, None, None, 0)]

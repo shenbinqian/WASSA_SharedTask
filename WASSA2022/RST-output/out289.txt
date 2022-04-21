@@ -1,0 +1,33 @@
+=====================> [[('This story makes me feel upset', None, None, None, 0), ('and aggravated', None, None, None, 0), ('because I hate that it is so easy to obtain guns in this country .', None, None, None, 1), ('I truly believe', None, None, None, 0), ('that there is no reason for anyone to have a gun', None, None, None, 0), ('and wish', None, None, None, 0), ('that the laws would change', None, None, None, 0), ('to make this the case ,', None, None, None, 0), ("so I always feel frustrated reading about random shootings . I hate that we are subject to everyone else 's violent whims", None, None, None, 0), ('as long as they can easily purchase a gun ,', None, None, None, 0), ('so that makes me feel angry and also worried . I also feel sort of exhausted ,', None, None, None, 0), ('since this happens in the news so much', None, None, None, 0), ('it just feels like yet another shooting story', None, None, None, 0), ('I have', None, None, None, 0), ('to be aware of ,', None, None, None, 0), ("it 's tiring .", None, None, None, 1)]]
+Leaf:  N Joint This story makes me feel upset
+Leaf:  N Joint and aggravated
+Inner:  N Explanation None Joint NN
+Leaf:  S span because I hate that it is so easy to obtain guns in this country .
+Inner:  N Explanation None Explanation NS
+Leaf:  S span I truly believe
+Leaf:  N Attribution that there is no reason for anyone to have a gun
+Inner:  N Joint None Attribution SN
+Leaf:  S span and wish
+Leaf:  N Enablement that the laws would change
+Leaf:  S span to make this the case ,
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  N Cause None Joint NN
+Leaf:  N Condition so I always feel frustrated reading about random shootings . I hate that we are subject to everyone else 's violent whims
+Leaf:  S span as long as they can easily purchase a gun ,
+Inner:  S span None Condition NS
+Inner:  N Cause None Cause NS
+Leaf:  S span so that makes me feel angry and also worried . I also feel sort of exhausted ,
+Inner:  N Explanation None Cause NS
+Leaf:  S span since this happens in the news so much
+Leaf:  N Elaborate it just feels like yet another shooting story
+Leaf:  N Elaborate I have
+Leaf:  S span to be aware of ,
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span it 's tiring .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This story makes me feel upset', None, None, None, 0), ('and aggravated', None, None, None, 0), ('because I hate that it is so easy to obtain guns in this country .', None, None, None, 1), ('I truly believe', None, None, None, 0), ('that there is no reason for anyone to have a gun', None, None, None, 0), ('and wish', None, None, None, 0), ('that the laws would change', None, None, None, 0), ('to make this the case ,', None, None, None, 0), ("so I always feel frustrated reading about random shootings . I hate that we are subject to everyone else 's violent whims", None, None, None, 0), ('as long as they can easily purchase a gun ,', None, None, None, 0), ('so that makes me feel angry and also worried . I also feel sort of exhausted ,', None, None, None, 0), ('since this happens in the news so much', None, None, None, 0), ('it just feels like yet another shooting story', None, None, None, 0), ('I have', None, None, None, 0), ('to be aware of ,', None, None, None, 0), ("it 's tiring .", None, None, None, 1)]

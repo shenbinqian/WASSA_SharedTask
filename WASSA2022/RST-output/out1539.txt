@@ -1,0 +1,21 @@
+=====================> [[('Did you hear about this shooting ?', None, None, None, 1), ('It appears to be random and utterly senseless .', None, None, None, 1), ('An elderly man was killed', None, None, None, 0), ('and the suspect is now barricaded in his house .', None, None, None, 1), ('There was a lot of misinformation early on about it', None, None, None, 0), ('being related to the election', None, None, None, 0), ('and that the suspect was a woman .', None, None, None, 1), ("It 's being reported now", None, None, None, 0), ('that both those claims are false .', None, None, None, 1), ('I really feel for that man and his family .', None, None, None, 1)]]
+Leaf:  N Topic-Comment Did you hear about this shooting ?
+Leaf:  N Elaborate It appears to be random and utterly senseless .
+Leaf:  N Temporal An elderly man was killed
+Leaf:  N Temporal and the suspect is now barricaded in his house .
+Inner:  S span None Temporal NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Background None Topic-Comment NN
+Leaf:  N Elaborate There was a lot of misinformation early on about it
+Leaf:  S span being related to the election
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and that the suspect was a woman .
+Inner:  S span None Joint NN
+Leaf:  S span It 's being reported now
+Leaf:  N Attribution that both those claims are false .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Background NS
+Leaf:  S span I really feel for that man and his family .
+Inner:  Root None None Evaluation NS
+[('Did you hear about this shooting ?', None, None, None, 1), ('It appears to be random and utterly senseless .', None, None, None, 1), ('An elderly man was killed', None, None, None, 0), ('and the suspect is now barricaded in his house .', None, None, None, 1), ('There was a lot of misinformation early on about it', None, None, None, 0), ('being related to the election', None, None, None, 0), ('and that the suspect was a woman .', None, None, None, 1), ("It 's being reported now", None, None, None, 0), ('that both those claims are false .', None, None, None, 1), ('I really feel for that man and his family .', None, None, None, 1)]

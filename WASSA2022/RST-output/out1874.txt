@@ -1,0 +1,19 @@
+=====================> [[('Very depressing story', None, None, None, 0), ('I read about climate change .', None, None, None, 1), ('It is getting worse', None, None, None, 0), ('and we are going to be experiencing warmer and warmer temperatures', None, None, None, 0), ('as the years go on .', None, None, None, 1), ('The man made causes of global warming are not slowing down', None, None, None, 0), ('and it looks like we will be dealing with worse and worse weather', None, None, None, 0), ('as the years go on .', None, None, None, 1), ('I worry about the future of this planet .', None, None, None, 1)]]
+Leaf:  N Elaborate Very depressing story
+Leaf:  S span I read about climate change .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It is getting worse
+Leaf:  N Temporal and we are going to be experiencing warmer and warmer temperatures
+Leaf:  N Temporal as the years go on .
+Inner:  N Joint None Temporal NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint The man made causes of global warming are not slowing down
+Leaf:  N Temporal and it looks like we will be dealing with worse and worse weather
+Leaf:  S span as the years go on .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I worry about the future of this planet .
+Inner:  Root None None Elaborate NS
+[('Very depressing story', None, None, None, 0), ('I read about climate change .', None, None, None, 1), ('It is getting worse', None, None, None, 0), ('and we are going to be experiencing warmer and warmer temperatures', None, None, None, 0), ('as the years go on .', None, None, None, 1), ('The man made causes of global warming are not slowing down', None, None, None, 0), ('and it looks like we will be dealing with worse and worse weather', None, None, None, 0), ('as the years go on .', None, None, None, 1), ('I worry about the future of this planet .', None, None, None, 1)]

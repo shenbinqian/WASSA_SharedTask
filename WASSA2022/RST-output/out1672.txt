@@ -1,0 +1,35 @@
+=====================> [[('Bullying is such a serious issue .', None, None, None, 1), ('It has been going on for so long .', None, None, None, 1), ('It is so sad that these young people have to take their life', None, None, None, 0), ('because they think', None, None, None, 0), ('there is no end in sight .', None, None, None, 1), ('What we need to do along with providing therapy for those', None, None, None, 0), ('that are bullied', None, None, None, 0), ('is to increase the consequences for those', None, None, None, 0), ('who are bullying others .', None, None, None, 1), ('This may have happened in Europe', None, None, None, 0), ('but in America teachers know', None, None, None, 0), ('this bullying is going on', None, None, None, 0), ('and they tend to protect the football players and other jocks .', None, None, None, 1), ('It is really sad .', None, None, None, 1), ('I hope', None, None, None, 0), ('you have never been bullied .', None, None, None, 1), ('I was and it was terrible .', None, None, None, 1)]]
+Leaf:  N Elaborate Bullying is such a serious issue .
+Leaf:  S span It has been going on for so long .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation It is so sad that these young people have to take their life
+Leaf:  S span because they think
+Leaf:  N Attribution there is no end in sight .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate What we need to do along with providing therapy for those
+Leaf:  S span that are bullied
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is to increase the consequences for those
+Leaf:  S span who are bullying others .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span This may have happened in Europe
+Leaf:  S span but in America teachers know
+Leaf:  N Attribution this bullying is going on
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation and they tend to protect the football players and other jocks .
+Inner:  N Contrast None Evaluation NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is really sad .
+Leaf:  S span I hope
+Leaf:  N Attribution you have never been bullied .
+Inner:  N Contrast None Attribution SN
+Leaf:  S span I was and it was terrible .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Bullying is such a serious issue .', None, None, None, 1), ('It has been going on for so long .', None, None, None, 1), ('It is so sad that these young people have to take their life', None, None, None, 0), ('because they think', None, None, None, 0), ('there is no end in sight .', None, None, None, 1), ('What we need to do along with providing therapy for those', None, None, None, 0), ('that are bullied', None, None, None, 0), ('is to increase the consequences for those', None, None, None, 0), ('who are bullying others .', None, None, None, 1), ('This may have happened in Europe', None, None, None, 0), ('but in America teachers know', None, None, None, 0), ('this bullying is going on', None, None, None, 0), ('and they tend to protect the football players and other jocks .', None, None, None, 1), ('It is really sad .', None, None, None, 1), ('I hope', None, None, None, 0), ('you have never been bullied .', None, None, None, 1), ('I was and it was terrible .', None, None, None, 1)]

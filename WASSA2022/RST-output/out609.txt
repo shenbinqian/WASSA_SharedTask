@@ -1,0 +1,21 @@
+=====================> [[('A priest was abducted and tortured in Mexico .', None, None, None, 1), ('Authorities think', None, None, None, 0), ('it was a robbery', None, None, None, 0), ('but the church is convinced', None, None, None, 0), ('it was due to him being a human rights activist .', None, None, None, 1), ('It sucks', None, None, None, 0), ('that it happened', None, None, None, 0), ('but in all fairness Mexico is a shit hole and well known for cartel actions such as this . How many of your peers have to get abducted and killed or tortured', None, None, None, 0), ('before you learn to shut the fuck up', None, None, None, 0), ('or get the fuck out ? In the end nobody but themselves to blame .', None, None, None, 1)]]
+Leaf:  N Elaborate A priest was abducted and tortured in Mexico .
+Leaf:  S span Authorities think
+Leaf:  N Attribution it was a robbery
+Inner:  S span None Attribution SN
+Leaf:  S span but the church is convinced
+Leaf:  N Attribution it was due to him being a human rights activist .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It sucks
+Leaf:  N Attribution that it happened
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but in all fairness Mexico is a shit hole and well known for cartel actions such as this . How many of your peers have to get abducted and killed or tortured
+Leaf:  N Joint before you learn to shut the fuck up
+Leaf:  N Joint or get the fuck out ? In the end nobody but themselves to blame .
+Inner:  N Condition None Joint NN
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('A priest was abducted and tortured in Mexico .', None, None, None, 1), ('Authorities think', None, None, None, 0), ('it was a robbery', None, None, None, 0), ('but the church is convinced', None, None, None, 0), ('it was due to him being a human rights activist .', None, None, None, 1), ('It sucks', None, None, None, 0), ('that it happened', None, None, None, 0), ('but in all fairness Mexico is a shit hole and well known for cartel actions such as this . How many of your peers have to get abducted and killed or tortured', None, None, None, 0), ('before you learn to shut the fuck up', None, None, None, 0), ('or get the fuck out ? In the end nobody but themselves to blame .', None, None, None, 1)]

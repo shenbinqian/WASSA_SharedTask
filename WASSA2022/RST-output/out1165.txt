@@ -1,0 +1,21 @@
+=====================> [[('Hello , dear group .', None, None, None, 1), ("Let 's trust in the laws of our country and in truly just judgments .", None, None, None, 1), ('Hopefully the murderer', None, None, None, 0), ('accused of five counts of murder will not be free and quiet in the streets of this country .', None, None, None, 1), ('I hope', None, None, None, 0), ('that justice can compensate a little to the relatives of the victim .', None, None, None, 1), ('After a 24-hour chase the police found the criminal', None, None, None, 0), ('and even though the victims have not been recognized ,', None, None, None, 0), ('they will soon discover', None, None, None, 0), ('who they are .', None, None, None, 1)]]
+Leaf:  N Joint Hello , dear group .
+Leaf:  N Joint Let 's trust in the laws of our country and in truly just judgments .
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Elaborate Hopefully the murderer
+Leaf:  S span accused of five counts of murder will not be free and quiet in the streets of this country .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution that justice can compensate a little to the relatives of the victim .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Same-Unit After a 24-hour chase the police found the criminal
+Leaf:  S span and even though the victims have not been recognized ,
+Leaf:  S span they will soon discover
+Leaf:  N Attribution who they are .
+Inner:  N Contrast None Attribution SN
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  N Topic-Comment None Explanation NS
+Inner:  Root None None Topic-Comment NN
+[('Hello , dear group .', None, None, None, 1), ("Let 's trust in the laws of our country and in truly just judgments .", None, None, None, 1), ('Hopefully the murderer', None, None, None, 0), ('accused of five counts of murder will not be free and quiet in the streets of this country .', None, None, None, 1), ('I hope', None, None, None, 0), ('that justice can compensate a little to the relatives of the victim .', None, None, None, 1), ('After a 24-hour chase the police found the criminal', None, None, None, 0), ('and even though the victims have not been recognized ,', None, None, None, 0), ('they will soon discover', None, None, None, 0), ('who they are .', None, None, None, 1)]

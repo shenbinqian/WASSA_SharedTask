@@ -1,0 +1,27 @@
+=====================> [[('What this article taught me was that heartbreaks are not the end of the world .', None, None, None, 1), ('Yes , they are NOT .', None, None, None, 1), ('Just because that one precious person left us we start living with an emotion', None, None, None, 0), ('that our life has come to an end .', None, None, None, 1), ("Life is n't ending at all ,", None, None, None, 0), ('each day is a new beginning , with new people waiting for us out there .', None, None, None, 1), ('As you move forward , life will remove many people from your life', None, None, None, 0), ("just because they are n't required", None, None, None, 0), ('and you can actually reach your destination .', None, None, None, 1), ('Your life has just begun ,', None, None, None, 0), ('nobody stops moving ,', None, None, None, 0), ('the sun still rises', None, None, None, 0), ('and the sun still sets .', None, None, None, 1)]]
+Leaf:  N Elaborate What this article taught me was that heartbreaks are not the end of the world .
+Leaf:  S span Yes , they are NOT .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Just because that one precious person left us we start living with an emotion
+Leaf:  S span that our life has come to an end .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Explanation NS
+Leaf:  N Explanation Life is n't ending at all ,
+Leaf:  N Explanation each day is a new beginning , with new people waiting for us out there .
+Inner:  S span None Explanation NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Explanation As you move forward , life will remove many people from your life
+Leaf:  S span just because they are n't required
+Inner:  N Joint None Explanation NS
+Leaf:  N Joint and you can actually reach your destination .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Your life has just begun ,
+Leaf:  N Joint nobody stops moving ,
+Leaf:  N Joint the sun still rises
+Leaf:  N Joint and the sun still sets .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('What this article taught me was that heartbreaks are not the end of the world .', None, None, None, 1), ('Yes , they are NOT .', None, None, None, 1), ('Just because that one precious person left us we start living with an emotion', None, None, None, 0), ('that our life has come to an end .', None, None, None, 1), ("Life is n't ending at all ,", None, None, None, 0), ('each day is a new beginning , with new people waiting for us out there .', None, None, None, 1), ('As you move forward , life will remove many people from your life', None, None, None, 0), ("just because they are n't required", None, None, None, 0), ('and you can actually reach your destination .', None, None, None, 1), ('Your life has just begun ,', None, None, None, 0), ('nobody stops moving ,', None, None, None, 0), ('the sun still rises', None, None, None, 0), ('and the sun still sets .', None, None, None, 1)]

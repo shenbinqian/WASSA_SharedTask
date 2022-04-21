@@ -1,0 +1,15 @@
+=====================> [[('The reason', None, None, None, 0), ("why they 're killing people over there", None, None, None, 0), ('is because the Allied Forces are occupying their country .', None, None, None, 1), ("If only we would keep our nose out of others ' business , then maybe , just maybe the world would become a better place .", None, None, None, 1), ('But as with all empires', None, None, None, 0), ('( and America is no different ) ,', None, None, None, 0), ('they eventually fall because of internal forces .', None, None, None, 1)]]
+Leaf:  N Summary The reason
+Leaf:  S span why they 're killing people over there
+Inner:  N Cause None Summary NS
+Leaf:  S span is because the Allied Forces are occupying their country .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Contrast If only we would keep our nose out of others ' business , then maybe , just maybe the world would become a better place .
+Leaf:  N Elaborate But as with all empires
+Leaf:  S span ( and America is no different ) ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background they eventually fall because of internal forces .
+Inner:  S span None Background SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('The reason', None, None, None, 0), ("why they 're killing people over there", None, None, None, 0), ('is because the Allied Forces are occupying their country .', None, None, None, 1), ("If only we would keep our nose out of others ' business , then maybe , just maybe the world would become a better place .", None, None, None, 1), ('But as with all empires', None, None, None, 0), ('( and America is no different ) ,', None, None, None, 0), ('they eventually fall because of internal forces .', None, None, None, 1)]

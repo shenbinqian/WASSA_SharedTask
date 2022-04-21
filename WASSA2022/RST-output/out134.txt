@@ -1,0 +1,27 @@
+=====================> [[('This is no surprise .', None, None, None, 1), ('As with every year before it for the past couple decades , this was the hottest year on record .', None, None, None, 1), ('I do not know', None, None, None, 0), ('how so many people can take irrefutable scientific evidence like this', None, None, None, 0), ('and still not only question , but outright deny', None, None, None, 0), ('that global warming is happening .', None, None, None, 1), ('It makes me angry', None, None, None, 0), ('that we are killing this planet', None, None, None, 0), ('and there are so many people', None, None, None, 0), ('that are simply too stupid', None, None, None, 0), ('too admit', None, None, None, 0), ('it is happening', None, None, None, 0), ('and fix it .', None, None, None, 1)]]
+Leaf:  N Elaborate This is no surprise .
+Leaf:  S span As with every year before it for the past couple decades , this was the hottest year on record .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I do not know
+Leaf:  N Temporal how so many people can take irrefutable scientific evidence like this
+Leaf:  S span and still not only question , but outright deny
+Leaf:  N Attribution that global warming is happening .
+Inner:  N Temporal None Attribution SN
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It makes me angry
+Leaf:  N Attribution that we are killing this planet
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and there are so many people
+Leaf:  N Elaborate that are simply too stupid
+Leaf:  S span too admit
+Leaf:  N Joint it is happening
+Leaf:  N Joint and fix it .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This is no surprise .', None, None, None, 1), ('As with every year before it for the past couple decades , this was the hottest year on record .', None, None, None, 1), ('I do not know', None, None, None, 0), ('how so many people can take irrefutable scientific evidence like this', None, None, None, 0), ('and still not only question , but outright deny', None, None, None, 0), ('that global warming is happening .', None, None, None, 1), ('It makes me angry', None, None, None, 0), ('that we are killing this planet', None, None, None, 0), ('and there are so many people', None, None, None, 0), ('that are simply too stupid', None, None, None, 0), ('too admit', None, None, None, 0), ('it is happening', None, None, None, 0), ('and fix it .', None, None, None, 1)]

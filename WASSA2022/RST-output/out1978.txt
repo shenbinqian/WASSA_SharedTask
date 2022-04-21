@@ -1,0 +1,21 @@
+=====================> [[('Did you like Dead or Alive ?', None, None, None, 1), ('I never listened to them ,', None, None, None, 0), ('but I just heard the singer died .', None, None, None, 1), ('I guess', None, None, None, 0), ('58 is a pretty ripe age for a musician though .', None, None, None, 1), ('Seems like people were pretty awful to him ,', None, None, None, 0), ('made fun of him for makeup and plastic surgery . Like honestly who cares', None, None, None, 0), ('if people want to change', None, None, None, 0), ('how they look ?', None, None, None, 1), ('If he was happy with it , good for him .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you like Dead or Alive ?
+Leaf:  S span I never listened to them ,
+Leaf:  N Contrast but I just heard the singer died .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Attribution 58 is a pretty ripe age for a musician though .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint Seems like people were pretty awful to him ,
+Leaf:  N Condition made fun of him for makeup and plastic surgery . Like honestly who cares
+Leaf:  N Manner-Means if people want to change
+Leaf:  S span how they look ?
+Inner:  S span None Manner-Means NS
+Inner:  N Joint None Condition NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span If he was happy with it , good for him .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Did you like Dead or Alive ?', None, None, None, 1), ('I never listened to them ,', None, None, None, 0), ('but I just heard the singer died .', None, None, None, 1), ('I guess', None, None, None, 0), ('58 is a pretty ripe age for a musician though .', None, None, None, 1), ('Seems like people were pretty awful to him ,', None, None, None, 0), ('made fun of him for makeup and plastic surgery . Like honestly who cares', None, None, None, 0), ('if people want to change', None, None, None, 0), ('how they look ?', None, None, None, 1), ('If he was happy with it , good for him .', None, None, None, 1)]

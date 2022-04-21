@@ -1,0 +1,19 @@
+=====================> [[('Hey I feel', None, None, None, 0), ('like Trump', None, None, None, 0), ('winning', None, None, None, 0), ('was way worse', None, None, None, 0), ('than people thought .', None, None, None, 1), ('The amount of violent attacks on minorites and in general have increased considerably .', None, None, None, 1), ('There have been over 200 attacks', None, None, None, 0), ('since election day can you imagine that ?', None, None, None, 1), ('I hate that trunp supporters somehow feel vindicated with their awful racism .', None, None, None, 1)]]
+Leaf:  S span Hey I feel
+Leaf:  N Elaborate like Trump
+Leaf:  S span winning
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Comparison was way worse
+Leaf:  S span than people thought .
+Inner:  N Same-Unit None Comparison NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The amount of violent attacks on minorites and in general have increased considerably .
+Leaf:  N Temporal There have been over 200 attacks
+Leaf:  S span since election day can you imagine that ?
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hate that trunp supporters somehow feel vindicated with their awful racism .
+Inner:  Root None None Evaluation NS
+[('Hey I feel', None, None, None, 0), ('like Trump', None, None, None, 0), ('winning', None, None, None, 0), ('was way worse', None, None, None, 0), ('than people thought .', None, None, None, 1), ('The amount of violent attacks on minorites and in general have increased considerably .', None, None, None, 1), ('There have been over 200 attacks', None, None, None, 0), ('since election day can you imagine that ?', None, None, None, 1), ('I hate that trunp supporters somehow feel vindicated with their awful racism .', None, None, None, 1)]

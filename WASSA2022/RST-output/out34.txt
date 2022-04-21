@@ -1,0 +1,25 @@
+=====================> [[('I hope', None, None, None, 0), ('everyone is ok .', None, None, None, 1), ('I was in a small earthquake', None, None, None, 0), ('and it was extremely scary .', None, None, None, 1), ('A lot of people can die', None, None, None, 0), ("if you do n't have safe buildings .", None, None, None, 1), ('I think', None, None, None, 0), ('there should be a major international effort', None, None, None, 0), ('to provide guidance for any nations in an earthquake prone region', None, None, None, 0), ('so that we can do a little bit', None, None, None, 0), ('to prevent more deaths', None, None, None, 0), ('when the earthquakes inevitably hit .', None, None, None, 1)]]
+Leaf:  S span I hope
+Leaf:  N Attribution everyone is ok .
+Inner:  N Background None Attribution SN
+Leaf:  N Temporal I was in a small earthquake
+Leaf:  N Temporal and it was extremely scary .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Condition A lot of people can die
+Leaf:  S span if you do n't have safe buildings .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Elaborate there should be a major international effort
+Leaf:  S span to provide guidance for any nations in an earthquake prone region
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Enablement so that we can do a little bit
+Leaf:  N Background to prevent more deaths
+Leaf:  S span when the earthquakes inevitably hit .
+Inner:  S span None Background NS
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Background NS
+[('I hope', None, None, None, 0), ('everyone is ok .', None, None, None, 1), ('I was in a small earthquake', None, None, None, 0), ('and it was extremely scary .', None, None, None, 1), ('A lot of people can die', None, None, None, 0), ("if you do n't have safe buildings .", None, None, None, 1), ('I think', None, None, None, 0), ('there should be a major international effort', None, None, None, 0), ('to provide guidance for any nations in an earthquake prone region', None, None, None, 0), ('so that we can do a little bit', None, None, None, 0), ('to prevent more deaths', None, None, None, 0), ('when the earthquakes inevitably hit .', None, None, None, 1)]

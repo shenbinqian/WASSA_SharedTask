@@ -1,0 +1,43 @@
+=====================> [[('Wow . So ...', None, None, None, 1), ('I sure as fuck do not have that much', None, None, None, 0), ('to say about that stupid article / news story .', None, None, None, 1), ('But ,', None, None, None, 0), ('I guess', None, None, None, 0), ("that I 'll try to think of something .", None, None, None, 1), ("It 's also not at all something", None, None, None, 0), ('that I would share', None, None, None, 0), ('or want to share with anyone', None, None, None, 0), ('that I know .', None, None, None, 1), ("It 's not relevant to me or the people", None, None, None, 0), ("that I know and care about . It 's not something that I would just choose to read either . Ok . Have you seen this article about the dad that killed his daughter 's molester ?", None, None, None, 1), ('Apparently she was molested', None, None, None, 0), ('when she was young ,', None, None, None, 0), ('the guy went to jail for a year', None, None, None, 0), ('and a half and was let out . Many years later , the dad went and shot the guy .', None, None, None, 1), ("That 's pretty much it . I do n't know why I 'm sending this to you ,", None, None, None, 0), ('but what do you think ?', None, None, None, 1), ('I think', None, None, None, 0), ('that it was boring', None, None, None, 0), ("and I was n't interested in it at all .", None, None, None, 1)]]
+Leaf:  N Textual-Organization Wow . So ...
+Leaf:  N Elaborate I sure as fuck do not have that much
+Leaf:  S span to say about that stupid article / news story .
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Attribution But ,
+Leaf:  S span I guess
+Leaf:  N Attribution that I 'll try to think of something .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate It 's also not at all something
+Leaf:  N Joint that I would share
+Leaf:  N Elaborate or want to share with anyone
+Leaf:  S span that I know .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate It 's not relevant to me or the people
+Leaf:  S span that I know and care about . It 's not something that I would just choose to read either . Ok . Have you seen this article about the dad that killed his daughter 's molester ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Temporal Apparently she was molested
+Leaf:  S span when she was young ,
+Inner:  N Temporal None Temporal NS
+Leaf:  N Joint the guy went to jail for a year
+Leaf:  N Joint and a half and was let out . Many years later , the dad went and shot the guy .
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span That 's pretty much it . I do n't know why I 'm sending this to you ,
+Leaf:  N Evaluation but what do you think ?
+Inner:  N Evaluation None Evaluation SN
+Leaf:  S span I think
+Leaf:  N Joint that it was boring
+Leaf:  N Joint and I was n't interested in it at all .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Textual-Organization None Contrast NN
+Inner:  Root None None Textual-Organization NN
+[('Wow . So ...', None, None, None, 1), ('I sure as fuck do not have that much', None, None, None, 0), ('to say about that stupid article / news story .', None, None, None, 1), ('But ,', None, None, None, 0), ('I guess', None, None, None, 0), ("that I 'll try to think of something .", None, None, None, 1), ("It 's also not at all something", None, None, None, 0), ('that I would share', None, None, None, 0), ('or want to share with anyone', None, None, None, 0), ('that I know .', None, None, None, 1), ("It 's not relevant to me or the people", None, None, None, 0), ("that I know and care about . It 's not something that I would just choose to read either . Ok . Have you seen this article about the dad that killed his daughter 's molester ?", None, None, None, 1), ('Apparently she was molested', None, None, None, 0), ('when she was young ,', None, None, None, 0), ('the guy went to jail for a year', None, None, None, 0), ('and a half and was let out . Many years later , the dad went and shot the guy .', None, None, None, 1), ("That 's pretty much it . I do n't know why I 'm sending this to you ,", None, None, None, 0), ('but what do you think ?', None, None, None, 1), ('I think', None, None, None, 0), ('that it was boring', None, None, None, 0), ("and I was n't interested in it at all .", None, None, None, 1)]

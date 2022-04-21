@@ -1,0 +1,17 @@
+=====================> [[('Things seem to be quite bad in Yemen .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('is not only the United States conducting drone operations or military operations for that matter in Yemen .', None, None, None, 1), ('Saudi Arabia and Qatar are also in it .', None, None, None, 1), ('Things must be very bad overthere .', None, None, None, 1), ('I have little background about the issue in Yemen ,', None, None, None, 0), ('I wonder', None, None, None, 0), ('what it is that Saudi Arabia and Qatar have to gain hehre ?', None, None, None, 1)]]
+Leaf:  N Evaluation Things seem to be quite bad in Yemen .
+Leaf:  N Same-Unit I ca n't believe
+Leaf:  N Same-Unit is not only the United States conducting drone operations or military operations for that matter in Yemen .
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint Saudi Arabia and Qatar are also in it .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Things must be very bad overthere .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I have little background about the issue in Yemen ,
+Leaf:  S span I wonder
+Leaf:  N Attribution what it is that Saudi Arabia and Qatar have to gain hehre ?
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('Things seem to be quite bad in Yemen .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('is not only the United States conducting drone operations or military operations for that matter in Yemen .', None, None, None, 1), ('Saudi Arabia and Qatar are also in it .', None, None, None, 1), ('Things must be very bad overthere .', None, None, None, 1), ('I have little background about the issue in Yemen ,', None, None, None, 0), ('I wonder', None, None, None, 0), ('what it is that Saudi Arabia and Qatar have to gain hehre ?', None, None, None, 1)]

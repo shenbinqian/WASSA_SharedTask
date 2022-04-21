@@ -1,0 +1,19 @@
+=====================> [[('Those poor little babies .', None, None, None, 1), ('This is just going to keep happening more and more .', None, None, None, 1), ('The rate of human caused extinctions is going up at a scary rate .', None, None, None, 1), ('I know pandas', None, None, None, 0), ('and polar bears are kind of the face of conservation ,', None, None, None, 0), ("but they 're not the only cute animals out there .", None, None, None, 1), ('And even the ones', None, None, None, 0), ("that are n't cuties matter !", None, None, None, 1), ('Extinction is such a huge , huge deal .', None, None, None, 1)]]
+Leaf:  N Topic-Change Those poor little babies .
+Leaf:  N Cause This is just going to keep happening more and more .
+Leaf:  S span The rate of human caused extinctions is going up at a scary rate .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Joint I know pandas
+Leaf:  N Joint and polar bears are kind of the face of conservation ,
+Inner:  S span None Joint NN
+Leaf:  N Contrast but they 're not the only cute animals out there .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate And even the ones
+Leaf:  S span that are n't cuties matter !
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Extinction is such a huge , huge deal .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[('Those poor little babies .', None, None, None, 1), ('This is just going to keep happening more and more .', None, None, None, 1), ('The rate of human caused extinctions is going up at a scary rate .', None, None, None, 1), ('I know pandas', None, None, None, 0), ('and polar bears are kind of the face of conservation ,', None, None, None, 0), ("but they 're not the only cute animals out there .", None, None, None, 1), ('And even the ones', None, None, None, 0), ("that are n't cuties matter !", None, None, None, 1), ('Extinction is such a huge , huge deal .', None, None, None, 1)]

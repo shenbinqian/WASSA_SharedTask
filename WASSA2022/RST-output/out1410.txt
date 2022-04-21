@@ -1,0 +1,27 @@
+=====================> [[('This article about the murder/suicide of this couple just further proves that people', None, None, None, 0), ('who commit acts of murder', None, None, None, 0), ('are usually mentally disturbed .', None, None, None, 1), ('They will harm someone', None, None, None, 0), ('and themselves with or without access to a gun .', None, None, None, 1), ('This murder/suicide was clearly not done by a gun .', None, None, None, 1), ('There are so many situations', None, None, None, 0), ('where a murderer will kill themselves', None, None, None, 0), ('after they have harmed someone else ,', None, None, None, 0), ('proving', None, None, None, 0), ('that they are very disturbed', None, None, None, 0), ('and they should have received help of some sort .', None, None, None, 1), ('This will prevent them from harming innocent people along with themselves .', None, None, None, 1)]]
+Leaf:  N Elaborate This article about the murder/suicide of this couple just further proves that people
+Leaf:  S span who commit acts of murder
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are usually mentally disturbed .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Same-Unit They will harm someone
+Leaf:  N Same-Unit and themselves with or without access to a gun .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This murder/suicide was clearly not done by a gun .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate There are so many situations
+Leaf:  N Background where a murderer will kill themselves
+Leaf:  S span after they have harmed someone else ,
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span proving
+Leaf:  N Joint that they are very disturbed
+Leaf:  N Joint and they should have received help of some sort .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This will prevent them from harming innocent people along with themselves .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('This article about the murder/suicide of this couple just further proves that people', None, None, None, 0), ('who commit acts of murder', None, None, None, 0), ('are usually mentally disturbed .', None, None, None, 1), ('They will harm someone', None, None, None, 0), ('and themselves with or without access to a gun .', None, None, None, 1), ('This murder/suicide was clearly not done by a gun .', None, None, None, 1), ('There are so many situations', None, None, None, 0), ('where a murderer will kill themselves', None, None, None, 0), ('after they have harmed someone else ,', None, None, None, 0), ('proving', None, None, None, 0), ('that they are very disturbed', None, None, None, 0), ('and they should have received help of some sort .', None, None, None, 1), ('This will prevent them from harming innocent people along with themselves .', None, None, None, 1)]

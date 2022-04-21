@@ -1,0 +1,19 @@
+=====================> [[('Reading stuff like this puts the refugee in perspective .', None, None, None, 1), ('There has to be something', None, None, None, 0), ('the international community can do', None, None, None, 0), ("that is n't taking in refugees permanently .", None, None, None, 1), ('The vast majority of these people just want to live', None, None, None, 0), ('and build something for themselves .', None, None, None, 1), ('It is of no fault of their own', None, None, None, 0), ('that they were unfortunate enough', None, None, None, 0), ('to be born within the fist of a crazed dictator .', None, None, None, 1)]]
+Leaf:  N Summary Reading stuff like this puts the refugee in perspective .
+Leaf:  N Elaborate There has to be something
+Leaf:  S span the international community can do
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that is n't taking in refugees permanently .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint The vast majority of these people just want to live
+Leaf:  N Joint and build something for themselves .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate It is of no fault of their own
+Leaf:  N Elaborate that they were unfortunate enough
+Leaf:  S span to be born within the fist of a crazed dictator .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('Reading stuff like this puts the refugee in perspective .', None, None, None, 1), ('There has to be something', None, None, None, 0), ('the international community can do', None, None, None, 0), ("that is n't taking in refugees permanently .", None, None, None, 1), ('The vast majority of these people just want to live', None, None, None, 0), ('and build something for themselves .', None, None, None, 1), ('It is of no fault of their own', None, None, None, 0), ('that they were unfortunate enough', None, None, None, 0), ('to be born within the fist of a crazed dictator .', None, None, None, 1)]

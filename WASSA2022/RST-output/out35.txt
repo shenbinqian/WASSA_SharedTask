@@ -1,0 +1,21 @@
+=====================> [[("This does n't sound too worrisome to me .", None, None, None, 1), ('If you are affected by depression ,', None, None, None, 0), ('then you should decide as an individual', None, None, None, 0), ('to find another option .', None, None, None, 1), ("It 's just a side effect ,", None, None, None, 0), ('I think', None, None, None, 0), ('there are many medicines out there', None, None, None, 0), ('that have depression as a side effect .', None, None, None, 1), ('It is something', None, None, None, 0), ('that individuals should be aware of , but nothing critical .', None, None, None, 1)]]
+Leaf:  N Topic-Comment This does n't sound too worrisome to me .
+Leaf:  S span If you are affected by depression ,
+Leaf:  N Elaborate then you should decide as an individual
+Leaf:  S span to find another option .
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  N Evaluation It 's just a side effect ,
+Leaf:  S span I think
+Leaf:  N Elaborate there are many medicines out there
+Leaf:  S span that have depression as a side effect .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate It is something
+Leaf:  S span that individuals should be aware of , but nothing critical .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[("This does n't sound too worrisome to me .", None, None, None, 1), ('If you are affected by depression ,', None, None, None, 0), ('then you should decide as an individual', None, None, None, 0), ('to find another option .', None, None, None, 1), ("It 's just a side effect ,", None, None, None, 0), ('I think', None, None, None, 0), ('there are many medicines out there', None, None, None, 0), ('that have depression as a side effect .', None, None, None, 1), ('It is something', None, None, None, 0), ('that individuals should be aware of , but nothing critical .', None, None, None, 1)]

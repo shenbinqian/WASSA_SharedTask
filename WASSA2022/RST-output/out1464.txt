@@ -1,0 +1,21 @@
+=====================> [[('This is very unnerving news .', None, None, None, 1), ('Drug addiction is a serious problem', None, None, None, 0), ('that both America and the rest of the world is facing .', None, None, None, 1), ('There are many victims from the children', None, None, None, 0), ('that are born to drug abusers to the drug abusers', None, None, None, 0), ('who can no longer take care of their children responsibly due to their addiction .', None, None, None, 1), ('Drug addiction is one of the major issues', None, None, None, 0), ('facing society', None, None, None, 0), ('and is one', None, None, None, 0), ('that must be addressed immediately and urgently .', None, None, None, 1)]]
+Leaf:  N Explanation This is very unnerving news .
+Leaf:  N Elaborate Drug addiction is a serious problem
+Leaf:  S span that both America and the rest of the world is facing .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There are many victims from the children
+Leaf:  N Elaborate that are born to drug abusers to the drug abusers
+Leaf:  S span who can no longer take care of their children responsibly due to their addiction .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Drug addiction is one of the major issues
+Leaf:  S span facing society
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and is one
+Leaf:  S span that must be addressed immediately and urgently .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This is very unnerving news .', None, None, None, 1), ('Drug addiction is a serious problem', None, None, None, 0), ('that both America and the rest of the world is facing .', None, None, None, 1), ('There are many victims from the children', None, None, None, 0), ('that are born to drug abusers to the drug abusers', None, None, None, 0), ('who can no longer take care of their children responsibly due to their addiction .', None, None, None, 1), ('Drug addiction is one of the major issues', None, None, None, 0), ('facing society', None, None, None, 0), ('and is one', None, None, None, 0), ('that must be addressed immediately and urgently .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('of the 5000 rhinoceroses', None, None, None, 0), ('that remain free in the world', None, None, None, 0), ('have just killed one more .', None, None, None, 1), ('poachers do not respect endangered species .', None, None, None, 1), ('This enrages me', None, None, None, 0), ('and I try to hunt them .', None, None, None, 1), ('the 18-year-old rhinoceros left her baby orphaned .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that stronger measures will be taken for the protection of these species', None, None, None, 0), ('and that their extinction will be avoided .', None, None, None, 1)]]
+Leaf:  N Elaborate of the 5000 rhinoceroses
+Leaf:  S span that remain free in the world
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have just killed one more .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Cause poachers do not respect endangered species .
+Leaf:  N Cause This enrages me
+Leaf:  N Cause and I try to hunt them .
+Inner:  N Elaborate None Cause NN
+Leaf:  S span the 18-year-old rhinoceros left her baby orphaned .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I really hope
+Leaf:  N Joint that stronger measures will be taken for the protection of these species
+Leaf:  N Joint and that their extinction will be avoided .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('of the 5000 rhinoceroses', None, None, None, 0), ('that remain free in the world', None, None, None, 0), ('have just killed one more .', None, None, None, 1), ('poachers do not respect endangered species .', None, None, None, 1), ('This enrages me', None, None, None, 0), ('and I try to hunt them .', None, None, None, 1), ('the 18-year-old rhinoceros left her baby orphaned .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that stronger measures will be taken for the protection of these species', None, None, None, 0), ('and that their extinction will be avoided .', None, None, None, 1)]

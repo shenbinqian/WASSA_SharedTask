@@ -1,0 +1,23 @@
+=====================> [[('this kind of stuff always makes me afraid', None, None, None, 0), ('to even go outside.If there is something', None, None, None, 0), ('to catch someone', None, None, None, 0), ('will just bring it to others', None, None, None, 0), ('and it is just something', None, None, None, 0), ('that is horrible', None, None, None, 0), ('and not what I would want to put onto', None, None, None, 0), ('others.It makes me afraid', None, None, None, 0), ('that it could spread', None, None, None, 0), ('and would make things worse for everyone', None, None, None, 0), ('and drive others to panic .', None, None, None, 1)]]
+Leaf:  N Cause this kind of stuff always makes me afraid
+Leaf:  N Elaborate to even go outside.If there is something
+Leaf:  S span to catch someone
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will just bring it to others
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate and it is just something
+Leaf:  N Joint that is horrible
+Leaf:  N Joint and not what I would want to put onto
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span others.It makes me afraid
+Leaf:  N Joint that it could spread
+Leaf:  N Joint and would make things worse for everyone
+Leaf:  N Joint and drive others to panic .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Same-Unit None Attribution SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Elaborate NS
+[('this kind of stuff always makes me afraid', None, None, None, 0), ('to even go outside.If there is something', None, None, None, 0), ('to catch someone', None, None, None, 0), ('will just bring it to others', None, None, None, 0), ('and it is just something', None, None, None, 0), ('that is horrible', None, None, None, 0), ('and not what I would want to put onto', None, None, None, 0), ('others.It makes me afraid', None, None, None, 0), ('that it could spread', None, None, None, 0), ('and would make things worse for everyone', None, None, None, 0), ('and drive others to panic .', None, None, None, 1)]

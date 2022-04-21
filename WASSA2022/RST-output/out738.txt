@@ -1,0 +1,29 @@
+=====================> [[('I think with all the social media and news stories , recent incidents', None, None, None, 0), ('involving terror attacks ,', None, None, None, 0), ('and those', None, None, None, 0), ('who are of a different race', None, None, None, 0), ('commuting these acts ,', None, None, None, 0), ('especially since the 9/11 attack this will always be an issue with people', None, None, None, 0), ('because we are just alarmed ,', None, None, None, 0), ('even though some may have nothing to do with terrorism or any type of situation', None, None, None, 0), ('regarding that', None, None, None, 0), ('but they will always be perceived that way', None, None, None, 0), ('because of what happened in the past .', None, None, None, 1), ("It 's probably not right of those", None, None, None, 0), ('who are discriminating', None, None, None, 0), ('and the airlines really need to do something about all the complaints .', None, None, None, 1)]]
+Leaf:  N Elaborate I think with all the social media and news stories , recent incidents
+Leaf:  S span involving terror attacks ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and those
+Leaf:  S span who are of a different race
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span commuting these acts ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Explanation especially since the 9/11 attack this will always be an issue with people
+Leaf:  S span because we are just alarmed ,
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Elaborate even though some may have nothing to do with terrorism or any type of situation
+Leaf:  S span regarding that
+Inner:  S span None Elaborate NS
+Leaf:  N Cause but they will always be perceived that way
+Leaf:  S span because of what happened in the past .
+Inner:  N Contrast None Cause NS
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate It 's probably not right of those
+Leaf:  S span who are discriminating
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and the airlines really need to do something about all the complaints .
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('I think with all the social media and news stories , recent incidents', None, None, None, 0), ('involving terror attacks ,', None, None, None, 0), ('and those', None, None, None, 0), ('who are of a different race', None, None, None, 0), ('commuting these acts ,', None, None, None, 0), ('especially since the 9/11 attack this will always be an issue with people', None, None, None, 0), ('because we are just alarmed ,', None, None, None, 0), ('even though some may have nothing to do with terrorism or any type of situation', None, None, None, 0), ('regarding that', None, None, None, 0), ('but they will always be perceived that way', None, None, None, 0), ('because of what happened in the past .', None, None, None, 1), ("It 's probably not right of those", None, None, None, 0), ('who are discriminating', None, None, None, 0), ('and the airlines really need to do something about all the complaints .', None, None, None, 1)]

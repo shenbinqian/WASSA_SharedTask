@@ -1,0 +1,23 @@
+=====================> [[('I felt sad', None, None, None, 0), ('that the turtles are fading', None, None, None, 0), ('because of the habitat temperature rising annually .', None, None, None, 1), ('We ,', None, None, None, 0), ('as humans can help', None, None, None, 0), ('I think', None, None, None, 0), ('by trying', None, None, None, 0), ('to not contribute to the increase of Carbon Dioxide consumption ,', None, None, None, 0), ('we can stop global warming', None, None, None, 0), ('and try to help t he sea turtles from going extinct', None, None, None, 0), ('and so our children and grandchildren can see them in the future .', None, None, None, 1)]]
+Leaf:  S span I felt sad
+Leaf:  N Cause that the turtles are fading
+Leaf:  S span because of the habitat temperature rising annually .
+Inner:  N Attribution None Cause NS
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Same-Unit We ,
+Leaf:  N Attribution as humans can help
+Leaf:  S span I think
+Leaf:  N Enablement by trying
+Leaf:  S span to not contribute to the increase of Carbon Dioxide consumption ,
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Joint we can stop global warming
+Leaf:  N Enablement and try to help t he sea turtles from going extinct
+Leaf:  S span and so our children and grandchildren can see them in the future .
+Inner:  N Joint None Enablement NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Attribution NS
+Inner:  N Topic-Comment None Same-Unit NN
+Inner:  Root None None Topic-Comment NN
+[('I felt sad', None, None, None, 0), ('that the turtles are fading', None, None, None, 0), ('because of the habitat temperature rising annually .', None, None, None, 1), ('We ,', None, None, None, 0), ('as humans can help', None, None, None, 0), ('I think', None, None, None, 0), ('by trying', None, None, None, 0), ('to not contribute to the increase of Carbon Dioxide consumption ,', None, None, None, 0), ('we can stop global warming', None, None, None, 0), ('and try to help t he sea turtles from going extinct', None, None, None, 0), ('and so our children and grandchildren can see them in the future .', None, None, None, 1)]

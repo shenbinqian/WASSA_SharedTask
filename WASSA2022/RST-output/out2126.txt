@@ -1,0 +1,19 @@
+=====================> [[('While I feel bad for the arrest charges ,', None, None, None, 0), ("I do n't understand", None, None, None, 0), ("why she wo n't try to go through the proper channels", None, None, None, 0), ('since she \'s been caught for falsifying documents before . Especially for someone with considered " celebrity status " ,', None, None, None, 0), ('I think', None, None, None, 0), ('if she at least would apply for asylum first ,', None, None, None, 0), ('others will follow suit for a positive example', None, None, None, 0), ('instead of breaking the law', None, None, None, 0), ('to remain in a different country .', None, None, None, 1)]]
+Leaf:  S span While I feel bad for the arrest charges ,
+Leaf:  S span I do n't understand
+Leaf:  N Explanation why she wo n't try to go through the proper channels
+Leaf:  S span since she 's been caught for falsifying documents before . Especially for someone with considered " celebrity status " ,
+Inner:  N Attribution None Explanation NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Attribution None Contrast SN
+Leaf:  S span I think
+Leaf:  S span if she at least would apply for asylum first ,
+Leaf:  N Contrast others will follow suit for a positive example
+Leaf:  N Elaborate instead of breaking the law
+Leaf:  S span to remain in a different country .
+Inner:  S span None Elaborate NS
+Inner:  N Condition None Contrast NS
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Attribution NS
+[('While I feel bad for the arrest charges ,', None, None, None, 0), ("I do n't understand", None, None, None, 0), ("why she wo n't try to go through the proper channels", None, None, None, 0), ('since she \'s been caught for falsifying documents before . Especially for someone with considered " celebrity status " ,', None, None, None, 0), ('I think', None, None, None, 0), ('if she at least would apply for asylum first ,', None, None, None, 0), ('others will follow suit for a positive example', None, None, None, 0), ('instead of breaking the law', None, None, None, 0), ('to remain in a different country .', None, None, None, 1)]

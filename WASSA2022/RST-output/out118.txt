@@ -1,0 +1,25 @@
+=====================> [[('I really hate ISIS .', None, None, None, 1), ('They continue to be the stain on society', None, None, None, 0), ('by committing atrocities', None, None, None, 0), ('condemned by every nation in the world .', None, None, None, 1), ('They must be stopped at all costs', None, None, None, 0), ('and they must be destroyed', None, None, None, 0), ('so that they wont hurt another soul .', None, None, None, 1), ('These poor people', None, None, None, 0), ('who are trying to survive', None, None, None, 0), ('get killed , imprisoned , or brainwashed into joining', None, None, None, 0), ('and there seems to be no way', None, None, None, 0), ('to stop them .', None, None, None, 1)]]
+Leaf:  N Explanation I really hate ISIS .
+Leaf:  N Manner-Means They continue to be the stain on society
+Leaf:  N Elaborate by committing atrocities
+Leaf:  S span condemned by every nation in the world .
+Inner:  S span None Elaborate NS
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint They must be stopped at all costs
+Leaf:  N Enablement and they must be destroyed
+Leaf:  S span so that they wont hurt another soul .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate These poor people
+Leaf:  S span who are trying to survive
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit get killed , imprisoned , or brainwashed into joining
+Inner:  N Topic-Comment None Same-Unit NN
+Leaf:  N Elaborate and there seems to be no way
+Leaf:  S span to stop them .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('I really hate ISIS .', None, None, None, 1), ('They continue to be the stain on society', None, None, None, 0), ('by committing atrocities', None, None, None, 0), ('condemned by every nation in the world .', None, None, None, 1), ('They must be stopped at all costs', None, None, None, 0), ('and they must be destroyed', None, None, None, 0), ('so that they wont hurt another soul .', None, None, None, 1), ('These poor people', None, None, None, 0), ('who are trying to survive', None, None, None, 0), ('get killed , imprisoned , or brainwashed into joining', None, None, None, 0), ('and there seems to be no way', None, None, None, 0), ('to stop them .', None, None, None, 1)]

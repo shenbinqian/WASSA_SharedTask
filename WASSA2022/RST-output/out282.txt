@@ -1,0 +1,27 @@
+=====================> [[('Look at this nonsense .', None, None, None, 1), ('We can put dudes on the moon and videochat across the planet with anyone', None, None, None, 0), ('we like ,', None, None, None, 0), ("but we STILL ca n't make containers for fuel", None, None, None, 0), ("that do n't leak everywhere ?", None, None, None, 1), ('You know that " Cui bono " thing I told you about ?', None, None, None, 1), ('At this point I think someone', None, None, None, 0), ('( probably the environazis )', None, None, None, 0), ('benefit from this enough', None, None, None, 0), ('to keep doing it .', None, None, None, 1), ('How about we build pipelines for the oil ? Oh right , environazis again , complete with the trash heap', None, None, None, 0), ('they left behind', None, None, None, 0), ('after their protest .', None, None, None, 1)]]
+Leaf:  N Explanation Look at this nonsense .
+Leaf:  N Elaborate We can put dudes on the moon and videochat across the planet with anyone
+Leaf:  S span we like ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but we STILL ca n't make containers for fuel
+Leaf:  S span that do n't leak everywhere ?
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span You know that " Cui bono " thing I told you about ?
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate At this point I think someone
+Leaf:  S span ( probably the environazis )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit benefit from this enough
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span to keep doing it .
+Inner:  N Cause None Cause NS
+Leaf:  N Elaborate How about we build pipelines for the oil ? Oh right , environazis again , complete with the trash heap
+Leaf:  N Temporal they left behind
+Leaf:  S span after their protest .
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('Look at this nonsense .', None, None, None, 1), ('We can put dudes on the moon and videochat across the planet with anyone', None, None, None, 0), ('we like ,', None, None, None, 0), ("but we STILL ca n't make containers for fuel", None, None, None, 0), ("that do n't leak everywhere ?", None, None, None, 1), ('You know that " Cui bono " thing I told you about ?', None, None, None, 1), ('At this point I think someone', None, None, None, 0), ('( probably the environazis )', None, None, None, 0), ('benefit from this enough', None, None, None, 0), ('to keep doing it .', None, None, None, 1), ('How about we build pipelines for the oil ? Oh right , environazis again , complete with the trash heap', None, None, None, 0), ('they left behind', None, None, None, 0), ('after their protest .', None, None, None, 1)]

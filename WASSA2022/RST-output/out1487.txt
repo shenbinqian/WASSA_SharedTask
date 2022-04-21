@@ -1,0 +1,31 @@
+=====================> [[('See what I told ya !', None, None, None, 1), ('If kids are bored', None, None, None, 0), ('they will eventually be up to no good .', None, None, None, 1), ('Here is this man', None, None, None, 0), ('just minding his own business', None, None, None, 0), ("and he 's attacked by a bunch of teens on bikes !", None, None, None, 1), ('The kid', None, None, None, 0), ('that threatened him with the bottle', None, None, None, 0), ('was probably just trying to show off to his friends .', None, None, None, 1), ('I mean , this did happen in Scotland', None, None, None, 0), ("but it could 've been right in our backyards as well . I think we really need to rethink our commitment to the youth center .", None, None, None, 1), ('I firmly believe', None, None, None, 0), ('that when kids have a place', None, None, None, 0), ('to go and things to do ,', None, None, None, 0), ('they are less inclined to get caught up in this kind of mischief !', None, None, None, 1)]]
+Leaf:  N Elaborate See what I told ya !
+Leaf:  S span If kids are bored
+Leaf:  N Condition they will eventually be up to no good .
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Here is this man
+Leaf:  S span just minding his own business
+Inner:  S span None Elaborate NS
+Leaf:  N Background and he 's attacked by a bunch of teens on bikes !
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate The kid
+Leaf:  S span that threatened him with the bottle
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was probably just trying to show off to his friends .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I mean , this did happen in Scotland
+Leaf:  N Contrast but it could 've been right in our backyards as well . I think we really need to rethink our commitment to the youth center .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I firmly believe
+Leaf:  N Elaborate that when kids have a place
+Leaf:  S span to go and things to do ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition they are less inclined to get caught up in this kind of mischief !
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('See what I told ya !', None, None, None, 1), ('If kids are bored', None, None, None, 0), ('they will eventually be up to no good .', None, None, None, 1), ('Here is this man', None, None, None, 0), ('just minding his own business', None, None, None, 0), ("and he 's attacked by a bunch of teens on bikes !", None, None, None, 1), ('The kid', None, None, None, 0), ('that threatened him with the bottle', None, None, None, 0), ('was probably just trying to show off to his friends .', None, None, None, 1), ('I mean , this did happen in Scotland', None, None, None, 0), ("but it could 've been right in our backyards as well . I think we really need to rethink our commitment to the youth center .", None, None, None, 1), ('I firmly believe', None, None, None, 0), ('that when kids have a place', None, None, None, 0), ('to go and things to do ,', None, None, None, 0), ('they are less inclined to get caught up in this kind of mischief !', None, None, None, 1)]

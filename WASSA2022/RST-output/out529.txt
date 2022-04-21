@@ -1,0 +1,17 @@
+=====================> [[('Wow , did you guys hear anything about this ?', None, None, None, 1), ('It would be cool', None, None, None, 0), ('if men could take birth control as well .', None, None, None, 1), ('Not just to relieve the burden from women ,', None, None, None, 0), ('but for men to have their own sexual freedom as well .', None, None, None, 1), ('Condoms are really the only thing', None, None, None, 0), ('they have control over ,', None, None, None, 0), ("and they 're known to fail more often than any form of birth control .", None, None, None, 1)]]
+Leaf:  N Evaluation Wow , did you guys hear anything about this ?
+Leaf:  S span It would be cool
+Leaf:  N Attribution if men could take birth control as well .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Not just to relieve the burden from women ,
+Leaf:  N Joint but for men to have their own sexual freedom as well .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Condoms are really the only thing
+Leaf:  S span they have control over ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and they 're known to fail more often than any form of birth control .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Wow , did you guys hear anything about this ?', None, None, None, 1), ('It would be cool', None, None, None, 0), ('if men could take birth control as well .', None, None, None, 1), ('Not just to relieve the burden from women ,', None, None, None, 0), ('but for men to have their own sexual freedom as well .', None, None, None, 1), ('Condoms are really the only thing', None, None, None, 0), ('they have control over ,', None, None, None, 0), ("and they 're known to fail more often than any form of birth control .", None, None, None, 1)]

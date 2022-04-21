@@ -1,0 +1,19 @@
+=====================> [[('The article was about corruption at the International Monetary Fund , specifically the wrongdoing of former boss Rodrigo Rato .', None, None, None, 1), ('The banking industry is rife with issues like this ,', None, None, None, 0), ('so it comes as no surprise', None, None, None, 0), ('that someone was trying to take advantage of the system even in an international organization like the IMF .', None, None, None, 1), ('The problem is that we do not have enough prosecutors', None, None, None, 0), ('that are willing to take on the banking industry', None, None, None, 0), ('and put them in their place .', None, None, None, 1), ("I 'm tired of constantly hearing about people", None, None, None, 0), ('getting away with white collar crimes .', None, None, None, 1)]]
+Leaf:  N Summary The article was about corruption at the International Monetary Fund , specifically the wrongdoing of former boss Rodrigo Rato .
+Leaf:  S span The banking industry is rife with issues like this ,
+Leaf:  S span so it comes as no surprise
+Leaf:  N Attribution that someone was trying to take advantage of the system even in an international organization like the IMF .
+Inner:  N Background None Attribution SN
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate The problem is that we do not have enough prosecutors
+Leaf:  N Joint that are willing to take on the banking industry
+Leaf:  N Joint and put them in their place .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate I 'm tired of constantly hearing about people
+Leaf:  S span getting away with white collar crimes .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('The article was about corruption at the International Monetary Fund , specifically the wrongdoing of former boss Rodrigo Rato .', None, None, None, 1), ('The banking industry is rife with issues like this ,', None, None, None, 0), ('so it comes as no surprise', None, None, None, 0), ('that someone was trying to take advantage of the system even in an international organization like the IMF .', None, None, None, 1), ('The problem is that we do not have enough prosecutors', None, None, None, 0), ('that are willing to take on the banking industry', None, None, None, 0), ('and put them in their place .', None, None, None, 1), ("I 'm tired of constantly hearing about people", None, None, None, 0), ('getting away with white collar crimes .', None, None, None, 1)]

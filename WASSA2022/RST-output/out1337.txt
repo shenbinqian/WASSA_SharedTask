@@ -1,0 +1,29 @@
+=====================> [[('I think', None, None, None, 0), ('these people ahve been fighting each other over tribalism and ideology', None, None, None, 0), ('since I can remember .', None, None, None, 1), ('Im talking about Iraq ,', None, None, None, 0), ('which is dividing into 3 main groups', None, None, None, 0), ('who have competed for limited resources for a long time .', None, None, None, 1), ('And the wealth of oil', None, None, None, 0), ('taken by the leaders', None, None, None, 0), ('and not shared with prosperity for all people', None, None, None, 0), ('has increased tensions .', None, None, None, 1), ('When I was young it was Iraq Iran War , the Saddam Hussein reign of terror , then the First Gulf War , the the Second Iraq War , then ISIS .', None, None, None, 1), ('THese people have something wrong with them', None, None, None, 0), ('and I think', None, None, None, 0), ('they bear some responsibility for their own suffering .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Temporal these people ahve been fighting each other over tribalism and ideology
+Leaf:  S span since I can remember .
+Inner:  N Attribution None Temporal NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Im talking about Iraq ,
+Leaf:  N Elaborate which is dividing into 3 main groups
+Leaf:  S span who have competed for limited resources for a long time .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate And the wealth of oil
+Leaf:  N Condition taken by the leaders
+Leaf:  N Condition and not shared with prosperity for all people
+Inner:  S span None Condition NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has increased tensions .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Leaf:  N Evaluation When I was young it was Iraq Iran War , the Saddam Hussein reign of terror , then the First Gulf War , the the Second Iraq War , then ISIS .
+Leaf:  N Joint THese people have something wrong with them
+Leaf:  S span and I think
+Leaf:  N Attribution they bear some responsibility for their own suffering .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Background NS
+[('I think', None, None, None, 0), ('these people ahve been fighting each other over tribalism and ideology', None, None, None, 0), ('since I can remember .', None, None, None, 1), ('Im talking about Iraq ,', None, None, None, 0), ('which is dividing into 3 main groups', None, None, None, 0), ('who have competed for limited resources for a long time .', None, None, None, 1), ('And the wealth of oil', None, None, None, 0), ('taken by the leaders', None, None, None, 0), ('and not shared with prosperity for all people', None, None, None, 0), ('has increased tensions .', None, None, None, 1), ('When I was young it was Iraq Iran War , the Saddam Hussein reign of terror , then the First Gulf War , the the Second Iraq War , then ISIS .', None, None, None, 1), ('THese people have something wrong with them', None, None, None, 0), ('and I think', None, None, None, 0), ('they bear some responsibility for their own suffering .', None, None, None, 1)]

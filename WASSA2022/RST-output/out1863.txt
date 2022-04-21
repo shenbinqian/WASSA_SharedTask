@@ -1,0 +1,25 @@
+=====================> [[('I did not know this comedian', None, None, None, 0), ('but thinking', None, None, None, 0), ('about how I would feel', None, None, None, 0), ('if my favorite comedian , actor , or artist died ;', None, None, None, 0), ('I understand the emotional distress and pain', None, None, None, 0), ('that some may feel from this .', None, None, None, 1), ('Death is an inevitable thing', None, None, None, 0), ('that affects so many people daily', None, None, None, 0), ('and to just think about those around you', None, None, None, 0), ('who are here today', None, None, None, 0), ('but may be gone tomorrow', None, None, None, 0), ('is a scary thought .', None, None, None, 1)]]
+Leaf:  S span I did not know this comedian
+Leaf:  S span but thinking
+Leaf:  N Condition about how I would feel
+Leaf:  S span if my favorite comedian , actor , or artist died ;
+Inner:  N Attribution None Condition NS
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Leaf:  N Elaborate I understand the emotional distress and pain
+Leaf:  S span that some may feel from this .
+Inner:  N Background None Elaborate NS
+Inner:  N Explanation None Background SN
+Leaf:  N Elaborate Death is an inevitable thing
+Leaf:  S span that affects so many people daily
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and to just think about those around you
+Leaf:  N Contrast who are here today
+Leaf:  S span but may be gone tomorrow
+Inner:  S span None Contrast NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a scary thought .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('I did not know this comedian', None, None, None, 0), ('but thinking', None, None, None, 0), ('about how I would feel', None, None, None, 0), ('if my favorite comedian , actor , or artist died ;', None, None, None, 0), ('I understand the emotional distress and pain', None, None, None, 0), ('that some may feel from this .', None, None, None, 1), ('Death is an inevitable thing', None, None, None, 0), ('that affects so many people daily', None, None, None, 0), ('and to just think about those around you', None, None, None, 0), ('who are here today', None, None, None, 0), ('but may be gone tomorrow', None, None, None, 0), ('is a scary thought .', None, None, None, 1)]

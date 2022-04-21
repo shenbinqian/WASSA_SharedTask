@@ -1,0 +1,25 @@
+=====================> [[('So tragic and sad', None, None, None, 0), ('that this police officer was just doing his job', None, None, None, 0), ("and now he 's gone", None, None, None, 0), ('and his family is left', None, None, None, 0), ('to grieve his loss .', None, None, None, 1), ('I hope', None, None, None, 0), ('they figure out', None, None, None, 0), ('who did this', None, None, None, 0), ('and serve justice to the fullest extent .', None, None, None, 1), ('It sounds like it could be one of the people', None, None, None, 0), ('they found dead , though .', None, None, None, 1), ("I guess we 'll find out later .", None, None, None, 1)]]
+Leaf:  S span So tragic and sad
+Leaf:  N Temporal that this police officer was just doing his job
+Leaf:  N Temporal and now he 's gone
+Inner:  S span None Temporal NN
+Leaf:  N Enablement and his family is left
+Leaf:  S span to grieve his loss .
+Inner:  N Cause None Enablement NS
+Inner:  N Attribution None Cause SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope
+Leaf:  S span they figure out
+Leaf:  N Temporal who did this
+Leaf:  N Temporal and serve justice to the fullest extent .
+Inner:  N Attribution None Temporal NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It sounds like it could be one of the people
+Leaf:  S span they found dead , though .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I guess we 'll find out later .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So tragic and sad', None, None, None, 0), ('that this police officer was just doing his job', None, None, None, 0), ("and now he 's gone", None, None, None, 0), ('and his family is left', None, None, None, 0), ('to grieve his loss .', None, None, None, 1), ('I hope', None, None, None, 0), ('they figure out', None, None, None, 0), ('who did this', None, None, None, 0), ('and serve justice to the fullest extent .', None, None, None, 1), ('It sounds like it could be one of the people', None, None, None, 0), ('they found dead , though .', None, None, None, 1), ("I guess we 'll find out later .", None, None, None, 1)]

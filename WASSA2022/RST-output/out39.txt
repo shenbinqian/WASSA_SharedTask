@@ -1,0 +1,19 @@
+=====================> [[('You know', None, None, None, 0), ("I 'm not a fan of religion in any context ,", None, None, None, 0), ('but this type of thing happens everywhere .', None, None, None, 1), ("There 's always some idiot", None, None, None, 0), ('who goes off', None, None, None, 0), ('and uses religion , bigotry , sex , gender , anything really as an explanation .', None, None, None, 1), ("It 's sad that you read something like this", None, None, None, 0), ("and it does n't even feel like news . Perhaps its just our access", None, None, None, 0), ("that 's making this seem ordinary .", None, None, None, 1)]]
+Leaf:  S span You know
+Leaf:  N Attribution I 'm not a fan of religion in any context ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but this type of thing happens everywhere .
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate There 's always some idiot
+Leaf:  N Joint who goes off
+Leaf:  N Joint and uses religion , bigotry , sex , gender , anything really as an explanation .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's sad that you read something like this
+Leaf:  N Elaborate and it does n't even feel like news . Perhaps its just our access
+Leaf:  S span that 's making this seem ordinary .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('You know', None, None, None, 0), ("I 'm not a fan of religion in any context ,", None, None, None, 0), ('but this type of thing happens everywhere .', None, None, None, 1), ("There 's always some idiot", None, None, None, 0), ('who goes off', None, None, None, 0), ('and uses religion , bigotry , sex , gender , anything really as an explanation .', None, None, None, 1), ("It 's sad that you read something like this", None, None, None, 0), ("and it does n't even feel like news . Perhaps its just our access", None, None, None, 0), ("that 's making this seem ordinary .", None, None, None, 1)]

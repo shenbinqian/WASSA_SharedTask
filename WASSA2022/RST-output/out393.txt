@@ -1,0 +1,31 @@
+=====================> [[('Wow , can you believe', None, None, None, 0), ('he survived in the jungle that long on his own ?', None, None, None, 1), ('It is amazing what the human body is capable of hey ?', None, None, None, 1), ('I remember', None, None, None, 0), ('the last time', None, None, None, 0), ('I went a couple days', None, None, None, 0), ('without food', None, None, None, 0), ('and it was so intense . People think', None, None, None, 0), ('they are ready to survive in the wild', None, None, None, 0), ('but we really have so few skills', None, None, None, 0), ('to get food for ourselves', None, None, None, 0), ('without the right tools .', None, None, None, 1), ("It 's amazing that he was found after all that time .", None, None, None, 1), ('I wonder', None, None, None, 0), ('how long it will take for him to recover ?', None, None, None, 1)]]
+Leaf:  S span Wow , can you believe
+Leaf:  N Attribution he survived in the jungle that long on his own ?
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is amazing what the human body is capable of hey ?
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span I remember
+Leaf:  N Elaborate the last time
+Leaf:  N Manner-Means I went a couple days
+Leaf:  S span without food
+Inner:  S span None Manner-Means NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and it was so intense . People think
+Leaf:  N Contrast they are ready to survive in the wild
+Leaf:  N Elaborate but we really have so few skills
+Leaf:  N Background to get food for ourselves
+Leaf:  S span without the right tools .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation It 's amazing that he was found after all that time .
+Leaf:  S span I wonder
+Leaf:  N Attribution how long it will take for him to recover ?
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Wow , can you believe', None, None, None, 0), ('he survived in the jungle that long on his own ?', None, None, None, 1), ('It is amazing what the human body is capable of hey ?', None, None, None, 1), ('I remember', None, None, None, 0), ('the last time', None, None, None, 0), ('I went a couple days', None, None, None, 0), ('without food', None, None, None, 0), ('and it was so intense . People think', None, None, None, 0), ('they are ready to survive in the wild', None, None, None, 0), ('but we really have so few skills', None, None, None, 0), ('to get food for ourselves', None, None, None, 0), ('without the right tools .', None, None, None, 1), ("It 's amazing that he was found after all that time .", None, None, None, 1), ('I wonder', None, None, None, 0), ('how long it will take for him to recover ?', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('So I just read that article about Alexandria Vera .', None, None, None, 1), ('I know', None, None, None, 0), ('you know', None, None, None, 0), ('who she is ,', None, None, None, 0), ('and I know', None, None, None, 0), ('the lawyer in you just wants to get in that case .', None, None, None, 1), ('I mean , can you imagine the nerve of a teacher', None, None, None, 0), ('to exploit a minor in that way .', None, None, None, 1), ('She deserves more than 30 years ,', None, None, None, 0), ('if you ask me .', None, None, None, 1), ('And the parents of the minor ought to have been charged with something .', None, None, None, 1), ('That is disgraceful .', None, None, None, 1), ('I mean , what is happening in America today ?', None, None, None, 1), ('Some of the things', None, None, None, 0), ('I read about', None, None, None, 0), ('make me sick !', None, None, None, 1)]]
+Leaf:  N Elaborate So I just read that article about Alexandria Vera .
+Leaf:  S span I know
+Leaf:  S span you know
+Leaf:  N Attribution who she is ,
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I know
+Leaf:  N Attribution the lawyer in you just wants to get in that case .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I mean , can you imagine the nerve of a teacher
+Leaf:  S span to exploit a minor in that way .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Attribution She deserves more than 30 years ,
+Leaf:  S span if you ask me .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span And the parents of the minor ought to have been charged with something .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span That is disgraceful .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I mean , what is happening in America today ?
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate Some of the things
+Leaf:  S span I read about
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit make me sick !
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Explanation NS
+[('So I just read that article about Alexandria Vera .', None, None, None, 1), ('I know', None, None, None, 0), ('you know', None, None, None, 0), ('who she is ,', None, None, None, 0), ('and I know', None, None, None, 0), ('the lawyer in you just wants to get in that case .', None, None, None, 1), ('I mean , can you imagine the nerve of a teacher', None, None, None, 0), ('to exploit a minor in that way .', None, None, None, 1), ('She deserves more than 30 years ,', None, None, None, 0), ('if you ask me .', None, None, None, 1), ('And the parents of the minor ought to have been charged with something .', None, None, None, 1), ('That is disgraceful .', None, None, None, 1), ('I mean , what is happening in America today ?', None, None, None, 1), ('Some of the things', None, None, None, 0), ('I read about', None, None, None, 0), ('make me sick !', None, None, None, 1)]

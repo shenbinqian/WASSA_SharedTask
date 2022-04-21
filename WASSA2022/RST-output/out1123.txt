@@ -1,0 +1,15 @@
+=====================> [[('I read an article today', None, None, None, 0), ('that was discussing the problems with Sudan in Africa .', None, None, None, 1), ('The article was kind of hard to follow ,', None, None, None, 0), ('but it seems like there is a lot of political and peace keeping discourse there .', None, None, None, 1), ('I really feel terrible for all the innocent people', None, None, None, 0), ('that are caught up in silly power plays and government issues .', None, None, None, 1), ("People 's lives are being ruined and destroyed every day .", None, None, None, 1)]]
+Leaf:  N Elaborate I read an article today
+Leaf:  S span that was discussing the problems with Sudan in Africa .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The article was kind of hard to follow ,
+Leaf:  N Contrast but it seems like there is a lot of political and peace keeping discourse there .
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I really feel terrible for all the innocent people
+Leaf:  S span that are caught up in silly power plays and government issues .
+Inner:  N Summary None Elaborate NS
+Leaf:  S span People 's lives are being ruined and destroyed every day .
+Inner:  S span None Summary NS
+Inner:  Root None None Evaluation NS
+[('I read an article today', None, None, None, 0), ('that was discussing the problems with Sudan in Africa .', None, None, None, 1), ('The article was kind of hard to follow ,', None, None, None, 0), ('but it seems like there is a lot of political and peace keeping discourse there .', None, None, None, 1), ('I really feel terrible for all the innocent people', None, None, None, 0), ('that are caught up in silly power plays and government issues .', None, None, None, 1), ("People 's lives are being ruined and destroyed every day .", None, None, None, 1)]

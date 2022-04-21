@@ -1,0 +1,33 @@
+=====================> [[('Ugh another big fight in Edinburgh .', None, None, None, 1), ('The city seems to have all kinds of problems like that .', None, None, None, 1), ('Plus they are kids !', None, None, None, 1), ('Where are the parents', None, None, None, 0), ('when the kids are out there', None, None, None, 0), ('fighting and attacking people in the street .', None, None, None, 1), ('Its just disgusting .', None, None, None, 1), ("I 'm just happy", None, None, None, 0), ("that their victim was n't badly hurt ,", None, None, None, 0), ('but unless these kids face consequences', None, None, None, 0), ('they will just do it again and again .', None, None, None, 1), ('I think', None, None, None, 0), ('their parents should be held liable', None, None, None, 0), ("if their kids do n't stop acting this way", None, None, None, 0), ('because it is obviously the fault of the parents', None, None, None, 0), ('for failing to take control of their kids .', None, None, None, 1)]]
+Leaf:  N Summary Ugh another big fight in Edinburgh .
+Leaf:  N Elaborate The city seems to have all kinds of problems like that .
+Leaf:  S span Plus they are kids !
+Inner:  N Summary None Elaborate NS
+Leaf:  N Background Where are the parents
+Leaf:  N Elaborate when the kids are out there
+Leaf:  S span fighting and attacking people in the street .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  S span Its just disgusting .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm just happy
+Leaf:  N Attribution that their victim was n't badly hurt ,
+Inner:  S span None Attribution SN
+Leaf:  S span but unless these kids face consequences
+Leaf:  N Condition they will just do it again and again .
+Inner:  N Contrast None Condition SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I think
+Leaf:  N Condition their parents should be held liable
+Leaf:  N Explanation if their kids do n't stop acting this way
+Leaf:  N Elaborate because it is obviously the fault of the parents
+Leaf:  S span for failing to take control of their kids .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  Root None None Summary NS
+[('Ugh another big fight in Edinburgh .', None, None, None, 1), ('The city seems to have all kinds of problems like that .', None, None, None, 1), ('Plus they are kids !', None, None, None, 1), ('Where are the parents', None, None, None, 0), ('when the kids are out there', None, None, None, 0), ('fighting and attacking people in the street .', None, None, None, 1), ('Its just disgusting .', None, None, None, 1), ("I 'm just happy", None, None, None, 0), ("that their victim was n't badly hurt ,", None, None, None, 0), ('but unless these kids face consequences', None, None, None, 0), ('they will just do it again and again .', None, None, None, 1), ('I think', None, None, None, 0), ('their parents should be held liable', None, None, None, 0), ("if their kids do n't stop acting this way", None, None, None, 0), ('because it is obviously the fault of the parents', None, None, None, 0), ('for failing to take control of their kids .', None, None, None, 1)]

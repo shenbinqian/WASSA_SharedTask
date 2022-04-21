@@ -1,0 +1,31 @@
+=====================> [[("I 'm saddened", None, None, None, 0), ('to hear the news about his passing .', None, None, None, 1), ('In my experience I believe', None, None, None, 0), ('that comedians get into the field due to an aspect of the desire', None, None, None, 0), ('to help people and give them a few laughs .', None, None, None, 1), ("Do n't think", None, None, None, 0), ('I recall his comedy acts', None, None, None, 0), ('but reading through the tributes I get the sense', None, None, None, 0), ('that people liked him alright', None, None, None, 0), ('and that he was a good guy .', None, None, None, 1), ('His tagline is great', None, None, None, 0), ('- " that \'s not right . " As if he internalized a solid sense of right and wrong .', None, None, None, 1), ("So I did n't know his work", None, None, None, 0), ('but I think', None, None, None, 0), ('I like him .', None, None, None, 1)]]
+Leaf:  S span I 'm saddened
+Leaf:  N Attribution to hear the news about his passing .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span In my experience I believe
+Leaf:  N Elaborate that comedians get into the field due to an aspect of the desire
+Leaf:  S span to help people and give them a few laughs .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Do n't think
+Leaf:  N Attribution I recall his comedy acts
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but reading through the tributes I get the sense
+Leaf:  N Joint that people liked him alright
+Leaf:  N Joint and that he was a good guy .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Joint None Contrast SN
+Leaf:  N Elaborate His tagline is great
+Leaf:  S span - " that 's not right . " As if he internalized a solid sense of right and wrong .
+Inner:  N Joint None Elaborate NS
+Inner:  N Summary None Joint NN
+Leaf:  S span So I did n't know his work
+Leaf:  S span but I think
+Leaf:  N Attribution I like him .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Summary NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[("I 'm saddened", None, None, None, 0), ('to hear the news about his passing .', None, None, None, 1), ('In my experience I believe', None, None, None, 0), ('that comedians get into the field due to an aspect of the desire', None, None, None, 0), ('to help people and give them a few laughs .', None, None, None, 1), ("Do n't think", None, None, None, 0), ('I recall his comedy acts', None, None, None, 0), ('but reading through the tributes I get the sense', None, None, None, 0), ('that people liked him alright', None, None, None, 0), ('and that he was a good guy .', None, None, None, 1), ('His tagline is great', None, None, None, 0), ('- " that \'s not right . " As if he internalized a solid sense of right and wrong .', None, None, None, 1), ("So I did n't know his work", None, None, None, 0), ('but I think', None, None, None, 0), ('I like him .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('I think', None, None, None, 0), ('there are way to many people', None, None, None, 0), ('watching CNN in this country .', None, None, None, 1), ('They need to grow up .', None, None, None, 1), ('People are way to sensitive .', None, None, None, 1), ('We can not walk around on egg shells', None, None, None, 0), ('worrying', None, None, None, 0), ('about if we are going to offend someone .', None, None, None, 1), ('People will say mean things .', None, None, None, 1), ('People will hurt your feelings .', None, None, None, 1), ('grow up', None, None, None, 0), ('and get over it .', None, None, None, 1), ("Do n't let it bother you .", None, None, None, 1), ('These people do not rule your life .', None, None, None, 1), ('You do !', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate there are way to many people
+Leaf:  S span watching CNN in this country .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation They need to grow up .
+Leaf:  N Explanation People are way to sensitive .
+Leaf:  N Background We can not walk around on egg shells
+Leaf:  S span worrying
+Leaf:  N Attribution about if we are going to offend someone .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Background NS
+Leaf:  N Joint People will say mean things .
+Leaf:  N Joint People will hurt your feelings .
+Inner:  N Contrast None Joint NN
+Leaf:  N Joint grow up
+Leaf:  N Joint and get over it .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Do n't let it bother you .
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Comparison These people do not rule your life .
+Leaf:  N Comparison You do !
+Inner:  S span None Comparison NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('there are way to many people', None, None, None, 0), ('watching CNN in this country .', None, None, None, 1), ('They need to grow up .', None, None, None, 1), ('People are way to sensitive .', None, None, None, 1), ('We can not walk around on egg shells', None, None, None, 0), ('worrying', None, None, None, 0), ('about if we are going to offend someone .', None, None, None, 1), ('People will say mean things .', None, None, None, 1), ('People will hurt your feelings .', None, None, None, 1), ('grow up', None, None, None, 0), ('and get over it .', None, None, None, 1), ("Do n't let it bother you .", None, None, None, 1), ('These people do not rule your life .', None, None, None, 1), ('You do !', None, None, None, 1)]

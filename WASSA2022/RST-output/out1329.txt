@@ -1,0 +1,19 @@
+=====================> [[('This is such a sad way for this actor to have to go .', None, None, None, 1), ('He contributed so much to his field ,', None, None, None, 0), ('and he deserves a smooth , peaceful exit to life .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that he and his friends and family will be okay .', None, None, None, 1), ('I know', None, None, None, 0), ('that it can be incredibly hard on the family', None, None, None, 0), ('to deal with these types of diseases and physical issues .', None, None, None, 1), ('Wishing them all the best .', None, None, None, 1)]]
+Leaf:  N Explanation This is such a sad way for this actor to have to go .
+Leaf:  N Joint He contributed so much to his field ,
+Leaf:  N Joint and he deserves a smooth , peaceful exit to life .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I really hope
+Leaf:  N Attribution that he and his friends and family will be okay .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Cause that it can be incredibly hard on the family
+Leaf:  S span to deal with these types of diseases and physical issues .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Wishing them all the best .
+Inner:  Root None None Evaluation NS
+[('This is such a sad way for this actor to have to go .', None, None, None, 1), ('He contributed so much to his field ,', None, None, None, 0), ('and he deserves a smooth , peaceful exit to life .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that he and his friends and family will be okay .', None, None, None, 1), ('I know', None, None, None, 0), ('that it can be incredibly hard on the family', None, None, None, 0), ('to deal with these types of diseases and physical issues .', None, None, None, 1), ('Wishing them all the best .', None, None, None, 1)]

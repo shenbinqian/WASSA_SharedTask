@@ -1,0 +1,19 @@
+=====================> [[('i could care less', None, None, None, 0), ('what isis does as long its not done in my country .', None, None, None, 1), ('I think', None, None, None, 0), ('they should all be put to death', None, None, None, 0), ('and be done with it . They are a terrorist group', None, None, None, 0), ('and deserve all the bad things', None, None, None, 0), ('that are going to happen to them .', None, None, None, 1), ('I do feel bad for the lose of life', None, None, None, 0), ('and feel sympathy for the families of the officers killed .', None, None, None, 1)]]
+Leaf:  S span i could care less
+Leaf:  N Attribution what isis does as long its not done in my country .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint they should all be put to death
+Leaf:  N Joint and be done with it . They are a terrorist group
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate and deserve all the bad things
+Leaf:  S span that are going to happen to them .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint I do feel bad for the lose of life
+Leaf:  N Joint and feel sympathy for the families of the officers killed .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('i could care less', None, None, None, 0), ('what isis does as long its not done in my country .', None, None, None, 1), ('I think', None, None, None, 0), ('they should all be put to death', None, None, None, 0), ('and be done with it . They are a terrorist group', None, None, None, 0), ('and deserve all the bad things', None, None, None, 0), ('that are going to happen to them .', None, None, None, 1), ('I do feel bad for the lose of life', None, None, None, 0), ('and feel sympathy for the families of the officers killed .', None, None, None, 1)]

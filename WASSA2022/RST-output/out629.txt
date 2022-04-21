@@ -1,0 +1,21 @@
+=====================> [[('This story is pretty weird', None, None, None, 0), ('and I wonder', None, None, None, 0), ('why they suffered heart attacks', None, None, None, 0), ('or whatever it was in the water .', None, None, None, 1), ('If they had pre existing medical conditions ,', None, None, None, 0), ('would they have known it would be a bad idea', None, None, None, 0), ('to snorkel ? There should be more precautions in place', None, None, None, 0), ('to make sure', None, None, None, 0), ('people are able to snorkel', None, None, None, 0), ('before they go ahead and do it .', None, None, None, 1)]]
+Leaf:  N Joint This story is pretty weird
+Leaf:  S span and I wonder
+Leaf:  N Summary why they suffered heart attacks
+Leaf:  S span or whatever it was in the water .
+Inner:  N Attribution None Summary NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span If they had pre existing medical conditions ,
+Leaf:  N Elaborate would they have known it would be a bad idea
+Leaf:  N Enablement to snorkel ? There should be more precautions in place
+Leaf:  S span to make sure
+Leaf:  N Attribution people are able to snorkel
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before they go ahead and do it .
+Inner:  N Condition None Temporal NS
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('This story is pretty weird', None, None, None, 0), ('and I wonder', None, None, None, 0), ('why they suffered heart attacks', None, None, None, 0), ('or whatever it was in the water .', None, None, None, 1), ('If they had pre existing medical conditions ,', None, None, None, 0), ('would they have known it would be a bad idea', None, None, None, 0), ('to snorkel ? There should be more precautions in place', None, None, None, 0), ('to make sure', None, None, None, 0), ('people are able to snorkel', None, None, None, 0), ('before they go ahead and do it .', None, None, None, 1)]

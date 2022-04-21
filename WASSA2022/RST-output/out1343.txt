@@ -1,0 +1,25 @@
+=====================> [[("I do n't know", None, None, None, 0), ('who this celebrity is ,', None, None, None, 0), ("but is n't this crazy ?", None, None, None, 1), ("Of course it 'd happen in Florida !", None, None, None, 1), ('We always hear these " Florida man " stories ,', None, None, None, 0), ("and here 's another one .", None, None, None, 1), ('What are people thinking , anyway ?', None, None, None, 1), ('What was this guy hoping to do ?', None, None, None, 1), ('Pretty weird world', None, None, None, 0), ('we live in nowadays .', None, None, None, 1), ("I 'd never want to live down there with all the crazy stuff", None, None, None, 0), ('that goes on !', None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  N Attribution who this celebrity is ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but is n't this crazy ?
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Explanation Of course it 'd happen in Florida !
+Leaf:  N Joint We always hear these " Florida man " stories ,
+Leaf:  N Joint and here 's another one .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span What are people thinking , anyway ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span What was this guy hoping to do ?
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate Pretty weird world
+Leaf:  S span we live in nowadays .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I 'd never want to live down there with all the crazy stuff
+Leaf:  S span that goes on !
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[("I do n't know", None, None, None, 0), ('who this celebrity is ,', None, None, None, 0), ("but is n't this crazy ?", None, None, None, 1), ("Of course it 'd happen in Florida !", None, None, None, 1), ('We always hear these " Florida man " stories ,', None, None, None, 0), ("and here 's another one .", None, None, None, 1), ('What are people thinking , anyway ?', None, None, None, 1), ('What was this guy hoping to do ?', None, None, None, 1), ('Pretty weird world', None, None, None, 0), ('we live in nowadays .', None, None, None, 1), ("I 'd never want to live down there with all the crazy stuff", None, None, None, 0), ('that goes on !', None, None, None, 1)]

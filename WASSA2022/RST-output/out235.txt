@@ -1,0 +1,23 @@
+=====================> [[('This is terrible', None, None, None, 0), ('and really solidifies everything', None, None, None, 0), ('I feel about the racially tense issues', None, None, None, 0), ('going on in america right now', None, None, None, 0), ('that are just fueled by our current president .', None, None, None, 1), ('No one should ever have to be a victim of a senseless act', None, None, None, 0), ('only because of the type of person they are .', None, None, None, 1), ('We are all equal no matter our religion race anything .', None, None, None, 1), ('We need to really open our eyes up', None, None, None, 0), ('and realize', None, None, None, 0), ('there needs to be more love in the world .', None, None, None, 1)]]
+Leaf:  N Joint This is terrible
+Leaf:  N Elaborate and really solidifies everything
+Leaf:  N Elaborate I feel about the racially tense issues
+Leaf:  N Elaborate going on in america right now
+Leaf:  S span that are just fueled by our current president .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Cause No one should ever have to be a victim of a senseless act
+Leaf:  S span only because of the type of person they are .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Comparison We are all equal no matter our religion race anything .
+Leaf:  N Joint We need to really open our eyes up
+Leaf:  S span and realize
+Leaf:  N Attribution there needs to be more love in the world .
+Inner:  N Joint None Attribution SN
+Inner:  N Comparison None Joint NN
+Inner:  S span None Comparison NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is terrible', None, None, None, 0), ('and really solidifies everything', None, None, None, 0), ('I feel about the racially tense issues', None, None, None, 0), ('going on in america right now', None, None, None, 0), ('that are just fueled by our current president .', None, None, None, 1), ('No one should ever have to be a victim of a senseless act', None, None, None, 0), ('only because of the type of person they are .', None, None, None, 1), ('We are all equal no matter our religion race anything .', None, None, None, 1), ('We need to really open our eyes up', None, None, None, 0), ('and realize', None, None, None, 0), ('there needs to be more love in the world .', None, None, None, 1)]

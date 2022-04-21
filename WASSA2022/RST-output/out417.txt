@@ -1,0 +1,17 @@
+=====================> [[('I am very concerned about the spread of Zika .', None, None, None, 1), ('I think', None, None, None, 0), ('in many cases the federal government takes it too likely .', None, None, None, 1), ('What price is too expensive for the health and safety of our citizens , especially our most vulnerable ones .', None, None, None, 1), ('Given the advance warning', None, None, None, 0), ('we ’ve had about the dangers and progression of Zika ,', None, None, None, 0), ('it is shameful the lack of progress', None, None, None, 0), ('that has been made globally .', None, None, None, 1)]]
+Leaf:  N Explanation I am very concerned about the spread of Zika .
+Leaf:  S span I think
+Leaf:  N Attribution in many cases the federal government takes it too likely .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span What price is too expensive for the health and safety of our citizens , especially our most vulnerable ones .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Given the advance warning
+Leaf:  S span we ’ve had about the dangers and progression of Zika ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate it is shameful the lack of progress
+Leaf:  S span that has been made globally .
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('I am very concerned about the spread of Zika .', None, None, None, 1), ('I think', None, None, None, 0), ('in many cases the federal government takes it too likely .', None, None, None, 1), ('What price is too expensive for the health and safety of our citizens , especially our most vulnerable ones .', None, None, None, 1), ('Given the advance warning', None, None, None, 0), ('we ’ve had about the dangers and progression of Zika ,', None, None, None, 0), ('it is shameful the lack of progress', None, None, None, 0), ('that has been made globally .', None, None, None, 1)]

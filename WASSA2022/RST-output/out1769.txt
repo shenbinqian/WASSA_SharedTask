@@ -1,0 +1,21 @@
+=====================> [[('The article', None, None, None, 0), ('I read', None, None, None, 0), ('was about the disparity in responsibility for birth control between men and women .', None, None, None, 1), ('A new male birth control was rejected as having too many side effects on men ,', None, None, None, 0), ('when options available to women have far more and more severe side effects .', None, None, None, 1), ('The article mentioned', None, None, None, 0), ('that birth control for women revolutionized lives so much', None, None, None, 0), ('that the side effects were deemed acceptable ,', None, None, None, 0), ('but men are not accustomed to ceding convenience for responsibility ,', None, None, None, 0), ('are used to women taking control in this area .', None, None, None, 1)]]
+Leaf:  N Elaborate The article
+Leaf:  S span I read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was about the disparity in responsibility for birth control between men and women .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Contrast A new male birth control was rejected as having too many side effects on men ,
+Leaf:  S span when options available to women have far more and more severe side effects .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The article mentioned
+Leaf:  N Cause that birth control for women revolutionized lives so much
+Leaf:  S span that the side effects were deemed acceptable ,
+Inner:  N Attribution None Cause NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Same-Unit but men are not accustomed to ceding convenience for responsibility ,
+Leaf:  N Same-Unit are used to women taking control in this area .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('The article', None, None, None, 0), ('I read', None, None, None, 0), ('was about the disparity in responsibility for birth control between men and women .', None, None, None, 1), ('A new male birth control was rejected as having too many side effects on men ,', None, None, None, 0), ('when options available to women have far more and more severe side effects .', None, None, None, 1), ('The article mentioned', None, None, None, 0), ('that birth control for women revolutionized lives so much', None, None, None, 0), ('that the side effects were deemed acceptable ,', None, None, None, 0), ('but men are not accustomed to ceding convenience for responsibility ,', None, None, None, 0), ('are used to women taking control in this area .', None, None, None, 1)]

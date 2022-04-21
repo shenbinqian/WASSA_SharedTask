@@ -1,0 +1,19 @@
+=====================> [[('So , about climate change , I just read an article about it .', None, None, None, 1), ('I have never really been concerned about climate change ,', None, None, None, 0), ('I think', None, None, None, 0), ("it 's a huge act", None, None, None, 0), ('that is exaggerated by the government , media , and everyone in between .', None, None, None, 1), ('The facts about fire increasing are a little scary though ...', None, None, None, 1), ('but I still think', None, None, None, 0), ('climate change is irrelevant .', None, None, None, 1), ('Maybe fires just happen more', None, None, None, 0)]]
+Leaf:  N Background So , about climate change , I just read an article about it .
+Leaf:  N Explanation I have never really been concerned about climate change ,
+Leaf:  S span I think
+Leaf:  N Elaborate it 's a huge act
+Leaf:  S span that is exaggerated by the government , media , and everyone in between .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span The facts about fire increasing are a little scary though ...
+Leaf:  S span but I still think
+Leaf:  N Attribution climate change is irrelevant .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Maybe fires just happen more
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Background NS
+[('So , about climate change , I just read an article about it .', None, None, None, 1), ('I have never really been concerned about climate change ,', None, None, None, 0), ('I think', None, None, None, 0), ("it 's a huge act", None, None, None, 0), ('that is exaggerated by the government , media , and everyone in between .', None, None, None, 1), ('The facts about fire increasing are a little scary though ...', None, None, None, 1), ('but I still think', None, None, None, 0), ('climate change is irrelevant .', None, None, None, 1), ('Maybe fires just happen more', None, None, None, 0)]

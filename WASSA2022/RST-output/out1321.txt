@@ -1,0 +1,37 @@
+=====================> [[('I just read about some girls', None, None, None, 0), ('losing their parents .', None, None, None, 1), ('It was very bad .', None, None, None, 1), ('They went to a theme park', None, None, None, 0), ('to enjoy themselves', None, None, None, 0), ('and their parents were killed in front of them .', None, None, None, 1), ('It was a water ride , the kind', None, None, None, 0), ('that seats six at a time .', None, None, None, 1), ('Something mechanical happened on the ride .', None, None, None, 1), ('The maintenance check a few days prior was good ,', None, None, None, 0), ('but something screwed up . There were four adults and two girls .', None, None, None, 1), ('The ride flipped over and trapped the adults .', None, None, None, 1), ('The little girls somehow escaped ,', None, None, None, 0), ("but their parents were among the four dead . Apparently , the park workers did n't even notice it right away .", None, None, None, 1), ('One of the girls was by the ride exit by herself .', None, None, None, 1), ('The girls may need a lot of counseling for the rest of the lives .', None, None, None, 1), ('It was pretty bad .', None, None, None, 1), ('I would hate to see my family members die in front of me in a tragic accident like that .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about some girls
+Leaf:  S span losing their parents .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It was very bad .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement They went to a theme park
+Leaf:  S span to enjoy themselves
+Inner:  S span None Enablement NS
+Leaf:  N Temporal and their parents were killed in front of them .
+Inner:  N Elaborate None Temporal SN
+Leaf:  N Elaborate It was a water ride , the kind
+Leaf:  S span that seats six at a time .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Something mechanical happened on the ride .
+Leaf:  S span The maintenance check a few days prior was good ,
+Leaf:  N Contrast but something screwed up . There were four adults and two girls .
+Inner:  N Cause None Contrast SN
+Leaf:  N Elaborate The ride flipped over and trapped the adults .
+Leaf:  S span The little girls somehow escaped ,
+Leaf:  N Contrast but their parents were among the four dead . Apparently , the park workers did n't even notice it right away .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span One of the girls was by the ride exit by herself .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The girls may need a lot of counseling for the rest of the lives .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It was pretty bad .
+Leaf:  S span I would hate to see my family members die in front of me in a tragic accident like that .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read about some girls', None, None, None, 0), ('losing their parents .', None, None, None, 1), ('It was very bad .', None, None, None, 1), ('They went to a theme park', None, None, None, 0), ('to enjoy themselves', None, None, None, 0), ('and their parents were killed in front of them .', None, None, None, 1), ('It was a water ride , the kind', None, None, None, 0), ('that seats six at a time .', None, None, None, 1), ('Something mechanical happened on the ride .', None, None, None, 1), ('The maintenance check a few days prior was good ,', None, None, None, 0), ('but something screwed up . There were four adults and two girls .', None, None, None, 1), ('The ride flipped over and trapped the adults .', None, None, None, 1), ('The little girls somehow escaped ,', None, None, None, 0), ("but their parents were among the four dead . Apparently , the park workers did n't even notice it right away .", None, None, None, 1), ('One of the girls was by the ride exit by herself .', None, None, None, 1), ('The girls may need a lot of counseling for the rest of the lives .', None, None, None, 1), ('It was pretty bad .', None, None, None, 1), ('I would hate to see my family members die in front of me in a tragic accident like that .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Why would anyone , let alone a group of 10-15 teenagers feel the need', None, None, None, 0), ('to attack an innocent person ?', None, None, None, 1), ('Chase them down', None, None, None, 0), ('and hurt them', None, None, None, 0), ('and than steal their wallet ?', None, None, None, 1), ('What in the world are these parents doing ?', None, None, None, 1), ('My mother would have killed me herself', None, None, None, 0), ('if she ever found out I was treating anyone that way . As far as any by standers', None, None, None, 0), ('that were possible in the area ,', None, None, None, 0), ('I truly hope', None, None, None, 0), ('that they came forward', None, None, None, 0), ('and these individuals were arrested and detained . They are obviously a dangerous group of kids ,', None, None, None, 0), ('who know right from wrong ,', None, None, None, 0), ("but for some reason , they do n't think", None, None, None, 0), ('the law applies to them .', None, None, None, 1)]]
+Leaf:  N Elaborate Why would anyone , let alone a group of 10-15 teenagers feel the need
+Leaf:  S span to attack an innocent person ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Chase them down
+Leaf:  N Comparison and hurt them
+Leaf:  N Comparison and than steal their wallet ?
+Inner:  N Joint None Comparison NN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint What in the world are these parents doing ?
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition My mother would have killed me herself
+Leaf:  N Elaborate if she ever found out I was treating anyone that way . As far as any by standers
+Leaf:  S span that were possible in the area ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Leaf:  S span I truly hope
+Leaf:  N Enablement that they came forward
+Leaf:  N Elaborate and these individuals were arrested and detained . They are obviously a dangerous group of kids ,
+Leaf:  S span who know right from wrong ,
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Leaf:  S span but for some reason , they do n't think
+Leaf:  N Attribution the law applies to them .
+Inner:  N Contrast None Attribution SN
+Inner:  N Condition None Contrast SN
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('Why would anyone , let alone a group of 10-15 teenagers feel the need', None, None, None, 0), ('to attack an innocent person ?', None, None, None, 1), ('Chase them down', None, None, None, 0), ('and hurt them', None, None, None, 0), ('and than steal their wallet ?', None, None, None, 1), ('What in the world are these parents doing ?', None, None, None, 1), ('My mother would have killed me herself', None, None, None, 0), ('if she ever found out I was treating anyone that way . As far as any by standers', None, None, None, 0), ('that were possible in the area ,', None, None, None, 0), ('I truly hope', None, None, None, 0), ('that they came forward', None, None, None, 0), ('and these individuals were arrested and detained . They are obviously a dangerous group of kids ,', None, None, None, 0), ('who know right from wrong ,', None, None, None, 0), ("but for some reason , they do n't think", None, None, None, 0), ('the law applies to them .', None, None, None, 1)]

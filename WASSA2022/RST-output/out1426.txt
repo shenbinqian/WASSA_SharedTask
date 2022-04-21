@@ -1,0 +1,15 @@
+=====================> [[('Yeah so global warming is really messing with the polar bear and the glaciers ,', None, None, None, 0), ('if the earth continues to melt', None, None, None, 0), ('and the glaciers continue to melt', None, None, None, 0), ('then we could be looking at the extension of the polar bear , the disappearance of our glacier and mass ma flooding .', None, None, None, 1), ('Luckily they eat a lot of people', None, None, None, 0), ('keeping a close eye the sea levels', None, None, None, 0), ('and working on how to slow the warming of our planet .', None, None, None, 1)]]
+Leaf:  N Manner-Means Yeah so global warming is really messing with the polar bear and the glaciers ,
+Leaf:  N Joint if the earth continues to melt
+Leaf:  N Joint and the glaciers continue to melt
+Inner:  S span None Joint NN
+Leaf:  N Condition then we could be looking at the extension of the polar bear , the disappearance of our glacier and mass ma flooding .
+Inner:  S span None Condition SN
+Inner:  N Contrast None Manner-Means NS
+Leaf:  N Elaborate Luckily they eat a lot of people
+Leaf:  N Joint keeping a close eye the sea levels
+Leaf:  N Joint and working on how to slow the warming of our planet .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Contrast NS
+[('Yeah so global warming is really messing with the polar bear and the glaciers ,', None, None, None, 0), ('if the earth continues to melt', None, None, None, 0), ('and the glaciers continue to melt', None, None, None, 0), ('then we could be looking at the extension of the polar bear , the disappearance of our glacier and mass ma flooding .', None, None, None, 1), ('Luckily they eat a lot of people', None, None, None, 0), ('keeping a close eye the sea levels', None, None, None, 0), ('and working on how to slow the warming of our planet .', None, None, None, 1)]

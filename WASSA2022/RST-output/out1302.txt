@@ -1,0 +1,17 @@
+=====================> [[('Being interested in sports and health together ,', None, None, None, 0), ('this is a solid article', None, None, None, 0), ('showing the impact', None, None, None, 0), ('eye injuries have on different types of sports .', None, None, None, 1), ("It 's somewhat common to see these injuries present themselves in basketball , baseball , and sports", None, None, None, 0), ('without protective gear .', None, None, None, 1), ("That 's just the nature of sports", None, None, None, 0), ('where consequences happen .', None, None, None, 1)]]
+Leaf:  S span Being interested in sports and health together ,
+Leaf:  N Elaborate this is a solid article
+Leaf:  N Elaborate showing the impact
+Leaf:  S span eye injuries have on different types of sports .
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Manner-Means It 's somewhat common to see these injuries present themselves in basketball , baseball , and sports
+Leaf:  S span without protective gear .
+Inner:  N Explanation None Manner-Means NS
+Leaf:  N Elaborate That 's just the nature of sports
+Leaf:  S span where consequences happen .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Being interested in sports and health together ,', None, None, None, 0), ('this is a solid article', None, None, None, 0), ('showing the impact', None, None, None, 0), ('eye injuries have on different types of sports .', None, None, None, 1), ("It 's somewhat common to see these injuries present themselves in basketball , baseball , and sports", None, None, None, 0), ('without protective gear .', None, None, None, 1), ("That 's just the nature of sports", None, None, None, 0), ('where consequences happen .', None, None, None, 1)]

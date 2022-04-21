@@ -1,0 +1,17 @@
+=====================> [[('I just read an article on the decision this week', None, None, None, 0), ('to dismiss the Kenyan general in charge of the peacekeeping force there .', None, None, None, 1), ('I agree', None, None, None, 0), ('that the restoration of a peace agreement is important and vital in this situation .', None, None, None, 1), ('I hope', None, None, None, 0), ('they can figure it out', None, None, None, 0), ('and the fighting that is happening all over the country can finally end', None, None, None, 0), ('and they can have peace .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article on the decision this week
+Leaf:  S span to dismiss the Kenyan general in charge of the peacekeeping force there .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I agree
+Leaf:  N Attribution that the restoration of a peace agreement is important and vital in this situation .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Temporal they can figure it out
+Leaf:  N Temporal and the fighting that is happening all over the country can finally end
+Leaf:  N Temporal and they can have peace .
+Inner:  N Temporal None Temporal NN
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article on the decision this week', None, None, None, 0), ('to dismiss the Kenyan general in charge of the peacekeeping force there .', None, None, None, 1), ('I agree', None, None, None, 0), ('that the restoration of a peace agreement is important and vital in this situation .', None, None, None, 1), ('I hope', None, None, None, 0), ('they can figure it out', None, None, None, 0), ('and the fighting that is happening all over the country can finally end', None, None, None, 0), ('and they can have peace .', None, None, None, 1)]

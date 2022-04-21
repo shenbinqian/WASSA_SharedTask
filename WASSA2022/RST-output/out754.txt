@@ -1,0 +1,23 @@
+=====================> [[('This article was eye opening .', None, None, None, 1), ("I ca n't imagine having to wear masks", None, None, None, 0), ('as I do my normal , everyday activities', None, None, None, 0), ('or go outside .', None, None, None, 1), ('This is so weird .', None, None, None, 1), ("It 's kind of disturbing , all of this .", None, None, None, 1), ('I think', None, None, None, 0), ("it 's a very good thing for people to donate to the firefighters .", None, None, None, 1), ('Firefighters risk their lives', None, None, None, 0), ('to protect us ,', None, None, None, 0), ('we can help them .', None, None, None, 1)]]
+Leaf:  N Evaluation This article was eye opening .
+Leaf:  N Comparison I ca n't imagine having to wear masks
+Leaf:  N Joint as I do my normal , everyday activities
+Leaf:  N Joint or go outside .
+Inner:  N Comparison None Joint NN
+Inner:  N Evaluation None Comparison NN
+Leaf:  N Summary This is so weird .
+Leaf:  S span It 's kind of disturbing , all of this .
+Inner:  S span None Summary NS
+Inner:  S span None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Attribution it 's a very good thing for people to donate to the firefighters .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Enablement Firefighters risk their lives
+Leaf:  S span to protect us ,
+Inner:  S span None Enablement NS
+Leaf:  N Enablement we can help them .
+Inner:  S span None Enablement SN
+Inner:  N Background None Explanation NS
+Inner:  S span None Background SN
+Inner:  Root None None Evaluation NS
+[('This article was eye opening .', None, None, None, 1), ("I ca n't imagine having to wear masks", None, None, None, 0), ('as I do my normal , everyday activities', None, None, None, 0), ('or go outside .', None, None, None, 1), ('This is so weird .', None, None, None, 1), ("It 's kind of disturbing , all of this .", None, None, None, 1), ('I think', None, None, None, 0), ("it 's a very good thing for people to donate to the firefighters .", None, None, None, 1), ('Firefighters risk their lives', None, None, None, 0), ('to protect us ,', None, None, None, 0), ('we can help them .', None, None, None, 1)]

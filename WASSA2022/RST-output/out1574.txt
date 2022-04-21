@@ -1,0 +1,25 @@
+=====================> [[('A Cincinnati Zoo had improper safety regulations', None, None, None, 0), ('which led to a 3 year old boy', None, None, None, 0), ('falling into a Gorilla pit .', None, None, None, 1), ('This was the Harambe thing', None, None, None, 0), ('everyone was talking about years ago .', None, None, None, 1), ('They ended up shooting the Gorilla in an attempt', None, None, None, 0), ('to prevent the child', None, None, None, 0), ('from getting hurt ,', None, None, None, 0), ('but there was a lot of uproar', None, None, None, 0), ('over whether it was necessary or not .', None, None, None, 1), ("It 's a happy ending for the kid", None, None, None, 0), ('but I really wish both lived .', None, None, None, 1)]]
+Leaf:  N Cause A Cincinnati Zoo had improper safety regulations
+Leaf:  N Elaborate which led to a 3 year old boy
+Leaf:  S span falling into a Gorilla pit .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate This was the Harambe thing
+Leaf:  S span everyone was talking about years ago .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate They ended up shooting the Gorilla in an attempt
+Leaf:  N Elaborate to prevent the child
+Leaf:  S span from getting hurt ,
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but there was a lot of uproar
+Leaf:  S span over whether it was necessary or not .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Background None Contrast NN
+Inner:  N Evaluation None Background SN
+Leaf:  N Contrast It 's a happy ending for the kid
+Leaf:  S span but I really wish both lived .
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('A Cincinnati Zoo had improper safety regulations', None, None, None, 0), ('which led to a 3 year old boy', None, None, None, 0), ('falling into a Gorilla pit .', None, None, None, 1), ('This was the Harambe thing', None, None, None, 0), ('everyone was talking about years ago .', None, None, None, 1), ('They ended up shooting the Gorilla in an attempt', None, None, None, 0), ('to prevent the child', None, None, None, 0), ('from getting hurt ,', None, None, None, 0), ('but there was a lot of uproar', None, None, None, 0), ('over whether it was necessary or not .', None, None, None, 1), ("It 's a happy ending for the kid", None, None, None, 0), ('but I really wish both lived .', None, None, None, 1)]

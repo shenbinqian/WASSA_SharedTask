@@ -1,0 +1,21 @@
+=====================> [[('Please hug your loved ones', None, None, None, 0), ('because they may be gone at any moments of time .', None, None, None, 1), ('If you were in an argument with any of them', None, None, None, 0), ('please reconsider what has happened in the past', None, None, None, 0), ('and let it go .', None, None, None, 1), ('Life is short', None, None, None, 0), ('and we all have only one life', None, None, None, 0), ('to live on this planet .', None, None, None, 1), ('We should all cherish each other', None, None, None, 0), ('and enjoy life to the fullest .', None, None, None, 1)]]
+Leaf:  N Background Please hug your loved ones
+Leaf:  S span because they may be gone at any moments of time .
+Inner:  N Summary None Background NS
+Leaf:  S span If you were in an argument with any of them
+Leaf:  N Joint please reconsider what has happened in the past
+Leaf:  N Joint and let it go .
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  N Explanation None Summary NS
+Leaf:  N Joint Life is short
+Leaf:  N Elaborate and we all have only one life
+Leaf:  S span to live on this planet .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint We should all cherish each other
+Leaf:  N Joint and enjoy life to the fullest .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Please hug your loved ones', None, None, None, 0), ('because they may be gone at any moments of time .', None, None, None, 1), ('If you were in an argument with any of them', None, None, None, 0), ('please reconsider what has happened in the past', None, None, None, 0), ('and let it go .', None, None, None, 1), ('Life is short', None, None, None, 0), ('and we all have only one life', None, None, None, 0), ('to live on this planet .', None, None, None, 1), ('We should all cherish each other', None, None, None, 0), ('and enjoy life to the fullest .', None, None, None, 1)]

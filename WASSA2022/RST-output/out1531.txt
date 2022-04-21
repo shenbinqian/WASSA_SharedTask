@@ -1,0 +1,19 @@
+=====================> [[('This man lived here almost his entire life .', None, None, None, 1), ('His infractions', None, None, None, 0), ('in which he was charged with are explainable .', None, None, None, 1), ('He literally was getting back his only true property from a more than troubled house .', None, None, None, 1), ('This also was a very long time ago .', None, None, None, 1), ('He has since built himself up a life with a family', None, None, None, 0), ('and now they are looking to deport him .', None, None, None, 1), ('this is a tragedy .', None, None, None, 1), ('We must do something about this !', None, None, None, 1)]]
+Leaf:  N Elaborate This man lived here almost his entire life .
+Leaf:  N Elaborate His infractions
+Leaf:  S span in which he was charged with are explainable .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate He literally was getting back his only true property from a more than troubled house .
+Leaf:  S span This also was a very long time ago .
+Inner:  S span None Elaborate NS
+Leaf:  S span He has since built himself up a life with a family
+Leaf:  N Cause and now they are looking to deport him .
+Inner:  N Background None Cause SN
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span this is a tragedy .
+Leaf:  N Condition We must do something about this !
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('This man lived here almost his entire life .', None, None, None, 1), ('His infractions', None, None, None, 0), ('in which he was charged with are explainable .', None, None, None, 1), ('He literally was getting back his only true property from a more than troubled house .', None, None, None, 1), ('This also was a very long time ago .', None, None, None, 1), ('He has since built himself up a life with a family', None, None, None, 0), ('and now they are looking to deport him .', None, None, None, 1), ('this is a tragedy .', None, None, None, 1), ('We must do something about this !', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('that " acceptable', None, None, None, 0), ('if filtered " is now the standard', None, None, None, 0), ("we 're accepting for water .", None, None, None, 1), ("No one 's taking the fall for this", None, None, None, 0), ('and it sounds like places all over the country are getting dangerous drinking water', None, None, None, 0), ("that they 've got to pay to filter .", None, None, None, 1), ("It 's really scary that nothing is being done .", None, None, None, 1), ('Flint looked terrible', None, None, None, 0), ("and I ca n't imagine those contaminants are good for anyone 's health ,", None, None, None, 0), ('even if the FDA says', None, None, None, 0), ('they \'re " acceptable . "', None, None, None, 0)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Background that " acceptable
+Leaf:  N Elaborate if filtered " is now the standard
+Leaf:  S span we 're accepting for water .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint No one 's taking the fall for this
+Leaf:  N Elaborate and it sounds like places all over the country are getting dangerous drinking water
+Leaf:  S span that they 've got to pay to filter .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It 's really scary that nothing is being done .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Flint looked terrible
+Leaf:  N Condition and I ca n't imagine those contaminants are good for anyone 's health ,
+Leaf:  S span even if the FDA says
+Leaf:  N Attribution they 're " acceptable . "
+Inner:  S span None Attribution SN
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[("I ca n't believe", None, None, None, 0), ('that " acceptable', None, None, None, 0), ('if filtered " is now the standard', None, None, None, 0), ("we 're accepting for water .", None, None, None, 1), ("No one 's taking the fall for this", None, None, None, 0), ('and it sounds like places all over the country are getting dangerous drinking water', None, None, None, 0), ("that they 've got to pay to filter .", None, None, None, 1), ("It 's really scary that nothing is being done .", None, None, None, 1), ('Flint looked terrible', None, None, None, 0), ("and I ca n't imagine those contaminants are good for anyone 's health ,", None, None, None, 0), ('even if the FDA says', None, None, None, 0), ('they \'re " acceptable . "', None, None, None, 0)]

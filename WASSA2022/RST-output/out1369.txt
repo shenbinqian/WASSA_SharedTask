@@ -1,0 +1,29 @@
+=====================> [[('Wow . .', None, None, None, 1), ('You have to check this out .', None, None, None, 1), ('There was a horrible accident on a family type Water Ride in Gold Coast Austrailia .', None, None, None, 1), ('4 People were killed .', None, None, None, 1), ('.2 women ages 42 and 32', None, None, None, 0), ('I think ,', None, None, None, 0), ('also two men , 38 , and 35 , .', None, None, None, 1), ('This is what happened ... 2 people were ejected from the raft', None, None, None, 0), ('and the other 2 were trapped inside . .', None, None, None, 1), ('they all died .', None, None, None, 1), ('The park was shut down .', None, None, None, 1), ('The thing that makes it wierd is that the water feature is like a tame family type ride . .', None, None, None, 1), ('Definately things families would go on together .', None, None, None, 1), ('Makes you think Right ?', None, None, None, 1)]]
+Leaf:  N Summary Wow . .
+Leaf:  S span You have to check this out .
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate There was a horrible accident on a family type Water Ride in Gold Coast Austrailia .
+Leaf:  N Elaborate 4 People were killed .
+Leaf:  N Attribution .2 women ages 42 and 32
+Leaf:  S span I think ,
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit also two men , 38 , and 35 , .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint This is what happened ... 2 people were ejected from the raft
+Leaf:  N Joint and the other 2 were trapped inside . .
+Inner:  N Cause None Joint NN
+Leaf:  S span they all died .
+Inner:  S span None Cause NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span The park was shut down .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The thing that makes it wierd is that the water feature is like a tame family type ride . .
+Leaf:  S span Definately things families would go on together .
+Inner:  N Cause None Evaluation NS
+Leaf:  S span Makes you think Right ?
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Wow . .', None, None, None, 1), ('You have to check this out .', None, None, None, 1), ('There was a horrible accident on a family type Water Ride in Gold Coast Austrailia .', None, None, None, 1), ('4 People were killed .', None, None, None, 1), ('.2 women ages 42 and 32', None, None, None, 0), ('I think ,', None, None, None, 0), ('also two men , 38 , and 35 , .', None, None, None, 1), ('This is what happened ... 2 people were ejected from the raft', None, None, None, 0), ('and the other 2 were trapped inside . .', None, None, None, 1), ('they all died .', None, None, None, 1), ('The park was shut down .', None, None, None, 1), ('The thing that makes it wierd is that the water feature is like a tame family type ride . .', None, None, None, 1), ('Definately things families would go on together .', None, None, None, 1), ('Makes you think Right ?', None, None, None, 1)]

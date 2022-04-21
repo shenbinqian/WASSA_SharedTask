@@ -1,0 +1,35 @@
+=====================> [[('Sure glad I live in Minnesota and not Chicago .', None, None, None, 1), ('I hear', None, None, None, 0), ('the latest problem is lead in the water .', None, None, None, 1), ('Now they are shutting down all the outdoor fountains .', None, None, None, 1), ('One reason is to protect the homelsss .', None, None, None, 1), ('LOL who are they kidding .', None, None, None, 1), ('Like anyone actually cares about the homeless .', None, None, None, 1), ('We have this pompous rich guy Donald Trump', None, None, None, 0), ('cutting peoples SNAP on 2019', None, None, None, 0), ('while at the same time cities are worrying about lead in the water', None, None, None, 0), ('to protect the homeless .', None, None, None, 1), ("It 's all really annoying .", None, None, None, 1), ('Granted I agree', None, None, None, 0), ('lead is bad but then again some Govt .', None, None, None, 1), ('clown probably needs to do something', None, None, None, 0), ('to justify the 6 figure income', None, None, None, 0), ('they make .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Sure glad I live in Minnesota and not Chicago .
+Leaf:  S span I hear
+Leaf:  N Attribution the latest problem is lead in the water .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation Now they are shutting down all the outdoor fountains .
+Leaf:  S span One reason is to protect the homelsss .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Summary LOL who are they kidding .
+Leaf:  S span Like anyone actually cares about the homeless .
+Inner:  S span None Summary NS
+Inner:  N Summary None Evaluation NS
+Leaf:  N Elaborate We have this pompous rich guy Donald Trump
+Leaf:  N Temporal cutting peoples SNAP on 2019
+Leaf:  N Enablement while at the same time cities are worrying about lead in the water
+Leaf:  S span to protect the homeless .
+Inner:  N Temporal None Enablement NS
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's all really annoying .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span Granted I agree
+Leaf:  N Attribution lead is bad but then again some Govt .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement clown probably needs to do something
+Leaf:  N Elaborate to justify the 6 figure income
+Leaf:  S span they make .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Sure glad I live in Minnesota and not Chicago .', None, None, None, 1), ('I hear', None, None, None, 0), ('the latest problem is lead in the water .', None, None, None, 1), ('Now they are shutting down all the outdoor fountains .', None, None, None, 1), ('One reason is to protect the homelsss .', None, None, None, 1), ('LOL who are they kidding .', None, None, None, 1), ('Like anyone actually cares about the homeless .', None, None, None, 1), ('We have this pompous rich guy Donald Trump', None, None, None, 0), ('cutting peoples SNAP on 2019', None, None, None, 0), ('while at the same time cities are worrying about lead in the water', None, None, None, 0), ('to protect the homeless .', None, None, None, 1), ("It 's all really annoying .", None, None, None, 1), ('Granted I agree', None, None, None, 0), ('lead is bad but then again some Govt .', None, None, None, 1), ('clown probably needs to do something', None, None, None, 0), ('to justify the 6 figure income', None, None, None, 0), ('they make .', None, None, None, 1)]

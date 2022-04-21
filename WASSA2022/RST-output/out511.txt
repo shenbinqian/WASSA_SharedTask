@@ -1,0 +1,29 @@
+=====================> [[('I could not help', None, None, None, 0), ('but think of my and my son would we be in a similar situation .', None, None, None, 1), ('I know', None, None, None, 0), ('my son is much younger', None, None, None, 0), ('and the situation would be very different ,', None, None, None, 0), ('but part of me can feel the water', None, None, None, 0), ('as we are swimming', None, None, None, 0), ('to get safe .', None, None, None, 1), ('I can see myself looking back', None, None, None, 0), ('to be sure', None, None, None, 0), ('that he is still with me ,', None, None, None, 0), ('maybe reaching back', None, None, None, 0), ('to try to pull him closer .', None, None, None, 1), ('It is a very intense thought .', None, None, None, 1)]]
+Leaf:  S span I could not help
+Leaf:  N Background but think of my and my son would we be in a similar situation .
+Inner:  N Elaborate None Background SN
+Leaf:  S span I know
+Leaf:  N Joint my son is much younger
+Leaf:  N Joint and the situation would be very different ,
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Temporal but part of me can feel the water
+Leaf:  N Enablement as we are swimming
+Leaf:  S span to get safe .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Temporal NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Enablement I can see myself looking back
+Leaf:  S span to be sure
+Leaf:  N Joint that he is still with me ,
+Leaf:  N Enablement maybe reaching back
+Leaf:  S span to try to pull him closer .
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is a very intense thought .
+Inner:  Root None None Evaluation NS
+[('I could not help', None, None, None, 0), ('but think of my and my son would we be in a similar situation .', None, None, None, 1), ('I know', None, None, None, 0), ('my son is much younger', None, None, None, 0), ('and the situation would be very different ,', None, None, None, 0), ('but part of me can feel the water', None, None, None, 0), ('as we are swimming', None, None, None, 0), ('to get safe .', None, None, None, 1), ('I can see myself looking back', None, None, None, 0), ('to be sure', None, None, None, 0), ('that he is still with me ,', None, None, None, 0), ('maybe reaching back', None, None, None, 0), ('to try to pull him closer .', None, None, None, 1), ('It is a very intense thought .', None, None, None, 1)]

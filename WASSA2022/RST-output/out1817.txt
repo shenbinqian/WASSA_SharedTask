@@ -1,0 +1,29 @@
+=====================> [[("I do n't know", None, None, None, 0), ("if you 've seen this article about the war on cops ,", None, None, None, 0), ('but I found it pretty unconvincing .', None, None, None, 1), ('It actually made me a bit angry ,', None, None, None, 0), ('because it focuses on police deaths form two years ago', None, None, None, 0), ("and does n't take into account current figures .", None, None, None, 1), ('Also ,', None, None, None, 0), ('by focusing on deaths alone ,', None, None, None, 0), ('it completely glosses over injuries', None, None, None, 0), ('to paint a picture', None, None, None, 0), ('that policing is safe in the current climate .', None, None, None, 1), ('It feels a lot like fake news to me .', None, None, None, 1), ('All you have to do is pick up the paper', None, None, None, 0), ('to see how often cops are involved in fights with criminals and crazy people .', None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  N Attribution if you 've seen this article about the war on cops ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but I found it pretty unconvincing .
+Leaf:  N Explanation It actually made me a bit angry ,
+Leaf:  N Joint because it focuses on police deaths form two years ago
+Leaf:  N Joint and does n't take into account current figures .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Same-Unit Also ,
+Leaf:  S span by focusing on deaths alone ,
+Leaf:  N Enablement it completely glosses over injuries
+Leaf:  N Elaborate to paint a picture
+Leaf:  S span that policing is safe in the current climate .
+Inner:  S span None Elaborate NS
+Inner:  N Manner-Means None Enablement NS
+Inner:  N Same-Unit None Manner-Means SN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate It feels a lot like fake news to me .
+Leaf:  N Enablement All you have to do is pick up the paper
+Leaf:  S span to see how often cops are involved in fights with criminals and crazy people .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("I do n't know", None, None, None, 0), ("if you 've seen this article about the war on cops ,", None, None, None, 0), ('but I found it pretty unconvincing .', None, None, None, 1), ('It actually made me a bit angry ,', None, None, None, 0), ('because it focuses on police deaths form two years ago', None, None, None, 0), ("and does n't take into account current figures .", None, None, None, 1), ('Also ,', None, None, None, 0), ('by focusing on deaths alone ,', None, None, None, 0), ('it completely glosses over injuries', None, None, None, 0), ('to paint a picture', None, None, None, 0), ('that policing is safe in the current climate .', None, None, None, 1), ('It feels a lot like fake news to me .', None, None, None, 1), ('All you have to do is pick up the paper', None, None, None, 0), ('to see how often cops are involved in fights with criminals and crazy people .', None, None, None, 1)]

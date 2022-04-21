@@ -1,0 +1,25 @@
+=====================> [[('Terribly sorry for all the families', None, None, None, 0), ('affected by this incident .', None, None, None, 1), ('I confident', None, None, None, 0), ('that the Russians had something to do with this .', None, None, None, 1), ('They interfered with our election too .', None, None, None, 1), ('They are corrupt and shady .', None, None, None, 1), ('This further demonstrates', None, None, None, 0), ("that you ca n't trust the Russians .", None, None, None, 1), ("I 'm so done with them .", None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('what needs to be done', None, None, None, 0), ('but I wish Putin disappeared from this Earth .', None, None, None, 1)]]
+Leaf:  N Elaborate Terribly sorry for all the families
+Leaf:  S span affected by this incident .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I confident
+Leaf:  N Attribution that the Russians had something to do with this .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They interfered with our election too .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They are corrupt and shady .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This further demonstrates
+Leaf:  N Attribution that you ca n't trust the Russians .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I 'm so done with them .
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution what needs to be done
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but I wish Putin disappeared from this Earth .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Terribly sorry for all the families', None, None, None, 0), ('affected by this incident .', None, None, None, 1), ('I confident', None, None, None, 0), ('that the Russians had something to do with this .', None, None, None, 1), ('They interfered with our election too .', None, None, None, 1), ('They are corrupt and shady .', None, None, None, 1), ('This further demonstrates', None, None, None, 0), ("that you ca n't trust the Russians .", None, None, None, 1), ("I 'm so done with them .", None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('what needs to be done', None, None, None, 0), ('but I wish Putin disappeared from this Earth .', None, None, None, 1)]

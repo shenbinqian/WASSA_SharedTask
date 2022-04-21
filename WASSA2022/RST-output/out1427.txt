@@ -1,0 +1,25 @@
+=====================> [[('There was this little boy', None, None, None, 0), ('found dead down a well somewhere in China .', None, None, None, 1), ('He fell down there well', None, None, None, 0), ('helping his father harvest ,', None, None, None, 0), ('I guess on a farm', None, None, None, 0), ('they own .', None, None, None, 1), ("What kind of weird is that they were n't able to get him out till four days later ;", None, None, None, 0), ('not really sure', None, None, None, 0), ("why they could n't get him out sooner", None, None, None, 0), ('... could have saved his life .', None, None, None, 1), ("Maybe they just did n't have enough resources", None, None, None, 0), ('... sad ... very sad ...', None, None, None, 1)]]
+Leaf:  N Elaborate There was this little boy
+Leaf:  S span found dead down a well somewhere in China .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate He fell down there well
+Leaf:  S span helping his father harvest ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate I guess on a farm
+Leaf:  S span they own .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation What kind of weird is that they were n't able to get him out till four days later ;
+Leaf:  S span not really sure
+Leaf:  N Joint why they could n't get him out sooner
+Leaf:  N Joint ... could have saved his life .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Maybe they just did n't have enough resources
+Leaf:  S span ... sad ... very sad ...
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('There was this little boy', None, None, None, 0), ('found dead down a well somewhere in China .', None, None, None, 1), ('He fell down there well', None, None, None, 0), ('helping his father harvest ,', None, None, None, 0), ('I guess on a farm', None, None, None, 0), ('they own .', None, None, None, 1), ("What kind of weird is that they were n't able to get him out till four days later ;", None, None, None, 0), ('not really sure', None, None, None, 0), ("why they could n't get him out sooner", None, None, None, 0), ('... could have saved his life .', None, None, None, 1), ("Maybe they just did n't have enough resources", None, None, None, 0), ('... sad ... very sad ...', None, None, None, 1)]

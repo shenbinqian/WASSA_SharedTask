@@ -1,0 +1,19 @@
+=====================> [[('Natural disasters like these are just so scary .', None, None, None, 1), ('They could literally happen at anytime', None, None, None, 0), ('and no one ever knows when , especially earthquakes .', None, None, None, 1), ('It is sad to see such historic buildings and areas be destroyed by this event .', None, None, None, 1), ('It is even more sad', None, None, None, 0), ('knowing', None, None, None, 0), ('that people got injured .', None, None, None, 1), ("Some things just are n't fair in life", None, None, None, 0), ('and you never see it coming .', None, None, None, 1)]]
+Leaf:  N Elaborate Natural disasters like these are just so scary .
+Leaf:  N Joint They could literally happen at anytime
+Leaf:  N Joint and no one ever knows when , especially earthquakes .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is sad to see such historic buildings and areas be destroyed by this event .
+Leaf:  N Background It is even more sad
+Leaf:  S span knowing
+Leaf:  N Attribution that people got injured .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Some things just are n't fair in life
+Leaf:  N Joint and you never see it coming .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Natural disasters like these are just so scary .', None, None, None, 1), ('They could literally happen at anytime', None, None, None, 0), ('and no one ever knows when , especially earthquakes .', None, None, None, 1), ('It is sad to see such historic buildings and areas be destroyed by this event .', None, None, None, 1), ('It is even more sad', None, None, None, 0), ('knowing', None, None, None, 0), ('that people got injured .', None, None, None, 1), ("Some things just are n't fair in life", None, None, None, 0), ('and you never see it coming .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[("Here 's another article from the 2016 campaign", None, None, None, 0), ("that did n't age well .", None, None, None, 1), ('Read it', None, None, None, 0), ('and have a laugh .', None, None, None, 1), ("It 's pretty ridiculous in retrospect .", None, None, None, 1), ('More of the women', None, None, None, 0), ("they 're talking about", None, None, None, 0), ('voted for Trump than Hillary .', None, None, None, 1), ('I guess they never asked women', None, None, None, 0), ('if those allegations bothered them', None, None, None, 0), ('or were important .', None, None, None, 1), ('I know', None, None, None, 0), ('that you told me after the Access Hollywood tapes', None, None, None, 0), ("that you did n't care about that stuff ,", None, None, None, 0), ('that policy issues were more important .', None, None, None, 1)]]
+Leaf:  N Elaborate Here 's another article from the 2016 campaign
+Leaf:  S span that did n't age well .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Temporal Read it
+Leaf:  N Temporal and have a laugh .
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span It 's pretty ridiculous in retrospect .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate More of the women
+Leaf:  S span they 're talking about
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit voted for Trump than Hillary .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I guess they never asked women
+Leaf:  N Joint if those allegations bothered them
+Leaf:  N Joint or were important .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  S span that you told me after the Access Hollywood tapes
+Leaf:  N Joint that you did n't care about that stuff ,
+Leaf:  N Joint that policy issues were more important .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[("Here 's another article from the 2016 campaign", None, None, None, 0), ("that did n't age well .", None, None, None, 1), ('Read it', None, None, None, 0), ('and have a laugh .', None, None, None, 1), ("It 's pretty ridiculous in retrospect .", None, None, None, 1), ('More of the women', None, None, None, 0), ("they 're talking about", None, None, None, 0), ('voted for Trump than Hillary .', None, None, None, 1), ('I guess they never asked women', None, None, None, 0), ('if those allegations bothered them', None, None, None, 0), ('or were important .', None, None, None, 1), ('I know', None, None, None, 0), ('that you told me after the Access Hollywood tapes', None, None, None, 0), ("that you did n't care about that stuff ,", None, None, None, 0), ('that policy issues were more important .', None, None, None, 1)]

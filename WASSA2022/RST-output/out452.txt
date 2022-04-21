@@ -1,0 +1,25 @@
+=====================> [[('So I just read an article about climate change ,', None, None, None, 0), ('and it is awful .', None, None, None, 1), ('It seems very few people are trying to stop it', None, None, None, 0), ('and it is maddening .', None, None, None, 1), ('We need to take more control over the things', None, None, None, 0), ('that are being put into the air', None, None, None, 0), ('that could be causing such an atrocious thing .', None, None, None, 1), ('We need to start reusing things', None, None, None, 0), ('and switching to organically grown things ,', None, None, None, 0), ('if possible .', None, None, None, 1), ('The oceans and lakes are suffering', None, None, None, 0), ('and eventually , we will , too .', None, None, None, 1)]]
+Leaf:  S span So I just read an article about climate change ,
+Leaf:  N Background and it is awful .
+Inner:  N Elaborate None Background SN
+Leaf:  N Cause It seems very few people are trying to stop it
+Leaf:  S span and it is maddening .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We need to take more control over the things
+Leaf:  S span that are being put into the air
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that could be causing such an atrocious thing .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint We need to start reusing things
+Leaf:  N Evaluation and switching to organically grown things ,
+Leaf:  S span if possible .
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint The oceans and lakes are suffering
+Leaf:  N Joint and eventually , we will , too .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('So I just read an article about climate change ,', None, None, None, 0), ('and it is awful .', None, None, None, 1), ('It seems very few people are trying to stop it', None, None, None, 0), ('and it is maddening .', None, None, None, 1), ('We need to take more control over the things', None, None, None, 0), ('that are being put into the air', None, None, None, 0), ('that could be causing such an atrocious thing .', None, None, None, 1), ('We need to start reusing things', None, None, None, 0), ('and switching to organically grown things ,', None, None, None, 0), ('if possible .', None, None, None, 1), ('The oceans and lakes are suffering', None, None, None, 0), ('and eventually , we will , too .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('This was a tough article', None, None, None, 0), ('to read', None, None, None, 0), ('because if you put yourself in that place ,', None, None, None, 0), ('and you think of yourself losing a friend', None, None, None, 0), ('that is very close to you or a family friend .', None, None, None, 1), ('I know', None, None, None, 0), ('that', None, None, None, 0), ('whenever I think about not having someone', None, None, None, 0), ('that has been close to me', None, None, None, 0), ('I wonder', None, None, None, 0), ('how I would feel or react .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('that we let people know', None, None, None, 0), ('how we feel enough .', None, None, None, 1)]]
+Leaf:  N Elaborate This was a tough article
+Leaf:  S span to read
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Temporal because if you put yourself in that place ,
+Leaf:  N Elaborate and you think of yourself losing a friend
+Leaf:  S span that is very close to you or a family friend .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I know
+Leaf:  N Same-Unit that
+Leaf:  N Elaborate whenever I think about not having someone
+Leaf:  S span that has been close to me
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I wonder
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution how I would feel or react .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do n't think
+Leaf:  S span that we let people know
+Leaf:  N Attribution how we feel enough .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This was a tough article', None, None, None, 0), ('to read', None, None, None, 0), ('because if you put yourself in that place ,', None, None, None, 0), ('and you think of yourself losing a friend', None, None, None, 0), ('that is very close to you or a family friend .', None, None, None, 1), ('I know', None, None, None, 0), ('that', None, None, None, 0), ('whenever I think about not having someone', None, None, None, 0), ('that has been close to me', None, None, None, 0), ('I wonder', None, None, None, 0), ('how I would feel or react .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('that we let people know', None, None, None, 0), ('how we feel enough .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('I feel for her .', None, None, None, 1), ('They could n’t afford to cremate them on their own', None, None, None, 0), ('and help them ,', None, None, None, 0), ('and the financial help', None, None, None, 0), ('they were entitled to', None, None, None, 0), ('as crime victims had not come through', None, None, None, 0), ("because the system today is n't going to help criminals .", None, None, None, 1), ('I hope', None, None, None, 0), ('the government now helps criminals through dangerous activities', None, None, None, 0), ('and make the world a better place', None, None, None, 0)]]
+Leaf:  N Explanation I feel for her .
+Leaf:  N Joint They could n’t afford to cremate them on their own
+Leaf:  N Joint and help them ,
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate and the financial help
+Leaf:  S span they were entitled to
+Inner:  N Background None Elaborate NS
+Leaf:  S span as crime victims had not come through
+Inner:  S span None Background NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because the system today is n't going to help criminals .
+Inner:  S span None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Joint the government now helps criminals through dangerous activities
+Leaf:  N Joint and make the world a better place
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Explanation NS
+[('I feel for her .', None, None, None, 1), ('They could n’t afford to cremate them on their own', None, None, None, 0), ('and help them ,', None, None, None, 0), ('and the financial help', None, None, None, 0), ('they were entitled to', None, None, None, 0), ('as crime victims had not come through', None, None, None, 0), ("because the system today is n't going to help criminals .", None, None, None, 1), ('I hope', None, None, None, 0), ('the government now helps criminals through dangerous activities', None, None, None, 0), ('and make the world a better place', None, None, None, 0)]

@@ -1,0 +1,27 @@
+=====================> [[('Wow , this is terrible !', None, None, None, 1), ('I know', None, None, None, 0), ("a lot of you use L'Oreal products .", None, None, None, 1), ('You should read this .', None, None, None, 1), ('It has to do with a woman', None, None, None, 0), ('getting awful burns', None, None, None, 0), ('from using their products .', None, None, None, 1), ("She 's going to sue the company .", None, None, None, 1), ('I think', None, None, None, 0), ('we should support her .', None, None, None, 1), ('No company should get away with this .', None, None, None, 1), ("It 's a horrible reaction", None, None, None, 0), ("and it 's just plain terrible what she has to go through .", None, None, None, 1)]]
+Leaf:  N Explanation Wow , this is terrible !
+Leaf:  S span I know
+Leaf:  N Attribution a lot of you use L'Oreal products .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span You should read this .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate It has to do with a woman
+Leaf:  N Cause getting awful burns
+Leaf:  S span from using their products .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation She 's going to sue the company .
+Leaf:  S span I think
+Leaf:  N Attribution we should support her .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint No company should get away with this .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's a horrible reaction
+Leaf:  N Joint and it 's just plain terrible what she has to go through .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Wow , this is terrible !', None, None, None, 1), ('I know', None, None, None, 0), ("a lot of you use L'Oreal products .", None, None, None, 1), ('You should read this .', None, None, None, 1), ('It has to do with a woman', None, None, None, 0), ('getting awful burns', None, None, None, 0), ('from using their products .', None, None, None, 1), ("She 's going to sue the company .", None, None, None, 1), ('I think', None, None, None, 0), ('we should support her .', None, None, None, 1), ('No company should get away with this .', None, None, None, 1), ("It 's a horrible reaction", None, None, None, 0), ("and it 's just plain terrible what she has to go through .", None, None, None, 1)]

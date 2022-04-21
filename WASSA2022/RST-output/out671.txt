@@ -1,0 +1,15 @@
+=====================> [[('There are many types of virus', None, None, None, 0), ('spreading through our population today .', None, None, None, 1), ('More recently the Zika virus has found new ways', None, None, None, 0), ('of spreading from person to person .', None, None, None, 1), ('It has also found new host an carriers .', None, None, None, 1), ('This new problem is very concerning especially for people young and old .', None, None, None, 1), ('It also seems like pregnant woman are very susceptible to this virus as well .', None, None, None, 1)]]
+Leaf:  N Elaborate There are many types of virus
+Leaf:  S span spreading through our population today .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate More recently the Zika virus has found new ways
+Leaf:  S span of spreading from person to person .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It has also found new host an carriers .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint This new problem is very concerning especially for people young and old .
+Leaf:  N Joint It also seems like pregnant woman are very susceptible to this virus as well .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('There are many types of virus', None, None, None, 0), ('spreading through our population today .', None, None, None, 1), ('More recently the Zika virus has found new ways', None, None, None, 0), ('of spreading from person to person .', None, None, None, 1), ('It has also found new host an carriers .', None, None, None, 1), ('This new problem is very concerning especially for people young and old .', None, None, None, 1), ('It also seems like pregnant woman are very susceptible to this virus as well .', None, None, None, 1)]

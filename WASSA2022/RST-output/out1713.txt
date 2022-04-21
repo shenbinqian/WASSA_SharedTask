@@ -1,0 +1,29 @@
+=====================> [[('Reading an article', None, None, None, 0), ('that is basically on the fear and risk of the Zika Virus', None, None, None, 0), ('and how it is currently an issue .', None, None, None, 1), ("It does n't affect my fellings at all .", None, None, None, 1), ('It is clearly and issue', None, None, None, 0), ("but they 'll make a vaccine for those", None, None, None, 0), ("who do n't", None, None, None, 0), ('become immune by way of their own system ,', None, None, None, 0), ('then the virus will become resistant to the vaccinations', None, None, None, 0), ('and it will be a never ending up and down cycle', None, None, None, 0), ('that we see all the time .', None, None, None, 1), ("I simply just ca n't let something like this ,", None, None, None, 0), ('despite the risk ,', None, None, None, 0), ('affect my feelings and emotions .', None, None, None, 1)]]
+Leaf:  N Elaborate Reading an article
+Leaf:  S span that is basically on the fear and risk of the Zika Virus
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and how it is currently an issue .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It does n't affect my fellings at all .
+Leaf:  S span It is clearly and issue
+Leaf:  N Elaborate but they 'll make a vaccine for those
+Leaf:  S span who do n't
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit become immune by way of their own system ,
+Inner:  S span None Same-Unit NN
+Leaf:  S span then the virus will become resistant to the vaccinations
+Leaf:  N Elaborate and it will be a never ending up and down cycle
+Leaf:  S span that we see all the time .
+Inner:  N Cause None Elaborate NS
+Inner:  N Cause None Cause SN
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Same-Unit I simply just ca n't let something like this ,
+Leaf:  S span despite the risk ,
+Leaf:  N Contrast affect my feelings and emotions .
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('Reading an article', None, None, None, 0), ('that is basically on the fear and risk of the Zika Virus', None, None, None, 0), ('and how it is currently an issue .', None, None, None, 1), ("It does n't affect my fellings at all .", None, None, None, 1), ('It is clearly and issue', None, None, None, 0), ("but they 'll make a vaccine for those", None, None, None, 0), ("who do n't", None, None, None, 0), ('become immune by way of their own system ,', None, None, None, 0), ('then the virus will become resistant to the vaccinations', None, None, None, 0), ('and it will be a never ending up and down cycle', None, None, None, 0), ('that we see all the time .', None, None, None, 1), ("I simply just ca n't let something like this ,", None, None, None, 0), ('despite the risk ,', None, None, None, 0), ('affect my feelings and emotions .', None, None, None, 1)]

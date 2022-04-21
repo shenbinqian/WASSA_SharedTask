@@ -1,0 +1,35 @@
+=====================> [[('This type of thing is always largely ignored', None, None, None, 0), ('as it goes on ,', None, None, None, 0), ('when people could have known about it', None, None, None, 0), ('but chose not to . Then many years later the truth comes out', None, None, None, 0), ('and some people address it with discomfort ,', None, None, None, 0), ('and others still continue to ignore it .', None, None, None, 1), ('The way for real change to come is with accountability . Any crimes', None, None, None, 0), ("that are n't protected by a statue of limitations", None, None, None, 0), ('need to be addressed through prosecution ,', None, None, None, 0), ('and they need to look for ways', None, None, None, 0), ('to prosecute instead of looking for ways not to .', None, None, None, 1), ('They should also encourage civil suits ,', None, None, None, 0), ('but those are always against the departments and not the individuals .', None, None, None, 1), ('There needs to be reform so that the officers are the ones', None, None, None, 0), ('that are held accountable instead of the taxpayers', None, None, None, 0), ('continually having to make payouts', None, None, None, 0), ('because the police broke the law .', None, None, None, 1)]]
+Leaf:  N Background This type of thing is always largely ignored
+Leaf:  S span as it goes on ,
+Inner:  N Background None Background NS
+Leaf:  N Contrast when people could have known about it
+Leaf:  S span but chose not to . Then many years later the truth comes out
+Inner:  N Joint None Contrast NS
+Leaf:  N Joint and some people address it with discomfort ,
+Leaf:  N Joint and others still continue to ignore it .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Background NS
+Leaf:  N Elaborate The way for real change to come is with accountability . Any crimes
+Leaf:  S span that are n't protected by a statue of limitations
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit need to be addressed through prosecution ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and they need to look for ways
+Leaf:  S span to prosecute instead of looking for ways not to .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Contrast They should also encourage civil suits ,
+Leaf:  S span but those are always against the departments and not the individuals .
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Elaborate There needs to be reform so that the officers are the ones
+Leaf:  N Elaborate that are held accountable instead of the taxpayers
+Leaf:  N Cause continually having to make payouts
+Leaf:  S span because the police broke the law .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  Root None None Topic-Comment NN
+[('This type of thing is always largely ignored', None, None, None, 0), ('as it goes on ,', None, None, None, 0), ('when people could have known about it', None, None, None, 0), ('but chose not to . Then many years later the truth comes out', None, None, None, 0), ('and some people address it with discomfort ,', None, None, None, 0), ('and others still continue to ignore it .', None, None, None, 1), ('The way for real change to come is with accountability . Any crimes', None, None, None, 0), ("that are n't protected by a statue of limitations", None, None, None, 0), ('need to be addressed through prosecution ,', None, None, None, 0), ('and they need to look for ways', None, None, None, 0), ('to prosecute instead of looking for ways not to .', None, None, None, 1), ('They should also encourage civil suits ,', None, None, None, 0), ('but those are always against the departments and not the individuals .', None, None, None, 1), ('There needs to be reform so that the officers are the ones', None, None, None, 0), ('that are held accountable instead of the taxpayers', None, None, None, 0), ('continually having to make payouts', None, None, None, 0), ('because the police broke the law .', None, None, None, 1)]

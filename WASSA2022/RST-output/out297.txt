@@ -1,0 +1,17 @@
+=====================> [[("It 's fascinating to think that these celebrities were fooled so easily by a regular guy .", None, None, None, 1), ("Of course the man 's actions are reprehensible ,", None, None, None, 0), ('and his jail sentence seems reasonable ,', None, None, None, 0), ("but you 'd think", None, None, None, 0), ('that celebrities would be more conscious of phishing attacks .', None, None, None, 1), ('Especially since these people gave over their passwords willingly ,', None, None, None, 0), ("it 's hard to understand the legal precedent", None, None, None, 0), ('for sending someone to jail over this .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's fascinating to think that these celebrities were fooled so easily by a regular guy .
+Leaf:  N Joint Of course the man 's actions are reprehensible ,
+Leaf:  N Joint and his jail sentence seems reasonable ,
+Inner:  S span None Joint NN
+Leaf:  S span but you 'd think
+Leaf:  N Attribution that celebrities would be more conscious of phishing attacks .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Especially since these people gave over their passwords willingly ,
+Leaf:  N Elaborate it 's hard to understand the legal precedent
+Leaf:  S span for sending someone to jail over this .
+Inner:  N Explanation None Elaborate NS
+Inner:  S span None Explanation SN
+Inner:  Root None None Elaborate NS
+[("It 's fascinating to think that these celebrities were fooled so easily by a regular guy .", None, None, None, 1), ("Of course the man 's actions are reprehensible ,", None, None, None, 0), ('and his jail sentence seems reasonable ,', None, None, None, 0), ("but you 'd think", None, None, None, 0), ('that celebrities would be more conscious of phishing attacks .', None, None, None, 1), ('Especially since these people gave over their passwords willingly ,', None, None, None, 0), ("it 's hard to understand the legal precedent", None, None, None, 0), ('for sending someone to jail over this .', None, None, None, 1)]

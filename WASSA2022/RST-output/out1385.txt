@@ -1,0 +1,19 @@
+=====================> [[('What are we going to do , start collecting cow farts ?', None, None, None, 1), ('That sounds like a good job to me .', None, None, None, 1), ('I bet the benefits are good .', None, None, None, 1), ('I guess', None, None, None, 0), ('the liberals will try to blame meat eaters for this some how .', None, None, None, 1), ('I mean , maybe we can develop some kind of methane collection system', None, None, None, 0), ('and then use the cow farts', None, None, None, 0), ('to power the world .', None, None, None, 1), ('Talk about renewable energy !', None, None, None, 1)]]
+Leaf:  N Evaluation What are we going to do , start collecting cow farts ?
+Leaf:  N Joint That sounds like a good job to me .
+Leaf:  N Joint I bet the benefits are good .
+Inner:  N Contrast None Joint NN
+Leaf:  S span I guess
+Leaf:  N Attribution the liberals will try to blame meat eaters for this some how .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal I mean , maybe we can develop some kind of methane collection system
+Leaf:  N Enablement and then use the cow farts
+Leaf:  S span to power the world .
+Inner:  N Temporal None Enablement NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span Talk about renewable energy !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('What are we going to do , start collecting cow farts ?', None, None, None, 1), ('That sounds like a good job to me .', None, None, None, 1), ('I bet the benefits are good .', None, None, None, 1), ('I guess', None, None, None, 0), ('the liberals will try to blame meat eaters for this some how .', None, None, None, 1), ('I mean , maybe we can develop some kind of methane collection system', None, None, None, 0), ('and then use the cow farts', None, None, None, 0), ('to power the world .', None, None, None, 1), ('Talk about renewable energy !', None, None, None, 1)]

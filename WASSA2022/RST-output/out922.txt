@@ -1,0 +1,35 @@
+=====================> [[('Wow !', None, None, None, 1), ('I can not believe', None, None, None, 0), ('I forgot about the Zika virus !', None, None, None, 1), ('How can we advance as a society', None, None, None, 0), ('to try to grasp a better understanding of this deadly virus ?', None, None, None, 1), ('You would think', None, None, None, 0), ('as advanced as human civilization is we would understand more .', None, None, None, 1), ('Pregnant women', None, None, None, 0), ('who get Zika', None, None, None, 0), ('seem to be in the most danger .', None, None, None, 1), ('The effects', None, None, None, 0), ('it can have on the fetus', None, None, None, 0), ('is horrible !', None, None, None, 1), ('It is very scary to know', None, None, None, 0), ('that it can be passed along sexually', None, None, None, 0), ('even if a person was not feeling the symptoms.Africa and Asia seems to really need help fro the rest of the world', None, None, None, 0), ('in fighting this problem !', None, None, None, 1)]]
+Leaf:  N Elaborate Wow !
+Leaf:  S span I can not believe
+Leaf:  N Attribution I forgot about the Zika virus !
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement How can we advance as a society
+Leaf:  S span to try to grasp a better understanding of this deadly virus ?
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span You would think
+Leaf:  N Attribution as advanced as human civilization is we would understand more .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Pregnant women
+Leaf:  S span who get Zika
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit seem to be in the most danger .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The effects
+Leaf:  S span it can have on the fetus
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is horrible !
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span It is very scary to know
+Leaf:  N Contrast that it can be passed along sexually
+Leaf:  N Background even if a person was not feeling the symptoms.Africa and Asia seems to really need help fro the rest of the world
+Leaf:  S span in fighting this problem !
+Inner:  S span None Background NS
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Wow !', None, None, None, 1), ('I can not believe', None, None, None, 0), ('I forgot about the Zika virus !', None, None, None, 1), ('How can we advance as a society', None, None, None, 0), ('to try to grasp a better understanding of this deadly virus ?', None, None, None, 1), ('You would think', None, None, None, 0), ('as advanced as human civilization is we would understand more .', None, None, None, 1), ('Pregnant women', None, None, None, 0), ('who get Zika', None, None, None, 0), ('seem to be in the most danger .', None, None, None, 1), ('The effects', None, None, None, 0), ('it can have on the fetus', None, None, None, 0), ('is horrible !', None, None, None, 1), ('It is very scary to know', None, None, None, 0), ('that it can be passed along sexually', None, None, None, 0), ('even if a person was not feeling the symptoms.Africa and Asia seems to really need help fro the rest of the world', None, None, None, 0), ('in fighting this problem !', None, None, None, 1)]

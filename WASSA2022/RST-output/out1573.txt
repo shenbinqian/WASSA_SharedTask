@@ -1,0 +1,23 @@
+=====================> [[('Jose Fernandez was a pitcher for the Miami Marlins', None, None, None, 0), ('and unfortunately died in a major boating accident', None, None, None, 0), ('where they rammed a rock .', None, None, None, 1), ('I got to read more into his life and upbringing', None, None, None, 0), ("and it 's truly sad to see such a good man fall in such a preventable way .", None, None, None, 1), ('I truly feel for all those', None, None, None, 0), ('who suffered his loss .', None, None, None, 1), ("It 's such a sad event", None, None, None, 0), ("and it 's stuff like this", None, None, None, 0), ('that makes you be more appreciative of the time', None, None, None, 0), ('you have .', None, None, None, 1)]]
+Leaf:  N Temporal Jose Fernandez was a pitcher for the Miami Marlins
+Leaf:  N Elaborate and unfortunately died in a major boating accident
+Leaf:  S span where they rammed a rock .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Evaluation I got to read more into his life and upbringing
+Leaf:  S span and it 's truly sad to see such a good man fall in such a preventable way .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I truly feel for all those
+Leaf:  S span who suffered his loss .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's such a sad event
+Leaf:  N Elaborate and it 's stuff like this
+Leaf:  N Elaborate that makes you be more appreciative of the time
+Leaf:  S span you have .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Jose Fernandez was a pitcher for the Miami Marlins', None, None, None, 0), ('and unfortunately died in a major boating accident', None, None, None, 0), ('where they rammed a rock .', None, None, None, 1), ('I got to read more into his life and upbringing', None, None, None, 0), ("and it 's truly sad to see such a good man fall in such a preventable way .", None, None, None, 1), ('I truly feel for all those', None, None, None, 0), ('who suffered his loss .', None, None, None, 1), ("It 's such a sad event", None, None, None, 0), ("and it 's stuff like this", None, None, None, 0), ('that makes you be more appreciative of the time', None, None, None, 0), ('you have .', None, None, None, 1)]

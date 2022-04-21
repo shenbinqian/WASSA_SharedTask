@@ -1,0 +1,19 @@
+=====================> [[('Thinking about water contamination is a scary thought .', None, None, None, 1), ('When that can effect our children', None, None, None, 0), ('it makes things even worse .', None, None, None, 1), ('The crisis in Flint is unacceptable', None, None, None, 0), ('and to hear about the drinking fountain in Chicago makes things even worse .', None, None, None, 1), ('It makes you think', None, None, None, 0), ('that major improvements need to made across the US .', None, None, None, 1), ('New laws need to be put in place', None, None, None, 0), ('to ensure everyone is getting healthy water .', None, None, None, 1)]]
+Leaf:  N Explanation Thinking about water contamination is a scary thought .
+Leaf:  S span When that can effect our children
+Leaf:  N Cause it makes things even worse .
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint The crisis in Flint is unacceptable
+Leaf:  N Joint and to hear about the drinking fountain in Chicago makes things even worse .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It makes you think
+Leaf:  N Attribution that major improvements need to made across the US .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement New laws need to be put in place
+Leaf:  S span to ensure everyone is getting healthy water .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Thinking about water contamination is a scary thought .', None, None, None, 1), ('When that can effect our children', None, None, None, 0), ('it makes things even worse .', None, None, None, 1), ('The crisis in Flint is unacceptable', None, None, None, 0), ('and to hear about the drinking fountain in Chicago makes things even worse .', None, None, None, 1), ('It makes you think', None, None, None, 0), ('that major improvements need to made across the US .', None, None, None, 1), ('New laws need to be put in place', None, None, None, 0), ('to ensure everyone is getting healthy water .', None, None, None, 1)]

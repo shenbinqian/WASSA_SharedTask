@@ -1,0 +1,23 @@
+=====================> [[('Hi there .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('and I feel', None, None, None, 0), ('like I need to share my thoughts on it .', None, None, None, 1), ('It was about an oil spill !! Oil spills are so upsetting .', None, None, None, 1), ('I feel so sorry for all the ocean life and animals', None, None, None, 0), ('that are affected', None, None, None, 0), ('and WILL be affected !', None, None, None, 1), ("It 's so tragic .", None, None, None, 1), ('I wish', None, None, None, 0), ('we could prevent these from ever happening again .', None, None, None, 1)]]
+Leaf:  N Summary Hi there .
+Leaf:  N Temporal I just read an article
+Leaf:  S span and I feel
+Leaf:  N Attribution like I need to share my thoughts on it .
+Inner:  N Temporal None Attribution SN
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Evaluation It was about an oil spill !! Oil spills are so upsetting .
+Leaf:  N Elaborate I feel so sorry for all the ocean life and animals
+Leaf:  N Temporal that are affected
+Leaf:  N Temporal and WILL be affected !
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It 's so tragic .
+Leaf:  S span I wish
+Leaf:  N Attribution we could prevent these from ever happening again .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Hi there .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('and I feel', None, None, None, 0), ('like I need to share my thoughts on it .', None, None, None, 1), ('It was about an oil spill !! Oil spills are so upsetting .', None, None, None, 1), ('I feel so sorry for all the ocean life and animals', None, None, None, 0), ('that are affected', None, None, None, 0), ('and WILL be affected !', None, None, None, 1), ("It 's so tragic .", None, None, None, 1), ('I wish', None, None, None, 0), ('we could prevent these from ever happening again .', None, None, None, 1)]

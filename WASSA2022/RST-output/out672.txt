@@ -1,0 +1,17 @@
+=====================> [[('It seems like the air pollution in India is getting worse', None, None, None, 0), ('and this is especially troubling for children', None, None, None, 0), ('who are very susceptible to the open air .', None, None, None, 1), ('This is very alarming', None, None, None, 0), ('as just recently 1,800 school had been close in India', None, None, None, 0), ('because of the poor air quality .', None, None, None, 1), ('It seem that these particle from the smog and fireworks are so tiny', None, None, None, 0), ('that they can make there way in the small pockets of the lungs .', None, None, None, 1)]]
+Leaf:  N Cause It seems like the air pollution in India is getting worse
+Leaf:  N Elaborate and this is especially troubling for children
+Leaf:  S span who are very susceptible to the open air .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Explanation This is very alarming
+Leaf:  N Cause as just recently 1,800 school had been close in India
+Leaf:  S span because of the poor air quality .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause It seem that these particle from the smog and fireworks are so tiny
+Leaf:  S span that they can make there way in the small pockets of the lungs .
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('It seems like the air pollution in India is getting worse', None, None, None, 0), ('and this is especially troubling for children', None, None, None, 0), ('who are very susceptible to the open air .', None, None, None, 1), ('This is very alarming', None, None, None, 0), ('as just recently 1,800 school had been close in India', None, None, None, 0), ('because of the poor air quality .', None, None, None, 1), ('It seem that these particle from the smog and fireworks are so tiny', None, None, None, 0), ('that they can make there way in the small pockets of the lungs .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('This story upsets me .', None, None, None, 1), ("I ca n't seem to get it out of my head", None, None, None, 0), ('that the victim was a child', None, None, None, 0), ("even though there 's conflicting comments .", None, None, None, 1), ('But', None, None, None, 0), ('to die', None, None, None, 0), ('because you stole porridge', None, None, None, 0), ('seems insane .', None, None, None, 1), ("I guess I ca n't put myself in that situation", None, None, None, 0), ('where maybe porridge is hard to come by', None, None, None, 0), ('but just knowing', None, None, None, 0), ('that someone died', None, None, None, 0), ('for that seems petty to me .', None, None, None, 1)]]
+Leaf:  N Explanation This story upsets me .
+Leaf:  N Elaborate I ca n't seem to get it out of my head
+Leaf:  S span that the victim was a child
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span even though there 's conflicting comments .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate But
+Leaf:  N Cause to die
+Leaf:  S span because you stole porridge
+Inner:  N Same-Unit None Cause NS
+Leaf:  N Same-Unit seems insane .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I guess I ca n't put myself in that situation
+Leaf:  S span where maybe porridge is hard to come by
+Inner:  S span None Elaborate NS
+Leaf:  S span but just knowing
+Leaf:  N Attribution that someone died
+Inner:  N Explanation None Attribution SN
+Leaf:  S span for that seems petty to me .
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This story upsets me .', None, None, None, 1), ("I ca n't seem to get it out of my head", None, None, None, 0), ('that the victim was a child', None, None, None, 0), ("even though there 's conflicting comments .", None, None, None, 1), ('But', None, None, None, 0), ('to die', None, None, None, 0), ('because you stole porridge', None, None, None, 0), ('seems insane .', None, None, None, 1), ("I guess I ca n't put myself in that situation", None, None, None, 0), ('where maybe porridge is hard to come by', None, None, None, 0), ('but just knowing', None, None, None, 0), ('that someone died', None, None, None, 0), ('for that seems petty to me .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('I have pretty strong thoughts and feelings about this .', None, None, None, 1), ('From what I read ,', None, None, None, 0), ('I feel like that is a very tragic situation . Us as a society , we are taking advantage of the trees', None, None, None, 0), ('we have here .', None, None, None, 1), ('In order to protect the environment', None, None, None, 0), ('and make the environment better again ,', None, None, None, 0), ('we need to take care of it .', None, None, None, 1), ('What we are doing , in my opinion , is morally and ethnically wrong', None, None, None, 0), ('and we need to do a better job', None, None, None, 0), ('of taking care of nature .', None, None, None, 1), ('I understand', None, None, None, 0), ('that some blame is from the volcanoes of hawaii ,', None, None, None, 0), ('but feel like us humans do way more damage', None, None, None, 0), ('than what mother nature brings .', None, None, None, 1)]]
+Leaf:  N Elaborate I have pretty strong thoughts and feelings about this .
+Leaf:  N Same-Unit From what I read ,
+Leaf:  N Elaborate I feel like that is a very tragic situation . Us as a society , we are taking advantage of the trees
+Leaf:  S span we have here .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Topic-Comment None Same-Unit NN
+Leaf:  N Joint In order to protect the environment
+Leaf:  N Joint and make the environment better again ,
+Inner:  S span None Joint NN
+Leaf:  N Enablement we need to take care of it .
+Inner:  N Evaluation None Enablement SN
+Leaf:  S span What we are doing , in my opinion , is morally and ethnically wrong
+Leaf:  N Elaborate and we need to do a better job
+Leaf:  S span of taking care of nature .
+Inner:  N Comparison None Elaborate NS
+Inner:  S span None Comparison SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I understand
+Leaf:  N Attribution that some blame is from the volcanoes of hawaii ,
+Inner:  S span None Attribution SN
+Leaf:  N Comparison but feel like us humans do way more damage
+Leaf:  S span than what mother nature brings .
+Inner:  N Contrast None Comparison NS
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('I have pretty strong thoughts and feelings about this .', None, None, None, 1), ('From what I read ,', None, None, None, 0), ('I feel like that is a very tragic situation . Us as a society , we are taking advantage of the trees', None, None, None, 0), ('we have here .', None, None, None, 1), ('In order to protect the environment', None, None, None, 0), ('and make the environment better again ,', None, None, None, 0), ('we need to take care of it .', None, None, None, 1), ('What we are doing , in my opinion , is morally and ethnically wrong', None, None, None, 0), ('and we need to do a better job', None, None, None, 0), ('of taking care of nature .', None, None, None, 1), ('I understand', None, None, None, 0), ('that some blame is from the volcanoes of hawaii ,', None, None, None, 0), ('but feel like us humans do way more damage', None, None, None, 0), ('than what mother nature brings .', None, None, None, 1)]

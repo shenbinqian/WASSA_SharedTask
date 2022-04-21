@@ -1,0 +1,47 @@
+=====================> [[('This was terrible !', None, None, None, 1), ("I 'm so glad", None, None, None, 0), ('that those guys got arrested .', None, None, None, 1), ("It 's never okay to throw bottles at people ,", None, None, None, 0), ("I do n't care", None, None, None, 0), ('who you are', None, None, None, 0), ('or what the circumstances are .', None, None, None, 1), ('That poor kid almost died . I mean why ? For nothing . Because of a stupid fan rivalry ?', None, None, None, 1), ('What do you guys think ? Agree or disagree ?', None, None, None, 1), ("I ca n't see how you could take a different stance on it , but just for kicks and giggles .", None, None, None, 1), ("I mean I 'm all for sports and stuff", None, None, None, 0), ('but if you get out of control', None, None, None, 0), ('and you hurt someone ,', None, None, None, 0), ("that 's on you .", None, None, None, 1), ('This is supposed to be fun .', None, None, None, 1), ("These games are n't supposed to be violent ,", None, None, None, 0), ('and continued behavior along these lines could damage the reputation of the game , the fans , and the organization .', None, None, None, 1), ("I do n't condone it at all", None, None, None, 0), ("and I do n't think", None, None, None, 0), ('that you should either .', None, None, None, 1), ("So there you go , that 's that .", None, None, None, 1), ('There you go .', None, None, None, 1), ("That 's that . There .", None, None, None, 1)]]
+Leaf:  N Cause This was terrible !
+Leaf:  S span I 'm so glad
+Leaf:  N Attribution that those guys got arrested .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint It 's never okay to throw bottles at people ,
+Leaf:  S span I do n't care
+Leaf:  N Joint who you are
+Leaf:  N Joint or what the circumstances are .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span That poor kid almost died . I mean why ? For nothing . Because of a stupid fan rivalry ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation What do you guys think ? Agree or disagree ?
+Leaf:  N Evaluation I ca n't see how you could take a different stance on it , but just for kicks and giggles .
+Leaf:  S span I mean I 'm all for sports and stuff
+Leaf:  N Joint but if you get out of control
+Leaf:  N Joint and you hurt someone ,
+Inner:  S span None Joint NN
+Leaf:  N Condition that 's on you .
+Inner:  N Contrast None Condition SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint This is supposed to be fun .
+Leaf:  N Joint These games are n't supposed to be violent ,
+Leaf:  N Joint and continued behavior along these lines could damage the reputation of the game , the fans , and the organization .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint I do n't condone it at all
+Leaf:  S span and I do n't think
+Leaf:  N Attribution that you should either .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Joint So there you go , that 's that .
+Leaf:  N Elaborate There you go .
+Leaf:  S span That 's that . There .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This was terrible !', None, None, None, 1), ("I 'm so glad", None, None, None, 0), ('that those guys got arrested .', None, None, None, 1), ("It 's never okay to throw bottles at people ,", None, None, None, 0), ("I do n't care", None, None, None, 0), ('who you are', None, None, None, 0), ('or what the circumstances are .', None, None, None, 1), ('That poor kid almost died . I mean why ? For nothing . Because of a stupid fan rivalry ?', None, None, None, 1), ('What do you guys think ? Agree or disagree ?', None, None, None, 1), ("I ca n't see how you could take a different stance on it , but just for kicks and giggles .", None, None, None, 1), ("I mean I 'm all for sports and stuff", None, None, None, 0), ('but if you get out of control', None, None, None, 0), ('and you hurt someone ,', None, None, None, 0), ("that 's on you .", None, None, None, 1), ('This is supposed to be fun .', None, None, None, 1), ("These games are n't supposed to be violent ,", None, None, None, 0), ('and continued behavior along these lines could damage the reputation of the game , the fans , and the organization .', None, None, None, 1), ("I do n't condone it at all", None, None, None, 0), ("and I do n't think", None, None, None, 0), ('that you should either .', None, None, None, 1), ("So there you go , that 's that .", None, None, None, 1), ('There you go .', None, None, None, 1), ("That 's that . There .", None, None, None, 1)]

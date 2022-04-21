@@ -1,0 +1,19 @@
+=====================> [[('I see this as sad tragedy .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what would have happened', None, None, None, 0), ('if they had called the authorities earlier .', None, None, None, 1), ('I can not imagine the feeling', None, None, None, 0), ('of taking a trip for fun', None, None, None, 0), ('and having it end in a tragedy such is that .', None, None, None, 1), ('It is smart to be careful when in the wilderness ,', None, None, None, 0), ('but I feel bad for the victim and their families in this scenario .', None, None, None, 1)]]
+Leaf:  N Evaluation I see this as sad tragedy .
+Leaf:  S span I wonder
+Leaf:  N Condition what would have happened
+Leaf:  S span if they had called the authorities earlier .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I can not imagine the feeling
+Leaf:  N Temporal of taking a trip for fun
+Leaf:  N Temporal and having it end in a tragedy such is that .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Contrast It is smart to be careful when in the wilderness ,
+Leaf:  S span but I feel bad for the victim and their families in this scenario .
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('I see this as sad tragedy .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what would have happened', None, None, None, 0), ('if they had called the authorities earlier .', None, None, None, 1), ('I can not imagine the feeling', None, None, None, 0), ('of taking a trip for fun', None, None, None, 0), ('and having it end in a tragedy such is that .', None, None, None, 1), ('It is smart to be careful when in the wilderness ,', None, None, None, 0), ('but I feel bad for the victim and their families in this scenario .', None, None, None, 1)]

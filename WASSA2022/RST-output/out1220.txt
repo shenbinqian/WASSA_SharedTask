@@ -1,0 +1,29 @@
+=====================> [[('Can you believe', None, None, None, 0), ("they 're doing this ?", None, None, None, 1), ('Kicking people out of their homes', None, None, None, 0), ('to expand a stupid airport ?', None, None, None, 1), ('Screw these guys .', None, None, None, 1), ('what do you think ?', None, None, None, 1), ("Personally , I 'm upset", None, None, None, 0), ("and I 'm starting a petition .", None, None, None, 1), ('Please sign it', None, None, None, 0), ("if you 're against this issue", None, None, None, 0), ('like I am .', None, None, None, 1), ("It 's absolutely ridiculous", None, None, None, 0), ('and should never happen ,', None, None, None, 0), ('so there you go', None, None, None, 0)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution they 're doing this ?
+Inner:  N Summary None Attribution SN
+Leaf:  N Enablement Kicking people out of their homes
+Leaf:  S span to expand a stupid airport ?
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation Screw these guys .
+Leaf:  S span what do you think ?
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  S span Personally , I 'm upset
+Leaf:  N Cause and I 'm starting a petition .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Condition Please sign it
+Leaf:  N Comparison if you 're against this issue
+Leaf:  S span like I am .
+Inner:  S span None Comparison NS
+Inner:  N Evaluation None Condition NS
+Leaf:  N Joint It 's absolutely ridiculous
+Leaf:  N Joint and should never happen ,
+Inner:  N Cause None Joint NN
+Leaf:  S span so there you go
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('Can you believe', None, None, None, 0), ("they 're doing this ?", None, None, None, 1), ('Kicking people out of their homes', None, None, None, 0), ('to expand a stupid airport ?', None, None, None, 1), ('Screw these guys .', None, None, None, 1), ('what do you think ?', None, None, None, 1), ("Personally , I 'm upset", None, None, None, 0), ("and I 'm starting a petition .", None, None, None, 1), ('Please sign it', None, None, None, 0), ("if you 're against this issue", None, None, None, 0), ('like I am .', None, None, None, 1), ("It 's absolutely ridiculous", None, None, None, 0), ('and should never happen ,', None, None, None, 0), ('so there you go', None, None, None, 0)]

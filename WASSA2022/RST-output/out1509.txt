@@ -1,0 +1,25 @@
+=====================> [[('Hey buddy .', None, None, None, 1), ('I think', None, None, None, 0), ('this article made me worried about this Zika situation .', None, None, None, 1), ('It is spreading with such vigor', None, None, None, 0), ('like never before', None, None, None, 0), ('and it kills very fast .', None, None, None, 1), ('I think', None, None, None, 0), ('the whole world needs to be on alert', None, None, None, 0), ('and health scientists need to be working hard', None, None, None, 0), ('to try and eradicate this disease .', None, None, None, 1), ("It 's gon na take some time", None, None, None, 0), ('but something needs to be done', None, None, None, 0)]]
+Leaf:  N Elaborate Hey buddy .
+Leaf:  S span I think
+Leaf:  N Attribution this article made me worried about this Zika situation .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement It is spreading with such vigor
+Leaf:  S span like never before
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint and it kills very fast .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Joint the whole world needs to be on alert
+Leaf:  N Enablement and health scientists need to be working hard
+Leaf:  S span to try and eradicate this disease .
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast It 's gon na take some time
+Leaf:  S span but something needs to be done
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey buddy .', None, None, None, 1), ('I think', None, None, None, 0), ('this article made me worried about this Zika situation .', None, None, None, 1), ('It is spreading with such vigor', None, None, None, 0), ('like never before', None, None, None, 0), ('and it kills very fast .', None, None, None, 1), ('I think', None, None, None, 0), ('the whole world needs to be on alert', None, None, None, 0), ('and health scientists need to be working hard', None, None, None, 0), ('to try and eradicate this disease .', None, None, None, 1), ("It 's gon na take some time", None, None, None, 0), ('but something needs to be done', None, None, None, 0)]

@@ -1,0 +1,23 @@
+=====================> [[('Male models are paid a lot less than female models ,', None, None, None, 0), ('which is interesting', None, None, None, 0), ('considering all of the news lately about a " wage gap "', None, None, None, 0), ('that some people believe exists .', None, None, None, 1), ('Each industry has a different set of pay and things', None, None, None, 0), ("and that 's fine ,", None, None, None, 0), ('you have to look at the individual characteristics', None, None, None, 0), ('when judging', None, None, None, 0), ('whether something is wrong .', None, None, None, 1), ("It 's very interesting that this is starting to change though ,", None, None, None, 0), ('as male products become a bigger market for companies .', None, None, None, 1)]]
+Leaf:  N Evaluation Male models are paid a lot less than female models ,
+Leaf:  N Background which is interesting
+Leaf:  N Elaborate considering all of the news lately about a " wage gap "
+Leaf:  S span that some people believe exists .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation Each industry has a different set of pay and things
+Leaf:  S span and that 's fine ,
+Inner:  S span None Evaluation NS
+Leaf:  N Condition you have to look at the individual characteristics
+Leaf:  S span when judging
+Leaf:  N Attribution whether something is wrong .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Condition NS
+Inner:  S span None Evaluation SN
+Leaf:  N Background It 's very interesting that this is starting to change though ,
+Leaf:  S span as male products become a bigger market for companies .
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Male models are paid a lot less than female models ,', None, None, None, 0), ('which is interesting', None, None, None, 0), ('considering all of the news lately about a " wage gap "', None, None, None, 0), ('that some people believe exists .', None, None, None, 1), ('Each industry has a different set of pay and things', None, None, None, 0), ("and that 's fine ,", None, None, None, 0), ('you have to look at the individual characteristics', None, None, None, 0), ('when judging', None, None, None, 0), ('whether something is wrong .', None, None, None, 1), ("It 's very interesting that this is starting to change though ,", None, None, None, 0), ('as male products become a bigger market for companies .', None, None, None, 1)]

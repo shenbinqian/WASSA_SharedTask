@@ -1,0 +1,17 @@
+=====================> [[('Man its really upset', None, None, None, 0), ('that we cant have a peaceful protest .', None, None, None, 1), ('Why cant we just voice our opinion in a peaceful way .', None, None, None, 1), ('Why does it always have to start and end with violence .', None, None, None, 1), ('Why do that have to destroy businesses', None, None, None, 0), ('that had nothing to do with the protest .', None, None, None, 1), ('Totally sucks for people', None, None, None, 0), ('who are just trying to live their lives peacefully .', None, None, None, 1)]]
+Leaf:  S span Man its really upset
+Leaf:  N Attribution that we cant have a peaceful protest .
+Inner:  N Summary None Attribution SN
+Leaf:  N Joint Why cant we just voice our opinion in a peaceful way .
+Leaf:  N Joint Why does it always have to start and end with violence .
+Leaf:  N Elaborate Why do that have to destroy businesses
+Leaf:  S span that had nothing to do with the protest .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate Totally sucks for people
+Leaf:  S span who are just trying to live their lives peacefully .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Man its really upset', None, None, None, 0), ('that we cant have a peaceful protest .', None, None, None, 1), ('Why cant we just voice our opinion in a peaceful way .', None, None, None, 1), ('Why does it always have to start and end with violence .', None, None, None, 1), ('Why do that have to destroy businesses', None, None, None, 0), ('that had nothing to do with the protest .', None, None, None, 1), ('Totally sucks for people', None, None, None, 0), ('who are just trying to live their lives peacefully .', None, None, None, 1)]

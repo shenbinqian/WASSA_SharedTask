@@ -1,0 +1,25 @@
+=====================> [[('The whole situation with Iraq and the uprising of ISIS can be attributed to the U.S. War on Terror and failed attempts at establishing democracy in the Middle East .', None, None, None, 1), ('The truth of the matter is , the G.W. Bush administration had no idea', None, None, None, 0), ('what they were doing', None, None, None, 0), ('when they decided to invade Iraq under the pretense', None, None, None, 0), ('of ridding Saddam Hussein of weapons of mass destruction :', None, None, None, 0), ('Iraq had none ,', None, None, None, 0), ('and we destroyed the Iraqi way of life over this lie .', None, None, None, 1), ('Iraqis may have suffered under Saddam Hussein ,', None, None, None, 0), ('but at the very least , the region was stable', None, None, None, 0), ('and extremists were rare .', None, None, None, 1), ('After the American invasion , civilian deaths likely skyrocketed', None, None, None, 0), ('because law and order were thrown out as well .', None, None, None, 1)]]
+Leaf:  N Evaluation The whole situation with Iraq and the uprising of ISIS can be attributed to the U.S. War on Terror and failed attempts at establishing democracy in the Middle East .
+Leaf:  S span The truth of the matter is , the G.W. Bush administration had no idea
+Leaf:  N Background what they were doing
+Leaf:  N Elaborate when they decided to invade Iraq under the pretense
+Leaf:  S span of ridding Saddam Hussein of weapons of mass destruction :
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Joint Iraq had none ,
+Leaf:  N Joint and we destroyed the Iraqi way of life over this lie .
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Iraqis may have suffered under Saddam Hussein ,
+Leaf:  N Joint but at the very least , the region was stable
+Leaf:  N Joint and extremists were rare .
+Inner:  N Contrast None Joint NN
+Inner:  N Comparison None Contrast SN
+Leaf:  N Cause After the American invasion , civilian deaths likely skyrocketed
+Leaf:  S span because law and order were thrown out as well .
+Inner:  S span None Cause NS
+Inner:  S span None Comparison NS
+Inner:  Root None None Elaborate NS
+[('The whole situation with Iraq and the uprising of ISIS can be attributed to the U.S. War on Terror and failed attempts at establishing democracy in the Middle East .', None, None, None, 1), ('The truth of the matter is , the G.W. Bush administration had no idea', None, None, None, 0), ('what they were doing', None, None, None, 0), ('when they decided to invade Iraq under the pretense', None, None, None, 0), ('of ridding Saddam Hussein of weapons of mass destruction :', None, None, None, 0), ('Iraq had none ,', None, None, None, 0), ('and we destroyed the Iraqi way of life over this lie .', None, None, None, 1), ('Iraqis may have suffered under Saddam Hussein ,', None, None, None, 0), ('but at the very least , the region was stable', None, None, None, 0), ('and extremists were rare .', None, None, None, 1), ('After the American invasion , civilian deaths likely skyrocketed', None, None, None, 0), ('because law and order were thrown out as well .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Did you hear about the Taliban attack on the German consulate in Afghanistan ?', None, None, None, 1), ('If not , they set off a bomb at the gates', None, None, None, 0), ('and then an attack ensued .', None, None, None, 1), ('About 130 people were injured with 6 or so dead .', None, None, None, 1), ('Will that war ever end ? An ancient saying says', None, None, None, 0), ('that " all empires end in that area "', None, None, None, 0), ('going back to Alexander the great .', None, None, None, 1), ('The country has never known peace', None, None, None, 0), ("and it 's not looking any better .", None, None, None, 1), ('I feel sorry for all the injured , especially the children .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('the UN is making things any better either ...', None, None, None, 1)]]
+Leaf:  N Topic-Comment Did you hear about the Taliban attack on the German consulate in Afghanistan ?
+Leaf:  N Temporal If not , they set off a bomb at the gates
+Leaf:  N Temporal and then an attack ensued .
+Inner:  N Cause None Temporal NN
+Leaf:  S span About 130 people were injured with 6 or so dead .
+Inner:  N Topic-Comment None Cause NS
+Inner:  N Summary None Topic-Comment NN
+Leaf:  S span Will that war ever end ? An ancient saying says
+Leaf:  N Attribution that " all empires end in that area "
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span going back to Alexander the great .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint The country has never known peace
+Leaf:  N Joint and it 's not looking any better .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint I feel sorry for all the injured , especially the children .
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution the UN is making things any better either ...
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('Did you hear about the Taliban attack on the German consulate in Afghanistan ?', None, None, None, 1), ('If not , they set off a bomb at the gates', None, None, None, 0), ('and then an attack ensued .', None, None, None, 1), ('About 130 people were injured with 6 or so dead .', None, None, None, 1), ('Will that war ever end ? An ancient saying says', None, None, None, 0), ('that " all empires end in that area "', None, None, None, 0), ('going back to Alexander the great .', None, None, None, 1), ('The country has never known peace', None, None, None, 0), ("and it 's not looking any better .", None, None, None, 1), ('I feel sorry for all the injured , especially the children .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('the UN is making things any better either ...', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('I tend to be very hard-hearted', None, None, None, 0), ('when it comes to issues of immigration .', None, None, None, 1), ('Yet this is a man', None, None, None, 0), ('for who all intents and purposes is an American ,', None, None, None, 0), ('raised here from the age of three', None, None, None, 0), ('and facing deportation for missed paperwork ? This is quite frankly a steaming pile of bullshit . There are those', None, None, None, 0), ('who come here ,', None, None, None, 0), ('infest neighborhoods', None, None, None, 0), ('and take away jobs from hard working Americans', None, None, None, 0), ('and then there are victims of bureaucratic anarcho-tyranny like this .', None, None, None, 1), ('These types of scenarios are unacceptable .', None, None, None, 1), ('I tend to believe', None, None, None, 0), ('that a system', None, None, None, 0), ('that will let the guilty go free', None, None, None, 0), ('is preferable to one', None, None, None, 0), ('that will punish even one innocent man .', None, None, None, 1), ('Men like this deserve to be treated as Americans ,', None, None, None, 0), ('because they are .', None, None, None, 1)]]
+Leaf:  N Background I tend to be very hard-hearted
+Leaf:  S span when it comes to issues of immigration .
+Inner:  S span None Background NS
+Leaf:  N Elaborate Yet this is a man
+Leaf:  S span for who all intents and purposes is an American ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span raised here from the age of three
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and facing deportation for missed paperwork ? This is quite frankly a steaming pile of bullshit . There are those
+Leaf:  S span who come here ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint infest neighborhoods
+Leaf:  N Joint and take away jobs from hard working Americans
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit and then there are victims of bureaucratic anarcho-tyranny like this .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation These types of scenarios are unacceptable .
+Leaf:  S span I tend to believe
+Leaf:  N Elaborate that a system
+Leaf:  S span that will let the guilty go free
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is preferable to one
+Leaf:  S span that will punish even one innocent man .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Explanation Men like this deserve to be treated as Americans ,
+Leaf:  S span because they are .
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I tend to be very hard-hearted', None, None, None, 0), ('when it comes to issues of immigration .', None, None, None, 1), ('Yet this is a man', None, None, None, 0), ('for who all intents and purposes is an American ,', None, None, None, 0), ('raised here from the age of three', None, None, None, 0), ('and facing deportation for missed paperwork ? This is quite frankly a steaming pile of bullshit . There are those', None, None, None, 0), ('who come here ,', None, None, None, 0), ('infest neighborhoods', None, None, None, 0), ('and take away jobs from hard working Americans', None, None, None, 0), ('and then there are victims of bureaucratic anarcho-tyranny like this .', None, None, None, 1), ('These types of scenarios are unacceptable .', None, None, None, 1), ('I tend to believe', None, None, None, 0), ('that a system', None, None, None, 0), ('that will let the guilty go free', None, None, None, 0), ('is preferable to one', None, None, None, 0), ('that will punish even one innocent man .', None, None, None, 1), ('Men like this deserve to be treated as Americans ,', None, None, None, 0), ('because they are .', None, None, None, 1)]

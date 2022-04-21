@@ -1,0 +1,23 @@
+=====================> [[('A little boy had fallen out of window', None, None, None, 0), ('because he was not being watched .', None, None, None, 1), ('It is important that children area always watched because bad things can happen in a split second', None, None, None, 0), ('and its important that the parents always have eyes on their kids', None, None, None, 0), ("because it 's that one second", None, None, None, 0), ('that it takes for the kids to get hurt', None, None, None, 0), ('or worse die', None, None, None, 0), ('I hope', None, None, None, 0), ('these people learned an importat listen', None, None, None, 0), ('and that the child is ok', None, None, None, 0), ('and he can live a long life .', None, None, None, 1)]]
+Leaf:  N Cause A little boy had fallen out of window
+Leaf:  S span because he was not being watched .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Joint It is important that children area always watched because bad things can happen in a split second
+Leaf:  N Explanation and its important that the parents always have eyes on their kids
+Leaf:  N Elaborate because it 's that one second
+Leaf:  N Condition that it takes for the kids to get hurt
+Leaf:  N Condition or worse die
+Inner:  S span None Condition NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I hope
+Leaf:  N Joint these people learned an importat listen
+Leaf:  N Joint and that the child is ok
+Leaf:  N Joint and he can live a long life .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('A little boy had fallen out of window', None, None, None, 0), ('because he was not being watched .', None, None, None, 1), ('It is important that children area always watched because bad things can happen in a split second', None, None, None, 0), ('and its important that the parents always have eyes on their kids', None, None, None, 0), ("because it 's that one second", None, None, None, 0), ('that it takes for the kids to get hurt', None, None, None, 0), ('or worse die', None, None, None, 0), ('I hope', None, None, None, 0), ('these people learned an importat listen', None, None, None, 0), ('and that the child is ok', None, None, None, 0), ('and he can live a long life .', None, None, None, 1)]

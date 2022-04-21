@@ -1,0 +1,21 @@
+=====================> [[('In my opinion , the girl', None, None, None, 0), ('mentioned in the article is just plain stupid .', None, None, None, 1), ("She should n't be taking selfies in the first place", None, None, None, 0), ('while driving ,', None, None, None, 0), ('not only to mention that she was topless', None, None, None, 0), ('just so her boyfriend could get a look at " the goods . "', None, None, None, 0), ("While you 're driving ,", None, None, None, 0), ('you should be paying attention', None, None, None, 0), ('and not playing on your cell phone', None, None, None, 0), ("because you 're putting the lives of others at risk .", None, None, None, 1)]]
+Leaf:  N Elaborate In my opinion , the girl
+Leaf:  S span mentioned in the article is just plain stupid .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal She should n't be taking selfies in the first place
+Leaf:  S span while driving ,
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Enablement not only to mention that she was topless
+Leaf:  S span just so her boyfriend could get a look at " the goods . "
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  S span While you 're driving ,
+Leaf:  N Joint you should be paying attention
+Leaf:  N Joint and not playing on your cell phone
+Inner:  N Explanation None Joint NN
+Leaf:  S span because you 're putting the lives of others at risk .
+Inner:  N Background None Explanation NS
+Inner:  N Joint None Background SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('In my opinion , the girl', None, None, None, 0), ('mentioned in the article is just plain stupid .', None, None, None, 1), ("She should n't be taking selfies in the first place", None, None, None, 0), ('while driving ,', None, None, None, 0), ('not only to mention that she was topless', None, None, None, 0), ('just so her boyfriend could get a look at " the goods . "', None, None, None, 0), ("While you 're driving ,", None, None, None, 0), ('you should be paying attention', None, None, None, 0), ('and not playing on your cell phone', None, None, None, 0), ("because you 're putting the lives of others at risk .", None, None, None, 1)]

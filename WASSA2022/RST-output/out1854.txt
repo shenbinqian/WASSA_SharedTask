@@ -1,0 +1,23 @@
+=====================> [[('The thought of such conditions in the slaughtering of chickens is very disturbing .', None, None, None, 1), ('I am by no means a vegetarian ,', None, None, None, 0), ('and enjoy eating chicken a great deal .', None, None, None, 1), ('However , the thought', None, None, None, 0), ('of torturing a chicken for slaughter', None, None, None, 0), ('turns my stomach .', None, None, None, 1), ('There needs to be an ethical solution to the slaughtering of all animals , not just chicken .', None, None, None, 1), ('And I believe', None, None, None, 0), ('a universal approach', None, None, None, 0), ('that is easily controlled and monitored', None, None, None, 0), ('would be ideal , but most likely not cost efficient .', None, None, None, 1)]]
+Leaf:  N Explanation The thought of such conditions in the slaughtering of chickens is very disturbing .
+Leaf:  N Joint I am by no means a vegetarian ,
+Leaf:  N Joint and enjoy eating chicken a great deal .
+Inner:  S span None Joint NN
+Leaf:  N Elaborate However , the thought
+Leaf:  S span of torturing a chicken for slaughter
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit turns my stomach .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Elaborate There needs to be an ethical solution to the slaughtering of all animals , not just chicken .
+Leaf:  S span And I believe
+Leaf:  N Elaborate a universal approach
+Leaf:  S span that is easily controlled and monitored
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would be ideal , but most likely not cost efficient .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('The thought of such conditions in the slaughtering of chickens is very disturbing .', None, None, None, 1), ('I am by no means a vegetarian ,', None, None, None, 0), ('and enjoy eating chicken a great deal .', None, None, None, 1), ('However , the thought', None, None, None, 0), ('of torturing a chicken for slaughter', None, None, None, 0), ('turns my stomach .', None, None, None, 1), ('There needs to be an ethical solution to the slaughtering of all animals , not just chicken .', None, None, None, 1), ('And I believe', None, None, None, 0), ('a universal approach', None, None, None, 0), ('that is easily controlled and monitored', None, None, None, 0), ('would be ideal , but most likely not cost efficient .', None, None, None, 1)]

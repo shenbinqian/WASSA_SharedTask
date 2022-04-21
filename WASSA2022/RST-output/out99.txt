@@ -1,0 +1,23 @@
+=====================> [[('As a woman myself , I really sympathize with these women .', None, None, None, 1), ('While I find it very difficult to imagine what they go through as a woman ,', None, None, None, 0), ('I can get some vague idea .', None, None, None, 1), ('I would hate to think', None, None, None, 0), ('that I had to have a male escort', None, None, None, 0), ("when I left my home . They are n't treated as equals , and often men do n't even consider them equal as their family pet !", None, None, None, 1), ('&lt; Many of the women can be abused , physically and sexually ,', None, None, None, 0), ('and they are considered to be the problem , not the abuser !', None, None, None, 1), ('I hope', None, None, None, 0), ('they are able to win by the petition ,', None, None, None, 0), ('and will be able to have a bit more freedom !', None, None, None, 1)]]
+Leaf:  N Elaborate As a woman myself , I really sympathize with these women .
+Leaf:  S span While I find it very difficult to imagine what they go through as a woman ,
+Leaf:  N Contrast I can get some vague idea .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I would hate to think
+Leaf:  N Temporal that I had to have a male escort
+Leaf:  S span when I left my home . They are n't treated as equals , and often men do n't even consider them equal as their family pet !
+Inner:  N Attribution None Temporal NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint &lt; Many of the women can be abused , physically and sexually ,
+Leaf:  N Joint and they are considered to be the problem , not the abuser !
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Joint they are able to win by the petition ,
+Leaf:  N Joint and will be able to have a bit more freedom !
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('As a woman myself , I really sympathize with these women .', None, None, None, 1), ('While I find it very difficult to imagine what they go through as a woman ,', None, None, None, 0), ('I can get some vague idea .', None, None, None, 1), ('I would hate to think', None, None, None, 0), ('that I had to have a male escort', None, None, None, 0), ("when I left my home . They are n't treated as equals , and often men do n't even consider them equal as their family pet !", None, None, None, 1), ('&lt; Many of the women can be abused , physically and sexually ,', None, None, None, 0), ('and they are considered to be the problem , not the abuser !', None, None, None, 1), ('I hope', None, None, None, 0), ('they are able to win by the petition ,', None, None, None, 0), ('and will be able to have a bit more freedom !', None, None, None, 1)]

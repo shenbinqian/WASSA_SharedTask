@@ -1,0 +1,21 @@
+=====================> [[("The Year 's Strongest Storm Sweeps by Taiwan —", None, None, None, 0), ('Typhoon Meranti gathered in strength', None, None, None, 0), ('as it swept close to Taiwan on Wednesday ,', None, None, None, 0), ('and with maximum winds of 230 miles per hour it has been called the strongest storm of the year .', None, None, None, 1), ('Meranti was classified as Category 5 , the highest on the scale .', None, None, None, 1), ('The storm has brought not only high winds , but also heavy rain ,', None, None, None, 0), ('and many Taiwanese cities have flooded .', None, None, None, 1), ('Trains and shipping services in some southern cities had stopped ,', None, None, None, 0), ('and most flights were grounded .', None, None, None, 1), ('As of Wednesday , there were only a few injuries .', None, None, None, 1)]]
+Leaf:  N Textual-Organization The Year 's Strongest Storm Sweeps by Taiwan —
+Leaf:  N Temporal Typhoon Meranti gathered in strength
+Leaf:  N Temporal as it swept close to Taiwan on Wednesday ,
+Inner:  N Cause None Temporal NN
+Leaf:  S span and with maximum winds of 230 miles per hour it has been called the strongest storm of the year .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Meranti was classified as Category 5 , the highest on the scale .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause The storm has brought not only high winds , but also heavy rain ,
+Leaf:  N Joint and many Taiwanese cities have flooded .
+Leaf:  N Joint Trains and shipping services in some southern cities had stopped ,
+Leaf:  N Joint and most flights were grounded .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Cause None Cause NS
+Leaf:  S span As of Wednesday , there were only a few injuries .
+Inner:  S span None Cause NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[("The Year 's Strongest Storm Sweeps by Taiwan —", None, None, None, 0), ('Typhoon Meranti gathered in strength', None, None, None, 0), ('as it swept close to Taiwan on Wednesday ,', None, None, None, 0), ('and with maximum winds of 230 miles per hour it has been called the strongest storm of the year .', None, None, None, 1), ('Meranti was classified as Category 5 , the highest on the scale .', None, None, None, 1), ('The storm has brought not only high winds , but also heavy rain ,', None, None, None, 0), ('and many Taiwanese cities have flooded .', None, None, None, 1), ('Trains and shipping services in some southern cities had stopped ,', None, None, None, 0), ('and most flights were grounded .', None, None, None, 1), ('As of Wednesday , there were only a few injuries .', None, None, None, 1)]

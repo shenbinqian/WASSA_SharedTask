@@ -1,0 +1,17 @@
+=====================> [[('Hey just wanted to write you a quick note .', None, None, None, 1), ('I saw on the news today', None, None, None, 0), ('a women pushed another women into the train tracks at the midtown manhattan subway station yesterday .', None, None, None, 1), ('What is going on with people ?', None, None, None, 1), ('The police didnt have a motive yet .', None, None, None, 1), ('The authorties said', None, None, None, 0), ('approx 24 people per year are killed on the tracks', None, None, None, 0), ('but its usually accidental .', None, None, None, 1)]]
+Leaf:  N Summary Hey just wanted to write you a quick note .
+Leaf:  S span I saw on the news today
+Leaf:  N Attribution a women pushed another women into the train tracks at the midtown manhattan subway station yesterday .
+Inner:  N Summary None Attribution SN
+Leaf:  S span What is going on with people ?
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation The police didnt have a motive yet .
+Leaf:  S span The authorties said
+Leaf:  N Contrast approx 24 people per year are killed on the tracks
+Leaf:  S span but its usually accidental .
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Hey just wanted to write you a quick note .', None, None, None, 1), ('I saw on the news today', None, None, None, 0), ('a women pushed another women into the train tracks at the midtown manhattan subway station yesterday .', None, None, None, 1), ('What is going on with people ?', None, None, None, 1), ('The police didnt have a motive yet .', None, None, None, 1), ('The authorties said', None, None, None, 0), ('approx 24 people per year are killed on the tracks', None, None, None, 0), ('but its usually accidental .', None, None, None, 1)]

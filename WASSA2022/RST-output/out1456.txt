@@ -1,0 +1,25 @@
+=====================> [[('While the article seems to be slightly sympathetic to the inmates ,', None, None, None, 0), ('I say no way .', None, None, None, 1), ("I do n't particularly care what happens to most prisoners , let alone the violent ones", None, None, None, 0), ('that attack each other and guards .', None, None, None, 1), ('There is no reason', None, None, None, 0), ("why any guard should ever have to put themselves in danger . These are n't people , these are violent animals ,", None, None, None, 0), ("and the guards should be protected . They are n't the ones", None, None, None, 0), ('being punished', None, None, None, 0), ('for what is likely a severe wrongdoing .', None, None, None, 1), ('Restraints , solitary , whatever', None, None, None, 0), ('it takes ,', None, None, None, 0), ("I do n't feel one tiny twinge of sadness . And lawsuits ? Do n't even get me started on that one !", None, None, None, 1)]]
+Leaf:  S span While the article seems to be slightly sympathetic to the inmates ,
+Leaf:  N Contrast I say no way .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate I do n't particularly care what happens to most prisoners , let alone the violent ones
+Leaf:  S span that attack each other and guards .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There is no reason
+Leaf:  S span why any guard should ever have to put themselves in danger . These are n't people , these are violent animals ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and the guards should be protected . They are n't the ones
+Leaf:  N Background being punished
+Leaf:  S span for what is likely a severe wrongdoing .
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Restraints , solitary , whatever
+Leaf:  S span it takes ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background I do n't feel one tiny twinge of sadness . And lawsuits ? Do n't even get me started on that one !
+Inner:  S span None Background SN
+Inner:  Root None None Evaluation NS
+[('While the article seems to be slightly sympathetic to the inmates ,', None, None, None, 0), ('I say no way .', None, None, None, 1), ("I do n't particularly care what happens to most prisoners , let alone the violent ones", None, None, None, 0), ('that attack each other and guards .', None, None, None, 1), ('There is no reason', None, None, None, 0), ("why any guard should ever have to put themselves in danger . These are n't people , these are violent animals ,", None, None, None, 0), ("and the guards should be protected . They are n't the ones", None, None, None, 0), ('being punished', None, None, None, 0), ('for what is likely a severe wrongdoing .', None, None, None, 1), ('Restraints , solitary , whatever', None, None, None, 0), ('it takes ,', None, None, None, 0), ("I do n't feel one tiny twinge of sadness . And lawsuits ? Do n't even get me started on that one !", None, None, None, 1)]

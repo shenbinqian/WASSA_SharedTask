@@ -1,0 +1,19 @@
+=====================> [[('The pipeline seems to be interfering with native american tribes', None, None, None, 0), ('and is causing lots of enviornmental damage .', None, None, None, 1), ('I do feel for these individuals ,', None, None, None, 0), ("and it 's important they get all the help", None, None, None, 0), ('they deserve .', None, None, None, 1), ('Their anscestors were decimated throughout history', None, None, None, 0), ('and there isnt enough reparations', None, None, None, 0), ('to solve the genocide', None, None, None, 0), ('that was caused .', None, None, None, 1)]]
+Leaf:  N Joint The pipeline seems to be interfering with native american tribes
+Leaf:  N Joint and is causing lots of enviornmental damage .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint I do feel for these individuals ,
+Leaf:  N Elaborate and it 's important they get all the help
+Leaf:  S span they deserve .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span Their anscestors were decimated throughout history
+Leaf:  N Enablement and there isnt enough reparations
+Leaf:  N Elaborate to solve the genocide
+Leaf:  S span that was caused .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Enablement NS
+Inner:  S span None Explanation SN
+Inner:  Root None None Explanation NS
+[('The pipeline seems to be interfering with native american tribes', None, None, None, 0), ('and is causing lots of enviornmental damage .', None, None, None, 1), ('I do feel for these individuals ,', None, None, None, 0), ("and it 's important they get all the help", None, None, None, 0), ('they deserve .', None, None, None, 1), ('Their anscestors were decimated throughout history', None, None, None, 0), ('and there isnt enough reparations', None, None, None, 0), ('to solve the genocide', None, None, None, 0), ('that was caused .', None, None, None, 1)]

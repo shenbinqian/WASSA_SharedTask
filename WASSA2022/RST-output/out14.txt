@@ -1,0 +1,19 @@
+=====================> [[('I think', None, None, None, 0), ('almost everyone has an opinion on Hilary Clinton over Donald Trump .', None, None, None, 1), ("Many did n't expect Donald to win the election", None, None, None, 0), ('but here we are .', None, None, None, 1), ('So many political scandals unfolded', None, None, None, 0), ('and more continuing to unravel .', None, None, None, 1), ("Many did n't agree with Hilary from the Bengazi investigation", None, None, None, 0), ("and many did n't agree with Trump ,", None, None, None, 0), ("but in the end that 's just politics .", None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution almost everyone has an opinion on Hilary Clinton over Donald Trump .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast Many did n't expect Donald to win the election
+Leaf:  N Contrast but here we are .
+Inner:  S span None Contrast NN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Joint So many political scandals unfolded
+Leaf:  N Joint and more continuing to unravel .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint Many did n't agree with Hilary from the Bengazi investigation
+Leaf:  N Joint and many did n't agree with Trump ,
+Inner:  N Contrast None Joint NN
+Leaf:  S span but in the end that 's just politics .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('I think', None, None, None, 0), ('almost everyone has an opinion on Hilary Clinton over Donald Trump .', None, None, None, 1), ("Many did n't expect Donald to win the election", None, None, None, 0), ('but here we are .', None, None, None, 1), ('So many political scandals unfolded', None, None, None, 0), ('and more continuing to unravel .', None, None, None, 1), ("Many did n't agree with Hilary from the Bengazi investigation", None, None, None, 0), ("and many did n't agree with Trump ,", None, None, None, 0), ("but in the end that 's just politics .", None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I read about this asshole Arcan Cetin', None, None, None, 0), ('who shot up a mall in Oak Harbor , Washington .', None, None, None, 1), ('Evidently before he did the shooting', None, None, None, 0), ('he had been placed under a no firearm order', None, None, None, 0), ('because he had been charged with domestic assault .', None, None, None, 1), ('I guess it just goes to show that gun laws are a pointless joke ;', None, None, None, 0), ('if this guy had been a decent law abiding person', None, None, None, 0), ('no gun law would be needed ,', None, None, None, 0), ('but because it was a criminal and a murderer', None, None, None, 0), ("the law did n't do anything", None, None, None, 0), ('to stop him from shooting up a mall .', None, None, None, 1)]]
+Leaf:  N Elaborate I read about this asshole Arcan Cetin
+Leaf:  S span who shot up a mall in Oak Harbor , Washington .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit Evidently before he did the shooting
+Leaf:  N Same-Unit he had been placed under a no firearm order
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span because he had been charged with domestic assault .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I guess it just goes to show that gun laws are a pointless joke ;
+Leaf:  S span if this guy had been a decent law abiding person
+Leaf:  N Condition no gun law would be needed ,
+Inner:  S span None Condition SN
+Leaf:  S span but because it was a criminal and a murderer
+Leaf:  N Enablement the law did n't do anything
+Leaf:  S span to stop him from shooting up a mall .
+Inner:  N Background None Enablement NS
+Inner:  N Contrast None Background SN
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I read about this asshole Arcan Cetin', None, None, None, 0), ('who shot up a mall in Oak Harbor , Washington .', None, None, None, 1), ('Evidently before he did the shooting', None, None, None, 0), ('he had been placed under a no firearm order', None, None, None, 0), ('because he had been charged with domestic assault .', None, None, None, 1), ('I guess it just goes to show that gun laws are a pointless joke ;', None, None, None, 0), ('if this guy had been a decent law abiding person', None, None, None, 0), ('no gun law would be needed ,', None, None, None, 0), ('but because it was a criminal and a murderer', None, None, None, 0), ("the law did n't do anything", None, None, None, 0), ('to stop him from shooting up a mall .', None, None, None, 1)]

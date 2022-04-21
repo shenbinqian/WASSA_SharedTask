@@ -1,0 +1,23 @@
+=====================> [[('The people', None, None, None, 0), ('who will lose homes', None, None, None, 0), ('because of this should be fully compensated', None, None, None, 0), ('and be fully relocated with full government assistance', None, None, None, 0), ('and be transfered to a different location', None, None, None, 0), ('that is still nearby their old homes', None, None, None, 0), ('that will be razed .', None, None, None, 1), ("It 's just not fair if they will be leaving these people homeless", None, None, None, 0), ('and will probably have a hard time', None, None, None, 0), ('coping with the loss of their house', None, None, None, 0), ('if this plan gets approved .', None, None, None, 1)]]
+Leaf:  N Elaborate The people
+Leaf:  N Cause who will lose homes
+Leaf:  S span because of this should be fully compensated
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and be fully relocated with full government assistance
+Leaf:  N Elaborate and be transfered to a different location
+Leaf:  N Elaborate that is still nearby their old homes
+Leaf:  S span that will be razed .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It 's just not fair if they will be leaving these people homeless
+Leaf:  N Manner-Means and will probably have a hard time
+Leaf:  S span coping with the loss of their house
+Inner:  N Joint None Manner-Means NS
+Inner:  N Condition None Joint NN
+Leaf:  S span if this plan gets approved .
+Inner:  S span None Condition NS
+Inner:  Root None None Evaluation NS
+[('The people', None, None, None, 0), ('who will lose homes', None, None, None, 0), ('because of this should be fully compensated', None, None, None, 0), ('and be fully relocated with full government assistance', None, None, None, 0), ('and be transfered to a different location', None, None, None, 0), ('that is still nearby their old homes', None, None, None, 0), ('that will be razed .', None, None, None, 1), ("It 's just not fair if they will be leaving these people homeless", None, None, None, 0), ('and will probably have a hard time', None, None, None, 0), ('coping with the loss of their house', None, None, None, 0), ('if this plan gets approved .', None, None, None, 1)]

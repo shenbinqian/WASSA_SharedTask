@@ -1,0 +1,25 @@
+=====================> [[('This is so sad guys .', None, None, None, 1), (":( I ca n't believe this ,", None, None, None, 0), ('I never knew', None, None, None, 0), ('how far reaching climate change actually was .', None, None, None, 1), ('These poor turtles are dying', None, None, None, 0), ('because of the temperature changes .', None, None, None, 1), ('Please do something ,', None, None, None, 0), ('write your local senator', None, None, None, 0), ('so we can start to reverse this .', None, None, None, 1), ('We need to get back into the climate accords', None, None, None, 0), ('and become a leader in environmental sustainability ,', None, None, None, 0), ('instead of what we have been doing .', None, None, None, 1)]]
+Leaf:  N Summary This is so sad guys .
+Leaf:  N Joint :( I ca n't believe this ,
+Leaf:  S span I never knew
+Leaf:  N Attribution how far reaching climate change actually was .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause These poor turtles are dying
+Leaf:  S span because of the temperature changes .
+Inner:  S span None Cause NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Enablement Please do something ,
+Leaf:  N Enablement write your local senator
+Leaf:  S span so we can start to reverse this .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Joint We need to get back into the climate accords
+Leaf:  N Comparison and become a leader in environmental sustainability ,
+Leaf:  S span instead of what we have been doing .
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('This is so sad guys .', None, None, None, 1), (":( I ca n't believe this ,", None, None, None, 0), ('I never knew', None, None, None, 0), ('how far reaching climate change actually was .', None, None, None, 1), ('These poor turtles are dying', None, None, None, 0), ('because of the temperature changes .', None, None, None, 1), ('Please do something ,', None, None, None, 0), ('write your local senator', None, None, None, 0), ('so we can start to reverse this .', None, None, None, 1), ('We need to get back into the climate accords', None, None, None, 0), ('and become a leader in environmental sustainability ,', None, None, None, 0), ('instead of what we have been doing .', None, None, None, 1)]

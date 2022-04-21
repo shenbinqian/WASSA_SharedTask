@@ -1,0 +1,25 @@
+=====================> [[('What a disaster ...', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('their course of action is to do nothing too .', None, None, None, 1), ("I ca n't even imagine how this is going to affect the local wildlife .", None, None, None, 1), ('They should be funding environmental groups', None, None, None, 0), ('to help the local animals in any way possible .', None, None, None, 1), ('This is going to have far reaching consequences too ,', None, None, None, 0), ('as the poisoned fish and birds will affect other species', None, None, None, 0), ("and they 'll end up effecting us as well .", None, None, None, 1), ('I wish', None, None, None, 0), ('there was some way', None, None, None, 0), ('to avoid these terrible accidents .', None, None, None, 1)]]
+Leaf:  N Summary What a disaster ...
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution their course of action is to do nothing too .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint I ca n't even imagine how this is going to affect the local wildlife .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Enablement They should be funding environmental groups
+Leaf:  S span to help the local animals in any way possible .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation This is going to have far reaching consequences too ,
+Leaf:  N Joint as the poisoned fish and birds will affect other species
+Leaf:  N Joint and they 'll end up effecting us as well .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Leaf:  S span I wish
+Leaf:  N Elaborate there was some way
+Leaf:  S span to avoid these terrible accidents .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  Root None None Summary NS
+[('What a disaster ...', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('their course of action is to do nothing too .', None, None, None, 1), ("I ca n't even imagine how this is going to affect the local wildlife .", None, None, None, 1), ('They should be funding environmental groups', None, None, None, 0), ('to help the local animals in any way possible .', None, None, None, 1), ('This is going to have far reaching consequences too ,', None, None, None, 0), ('as the poisoned fish and birds will affect other species', None, None, None, 0), ("and they 'll end up effecting us as well .", None, None, None, 1), ('I wish', None, None, None, 0), ('there was some way', None, None, None, 0), ('to avoid these terrible accidents .', None, None, None, 1)]

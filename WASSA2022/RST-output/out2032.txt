@@ -1,0 +1,11 @@
+=====================> [[('Dear friend , I have just finished reading a newly published article', None, None, None, 0), ('that suggests', None, None, None, 0), ('that certain previous thoughts about global warming may be deeply flawed and quite inaccurate .', None, None, None, 1), ('It also mentioned some stories of horrible sexual abuse and misconduct by the boatmen', None, None, None, 0), ('working at the Grand Canyon river district .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just finished reading a newly published article
+Leaf:  S span that suggests
+Leaf:  N Attribution that certain previous thoughts about global warming may be deeply flawed and quite inaccurate .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It also mentioned some stories of horrible sexual abuse and misconduct by the boatmen
+Leaf:  S span working at the Grand Canyon river district .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just finished reading a newly published article', None, None, None, 0), ('that suggests', None, None, None, 0), ('that certain previous thoughts about global warming may be deeply flawed and quite inaccurate .', None, None, None, 1), ('It also mentioned some stories of horrible sexual abuse and misconduct by the boatmen', None, None, None, 0), ('working at the Grand Canyon river district .', None, None, None, 1)]

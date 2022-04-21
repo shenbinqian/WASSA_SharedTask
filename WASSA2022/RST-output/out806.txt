@@ -1,0 +1,17 @@
+=====================> [[('After reading an article about the fraud happened years ago ,', None, None, None, 0), ('I am now traumatized with easily trusting people .', None, None, None, 1), ('It is indeed a nightmare for all the victims to be involved in this kind of problem .', None, None, None, 1), ('It is a challenge', None, None, None, 0), ('to trust people again', None, None, None, 0), ('and invest your money on something .', None, None, None, 1), ('It is always good to know your rights', None, None, None, 0), ('before giving away the so called " trust " .', None, None, None, 1)]]
+Leaf:  S span After reading an article about the fraud happened years ago ,
+Leaf:  N Background I am now traumatized with easily trusting people .
+Inner:  N Evaluation None Background SN
+Leaf:  N Elaborate It is indeed a nightmare for all the victims to be involved in this kind of problem .
+Leaf:  N Elaborate It is a challenge
+Leaf:  N Joint to trust people again
+Leaf:  N Joint and invest your money on something .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal It is always good to know your rights
+Leaf:  S span before giving away the so called " trust " .
+Inner:  S span None Temporal NS
+Inner:  Root None None Evaluation NS
+[('After reading an article about the fraud happened years ago ,', None, None, None, 0), ('I am now traumatized with easily trusting people .', None, None, None, 1), ('It is indeed a nightmare for all the victims to be involved in this kind of problem .', None, None, None, 1), ('It is a challenge', None, None, None, 0), ('to trust people again', None, None, None, 0), ('and invest your money on something .', None, None, None, 1), ('It is always good to know your rights', None, None, None, 0), ('before giving away the so called " trust " .', None, None, None, 1)]

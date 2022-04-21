@@ -1,0 +1,21 @@
+=====================> [[('This is absolutely awful .', None, None, None, 1), ("I ca n't even imagine the amount of pain", None, None, None, 0), ('the victim had .', None, None, None, 1), ('The only suspected motive was after Comunale rejected the sexual advances of one of the men inside the apartment', None, None, None, 0), ("? Really ? That 's not a good reason at all to kill someone .", None, None, None, 1), ('How dare he .', None, None, None, 1), ('What a tragic story this is ,', None, None, None, 0), ('and it makes me heart churn', None, None, None, 0), ('just trying to think of the robbed life', None, None, None, 0), ('that was taken .', None, None, None, 1)]]
+Leaf:  N Summary This is absolutely awful .
+Leaf:  N Elaborate I ca n't even imagine the amount of pain
+Leaf:  S span the victim had .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The only suspected motive was after Comunale rejected the sexual advances of one of the men inside the apartment
+Leaf:  S span ? Really ? That 's not a good reason at all to kill someone .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span How dare he .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint What a tragic story this is ,
+Leaf:  N Background and it makes me heart churn
+Leaf:  N Elaborate just trying to think of the robbed life
+Leaf:  S span that was taken .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This is absolutely awful .', None, None, None, 1), ("I ca n't even imagine the amount of pain", None, None, None, 0), ('the victim had .', None, None, None, 1), ('The only suspected motive was after Comunale rejected the sexual advances of one of the men inside the apartment', None, None, None, 0), ("? Really ? That 's not a good reason at all to kill someone .", None, None, None, 1), ('How dare he .', None, None, None, 1), ('What a tragic story this is ,', None, None, None, 0), ('and it makes me heart churn', None, None, None, 0), ('just trying to think of the robbed life', None, None, None, 0), ('that was taken .', None, None, None, 1)]

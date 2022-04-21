@@ -1,0 +1,23 @@
+=====================> [[("I do n't understand", None, None, None, 0), ('what I read here .', None, None, None, 1), ('The students were hijacking buses ?', None, None, None, 1), ('What the hell ? Regardless , the local police should not have turned them over to a drug cartel .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('they are probably dead by now ,', None, None, None, 0), ('but I support the family', None, None, None, 0), ('finding out what happened', None, None, None, 0), ('and get justice .', None, None, None, 1), ('They were kids ,', None, None, None, 0), ("they did n't deserve to be killed for this .", None, None, None, 1)]]
+Leaf:  S span I do n't understand
+Leaf:  N Attribution what I read here .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Summary The students were hijacking buses ?
+Leaf:  S span What the hell ? Regardless , the local police should not have turned them over to a drug cartel .
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm sure
+Leaf:  N Attribution they are probably dead by now ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but I support the family
+Leaf:  N Temporal finding out what happened
+Leaf:  N Temporal and get justice .
+Inner:  S span None Temporal NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation They were kids ,
+Leaf:  S span they did n't deserve to be killed for this .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't understand", None, None, None, 0), ('what I read here .', None, None, None, 1), ('The students were hijacking buses ?', None, None, None, 1), ('What the hell ? Regardless , the local police should not have turned them over to a drug cartel .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('they are probably dead by now ,', None, None, None, 0), ('but I support the family', None, None, None, 0), ('finding out what happened', None, None, None, 0), ('and get justice .', None, None, None, 1), ('They were kids ,', None, None, None, 0), ("they did n't deserve to be killed for this .", None, None, None, 1)]

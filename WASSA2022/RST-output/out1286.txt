@@ -1,0 +1,33 @@
+=====================> [[('Hello , I read the article ,', None, None, None, 0), ('and I feel like they both have reasons', None, None, None, 0), ('for feeling the way', None, None, None, 0), ('they do ,', None, None, None, 0), ('If Russel was offended', None, None, None, 0), ('and felt', None, None, None, 0), ('like she was a threat', None, None, None, 0), ('he could have called for management or someone from the crew', None, None, None, 0), ('to remove her ,', None, None, None, 0), ('he should not have attempted a hostile removal .', None, None, None, 1), ("She had to have been upset by Russell 's rude comment ,", None, None, None, 0), ('and I think', None, None, None, 0), ('that was a hurtful comment', None, None, None, 0), ('regarding her', None, None, None, 0), ('career.I do feel bad for her', None, None, None, 0), ('regarding how she was treated .', None, None, None, 1)]]
+Leaf:  N Joint Hello , I read the article ,
+Leaf:  N Elaborate and I feel like they both have reasons
+Leaf:  N Elaborate for feeling the way
+Leaf:  S span they do ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint If Russel was offended
+Leaf:  S span and felt
+Leaf:  N Attribution like she was a threat
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  N Enablement he could have called for management or someone from the crew
+Leaf:  S span to remove her ,
+Inner:  N Condition None Enablement NS
+Inner:  N Attribution None Condition SN
+Leaf:  S span he should not have attempted a hostile removal .
+Inner:  S span None Attribution NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint She had to have been upset by Russell 's rude comment ,
+Leaf:  S span and I think
+Leaf:  N Elaborate that was a hurtful comment
+Leaf:  S span regarding her
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate career.I do feel bad for her
+Leaf:  S span regarding how she was treated .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Hello , I read the article ,', None, None, None, 0), ('and I feel like they both have reasons', None, None, None, 0), ('for feeling the way', None, None, None, 0), ('they do ,', None, None, None, 0), ('If Russel was offended', None, None, None, 0), ('and felt', None, None, None, 0), ('like she was a threat', None, None, None, 0), ('he could have called for management or someone from the crew', None, None, None, 0), ('to remove her ,', None, None, None, 0), ('he should not have attempted a hostile removal .', None, None, None, 1), ("She had to have been upset by Russell 's rude comment ,", None, None, None, 0), ('and I think', None, None, None, 0), ('that was a hurtful comment', None, None, None, 0), ('regarding her', None, None, None, 0), ('career.I do feel bad for her', None, None, None, 0), ('regarding how she was treated .', None, None, None, 1)]

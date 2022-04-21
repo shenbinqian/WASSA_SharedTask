@@ -1,0 +1,19 @@
+=====================> [[('The article also good.The four key things can do', None, None, None, 0), ('while helping a friend', None, None, None, 0), ('who may have anxiety', None, None, None, 0), ('or hanging out with their friends as much anymore', None, None, None, 0), ('or are always tired', None, None, None, 0), ('and feeling down .', None, None, None, 1), ('Suggest they see a doctor or health professional and/or help them', None, None, None, 0), ('to make possible ,', None, None, None, 0), ("the person 's spouse or a mutual friend may be able to give", None, None, None, 0)]]
+Leaf:  N Background The article also good.The four key things can do
+Leaf:  N Elaborate while helping a friend
+Leaf:  N Joint who may have anxiety
+Leaf:  N Joint or hanging out with their friends as much anymore
+Leaf:  N Joint or are always tired
+Leaf:  N Joint and feeling down .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Background NS
+Leaf:  N Enablement Suggest they see a doctor or health professional and/or help them
+Leaf:  S span to make possible ,
+Inner:  N Condition None Enablement NS
+Leaf:  S span the person 's spouse or a mutual friend may be able to give
+Inner:  S span None Condition NS
+Inner:  Root None None Summary NS
+[('The article also good.The four key things can do', None, None, None, 0), ('while helping a friend', None, None, None, 0), ('who may have anxiety', None, None, None, 0), ('or hanging out with their friends as much anymore', None, None, None, 0), ('or are always tired', None, None, None, 0), ('and feeling down .', None, None, None, 1), ('Suggest they see a doctor or health professional and/or help them', None, None, None, 0), ('to make possible ,', None, None, None, 0), ("the person 's spouse or a mutual friend may be able to give", None, None, None, 0)]

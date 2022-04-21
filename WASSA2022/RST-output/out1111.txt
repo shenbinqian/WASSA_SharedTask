@@ -1,0 +1,21 @@
+=====================> [[('It is time', None, None, None, 0), ('to end this war', None, None, None, 0), ('and bring our troops home .', None, None, None, 1), ('We have been in Afghanistan for almost 18 years .', None, None, None, 1), ('That is insane .', None, None, None, 1), ('Our original purpose was to fight Al-Qaeda', None, None, None, 0), ('which we accomplished a long time ago .', None, None, None, 1), ('Then our goal was to kill Bin Laden ,', None, None, None, 0), ('this was also accomplished a long time ago .', None, None, None, 1), ('This is a war with no end game .', None, None, None, 1)]]
+Leaf:  N Elaborate It is time
+Leaf:  N Joint to end this war
+Leaf:  N Joint and bring our troops home .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation We have been in Afghanistan for almost 18 years .
+Leaf:  N Elaborate That is insane .
+Leaf:  N Elaborate Our original purpose was to fight Al-Qaeda
+Leaf:  S span which we accomplished a long time ago .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate Then our goal was to kill Bin Laden ,
+Leaf:  S span this was also accomplished a long time ago .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is a war with no end game .
+Inner:  Root None None Evaluation NS
+[('It is time', None, None, None, 0), ('to end this war', None, None, None, 0), ('and bring our troops home .', None, None, None, 1), ('We have been in Afghanistan for almost 18 years .', None, None, None, 1), ('That is insane .', None, None, None, 1), ('Our original purpose was to fight Al-Qaeda', None, None, None, 0), ('which we accomplished a long time ago .', None, None, None, 1), ('Then our goal was to kill Bin Laden ,', None, None, None, 0), ('this was also accomplished a long time ago .', None, None, None, 1), ('This is a war with no end game .', None, None, None, 1)]

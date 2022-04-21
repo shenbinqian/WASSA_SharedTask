@@ -1,0 +1,37 @@
+=====================> [[('Now this is a major issue :', None, None, None, 0), ('" Why Do Obese Patients Get Worse Care ?', None, None, None, 1), ('Many Doctors Do n’t See Past the Fat —', None, None, None, 0), ('You must lose weight ,', None, None, None, 0), ('a doctor told Sarah Bramblette ,', None, None, None, 0), ('advising a 1,200-calorie-a-day diet . But Ms. Bramblette had a basic question :', None, None, None, 0), ('How much do I weigh ? The doctor ’s scale went up to 350 pounds ,', None, None, None, 0), ('and she was heavier than that . If she did not know the number ,', None, None, None, 0), ('how would she know', None, None, None, 0), ('if the diet was working ? "', None, None, None, 0), ('A populace that is so uneducated on health and nutrition', None, None, None, 0), ("that they do n't know", None, None, None, 0), ("that it 's mathematically impossible not to lose weight at over 350 pounds on a 1200 calorie a day diet .", None, None, None, 1), ("What 's worse is a doctor", None, None, None, 0), ('who is so incompetent', None, None, None, 0), ("that he ca n't tell her that .", None, None, None, 1), ('If your clothes get bigger', None, None, None, 0), ('you are losing weight .', None, None, None, 1)]]
+Leaf:  N Elaborate Now this is a major issue :
+Leaf:  S span " Why Do Obese Patients Get Worse Care ?
+Inner:  N Summary None Elaborate NS
+Leaf:  N Summary Many Doctors Do n’t See Past the Fat —
+Leaf:  N Attribution You must lose weight ,
+Leaf:  N Elaborate a doctor told Sarah Bramblette ,
+Leaf:  N Elaborate advising a 1,200-calorie-a-day diet . But Ms. Bramblette had a basic question :
+Leaf:  N Evaluation How much do I weigh ? The doctor ’s scale went up to 350 pounds ,
+Leaf:  N Evaluation and she was heavier than that . If she did not know the number ,
+Inner:  S span None Evaluation NN
+Inner:  S span None Elaborate NS
+Leaf:  S span how would she know
+Leaf:  N Attribution if the diet was working ? "
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Attribution NS
+Inner:  N Joint None Summary NS
+Leaf:  S span A populace that is so uneducated on health and nutrition
+Leaf:  S span that they do n't know
+Leaf:  N Attribution that it 's mathematically impossible not to lose weight at over 350 pounds on a 1200 calorie a day diet .
+Inner:  N Cause None Attribution SN
+Inner:  N Joint None Cause SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate What 's worse is a doctor
+Leaf:  N Cause who is so incompetent
+Leaf:  S span that he ca n't tell her that .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If your clothes get bigger
+Leaf:  N Condition you are losing weight .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Now this is a major issue :', None, None, None, 0), ('" Why Do Obese Patients Get Worse Care ?', None, None, None, 1), ('Many Doctors Do n’t See Past the Fat —', None, None, None, 0), ('You must lose weight ,', None, None, None, 0), ('a doctor told Sarah Bramblette ,', None, None, None, 0), ('advising a 1,200-calorie-a-day diet . But Ms. Bramblette had a basic question :', None, None, None, 0), ('How much do I weigh ? The doctor ’s scale went up to 350 pounds ,', None, None, None, 0), ('and she was heavier than that . If she did not know the number ,', None, None, None, 0), ('how would she know', None, None, None, 0), ('if the diet was working ? "', None, None, None, 0), ('A populace that is so uneducated on health and nutrition', None, None, None, 0), ("that they do n't know", None, None, None, 0), ("that it 's mathematically impossible not to lose weight at over 350 pounds on a 1200 calorie a day diet .", None, None, None, 1), ("What 's worse is a doctor", None, None, None, 0), ('who is so incompetent', None, None, None, 0), ("that he ca n't tell her that .", None, None, None, 1), ('If your clothes get bigger', None, None, None, 0), ('you are losing weight .', None, None, None, 1)]

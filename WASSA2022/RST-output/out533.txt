@@ -1,0 +1,35 @@
+=====================> [[("Here 's an article about Standing Rock", None, None, None, 0), ('that I thought', None, None, None, 0), ('you would like to read .', None, None, None, 1), ("I think it 's a few years old", None, None, None, 0), ('because it says', None, None, None, 0), ('the protests have been going on for five months ,', None, None, None, 0), ('and I started following the Standing Rock case A LOT longer than five months ago .', None, None, None, 1), ('Barack Obama was still president then .', None, None, None, 1), ('I am very disappointed in the way', None, None, None, 0), ('he handled it', None, None, None, 0), ("and of course I have zero hope that Trump will do right by Native Americans at Standing Rock or anywhere else . We 've had our own pipeline leaks here in Michigan ,", None, None, None, 0), ('so the Lakota and Sioux', None, None, None, 0), ('who live in that area', None, None, None, 0), ('are right to be concerned .', None, None, None, 1), ("Even more so , it 's their land", None, None, None, 0), ('and they have a right', None, None, None, 0), ('to tell the oil companies NO WAY .', None, None, None, 1)]]
+Leaf:  N Elaborate Here 's an article about Standing Rock
+Leaf:  S span that I thought
+Leaf:  N Attribution you would like to read .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I think it 's a few years old
+Leaf:  S span because it says
+Leaf:  N Attribution the protests have been going on for five months ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and I started following the Standing Rock case A LOT longer than five months ago .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Barack Obama was still president then .
+Leaf:  N Elaborate I am very disappointed in the way
+Leaf:  S span he handled it
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and of course I have zero hope that Trump will do right by Native Americans at Standing Rock or anywhere else . We 've had our own pipeline leaks here in Michigan ,
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Elaborate so the Lakota and Sioux
+Leaf:  S span who live in that area
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are right to be concerned .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint Even more so , it 's their land
+Leaf:  N Elaborate and they have a right
+Leaf:  S span to tell the oil companies NO WAY .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("Here 's an article about Standing Rock", None, None, None, 0), ('that I thought', None, None, None, 0), ('you would like to read .', None, None, None, 1), ("I think it 's a few years old", None, None, None, 0), ('because it says', None, None, None, 0), ('the protests have been going on for five months ,', None, None, None, 0), ('and I started following the Standing Rock case A LOT longer than five months ago .', None, None, None, 1), ('Barack Obama was still president then .', None, None, None, 1), ('I am very disappointed in the way', None, None, None, 0), ('he handled it', None, None, None, 0), ("and of course I have zero hope that Trump will do right by Native Americans at Standing Rock or anywhere else . We 've had our own pipeline leaks here in Michigan ,", None, None, None, 0), ('so the Lakota and Sioux', None, None, None, 0), ('who live in that area', None, None, None, 0), ('are right to be concerned .', None, None, None, 1), ("Even more so , it 's their land", None, None, None, 0), ('and they have a right', None, None, None, 0), ('to tell the oil companies NO WAY .', None, None, None, 1)]

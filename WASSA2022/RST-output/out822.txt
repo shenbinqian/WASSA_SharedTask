@@ -1,0 +1,25 @@
+=====================> [[('When is the world going to realize', None, None, None, 0), ('that they need to start charging bullies with murder', None, None, None, 0), ('when kids kill themselves ?', None, None, None, 1), ('Seriously ,', None, None, None, 0), ('if you torture someone emotionally ,', None, None, None, 0), ("how is that different from doing it physically ? It 's not . You 're doing an insane amount of damage to someone 's psyche , enough for them to commit suicide . Prosecute the kids", None, None, None, 0), ('bullying as adults ,', None, None, None, 0), ('and start punishing these kids harshly enough', None, None, None, 0), ('to deter them from doing it ever again .', None, None, None, 1), ('Any adults aware', None, None, None, 0), ('and ignoring it ?', None, None, None, 1), ('Charge them as accomplices to murder .', None, None, None, 1)]]
+Leaf:  S span When is the world going to realize
+Leaf:  N Background that they need to start charging bullies with murder
+Leaf:  S span when kids kill themselves ?
+Inner:  N Attribution None Background NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Same-Unit Seriously ,
+Leaf:  S span if you torture someone emotionally ,
+Leaf:  N Elaborate how is that different from doing it physically ? It 's not . You 're doing an insane amount of damage to someone 's psyche , enough for them to commit suicide . Prosecute the kids
+Leaf:  S span bullying as adults ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Enablement and start punishing these kids harshly enough
+Leaf:  S span to deter them from doing it ever again .
+Inner:  N Joint None Enablement NS
+Inner:  N Condition None Joint NN
+Inner:  N Same-Unit None Condition SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint Any adults aware
+Leaf:  N Joint and ignoring it ?
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Background Charge them as accomplices to murder .
+Inner:  S span None Background SN
+Inner:  Root None None Summary NS
+[('When is the world going to realize', None, None, None, 0), ('that they need to start charging bullies with murder', None, None, None, 0), ('when kids kill themselves ?', None, None, None, 1), ('Seriously ,', None, None, None, 0), ('if you torture someone emotionally ,', None, None, None, 0), ("how is that different from doing it physically ? It 's not . You 're doing an insane amount of damage to someone 's psyche , enough for them to commit suicide . Prosecute the kids", None, None, None, 0), ('bullying as adults ,', None, None, None, 0), ('and start punishing these kids harshly enough', None, None, None, 0), ('to deter them from doing it ever again .', None, None, None, 1), ('Any adults aware', None, None, None, 0), ('and ignoring it ?', None, None, None, 1), ('Charge them as accomplices to murder .', None, None, None, 1)]

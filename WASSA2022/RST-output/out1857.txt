@@ -1,0 +1,29 @@
+=====================> [[('I hate ISIS .', None, None, None, 1), ('They are a group full of hate and insanity .', None, None, None, 1), ('There is no reason', None, None, None, 0), ('for them to be doing the things', None, None, None, 0), ('they do .', None, None, None, 1), ('They make people suffer and die for no reason at all .', None, None, None, 1), ('They think', None, None, None, 0), ('they are better than other people', None, None, None, 0), ('and should be disbanded .', None, None, None, 1), ('I do not think', None, None, None, 0), ('there is room in this world for people', None, None, None, 0), ('that associate with them', None, None, None, 0), ('and they are highly misguided .', None, None, None, 1), ('I can not respect them at all .', None, None, None, 1)]]
+Leaf:  N Elaborate I hate ISIS .
+Leaf:  N Elaborate They are a group full of hate and insanity .
+Leaf:  N Elaborate There is no reason
+Leaf:  N Elaborate for them to be doing the things
+Leaf:  S span they do .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They make people suffer and die for no reason at all .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They think
+Leaf:  N Joint they are better than other people
+Leaf:  N Joint and should be disbanded .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I do not think
+Leaf:  N Elaborate there is room in this world for people
+Leaf:  S span that associate with them
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span and they are highly misguided .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I can not respect them at all .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I hate ISIS .', None, None, None, 1), ('They are a group full of hate and insanity .', None, None, None, 1), ('There is no reason', None, None, None, 0), ('for them to be doing the things', None, None, None, 0), ('they do .', None, None, None, 1), ('They make people suffer and die for no reason at all .', None, None, None, 1), ('They think', None, None, None, 0), ('they are better than other people', None, None, None, 0), ('and should be disbanded .', None, None, None, 1), ('I do not think', None, None, None, 0), ('there is room in this world for people', None, None, None, 0), ('that associate with them', None, None, None, 0), ('and they are highly misguided .', None, None, None, 1), ('I can not respect them at all .', None, None, None, 1)]

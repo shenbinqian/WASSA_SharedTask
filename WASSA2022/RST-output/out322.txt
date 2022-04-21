@@ -1,0 +1,19 @@
+=====================> [[('Wow !', None, None, None, 1), ('I didn ; t know', None, None, None, 0), ('tigers were in such trouble !', None, None, None, 1), ('This makes me want to do more research and donate to the National Tiger Conservation Authority .', None, None, None, 1), ('We must protect these animals !', None, None, None, 1), ("It is so disturbing that poaching is still so problematic in today 's society .", None, None, None, 1), ('I have heard of poaching of other animals , but rarely about tigers .', None, None, None, 1), ('I hope', None, None, None, 0), ('something can be done , and soon , to help tigers .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Wow !
+Leaf:  S span I didn ; t know
+Leaf:  N Attribution tigers were in such trouble !
+Inner:  N Textual-Organization None Attribution SN
+Inner:  N Cause None Textual-Organization NN
+Leaf:  S span This makes me want to do more research and donate to the National Tiger Conservation Authority .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span We must protect these animals !
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate It is so disturbing that poaching is still so problematic in today 's society .
+Leaf:  S span I have heard of poaching of other animals , but rarely about tigers .
+Leaf:  S span I hope
+Leaf:  N Attribution something can be done , and soon , to help tigers .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Wow !', None, None, None, 1), ('I didn ; t know', None, None, None, 0), ('tigers were in such trouble !', None, None, None, 1), ('This makes me want to do more research and donate to the National Tiger Conservation Authority .', None, None, None, 1), ('We must protect these animals !', None, None, None, 1), ("It is so disturbing that poaching is still so problematic in today 's society .", None, None, None, 1), ('I have heard of poaching of other animals , but rarely about tigers .', None, None, None, 1), ('I hope', None, None, None, 0), ('something can be done , and soon , to help tigers .', None, None, None, 1)]

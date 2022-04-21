@@ -1,0 +1,17 @@
+=====================> [[("Looks like the drought is n't only affecting California ,", None, None, None, 0), ('the drought is affecting other regions in the mid west .', None, None, None, 1), ('The drought', None, None, None, 0), ('creating drier climates', None, None, None, 0), ('making them more susceptible to fires', None, None, None, 0), ('and that region has already lost 100,000 acres to forest fires .', None, None, None, 1), ('The drought is definitely a major issue', None, None, None, 0), ('that needs to be addressed .', None, None, None, 1)]]
+Leaf:  N Joint Looks like the drought is n't only affecting California ,
+Leaf:  N Joint the drought is affecting other regions in the mid west .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause The drought
+Leaf:  N Cause creating drier climates
+Leaf:  S span making them more susceptible to fires
+Inner:  N Cause None Cause NS
+Leaf:  S span and that region has already lost 100,000 acres to forest fires .
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate The drought is definitely a major issue
+Leaf:  S span that needs to be addressed .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("Looks like the drought is n't only affecting California ,", None, None, None, 0), ('the drought is affecting other regions in the mid west .', None, None, None, 1), ('The drought', None, None, None, 0), ('creating drier climates', None, None, None, 0), ('making them more susceptible to fires', None, None, None, 0), ('and that region has already lost 100,000 acres to forest fires .', None, None, None, 1), ('The drought is definitely a major issue', None, None, None, 0), ('that needs to be addressed .', None, None, None, 1)]

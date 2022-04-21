@@ -1,0 +1,31 @@
+=====================> [[('Hey .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if you have ever considered getting yourself screened for colon cancer .', None, None, None, 1), ('From what I have read ,', None, None, None, 0), ('the prep for this screening seems quite unpleasant .', None, None, None, 1), ('Drinking massive amounts of a questionable substance', None, None, None, 0), ('heavy with salt', None, None, None, 0), ("doesn ' r seem to be like a good time to me .", None, None, None, 1), ('I noticed', None, None, None, 0), ('that some items from a company have made it to phase two trials through the FDA .', None, None, None, 1), ('One is a food bar', None, None, None, 0), ('and the other one is a smoothie .', None, None, None, 1), ('They are supposed to have some kind of flavors to them like strawberry and lemon .', None, None, None, 1), ('I guess', None, None, None, 0), ('this should help with the process .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey .
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution if you have ever considered getting yourself screened for colon cancer .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span From what I have read ,
+Leaf:  N Elaborate the prep for this screening seems quite unpleasant .
+Inner:  N Explanation None Elaborate SN
+Leaf:  N Elaborate Drinking massive amounts of a questionable substance
+Leaf:  S span heavy with salt
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit doesn ' r seem to be like a good time to me .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  N Textual-Organization None Explanation NS
+Inner:  N Elaborate None Textual-Organization NN
+Leaf:  S span I noticed
+Leaf:  N Attribution that some items from a company have made it to phase two trials through the FDA .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint One is a food bar
+Leaf:  N Joint and the other one is a smoothie .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They are supposed to have some kind of flavors to them like strawberry and lemon .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Attribution this should help with the process .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if you have ever considered getting yourself screened for colon cancer .', None, None, None, 1), ('From what I have read ,', None, None, None, 0), ('the prep for this screening seems quite unpleasant .', None, None, None, 1), ('Drinking massive amounts of a questionable substance', None, None, None, 0), ('heavy with salt', None, None, None, 0), ("doesn ' r seem to be like a good time to me .", None, None, None, 1), ('I noticed', None, None, None, 0), ('that some items from a company have made it to phase two trials through the FDA .', None, None, None, 1), ('One is a food bar', None, None, None, 0), ('and the other one is a smoothie .', None, None, None, 1), ('They are supposed to have some kind of flavors to them like strawberry and lemon .', None, None, None, 1), ('I guess', None, None, None, 0), ('this should help with the process .', None, None, None, 1)]

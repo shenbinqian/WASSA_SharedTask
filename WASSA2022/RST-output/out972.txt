@@ -1,0 +1,27 @@
+=====================> [[('The story about a woman theat was thinking of places', None, None, None, 0), ('she had been before', None, None, None, 0), ('and the terrorist attacks', None, None, None, 0), ('that had taken place .', None, None, None, 1), ('the thought', None, None, None, 0), ('of being in a place', None, None, None, 0), ('and having to worry about someone', None, None, None, 0), ('trying', None, None, None, 0), ('to shoot or inflict harm upon others', None, None, None, 0), ('is disheartening', None, None, None, 0), ('and makes me not waant', None, None, None, 0), ('to go out in public anymore', None, None, None, 0), ('for fear of my life .', None, None, None, 1)]]
+Leaf:  N Elaborate The story about a woman theat was thinking of places
+Leaf:  S span she had been before
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the terrorist attacks
+Leaf:  S span that had taken place .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate the thought
+Leaf:  N Joint of being in a place
+Leaf:  N Elaborate and having to worry about someone
+Leaf:  N Elaborate trying
+Leaf:  S span to shoot or inflict harm upon others
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit is disheartening
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and makes me not waant
+Leaf:  S span to go out in public anymore
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span for fear of my life .
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('The story about a woman theat was thinking of places', None, None, None, 0), ('she had been before', None, None, None, 0), ('and the terrorist attacks', None, None, None, 0), ('that had taken place .', None, None, None, 1), ('the thought', None, None, None, 0), ('of being in a place', None, None, None, 0), ('and having to worry about someone', None, None, None, 0), ('trying', None, None, None, 0), ('to shoot or inflict harm upon others', None, None, None, 0), ('is disheartening', None, None, None, 0), ('and makes me not waant', None, None, None, 0), ('to go out in public anymore', None, None, None, 0), ('for fear of my life .', None, None, None, 1)]

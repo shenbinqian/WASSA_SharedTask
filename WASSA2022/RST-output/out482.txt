@@ -1,0 +1,19 @@
+=====================> [[('This story left me feeling pretty confused .', None, None, None, 1), ('It was so short', None, None, None, 0), ("and did n't provide a lot of answers at all .", None, None, None, 1), ('I was left wondering', None, None, None, 0), ('why France wanted to dismantle the camp', None, None, None, 0), ('and why the refugees were so angry and against the move .', None, None, None, 1), ('What was really going on here ? Were there some other issues', None, None, None, 0), ('that had nothing to do with humanitarian considerations ?', None, None, None, 1), ("It seems like there 's usually more to the story with refugee stories .", None, None, None, 1)]]
+Leaf:  N Explanation This story left me feeling pretty confused .
+Leaf:  N Joint It was so short
+Leaf:  N Joint and did n't provide a lot of answers at all .
+Inner:  N Explanation None Joint NN
+Leaf:  S span I was left wondering
+Leaf:  N Joint why France wanted to dismantle the camp
+Leaf:  N Joint and why the refugees were so angry and against the move .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate What was really going on here ? Were there some other issues
+Leaf:  S span that had nothing to do with humanitarian considerations ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It seems like there 's usually more to the story with refugee stories .
+Inner:  Root None None Evaluation NS
+[('This story left me feeling pretty confused .', None, None, None, 1), ('It was so short', None, None, None, 0), ("and did n't provide a lot of answers at all .", None, None, None, 1), ('I was left wondering', None, None, None, 0), ('why France wanted to dismantle the camp', None, None, None, 0), ('and why the refugees were so angry and against the move .', None, None, None, 1), ('What was really going on here ? Were there some other issues', None, None, None, 0), ('that had nothing to do with humanitarian considerations ?', None, None, None, 1), ("It seems like there 's usually more to the story with refugee stories .", None, None, None, 1)]

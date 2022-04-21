@@ -1,0 +1,23 @@
+=====================> [[('We need to recognize', None, None, None, 0), ('that global warming is real', None, None, None, 0), ('and acknowledge our part in it .', None, None, None, 1), ('We as a globe need to take note', None, None, None, 0), ('and work together .', None, None, None, 1), ("The Great Barrier Reef is one of our planet 's more amazing wonders", None, None, None, 0), ('and we need to do all', None, None, None, 0), ('we can', None, None, None, 0), ('to protect it ,', None, None, None, 0), ("while the Amazon is n't doing absolutely fantastic", None, None, None, 0), ("we 've improved the quality and conservation .", None, None, None, 1)]]
+Leaf:  S span We need to recognize
+Leaf:  N Attribution that global warming is real
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and acknowledge our part in it .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint We as a globe need to take note
+Leaf:  N Joint and work together .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint The Great Barrier Reef is one of our planet 's more amazing wonders
+Leaf:  N Elaborate and we need to do all
+Leaf:  N Enablement we can
+Leaf:  S span to protect it ,
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  S span while the Amazon is n't doing absolutely fantastic
+Leaf:  N Contrast we 've improved the quality and conservation .
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('We need to recognize', None, None, None, 0), ('that global warming is real', None, None, None, 0), ('and acknowledge our part in it .', None, None, None, 1), ('We as a globe need to take note', None, None, None, 0), ('and work together .', None, None, None, 1), ("The Great Barrier Reef is one of our planet 's more amazing wonders", None, None, None, 0), ('and we need to do all', None, None, None, 0), ('we can', None, None, None, 0), ('to protect it ,', None, None, None, 0), ("while the Amazon is n't doing absolutely fantastic", None, None, None, 0), ("we 've improved the quality and conservation .", None, None, None, 1)]

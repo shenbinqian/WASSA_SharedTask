@@ -1,0 +1,25 @@
+=====================> [[('Hello friend , have you read this article ?', None, None, None, 1), ('I think', None, None, None, 0), ('you should ,', None, None, None, 0), ("it 's quite interesting", None, None, None, 0), ('if I do say so myself .', None, None, None, 1), ('It is about a Representative', None, None, None, 0), ('named Darrell Issa ,', None, None, None, 0), ('he is a Republican', None, None, None, 0), ('and has a Southern California seat .', None, None, None, 1), ('How great would it be , to see this massively bad man lose ? Hopefully , Issa may well quote Mercutio on November 8th :', None, None, None, 0), ('“ ... ask for me to-morrow', None, None, None, 0), ('and you shall find me a grave man . ”', None, None, None, 0)]]
+Leaf:  N Textual-Organization Hello friend , have you read this article ?
+Leaf:  S span I think
+Leaf:  N Evaluation you should ,
+Leaf:  N Background it 's quite interesting
+Leaf:  S span if I do say so myself .
+Inner:  S span None Background NS
+Inner:  N Attribution None Evaluation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It is about a Representative
+Leaf:  S span named Darrell Issa ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint he is a Republican
+Leaf:  N Joint and has a Southern California seat .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate How great would it be , to see this massively bad man lose ? Hopefully , Issa may well quote Mercutio on November 8th :
+Leaf:  S span “ ... ask for me to-morrow
+Leaf:  N Condition and you shall find me a grave man . ”
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Hello friend , have you read this article ?', None, None, None, 1), ('I think', None, None, None, 0), ('you should ,', None, None, None, 0), ("it 's quite interesting", None, None, None, 0), ('if I do say so myself .', None, None, None, 1), ('It is about a Representative', None, None, None, 0), ('named Darrell Issa ,', None, None, None, 0), ('he is a Republican', None, None, None, 0), ('and has a Southern California seat .', None, None, None, 1), ('How great would it be , to see this massively bad man lose ? Hopefully , Issa may well quote Mercutio on November 8th :', None, None, None, 0), ('“ ... ask for me to-morrow', None, None, None, 0), ('and you shall find me a grave man . ”', None, None, None, 0)]

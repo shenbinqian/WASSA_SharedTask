@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('what the father did was a noble gesture .', None, None, None, 1), ("Sometimes justice is n't always served in jail .", None, None, None, 1), ('I think', None, None, None, 0), ('it is a shame', None, None, None, 0), ('that he is being punished', None, None, None, 0), ('for what he did .', None, None, None, 1), ('What is more important however is that the father got his revenge .', None, None, None, 1), ('Sometimes it is necessary to take justice in your own hands .', None, None, None, 1), ('I applaud the father for what he did .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution what the father did was a noble gesture .
+Inner:  N Contrast None Attribution SN
+Leaf:  N Joint Sometimes justice is n't always served in jail .
+Leaf:  S span I think
+Leaf:  S span it is a shame
+Leaf:  N Explanation that he is being punished
+Leaf:  S span for what he did .
+Inner:  N Attribution None Explanation NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation What is more important however is that the father got his revenge .
+Leaf:  S span Sometimes it is necessary to take justice in your own hands .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I applaud the father for what he did .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Contrast NS
+[('I think', None, None, None, 0), ('what the father did was a noble gesture .', None, None, None, 1), ("Sometimes justice is n't always served in jail .", None, None, None, 1), ('I think', None, None, None, 0), ('it is a shame', None, None, None, 0), ('that he is being punished', None, None, None, 0), ('for what he did .', None, None, None, 1), ('What is more important however is that the father got his revenge .', None, None, None, 1), ('Sometimes it is necessary to take justice in your own hands .', None, None, None, 1), ('I applaud the father for what he did .', None, None, None, 1)]

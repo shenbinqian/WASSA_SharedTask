@@ -1,0 +1,23 @@
+=====================> [[('Veterans deserve all the support from this nation .', None, None, None, 1), ('They put in risk their lives for us , for our freedom and security .', None, None, None, 1), ('Most of the people have no idea', None, None, None, 0), ('what those people have seen', None, None, None, 0), ('and experienced in a war zone , or the toll', None, None, None, 0), ('that these experiences can take on an individual ,', None, None, None, 0), ('matter how strong they are ,', None, None, None, 0), ("I 'm sure", None, None, None, 0), ('they have suffered traumatic experience ,', None, None, None, 0), ('and they really need help', None, None, None, 0), ('before their battles .', None, None, None, 1)]]
+Leaf:  N Elaborate Veterans deserve all the support from this nation .
+Leaf:  S span They put in risk their lives for us , for our freedom and security .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Most of the people have no idea
+Leaf:  N Joint what those people have seen
+Leaf:  N Elaborate and experienced in a war zone , or the toll
+Leaf:  S span that these experiences can take on an individual ,
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Leaf:  S span matter how strong they are ,
+Inner:  N Attribution None Attribution NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'm sure
+Leaf:  N Joint they have suffered traumatic experience ,
+Leaf:  N Joint and they really need help
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit before their battles .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Veterans deserve all the support from this nation .', None, None, None, 1), ('They put in risk their lives for us , for our freedom and security .', None, None, None, 1), ('Most of the people have no idea', None, None, None, 0), ('what those people have seen', None, None, None, 0), ('and experienced in a war zone , or the toll', None, None, None, 0), ('that these experiences can take on an individual ,', None, None, None, 0), ('matter how strong they are ,', None, None, None, 0), ("I 'm sure", None, None, None, 0), ('they have suffered traumatic experience ,', None, None, None, 0), ('and they really need help', None, None, None, 0), ('before their battles .', None, None, None, 1)]

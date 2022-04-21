@@ -1,0 +1,29 @@
+=====================> [[('Yo .', None, None, None, 1), ('I hope', None, None, None, 0), ('that you are ready to read a long ass article about things', None, None, None, 0), ('that both did not make a difference in the election', None, None, None, 0), ('and things', None, None, None, 0), ('that enough people decided did not fucking matter .', None, None, None, 1), ('It \'s another take on " look at what an asshole trump is " It \'s totally true ,', None, None, None, 0), ('but nothing changed', None, None, None, 0), ('because of things like this', None, None, None, 0), ("so I do n't see the reason", None, None, None, 0), ('of rehashing it .', None, None, None, 1), ("Trump 's a real mother fucker ,", None, None, None, 0), ('but he was a white man ,', None, None, None, 0), ('so enough assholes voted for him . Anyway , please enjoy yet another garbage article .', None, None, None, 1)]]
+Leaf:  N Elaborate Yo .
+Leaf:  S span I hope
+Leaf:  N Elaborate that you are ready to read a long ass article about things
+Leaf:  S span that both did not make a difference in the election
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and things
+Leaf:  S span that enough people decided did not fucking matter .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It 's another take on " look at what an asshole trump is " It 's totally true ,
+Leaf:  N Cause but nothing changed
+Leaf:  S span because of things like this
+Inner:  N Cause None Cause NS
+Leaf:  N Elaborate so I do n't see the reason
+Leaf:  S span of rehashing it .
+Inner:  N Cause None Elaborate NS
+Inner:  N Contrast None Cause NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Trump 's a real mother fucker ,
+Leaf:  S span but he was a white man ,
+Leaf:  N Cause so enough assholes voted for him . Anyway , please enjoy yet another garbage article .
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('Yo .', None, None, None, 1), ('I hope', None, None, None, 0), ('that you are ready to read a long ass article about things', None, None, None, 0), ('that both did not make a difference in the election', None, None, None, 0), ('and things', None, None, None, 0), ('that enough people decided did not fucking matter .', None, None, None, 1), ('It \'s another take on " look at what an asshole trump is " It \'s totally true ,', None, None, None, 0), ('but nothing changed', None, None, None, 0), ('because of things like this', None, None, None, 0), ("so I do n't see the reason", None, None, None, 0), ('of rehashing it .', None, None, None, 1), ("Trump 's a real mother fucker ,", None, None, None, 0), ('but he was a white man ,', None, None, None, 0), ('so enough assholes voted for him . Anyway , please enjoy yet another garbage article .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I had no clue', None, None, None, 0), ('Oklahoma was getting so many earthquakes lately .', None, None, None, 1), ('Apparently due to the oil companies', None, None, None, 0), ('injecting waste', None, None, None, 0), ('it is triggering a lot more earthquakes .', None, None, None, 1), ("They are n't massive ones ,", None, None, None, 0), ('but still 5.0 is decent .', None, None, None, 1), ('It caused some damage to buildings and stuff .', None, None, None, 1), ('People even at the oil company felt it really well .', None, None, None, 1), ('It shook everyone up a good bit .', None, None, None, 1), ('But its crazy that its becoming the norm there ! So crazy .', None, None, None, 1)]]
+Leaf:  S span I had no clue
+Leaf:  N Attribution Oklahoma was getting so many earthquakes lately .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Apparently due to the oil companies
+Leaf:  S span injecting waste
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit it is triggering a lot more earthquakes .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span They are n't massive ones ,
+Leaf:  N Contrast but still 5.0 is decent .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It caused some damage to buildings and stuff .
+Leaf:  N Cause People even at the oil company felt it really well .
+Leaf:  S span It shook everyone up a good bit .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span But its crazy that its becoming the norm there ! So crazy .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I had no clue', None, None, None, 0), ('Oklahoma was getting so many earthquakes lately .', None, None, None, 1), ('Apparently due to the oil companies', None, None, None, 0), ('injecting waste', None, None, None, 0), ('it is triggering a lot more earthquakes .', None, None, None, 1), ("They are n't massive ones ,", None, None, None, 0), ('but still 5.0 is decent .', None, None, None, 1), ('It caused some damage to buildings and stuff .', None, None, None, 1), ('People even at the oil company felt it really well .', None, None, None, 1), ('It shook everyone up a good bit .', None, None, None, 1), ('But its crazy that its becoming the norm there ! So crazy .', None, None, None, 1)]

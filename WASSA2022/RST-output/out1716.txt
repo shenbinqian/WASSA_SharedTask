@@ -1,0 +1,21 @@
+=====================> [[('I just read this article', None, None, None, 0), ('about trees dying across the country', None, None, None, 0), ("and I ca n't understand why more people are n't concerned about this .", None, None, None, 1), ('If we lose our trees', None, None, None, 0), ('we lose everything .', None, None, None, 1), ("It makes me crazy that people are n't paying attention", None, None, None, 0), ('and could care less about the snowball effect', None, None, None, 0), ('that is happening', None, None, None, 0), ('because of climate change .', None, None, None, 1), ('Because of us !', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article
+Leaf:  S span about trees dying across the country
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation and I ca n't understand why more people are n't concerned about this .
+Inner:  N Elaborate None Evaluation NN
+Leaf:  S span If we lose our trees
+Leaf:  N Condition we lose everything .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It makes me crazy that people are n't paying attention
+Leaf:  N Elaborate and could care less about the snowball effect
+Leaf:  N Cause that is happening
+Leaf:  S span because of climate change .
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span Because of us !
+Inner:  Root None None Explanation NS
+[('I just read this article', None, None, None, 0), ('about trees dying across the country', None, None, None, 0), ("and I ca n't understand why more people are n't concerned about this .", None, None, None, 1), ('If we lose our trees', None, None, None, 0), ('we lose everything .', None, None, None, 1), ("It makes me crazy that people are n't paying attention", None, None, None, 0), ('and could care less about the snowball effect', None, None, None, 0), ('that is happening', None, None, None, 0), ('because of climate change .', None, None, None, 1), ('Because of us !', None, None, None, 1)]

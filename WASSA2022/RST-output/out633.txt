@@ -1,0 +1,27 @@
+=====================> [[('I just read', None, None, None, 0), ('that Kevin Meaney , a standup comedian and actor has died .', None, None, None, 1), ('Although I do n’t remember him very well ,', None, None, None, 0), ('according to the article I read', None, None, None, 0), ('he was a celebrity of some notoriety in the 1980 ’s and 1990 ’s .', None, None, None, 1), ('Mr. Meaney was in the CBS sitcom " Uncle Buck , "', None, None, None, 0), ('it was only on for one season in 1990 ,', None, None, None, 0), ('and he made an appearance on an episode of " Saturday Night Live .', None, None, None, 1), ('He was on the Johnny Carson show , too ,', None, None, None, 0), ('which was the top-rated late night talk show for decades . I really miss all the bright comedic talents', None, None, None, 0), ('that launched their careers on the Carson show .', None, None, None, 1), ('So many of these great comedians of the past have inspired budding comic talents of today .', None, None, None, 1), ('They will be missed !', None, None, None, 1)]]
+Leaf:  S span I just read
+Leaf:  N Attribution that Kevin Meaney , a standup comedian and actor has died .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution Although I do n’t remember him very well ,
+Leaf:  S span according to the article I read
+Inner:  S span None Attribution NS
+Leaf:  N Contrast he was a celebrity of some notoriety in the 1980 ’s and 1990 ’s .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Mr. Meaney was in the CBS sitcom " Uncle Buck , "
+Leaf:  S span it was only on for one season in 1990 ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and he made an appearance on an episode of " Saturday Night Live .
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate He was on the Johnny Carson show , too ,
+Leaf:  N Elaborate which was the top-rated late night talk show for decades . I really miss all the bright comedic talents
+Leaf:  S span that launched their careers on the Carson show .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span So many of these great comedians of the past have inspired budding comic talents of today .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They will be missed !
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read', None, None, None, 0), ('that Kevin Meaney , a standup comedian and actor has died .', None, None, None, 1), ('Although I do n’t remember him very well ,', None, None, None, 0), ('according to the article I read', None, None, None, 0), ('he was a celebrity of some notoriety in the 1980 ’s and 1990 ’s .', None, None, None, 1), ('Mr. Meaney was in the CBS sitcom " Uncle Buck , "', None, None, None, 0), ('it was only on for one season in 1990 ,', None, None, None, 0), ('and he made an appearance on an episode of " Saturday Night Live .', None, None, None, 1), ('He was on the Johnny Carson show , too ,', None, None, None, 0), ('which was the top-rated late night talk show for decades . I really miss all the bright comedic talents', None, None, None, 0), ('that launched their careers on the Carson show .', None, None, None, 1), ('So many of these great comedians of the past have inspired budding comic talents of today .', None, None, None, 1), ('They will be missed !', None, None, None, 1)]

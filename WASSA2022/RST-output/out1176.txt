@@ -1,0 +1,19 @@
+=====================> [[('Man this news story is really crazy', None, None, None, 0), ('and it makes me feel uncomfortable .', None, None, None, 1), ('Just warning you that the content is kind of disturbing', None, None, None, 0), ("but it 's so scary", None, None, None, 0), ('that things like this could happen to just anyone', None, None, None, 0), ('walking down the street !', None, None, None, 1), ('Feel free to share with anyone else in Australia ;', None, None, None, 0), ('I hope', None, None, None, 0), ('that poor woman is okay .', None, None, None, 1)]]
+Leaf:  N Joint Man this news story is really crazy
+Leaf:  N Joint and it makes me feel uncomfortable .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Contrast Just warning you that the content is kind of disturbing
+Leaf:  N Cause but it 's so scary
+Leaf:  N Elaborate that things like this could happen to just anyone
+Leaf:  S span walking down the street !
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Cause NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate Feel free to share with anyone else in Australia ;
+Leaf:  S span I hope
+Leaf:  N Attribution that poor woman is okay .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Man this news story is really crazy', None, None, None, 0), ('and it makes me feel uncomfortable .', None, None, None, 1), ('Just warning you that the content is kind of disturbing', None, None, None, 0), ("but it 's so scary", None, None, None, 0), ('that things like this could happen to just anyone', None, None, None, 0), ('walking down the street !', None, None, None, 1), ('Feel free to share with anyone else in Australia ;', None, None, None, 0), ('I hope', None, None, None, 0), ('that poor woman is okay .', None, None, None, 1)]

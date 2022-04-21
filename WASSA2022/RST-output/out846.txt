@@ -1,0 +1,29 @@
+=====================> [[('I just read about the Elephants', None, None, None, 0), ('being killed for their ivory .', None, None, None, 1), ('It is such a sad thing', None, None, None, 0), ("that these elephants ca n't be protected by all nations .", None, None, None, 1), ('I think', None, None, None, 0), ('we should try to do more .', None, None, None, 1), ('Maybe do some research', None, None, None, 0), ('and see', None, None, None, 0), ('if we can help .', None, None, None, 1), ('I would sure hate to see elephants disappear', None, None, None, 0), ('and that is the way', None, None, None, 0), ('things are going right now .', None, None, None, 1), ('It would be a shame to lose these beautiful animals ,', None, None, None, 0), ('just because of ivory .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about the Elephants
+Leaf:  S span being killed for their ivory .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is such a sad thing
+Leaf:  N Attribution that these elephants ca n't be protected by all nations .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Elaborate we should try to do more .
+Leaf:  N Joint Maybe do some research
+Leaf:  S span and see
+Leaf:  N Attribution if we can help .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background I would sure hate to see elephants disappear
+Leaf:  N Elaborate and that is the way
+Leaf:  S span things are going right now .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Cause It would be a shame to lose these beautiful animals ,
+Leaf:  S span just because of ivory .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read about the Elephants', None, None, None, 0), ('being killed for their ivory .', None, None, None, 1), ('It is such a sad thing', None, None, None, 0), ("that these elephants ca n't be protected by all nations .", None, None, None, 1), ('I think', None, None, None, 0), ('we should try to do more .', None, None, None, 1), ('Maybe do some research', None, None, None, 0), ('and see', None, None, None, 0), ('if we can help .', None, None, None, 1), ('I would sure hate to see elephants disappear', None, None, None, 0), ('and that is the way', None, None, None, 0), ('things are going right now .', None, None, None, 1), ('It would be a shame to lose these beautiful animals ,', None, None, None, 0), ('just because of ivory .', None, None, None, 1)]

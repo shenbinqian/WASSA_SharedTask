@@ -1,0 +1,29 @@
+=====================> [[("Hey here 's a list of some things", None, None, None, 0), ('you might want', None, None, None, 0), ('to look into', None, None, None, 0), ('before you put them into your body ,', None, None, None, 0), ("I do n't know", None, None, None, 0), ('how trustworthy the source is', None, None, None, 0), ('but better safe than sorry right ?', None, None, None, 1), ('Last thing we want is something bad to happen to one of us .', None, None, None, 1), ('I know', None, None, None, 0), ("you 're on a bit of a health kick", None, None, None, 0), ('so I have no idea', None, None, None, 0), ("what you 've been up to on that front ,", None, None, None, 0), ('just letting you know', None, None, None, 0), ('I care though .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey here 's a list of some things
+Leaf:  N Elaborate you might want
+Leaf:  S span to look into
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before you put them into your body ,
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span I do n't know
+Leaf:  N Attribution how trustworthy the source is
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span but better safe than sorry right ?
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Last thing we want is something bad to happen to one of us .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know
+Leaf:  S span you 're on a bit of a health kick
+Leaf:  S span so I have no idea
+Leaf:  N Attribution what you 've been up to on that front ,
+Inner:  N Background None Attribution SN
+Inner:  N Attribution None Background SN
+Inner:  S span None Attribution SN
+Leaf:  S span just letting you know
+Leaf:  N Attribution I care though .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[("Hey here 's a list of some things", None, None, None, 0), ('you might want', None, None, None, 0), ('to look into', None, None, None, 0), ('before you put them into your body ,', None, None, None, 0), ("I do n't know", None, None, None, 0), ('how trustworthy the source is', None, None, None, 0), ('but better safe than sorry right ?', None, None, None, 1), ('Last thing we want is something bad to happen to one of us .', None, None, None, 1), ('I know', None, None, None, 0), ("you 're on a bit of a health kick", None, None, None, 0), ('so I have no idea', None, None, None, 0), ("what you 've been up to on that front ,", None, None, None, 0), ('just letting you know', None, None, None, 0), ('I care though .', None, None, None, 1)]

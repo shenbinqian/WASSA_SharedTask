@@ -1,0 +1,33 @@
+=====================> [[('It is sad', None, None, None, 0), ('that they can not stop poaching .', None, None, None, 1), ('All wildlife deserves an equal chance', None, None, None, 0), ('to live freely on this earth .', None, None, None, 1), ('They should not be hunted down as trophies .', None, None, None, 1), ('I feel pleased', None, None, None, 0), ('that the security forces are trying to protect wildlife .', None, None, None, 1), ('I am also happy', None, None, None, 0), ('that rhino poaching is a crime', None, None, None, 0), ('that will help to protect the noncancerous .', None, None, None, 1), ('It hurts to know', None, None, None, 0), ('they hunt the animals just for their horns .', None, None, None, 1), ('That is sheer cruelty ,', None, None, None, 0), ('not because they can not talk', None, None, None, 0), ('but they do have feelings', None, None, None, 0), ('and should be allowed to live wild and free .', None, None, None, 1)]]
+Leaf:  S span It is sad
+Leaf:  N Attribution that they can not stop poaching .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate All wildlife deserves an equal chance
+Leaf:  S span to live freely on this earth .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They should not be hunted down as trophies .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I feel pleased
+Leaf:  N Attribution that the security forces are trying to protect wildlife .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Leaf:  S span I am also happy
+Leaf:  N Elaborate that rhino poaching is a crime
+Leaf:  S span that will help to protect the noncancerous .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It hurts to know
+Leaf:  N Attribution they hunt the animals just for their horns .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation That is sheer cruelty ,
+Leaf:  N Contrast not because they can not talk
+Leaf:  N Joint but they do have feelings
+Leaf:  N Joint and should be allowed to live wild and free .
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It is sad', None, None, None, 0), ('that they can not stop poaching .', None, None, None, 1), ('All wildlife deserves an equal chance', None, None, None, 0), ('to live freely on this earth .', None, None, None, 1), ('They should not be hunted down as trophies .', None, None, None, 1), ('I feel pleased', None, None, None, 0), ('that the security forces are trying to protect wildlife .', None, None, None, 1), ('I am also happy', None, None, None, 0), ('that rhino poaching is a crime', None, None, None, 0), ('that will help to protect the noncancerous .', None, None, None, 1), ('It hurts to know', None, None, None, 0), ('they hunt the animals just for their horns .', None, None, None, 1), ('That is sheer cruelty ,', None, None, None, 0), ('not because they can not talk', None, None, None, 0), ('but they do have feelings', None, None, None, 0), ('and should be allowed to live wild and free .', None, None, None, 1)]

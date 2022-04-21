@@ -1,0 +1,25 @@
+=====================> [[('These pellet guns almost seem like they were meant to maim individuals , under the guise of a less-lethal round .', None, None, None, 1), ('The fact', None, None, None, 0), ('that the ammunition seems to have been modified', None, None, None, 0), ('to cause more damage , more permanent damage ,', None, None, None, 0), ('seems to back that up .', None, None, None, 1), ("It 's a travesty", None, None, None, 0), ('that such violence is being committed , such life changing violence . These people are not dying ,', None, None, None, 0), ('they \'re being irreparibly harmed , altered , changed for the rest of their lives . More people should be talking about the use of such " non-lethal " weapons .', None, None, None, 1), ("Ca n't the local force exercise some restraint , some humanity ? It 's confusing ,", None, None, None, 0), ("because I ca n't think of any reason", None, None, None, 0), ('other than harm', None, None, None, 0), ('someone would introduce maiming pellets as such as the case here .', None, None, None, 1)]]
+Leaf:  N Elaborate These pellet guns almost seem like they were meant to maim individuals , under the guise of a less-lethal round .
+Leaf:  N Elaborate The fact
+Leaf:  N Enablement that the ammunition seems to have been modified
+Leaf:  S span to cause more damage , more permanent damage ,
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit seems to back that up .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's a travesty
+Leaf:  S span that such violence is being committed , such life changing violence . These people are not dying ,
+Inner:  S span None Elaborate NS
+Leaf:  N Comparison they 're being irreparibly harmed , altered , changed for the rest of their lives . More people should be talking about the use of such " non-lethal " weapons .
+Inner:  N Explanation None Comparison SN
+Leaf:  N Explanation Ca n't the local force exercise some restraint , some humanity ? It 's confusing ,
+Leaf:  N Elaborate because I ca n't think of any reason
+Leaf:  S span other than harm
+Leaf:  N Attribution someone would introduce maiming pellets as such as the case here .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('These pellet guns almost seem like they were meant to maim individuals , under the guise of a less-lethal round .', None, None, None, 1), ('The fact', None, None, None, 0), ('that the ammunition seems to have been modified', None, None, None, 0), ('to cause more damage , more permanent damage ,', None, None, None, 0), ('seems to back that up .', None, None, None, 1), ("It 's a travesty", None, None, None, 0), ('that such violence is being committed , such life changing violence . These people are not dying ,', None, None, None, 0), ('they \'re being irreparibly harmed , altered , changed for the rest of their lives . More people should be talking about the use of such " non-lethal " weapons .', None, None, None, 1), ("Ca n't the local force exercise some restraint , some humanity ? It 's confusing ,", None, None, None, 0), ("because I ca n't think of any reason", None, None, None, 0), ('other than harm', None, None, None, 0), ('someone would introduce maiming pellets as such as the case here .', None, None, None, 1)]

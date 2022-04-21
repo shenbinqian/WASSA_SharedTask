@@ -1,0 +1,37 @@
+=====================> [[('These poor birds .', None, None, None, 1), ('We need to start recycling more', None, None, None, 0), ('and making sure', None, None, None, 0), ('our plastics are at least cut up .', None, None, None, 1), ('The beads in the plastic seem to be a good idea', None, None, None, 0), ('to try and detour the birds from eating it .', None, None, None, 1), ('All these simply thing', None, None, None, 0), ('we as humans', None, None, None, 0), ('can be doing', None, None, None, 0), ('to prevent these terrible things from happening .', None, None, None, 1), ('I feel like recycling and people having knowlegde about these plastics', None, None, None, 0), ('and polluting our environment', None, None, None, 0), ('are everywhere for Americans to see.i just kind of wonder the countries', None, None, None, 0), ('that had the highest percent of plastic in their oceans', None, None, None, 0), ('do they educate or inform those countries like america does ?', None, None, None, 1), ('Why are those country so much higher then the others', None, None, None, 0), ('what do we need to do', None, None, None, 0), ('to reduce that number ?', None, None, None, 1)]]
+Leaf:  N Topic-Comment These poor birds .
+Leaf:  N Joint We need to start recycling more
+Leaf:  S span and making sure
+Leaf:  N Attribution our plastics are at least cut up .
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate The beads in the plastic seem to be a good idea
+Leaf:  S span to try and detour the birds from eating it .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate All these simply thing
+Leaf:  N Same-Unit we as humans
+Leaf:  N Same-Unit can be doing
+Inner:  S span None Same-Unit NN
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to prevent these terrible things from happening .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I feel like recycling and people having knowlegde about these plastics
+Leaf:  N Joint and polluting our environment
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Elaborate are everywhere for Americans to see.i just kind of wonder the countries
+Leaf:  S span that had the highest percent of plastic in their oceans
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit do they educate or inform those countries like america does ?
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Cause Why are those country so much higher then the others
+Leaf:  N Enablement what do we need to do
+Leaf:  S span to reduce that number ?
+Inner:  N Cause None Enablement NS
+Inner:  N Joint None Cause NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('These poor birds .', None, None, None, 1), ('We need to start recycling more', None, None, None, 0), ('and making sure', None, None, None, 0), ('our plastics are at least cut up .', None, None, None, 1), ('The beads in the plastic seem to be a good idea', None, None, None, 0), ('to try and detour the birds from eating it .', None, None, None, 1), ('All these simply thing', None, None, None, 0), ('we as humans', None, None, None, 0), ('can be doing', None, None, None, 0), ('to prevent these terrible things from happening .', None, None, None, 1), ('I feel like recycling and people having knowlegde about these plastics', None, None, None, 0), ('and polluting our environment', None, None, None, 0), ('are everywhere for Americans to see.i just kind of wonder the countries', None, None, None, 0), ('that had the highest percent of plastic in their oceans', None, None, None, 0), ('do they educate or inform those countries like america does ?', None, None, None, 1), ('Why are those country so much higher then the others', None, None, None, 0), ('what do we need to do', None, None, None, 0), ('to reduce that number ?', None, None, None, 1)]

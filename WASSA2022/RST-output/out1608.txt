@@ -1,0 +1,17 @@
+=====================> [[('It sounds to me like this man got what he deserved .', None, None, None, 1), ('What did he expect would happen', None, None, None, 0), ('when he ran from the police', None, None, None, 0), ("and did n't follow orders ? People", None, None, None, 0), ('who get shot in these situations', None, None, None, 0), ('are simply getting what they deserve', None, None, None, 0), ('and are saving the tax payers a lot of money on their trials', None, None, None, 0), ('and being housed in prisons for the rest of their lives .', None, None, None, 1)]]
+Leaf:  N Summary It sounds to me like this man got what he deserved .
+Leaf:  N Background What did he expect would happen
+Leaf:  N Joint when he ran from the police
+Leaf:  N Elaborate and did n't follow orders ? People
+Leaf:  S span who get shot in these situations
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit are simply getting what they deserve
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and are saving the tax payers a lot of money on their trials
+Leaf:  N Joint and being housed in prisons for the rest of their lives .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('It sounds to me like this man got what he deserved .', None, None, None, 1), ('What did he expect would happen', None, None, None, 0), ('when he ran from the police', None, None, None, 0), ("and did n't follow orders ? People", None, None, None, 0), ('who get shot in these situations', None, None, None, 0), ('are simply getting what they deserve', None, None, None, 0), ('and are saving the tax payers a lot of money on their trials', None, None, None, 0), ('and being housed in prisons for the rest of their lives .', None, None, None, 1)]

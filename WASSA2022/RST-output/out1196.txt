@@ -1,0 +1,21 @@
+=====================> [[('This is messed up .', None, None, None, 1), ('Burma ’s government is a joke .', None, None, None, 1), ('They are so corrupt .', None, None, None, 1), ('They basically slaughtered their own citizens .', None, None, None, 1), ('I feel for those displaced families .', None, None, None, 1), ('It ’s defintiely a scary situation for all those involved .', None, None, None, 1), ('Someone should step in', None, None, None, 0), ('and put a stop to this .', None, None, None, 1), ('The United States or UN can do something .', None, None, None, 1), ('We should send aid .', None, None, None, 1)]]
+Leaf:  N Explanation This is messed up .
+Leaf:  N Explanation Burma ’s government is a joke .
+Leaf:  N Elaborate They are so corrupt .
+Leaf:  S span They basically slaughtered their own citizens .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation I feel for those displaced families .
+Leaf:  S span It ’s defintiely a scary situation for all those involved .
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Temporal Someone should step in
+Leaf:  N Temporal and put a stop to this .
+Inner:  N Topic-Comment None Temporal NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Explanation NS
+Leaf:  N Elaborate The United States or UN can do something .
+Leaf:  S span We should send aid .
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('This is messed up .', None, None, None, 1), ('Burma ’s government is a joke .', None, None, None, 1), ('They are so corrupt .', None, None, None, 1), ('They basically slaughtered their own citizens .', None, None, None, 1), ('I feel for those displaced families .', None, None, None, 1), ('It ’s defintiely a scary situation for all those involved .', None, None, None, 1), ('Someone should step in', None, None, None, 0), ('and put a stop to this .', None, None, None, 1), ('The United States or UN can do something .', None, None, None, 1), ('We should send aid .', None, None, None, 1)]

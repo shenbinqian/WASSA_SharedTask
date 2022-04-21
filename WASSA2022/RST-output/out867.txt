@@ -1,0 +1,17 @@
+=====================> [[('The human rights groups are right .', None, None, None, 1), ('It is brutal .', None, None, None, 1), ("I 'm glad we do n't punish people like that in our country ,", None, None, None, 0), ('but I also feel', None, None, None, 0), ('like this guy in question deserves it .', None, None, None, 1), ('The problem is that punishments like that end up being applied to people', None, None, None, 0), ("who do n't deserve it too .", None, None, None, 1), ("In this particular case , I do n't feel bad for the guy at all . He 's a monster .", None, None, None, 1)]]
+Leaf:  N Evaluation The human rights groups are right .
+Leaf:  S span It is brutal .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast I 'm glad we do n't punish people like that in our country ,
+Leaf:  S span but I also feel
+Leaf:  N Attribution like this guy in question deserves it .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate The problem is that punishments like that end up being applied to people
+Leaf:  S span who do n't deserve it too .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span In this particular case , I do n't feel bad for the guy at all . He 's a monster .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The human rights groups are right .', None, None, None, 1), ('It is brutal .', None, None, None, 1), ("I 'm glad we do n't punish people like that in our country ,", None, None, None, 0), ('but I also feel', None, None, None, 0), ('like this guy in question deserves it .', None, None, None, 1), ('The problem is that punishments like that end up being applied to people', None, None, None, 0), ("who do n't deserve it too .", None, None, None, 1), ("In this particular case , I do n't feel bad for the guy at all . He 's a monster .", None, None, None, 1)]

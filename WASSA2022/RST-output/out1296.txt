@@ -1,0 +1,17 @@
+=====================> [[('I can not believe', None, None, None, 0), ("what I 'm reading .", None, None, None, 1), ('Details of that Wells Fargo new accounts scam , how the lowly bank tellers would make up accounts', None, None, None, 0), ('because they were paid so low', None, None, None, 0), ('and badgered so much', None, None, None, 0), ("that they felt obligated to cheat like this . For shame . I 'm surprised", None, None, None, 0), ("these details did n't get really publicized", None, None, None, 0), ('when this thing was happening .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Attribution what I 'm reading .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation Details of that Wells Fargo new accounts scam , how the lowly bank tellers would make up accounts
+Leaf:  S span because they were paid so low
+Inner:  N Joint None Explanation NS
+Leaf:  N Cause and badgered so much
+Leaf:  S span that they felt obligated to cheat like this . For shame . I 'm surprised
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Leaf:  N Temporal these details did n't get really publicized
+Leaf:  S span when this thing was happening .
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I can not believe', None, None, None, 0), ("what I 'm reading .", None, None, None, 1), ('Details of that Wells Fargo new accounts scam , how the lowly bank tellers would make up accounts', None, None, None, 0), ('because they were paid so low', None, None, None, 0), ('and badgered so much', None, None, None, 0), ("that they felt obligated to cheat like this . For shame . I 'm surprised", None, None, None, 0), ("these details did n't get really publicized", None, None, None, 0), ('when this thing was happening .', None, None, None, 1)]

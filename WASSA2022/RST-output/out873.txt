@@ -1,0 +1,19 @@
+=====================> [[("Ca n't believe", None, None, None, 0), ('the jury failed to convict the people', None, None, None, 0), ('involved in the National Wildlife Refuge takeover in Oregon .', None, None, None, 1), ("The people were n't even from Oregon .", None, None, None, 1), ('They traveled half way across the country , invaded the facility ,', None, None, None, 0), ('and barricaded themselves inside .', None, None, None, 1), ("Yet the jury did n't find reasonable cause", None, None, None, 0), ('to believe', None, None, None, 0), ('they impeded Wildlife Service workers from doing their jobs . Bunch of alt-right would-be cowboys .', None, None, None, 1)]]
+Leaf:  S span Ca n't believe
+Leaf:  N Elaborate the jury failed to convict the people
+Leaf:  S span involved in the National Wildlife Refuge takeover in Oregon .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The people were n't even from Oregon .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They traveled half way across the country , invaded the facility ,
+Leaf:  N Joint and barricaded themselves inside .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Yet the jury did n't find reasonable cause
+Leaf:  S span to believe
+Leaf:  N Attribution they impeded Wildlife Service workers from doing their jobs . Bunch of alt-right would-be cowboys .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("Ca n't believe", None, None, None, 0), ('the jury failed to convict the people', None, None, None, 0), ('involved in the National Wildlife Refuge takeover in Oregon .', None, None, None, 1), ("The people were n't even from Oregon .", None, None, None, 1), ('They traveled half way across the country , invaded the facility ,', None, None, None, 0), ('and barricaded themselves inside .', None, None, None, 1), ("Yet the jury did n't find reasonable cause", None, None, None, 0), ('to believe', None, None, None, 0), ('they impeded Wildlife Service workers from doing their jobs . Bunch of alt-right would-be cowboys .', None, None, None, 1)]

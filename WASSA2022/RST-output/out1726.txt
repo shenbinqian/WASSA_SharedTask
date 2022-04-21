@@ -1,0 +1,47 @@
+=====================> [[('Gay conversion therapy is terrible !', None, None, None, 1), ('I think', None, None, None, 0), ('anyone', None, None, None, 0), ('that is forced to go through', None, None, None, 0), ('would need therapy for the rest of their lives', None, None, None, 0), ('just to recover from the trauma', None, None, None, 0), ('of being told', None, None, None, 0), ('who you are is not acceptable !', None, None, None, 1), ('I can not believe young children are being stripped of their identities ,', None, None, None, 0), ('being told', None, None, None, 0), ('who to be ,', None, None, None, 0), ('being shamed for who they are ,', None, None, None, 0), ('and learning to hate themselves .', None, None, None, 1), ('They know who they are ,', None, None, None, 0), ('and being told to put that part of themselves back in the closet is completely cruel and unjust .', None, None, None, 1), ('This is psychological torture .', None, None, None, 1), ('There is absolutely no reason for anyone to shame anyone into conversion therapy . I can not stand Mike Pence', None, None, None, 0), ('and everything', None, None, None, 0), ('he stands for .', None, None, None, 1), ('He probably is a strong advocate', None, None, None, 0), ('because he is probably closeted !', None, None, None, 1), ("Why ca n't people just be ok with who they are ?", None, None, None, 1), ('We should love everyone !', None, None, None, 1)]]
+Leaf:  N Evaluation Gay conversion therapy is terrible !
+Leaf:  S span I think
+Leaf:  N Elaborate anyone
+Leaf:  S span that is forced to go through
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would need therapy for the rest of their lives
+Inner:  N Enablement None Same-Unit NN
+Leaf:  N Elaborate just to recover from the trauma
+Leaf:  S span of being told
+Leaf:  N Attribution who you are is not acceptable !
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint I can not believe young children are being stripped of their identities ,
+Leaf:  S span being told
+Leaf:  N Attribution who to be ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint being shamed for who they are ,
+Leaf:  N Joint and learning to hate themselves .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They know who they are ,
+Leaf:  N Background and being told to put that part of themselves back in the closet is completely cruel and unjust .
+Inner:  N Summary None Background SN
+Leaf:  S span This is psychological torture .
+Inner:  S span None Summary NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate There is absolutely no reason for anyone to shame anyone into conversion therapy . I can not stand Mike Pence
+Leaf:  N Elaborate and everything
+Leaf:  S span he stands for .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause He probably is a strong advocate
+Leaf:  S span because he is probably closeted !
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Why ca n't people just be ok with who they are ?
+Leaf:  N Joint We should love everyone !
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Gay conversion therapy is terrible !', None, None, None, 1), ('I think', None, None, None, 0), ('anyone', None, None, None, 0), ('that is forced to go through', None, None, None, 0), ('would need therapy for the rest of their lives', None, None, None, 0), ('just to recover from the trauma', None, None, None, 0), ('of being told', None, None, None, 0), ('who you are is not acceptable !', None, None, None, 1), ('I can not believe young children are being stripped of their identities ,', None, None, None, 0), ('being told', None, None, None, 0), ('who to be ,', None, None, None, 0), ('being shamed for who they are ,', None, None, None, 0), ('and learning to hate themselves .', None, None, None, 1), ('They know who they are ,', None, None, None, 0), ('and being told to put that part of themselves back in the closet is completely cruel and unjust .', None, None, None, 1), ('This is psychological torture .', None, None, None, 1), ('There is absolutely no reason for anyone to shame anyone into conversion therapy . I can not stand Mike Pence', None, None, None, 0), ('and everything', None, None, None, 0), ('he stands for .', None, None, None, 1), ('He probably is a strong advocate', None, None, None, 0), ('because he is probably closeted !', None, None, None, 1), ("Why ca n't people just be ok with who they are ?", None, None, None, 1), ('We should love everyone !', None, None, None, 1)]

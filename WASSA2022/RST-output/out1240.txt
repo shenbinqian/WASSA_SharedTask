@@ -1,0 +1,29 @@
+=====================> [[('Did you see', None, None, None, 0), ('where Republicans are trying to stop black people from voting .', None, None, None, 1), ("It 's like its 1800 's again in the U.S. and the rich are using the Southern Strategy", None, None, None, 0), ('to stop likely democrats from voting ,', None, None, None, 0), ('using the divide and conquer strategy', None, None, None, 0), ('of trying to turn the people against each other', None, None, None, 0), ('instead of who they should be against .', None, None, None, 1), ('rich republicans .', None, None, None, 1), ('This is fascism , naziism ,', None, None, None, 0), ('and we are going to lose our democracy', None, None, None, 0), ("if people do n't wake up", None, None, None, 0), ('and get in the streets', None, None, None, 0), ('and demand these people be stopped .', None, None, None, 1), ("It 's literally a coup of our government .", None, None, None, 1)]]
+Leaf:  N Elaborate Did you see
+Leaf:  S span where Republicans are trying to stop black people from voting .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate It 's like its 1800 's again in the U.S. and the rich are using the Southern Strategy
+Leaf:  S span to stop likely democrats from voting ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate using the divide and conquer strategy
+Leaf:  N Contrast of trying to turn the people against each other
+Leaf:  S span instead of who they should be against .
+Inner:  S span None Contrast NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Textual-Organization None Summary NS
+Leaf:  N Evaluation rich republicans .
+Leaf:  N Joint This is fascism , naziism ,
+Leaf:  N Condition and we are going to lose our democracy
+Leaf:  N Joint if people do n't wake up
+Leaf:  N Enablement and get in the streets
+Leaf:  S span and demand these people be stopped .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  N Summary None Textual-Organization NN
+Leaf:  S span It 's literally a coup of our government .
+Inner:  Root None None Summary NS
+[('Did you see', None, None, None, 0), ('where Republicans are trying to stop black people from voting .', None, None, None, 1), ("It 's like its 1800 's again in the U.S. and the rich are using the Southern Strategy", None, None, None, 0), ('to stop likely democrats from voting ,', None, None, None, 0), ('using the divide and conquer strategy', None, None, None, 0), ('of trying to turn the people against each other', None, None, None, 0), ('instead of who they should be against .', None, None, None, 1), ('rich republicans .', None, None, None, 1), ('This is fascism , naziism ,', None, None, None, 0), ('and we are going to lose our democracy', None, None, None, 0), ("if people do n't wake up", None, None, None, 0), ('and get in the streets', None, None, None, 0), ('and demand these people be stopped .', None, None, None, 1), ("It 's literally a coup of our government .", None, None, None, 1)]

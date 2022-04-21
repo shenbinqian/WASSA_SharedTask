@@ -1,0 +1,49 @@
+=====================> [[('have a friend', None, None, None, 0), ('I wrote a letter for ,', None, None, None, 0), ('and gave it to her on her birthday .', None, None, None, 1), ('In the beginning I wrote', None, None, None, 0), ('about how our friendship began ,', None, None, None, 0), ('and wrote about all of my favorite memories with her from as far back', None, None, None, 0), ('as I could remember .', None, None, None, 1), ('Our first interaction to when we first started texting and getting to know each other , all the way up to when I wrote the letter .', None, None, None, 1), ('She is really good at always telling me', None, None, None, 0), ('how she feels about me', None, None, None, 0), ('and how grateful she is to have me as a friend .', None, None, None, 1), ('I usually suck at reciprocating ,', None, None, None, 0), ('so I took this as an opportunity', None, None, None, 0), ('to tell her', None, None, None, 0), ('what she meant to me .', None, None, None, 1), ('I made the end of the letter forward', None, None, None, 0), ('looking', None, None, None, 0), ('and wrote', None, None, None, 0), ('of how grateful', None, None, None, 0), ('I considered myself', None, None, None, 0), ('to be', None, None, None, 0), ('because she was in my life ,', None, None, None, 0), ('and how I hoped', None, None, None, 0), ('that would n’t change for a long , long time .', None, None, None, 1)]]
+Leaf:  N Elaborate have a friend
+Leaf:  N Joint I wrote a letter for ,
+Leaf:  N Joint and gave it to her on her birthday .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span In the beginning I wrote
+Leaf:  N Joint about how our friendship began ,
+Leaf:  N Comparison and wrote about all of my favorite memories with her from as far back
+Leaf:  S span as I could remember .
+Inner:  N Joint None Comparison NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Our first interaction to when we first started texting and getting to know each other , all the way up to when I wrote the letter .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She is really good at always telling me
+Leaf:  N Joint how she feels about me
+Leaf:  N Joint and how grateful she is to have me as a friend .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I usually suck at reciprocating ,
+Leaf:  N Elaborate so I took this as an opportunity
+Leaf:  S span to tell her
+Leaf:  N Attribution what she meant to me .
+Inner:  S span None Attribution SN
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background I made the end of the letter forward
+Leaf:  N Joint looking
+Leaf:  N Joint and wrote
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Leaf:  N Elaborate of how grateful
+Leaf:  N Elaborate I considered myself
+Leaf:  N Cause to be
+Leaf:  S span because she was in my life ,
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and how I hoped
+Leaf:  N Attribution that would n’t change for a long , long time .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('have a friend', None, None, None, 0), ('I wrote a letter for ,', None, None, None, 0), ('and gave it to her on her birthday .', None, None, None, 1), ('In the beginning I wrote', None, None, None, 0), ('about how our friendship began ,', None, None, None, 0), ('and wrote about all of my favorite memories with her from as far back', None, None, None, 0), ('as I could remember .', None, None, None, 1), ('Our first interaction to when we first started texting and getting to know each other , all the way up to when I wrote the letter .', None, None, None, 1), ('She is really good at always telling me', None, None, None, 0), ('how she feels about me', None, None, None, 0), ('and how grateful she is to have me as a friend .', None, None, None, 1), ('I usually suck at reciprocating ,', None, None, None, 0), ('so I took this as an opportunity', None, None, None, 0), ('to tell her', None, None, None, 0), ('what she meant to me .', None, None, None, 1), ('I made the end of the letter forward', None, None, None, 0), ('looking', None, None, None, 0), ('and wrote', None, None, None, 0), ('of how grateful', None, None, None, 0), ('I considered myself', None, None, None, 0), ('to be', None, None, None, 0), ('because she was in my life ,', None, None, None, 0), ('and how I hoped', None, None, None, 0), ('that would n’t change for a long , long time .', None, None, None, 1)]

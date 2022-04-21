@@ -1,0 +1,15 @@
+=====================> [[('it is frightening to learn about all these shark attacks', None, None, None, 0), ('but these surfers should be aware of the risks', None, None, None, 0), ('associated with the sport .', None, None, None, 1), ('relocating the sharks should be a priority', None, None, None, 0), ('and it would be in the best interest to establish a moratorium on water sports', None, None, None, 0), ('until the shark epidemic is dealt with .', None, None, None, 1), ('closing beach in australia is a good precautionary method', None, None, None, 0)]]
+Leaf:  N Contrast it is frightening to learn about all these shark attacks
+Leaf:  N Elaborate but these surfers should be aware of the risks
+Leaf:  S span associated with the sport .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Joint relocating the sharks should be a priority
+Leaf:  N Condition and it would be in the best interest to establish a moratorium on water sports
+Leaf:  S span until the shark epidemic is dealt with .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span closing beach in australia is a good precautionary method
+Inner:  Root None None Cause NS
+[('it is frightening to learn about all these shark attacks', None, None, None, 0), ('but these surfers should be aware of the risks', None, None, None, 0), ('associated with the sport .', None, None, None, 1), ('relocating the sharks should be a priority', None, None, None, 0), ('and it would be in the best interest to establish a moratorium on water sports', None, None, None, 0), ('until the shark epidemic is dealt with .', None, None, None, 1), ('closing beach in australia is a good precautionary method', None, None, None, 0)]

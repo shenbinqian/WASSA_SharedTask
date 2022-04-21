@@ -1,0 +1,35 @@
+=====================> [[('Seriously , timeshares ?!', None, None, None, 1), ('I can not believe', None, None, None, 0), ('it is even an issue for someone', None, None, None, 0), ('to get relinquish their timeshare .', None, None, None, 1), ('These companies seem to want to be your best friend', None, None, None, 0), ('to get you to buy a timeshare ,', None, None, None, 0), ('but', None, None, None, 0), ('once you do they do not care about you , your family ,', None, None, None, 0), ('or what situation your life is in . They make it hard to get rid of because most of their customers are older people', None, None, None, 0), ("who do n't always want to go through the hassle .", None, None, None, 1), ('These people need assistance', None, None, None, 0), ('because the timeshare companies make it too hard to get rid of . Although they may say', None, None, None, 0), ('that they have an easy process', None, None, None, 0), ('to relinquish , but after undercover investigations , that proved to be wrong . If someone bought something like this for their family', None, None, None, 0), ('to enjoy', None, None, None, 0), ('but now their family is grown and gone ,', None, None, None, 0), ('why should they have to continue with it ?', None, None, None, 1)]]
+Leaf:  N Textual-Organization Seriously , timeshares ?!
+Leaf:  S span I can not believe
+Leaf:  N Elaborate it is even an issue for someone
+Leaf:  S span to get relinquish their timeshare .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Enablement These companies seem to want to be your best friend
+Leaf:  S span to get you to buy a timeshare ,
+Inner:  S span None Enablement NS
+Leaf:  N Same-Unit but
+Leaf:  N Joint once you do they do not care about you , your family ,
+Leaf:  N Elaborate or what situation your life is in . They make it hard to get rid of because most of their customers are older people
+Leaf:  S span who do n't always want to go through the hassle .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Explanation These people need assistance
+Leaf:  S span because the timeshare companies make it too hard to get rid of . Although they may say
+Leaf:  N Elaborate that they have an easy process
+Leaf:  N Enablement to relinquish , but after undercover investigations , that proved to be wrong . If someone bought something like this for their family
+Leaf:  S span to enjoy
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but now their family is grown and gone ,
+Inner:  S span None Contrast SN
+Leaf:  N Condition why should they have to continue with it ?
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Explanation NS
+Inner:  Root None None Textual-Organization NN
+[('Seriously , timeshares ?!', None, None, None, 1), ('I can not believe', None, None, None, 0), ('it is even an issue for someone', None, None, None, 0), ('to get relinquish their timeshare .', None, None, None, 1), ('These companies seem to want to be your best friend', None, None, None, 0), ('to get you to buy a timeshare ,', None, None, None, 0), ('but', None, None, None, 0), ('once you do they do not care about you , your family ,', None, None, None, 0), ('or what situation your life is in . They make it hard to get rid of because most of their customers are older people', None, None, None, 0), ("who do n't always want to go through the hassle .", None, None, None, 1), ('These people need assistance', None, None, None, 0), ('because the timeshare companies make it too hard to get rid of . Although they may say', None, None, None, 0), ('that they have an easy process', None, None, None, 0), ('to relinquish , but after undercover investigations , that proved to be wrong . If someone bought something like this for their family', None, None, None, 0), ('to enjoy', None, None, None, 0), ('but now their family is grown and gone ,', None, None, None, 0), ('why should they have to continue with it ?', None, None, None, 1)]

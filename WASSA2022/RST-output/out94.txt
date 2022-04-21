@@ -1,0 +1,21 @@
+=====================> [[('Oh my goodness , check out this article . Very interesting but also very sad .', None, None, None, 1), ('Poor guy was just trying to do his job .', None, None, None, 1), ('This sounds like a terrible way', None, None, None, 0), ('to die .', None, None, None, 1), ('If nothing else maybe some new and improved safety measures will be put in place', None, None, None, 0), ('to protect the next person', None, None, None, 0), ('who has this same recycling', None, None, None, 0), ('job.I hope', None, None, None, 0), ('his family gets an attorney', None, None, None, 0), ('and tries to get some sort of money for his untimely death .', None, None, None, 1)]]
+Leaf:  N Elaborate Oh my goodness , check out this article . Very interesting but also very sad .
+Leaf:  N Evaluation Poor guy was just trying to do his job .
+Leaf:  N Elaborate This sounds like a terrible way
+Leaf:  S span to die .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Enablement If nothing else maybe some new and improved safety measures will be put in place
+Leaf:  N Elaborate to protect the next person
+Leaf:  N Same-Unit who has this same recycling
+Leaf:  N Same-Unit job.I hope
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Leaf:  N Joint his family gets an attorney
+Leaf:  N Joint and tries to get some sort of money for his untimely death .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Oh my goodness , check out this article . Very interesting but also very sad .', None, None, None, 1), ('Poor guy was just trying to do his job .', None, None, None, 1), ('This sounds like a terrible way', None, None, None, 0), ('to die .', None, None, None, 1), ('If nothing else maybe some new and improved safety measures will be put in place', None, None, None, 0), ('to protect the next person', None, None, None, 0), ('who has this same recycling', None, None, None, 0), ('job.I hope', None, None, None, 0), ('his family gets an attorney', None, None, None, 0), ('and tries to get some sort of money for his untimely death .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('An agency', None, None, None, 0), ("that I ca n't recall the full title of just released proof of the fact", None, None, None, 0), ('that the earth is getting warmer .', None, None, None, 1), ('Yeah , it was only a couple of degrees', None, None, None, 0), ("but that 's how it starts , right ? Something is causing the world , the United States in particular , to warm up .", None, None, None, 1), ('I know', None, None, None, 0), ('where I live', None, None, None, 0), ("that it 's seems a lot warm", None, None, None, 0), ('than it was even 7 or 8 years ago .', None, None, None, 1), ('The seasons used to be predictable ,', None, None, None, 0), ("but they do n't seem to be that way anymore .", None, None, None, 1)]]
+Leaf:  N Elaborate An agency
+Leaf:  N Elaborate that I ca n't recall the full title of just released proof of the fact
+Leaf:  S span that the earth is getting warmer .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Yeah , it was only a couple of degrees
+Leaf:  N Contrast but that 's how it starts , right ? Something is causing the world , the United States in particular , to warm up .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I know
+Leaf:  S span where I live
+Inner:  S span None Elaborate NS
+Leaf:  N Comparison that it 's seems a lot warm
+Leaf:  S span than it was even 7 or 8 years ago .
+Inner:  N Attribution None Comparison NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span The seasons used to be predictable ,
+Leaf:  N Contrast but they do n't seem to be that way anymore .
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('An agency', None, None, None, 0), ("that I ca n't recall the full title of just released proof of the fact", None, None, None, 0), ('that the earth is getting warmer .', None, None, None, 1), ('Yeah , it was only a couple of degrees', None, None, None, 0), ("but that 's how it starts , right ? Something is causing the world , the United States in particular , to warm up .", None, None, None, 1), ('I know', None, None, None, 0), ('where I live', None, None, None, 0), ("that it 's seems a lot warm", None, None, None, 0), ('than it was even 7 or 8 years ago .', None, None, None, 1), ('The seasons used to be predictable ,', None, None, None, 0), ("but they do n't seem to be that way anymore .", None, None, None, 1)]

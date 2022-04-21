@@ -1,0 +1,37 @@
+=====================> [[('The Great Barrier Reef', None, None, None, 0), ('( GBR )', None, None, None, 0), ('is not dead , apparently , after all !', None, None, None, 1), ('While the reef is mostly destroyed ,', None, None, None, 0), ('it has sections', None, None, None, 0), ('that are coming back to life ,', None, None, None, 0), ('and it can be stimulated back to recovery', None, None, None, 0), ('despite a 2016 article proclaiming', None, None, None, 0), ('that it had suffered its death stroke .', None, None, None, 1), ('Did you know it can be seen from outer space ?', None, None, None, 1), ('How magnificent !', None, None, None, 1), ('We should do what we can', None, None, None, 0), ('to preserve it ,', None, None, None, 0), ('even if it is a losing cause because it is a true wonder of nature .', None, None, None, 1), ('I know', None, None, None, 0), ('that contradicts what I told you earlier about not trying to save species ,', None, None, None, 0), ('but hey , whoever said', None, None, None, 0), ('consistency was my greatest attribute ?', None, None, None, 1)]]
+Leaf:  N Elaborate The Great Barrier Reef
+Leaf:  S span ( GBR )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is not dead , apparently , after all !
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span While the reef is mostly destroyed ,
+Leaf:  N Elaborate it has sections
+Leaf:  S span that are coming back to life ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Contrast and it can be stimulated back to recovery
+Leaf:  S span despite a 2016 article proclaiming
+Leaf:  N Attribution that it had suffered its death stroke .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Contrast NS
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Did you know it can be seen from outer space ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation How magnificent !
+Leaf:  N Enablement We should do what we can
+Leaf:  N Contrast to preserve it ,
+Leaf:  S span even if it is a losing cause because it is a true wonder of nature .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span I know
+Leaf:  N Attribution that contradicts what I told you earlier about not trying to save species ,
+Inner:  S span None Attribution SN
+Leaf:  S span but hey , whoever said
+Leaf:  N Attribution consistency was my greatest attribute ?
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('The Great Barrier Reef', None, None, None, 0), ('( GBR )', None, None, None, 0), ('is not dead , apparently , after all !', None, None, None, 1), ('While the reef is mostly destroyed ,', None, None, None, 0), ('it has sections', None, None, None, 0), ('that are coming back to life ,', None, None, None, 0), ('and it can be stimulated back to recovery', None, None, None, 0), ('despite a 2016 article proclaiming', None, None, None, 0), ('that it had suffered its death stroke .', None, None, None, 1), ('Did you know it can be seen from outer space ?', None, None, None, 1), ('How magnificent !', None, None, None, 1), ('We should do what we can', None, None, None, 0), ('to preserve it ,', None, None, None, 0), ('even if it is a losing cause because it is a true wonder of nature .', None, None, None, 1), ('I know', None, None, None, 0), ('that contradicts what I told you earlier about not trying to save species ,', None, None, None, 0), ('but hey , whoever said', None, None, None, 0), ('consistency was my greatest attribute ?', None, None, None, 1)]

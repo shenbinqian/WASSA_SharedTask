@@ -1,0 +1,31 @@
+=====================> [[('This is something', None, None, None, 0), ('that the Geneva Convention would ban from use in warfare ,', None, None, None, 0), ('as it is inhumane and immoral as a tactic .', None, None, None, 1), ('I am very saddened by the turmoil in the middle east .', None, None, None, 1), ('Often I think', None, None, None, 0), ('about how we got here', None, None, None, 0), ('and why it got so bad', None, None, None, 0), ('and blame the powerful and privileged countries ,', None, None, None, 0), ('including mine ,', None, None, None, 0), ('have caused these conflicts .', None, None, None, 1), ('It feels like it will never end , a hopeless situation .', None, None, None, 1), ('I feel powerless to help anyone over there myself ,', None, None, None, 0), ('I can only vote here', None, None, None, 0), ('and hope for the best in the end .', None, None, None, 1), ('Maybe someday the people over there will be much safer and happier .', None, None, None, 1)]]
+Leaf:  N Elaborate This is something
+Leaf:  N Explanation that the Geneva Convention would ban from use in warfare ,
+Leaf:  S span as it is inhumane and immoral as a tactic .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I am very saddened by the turmoil in the middle east .
+Leaf:  S span Often I think
+Leaf:  N Joint about how we got here
+Leaf:  N Joint and why it got so bad
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate and blame the powerful and privileged countries ,
+Leaf:  S span including mine ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have caused these conflicts .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It feels like it will never end , a hopeless situation .
+Leaf:  S span I feel powerless to help anyone over there myself ,
+Leaf:  N Joint I can only vote here
+Leaf:  N Elaborate and hope for the best in the end .
+Leaf:  S span Maybe someday the people over there will be much safer and happier .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('This is something', None, None, None, 0), ('that the Geneva Convention would ban from use in warfare ,', None, None, None, 0), ('as it is inhumane and immoral as a tactic .', None, None, None, 1), ('I am very saddened by the turmoil in the middle east .', None, None, None, 1), ('Often I think', None, None, None, 0), ('about how we got here', None, None, None, 0), ('and why it got so bad', None, None, None, 0), ('and blame the powerful and privileged countries ,', None, None, None, 0), ('including mine ,', None, None, None, 0), ('have caused these conflicts .', None, None, None, 1), ('It feels like it will never end , a hopeless situation .', None, None, None, 1), ('I feel powerless to help anyone over there myself ,', None, None, None, 0), ('I can only vote here', None, None, None, 0), ('and hope for the best in the end .', None, None, None, 1), ('Maybe someday the people over there will be much safer and happier .', None, None, None, 1)]

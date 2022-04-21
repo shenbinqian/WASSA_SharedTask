@@ -1,0 +1,23 @@
+=====================> [[('isis is now one of the major terrorists group', None, None, None, 0), ('operating in iraq .', None, None, None, 1), ('the Iraqi security forces are in constant war with it .', None, None, None, 1), ('isis have killed around 800 ppl in Iraqi city of Mosul', None, None, None, 0), ('and using 1000s of civilian as human shield', None, None, None, 0), ('to stop Iraqi forces advance', None, None, None, 0), ('and it make me worried', None, None, None, 0), ('that', None, None, None, 0), ('when it going to stop .', None, None, None, 1), ('we eliminate one group and another one pop up .', None, None, None, 1), ('this is a major concern for the world', None, None, None, 0)]]
+Leaf:  N Elaborate isis is now one of the major terrorists group
+Leaf:  S span operating in iraq .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span the Iraqi security forces are in constant war with it .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint isis have killed around 800 ppl in Iraqi city of Mosul
+Leaf:  N Enablement and using 1000s of civilian as human shield
+Leaf:  S span to stop Iraqi forces advance
+Inner:  N Joint None Enablement NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span and it make me worried
+Leaf:  N Background that
+Leaf:  S span when it going to stop .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Background None Evaluation NS
+Leaf:  S span we eliminate one group and another one pop up .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span this is a major concern for the world
+Inner:  Root None None Evaluation NS
+[('isis is now one of the major terrorists group', None, None, None, 0), ('operating in iraq .', None, None, None, 1), ('the Iraqi security forces are in constant war with it .', None, None, None, 1), ('isis have killed around 800 ppl in Iraqi city of Mosul', None, None, None, 0), ('and using 1000s of civilian as human shield', None, None, None, 0), ('to stop Iraqi forces advance', None, None, None, 0), ('and it make me worried', None, None, None, 0), ('that', None, None, None, 0), ('when it going to stop .', None, None, None, 1), ('we eliminate one group and another one pop up .', None, None, None, 1), ('this is a major concern for the world', None, None, None, 0)]

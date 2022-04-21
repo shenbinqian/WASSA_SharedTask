@@ -1,0 +1,43 @@
+=====================> [[('I feel', None, None, None, 0), ('that these Muslim areas are in dire need of help .', None, None, None, 1), ('I feel so very sad and alarmed for them ,', None, None, None, 0), ('as I know', None, None, None, 0), ('the citizens are helpless', None, None, None, 0), ("and do n't know who to turn to for help .", None, None, None, 1), ("It ca n't be easy to live in an area", None, None, None, 0), ('where you never know', None, None, None, 0), ('if you will wake up to your village being raided ,', None, None, None, 0), ('your women being raped and worry of your child being dragged into Military or political rebels groups . Many people in America do not realize', None, None, None, 0), ('how much freedom , safety and peace', None, None, None, 0), ('we have', None, None, None, 0), ('by living in this country ,', None, None, None, 0), ('as we have never experienced the peril', None, None, None, 0), ('that people in these Muslim countries experience .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('many live in terror and fear of the unknown ,', None, None, None, 0), ('of what could be , and actually the reality of their life .', None, None, None, 1), ('There are many poor villages and citizens ,', None, None, None, 0), ("so they do n't have options", None, None, None, 0), ('to find a way out of there .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution that these Muslim areas are in dire need of help .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation I feel so very sad and alarmed for them ,
+Leaf:  S span as I know
+Leaf:  N Joint the citizens are helpless
+Leaf:  N Joint and do n't know who to turn to for help .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It ca n't be easy to live in an area
+Leaf:  S span where you never know
+Leaf:  N Attribution if you will wake up to your village being raided ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint your women being raped and worry of your child being dragged into Military or political rebels groups . Many people in America do not realize
+Inner:  S span None Joint NN
+Leaf:  N Elaborate how much freedom , safety and peace
+Leaf:  N Manner-Means we have
+Leaf:  S span by living in this country ,
+Inner:  S span None Manner-Means NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate as we have never experienced the peril
+Leaf:  S span that people in these Muslim countries experience .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I 'm sure
+Leaf:  N Same-Unit many live in terror and fear of the unknown ,
+Leaf:  N Same-Unit of what could be , and actually the reality of their life .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span There are many poor villages and citizens ,
+Leaf:  N Elaborate so they do n't have options
+Leaf:  S span to find a way out of there .
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('that these Muslim areas are in dire need of help .', None, None, None, 1), ('I feel so very sad and alarmed for them ,', None, None, None, 0), ('as I know', None, None, None, 0), ('the citizens are helpless', None, None, None, 0), ("and do n't know who to turn to for help .", None, None, None, 1), ("It ca n't be easy to live in an area", None, None, None, 0), ('where you never know', None, None, None, 0), ('if you will wake up to your village being raided ,', None, None, None, 0), ('your women being raped and worry of your child being dragged into Military or political rebels groups . Many people in America do not realize', None, None, None, 0), ('how much freedom , safety and peace', None, None, None, 0), ('we have', None, None, None, 0), ('by living in this country ,', None, None, None, 0), ('as we have never experienced the peril', None, None, None, 0), ('that people in these Muslim countries experience .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('many live in terror and fear of the unknown ,', None, None, None, 0), ('of what could be , and actually the reality of their life .', None, None, None, 1), ('There are many poor villages and citizens ,', None, None, None, 0), ("so they do n't have options", None, None, None, 0), ('to find a way out of there .', None, None, None, 1)]

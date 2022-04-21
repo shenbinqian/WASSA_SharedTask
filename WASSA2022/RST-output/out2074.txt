@@ -1,0 +1,19 @@
+=====================> [[('Storm season every year scares me', None, None, None, 0), ('because every part of the world is in danger in some way .', None, None, None, 1), ('In taiwan in particular they have been wracked many times by typhoons and hurricanes', None, None, None, 0), ('and Meranty looks to do the same .', None, None, None, 1), ('Being classified as a category 5', None, None, None, 0), ('it is the strongest', None, None, None, 0), ('to hit the area in years', None, None, None, 0), ('and it really makes me worry for Taiwan', None, None, None, 0), ('as they brace for its landfall .', None, None, None, 1)]]
+Leaf:  N Explanation Storm season every year scares me
+Leaf:  S span because every part of the world is in danger in some way .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint In taiwan in particular they have been wracked many times by typhoons and hurricanes
+Leaf:  N Joint and Meranty looks to do the same .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Being classified as a category 5
+Leaf:  N Elaborate it is the strongest
+Leaf:  S span to hit the area in years
+Inner:  N Background None Elaborate NS
+Inner:  N Cause None Background SN
+Leaf:  N Background and it really makes me worry for Taiwan
+Leaf:  S span as they brace for its landfall .
+Inner:  S span None Background NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Storm season every year scares me', None, None, None, 0), ('because every part of the world is in danger in some way .', None, None, None, 1), ('In taiwan in particular they have been wracked many times by typhoons and hurricanes', None, None, None, 0), ('and Meranty looks to do the same .', None, None, None, 1), ('Being classified as a category 5', None, None, None, 0), ('it is the strongest', None, None, None, 0), ('to hit the area in years', None, None, None, 0), ('and it really makes me worry for Taiwan', None, None, None, 0), ('as they brace for its landfall .', None, None, None, 1)]

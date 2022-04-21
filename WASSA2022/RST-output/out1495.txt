@@ -1,0 +1,19 @@
+=====================> [[('Although coal kils I did learn', None, None, None, 0), ('that coal is important for baseload energy generation ,', None, None, None, 0), ('coal plants are safe and easy to maintain', None, None, None, 0), ('and the fuel can easily be transported', None, None, None, 0), ('and the residue disposed of .', None, None, None, 1), ('Coal ( with varying qualities ) is an abundant resource , available to many countries within their borders .', None, None, None, 1), ('Uranium on the other hand requires a lot more work and safety precautions', None, None, None, 0), ('before reaching a point', None, None, None, 0), ('where it can be used as nuclear fuel.India is unfortunate as usual to be on the short end of the stick .', None, None, None, 1)]]
+Leaf:  S span Although coal kils I did learn
+Leaf:  N Attribution that coal is important for baseload energy generation ,
+Inner:  S span None Attribution SN
+Leaf:  N Joint coal plants are safe and easy to maintain
+Leaf:  N Joint and the fuel can easily be transported
+Leaf:  N Joint and the residue disposed of .
+Inner:  N Joint None Joint NN
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Contrast Coal ( with varying qualities ) is an abundant resource , available to many countries within their borders .
+Leaf:  S span Uranium on the other hand requires a lot more work and safety precautions
+Leaf:  N Elaborate before reaching a point
+Leaf:  S span where it can be used as nuclear fuel.India is unfortunate as usual to be on the short end of the stick .
+Inner:  N Background None Elaborate NS
+Inner:  N Contrast None Background SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('Although coal kils I did learn', None, None, None, 0), ('that coal is important for baseload energy generation ,', None, None, None, 0), ('coal plants are safe and easy to maintain', None, None, None, 0), ('and the fuel can easily be transported', None, None, None, 0), ('and the residue disposed of .', None, None, None, 1), ('Coal ( with varying qualities ) is an abundant resource , available to many countries within their borders .', None, None, None, 1), ('Uranium on the other hand requires a lot more work and safety precautions', None, None, None, 0), ('before reaching a point', None, None, None, 0), ('where it can be used as nuclear fuel.India is unfortunate as usual to be on the short end of the stick .', None, None, None, 1)]

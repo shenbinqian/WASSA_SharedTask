@@ -1,0 +1,27 @@
+=====================> [[('I like Lena Heady ,', None, None, None, 0), ('and ,', None, None, None, 0), ("even though she plays one of the worst mother 's on television ,", None, None, None, 0), ('I can imagine', None, None, None, 0), ('that she must be a ball of nerves over this custody dispute .', None, None, None, 1), ('I can ; t imagine', None, None, None, 0), ('having to go through this ,', None, None, None, 0), ('especially since the custody seemed to be agreed upon .', None, None, None, 1), ("Her ex husband does n't seem to be thinking about Wylie 's best interest", None, None, None, 0), ('- only his own .', None, None, None, 1), ('If it were me ,', None, None, None, 0), ("I 'd fight tooth and nail", None, None, None, 0), ('to kepp my son in the same country as me .', None, None, None, 1)]]
+Leaf:  N Joint I like Lena Heady ,
+Leaf:  N Same-Unit and ,
+Leaf:  S span even though she plays one of the worst mother 's on television ,
+Leaf:  S span I can imagine
+Leaf:  N Attribution that she must be a ball of nerves over this custody dispute .
+Inner:  N Contrast None Attribution SN
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate I can ; t imagine
+Leaf:  N Background having to go through this ,
+Leaf:  S span especially since the custody seemed to be agreed upon .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Her ex husband does n't seem to be thinking about Wylie 's best interest
+Leaf:  S span - only his own .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span If it were me ,
+Leaf:  N Enablement I 'd fight tooth and nail
+Leaf:  S span to kepp my son in the same country as me .
+Inner:  N Condition None Enablement NS
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I like Lena Heady ,', None, None, None, 0), ('and ,', None, None, None, 0), ("even though she plays one of the worst mother 's on television ,", None, None, None, 0), ('I can imagine', None, None, None, 0), ('that she must be a ball of nerves over this custody dispute .', None, None, None, 1), ('I can ; t imagine', None, None, None, 0), ('having to go through this ,', None, None, None, 0), ('especially since the custody seemed to be agreed upon .', None, None, None, 1), ("Her ex husband does n't seem to be thinking about Wylie 's best interest", None, None, None, 0), ('- only his own .', None, None, None, 1), ('If it were me ,', None, None, None, 0), ("I 'd fight tooth and nail", None, None, None, 0), ('to kepp my son in the same country as me .', None, None, None, 1)]

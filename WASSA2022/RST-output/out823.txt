@@ -1,0 +1,27 @@
+=====================> [[("I do n't know", None, None, None, 0), ('who Leon Russell is ,', None, None, None, 0), ('but maybe you do ?', None, None, None, 1), ('Apparently he passed away in his sleep .', None, None, None, 1), ("I have n't heard of the guy ,", None, None, None, 0), ('but he sounded like quite the musician .', None, None, None, 1), ('Anyways , he passed away at 74 years old , which is a long life .', None, None, None, 1), ('The article', None, None, None, 0), ('I read', None, None, None, 0), ('stated', None, None, None, 0), ('he had some health issues , unfortunately . Poor guy .', None, None, None, 1), ('I hope', None, None, None, 0), ('he passed peacefully .', None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  N Attribution who Leon Russell is ,
+Inner:  N Condition None Attribution SN
+Leaf:  S span but maybe you do ?
+Inner:  N Elaborate None Condition NS
+Leaf:  N Elaborate Apparently he passed away in his sleep .
+Leaf:  S span I have n't heard of the guy ,
+Leaf:  N Contrast but he sounded like quite the musician .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Anyways , he passed away at 74 years old , which is a long life .
+Leaf:  N Elaborate The article
+Leaf:  S span I read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit stated
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution he had some health issues , unfortunately . Poor guy .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution he passed peacefully .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I do n't know", None, None, None, 0), ('who Leon Russell is ,', None, None, None, 0), ('but maybe you do ?', None, None, None, 1), ('Apparently he passed away in his sleep .', None, None, None, 1), ("I have n't heard of the guy ,", None, None, None, 0), ('but he sounded like quite the musician .', None, None, None, 1), ('Anyways , he passed away at 74 years old , which is a long life .', None, None, None, 1), ('The article', None, None, None, 0), ('I read', None, None, None, 0), ('stated', None, None, None, 0), ('he had some health issues , unfortunately . Poor guy .', None, None, None, 1), ('I hope', None, None, None, 0), ('he passed peacefully .', None, None, None, 1)]

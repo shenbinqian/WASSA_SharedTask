@@ -1,0 +1,23 @@
+=====================> [[('How can they do this to these people ?', None, None, None, 1), ('Did you see this ?', None, None, None, 1), ('How can you move people', None, None, None, 0), ('who were fleeing war and violence to another place', None, None, None, 0), ('after they had already settled there', None, None, None, 0), ('?', None, None, None, 1), ("It 's unbelievable ,", None, None, None, 0), ('I feel so sorry for these people ,', None, None, None, 0), ('and someone needs to step in', None, None, None, 0), ('and help them stay', None, None, None, 0), ('where they are currently comfortable .', None, None, None, 1)]]
+Leaf:  N Summary How can they do this to these people ?
+Leaf:  S span Did you see this ?
+Inner:  N Joint None Summary NS
+Leaf:  N Elaborate How can you move people
+Leaf:  N Temporal who were fleeing war and violence to another place
+Leaf:  S span after they had already settled there
+Inner:  S span None Temporal NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It 's unbelievable ,
+Leaf:  N Joint I feel so sorry for these people ,
+Leaf:  N Joint and someone needs to step in
+Leaf:  N Elaborate and help them stay
+Leaf:  S span where they are currently comfortable .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Inner:  S span None Evaluation SN
+Inner:  Root None None Evaluation NS
+[('How can they do this to these people ?', None, None, None, 1), ('Did you see this ?', None, None, None, 1), ('How can you move people', None, None, None, 0), ('who were fleeing war and violence to another place', None, None, None, 0), ('after they had already settled there', None, None, None, 0), ('?', None, None, None, 1), ("It 's unbelievable ,", None, None, None, 0), ('I feel so sorry for these people ,', None, None, None, 0), ('and someone needs to step in', None, None, None, 0), ('and help them stay', None, None, None, 0), ('where they are currently comfortable .', None, None, None, 1)]

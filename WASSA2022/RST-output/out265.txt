@@ -1,0 +1,19 @@
+=====================> [[('Dear Friend , I just read a ridiculously vapid article about Kim Kardashian', None, None, None, 0), ('and her posting photos of her jewelry on instagram .', None, None, None, 1), ('She was nearly mugged last year', None, None, None, 0), ('and the article is explaining', None, None, None, 0), ('how its a bad idea for her to show off her expensive diamonds online .', None, None, None, 1), ('I think', None, None, None, 0), ('this story is silly and weightless', None, None, None, 0), ('and I dont really see', None, None, None, 0), ('how anyone could care about it .', None, None, None, 1)]]
+Leaf:  N Same-Unit Dear Friend , I just read a ridiculously vapid article about Kim Kardashian
+Leaf:  N Same-Unit and her posting photos of her jewelry on instagram .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span She was nearly mugged last year
+Leaf:  S span and the article is explaining
+Leaf:  N Attribution how its a bad idea for her to show off her expensive diamonds online .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Joint this story is silly and weightless
+Leaf:  S span and I dont really see
+Leaf:  N Attribution how anyone could care about it .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Dear Friend , I just read a ridiculously vapid article about Kim Kardashian', None, None, None, 0), ('and her posting photos of her jewelry on instagram .', None, None, None, 1), ('She was nearly mugged last year', None, None, None, 0), ('and the article is explaining', None, None, None, 0), ('how its a bad idea for her to show off her expensive diamonds online .', None, None, None, 1), ('I think', None, None, None, 0), ('this story is silly and weightless', None, None, None, 0), ('and I dont really see', None, None, None, 0), ('how anyone could care about it .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('Russel Crowe would do something like this .', None, None, None, 1), ('Why was Russel Crowe even involved in that event', None, None, None, 0), ("if he is so racist and ca n't stand Azealia Banks ? Anyway ,", None, None, None, 0), ('since no one is able to attest to her story', None, None, None, 0), ('being true ,', None, None, None, 0), ('I have to assume she is mentally ill .', None, None, None, 1), ('Maybe she was drunk or high and hallucinating . Maybe she has psychosis .', None, None, None, 1), ('I really think', None, None, None, 0), ('she needs help !', None, None, None, 1), ('There is zero proof', None, None, None, 0), ('that Russel Crowe did any of the things', None, None, None, 0), ('she is claiming .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution Russel Crowe would do something like this .
+Inner:  N Summary None Attribution SN
+Leaf:  N Background Why was Russel Crowe even involved in that event
+Leaf:  S span if he is so racist and ca n't stand Azealia Banks ? Anyway ,
+Inner:  N Same-Unit None Background NS
+Leaf:  N Elaborate since no one is able to attest to her story
+Leaf:  S span being true ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Leaf:  N Summary I have to assume she is mentally ill .
+Leaf:  S span Maybe she was drunk or high and hallucinating . Maybe she has psychosis .
+Inner:  N Elaborate None Summary NS
+Leaf:  S span I really think
+Leaf:  N Attribution she needs help !
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate There is zero proof
+Leaf:  N Elaborate that Russel Crowe did any of the things
+Leaf:  S span she is claiming .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[("I ca n't believe", None, None, None, 0), ('Russel Crowe would do something like this .', None, None, None, 1), ('Why was Russel Crowe even involved in that event', None, None, None, 0), ("if he is so racist and ca n't stand Azealia Banks ? Anyway ,", None, None, None, 0), ('since no one is able to attest to her story', None, None, None, 0), ('being true ,', None, None, None, 0), ('I have to assume she is mentally ill .', None, None, None, 1), ('Maybe she was drunk or high and hallucinating . Maybe she has psychosis .', None, None, None, 1), ('I really think', None, None, None, 0), ('she needs help !', None, None, None, 1), ('There is zero proof', None, None, None, 0), ('that Russel Crowe did any of the things', None, None, None, 0), ('she is claiming .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('This is horribly to read about .', None, None, None, 1), ('The sheer number of people', None, None, None, 0), ('dying every day ,', None, None, None, 0), ('just trying to escape on boats , is quite alarming .', None, None, None, 1), ('Think about people from one country', None, None, None, 0), ('equaling those people dying in gang violence in major , crime ridden societies', None, None, None, 0), ('- but JUST for people', None, None, None, 0), ('attempting to escape via water .', None, None, None, 1), ('What should we do about this ? Open our borders ? Is it enough', None, None, None, 0), ('to simply help them get out of where they are to some place safer ?', None, None, None, 1), ('Obviously this isnt exacly their fault , especially the kids .', None, None, None, 1), ('But what can we do ?', None, None, None, 1), ('Will money help ? Probably not .', None, None, None, 1), ('Open borders will . Bring them here', None, None, None, 0), ('and help them find a more peaceful way through thehri own lives .', None, None, None, 1)]]
+Leaf:  N Explanation This is horribly to read about .
+Leaf:  N Elaborate The sheer number of people
+Leaf:  N Manner-Means dying every day ,
+Leaf:  S span just trying to escape on boats , is quite alarming .
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Think about people from one country
+Leaf:  S span equaling those people dying in gang violence in major , crime ridden societies
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate - but JUST for people
+Leaf:  S span attempting to escape via water .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Elaborate What should we do about this ? Open our borders ? Is it enough
+Leaf:  S span to simply help them get out of where they are to some place safer ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Obviously this isnt exacly their fault , especially the kids .
+Leaf:  N Contrast But what can we do ?
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Will money help ? Probably not .
+Leaf:  N Joint Open borders will . Bring them here
+Leaf:  N Joint and help them find a more peaceful way through thehri own lives .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('This is horribly to read about .', None, None, None, 1), ('The sheer number of people', None, None, None, 0), ('dying every day ,', None, None, None, 0), ('just trying to escape on boats , is quite alarming .', None, None, None, 1), ('Think about people from one country', None, None, None, 0), ('equaling those people dying in gang violence in major , crime ridden societies', None, None, None, 0), ('- but JUST for people', None, None, None, 0), ('attempting to escape via water .', None, None, None, 1), ('What should we do about this ? Open our borders ? Is it enough', None, None, None, 0), ('to simply help them get out of where they are to some place safer ?', None, None, None, 1), ('Obviously this isnt exacly their fault , especially the kids .', None, None, None, 1), ('But what can we do ?', None, None, None, 1), ('Will money help ? Probably not .', None, None, None, 1), ('Open borders will . Bring them here', None, None, None, 0), ('and help them find a more peaceful way through thehri own lives .', None, None, None, 1)]

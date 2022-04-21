@@ -1,0 +1,23 @@
+=====================> [[('Regardless of what scientists believe', None, None, None, 0), ('the earth is warming .', None, None, None, 1), ('I think', None, None, None, 0), ('that people are constanstly always trying to come up with reasons', None, None, None, 0), ('as to what is happening with the earth ,', None, None, None, 0), ('but these people are trying to pick this ladys research apart .', None, None, None, 1), ('Also , I am not sure', None, None, None, 0), ('how sexual harassment plays into the article ,', None, None, None, 0), ('but that is a big deal in the US .', None, None, None, 1), ('People get harassed way to often in the workplace', None, None, None, 0), ('with nothing being done .', None, None, None, 1)]]
+Leaf:  S span Regardless of what scientists believe
+Leaf:  N Attribution the earth is warming .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Elaborate that people are constanstly always trying to come up with reasons
+Leaf:  S span as to what is happening with the earth ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but these people are trying to pick this ladys research apart .
+Inner:  N Joint None Contrast NN
+Leaf:  S span Also , I am not sure
+Leaf:  N Attribution how sexual harassment plays into the article ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but that is a big deal in the US .
+Inner:  N Joint None Contrast NS
+Inner:  N Joint None Joint NN
+Leaf:  N Manner-Means People get harassed way to often in the workplace
+Leaf:  S span with nothing being done .
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Regardless of what scientists believe', None, None, None, 0), ('the earth is warming .', None, None, None, 1), ('I think', None, None, None, 0), ('that people are constanstly always trying to come up with reasons', None, None, None, 0), ('as to what is happening with the earth ,', None, None, None, 0), ('but these people are trying to pick this ladys research apart .', None, None, None, 1), ('Also , I am not sure', None, None, None, 0), ('how sexual harassment plays into the article ,', None, None, None, 0), ('but that is a big deal in the US .', None, None, None, 1), ('People get harassed way to often in the workplace', None, None, None, 0), ('with nothing being done .', None, None, None, 1)]

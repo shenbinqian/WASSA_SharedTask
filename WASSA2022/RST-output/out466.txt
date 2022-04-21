@@ -1,0 +1,19 @@
+=====================> [[('Hey friend .', None, None, None, 1), ('Did you hear about this weird terrifying story of some british banker', None, None, None, 0), ('who wanted seemed to want to copy the American psycho movie ?', None, None, None, 1), ('He murdered two women', None, None, None, 0), ('and if not for them panicking ,', None, None, None, 0), ('they would have been tortured .', None, None, None, 1), ('He was a sick depraved individual .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('how people like this live in our society . They are all hidden under the surface .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey friend .
+Leaf:  N Elaborate Did you hear about this weird terrifying story of some british banker
+Leaf:  S span who wanted seemed to want to copy the American psycho movie ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint He murdered two women
+Leaf:  S span and if not for them panicking ,
+Leaf:  N Condition they would have been tortured .
+Inner:  N Joint None Condition SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate He was a sick depraved individual .
+Leaf:  S span I do n't know
+Leaf:  N Attribution how people like this live in our society . They are all hidden under the surface .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Hey friend .', None, None, None, 1), ('Did you hear about this weird terrifying story of some british banker', None, None, None, 0), ('who wanted seemed to want to copy the American psycho movie ?', None, None, None, 1), ('He murdered two women', None, None, None, 0), ('and if not for them panicking ,', None, None, None, 0), ('they would have been tortured .', None, None, None, 1), ('He was a sick depraved individual .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('how people like this live in our society . They are all hidden under the surface .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('This whole article is a little sketchy ,', None, None, None, 0), ("it seems like they 're hiding stuff .", None, None, None, 1), ('This article ,', None, None, None, 0), ('if you want to be really cynical and skeptical ,', None, None, None, 0), ('makes it sound like the kids might be responsible for the deaths of the parents .', None, None, None, 1), ('It seems like a pretty vague article ,', None, None, None, 0), ('I wish', None, None, None, 0), ('we had more information on this incident .', None, None, None, 1)]]
+Leaf:  N Joint This whole article is a little sketchy ,
+Leaf:  N Joint it seems like they 're hiding stuff .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Same-Unit This article ,
+Leaf:  N Same-Unit if you want to be really cynical and skeptical ,
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit makes it sound like the kids might be responsible for the deaths of the parents .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation It seems like a pretty vague article ,
+Leaf:  S span I wish
+Leaf:  N Attribution we had more information on this incident .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This whole article is a little sketchy ,', None, None, None, 0), ("it seems like they 're hiding stuff .", None, None, None, 1), ('This article ,', None, None, None, 0), ('if you want to be really cynical and skeptical ,', None, None, None, 0), ('makes it sound like the kids might be responsible for the deaths of the parents .', None, None, None, 1), ('It seems like a pretty vague article ,', None, None, None, 0), ('I wish', None, None, None, 0), ('we had more information on this incident .', None, None, None, 1)]

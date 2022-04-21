@@ -1,0 +1,31 @@
+=====================> [[('He said', None, None, None, 0), ('it would not stop him returning to the field', None, None, None, 0), ('to help save wildlife .', None, None, None, 1), ('Van Niekerk said', None, None, None, 0), ('they were called last weekend', None, None, None, 0), ('to assist a ranger', None, None, None, 0), ('who had caught a poacher near Sabi river . “ My colleagues and I , with four Mozambican police officers , were transporting the poacher to the station ,', None, None, None, 0), ('which was about 30 km away ,', None, None, None, 0), ('when he escaped from the vehicle .', None, None, None, 1), ('I chased after the poacher and caught him . I handed him back to the police officer . Suddenly , a mob from the community started moving towards us , ”', None, None, None, 0), ('said Van Niekerk .', None, None, None, 1), ('The police officers', None, None, None, 0), ('who were with them', None, None, None, 0), ('ran away .', None, None, None, 1), ('“ We , the rangers , were the targets .', None, None, None, 1)]]
+Leaf:  S span He said
+Leaf:  N Enablement it would not stop him returning to the field
+Leaf:  S span to help save wildlife .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Van Niekerk said
+Leaf:  N Enablement they were called last weekend
+Leaf:  N Elaborate to assist a ranger
+Leaf:  N Elaborate who had caught a poacher near Sabi river . “ My colleagues and I , with four Mozambican police officers , were transporting the poacher to the station ,
+Leaf:  S span which was about 30 km away ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit when he escaped from the vehicle .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution I chased after the poacher and caught him . I handed him back to the police officer . Suddenly , a mob from the community started moving towards us , ”
+Leaf:  S span said Van Niekerk .
+Inner:  S span None Attribution NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate The police officers
+Leaf:  S span who were with them
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit ran away .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span “ We , the rangers , were the targets .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('He said', None, None, None, 0), ('it would not stop him returning to the field', None, None, None, 0), ('to help save wildlife .', None, None, None, 1), ('Van Niekerk said', None, None, None, 0), ('they were called last weekend', None, None, None, 0), ('to assist a ranger', None, None, None, 0), ('who had caught a poacher near Sabi river . “ My colleagues and I , with four Mozambican police officers , were transporting the poacher to the station ,', None, None, None, 0), ('which was about 30 km away ,', None, None, None, 0), ('when he escaped from the vehicle .', None, None, None, 1), ('I chased after the poacher and caught him . I handed him back to the police officer . Suddenly , a mob from the community started moving towards us , ”', None, None, None, 0), ('said Van Niekerk .', None, None, None, 1), ('The police officers', None, None, None, 0), ('who were with them', None, None, None, 0), ('ran away .', None, None, None, 1), ('“ We , the rangers , were the targets .', None, None, None, 1)]

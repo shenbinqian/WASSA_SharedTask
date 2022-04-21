@@ -1,0 +1,25 @@
+=====================> [[('the reports', None, None, None, 0), ('of officers being killed', None, None, None, 0), ('just because they are police officers', None, None, None, 0), ('is obsurb .', None, None, None, 1), ('Police officers all get a bad reoutation', None, None, None, 0), ('because you got some dumbass officer', None, None, None, 0), ('that kills someone', None, None, None, 0), ('they had no right killing', None, None, None, 0), ('and all officers are tagged as murderers and corupt .', None, None, None, 1), ('officer are here', None, None, None, 0), ('to protect and serve you', None, None, None, 0), ('and keep you safe', None, None, None, 0)]]
+Leaf:  N Elaborate the reports
+Leaf:  N Manner-Means of officers being killed
+Leaf:  S span just because they are police officers
+Inner:  S span None Manner-Means NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is obsurb .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Explanation Police officers all get a bad reoutation
+Leaf:  N Elaborate because you got some dumbass officer
+Leaf:  N Elaborate that kills someone
+Leaf:  S span they had no right killing
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and all officers are tagged as murderers and corupt .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Enablement officer are here
+Leaf:  N Joint to protect and serve you
+Leaf:  N Joint and keep you safe
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('the reports', None, None, None, 0), ('of officers being killed', None, None, None, 0), ('just because they are police officers', None, None, None, 0), ('is obsurb .', None, None, None, 1), ('Police officers all get a bad reoutation', None, None, None, 0), ('because you got some dumbass officer', None, None, None, 0), ('that kills someone', None, None, None, 0), ('they had no right killing', None, None, None, 0), ('and all officers are tagged as murderers and corupt .', None, None, None, 1), ('officer are here', None, None, None, 0), ('to protect and serve you', None, None, None, 0), ('and keep you safe', None, None, None, 0)]

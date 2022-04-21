@@ -1,0 +1,31 @@
+=====================> [[('Stories', None, None, None, 0), ('like these break my heart ,', None, None, None, 0), ('could you imagine loving someone so much', None, None, None, 0), ('that you think', None, None, None, 0), ("you ca n't live without them", None, None, None, 0), ('and you kill them', None, None, None, 0), ('and then kill yourself .', None, None, None, 1), ("I ca n't imagine the hurt and pain", None, None, None, 0), ('that was in that house that day .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if it was money trouble or kid trouble', None, None, None, 0), ('that caused this tragedy .', None, None, None, 1), ('Makes me wonder', None, None, None, 0), ('what was so bad', None, None, None, 0), ('that you had to commit murder and suicide .', None, None, None, 1)]]
+Leaf:  N Elaborate Stories
+Leaf:  S span like these break my heart ,
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause could you imagine loving someone so much
+Leaf:  S span that you think
+Leaf:  N Temporal you ca n't live without them
+Leaf:  N Temporal and you kill them
+Leaf:  N Temporal and then kill yourself .
+Inner:  N Temporal None Temporal NN
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate I ca n't imagine the hurt and pain
+Leaf:  S span that was in that house that day .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I wonder
+Leaf:  N Elaborate if it was money trouble or kid trouble
+Leaf:  S span that caused this tragedy .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Makes me wonder
+Leaf:  N Cause what was so bad
+Leaf:  S span that you had to commit murder and suicide .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Stories', None, None, None, 0), ('like these break my heart ,', None, None, None, 0), ('could you imagine loving someone so much', None, None, None, 0), ('that you think', None, None, None, 0), ("you ca n't live without them", None, None, None, 0), ('and you kill them', None, None, None, 0), ('and then kill yourself .', None, None, None, 1), ("I ca n't imagine the hurt and pain", None, None, None, 0), ('that was in that house that day .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if it was money trouble or kid trouble', None, None, None, 0), ('that caused this tragedy .', None, None, None, 1), ('Makes me wonder', None, None, None, 0), ('what was so bad', None, None, None, 0), ('that you had to commit murder and suicide .', None, None, None, 1)]

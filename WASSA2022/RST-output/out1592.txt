@@ -1,0 +1,27 @@
+=====================> [[('Check out this article .', None, None, None, 1), ('I wonder someday', None, None, None, 0), ('when all of these theoretic articles will change how things are done ?', None, None, None, 1), ('Should we be doing massive changes in the way', None, None, None, 0), ('our government works ,', None, None, None, 0), ('the way', None, None, None, 0), ('people are allowed to function ?', None, None, None, 1), ('the products', None, None, None, 0), ('we are able to buy', None, None, None, 0), ('and the activities', None, None, None, 0), ('we are allowed', None, None, None, 0), ('to partake in ?', None, None, None, 1), ('Will private jets disappear ?', None, None, None, 1)]]
+Leaf:  N Textual-Organization Check out this article .
+Leaf:  S span I wonder someday
+Leaf:  N Attribution when all of these theoretic articles will change how things are done ?
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate Should we be doing massive changes in the way
+Leaf:  S span our government works ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate the way
+Leaf:  S span people are allowed to function ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate the products
+Leaf:  S span we are able to buy
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and the activities
+Leaf:  N Elaborate we are allowed
+Leaf:  S span to partake in ?
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Will private jets disappear ?
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Summary NS
+Inner:  Root None None Textual-Organization NN
+[('Check out this article .', None, None, None, 1), ('I wonder someday', None, None, None, 0), ('when all of these theoretic articles will change how things are done ?', None, None, None, 1), ('Should we be doing massive changes in the way', None, None, None, 0), ('our government works ,', None, None, None, 0), ('the way', None, None, None, 0), ('people are allowed to function ?', None, None, None, 1), ('the products', None, None, None, 0), ('we are able to buy', None, None, None, 0), ('and the activities', None, None, None, 0), ('we are allowed', None, None, None, 0), ('to partake in ?', None, None, None, 1), ('Will private jets disappear ?', None, None, None, 1)]

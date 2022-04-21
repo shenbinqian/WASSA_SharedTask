@@ -1,0 +1,35 @@
+=====================> [[("Here 's some crap", None, None, None, 0), ('you might not have heard about Kim Kardashian ,', None, None, None, 0), ("I did n't really read to absorb it", None, None, None, 0), ('because the second I saw the words " Kim Kardashian " my eyes glazed over', None, None, None, 0), ('and I knew', None, None, None, 0), ('I was at risk of killing myself if I paid too much attention to more vapid crap from that family .', None, None, None, 1), ('I know', None, None, None, 0), ('you enjoy hearing all kinds of news about them', None, None, None, 0), ('though and figured', None, None, None, 0), ("you 'd like to read it for yourself !", None, None, None, 1), ("Let me know if I missed anything interesting but I probably did n't , because its more crap about the Kardashians", None, None, None, 0), ('and the only news', None, None, None, 0), ('I want to hear about them', None, None, None, 0), ('is " Kardashian clan found bound and dead in warehouse fire , there are no suspects at this time .', None, None, None, 1), ('Police chief quoted as saying', None, None, None, 0), ("' Does anyone really care , let 's wrap up our investigation", None, None, None, 0), ("and go to iHop . '", None, None, None, 0)]]
+Leaf:  N Elaborate Here 's some crap
+Leaf:  S span you might not have heard about Kim Kardashian ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I did n't really read to absorb it
+Leaf:  N Joint because the second I saw the words " Kim Kardashian " my eyes glazed over
+Leaf:  S span and I knew
+Leaf:  N Attribution I was at risk of killing myself if I paid too much attention to more vapid crap from that family .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Joint you enjoy hearing all kinds of news about them
+Leaf:  S span though and figured
+Leaf:  N Attribution you 'd like to read it for yourself !
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Let me know if I missed anything interesting but I probably did n't , because its more crap about the Kardashians
+Leaf:  N Elaborate and the only news
+Leaf:  S span I want to hear about them
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is " Kardashian clan found bound and dead in warehouse fire , there are no suspects at this time .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Police chief quoted as saying
+Leaf:  N Temporal ' Does anyone really care , let 's wrap up our investigation
+Leaf:  N Temporal and go to iHop . '
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[("Here 's some crap", None, None, None, 0), ('you might not have heard about Kim Kardashian ,', None, None, None, 0), ("I did n't really read to absorb it", None, None, None, 0), ('because the second I saw the words " Kim Kardashian " my eyes glazed over', None, None, None, 0), ('and I knew', None, None, None, 0), ('I was at risk of killing myself if I paid too much attention to more vapid crap from that family .', None, None, None, 1), ('I know', None, None, None, 0), ('you enjoy hearing all kinds of news about them', None, None, None, 0), ('though and figured', None, None, None, 0), ("you 'd like to read it for yourself !", None, None, None, 1), ("Let me know if I missed anything interesting but I probably did n't , because its more crap about the Kardashians", None, None, None, 0), ('and the only news', None, None, None, 0), ('I want to hear about them', None, None, None, 0), ('is " Kardashian clan found bound and dead in warehouse fire , there are no suspects at this time .', None, None, None, 1), ('Police chief quoted as saying', None, None, None, 0), ("' Does anyone really care , let 's wrap up our investigation", None, None, None, 0), ("and go to iHop . '", None, None, None, 0)]

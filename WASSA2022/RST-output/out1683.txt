@@ -1,0 +1,41 @@
+=====================> [[('there is a lot going on in this one', None, None, None, 0), ('and I had lots of different emotions throughout the whole thing .', None, None, None, 1), ('numerous issues with the article', None, None, None, 0), ('I read , cops shooting people , people being sent to prison for far too long of a period of time ,', None, None, None, 0), ('as well as militias', None, None, None, 0), ('being formed', None, None, None, 0), ('to protect land .', None, None, None, 1), ('I feel our land is important ,', None, None, None, 0), ('I feel', None, None, None, 0), ('as though cattle should be able to graze', None, None, None, 0), ('and that we have a huge problem', None, None, None, 0), ('when it comes to economic issues ,', None, None, None, 0), ('due to the way', None, None, None, 0), ('that livestock is taken care of ,', None, None, None, 0), ('to produce food for people .', None, None, None, 1), ('It is heartbreaking to see people fight for land', None, None, None, 0), ('they love it ,', None, None, None, 0), ('and it ’s heartbreaking for the police to have to shoot people over it . people lose years of their lives in prison over land and cattle and thousands upon thousands of dollars', None, None, None, 0), ('wasted in court cases .', None, None, None, 1), ('the whole article was a mess !', None, None, None, 1)]]
+Leaf:  N Joint there is a lot going on in this one
+Leaf:  N Joint and I had lots of different emotions throughout the whole thing .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate numerous issues with the article
+Leaf:  S span I read , cops shooting people , people being sent to prison for far too long of a period of time ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate as well as militias
+Leaf:  N Enablement being formed
+Leaf:  S span to protect land .
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint I feel our land is important ,
+Leaf:  S span I feel
+Leaf:  N Attribution as though cattle should be able to graze
+Inner:  N Joint None Attribution SN
+Leaf:  N Background and that we have a huge problem
+Leaf:  S span when it comes to economic issues ,
+Inner:  N Cause None Background NS
+Leaf:  N Elaborate due to the way
+Leaf:  S span that livestock is taken care of ,
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to produce food for people .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Cause NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It is heartbreaking to see people fight for land
+Leaf:  S span they love it ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and it ’s heartbreaking for the police to have to shoot people over it . people lose years of their lives in prison over land and cattle and thousands upon thousands of dollars
+Leaf:  S span wasted in court cases .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span the whole article was a mess !
+Inner:  Root None None Evaluation NS
+[('there is a lot going on in this one', None, None, None, 0), ('and I had lots of different emotions throughout the whole thing .', None, None, None, 1), ('numerous issues with the article', None, None, None, 0), ('I read , cops shooting people , people being sent to prison for far too long of a period of time ,', None, None, None, 0), ('as well as militias', None, None, None, 0), ('being formed', None, None, None, 0), ('to protect land .', None, None, None, 1), ('I feel our land is important ,', None, None, None, 0), ('I feel', None, None, None, 0), ('as though cattle should be able to graze', None, None, None, 0), ('and that we have a huge problem', None, None, None, 0), ('when it comes to economic issues ,', None, None, None, 0), ('due to the way', None, None, None, 0), ('that livestock is taken care of ,', None, None, None, 0), ('to produce food for people .', None, None, None, 1), ('It is heartbreaking to see people fight for land', None, None, None, 0), ('they love it ,', None, None, None, 0), ('and it ’s heartbreaking for the police to have to shoot people over it . people lose years of their lives in prison over land and cattle and thousands upon thousands of dollars', None, None, None, 0), ('wasted in court cases .', None, None, None, 1), ('the whole article was a mess !', None, None, None, 1)]

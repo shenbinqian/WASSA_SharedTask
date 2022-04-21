@@ -1,0 +1,13 @@
+=====================> [[('What I learned from my experience is that most modern factories , even the ones in thirds world countries , will try to make their employees reasonably comfortable and safe .', None, None, None, 1), ('Not because their super-altruistic but because it helps with productivity .', None, None, None, 1), ('A happy , rested , relaxed worker does better work', None, None, None, 0), ('and more of it than an exhausted , stressed out one .', None, None, None, 1), ("it 's unfortunate that this guy died the way", None, None, None, 0), ('they did ono the job like that .', None, None, None, 1)]]
+Leaf:  N Explanation What I learned from my experience is that most modern factories , even the ones in thirds world countries , will try to make their employees reasonably comfortable and safe .
+Leaf:  S span Not because their super-altruistic but because it helps with productivity .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint A happy , rested , relaxed worker does better work
+Leaf:  N Joint and more of it than an exhausted , stressed out one .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate it 's unfortunate that this guy died the way
+Leaf:  S span they did ono the job like that .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('What I learned from my experience is that most modern factories , even the ones in thirds world countries , will try to make their employees reasonably comfortable and safe .', None, None, None, 1), ('Not because their super-altruistic but because it helps with productivity .', None, None, None, 1), ('A happy , rested , relaxed worker does better work', None, None, None, 0), ('and more of it than an exhausted , stressed out one .', None, None, None, 1), ("it 's unfortunate that this guy died the way", None, None, None, 0), ('they did ono the job like that .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('Hello , I have to tell you something friend , I have some curiosity about an article', None, None, None, 0), ('that I read recently ,', None, None, None, 0), ('said', None, None, None, 0), ('that Donald Trump was elected president of the United States .', None, None, None, 1), ('The next day , a man discovered', None, None, None, 0), ('that someone had painted swastikas in an abandoned store in South Philadelphia ,', None, None, None, 0), ('I was hoping', None, None, None, 0), ('that this type of information could be in the article', None, None, None, 0)]]
+Leaf:  N Elaborate Hello , I have to tell you something friend , I have some curiosity about an article
+Leaf:  S span that I read recently ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span said
+Leaf:  N Attribution that Donald Trump was elected president of the United States .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span The next day , a man discovered
+Leaf:  N Attribution that someone had painted swastikas in an abandoned store in South Philadelphia ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I was hoping
+Leaf:  N Attribution that this type of information could be in the article
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hello , I have to tell you something friend , I have some curiosity about an article', None, None, None, 0), ('that I read recently ,', None, None, None, 0), ('said', None, None, None, 0), ('that Donald Trump was elected president of the United States .', None, None, None, 1), ('The next day , a man discovered', None, None, None, 0), ('that someone had painted swastikas in an abandoned store in South Philadelphia ,', None, None, None, 0), ('I was hoping', None, None, None, 0), ('that this type of information could be in the article', None, None, None, 0)]

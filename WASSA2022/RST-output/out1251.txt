@@ -1,0 +1,45 @@
+=====================> [[("I 'd like to say", None, None, None, 0), ('that a comedy of errors has taken place .', None, None, None, 1), ('It seems our friend Gil got himself into trouble', None, None, None, 0), ('without doing anything wrong .', None, None, None, 1), ('His identity was stolen', None, None, None, 0), ('and then later he was mistakenly identified as the wrong person .', None, None, None, 1), ('Society needs to do a better job', None, None, None, 0), ('of providing enough resources for the " accused "', None, None, None, 0), ('to ensure', None, None, None, 0), ("that the perpetrator does n't get a free ride", None, None, None, 0), ('while the accused seems to lose everything .', None, None, None, 1), ('We do live in a society', None, None, None, 0), ('where supposedly you are innocent till proven guilty , right ?', None, None, None, 1), ('How can one lose a drivers license and a job', None, None, None, 0), ('without 100 % proof on the table ?', None, None, None, 1), ('Technology should be brought to bear', None, None, None, 0), ('to ensure', None, None, None, 0), ('that everyone is held harmless', None, None, None, 0), ('till all the facts are in .', None, None, None, 1), ('Is this achievable in our time ?', None, None, None, 1), ('I believe yes', None, None, None, 0), ('if the right companies and government assets are brought in early enough .', None, None, None, 1)]]
+Leaf:  S span I 'd like to say
+Leaf:  N Attribution that a comedy of errors has taken place .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Manner-Means It seems our friend Gil got himself into trouble
+Leaf:  S span without doing anything wrong .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Temporal His identity was stolen
+Leaf:  N Temporal and then later he was mistakenly identified as the wrong person .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Society needs to do a better job
+Leaf:  S span of providing enough resources for the " accused "
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to ensure
+Leaf:  N Attribution that the perpetrator does n't get a free ride
+Inner:  N Temporal None Attribution SN
+Leaf:  S span while the accused seems to lose everything .
+Inner:  S span None Temporal NS
+Inner:  N Explanation None Enablement NS
+Leaf:  N Elaborate We do live in a society
+Leaf:  S span where supposedly you are innocent till proven guilty , right ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background How can one lose a drivers license and a job
+Leaf:  S span without 100 % proof on the table ?
+Inner:  S span None Background NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement Technology should be brought to bear
+Leaf:  S span to ensure
+Leaf:  N Condition that everyone is held harmless
+Leaf:  S span till all the facts are in .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Evaluation Is this achievable in our time ?
+Leaf:  N Condition I believe yes
+Leaf:  S span if the right companies and government assets are brought in early enough .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("I 'd like to say", None, None, None, 0), ('that a comedy of errors has taken place .', None, None, None, 1), ('It seems our friend Gil got himself into trouble', None, None, None, 0), ('without doing anything wrong .', None, None, None, 1), ('His identity was stolen', None, None, None, 0), ('and then later he was mistakenly identified as the wrong person .', None, None, None, 1), ('Society needs to do a better job', None, None, None, 0), ('of providing enough resources for the " accused "', None, None, None, 0), ('to ensure', None, None, None, 0), ("that the perpetrator does n't get a free ride", None, None, None, 0), ('while the accused seems to lose everything .', None, None, None, 1), ('We do live in a society', None, None, None, 0), ('where supposedly you are innocent till proven guilty , right ?', None, None, None, 1), ('How can one lose a drivers license and a job', None, None, None, 0), ('without 100 % proof on the table ?', None, None, None, 1), ('Technology should be brought to bear', None, None, None, 0), ('to ensure', None, None, None, 0), ('that everyone is held harmless', None, None, None, 0), ('till all the facts are in .', None, None, None, 1), ('Is this achievable in our time ?', None, None, None, 1), ('I believe yes', None, None, None, 0), ('if the right companies and government assets are brought in early enough .', None, None, None, 1)]

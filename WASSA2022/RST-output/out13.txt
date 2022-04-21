@@ -1,0 +1,21 @@
+=====================> [[('Hearing about the violence', None, None, None, 0), ('going on over politics in the country', None, None, None, 0), ('is really sad and upsetting .', None, None, None, 1), ("It 's easy to take for granted how we live", None, None, None, 0), ('and how lucky we are', None, None, None, 0), ("that we do n't have to worry about people", None, None, None, 0), ('killing us on a daily basis .', None, None, None, 1), ('Our government is also democratic', None, None, None, 0), ('which means people have a voice .', None, None, None, 1), ("This is n't the case in some areas /", None, None, None, 0)]]
+Leaf:  N Elaborate Hearing about the violence
+Leaf:  S span going on over politics in the country
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is really sad and upsetting .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint It 's easy to take for granted how we live
+Leaf:  N Elaborate and how lucky we are
+Leaf:  N Elaborate that we do n't have to worry about people
+Leaf:  S span killing us on a daily basis .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause Our government is also democratic
+Leaf:  S span which means people have a voice .
+Inner:  N Contrast None Cause NS
+Leaf:  N Contrast This is n't the case in some areas /
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('Hearing about the violence', None, None, None, 0), ('going on over politics in the country', None, None, None, 0), ('is really sad and upsetting .', None, None, None, 1), ("It 's easy to take for granted how we live", None, None, None, 0), ('and how lucky we are', None, None, None, 0), ("that we do n't have to worry about people", None, None, None, 0), ('killing us on a daily basis .', None, None, None, 1), ('Our government is also democratic', None, None, None, 0), ('which means people have a voice .', None, None, None, 1), ("This is n't the case in some areas /", None, None, None, 0)]

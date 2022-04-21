@@ -1,0 +1,21 @@
+=====================> [[('Hello , I will tell you something , an article', None, None, None, 0), ('I read recently ,', None, None, None, 0), ('said', None, None, None, 0), ('that millions of Nigerians survived Boko Haram ,', None, None, None, 0), ('but now a humanitarian catastrophe is putting their lives at risk again , wise about this information', None, None, None, 0), ('I think', None, None, None, 0), ('it is more important information', None, None, None, 0), ('than it seems be ,', None, None, None, 0), ('I would consider that it is a news', None, None, None, 0), ('that should happen even by television', None, None, None, 0)]]
+Leaf:  N Elaborate Hello , I will tell you something , an article
+Leaf:  S span I read recently ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span said
+Leaf:  N Attribution that millions of Nigerians survived Boko Haram ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but now a humanitarian catastrophe is putting their lives at risk again , wise about this information
+Inner:  N Same-Unit None Contrast NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I think
+Leaf:  N Comparison it is more important information
+Leaf:  S span than it seems be ,
+Inner:  N Evaluation None Comparison NS
+Leaf:  N Elaborate I would consider that it is a news
+Leaf:  S span that should happen even by television
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Hello , I will tell you something , an article', None, None, None, 0), ('I read recently ,', None, None, None, 0), ('said', None, None, None, 0), ('that millions of Nigerians survived Boko Haram ,', None, None, None, 0), ('but now a humanitarian catastrophe is putting their lives at risk again , wise about this information', None, None, None, 0), ('I think', None, None, None, 0), ('it is more important information', None, None, None, 0), ('than it seems be ,', None, None, None, 0), ('I would consider that it is a news', None, None, None, 0), ('that should happen even by television', None, None, None, 0)]

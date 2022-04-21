@@ -1,0 +1,19 @@
+=====================> [[('Friends and Family', None, None, None, 0), ('-', None, None, None, 0), ('we need to lobby for president Trump to take global warming more seriously .', None, None, None, 1), ('As predicted ,', None, None, None, 0), ('the temperature may rise in the near future by one point five degrees Celsius .', None, None, None, 1), ('This will drastically change our weather', None, None, None, 0), ('and therefore cause disastrous effects to many , many places around the world .', None, None, None, 1), ('This can all be stopped though', None, None, None, 0), ('if we get on board now !', None, None, None, 1)]]
+Leaf:  N Same-Unit Friends and Family
+Leaf:  N Same-Unit -
+Inner:  S span None Same-Unit NN
+Leaf:  N Background we need to lobby for president Trump to take global warming more seriously .
+Inner:  N Elaborate None Background SN
+Leaf:  S span As predicted ,
+Leaf:  N Background the temperature may rise in the near future by one point five degrees Celsius .
+Inner:  N Cause None Background SN
+Leaf:  N Cause This will drastically change our weather
+Leaf:  S span and therefore cause disastrous effects to many , many places around the world .
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Leaf:  N Condition This can all be stopped though
+Leaf:  S span if we get on board now !
+Inner:  N Contrast None Condition NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Friends and Family', None, None, None, 0), ('-', None, None, None, 0), ('we need to lobby for president Trump to take global warming more seriously .', None, None, None, 1), ('As predicted ,', None, None, None, 0), ('the temperature may rise in the near future by one point five degrees Celsius .', None, None, None, 1), ('This will drastically change our weather', None, None, None, 0), ('and therefore cause disastrous effects to many , many places around the world .', None, None, None, 1), ('This can all be stopped though', None, None, None, 0), ('if we get on board now !', None, None, None, 1)]

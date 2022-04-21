@@ -1,0 +1,29 @@
+=====================> [[('It is startling the way', None, None, None, 0), ('that poachers and even the majority of people look at animal conservation .', None, None, None, 1), ('Humans seem to be one of the most parasitic species', None, None, None, 0), ('that I have ever observed .', None, None, None, 1), ('Humans have poached and over-consumed', None, None, None, 0), ('for as long', None, None, None, 0), ('as we have known', None, None, None, 0), ('this to be a problem .', None, None, None, 1), ('If people do not take notice', None, None, None, 0), ('and make this cause a forefront in our minds I believe', None, None, None, 0), ('that we will wipe out the Rhino population as well as other large game and mammal species .', None, None, None, 1), ('I wish', None, None, None, 0), ('there were harsher penalties', None, None, None, 0), ('for killing these beautiful animals .', None, None, None, 1)]]
+Leaf:  N Elaborate It is startling the way
+Leaf:  S span that poachers and even the majority of people look at animal conservation .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Humans seem to be one of the most parasitic species
+Leaf:  S span that I have ever observed .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Same-Unit Humans have poached and over-consumed
+Leaf:  N Temporal for as long
+Leaf:  S span as we have known
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span this to be a problem .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint If people do not take notice
+Leaf:  S span and make this cause a forefront in our minds I believe
+Leaf:  N Attribution that we will wipe out the Rhino population as well as other large game and mammal species .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I wish
+Leaf:  N Elaborate there were harsher penalties
+Leaf:  S span for killing these beautiful animals .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is startling the way', None, None, None, 0), ('that poachers and even the majority of people look at animal conservation .', None, None, None, 1), ('Humans seem to be one of the most parasitic species', None, None, None, 0), ('that I have ever observed .', None, None, None, 1), ('Humans have poached and over-consumed', None, None, None, 0), ('for as long', None, None, None, 0), ('as we have known', None, None, None, 0), ('this to be a problem .', None, None, None, 1), ('If people do not take notice', None, None, None, 0), ('and make this cause a forefront in our minds I believe', None, None, None, 0), ('that we will wipe out the Rhino population as well as other large game and mammal species .', None, None, None, 1), ('I wish', None, None, None, 0), ('there were harsher penalties', None, None, None, 0), ('for killing these beautiful animals .', None, None, None, 1)]

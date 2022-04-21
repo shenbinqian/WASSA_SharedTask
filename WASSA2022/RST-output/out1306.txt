@@ -1,0 +1,33 @@
+=====================> [[('Lockets with blood ?', None, None, None, 1), ('Dang ,', None, None, None, 0), ('that is kind of creepy and weird guys ,', None, None, None, 0), ('but oh well , they were in love .', None, None, None, 1), ('People do crazy things', None, None, None, 0), ('when they are in love .', None, None, None, 1), ('Now , the fact', None, None, None, 0), ('that this guy never felt enough', None, None, None, 0), ('indicates', None, None, None, 0), ('auto esteem issues ,', None, None, None, 0), ('she is not God ,', None, None, None, 0), ('dude .', None, None, None, 1), ('I still can not believe', None, None, None, 0), ('Brangelina is over ,', None, None, None, 0), ('they were end game to me ,', None, None, None, 0), ('but oh well , guess you can not force things .', None, None, None, 1)]]
+Leaf:  N Evaluation Lockets with blood ?
+Leaf:  N Evaluation Dang ,
+Leaf:  S span that is kind of creepy and weird guys ,
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span but oh well , they were in love .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Background People do crazy things
+Leaf:  S span when they are in love .
+Inner:  N Evaluation None Background NS
+Leaf:  N Elaborate Now , the fact
+Leaf:  S span that this guy never felt enough
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit indicates
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Evaluation auto esteem issues ,
+Leaf:  S span she is not God ,
+Inner:  N Same-Unit None Evaluation NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span dude .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I still can not believe
+Leaf:  N Attribution Brangelina is over ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span they were end game to me ,
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span but oh well , guess you can not force things .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Lockets with blood ?', None, None, None, 1), ('Dang ,', None, None, None, 0), ('that is kind of creepy and weird guys ,', None, None, None, 0), ('but oh well , they were in love .', None, None, None, 1), ('People do crazy things', None, None, None, 0), ('when they are in love .', None, None, None, 1), ('Now , the fact', None, None, None, 0), ('that this guy never felt enough', None, None, None, 0), ('indicates', None, None, None, 0), ('auto esteem issues ,', None, None, None, 0), ('she is not God ,', None, None, None, 0), ('dude .', None, None, None, 1), ('I still can not believe', None, None, None, 0), ('Brangelina is over ,', None, None, None, 0), ('they were end game to me ,', None, None, None, 0), ('but oh well , guess you can not force things .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('According to Dr. Jack Drescher , a leading specialist and critic of conversion therapy practices ,', None, None, None, 0), ('there is not just one set of practices', None, None, None, 0), ('understood to be used in conversion therapy .', None, None, None, 1), ('“ People have tried all kinds of things', None, None, None, 0), ('because none them really work , ”', None, None, None, 0), ('he told The Huffington Post .', None, None, None, 1), ('Drescher also said', None, None, None, 0), ('that the majority of research', None, None, None, 0), ('surrounding conversion therapy', None, None, None, 0), ('has taken place on adults', None, None, None, 0), ('who ’ve undergone the process ,', None, None, None, 0), ('and there is very little research surrounding LGBTQ youth who have been through conversation therapy practices . “ But of course you have anecdotal stories , ”', None, None, None, 0), ('he said . “ Some children have reported running away from home ,', None, None, None, 0), ('there have been cases in the news of young people', None, None, None, 0), ('of when their family found out about them', None, None, None, 0), ('or they came out', None, None, None, 0), ('and the family insisted', None, None, None, 0), ('they go to conversion therapy', None, None, None, 0)]]
+Leaf:  S span According to Dr. Jack Drescher , a leading specialist and critic of conversion therapy practices ,
+Leaf:  N Elaborate there is not just one set of practices
+Leaf:  S span understood to be used in conversion therapy .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Explanation “ People have tried all kinds of things
+Leaf:  S span because none them really work , ”
+Inner:  N Attribution None Explanation NS
+Leaf:  S span he told The Huffington Post .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span Drescher also said
+Leaf:  N Elaborate that the majority of research
+Leaf:  S span surrounding conversion therapy
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate has taken place on adults
+Leaf:  S span who ’ve undergone the process ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Attribution and there is very little research surrounding LGBTQ youth who have been through conversation therapy practices . “ But of course you have anecdotal stories , ”
+Leaf:  S span he said . “ Some children have reported running away from home ,
+Inner:  N Joint None Attribution NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate there have been cases in the news of young people
+Leaf:  S span of when their family found out about them
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint or they came out
+Leaf:  S span and the family insisted
+Leaf:  N Attribution they go to conversion therapy
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('According to Dr. Jack Drescher , a leading specialist and critic of conversion therapy practices ,', None, None, None, 0), ('there is not just one set of practices', None, None, None, 0), ('understood to be used in conversion therapy .', None, None, None, 1), ('“ People have tried all kinds of things', None, None, None, 0), ('because none them really work , ”', None, None, None, 0), ('he told The Huffington Post .', None, None, None, 1), ('Drescher also said', None, None, None, 0), ('that the majority of research', None, None, None, 0), ('surrounding conversion therapy', None, None, None, 0), ('has taken place on adults', None, None, None, 0), ('who ’ve undergone the process ,', None, None, None, 0), ('and there is very little research surrounding LGBTQ youth who have been through conversation therapy practices . “ But of course you have anecdotal stories , ”', None, None, None, 0), ('he said . “ Some children have reported running away from home ,', None, None, None, 0), ('there have been cases in the news of young people', None, None, None, 0), ('of when their family found out about them', None, None, None, 0), ('or they came out', None, None, None, 0), ('and the family insisted', None, None, None, 0), ('they go to conversion therapy', None, None, None, 0)]

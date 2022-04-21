@@ -1,0 +1,33 @@
+=====================> [[('I just can not even imagine something like that happening .', None, None, None, 1), ('What makes someone do such a horrible thing ?', None, None, None, 1), ('And especially when there were children on board ? Such a senseless act .', None, None, None, 1), ('How scared those individuals', None, None, None, 0), ('and the victim must have been', None, None, None, 0), ('when that was happening .', None, None, None, 1), ('It is a good thing that that guy was there', None, None, None, 0), ('to help the passengers get off the bus . A tragic event would have been even more tragic had he not been there to save those people .', None, None, None, 1), ('I feel bad', None, None, None, 0), ('because those individuals', None, None, None, 0), ('( including the guy who saved the passengers )', None, None, None, 0), ("are all now scarred for life and their lives will never be the same . Their lives have been turned upside down because of someone else 's senseless act and are forever traumatized by it .", None, None, None, 1), ('I hope those victims get the support', None, None, None, 0), ('they need', None, None, None, 0), ('and I hope', None, None, None, 0), ("that the driver 's family receives support", None, None, None, 0)]]
+Leaf:  N Evaluation I just can not even imagine something like that happening .
+Leaf:  N Joint What makes someone do such a horrible thing ?
+Leaf:  N Joint And especially when there were children on board ? Such a senseless act .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint How scared those individuals
+Leaf:  N Background and the victim must have been
+Leaf:  S span when that was happening .
+Inner:  N Joint None Background NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Enablement It is a good thing that that guy was there
+Leaf:  S span to help the passengers get off the bus . A tragic event would have been even more tragic had he not been there to save those people .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I feel bad
+Leaf:  N Elaborate because those individuals
+Leaf:  S span ( including the guy who saved the passengers )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are all now scarred for life and their lives will never be the same . Their lives have been turned upside down because of someone else 's senseless act and are forever traumatized by it .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I hope those victims get the support
+Leaf:  S span they need
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and I hope
+Leaf:  N Attribution that the driver 's family receives support
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I just can not even imagine something like that happening .', None, None, None, 1), ('What makes someone do such a horrible thing ?', None, None, None, 1), ('And especially when there were children on board ? Such a senseless act .', None, None, None, 1), ('How scared those individuals', None, None, None, 0), ('and the victim must have been', None, None, None, 0), ('when that was happening .', None, None, None, 1), ('It is a good thing that that guy was there', None, None, None, 0), ('to help the passengers get off the bus . A tragic event would have been even more tragic had he not been there to save those people .', None, None, None, 1), ('I feel bad', None, None, None, 0), ('because those individuals', None, None, None, 0), ('( including the guy who saved the passengers )', None, None, None, 0), ("are all now scarred for life and their lives will never be the same . Their lives have been turned upside down because of someone else 's senseless act and are forever traumatized by it .", None, None, None, 1), ('I hope those victims get the support', None, None, None, 0), ('they need', None, None, None, 0), ('and I hope', None, None, None, 0), ("that the driver 's family receives support", None, None, None, 0)]

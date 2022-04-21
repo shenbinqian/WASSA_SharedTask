@@ -1,0 +1,33 @@
+=====================> [[('I feel', None, None, None, 0), ('like a lot of artists do this', None, None, None, 0), ('or try to do this .', None, None, None, 1), ('Take credit for music or lyrics', None, None, None, 0), ('that others have helped with .', None, None, None, 1), ('This probably happeneds more', None, None, None, 0), ('then we know about .', None, None, None, 1), ('They just made an entire Disney movie on it . Coco . It basically was about 2 singers and the one killed the other', None, None, None, 0), ('so no one would know', None, None, None, 0), ('he made', None, None, None, 0), ('and wrote all the lyrics and music', None, None, None, 0), ('that the one guy stole .', None, None, None, 1), ('I mean any way', None, None, None, 0), ('you look at it', None, None, None, 0), ("it 's not right .", None, None, None, 1), ('The guy does serve and pay out and then some for what he has done to his friend .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Joint like a lot of artists do this
+Leaf:  N Joint or try to do this .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Take credit for music or lyrics
+Leaf:  S span that others have helped with .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Comparison This probably happeneds more
+Leaf:  S span then we know about .
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Cause They just made an entire Disney movie on it . Coco . It basically was about 2 singers and the one killed the other
+Leaf:  S span so no one would know
+Inner:  S span None Cause NS
+Leaf:  N Joint he made
+Leaf:  N Elaborate and wrote all the lyrics and music
+Leaf:  S span that the one guy stole .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I mean any way
+Leaf:  S span you look at it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit it 's not right .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The guy does serve and pay out and then some for what he has done to his friend .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('like a lot of artists do this', None, None, None, 0), ('or try to do this .', None, None, None, 1), ('Take credit for music or lyrics', None, None, None, 0), ('that others have helped with .', None, None, None, 1), ('This probably happeneds more', None, None, None, 0), ('then we know about .', None, None, None, 1), ('They just made an entire Disney movie on it . Coco . It basically was about 2 singers and the one killed the other', None, None, None, 0), ('so no one would know', None, None, None, 0), ('he made', None, None, None, 0), ('and wrote all the lyrics and music', None, None, None, 0), ('that the one guy stole .', None, None, None, 1), ('I mean any way', None, None, None, 0), ('you look at it', None, None, None, 0), ("it 's not right .", None, None, None, 1), ('The guy does serve and pay out and then some for what he has done to his friend .', None, None, None, 1)]

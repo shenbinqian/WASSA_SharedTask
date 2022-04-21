@@ -1,0 +1,25 @@
+=====================> [[('There is people', None, None, None, 0), ('starving and going without any food .', None, None, None, 1), ('Some of these people used to have jobs', None, None, None, 0), ('and ate well', None, None, None, 0), ('before they fell on bad times .', None, None, None, 1), ('They are suffering', None, None, None, 0), ('and going without basic nessicities .', None, None, None, 1), ('One mother went as far', None, None, None, 0), ('as trying to boil grass for her children', None, None, None, 0), ('to eat .', None, None, None, 1), ('I cant imagine lacking so much nutrition', None, None, None, 0), ('and suffering so bad', None, None, None, 0)]]
+Leaf:  N Elaborate There is people
+Leaf:  S span starving and going without any food .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Some of these people used to have jobs
+Leaf:  N Temporal and ate well
+Leaf:  S span before they fell on bad times .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They are suffering
+Leaf:  N Joint and going without basic nessicities .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate One mother went as far
+Leaf:  N Enablement as trying to boil grass for her children
+Leaf:  S span to eat .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause I cant imagine lacking so much nutrition
+Leaf:  S span and suffering so bad
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('There is people', None, None, None, 0), ('starving and going without any food .', None, None, None, 1), ('Some of these people used to have jobs', None, None, None, 0), ('and ate well', None, None, None, 0), ('before they fell on bad times .', None, None, None, 1), ('They are suffering', None, None, None, 0), ('and going without basic nessicities .', None, None, None, 1), ('One mother went as far', None, None, None, 0), ('as trying to boil grass for her children', None, None, None, 0), ('to eat .', None, None, None, 1), ('I cant imagine lacking so much nutrition', None, None, None, 0), ('and suffering so bad', None, None, None, 0)]

@@ -1,0 +1,45 @@
+=====================> [[('I just read a really sad story about a kid', None, None, None, 0), ('who got lost', None, None, None, 0), ('while hiking in Vietnam .', None, None, None, 1), ('You should read it .', None, None, None, 1), ("It 's frustrating", None, None, None, 0), ('because he made a number of very basic errors', None, None, None, 0), ('that even the young kids in my scouting group know to avoid .', None, None, None, 1), ('He was alone .', None, None, None, 1), ('He lacked proper gear', None, None, None, 0), ('to survive changes in weather .', None, None, None, 1), ('He did not know his route .', None, None, None, 1), ('When he got lost , he kept moving instead of staying put .', None, None, None, 1), ('He also failed to let rescuers come to him . He could very easily have been stayed', None, None, None, 0), ('if he had made all of these error s and just stayed put .', None, None, None, 1), ("I hope his friend does n't feel too much guilt over this . It 's not her fault", None, None, None, 0), ('but judging from the article ,', None, None, None, 0), ('she blames herself .', None, None, None, 1), ("I ca n't imagine what his parents are going through .", None, None, None, 1), ('My mom is always worried', None, None, None, 0), ('when I go backpacking', None, None, None, 0), ("and she 'd go crazy", None, None, None, 0), ('if anything like this happened to me .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a really sad story about a kid
+Leaf:  N Temporal who got lost
+Leaf:  N Temporal while hiking in Vietnam .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span You should read it .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation It 's frustrating
+Leaf:  N Elaborate because he made a number of very basic errors
+Leaf:  S span that even the young kids in my scouting group know to avoid .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint He was alone .
+Leaf:  N Enablement He lacked proper gear
+Leaf:  S span to survive changes in weather .
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint He did not know his route .
+Leaf:  N Joint When he got lost , he kept moving instead of staying put .
+Leaf:  S span He also failed to let rescuers come to him . He could very easily have been stayed
+Leaf:  N Condition if he had made all of these error s and just stayed put .
+Inner:  N Joint None Condition SN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope his friend does n't feel too much guilt over this . It 's not her fault
+Leaf:  S span but judging from the article ,
+Leaf:  N Contrast she blames herself .
+Inner:  N Contrast None Contrast SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I ca n't imagine what his parents are going through .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal My mom is always worried
+Leaf:  S span when I go backpacking
+Leaf:  N Condition and she 'd go crazy
+Leaf:  S span if anything like this happened to me .
+Inner:  N Background None Condition NS
+Inner:  S span None Background SN
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read a really sad story about a kid', None, None, None, 0), ('who got lost', None, None, None, 0), ('while hiking in Vietnam .', None, None, None, 1), ('You should read it .', None, None, None, 1), ("It 's frustrating", None, None, None, 0), ('because he made a number of very basic errors', None, None, None, 0), ('that even the young kids in my scouting group know to avoid .', None, None, None, 1), ('He was alone .', None, None, None, 1), ('He lacked proper gear', None, None, None, 0), ('to survive changes in weather .', None, None, None, 1), ('He did not know his route .', None, None, None, 1), ('When he got lost , he kept moving instead of staying put .', None, None, None, 1), ('He also failed to let rescuers come to him . He could very easily have been stayed', None, None, None, 0), ('if he had made all of these error s and just stayed put .', None, None, None, 1), ("I hope his friend does n't feel too much guilt over this . It 's not her fault", None, None, None, 0), ('but judging from the article ,', None, None, None, 0), ('she blames herself .', None, None, None, 1), ("I ca n't imagine what his parents are going through .", None, None, None, 1), ('My mom is always worried', None, None, None, 0), ('when I go backpacking', None, None, None, 0), ("and she 'd go crazy", None, None, None, 0), ('if anything like this happened to me .', None, None, None, 1)]

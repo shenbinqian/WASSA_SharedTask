@@ -1,0 +1,27 @@
+=====================> [[('I just read an article about an elementary school volunteer', None, None, None, 0), ('producing child porn with kids as young as NINE .', None, None, None, 1), ('This is absolutely disgusting .', None, None, None, 1), ('How can anyone violate our sweet children like that .', None, None, None, 1), ('He gave out cell phones', None, None, None, 0), ('and used an anonymous social media app', None, None, None, 0), ('to solicit videos and photos of boys and girls', None, None, None, 0), ('performing sexual acts :(', None, None, None, 0), ('I am so perturbed', None, None, None, 0), ('that people are so disgusting .', None, None, None, 1), ('I can promise you', None, None, None, 0), ('if this ever happens to any of my kids', None, None, None, 0), ('they are going to be a very sorry person .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about an elementary school volunteer
+Leaf:  S span producing child porn with kids as young as NINE .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This is absolutely disgusting .
+Leaf:  S span How can anyone violate our sweet children like that .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint He gave out cell phones
+Leaf:  N Enablement and used an anonymous social media app
+Leaf:  N Elaborate to solicit videos and photos of boys and girls
+Leaf:  S span performing sexual acts :(
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I am so perturbed
+Leaf:  N Condition that people are so disgusting .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I can promise you
+Leaf:  S span if this ever happens to any of my kids
+Leaf:  N Condition they are going to be a very sorry person .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I just read an article about an elementary school volunteer', None, None, None, 0), ('producing child porn with kids as young as NINE .', None, None, None, 1), ('This is absolutely disgusting .', None, None, None, 1), ('How can anyone violate our sweet children like that .', None, None, None, 1), ('He gave out cell phones', None, None, None, 0), ('and used an anonymous social media app', None, None, None, 0), ('to solicit videos and photos of boys and girls', None, None, None, 0), ('performing sexual acts :(', None, None, None, 0), ('I am so perturbed', None, None, None, 0), ('that people are so disgusting .', None, None, None, 1), ('I can promise you', None, None, None, 0), ('if this ever happens to any of my kids', None, None, None, 0), ('they are going to be a very sorry person .', None, None, None, 1)]

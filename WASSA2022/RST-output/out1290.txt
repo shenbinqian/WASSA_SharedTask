@@ -1,0 +1,19 @@
+=====================> [[('It disgusts me', None, None, None, 0), ('that this leak occurred ,', None, None, None, 0), ('there should have been a better contingency plan', None, None, None, 0), ('to stop all of those gallons oil from spilling .', None, None, None, 1), ('I feel so bad for the environment and the animals', None, None, None, 0), ('who well be negatively affected by this spill .', None, None, None, 1), ('I feel compassion for the people', None, None, None, 0), ('who rely on the oil ,', None, None, None, 0), ('and now have to pay inflated prices and search for gas .', None, None, None, 1)]]
+Leaf:  S span It disgusts me
+Leaf:  N Attribution that this leak occurred ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate there should have been a better contingency plan
+Leaf:  S span to stop all of those gallons oil from spilling .
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  N Elaborate I feel so bad for the environment and the animals
+Leaf:  S span who well be negatively affected by this spill .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate I feel compassion for the people
+Leaf:  N Joint who rely on the oil ,
+Leaf:  N Joint and now have to pay inflated prices and search for gas .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('It disgusts me', None, None, None, 0), ('that this leak occurred ,', None, None, None, 0), ('there should have been a better contingency plan', None, None, None, 0), ('to stop all of those gallons oil from spilling .', None, None, None, 1), ('I feel so bad for the environment and the animals', None, None, None, 0), ('who well be negatively affected by this spill .', None, None, None, 1), ('I feel compassion for the people', None, None, None, 0), ('who rely on the oil ,', None, None, None, 0), ('and now have to pay inflated prices and search for gas .', None, None, None, 1)]

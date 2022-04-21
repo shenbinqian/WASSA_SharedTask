@@ -1,0 +1,29 @@
+=====================> [[('It is a tragic articles about a really serious issue .', None, None, None, 1), ('The death toll is a lot', None, None, None, 0), ('and it is sad', None, None, None, 0), ('that it had to happen .', None, None, None, 1), ('I feel sympathy toward all the people and their family', None, None, None, 0), ('and you will find it sad too .', None, None, None, 1), ('It is a really serious issue', None, None, None, 0), ('that deserves attention', None, None, None, 0), ('and it is tragic the lengths', None, None, None, 0), ('that some people will go', None, None, None, 0), ('to get to safety and care for their loved ones .', None, None, None, 1), ('They are truly victims', None, None, None, 0), ('and are not at fault', None, None, None, 0), ('over what happened to them and their plight . It is heartbreaking .', None, None, None, 1)]]
+Leaf:  N Elaborate It is a tragic articles about a really serious issue .
+Leaf:  N Joint The death toll is a lot
+Leaf:  S span and it is sad
+Leaf:  N Attribution that it had to happen .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint I feel sympathy toward all the people and their family
+Leaf:  N Joint and you will find it sad too .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is a really serious issue
+Leaf:  S span that deserves attention
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and it is tragic the lengths
+Leaf:  N Enablement that some people will go
+Leaf:  S span to get to safety and care for their loved ones .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They are truly victims
+Leaf:  N Contrast and are not at fault
+Leaf:  S span over what happened to them and their plight . It is heartbreaking .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('It is a tragic articles about a really serious issue .', None, None, None, 1), ('The death toll is a lot', None, None, None, 0), ('and it is sad', None, None, None, 0), ('that it had to happen .', None, None, None, 1), ('I feel sympathy toward all the people and their family', None, None, None, 0), ('and you will find it sad too .', None, None, None, 1), ('It is a really serious issue', None, None, None, 0), ('that deserves attention', None, None, None, 0), ('and it is tragic the lengths', None, None, None, 0), ('that some people will go', None, None, None, 0), ('to get to safety and care for their loved ones .', None, None, None, 1), ('They are truly victims', None, None, None, 0), ('and are not at fault', None, None, None, 0), ('over what happened to them and their plight . It is heartbreaking .', None, None, None, 1)]

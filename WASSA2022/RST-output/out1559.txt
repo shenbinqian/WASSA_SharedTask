@@ -1,0 +1,33 @@
+=====================> [[('Major Issue :', None, None, None, 0), ('" Study :', None, None, None, 0), ('More toddlers and preschoolers are overdosing on opioids —', None, None, None, 0), ('In recent years , rates of toddlers and preschoolers', None, None, None, 0), ('hospitalized for opioid overdoses more than doubled ,', None, None, None, 0), ('according to a new study .', None, None, None, 1), ('In fact , overdoses rose more than 100 % over a 16-year period among all children , the study', None, None, None, 0), ('published in JAMA Pediatrics Oct. 31', None, None, None, 0), ('showed . Researchers from Yale School of Medicine analyzed national data from the Kids ’ Inpatient Database on children', None, None, None, 0), ('admitted to U.S. hospitals for opioid poisoning . The study focused on more than 13,000 records from patients ages 1 to 19 between 1997 to 2012 .', None, None, None, 1), ("What 's to blame ? Possibly the increase of prescribed pain killers ,", None, None, None, 0), ('including OxyContin and Vicodin .', None, None, None, 1), ('" Really ? Try doped up irresponsible parents', None, None, None, 0), ('who leave it', None, None, None, 0), ('lying around', None, None, None, 0), ('in the first place .', None, None, None, 1)]]
+Leaf:  N Elaborate Major Issue :
+Leaf:  N Elaborate " Study :
+Leaf:  N Elaborate More toddlers and preschoolers are overdosing on opioids —
+Leaf:  N Elaborate In recent years , rates of toddlers and preschoolers
+Leaf:  S span hospitalized for opioid overdoses more than doubled ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span according to a new study .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate In fact , overdoses rose more than 100 % over a 16-year period among all children , the study
+Leaf:  S span published in JAMA Pediatrics Oct. 31
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate showed . Researchers from Yale School of Medicine analyzed national data from the Kids ’ Inpatient Database on children
+Leaf:  S span admitted to U.S. hospitals for opioid poisoning . The study focused on more than 13,000 records from patients ages 1 to 19 between 1997 to 2012 .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate What 's to blame ? Possibly the increase of prescribed pain killers ,
+Leaf:  S span including OxyContin and Vicodin .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate " Really ? Try doped up irresponsible parents
+Leaf:  N Elaborate who leave it
+Leaf:  N Background lying around
+Leaf:  S span in the first place .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Major Issue :', None, None, None, 0), ('" Study :', None, None, None, 0), ('More toddlers and preschoolers are overdosing on opioids —', None, None, None, 0), ('In recent years , rates of toddlers and preschoolers', None, None, None, 0), ('hospitalized for opioid overdoses more than doubled ,', None, None, None, 0), ('according to a new study .', None, None, None, 1), ('In fact , overdoses rose more than 100 % over a 16-year period among all children , the study', None, None, None, 0), ('published in JAMA Pediatrics Oct. 31', None, None, None, 0), ('showed . Researchers from Yale School of Medicine analyzed national data from the Kids ’ Inpatient Database on children', None, None, None, 0), ('admitted to U.S. hospitals for opioid poisoning . The study focused on more than 13,000 records from patients ages 1 to 19 between 1997 to 2012 .', None, None, None, 1), ("What 's to blame ? Possibly the increase of prescribed pain killers ,", None, None, None, 0), ('including OxyContin and Vicodin .', None, None, None, 1), ('" Really ? Try doped up irresponsible parents', None, None, None, 0), ('who leave it', None, None, None, 0), ('lying around', None, None, None, 0), ('in the first place .', None, None, None, 1)]

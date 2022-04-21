@@ -1,0 +1,27 @@
+=====================> [[('I had no idea', None, None, None, 0), ('there is a stunning process', None, None, None, 0), ('when killing chickens ,', None, None, None, 0), ('but it makes sense .', None, None, None, 1), ('Unfortunately it seems to not work very well .', None, None, None, 1), ('For all these pieces of convoluted technology', None, None, None, 0), ('being used ,', None, None, None, 0), ('no one has been clever enough', None, None, None, 0), ('to think of the solution', None, None, None, 0), ('that we could eat less meat .', None, None, None, 1), ("Certainly it 's no secret that animal agriculture is terrible for the planet .", None, None, None, 1), ('Hopefully this will be the next piece in a long line of information', None, None, None, 0), ('pushing us towards vegetarianism .', None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Background there is a stunning process
+Leaf:  S span when killing chickens ,
+Inner:  N Attribution None Background NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span but it makes sense .
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast Unfortunately it seems to not work very well .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate For all these pieces of convoluted technology
+Leaf:  S span being used ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate no one has been clever enough
+Leaf:  N Elaborate to think of the solution
+Leaf:  S span that we could eat less meat .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Evaluation Certainly it 's no secret that animal agriculture is terrible for the planet .
+Leaf:  N Elaborate Hopefully this will be the next piece in a long line of information
+Leaf:  S span pushing us towards vegetarianism .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I had no idea', None, None, None, 0), ('there is a stunning process', None, None, None, 0), ('when killing chickens ,', None, None, None, 0), ('but it makes sense .', None, None, None, 1), ('Unfortunately it seems to not work very well .', None, None, None, 1), ('For all these pieces of convoluted technology', None, None, None, 0), ('being used ,', None, None, None, 0), ('no one has been clever enough', None, None, None, 0), ('to think of the solution', None, None, None, 0), ('that we could eat less meat .', None, None, None, 1), ("Certainly it 's no secret that animal agriculture is terrible for the planet .", None, None, None, 1), ('Hopefully this will be the next piece in a long line of information', None, None, None, 0), ('pushing us towards vegetarianism .', None, None, None, 1)]

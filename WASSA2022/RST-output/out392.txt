@@ -1,0 +1,27 @@
+=====================> [[('I like some of these new approaches', None, None, None, 0), ('to reducing the harmful effects of bullying ,', None, None, None, 0), ("but it 's still not enough .", None, None, None, 1), ('Just having a shocking video', None, None, None, 0), ('that raises awareness', None, None, None, 0), ("does n't help the problem from starting ,", None, None, None, 0), ('just helps us react to it quicker . We need to keep building programs', None, None, None, 0), ('that are designed to support our children ,', None, None, None, 0), ('but we need to do it', None, None, None, 0), ('before they start to bully', None, None, None, 0), ('( or be bullied ) . So many of our anti-bullying stories talk about standing up to them', None, None, None, 0), ('and bullying back ...', None, None, None, 1), ('that is not the way !', None, None, None, 1)]]
+Leaf:  N Elaborate I like some of these new approaches
+Leaf:  S span to reducing the harmful effects of bullying ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but it 's still not enough .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate Just having a shocking video
+Leaf:  S span that raises awareness
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit does n't help the problem from starting ,
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Elaborate just helps us react to it quicker . We need to keep building programs
+Leaf:  S span that are designed to support our children ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span but we need to do it
+Inner:  S span None Contrast NS
+Leaf:  N Joint before they start to bully
+Leaf:  N Joint ( or be bullied ) . So many of our anti-bullying stories talk about standing up to them
+Leaf:  N Joint and bullying back ...
+Inner:  N Joint None Joint NN
+Inner:  N Condition None Joint NN
+Inner:  N Evaluation None Condition SN
+Leaf:  S span that is not the way !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I like some of these new approaches', None, None, None, 0), ('to reducing the harmful effects of bullying ,', None, None, None, 0), ("but it 's still not enough .", None, None, None, 1), ('Just having a shocking video', None, None, None, 0), ('that raises awareness', None, None, None, 0), ("does n't help the problem from starting ,", None, None, None, 0), ('just helps us react to it quicker . We need to keep building programs', None, None, None, 0), ('that are designed to support our children ,', None, None, None, 0), ('but we need to do it', None, None, None, 0), ('before they start to bully', None, None, None, 0), ('( or be bullied ) . So many of our anti-bullying stories talk about standing up to them', None, None, None, 0), ('and bullying back ...', None, None, None, 1), ('that is not the way !', None, None, None, 1)]

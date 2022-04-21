@@ -1,0 +1,25 @@
+=====================> [[('The Somali peope are suffering greatly .', None, None, None, 1), ('I feel so bad', None, None, None, 0), ('for what they have had to go through over the past while .', None, None, None, 1), ("Donald Trump does n't have enough mercy or understanding", None, None, None, 0), ('for what they are going through .', None, None, None, 1), ('The United States may offer some help , but not nearly enough .', None, None, None, 1), ('They will be in poverty likely their entire lives ,', None, None, None, 0), ('and it is just not fair . There must be a way', None, None, None, 0), ('to test', None, None, None, 0), ('to see', None, None, None, 0), ('if they are dangerous ,', None, None, None, 0), ('and if not they should be welcomed into our country .', None, None, None, 1)]]
+Leaf:  N Elaborate The Somali peope are suffering greatly .
+Leaf:  N Elaborate I feel so bad
+Leaf:  S span for what they have had to go through over the past while .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Donald Trump does n't have enough mercy or understanding
+Leaf:  S span for what they are going through .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation The United States may offer some help , but not nearly enough .
+Leaf:  N Evaluation They will be in poverty likely their entire lives ,
+Leaf:  N Elaborate and it is just not fair . There must be a way
+Leaf:  N Enablement to test
+Leaf:  S span to see
+Leaf:  N Joint if they are dangerous ,
+Leaf:  N Joint and if not they should be welcomed into our country .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('The Somali peope are suffering greatly .', None, None, None, 1), ('I feel so bad', None, None, None, 0), ('for what they have had to go through over the past while .', None, None, None, 1), ("Donald Trump does n't have enough mercy or understanding", None, None, None, 0), ('for what they are going through .', None, None, None, 1), ('The United States may offer some help , but not nearly enough .', None, None, None, 1), ('They will be in poverty likely their entire lives ,', None, None, None, 0), ('and it is just not fair . There must be a way', None, None, None, 0), ('to test', None, None, None, 0), ('to see', None, None, None, 0), ('if they are dangerous ,', None, None, None, 0), ('and if not they should be welcomed into our country .', None, None, None, 1)]

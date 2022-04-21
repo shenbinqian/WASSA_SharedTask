@@ -1,0 +1,33 @@
+=====================> [[('Though all people', None, None, None, 0), ('who flee conflict', None, None, None, 0), ('can be called refugees ,', None, None, None, 0), ('refugee agencies commonly distinguish between refugees and internally displaced persons', None, None, None, 0), ('( IDPs )', None, None, None, 0), ('to decide who is covered by international law', None, None, None, 0), ('and receives assistance', None, None, None, 0), ("and who does n't . For the most part , little assistance reaches a person", None, None, None, 0), ('fleeing a conflict', None, None, None, 0), ('until he or she crosses an international border . The United Nations High Commissioner for Refugees ( UNHCR ) , established in 1950 , distinguishes refugees and IDPs this way :', None, None, None, 0), ('" When a fleeing civilian crosses an international frontier ,', None, None, None, 0), ('he or she becomes a refugee', None, None, None, 0), ('and as such is eligible to receive international protection and help .', None, None, None, 1), ('If a person in similar circumstances is displaced within his or her home country', None, None, None, 0), ('and becomes an internally displaced person ,', None, None, None, 0), ('then assistance and protection', None, None, None, 0)]]
+Leaf:  N Elaborate Though all people
+Leaf:  S span who flee conflict
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can be called refugees ,
+Inner:  S span None Same-Unit NN
+Leaf:  N Summary refugee agencies commonly distinguish between refugees and internally displaced persons
+Leaf:  S span ( IDPs )
+Inner:  N Enablement None Summary NS
+Leaf:  N Joint to decide who is covered by international law
+Leaf:  N Joint and receives assistance
+Inner:  N Condition None Joint NN
+Leaf:  N Elaborate and who does n't . For the most part , little assistance reaches a person
+Leaf:  S span fleeing a conflict
+Inner:  N Condition None Elaborate NS
+Leaf:  S span until he or she crosses an international border . The United Nations High Commissioner for Refugees ( UNHCR ) , established in 1950 , distinguishes refugees and IDPs this way :
+Inner:  N Condition None Condition NS
+Inner:  N Elaborate None Condition NN
+Leaf:  S span " When a fleeing civilian crosses an international frontier ,
+Leaf:  N Cause he or she becomes a refugee
+Leaf:  S span and as such is eligible to receive international protection and help .
+Inner:  N Condition None Cause NS
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Enablement NS
+Inner:  N Comparison None Contrast SN
+Leaf:  N Evaluation If a person in similar circumstances is displaced within his or her home country
+Leaf:  N Evaluation and becomes an internally displaced person ,
+Inner:  S span None Evaluation NN
+Leaf:  N Condition then assistance and protection
+Inner:  N Comparison None Condition SN
+Inner:  Root None None Comparison NN
+[('Though all people', None, None, None, 0), ('who flee conflict', None, None, None, 0), ('can be called refugees ,', None, None, None, 0), ('refugee agencies commonly distinguish between refugees and internally displaced persons', None, None, None, 0), ('( IDPs )', None, None, None, 0), ('to decide who is covered by international law', None, None, None, 0), ('and receives assistance', None, None, None, 0), ("and who does n't . For the most part , little assistance reaches a person", None, None, None, 0), ('fleeing a conflict', None, None, None, 0), ('until he or she crosses an international border . The United Nations High Commissioner for Refugees ( UNHCR ) , established in 1950 , distinguishes refugees and IDPs this way :', None, None, None, 0), ('" When a fleeing civilian crosses an international frontier ,', None, None, None, 0), ('he or she becomes a refugee', None, None, None, 0), ('and as such is eligible to receive international protection and help .', None, None, None, 1), ('If a person in similar circumstances is displaced within his or her home country', None, None, None, 0), ('and becomes an internally displaced person ,', None, None, None, 0), ('then assistance and protection', None, None, None, 0)]

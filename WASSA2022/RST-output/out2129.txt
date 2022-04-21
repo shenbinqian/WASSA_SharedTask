@@ -1,0 +1,25 @@
+=====================> [[('I can understand', None, None, None, 0), ('why the Jewish community would be concerned', None, None, None, 0), ('and gathering together for prayer', None, None, None, 0), ('after hearing the election results .', None, None, None, 1), ("I do n't agree with comparing Trump to the Hitler era though .", None, None, None, 1), ("He has n't set up concentration camps ,", None, None, None, 0), ('and it was quite an exaggeration .', None, None, None, 1), ('No matter the outcome of the election , there would have been uproar from some outliers', None, None, None, 0), ('that would rebel and graffiti .', None, None, None, 1), ('Everyone in America deserves to have a voice though ,', None, None, None, 0), ('and their concerns were done in a peaceful way ,', None, None, None, 0), ('which I appreciate .', None, None, None, 1)]]
+Leaf:  S span I can understand
+Leaf:  N Joint why the Jewish community would be concerned
+Leaf:  N Joint and gathering together for prayer
+Inner:  N Background None Joint NN
+Leaf:  S span after hearing the election results .
+Inner:  N Attribution None Background NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate I do n't agree with comparing Trump to the Hitler era though .
+Leaf:  N Evaluation He has n't set up concentration camps ,
+Leaf:  S span and it was quite an exaggeration .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate No matter the outcome of the election , there would have been uproar from some outliers
+Leaf:  S span that would rebel and graffiti .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Joint Everyone in America deserves to have a voice though ,
+Leaf:  N Evaluation and their concerns were done in a peaceful way ,
+Leaf:  S span which I appreciate .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I can understand', None, None, None, 0), ('why the Jewish community would be concerned', None, None, None, 0), ('and gathering together for prayer', None, None, None, 0), ('after hearing the election results .', None, None, None, 1), ("I do n't agree with comparing Trump to the Hitler era though .", None, None, None, 1), ("He has n't set up concentration camps ,", None, None, None, 0), ('and it was quite an exaggeration .', None, None, None, 1), ('No matter the outcome of the election , there would have been uproar from some outliers', None, None, None, 0), ('that would rebel and graffiti .', None, None, None, 1), ('Everyone in America deserves to have a voice though ,', None, None, None, 0), ('and their concerns were done in a peaceful way ,', None, None, None, 0), ('which I appreciate .', None, None, None, 1)]

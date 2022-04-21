@@ -1,0 +1,33 @@
+=====================> [[('Global warming is really serious .', None, None, None, 1), ('Sometimes I think ,', None, None, None, 0), ('is this a good time', None, None, None, 0), ('for having kids ?', None, None, None, 1), ("I do n't want my kids have a chaotic world , full of adversity and contamination .", None, None, None, 1), ('Also , I think', None, None, None, 0), ('my nation is in " control " for now ,', None, None, None, 0), ('but future seem different .', None, None, None, 1), ("People now do n't care about being correct and helpful to everyone , a lot of people is dishonest and disloyal .", None, None, None, 1), ('We need a society', None, None, None, 0), ('that we can trust .', None, None, None, 1), ('Our world is extremely corrupt ,', None, None, None, 0), ('I think', None, None, None, 0), ('this can be change', None, None, None, 0), ('if we gave enough education to all generations', None, None, None, 0), ('since they are kids .', None, None, None, 1)]]
+Leaf:  N Summary Global warming is really serious .
+Leaf:  S span Sometimes I think ,
+Leaf:  N Elaborate is this a good time
+Leaf:  S span for having kids ?
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint I do n't want my kids have a chaotic world , full of adversity and contamination .
+Leaf:  S span Also , I think
+Leaf:  N Attribution my nation is in " control " for now ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but future seem different .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Evaluation People now do n't care about being correct and helpful to everyone , a lot of people is dishonest and disloyal .
+Leaf:  N Elaborate We need a society
+Leaf:  S span that we can trust .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation Our world is extremely corrupt ,
+Leaf:  S span I think
+Leaf:  N Condition this can be change
+Leaf:  N Background if we gave enough education to all generations
+Leaf:  S span since they are kids .
+Inner:  S span None Background NS
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Global warming is really serious .', None, None, None, 1), ('Sometimes I think ,', None, None, None, 0), ('is this a good time', None, None, None, 0), ('for having kids ?', None, None, None, 1), ("I do n't want my kids have a chaotic world , full of adversity and contamination .", None, None, None, 1), ('Also , I think', None, None, None, 0), ('my nation is in " control " for now ,', None, None, None, 0), ('but future seem different .', None, None, None, 1), ("People now do n't care about being correct and helpful to everyone , a lot of people is dishonest and disloyal .", None, None, None, 1), ('We need a society', None, None, None, 0), ('that we can trust .', None, None, None, 1), ('Our world is extremely corrupt ,', None, None, None, 0), ('I think', None, None, None, 0), ('this can be change', None, None, None, 0), ('if we gave enough education to all generations', None, None, None, 0), ('since they are kids .', None, None, None, 1)]

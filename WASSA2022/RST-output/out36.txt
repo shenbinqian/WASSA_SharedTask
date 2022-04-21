@@ -1,0 +1,21 @@
+=====================> [[("Here 's an article about crazed person", None, None, None, 0), ('who murdered two unfortunate women overseas .', None, None, None, 1), ('Life is crazy .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what the families are going through .', None, None, None, 1), ('Having to go to or being forced into sex work is bad enough ,', None, None, None, 0), ('but for it to end', None, None, None, 0), ('like this is just sad .', None, None, None, 1), ("It feels like there 's no place safe in this world", None, None, None, 0), ('to be a woman sometimes .', None, None, None, 1)]]
+Leaf:  N Elaborate Here 's an article about crazed person
+Leaf:  S span who murdered two unfortunate women overseas .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Life is crazy .
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution what the families are going through .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Having to go to or being forced into sex work is bad enough ,
+Leaf:  N Elaborate but for it to end
+Leaf:  S span like this is just sad .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate It feels like there 's no place safe in this world
+Leaf:  S span to be a woman sometimes .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("Here 's an article about crazed person", None, None, None, 0), ('who murdered two unfortunate women overseas .', None, None, None, 1), ('Life is crazy .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what the families are going through .', None, None, None, 1), ('Having to go to or being forced into sex work is bad enough ,', None, None, None, 0), ('but for it to end', None, None, None, 0), ('like this is just sad .', None, None, None, 1), ("It feels like there 's no place safe in this world", None, None, None, 0), ('to be a woman sometimes .', None, None, None, 1)]

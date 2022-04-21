@@ -1,0 +1,27 @@
+=====================> [[("It really does n't make since to me", None, None, None, 0), ('that someone would come to America', None, None, None, 0), ('and then carry out terrorist attacks .', None, None, None, 1), ('I would think', None, None, None, 0), ('they would stay in their own country', None, None, None, 0), ('if they hated this one so much .', None, None, None, 1), ('So I really wonder', None, None, None, 0), ('who the supposed terrorist are . The news media and government would have to do a better job', None, None, None, 0), ('explaining why the " terrorist " are carrying out these attacks', None, None, None, 0), ('because the reasons', None, None, None, 0), ('that they give', None, None, None, 0), ("does n't make much sense to me .", None, None, None, 1), ('It just creates even more questions than answers .', None, None, None, 1)]]
+Leaf:  S span It really does n't make since to me
+Leaf:  N Temporal that someone would come to America
+Leaf:  N Temporal and then carry out terrorist attacks .
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I would think
+Leaf:  N Condition they would stay in their own country
+Leaf:  S span if they hated this one so much .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Cause None Evaluation NS
+Leaf:  S span So I really wonder
+Leaf:  N Elaborate who the supposed terrorist are . The news media and government would have to do a better job
+Leaf:  S span explaining why the " terrorist " are carrying out these attacks
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate because the reasons
+Leaf:  S span that they give
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit does n't make much sense to me .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Explanation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It just creates even more questions than answers .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[("It really does n't make since to me", None, None, None, 0), ('that someone would come to America', None, None, None, 0), ('and then carry out terrorist attacks .', None, None, None, 1), ('I would think', None, None, None, 0), ('they would stay in their own country', None, None, None, 0), ('if they hated this one so much .', None, None, None, 1), ('So I really wonder', None, None, None, 0), ('who the supposed terrorist are . The news media and government would have to do a better job', None, None, None, 0), ('explaining why the " terrorist " are carrying out these attacks', None, None, None, 0), ('because the reasons', None, None, None, 0), ('that they give', None, None, None, 0), ("does n't make much sense to me .", None, None, None, 1), ('It just creates even more questions than answers .', None, None, None, 1)]

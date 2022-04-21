@@ -1,0 +1,15 @@
+=====================> [[('Friends and family , this is another tragic incident .', None, None, None, 1), ('This involves a troubled boy', None, None, None, 0), ('who was literally body slammed by a teacher .', None, None, None, 1), ('He then was rushed to the hospital', None, None, None, 0), ('but they could not do much for him even through all of their best efforts . In the end he had to have his leg removed .', None, None, None, 1), ('This is tragic', None, None, None, 0), ('and we should seek justice for this child !', None, None, None, 1)]]
+Leaf:  N Elaborate Friends and family , this is another tragic incident .
+Leaf:  N Elaborate This involves a troubled boy
+Leaf:  S span who was literally body slammed by a teacher .
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Contrast He then was rushed to the hospital
+Leaf:  S span but they could not do much for him even through all of their best efforts . In the end he had to have his leg removed .
+Inner:  N Temporal None Contrast NS
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This is tragic
+Leaf:  S span and we should seek justice for this child !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Friends and family , this is another tragic incident .', None, None, None, 1), ('This involves a troubled boy', None, None, None, 0), ('who was literally body slammed by a teacher .', None, None, None, 1), ('He then was rushed to the hospital', None, None, None, 0), ('but they could not do much for him even through all of their best efforts . In the end he had to have his leg removed .', None, None, None, 1), ('This is tragic', None, None, None, 0), ('and we should seek justice for this child !', None, None, None, 1)]

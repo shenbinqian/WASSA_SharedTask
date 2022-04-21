@@ -1,0 +1,25 @@
+=====================> [[('well first of all whoever wrote', None, None, None, 0), ("this article does n't know", None, None, None, 0), ('how to properly divide an article into paragraphs ,', None, None, None, 0), ('which made reading this article extremely painful ,', None, None, None, 0), ('but nonetheless I do know', None, None, None, 0), ('after reading the article', None, None, None, 0), ('that Zika virus tend to stay in semen and vaginal fluid for extended amount of time ,', None, None, None, 0), ("so it 's obvious do n't mate with people", None, None, None, 0), ('who have zika virus ,', None, None, None, 0), ("and do n't even think", None, None, None, 0), ('about having a baby ,', None, None, None, 0), ("they 're going to be defective", None, None, None, 0)]]
+Leaf:  S span well first of all whoever wrote
+Leaf:  S span this article does n't know
+Leaf:  N Attribution how to properly divide an article into paragraphs ,
+Inner:  N Attribution None Attribution SN
+Inner:  N Cause None Attribution SN
+Leaf:  S span which made reading this article extremely painful ,
+Inner:  N Evaluation None Cause NS
+Leaf:  N Attribution but nonetheless I do know
+Leaf:  S span after reading the article
+Inner:  S span None Attribution NS
+Leaf:  N Attribution that Zika virus tend to stay in semen and vaginal fluid for extended amount of time ,
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate so it 's obvious do n't mate with people
+Leaf:  S span who have zika virus ,
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and do n't even think
+Leaf:  N Elaborate about having a baby ,
+Inner:  N Joint None Elaborate SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span they 're going to be defective
+Inner:  S span None Evaluation NS
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('well first of all whoever wrote', None, None, None, 0), ("this article does n't know", None, None, None, 0), ('how to properly divide an article into paragraphs ,', None, None, None, 0), ('which made reading this article extremely painful ,', None, None, None, 0), ('but nonetheless I do know', None, None, None, 0), ('after reading the article', None, None, None, 0), ('that Zika virus tend to stay in semen and vaginal fluid for extended amount of time ,', None, None, None, 0), ("so it 's obvious do n't mate with people", None, None, None, 0), ('who have zika virus ,', None, None, None, 0), ("and do n't even think", None, None, None, 0), ('about having a baby ,', None, None, None, 0), ("they 're going to be defective", None, None, None, 0)]

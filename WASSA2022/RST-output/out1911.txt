@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('that this is pretty sad .', None, None, None, 1), ('I definitely think', None, None, None, 0), ('that there should be a lot more empathy for these people .', None, None, None, 1), ('Say what you will ,', None, None, None, 0), ("but to me it 's just another example of the haves", None, None, None, 0), ('keeping the have nots as far down as possible .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how this article makes you feel', None, None, None, 0), ('and I am really curious to hear your opinions on the matter .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution that this is pretty sad .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I definitely think
+Leaf:  N Attribution that there should be a lot more empathy for these people .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Say what you will ,
+Leaf:  N Elaborate but to me it 's just another example of the haves
+Leaf:  S span keeping the have nots as far down as possible .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I wonder
+Leaf:  N Joint how this article makes you feel
+Leaf:  N Joint and I am really curious to hear your opinions on the matter .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('that this is pretty sad .', None, None, None, 1), ('I definitely think', None, None, None, 0), ('that there should be a lot more empathy for these people .', None, None, None, 1), ('Say what you will ,', None, None, None, 0), ("but to me it 's just another example of the haves", None, None, None, 0), ('keeping the have nots as far down as possible .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how this article makes you feel', None, None, None, 0), ('and I am really curious to hear your opinions on the matter .', None, None, None, 1)]

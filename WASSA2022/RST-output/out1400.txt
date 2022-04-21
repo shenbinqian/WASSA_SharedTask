@@ -1,0 +1,25 @@
+=====================> [[('It is terrible that our political system is so dysfunctional', None, None, None, 0), ('that one man can cause so much harm arounf the world .', None, None, None, 1), ('The result of American ignorance will mean a great deal of pain in many lives ,', None, None, None, 0), ('including those of our next-door neighbor .', None, None, None, 1), ('I wish we valued experts more such', None, None, None, 0), ('that we could introduce policies', None, None, None, 0), ('that help all people', None, None, None, 0), ('-- which is quite possible . Diplomacy and politics are not a zero-sum game :', None, None, None, 0), ('there are no enemies', None, None, None, 0), ('unless we create them .', None, None, None, 1), ('All people have value', None, None, None, 0), ('and choosing knee-jerk hate will only harm us in the long run .', None, None, None, 1)]]
+Leaf:  N Cause It is terrible that our political system is so dysfunctional
+Leaf:  S span that one man can cause so much harm arounf the world .
+Inner:  N Cause None Cause NS
+Leaf:  N Elaborate The result of American ignorance will mean a great deal of pain in many lives ,
+Leaf:  S span including those of our next-door neighbor .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Enablement I wish we valued experts more such
+Leaf:  N Elaborate that we could introduce policies
+Leaf:  S span that help all people
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span -- which is quite possible . Diplomacy and politics are not a zero-sum game :
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Condition there are no enemies
+Leaf:  S span unless we create them .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Joint All people have value
+Leaf:  N Joint and choosing knee-jerk hate will only harm us in the long run .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It is terrible that our political system is so dysfunctional', None, None, None, 0), ('that one man can cause so much harm arounf the world .', None, None, None, 1), ('The result of American ignorance will mean a great deal of pain in many lives ,', None, None, None, 0), ('including those of our next-door neighbor .', None, None, None, 1), ('I wish we valued experts more such', None, None, None, 0), ('that we could introduce policies', None, None, None, 0), ('that help all people', None, None, None, 0), ('-- which is quite possible . Diplomacy and politics are not a zero-sum game :', None, None, None, 0), ('there are no enemies', None, None, None, 0), ('unless we create them .', None, None, None, 1), ('All people have value', None, None, None, 0), ('and choosing knee-jerk hate will only harm us in the long run .', None, None, None, 1)]

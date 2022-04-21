@@ -1,0 +1,35 @@
+=====================> [[('I found a story about Kate Beckinsale and her husband , Len Wiseman ,', None, None, None, 0), ('they have pulled the plug on their marriage', None, None, None, 0), ('...', None, None, None, 1), ('TMZ has learned .', None, None, None, 1), ('Wiseman cited irreconcilable differences .', None, None, None, 1), ('His docs state both he and Kate have waived any right to spousal support ,', None, None, None, 0), ('and that suggests', None, None, None, 0), ("there 's a prenup .", None, None, None, 1), ('They were married in 2004', None, None, None, 0), ('and have no kids together .', None, None, None, 1), ('TMZ broke the story ...', None, None, None, 1), ("the couple 's marriage was on the rocks last November .", None, None, None, 1), ('Len was spotted out with model CJ Franco ,', None, None, None, 0), ('and Kate', None, None, None, 0), ('we seen shortly after', None, None, None, 0), ('-- sans wedding ring --', None, None, None, 0), ('on the red carpet .', None, None, None, 1)]]
+Leaf:  N Same-Unit I found a story about Kate Beckinsale and her husband , Len Wiseman ,
+Leaf:  N Same-Unit they have pulled the plug on their marriage
+Inner:  N Background None Same-Unit NN
+Leaf:  S span ...
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate TMZ has learned .
+Leaf:  S span Wiseman cited irreconcilable differences .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation His docs state both he and Kate have waived any right to spousal support ,
+Leaf:  S span and that suggests
+Leaf:  N Attribution there 's a prenup .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint They were married in 2004
+Leaf:  N Joint and have no kids together .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span TMZ broke the story ...
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span the couple 's marriage was on the rocks last November .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Len was spotted out with model CJ Franco ,
+Leaf:  N Elaborate and Kate
+Leaf:  N Elaborate we seen shortly after
+Leaf:  S span -- sans wedding ring --
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit on the red carpet .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I found a story about Kate Beckinsale and her husband , Len Wiseman ,', None, None, None, 0), ('they have pulled the plug on their marriage', None, None, None, 0), ('...', None, None, None, 1), ('TMZ has learned .', None, None, None, 1), ('Wiseman cited irreconcilable differences .', None, None, None, 1), ('His docs state both he and Kate have waived any right to spousal support ,', None, None, None, 0), ('and that suggests', None, None, None, 0), ("there 's a prenup .", None, None, None, 1), ('They were married in 2004', None, None, None, 0), ('and have no kids together .', None, None, None, 1), ('TMZ broke the story ...', None, None, None, 1), ("the couple 's marriage was on the rocks last November .", None, None, None, 1), ('Len was spotted out with model CJ Franco ,', None, None, None, 0), ('and Kate', None, None, None, 0), ('we seen shortly after', None, None, None, 0), ('-- sans wedding ring --', None, None, None, 0), ('on the red carpet .', None, None, None, 1)]

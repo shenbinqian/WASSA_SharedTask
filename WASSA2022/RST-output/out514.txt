@@ -1,0 +1,17 @@
+=====================> [[('This is sad on the surface ,', None, None, None, 0), ('that these two passed away', None, None, None, 0), ('while scuba diving at such an old age ,', None, None, None, 0), ('but then I consider it .', None, None, None, 1), ('These two people - lived their life together', None, None, None, 0), ('- went somewhere glorious', None, None, None, 0), ('and had a wonderful time on vacation together', None, None, None, 0), ('before passing . It is morbid , yes , but is it not also somewhat beautiful ?', None, None, None, 1)]]
+Leaf:  N Elaborate This is sad on the surface ,
+Leaf:  N Temporal that these two passed away
+Leaf:  S span while scuba diving at such an old age ,
+Inner:  S span None Temporal NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but then I consider it .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Joint These two people - lived their life together
+Leaf:  N Joint - went somewhere glorious
+Leaf:  N Joint and had a wonderful time on vacation together
+Inner:  N Temporal None Joint NN
+Leaf:  S span before passing . It is morbid , yes , but is it not also somewhat beautiful ?
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This is sad on the surface ,', None, None, None, 0), ('that these two passed away', None, None, None, 0), ('while scuba diving at such an old age ,', None, None, None, 0), ('but then I consider it .', None, None, None, 1), ('These two people - lived their life together', None, None, None, 0), ('- went somewhere glorious', None, None, None, 0), ('and had a wonderful time on vacation together', None, None, None, 0), ('before passing . It is morbid , yes , but is it not also somewhat beautiful ?', None, None, None, 1)]

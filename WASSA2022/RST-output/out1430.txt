@@ -1,0 +1,25 @@
+=====================> [[('People are still talking about Hillary Clinton', None, None, None, 0), ('....', None, None, None, 1), ('which is sooooooooo old news ...', None, None, None, 1), ('she lost fair and square', None, None, None, 0), ('and people just need to get over it .......', None, None, None, 1), ('She lost to Trump ,', None, None, None, 0), ("which means we definitely did n't want her as our president .", None, None, None, 1), ('She and everyone else needs to stop blaming everything and everyone else .........', None, None, None, 1), ('Lets all just do each other a favor', None, None, None, 0), ('and just pretend', None, None, None, 0), ('she never happened', None, None, None, 0), ('and just let her retire in silence .', None, None, None, 1)]]
+Leaf:  N Evaluation People are still talking about Hillary Clinton
+Leaf:  S span ....
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span which is sooooooooo old news ...
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint she lost fair and square
+Leaf:  N Joint and people just need to get over it .......
+Inner:  N Explanation None Joint NN
+Leaf:  S span She lost to Trump ,
+Leaf:  N Cause which means we definitely did n't want her as our president .
+Inner:  N Evaluation None Cause SN
+Leaf:  N Joint She and everyone else needs to stop blaming everything and everyone else .........
+Leaf:  N Joint Lets all just do each other a favor
+Leaf:  S span and just pretend
+Leaf:  N Attribution she never happened
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and just let her retire in silence .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('People are still talking about Hillary Clinton', None, None, None, 0), ('....', None, None, None, 1), ('which is sooooooooo old news ...', None, None, None, 1), ('she lost fair and square', None, None, None, 0), ('and people just need to get over it .......', None, None, None, 1), ('She lost to Trump ,', None, None, None, 0), ("which means we definitely did n't want her as our president .", None, None, None, 1), ('She and everyone else needs to stop blaming everything and everyone else .........', None, None, None, 1), ('Lets all just do each other a favor', None, None, None, 0), ('and just pretend', None, None, None, 0), ('she never happened', None, None, None, 0), ('and just let her retire in silence .', None, None, None, 1)]

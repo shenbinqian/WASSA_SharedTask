@@ -1,0 +1,23 @@
+=====================> [[('Kind of cool that researchers have found', None, None, None, 0), ('that bonobos tend to become farsighted', None, None, None, 0), ('as they age ,', None, None, None, 0), ('which is quite similar to humans .', None, None, None, 1), ('They also observed their grooming practices .', None, None, None, 1), ('Some even take turns', None, None, None, 0), ('grooming one another ,', None, None, None, 0), ('which is pretty cool .', None, None, None, 1), ('The article was extremely hard to read and understand , especially with it being written in one giant block ,', None, None, None, 0), ('so those are really the only key points', None, None, None, 0), ('I got from it .', None, None, None, 1)]]
+Leaf:  S span Kind of cool that researchers have found
+Leaf:  N Temporal that bonobos tend to become farsighted
+Leaf:  N Temporal as they age ,
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span which is quite similar to humans .
+Inner:  N Attribution None Evaluation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate They also observed their grooming practices .
+Leaf:  N Elaborate Some even take turns
+Leaf:  S span grooming one another ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span which is pretty cool .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The article was extremely hard to read and understand , especially with it being written in one giant block ,
+Leaf:  N Elaborate so those are really the only key points
+Leaf:  S span I got from it .
+Inner:  N Evaluation None Elaborate NS
+Inner:  S span None Evaluation SN
+Inner:  Root None None Evaluation NS
+[('Kind of cool that researchers have found', None, None, None, 0), ('that bonobos tend to become farsighted', None, None, None, 0), ('as they age ,', None, None, None, 0), ('which is quite similar to humans .', None, None, None, 1), ('They also observed their grooming practices .', None, None, None, 1), ('Some even take turns', None, None, None, 0), ('grooming one another ,', None, None, None, 0), ('which is pretty cool .', None, None, None, 1), ('The article was extremely hard to read and understand , especially with it being written in one giant block ,', None, None, None, 0), ('so those are really the only key points', None, None, None, 0), ('I got from it .', None, None, None, 1)]

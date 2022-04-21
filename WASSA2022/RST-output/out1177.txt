@@ -1,0 +1,25 @@
+=====================> [[('Hey , I know', None, None, None, 0), ('you asked me', None, None, None, 0), ('about what happened to that mother and her baby in New York', None, None, None, 0), ("and here 's the full article .", None, None, None, 1), ("It 's so sad", None, None, None, 0), ('...', None, None, None, 1), ('that baby could have lived their life to the fullest', None, None, None, 0), ("and now it 's cut short .", None, None, None, 1), ('The mother will have to grieve', None, None, None, 0), ('over what happened to ...', None, None, None, 1), ("It 's so sad", None, None, None, 0), ('that things like this happen .', None, None, None, 1)]]
+Leaf:  S span Hey , I know
+Leaf:  S span you asked me
+Leaf:  N Attribution about what happened to that mother and her baby in New York
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and here 's the full article .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation It 's so sad
+Leaf:  S span ...
+Inner:  N Explanation None Explanation NS
+Leaf:  S span that baby could have lived their life to the fullest
+Leaf:  N Contrast and now it 's cut short .
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Elaborate The mother will have to grieve
+Leaf:  S span over what happened to ...
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  S span It 's so sad
+Leaf:  N Attribution that things like this happen .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Hey , I know', None, None, None, 0), ('you asked me', None, None, None, 0), ('about what happened to that mother and her baby in New York', None, None, None, 0), ("and here 's the full article .", None, None, None, 1), ("It 's so sad", None, None, None, 0), ('...', None, None, None, 1), ('that baby could have lived their life to the fullest', None, None, None, 0), ("and now it 's cut short .", None, None, None, 1), ('The mother will have to grieve', None, None, None, 0), ('over what happened to ...', None, None, None, 1), ("It 's so sad", None, None, None, 0), ('that things like this happen .', None, None, None, 1)]

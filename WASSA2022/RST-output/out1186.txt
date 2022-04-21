@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('the girl may be as spy for another country .', None, None, None, 1), ('She sells the important information to another government .', None, None, None, 1), ('It may be leads to sever problem to the Pakistan Government . So , the Police Action is correct . The Police must be gathered from the girl .', None, None, None, 1), ('First thing is the girl did not the authorized person', None, None, None, 0), ('for enter this office .', None, None, None, 1), ('This is the first criminal activity . She theft the important information from the office .', None, None, None, 1), ('This is the severe criminal activity .', None, None, None, 1), ('So , the Girl must be punished severe .', None, None, None, 1), ('This is the big problem for the Government .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution the girl may be as spy for another country .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span She sells the important information to another government .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span It may be leads to sever problem to the Pakistan Government . So , the Police Action is correct . The Police must be gathered from the girl .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate First thing is the girl did not the authorized person
+Leaf:  S span for enter this office .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is the first criminal activity . She theft the important information from the office .
+Leaf:  S span This is the severe criminal activity .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span So , the Girl must be punished severe .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This is the big problem for the Government .
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('the girl may be as spy for another country .', None, None, None, 1), ('She sells the important information to another government .', None, None, None, 1), ('It may be leads to sever problem to the Pakistan Government . So , the Police Action is correct . The Police must be gathered from the girl .', None, None, None, 1), ('First thing is the girl did not the authorized person', None, None, None, 0), ('for enter this office .', None, None, None, 1), ('This is the first criminal activity . She theft the important information from the office .', None, None, None, 1), ('This is the severe criminal activity .', None, None, None, 1), ('So , the Girl must be punished severe .', None, None, None, 1), ('This is the big problem for the Government .', None, None, None, 1)]

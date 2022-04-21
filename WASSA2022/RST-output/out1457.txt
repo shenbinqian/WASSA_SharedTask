@@ -1,0 +1,31 @@
+=====================> [[('Wow , killing someone in public ?', None, None, None, 1), ('That takes some serious nerve .', None, None, None, 1), ("I do n't particularly know", None, None, None, 0), ('whether she is guilty or not ,', None, None, None, 0), ("but for it to be played out in the media is n't fair .", None, None, None, 1), ('While they may not have the same protections', None, None, None, 0), ('that the accused have in the United States ,', None, None, None, 0), ('they should still give her a new trial , something quiet , out of the public eye , maybe even outside of the country ,', None, None, None, 0), ('where she can get a fair trial', None, None, None, 0), ('based on the facts .', None, None, None, 1), ('If there is video of her spiking the coffee ,', None, None, None, 0), ('or any indication', None, None, None, 0), ('that she has had any contact with cyanide ,', None, None, None, 0), ('then I say', None, None, None, 0), ('she should get a retrial .', None, None, None, 1)]]
+Leaf:  N Evaluation Wow , killing someone in public ?
+Leaf:  S span That takes some serious nerve .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I do n't particularly know
+Leaf:  N Attribution whether she is guilty or not ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but for it to be played out in the media is n't fair .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate While they may not have the same protections
+Leaf:  S span that the accused have in the United States ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate they should still give her a new trial , something quiet , out of the public eye , maybe even outside of the country ,
+Leaf:  N Background where she can get a fair trial
+Leaf:  S span based on the facts .
+Inner:  S span None Background NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint If there is video of her spiking the coffee ,
+Leaf:  N Elaborate or any indication
+Leaf:  S span that she has had any contact with cyanide ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  S span then I say
+Leaf:  N Attribution she should get a retrial .
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Wow , killing someone in public ?', None, None, None, 1), ('That takes some serious nerve .', None, None, None, 1), ("I do n't particularly know", None, None, None, 0), ('whether she is guilty or not ,', None, None, None, 0), ("but for it to be played out in the media is n't fair .", None, None, None, 1), ('While they may not have the same protections', None, None, None, 0), ('that the accused have in the United States ,', None, None, None, 0), ('they should still give her a new trial , something quiet , out of the public eye , maybe even outside of the country ,', None, None, None, 0), ('where she can get a fair trial', None, None, None, 0), ('based on the facts .', None, None, None, 1), ('If there is video of her spiking the coffee ,', None, None, None, 0), ('or any indication', None, None, None, 0), ('that she has had any contact with cyanide ,', None, None, None, 0), ('then I say', None, None, None, 0), ('she should get a retrial .', None, None, None, 1)]

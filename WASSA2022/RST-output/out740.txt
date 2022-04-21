@@ -1,0 +1,35 @@
+=====================> [[('I feel sad', None, None, None, 0), ('when reading this story ,', None, None, None, 0), ('as she lost her companion', None, None, None, 0), ("and that 's just what some animals are to people their companion , not just a dog or a pet , it 's a part of them .", None, None, None, 1), ('This man was wrong', None, None, None, 0), ('for what he did', None, None, None, 0), ('although he was justified', None, None, None, 0), ('because it was seen as self defense', None, None, None, 0), ('he definitely could have done something else before fatally shooting the dog', None, None, None, 0), ('and killing it .', None, None, None, 1), ('Unless the dog was charging at him', None, None, None, 0), ('and starting to bite him', None, None, None, 0), ('or bark at him', None, None, None, 0), ('he should have seen no threat at that time', None, None, None, 0), ('and I feel', None, None, None, 0), ('like this was a careless mistake', None, None, None, 0), ("and he did n't need to do so .", None, None, None, 1)]]
+Leaf:  N Background I feel sad
+Leaf:  S span when reading this story ,
+Inner:  N Background None Background NS
+Leaf:  N Elaborate as she lost her companion
+Leaf:  S span and that 's just what some animals are to people their companion , not just a dog or a pet , it 's a part of them .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Explanation This man was wrong
+Leaf:  S span for what he did
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Explanation although he was justified
+Leaf:  S span because it was seen as self defense
+Inner:  S span None Explanation NS
+Leaf:  N Joint he definitely could have done something else before fatally shooting the dog
+Leaf:  N Joint and killing it .
+Inner:  N Contrast None Joint NN
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint Unless the dog was charging at him
+Leaf:  N Joint and starting to bite him
+Leaf:  N Joint or bark at him
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Leaf:  N Condition he should have seen no threat at that time
+Inner:  N Joint None Condition SN
+Leaf:  S span and I feel
+Leaf:  N Joint like this was a careless mistake
+Leaf:  N Joint and he did n't need to do so .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I feel sad', None, None, None, 0), ('when reading this story ,', None, None, None, 0), ('as she lost her companion', None, None, None, 0), ("and that 's just what some animals are to people their companion , not just a dog or a pet , it 's a part of them .", None, None, None, 1), ('This man was wrong', None, None, None, 0), ('for what he did', None, None, None, 0), ('although he was justified', None, None, None, 0), ('because it was seen as self defense', None, None, None, 0), ('he definitely could have done something else before fatally shooting the dog', None, None, None, 0), ('and killing it .', None, None, None, 1), ('Unless the dog was charging at him', None, None, None, 0), ('and starting to bite him', None, None, None, 0), ('or bark at him', None, None, None, 0), ('he should have seen no threat at that time', None, None, None, 0), ('and I feel', None, None, None, 0), ('like this was a careless mistake', None, None, None, 0), ("and he did n't need to do so .", None, None, None, 1)]

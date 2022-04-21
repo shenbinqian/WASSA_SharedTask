@@ -1,0 +1,35 @@
+=====================> [[('Hey man', None, None, None, 0), ('did you hear about this Palm Oil Company', None, None, None, 0), ('is trying to threaten to take down the worlds third largest Orangutan populations ?', None, None, None, 1), ('This is pretty upsetting for me', None, None, None, 0), ('as I am in love with these animals .', None, None, None, 1), ('They are wanting to cut down most of the forest .', None, None, None, 1), ('This place is in Indonesia', None, None, None, 0), ('and this company is also planning on building a drainage canal from the north to the south side of the area', None, None, None, 0), ('for which some work has already reportedly began .', None, None, None, 1), ('I really wished', None, None, None, 0), ('there was a way', None, None, None, 0), ('we can help and protect this land .', None, None, None, 1), ('You would have thought', None, None, None, 0), ('that this would be an important area', None, None, None, 0), ('that needed protected .', None, None, None, 1), ('I mean there are what about any where from 750 to 1750 orangutan . .', None, None, None, 1), ("They 're classified as endangered now .", None, None, None, 1)]]
+Leaf:  N Same-Unit Hey man
+Leaf:  N Same-Unit did you hear about this Palm Oil Company
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit is trying to threaten to take down the worlds third largest Orangutan populations ?
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Explanation This is pretty upsetting for me
+Leaf:  S span as I am in love with these animals .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span They are wanting to cut down most of the forest .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint This place is in Indonesia
+Leaf:  N Elaborate and this company is also planning on building a drainage canal from the north to the south side of the area
+Leaf:  S span for which some work has already reportedly began .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I really wished
+Leaf:  N Elaborate there was a way
+Leaf:  S span we can help and protect this land .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span You would have thought
+Leaf:  N Elaborate that this would be an important area
+Leaf:  S span that needed protected .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I mean there are what about any where from 750 to 1750 orangutan . .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span They 're classified as endangered now .
+Inner:  Root None None Evaluation NS
+[('Hey man', None, None, None, 0), ('did you hear about this Palm Oil Company', None, None, None, 0), ('is trying to threaten to take down the worlds third largest Orangutan populations ?', None, None, None, 1), ('This is pretty upsetting for me', None, None, None, 0), ('as I am in love with these animals .', None, None, None, 1), ('They are wanting to cut down most of the forest .', None, None, None, 1), ('This place is in Indonesia', None, None, None, 0), ('and this company is also planning on building a drainage canal from the north to the south side of the area', None, None, None, 0), ('for which some work has already reportedly began .', None, None, None, 1), ('I really wished', None, None, None, 0), ('there was a way', None, None, None, 0), ('we can help and protect this land .', None, None, None, 1), ('You would have thought', None, None, None, 0), ('that this would be an important area', None, None, None, 0), ('that needed protected .', None, None, None, 1), ('I mean there are what about any where from 750 to 1750 orangutan . .', None, None, None, 1), ("They 're classified as endangered now .", None, None, None, 1)]

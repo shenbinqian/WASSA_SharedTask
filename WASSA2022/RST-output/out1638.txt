@@ -1,0 +1,25 @@
+=====================> [[('Wow', None, None, None, 0), ('- I do n’t know', None, None, None, 0), ('what I ’d do in this situation .', None, None, None, 1), ('How sad for these people .', None, None, None, 1), ('They have to leave everything behind ,', None, None, None, 0), ('and they really do n’t have a lot of options .', None, None, None, 1), ('I feel really sad for the children .', None, None, None, 1), ('It ’s like they have no home .', None, None, None, 1), ('What a mess .', None, None, None, 1), ('I wish', None, None, None, 0), ('the middle east was n’t so violent .', None, None, None, 1), ('I do n’t understand all the hate .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Wow
+Leaf:  S span - I do n’t know
+Leaf:  N Attribution what I ’d do in this situation .
+Inner:  N Textual-Organization None Attribution SN
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  N Elaborate How sad for these people .
+Leaf:  N Joint They have to leave everything behind ,
+Leaf:  N Joint and they really do n’t have a lot of options .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation I feel really sad for the children .
+Leaf:  S span It ’s like they have no home .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation What a mess .
+Leaf:  S span I wish
+Leaf:  N Attribution the middle east was n’t so violent .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I do n’t understand all the hate .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow', None, None, None, 0), ('- I do n’t know', None, None, None, 0), ('what I ’d do in this situation .', None, None, None, 1), ('How sad for these people .', None, None, None, 1), ('They have to leave everything behind ,', None, None, None, 0), ('and they really do n’t have a lot of options .', None, None, None, 1), ('I feel really sad for the children .', None, None, None, 1), ('It ’s like they have no home .', None, None, None, 1), ('What a mess .', None, None, None, 1), ('I wish', None, None, None, 0), ('the middle east was n’t so violent .', None, None, None, 1), ('I do n’t understand all the hate .', None, None, None, 1)]

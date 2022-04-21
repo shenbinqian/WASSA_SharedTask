@@ -1,0 +1,23 @@
+=====================> [[("I still do n't like Kim Jong-un ,", None, None, None, 0), ('but he may be starting to realize', None, None, None, 0), ('that being cooperative and living peacefully is a better way', None, None, None, 0), ('of living and leading , rather than the aggressive , threatening leader', None, None, None, 0), ('he is', None, None, None, 0), ('trying to show us in the past .', None, None, None, 1), ('We may never know his real motives ,', None, None, None, 0), ('but', None, None, None, 0), ('as long as North Korea cooperates', None, None, None, 0), ('and be a productive nation ,', None, None, None, 0), ('then a lot of other countries will help them in times of need .', None, None, None, 1)]]
+Leaf:  S span I still do n't like Kim Jong-un ,
+Leaf:  S span but he may be starting to realize
+Leaf:  N Elaborate that being cooperative and living peacefully is a better way
+Leaf:  N Elaborate of living and leading , rather than the aggressive , threatening leader
+Leaf:  N Elaborate he is
+Leaf:  S span trying to show us in the past .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span We may never know his real motives ,
+Leaf:  N Same-Unit but
+Leaf:  N Joint as long as North Korea cooperates
+Leaf:  N Joint and be a productive nation ,
+Inner:  S span None Joint NN
+Leaf:  N Condition then a lot of other countries will help them in times of need .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[("I still do n't like Kim Jong-un ,", None, None, None, 0), ('but he may be starting to realize', None, None, None, 0), ('that being cooperative and living peacefully is a better way', None, None, None, 0), ('of living and leading , rather than the aggressive , threatening leader', None, None, None, 0), ('he is', None, None, None, 0), ('trying to show us in the past .', None, None, None, 1), ('We may never know his real motives ,', None, None, None, 0), ('but', None, None, None, 0), ('as long as North Korea cooperates', None, None, None, 0), ('and be a productive nation ,', None, None, None, 0), ('then a lot of other countries will help them in times of need .', None, None, None, 1)]

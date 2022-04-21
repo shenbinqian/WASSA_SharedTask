@@ -1,0 +1,31 @@
+=====================> [[('This is horrifying .', None, None, None, 1), ("You 're just going about your business ,", None, None, None, 0), ('then someone takes issue with you ,', None, None, None, 0), ("and suddenly you 're dead .", None, None, None, 1), ("Maybe you did n't even interact with them", None, None, None, 0), ('and they just decided to kill you for fun .', None, None, None, 1), ("It 's deeply troubling and makes you suspicious of every stranger on the street .", None, None, None, 1), ('I also feel bad for those', None, None, None, 0), ('who had to witness this', None, None, None, 0), ("and did n't have time", None, None, None, 0), ('to do anything', None, None, None, 0), ('to stop it .', None, None, None, 1), ("I 'd imagine", None, None, None, 0), ('some feel guilty', None, None, None, 0), ("even though they could n't have helped .", None, None, None, 1)]]
+Leaf:  N Elaborate This is horrifying .
+Leaf:  N Temporal You 're just going about your business ,
+Leaf:  N Temporal then someone takes issue with you ,
+Leaf:  N Temporal and suddenly you 're dead .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Temporal Maybe you did n't even interact with them
+Leaf:  N Temporal and they just decided to kill you for fun .
+Inner:  S span None Temporal NN
+Inner:  N Temporal None Elaborate NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span It 's deeply troubling and makes you suspicious of every stranger on the street .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I also feel bad for those
+Leaf:  N Joint who had to witness this
+Leaf:  N Elaborate and did n't have time
+Leaf:  S span to do anything
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to stop it .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'd imagine
+Leaf:  N Contrast some feel guilty
+Leaf:  S span even though they could n't have helped .
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is horrifying .', None, None, None, 1), ("You 're just going about your business ,", None, None, None, 0), ('then someone takes issue with you ,', None, None, None, 0), ("and suddenly you 're dead .", None, None, None, 1), ("Maybe you did n't even interact with them", None, None, None, 0), ('and they just decided to kill you for fun .', None, None, None, 1), ("It 's deeply troubling and makes you suspicious of every stranger on the street .", None, None, None, 1), ('I also feel bad for those', None, None, None, 0), ('who had to witness this', None, None, None, 0), ("and did n't have time", None, None, None, 0), ('to do anything', None, None, None, 0), ('to stop it .', None, None, None, 1), ("I 'd imagine", None, None, None, 0), ('some feel guilty', None, None, None, 0), ("even though they could n't have helped .", None, None, None, 1)]

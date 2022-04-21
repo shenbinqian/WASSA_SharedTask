@@ -1,0 +1,21 @@
+=====================> [[('This breaks my heart .', None, None, None, 1), ("I mean , I know there 's trouble everywhere ,", None, None, None, 0), ('but these people have absolutely no hope ,', None, None, None, 0), ('and the United States caused this ,', None, None, None, 0), ('so we share responsibility .', None, None, None, 1), ("I 'm going to look around", None, None, None, 0), ('and see which refugee organizations are trying to help ,', None, None, None, 0), ('and gather donation information .', None, None, None, 1), ("Are you in ? I 'll see", None, None, None, 0), ('if Alan wants to bring this up at church , too .', None, None, None, 1)]]
+Leaf:  N Explanation This breaks my heart .
+Leaf:  S span I mean , I know there 's trouble everywhere ,
+Leaf:  N Joint but these people have absolutely no hope ,
+Leaf:  N Joint and the United States caused this ,
+Inner:  S span None Joint NN
+Leaf:  N Explanation so we share responsibility .
+Inner:  N Contrast None Explanation SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Enablement I 'm going to look around
+Leaf:  N Joint and see which refugee organizations are trying to help ,
+Leaf:  N Joint and gather donation information .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span Are you in ? I 'll see
+Leaf:  N Attribution if Alan wants to bring this up at church , too .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This breaks my heart .', None, None, None, 1), ("I mean , I know there 's trouble everywhere ,", None, None, None, 0), ('but these people have absolutely no hope ,', None, None, None, 0), ('and the United States caused this ,', None, None, None, 0), ('so we share responsibility .', None, None, None, 1), ("I 'm going to look around", None, None, None, 0), ('and see which refugee organizations are trying to help ,', None, None, None, 0), ('and gather donation information .', None, None, None, 1), ("Are you in ? I 'll see", None, None, None, 0), ('if Alan wants to bring this up at church , too .', None, None, None, 1)]

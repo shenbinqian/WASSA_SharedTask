@@ -1,0 +1,23 @@
+=====================> [[('I will never empathize or understand racists .', None, None, None, 1), ('Vandalism is the epitome of childish crimes as well .', None, None, None, 1), ("It 's the twenty-first century", None, None, None, 0), ('and we still are surrounded by stupid racists .', None, None, None, 1), ('I say', None, None, None, 0), ('stupid', None, None, None, 0), ('because ignorance is simply not having a lack of intelligence or something ,', None, None, None, 0), ("but you 're still willing to educate yourself or be educated on it .", None, None, None, 1), ('Stupidity is being surrounded by so many outlets , professors , libraries , internet , magazines ,', None, None, None, 0), ('and still refusing to learn about those', None, None, None, 0), ('that are different from you .', None, None, None, 1)]]
+Leaf:  N Joint I will never empathize or understand racists .
+Leaf:  N Joint Vandalism is the epitome of childish crimes as well .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Temporal It 's the twenty-first century
+Leaf:  N Temporal and we still are surrounded by stupid racists .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I say
+Leaf:  N Explanation stupid
+Leaf:  S span because ignorance is simply not having a lack of intelligence or something ,
+Leaf:  N Contrast but you 're still willing to educate yourself or be educated on it .
+Inner:  S span None Contrast SN
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Joint Stupidity is being surrounded by so many outlets , professors , libraries , internet , magazines ,
+Leaf:  N Elaborate and still refusing to learn about those
+Leaf:  S span that are different from you .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('I will never empathize or understand racists .', None, None, None, 1), ('Vandalism is the epitome of childish crimes as well .', None, None, None, 1), ("It 's the twenty-first century", None, None, None, 0), ('and we still are surrounded by stupid racists .', None, None, None, 1), ('I say', None, None, None, 0), ('stupid', None, None, None, 0), ('because ignorance is simply not having a lack of intelligence or something ,', None, None, None, 0), ("but you 're still willing to educate yourself or be educated on it .", None, None, None, 1), ('Stupidity is being surrounded by so many outlets , professors , libraries , internet , magazines ,', None, None, None, 0), ('and still refusing to learn about those', None, None, None, 0), ('that are different from you .', None, None, None, 1)]

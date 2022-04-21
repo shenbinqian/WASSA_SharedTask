@@ -1,0 +1,25 @@
+=====================> [[('Robert Vaughn passed away', None, None, None, 0), ("but I do n't really have anything", None, None, None, 0), ('to say about him .', None, None, None, 1), ('people die every day', None, None, None, 0), ('and he was in his 80s .', None, None, None, 1), ('He was in some famous movies', None, None, None, 0), ('and seemed dto have lived a full and happy life .', None, None, None, 1), ("He was n't in anything", None, None, None, 0), ('i have ever seen', None, None, None, 0), ('and i never heard fo him before .', None, None, None, 1), ('maybe ill check out his movies someday', None, None, None, 0), ('since he was fmous .', None, None, None, 1)]]
+Leaf:  N Contrast Robert Vaughn passed away
+Leaf:  N Elaborate but I do n't really have anything
+Leaf:  S span to say about him .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Summary None Contrast NN
+Leaf:  N Same-Unit people die every day
+Leaf:  N Same-Unit and he was in his 80s .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint He was in some famous movies
+Leaf:  N Joint and seemed dto have lived a full and happy life .
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate He was n't in anything
+Leaf:  S span i have ever seen
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and i never heard fo him before .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation maybe ill check out his movies someday
+Leaf:  S span since he was fmous .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Robert Vaughn passed away', None, None, None, 0), ("but I do n't really have anything", None, None, None, 0), ('to say about him .', None, None, None, 1), ('people die every day', None, None, None, 0), ('and he was in his 80s .', None, None, None, 1), ('He was in some famous movies', None, None, None, 0), ('and seemed dto have lived a full and happy life .', None, None, None, 1), ("He was n't in anything", None, None, None, 0), ('i have ever seen', None, None, None, 0), ('and i never heard fo him before .', None, None, None, 1), ('maybe ill check out his movies someday', None, None, None, 0), ('since he was fmous .', None, None, None, 1)]

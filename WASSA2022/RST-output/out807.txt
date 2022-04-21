@@ -1,0 +1,25 @@
+=====================> [[('I am upset', None, None, None, 0), ('and disturbed about the result of the investigation on the article .', None, None, None, 1), ('It also saddens me', None, None, None, 0), ('to know', None, None, None, 0), ('that the families', None, None, None, 0), ('involved in the missing of those students', None, None, None, 0), ('are still hoping', None, None, None, 0), ('to see their family member', None, None, None, 0), ('even after years of waiting .', None, None, None, 1), ('This article reminds me', None, None, None, 0), ('that no matter how long the case ,', None, None, None, 0), ('the family will always wait for them to hug those missing students .', None, None, None, 1)]]
+Leaf:  N Joint I am upset
+Leaf:  N Joint and disturbed about the result of the investigation on the article .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It also saddens me
+Leaf:  S span to know
+Leaf:  N Elaborate that the families
+Leaf:  S span involved in the missing of those students
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span are still hoping
+Leaf:  N Attribution to see their family member
+Inner:  N Contrast None Attribution SN
+Leaf:  S span even after years of waiting .
+Inner:  N Same-Unit None Contrast NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This article reminds me
+Leaf:  S span that no matter how long the case ,
+Leaf:  N Contrast the family will always wait for them to hug those missing students .
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I am upset', None, None, None, 0), ('and disturbed about the result of the investigation on the article .', None, None, None, 1), ('It also saddens me', None, None, None, 0), ('to know', None, None, None, 0), ('that the families', None, None, None, 0), ('involved in the missing of those students', None, None, None, 0), ('are still hoping', None, None, None, 0), ('to see their family member', None, None, None, 0), ('even after years of waiting .', None, None, None, 1), ('This article reminds me', None, None, None, 0), ('that no matter how long the case ,', None, None, None, 0), ('the family will always wait for them to hug those missing students .', None, None, None, 1)]

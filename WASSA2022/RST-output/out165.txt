@@ -1,0 +1,25 @@
+=====================> [[('This is disgusting !', None, None, None, 1), ('I wish', None, None, None, 0), ('that the international community would step up', None, None, None, 0), ('and stop these atrocities', None, None, None, 0), ('from continuing to happen .', None, None, None, 1), ('But no one in the international community seems to care .', None, None, None, 1), ('Its so sad , it is like another Rwanda is happening right in front of us', None, None, None, 0), ('but no one wants to spend the money', None, None, None, 0), ('to do anything about it', None, None, None, 0), ('because it is seen as just another third world backwater .', None, None, None, 1), ('Things need to change', None, None, None, 0), ('before the international order is completely forgotten about .', None, None, None, 1)]]
+Leaf:  N Evaluation This is disgusting !
+Leaf:  S span I wish
+Leaf:  N Joint that the international community would step up
+Leaf:  N Elaborate and stop these atrocities
+Leaf:  S span from continuing to happen .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Evaluation But no one in the international community seems to care .
+Leaf:  N Contrast Its so sad , it is like another Rwanda is happening right in front of us
+Leaf:  N Elaborate but no one wants to spend the money
+Leaf:  S span to do anything about it
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because it is seen as just another third world backwater .
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast NN
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Things need to change
+Leaf:  N Condition before the international order is completely forgotten about .
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('This is disgusting !', None, None, None, 1), ('I wish', None, None, None, 0), ('that the international community would step up', None, None, None, 0), ('and stop these atrocities', None, None, None, 0), ('from continuing to happen .', None, None, None, 1), ('But no one in the international community seems to care .', None, None, None, 1), ('Its so sad , it is like another Rwanda is happening right in front of us', None, None, None, 0), ('but no one wants to spend the money', None, None, None, 0), ('to do anything about it', None, None, None, 0), ('because it is seen as just another third world backwater .', None, None, None, 1), ('Things need to change', None, None, None, 0), ('before the international order is completely forgotten about .', None, None, None, 1)]

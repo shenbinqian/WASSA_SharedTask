@@ -1,0 +1,31 @@
+=====================> [[("It 's sad these days how often police are being attacked", None, None, None, 0), ('for just being police .', None, None, None, 1), ('Mental health is such a problem ,', None, None, None, 0), ('we need to find better ways', None, None, None, 0), ('to help people', None, None, None, 0), ("so they do n't get to the point", None, None, None, 0), ('of harming others .', None, None, None, 1), ('Whenever I hear about an officer being hurt', None, None, None, 0), ('I think of your husband . We are very lucky men like him are choosing to spend their lives', None, None, None, 0), ('to protect us .', None, None, None, 1), ('I hope', None, None, None, 0), ('we can get help to more people', None, None, None, 0), ('so I can stop worrying', None, None, None, 0), ('if there is someone out there', None, None, None, 0), ('waiting for him .', None, None, None, 1)]]
+Leaf:  N Explanation It 's sad these days how often police are being attacked
+Leaf:  S span for just being police .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Mental health is such a problem ,
+Leaf:  N Elaborate we need to find better ways
+Leaf:  S span to help people
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate so they do n't get to the point
+Leaf:  S span of harming others .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Enablement NS
+Inner:  N Elaborate None Explanation SN
+Leaf:  S span Whenever I hear about an officer being hurt
+Leaf:  N Enablement I think of your husband . We are very lucky men like him are choosing to spend their lives
+Leaf:  S span to protect us .
+Inner:  N Background None Enablement NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span I hope
+Leaf:  N Enablement we can get help to more people
+Leaf:  S span so I can stop worrying
+Leaf:  N Elaborate if there is someone out there
+Leaf:  S span waiting for him .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's sad these days how often police are being attacked", None, None, None, 0), ('for just being police .', None, None, None, 1), ('Mental health is such a problem ,', None, None, None, 0), ('we need to find better ways', None, None, None, 0), ('to help people', None, None, None, 0), ("so they do n't get to the point", None, None, None, 0), ('of harming others .', None, None, None, 1), ('Whenever I hear about an officer being hurt', None, None, None, 0), ('I think of your husband . We are very lucky men like him are choosing to spend their lives', None, None, None, 0), ('to protect us .', None, None, None, 1), ('I hope', None, None, None, 0), ('we can get help to more people', None, None, None, 0), ('so I can stop worrying', None, None, None, 0), ('if there is someone out there', None, None, None, 0), ('waiting for him .', None, None, None, 1)]

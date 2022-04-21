@@ -1,0 +1,23 @@
+=====================> [[('Unbelievable !', None, None, None, 1), ('I just read an very disturbing article about a 23 year old male teacher', None, None, None, 0), ('charged with multiple counts of child pornography', None, None, None, 0), ('that was taking place at the school', None, None, None, 0), ('he teached in .', None, None, None, 1), ('He managed to get away with this crime for a very long time', None, None, None, 0), ('as he lured hundreds of children into his scheme', None, None, None, 0), ('before finally getting busted .', None, None, None, 1), ('It really pisses me off that scum bags like this are allowed near our children', None, None, None, 0), ('and I hope', None, None, None, 0), ('he gets a max sentence !', None, None, None, 1)]]
+Leaf:  N Summary Unbelievable !
+Leaf:  N Elaborate I just read an very disturbing article about a 23 year old male teacher
+Leaf:  N Elaborate charged with multiple counts of child pornography
+Leaf:  N Elaborate that was taking place at the school
+Leaf:  S span he teached in .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background He managed to get away with this crime for a very long time
+Leaf:  S span as he lured hundreds of children into his scheme
+Inner:  N Temporal None Background NS
+Leaf:  S span before finally getting busted .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It really pisses me off that scum bags like this are allowed near our children
+Leaf:  S span and I hope
+Leaf:  N Attribution he gets a max sentence !
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Unbelievable !', None, None, None, 1), ('I just read an very disturbing article about a 23 year old male teacher', None, None, None, 0), ('charged with multiple counts of child pornography', None, None, None, 0), ('that was taking place at the school', None, None, None, 0), ('he teached in .', None, None, None, 1), ('He managed to get away with this crime for a very long time', None, None, None, 0), ('as he lured hundreds of children into his scheme', None, None, None, 0), ('before finally getting busted .', None, None, None, 1), ('It really pisses me off that scum bags like this are allowed near our children', None, None, None, 0), ('and I hope', None, None, None, 0), ('he gets a max sentence !', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Ugh , another example of crappy cops .', None, None, None, 1), ('They think', None, None, None, 0), ('they can get anyway with anything .', None, None, None, 1), ("I 've started to pull out my phone camera", None, None, None, 0), ('whenever I see the cops talking to someone ,', None, None, None, 0), ('especially if they are a minority .', None, None, None, 1), ('Police brutality is such a problem in our country', None, None, None, 0), ("and it 's just so deeply ingrained in the system ,", None, None, None, 0), ("I 'm not sure", None, None, None, 0), ('what can be done .', None, None, None, 1), ('We need some kind of overhaul of the criminal justice system .', None, None, None, 1)]]
+Leaf:  N Elaborate Ugh , another example of crappy cops .
+Leaf:  S span They think
+Leaf:  N Attribution they can get anyway with anything .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Leaf:  N Condition I 've started to pull out my phone camera
+Leaf:  N Comparison whenever I see the cops talking to someone ,
+Leaf:  S span especially if they are a minority .
+Inner:  S span None Comparison NS
+Inner:  N Background None Condition NS
+Inner:  N Evaluation None Background SN
+Leaf:  N Joint Police brutality is such a problem in our country
+Leaf:  N Joint and it 's just so deeply ingrained in the system ,
+Inner:  S span None Joint NN
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution what can be done .
+Inner:  N Background None Attribution SN
+Inner:  N Cause None Background SN
+Leaf:  S span We need some kind of overhaul of the criminal justice system .
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('Ugh , another example of crappy cops .', None, None, None, 1), ('They think', None, None, None, 0), ('they can get anyway with anything .', None, None, None, 1), ("I 've started to pull out my phone camera", None, None, None, 0), ('whenever I see the cops talking to someone ,', None, None, None, 0), ('especially if they are a minority .', None, None, None, 1), ('Police brutality is such a problem in our country', None, None, None, 0), ("and it 's just so deeply ingrained in the system ,", None, None, None, 0), ("I 'm not sure", None, None, None, 0), ('what can be done .', None, None, None, 1), ('We need some kind of overhaul of the criminal justice system .', None, None, None, 1)]

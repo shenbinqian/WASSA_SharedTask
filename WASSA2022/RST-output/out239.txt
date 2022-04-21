@@ -1,0 +1,17 @@
+=====================> [[('I think', None, None, None, 0), ('China has a real problem with safety standards', None, None, None, 0), ("and that 's why they have so many accidents in their various industries .", None, None, None, 1), ("It 's really sad", None, None, None, 0), ('that they place economic growth over human lives .', None, None, None, 1), ('If they did implement safety standards ,', None, None, None, 0), ("they would n't lose so many lives or potential workers and people", None, None, None, 0), ('that care for children .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Cause China has a real problem with safety standards
+Leaf:  S span and that 's why they have so many accidents in their various industries .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's really sad
+Leaf:  N Attribution that they place economic growth over human lives .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If they did implement safety standards ,
+Leaf:  N Elaborate they would n't lose so many lives or potential workers and people
+Leaf:  S span that care for children .
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('China has a real problem with safety standards', None, None, None, 0), ("and that 's why they have so many accidents in their various industries .", None, None, None, 1), ("It 's really sad", None, None, None, 0), ('that they place economic growth over human lives .', None, None, None, 1), ('If they did implement safety standards ,', None, None, None, 0), ("they would n't lose so many lives or potential workers and people", None, None, None, 0), ('that care for children .', None, None, None, 1)]

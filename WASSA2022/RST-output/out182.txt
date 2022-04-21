@@ -1,0 +1,41 @@
+=====================> [[('India Kashmir :', None, None, None, 0), ('The teenager', None, None, None, 0), ('blinded by pellets —', None, None, None, 0), ('Photographer Abid Bhat here describes the life of 14-year-old Insha Mushtaq ,', None, None, None, 0), ('who lost vision in both her eyes', None, None, None, 0), ('after being hit by pellets in Indian-administered Kashmir .', None, None, None, 1), ('" I just want to ask the security personnel', None, None, None, 0), ('who fired pellets at me', None, None, None, 0), ('what my fault was , " Miss Mushtaq says ,', None, None, None, 0), ('as she stands by the same window', None, None, None, 0), ('she was sitting at', None, None, None, 0), ('when pellets blinded her . She has been in and out of hospitals for the past three months in an attempt to regain her vision .', None, None, None, 1), ('Nothing has worked so far , but she remains hopeful . Ms Mushtaq says', None, None, None, 0), ('she wanted to become a doctor', None, None, None, 0), ('before losing her vision . She brings out her text books', None, None, None, 0), ('to show me ,', None, None, None, 0), ('and flips the pages', None, None, None, 0), ('though she can not read them anymore .', None, None, None, 1), ('" I can only feel them now , "', None, None, None, 0), ('she says tearfully', None, None, None, 0)]]
+Leaf:  N Textual-Organization India Kashmir :
+Leaf:  N Elaborate The teenager
+Leaf:  S span blinded by pellets —
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Elaborate Photographer Abid Bhat here describes the life of 14-year-old Insha Mushtaq ,
+Leaf:  N Cause who lost vision in both her eyes
+Leaf:  S span after being hit by pellets in Indian-administered Kashmir .
+Inner:  S span None Cause NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate " I just want to ask the security personnel
+Leaf:  S span who fired pellets at me
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution what my fault was , " Miss Mushtaq says ,
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate as she stands by the same window
+Leaf:  N Background she was sitting at
+Leaf:  S span when pellets blinded her . She has been in and out of hospitals for the past three months in an attempt to regain her vision .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  S span Nothing has worked so far , but she remains hopeful . Ms Mushtaq says
+Leaf:  N Temporal she wanted to become a doctor
+Leaf:  N Enablement before losing her vision . She brings out her text books
+Leaf:  S span to show me ,
+Inner:  S span None Enablement NS
+Inner:  N Joint None Temporal NS
+Leaf:  N Contrast and flips the pages
+Leaf:  S span though she can not read them anymore .
+Inner:  N Joint None Contrast NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution " I can only feel them now , "
+Leaf:  S span she says tearfully
+Inner:  S span None Attribution NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Textual-Organization None Topic-Comment NN
+Inner:  N Textual-Organization None Textual-Organization NN
+Inner:  Root None None Textual-Organization NN
+[('India Kashmir :', None, None, None, 0), ('The teenager', None, None, None, 0), ('blinded by pellets —', None, None, None, 0), ('Photographer Abid Bhat here describes the life of 14-year-old Insha Mushtaq ,', None, None, None, 0), ('who lost vision in both her eyes', None, None, None, 0), ('after being hit by pellets in Indian-administered Kashmir .', None, None, None, 1), ('" I just want to ask the security personnel', None, None, None, 0), ('who fired pellets at me', None, None, None, 0), ('what my fault was , " Miss Mushtaq says ,', None, None, None, 0), ('as she stands by the same window', None, None, None, 0), ('she was sitting at', None, None, None, 0), ('when pellets blinded her . She has been in and out of hospitals for the past three months in an attempt to regain her vision .', None, None, None, 1), ('Nothing has worked so far , but she remains hopeful . Ms Mushtaq says', None, None, None, 0), ('she wanted to become a doctor', None, None, None, 0), ('before losing her vision . She brings out her text books', None, None, None, 0), ('to show me ,', None, None, None, 0), ('and flips the pages', None, None, None, 0), ('though she can not read them anymore .', None, None, None, 1), ('" I can only feel them now , "', None, None, None, 0), ('she says tearfully', None, None, None, 0)]

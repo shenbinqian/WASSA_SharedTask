@@ -1,0 +1,29 @@
+=====================> [[('I think', None, None, None, 0), ('its so scary', None, None, None, 0), ("that there have been shark attacks in Australia 's beaches .", None, None, None, 1), ("I would n't want to be a surfer there", None, None, None, 0), ('knowing that anytime my life could be in danger', None, None, None, 0), ("since you do n't know what your surfing under whether its a huge shark", None, None, None, 0), ('preying on you', None, None, None, 0), ('waiting to strike', None, None, None, 0), ('and make you his fresh meal .', None, None, None, 1), ('I am always cautious', None, None, None, 0), ("when I 'm in the water", None, None, None, 0), ("since people do n't realize", None, None, None, 0), ('there are so many dangers', None, None, None, 0), ('deciding to get into the water .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  S span its so scary
+Leaf:  N Attribution that there have been shark attacks in Australia 's beaches .
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation I would n't want to be a surfer there
+Leaf:  S span knowing that anytime my life could be in danger
+Inner:  N Explanation None Explanation NS
+Leaf:  N Elaborate since you do n't know what your surfing under whether its a huge shark
+Leaf:  S span preying on you
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal waiting to strike
+Leaf:  N Temporal and make you his fresh meal .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal I am always cautious
+Leaf:  S span when I 'm in the water
+Inner:  N Explanation None Temporal NS
+Leaf:  S span since people do n't realize
+Leaf:  N Elaborate there are so many dangers
+Leaf:  S span deciding to get into the water .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('its so scary', None, None, None, 0), ("that there have been shark attacks in Australia 's beaches .", None, None, None, 1), ("I would n't want to be a surfer there", None, None, None, 0), ('knowing that anytime my life could be in danger', None, None, None, 0), ("since you do n't know what your surfing under whether its a huge shark", None, None, None, 0), ('preying on you', None, None, None, 0), ('waiting to strike', None, None, None, 0), ('and make you his fresh meal .', None, None, None, 1), ('I am always cautious', None, None, None, 0), ("when I 'm in the water", None, None, None, 0), ("since people do n't realize", None, None, None, 0), ('there are so many dangers', None, None, None, 0), ('deciding to get into the water .', None, None, None, 1)]

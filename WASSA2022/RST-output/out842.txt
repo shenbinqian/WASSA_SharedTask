@@ -1,0 +1,21 @@
+=====================> [[('Did you see this article about the protest in MI ?', None, None, None, 1), ("It 's so crazy", None, None, None, 0), ('how divisive the country has become over the election', None, None, None, 0), ("and how president tump 's doing .", None, None, None, 1), ('What used to be considered rare and unacceptable seems now to become the norm ,', None, None, None, 0), ('since all the crazy things trump says and does .', None, None, None, 1), ('Throwing a firecracker into a crowd ?', None, None, None, 1), ('Who does that', None, None, None, 0), ("and think 's its acceptable ?", None, None, None, 1), ('People these days are getting very crazy .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Did you see this article about the protest in MI ?
+Leaf:  S span It 's so crazy
+Leaf:  N Joint how divisive the country has become over the election
+Leaf:  N Joint and how president tump 's doing .
+Inner:  N Cause None Joint NN
+Leaf:  N Explanation What used to be considered rare and unacceptable seems now to become the norm ,
+Leaf:  S span since all the crazy things trump says and does .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Throwing a firecracker into a crowd ?
+Leaf:  N Joint Who does that
+Leaf:  N Joint and think 's its acceptable ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Cause NS
+Inner:  N Textual-Organization None Attribution SN
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  S span People these days are getting very crazy .
+Inner:  Root None None Evaluation NS
+[('Did you see this article about the protest in MI ?', None, None, None, 1), ("It 's so crazy", None, None, None, 0), ('how divisive the country has become over the election', None, None, None, 0), ("and how president tump 's doing .", None, None, None, 1), ('What used to be considered rare and unacceptable seems now to become the norm ,', None, None, None, 0), ('since all the crazy things trump says and does .', None, None, None, 1), ('Throwing a firecracker into a crowd ?', None, None, None, 1), ('Who does that', None, None, None, 0), ("and think 's its acceptable ?", None, None, None, 1), ('People these days are getting very crazy .', None, None, None, 1)]

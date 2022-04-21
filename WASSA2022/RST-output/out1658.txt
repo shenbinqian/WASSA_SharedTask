@@ -1,0 +1,25 @@
+=====================> [[('there are too many police shootings .', None, None, None, 1), ('however ,', None, None, None, 0), ('being in the police is not an easy job .', None, None, None, 1), ('too many people are in a rush to judgement .', None, None, None, 1), ('if cities would be more forthwright', None, None, None, 0), ('and transparent', None, None, None, 0), ('it would help .', None, None, None, 1), ('why people feel', None, None, None, 0), ('that violence and looting is a valid method', None, None, None, 0), ('of protest', None, None, None, 0), ('is beyond me .', None, None, None, 1), ('i have great sympathy for the police .', None, None, None, 1)]]
+Leaf:  N Contrast there are too many police shootings .
+Leaf:  S span however ,
+Leaf:  N Evaluation being in the police is not an easy job .
+Inner:  N Explanation None Evaluation SN
+Leaf:  N Cause too many people are in a rush to judgement .
+Leaf:  N Joint if cities would be more forthwright
+Leaf:  N Joint and transparent
+Inner:  S span None Joint NN
+Leaf:  N Condition it would help .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span why people feel
+Leaf:  N Elaborate that violence and looting is a valid method
+Leaf:  S span of protest
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit is beyond me .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Explanation NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span i have great sympathy for the police .
+Inner:  Root None None Evaluation NS
+[('there are too many police shootings .', None, None, None, 1), ('however ,', None, None, None, 0), ('being in the police is not an easy job .', None, None, None, 1), ('too many people are in a rush to judgement .', None, None, None, 1), ('if cities would be more forthwright', None, None, None, 0), ('and transparent', None, None, None, 0), ('it would help .', None, None, None, 1), ('why people feel', None, None, None, 0), ('that violence and looting is a valid method', None, None, None, 0), ('of protest', None, None, None, 0), ('is beyond me .', None, None, None, 1), ('i have great sympathy for the police .', None, None, None, 1)]

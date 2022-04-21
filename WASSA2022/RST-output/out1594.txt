@@ -1,0 +1,19 @@
+=====================> [[('Hey did you check out the latest dram between Scottie Pippen and his wife Larsa ?', None, None, None, 1), ('Maybe it is dumb', None, None, None, 0), ('but I care about these thing', None, None, None, 0), ('because I am from Chicago .', None, None, None, 1), ('I have been hearing the name Scottie Pippen on a regular basis for the last 25 years', None, None, None, 0), ("and it kind of makes you feel interested in that person 's life .", None, None, None, 1), ('I know', None, None, None, 0), ('fi this was about Michael Jordan', None, None, None, 0), ('I would feel the same way .', None, None, None, 1)]]
+Leaf:  N Evaluation Hey did you check out the latest dram between Scottie Pippen and his wife Larsa ?
+Leaf:  N Contrast Maybe it is dumb
+Leaf:  N Explanation but I care about these thing
+Leaf:  S span because I am from Chicago .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Cause I have been hearing the name Scottie Pippen on a regular basis for the last 25 years
+Leaf:  S span and it kind of makes you feel interested in that person 's life .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I know
+Leaf:  S span fi this was about Michael Jordan
+Leaf:  N Condition I would feel the same way .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hey did you check out the latest dram between Scottie Pippen and his wife Larsa ?', None, None, None, 1), ('Maybe it is dumb', None, None, None, 0), ('but I care about these thing', None, None, None, 0), ('because I am from Chicago .', None, None, None, 1), ('I have been hearing the name Scottie Pippen on a regular basis for the last 25 years', None, None, None, 0), ("and it kind of makes you feel interested in that person 's life .", None, None, None, 1), ('I know', None, None, None, 0), ('fi this was about Michael Jordan', None, None, None, 0), ('I would feel the same way .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[("It 's weird how I do n't really feel sorry for these people .", None, None, None, 1), ('Timeshares just seem like a terrible idea', None, None, None, 0), ("and I 've always associated it with conspicuous consumption . Really ... just rent a hotel room", None, None, None, 0), ('when you can go .', None, None, None, 1), ('Buying into a house with other people sounds like a total hassle and a problem', None, None, None, 0), ('waiting to happen .', None, None, None, 1), ("But I ca n't stand", None, None, None, 0), ('how grimy the companies are and how they jerk people around .', None, None, None, 1), ("It just shows that the whole timeshare concept is about digging into people 's pockets .", None, None, None, 1), ('And the only way', None, None, None, 0), ('to get them to stop doing that', None, None, None, 0), ('is to put them out of business', None, None, None, 0), ("if they do n't want to play fair .", None, None, None, 1)]]
+Leaf:  N Explanation It 's weird how I do n't really feel sorry for these people .
+Leaf:  N Joint Timeshares just seem like a terrible idea
+Leaf:  N Background and I 've always associated it with conspicuous consumption . Really ... just rent a hotel room
+Leaf:  S span when you can go .
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate Buying into a house with other people sounds like a total hassle and a problem
+Leaf:  S span waiting to happen .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate But I ca n't stand
+Leaf:  S span how grimy the companies are and how they jerk people around .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It just shows that the whole timeshare concept is about digging into people 's pockets .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate And the only way
+Leaf:  S span to get them to stop doing that
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Condition is to put them out of business
+Leaf:  S span if they do n't want to play fair .
+Inner:  N Same-Unit None Condition NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Explanation NS
+[("It 's weird how I do n't really feel sorry for these people .", None, None, None, 1), ('Timeshares just seem like a terrible idea', None, None, None, 0), ("and I 've always associated it with conspicuous consumption . Really ... just rent a hotel room", None, None, None, 0), ('when you can go .', None, None, None, 1), ('Buying into a house with other people sounds like a total hassle and a problem', None, None, None, 0), ('waiting to happen .', None, None, None, 1), ("But I ca n't stand", None, None, None, 0), ('how grimy the companies are and how they jerk people around .', None, None, None, 1), ("It just shows that the whole timeshare concept is about digging into people 's pockets .", None, None, None, 1), ('And the only way', None, None, None, 0), ('to get them to stop doing that', None, None, None, 0), ('is to put them out of business', None, None, None, 0), ("if they do n't want to play fair .", None, None, None, 1)]

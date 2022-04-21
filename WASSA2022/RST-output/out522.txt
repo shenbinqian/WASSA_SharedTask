@@ -1,0 +1,25 @@
+=====================> [[('There have just been so many different tragedies', None, None, None, 0), ('involving the sinking of migrant boats', None, None, None, 0), ('that the people', None, None, None, 0), ('who live in Western countries', None, None, None, 0), ('have become immunized to the images .', None, None, None, 1), ('I just wonder', None, None, None, 0), ('how people so close by in European countries can have an anti-refugee position', None, None, None, 0), ('( though they call them migrants )', None, None, None, 0), ('when the evidence of tragedy is before them every year', None, None, None, 0), ('since the Syrian war heated up .', None, None, None, 1), ('I think', None, None, None, 0), ('it is really just crazy .', None, None, None, 1)]]
+Leaf:  N Elaborate There have just been so many different tragedies
+Leaf:  S span involving the sinking of migrant boats
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate that the people
+Leaf:  S span who live in Western countries
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have become immunized to the images .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I just wonder
+Leaf:  N Contrast how people so close by in European countries can have an anti-refugee position
+Leaf:  S span ( though they call them migrants )
+Inner:  N Background None Contrast NS
+Leaf:  N Background when the evidence of tragedy is before them every year
+Leaf:  S span since the Syrian war heated up .
+Inner:  S span None Background NS
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution it is really just crazy .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('There have just been so many different tragedies', None, None, None, 0), ('involving the sinking of migrant boats', None, None, None, 0), ('that the people', None, None, None, 0), ('who live in Western countries', None, None, None, 0), ('have become immunized to the images .', None, None, None, 1), ('I just wonder', None, None, None, 0), ('how people so close by in European countries can have an anti-refugee position', None, None, None, 0), ('( though they call them migrants )', None, None, None, 0), ('when the evidence of tragedy is before them every year', None, None, None, 0), ('since the Syrian war heated up .', None, None, None, 1), ('I think', None, None, None, 0), ('it is really just crazy .', None, None, None, 1)]

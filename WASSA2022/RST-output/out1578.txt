@@ -1,0 +1,25 @@
+=====================> [[('Educational videos can be helpful ,', None, None, None, 0), ('but this seems rather silly to me .', None, None, None, 1), ('I would not consider applying make up on a train a pet peeve', None, None, None, 0), ("and I 'm surprised", None, None, None, 0), ('it was on a list of complaints from other people .', None, None, None, 1), ('But we have to remember', None, None, None, 0), ('that this is a different culture', None, None, None, 0), ('as well', None, None, None, 0), ('so may be seen as something negative in Japan .', None, None, None, 1), ('I would agree on the issue of beauty', None, None, None, 0), ('that was mentioned in the article .', None, None, None, 1), ("It should n't be biased , only informative .", None, None, None, 1)]]
+Leaf:  N Contrast Educational videos can be helpful ,
+Leaf:  S span but this seems rather silly to me .
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Joint I would not consider applying make up on a train a pet peeve
+Leaf:  S span and I 'm surprised
+Leaf:  N Attribution it was on a list of complaints from other people .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span But we have to remember
+Leaf:  S span that this is a different culture
+Leaf:  N Cause as well
+Inner:  S span None Cause SN
+Leaf:  N Cause so may be seen as something negative in Japan .
+Inner:  N Attribution None Cause SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I would agree on the issue of beauty
+Leaf:  S span that was mentioned in the article .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It should n't be biased , only informative .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Educational videos can be helpful ,', None, None, None, 0), ('but this seems rather silly to me .', None, None, None, 1), ('I would not consider applying make up on a train a pet peeve', None, None, None, 0), ("and I 'm surprised", None, None, None, 0), ('it was on a list of complaints from other people .', None, None, None, 1), ('But we have to remember', None, None, None, 0), ('that this is a different culture', None, None, None, 0), ('as well', None, None, None, 0), ('so may be seen as something negative in Japan .', None, None, None, 1), ('I would agree on the issue of beauty', None, None, None, 0), ('that was mentioned in the article .', None, None, None, 1), ("It should n't be biased , only informative .", None, None, None, 1)]

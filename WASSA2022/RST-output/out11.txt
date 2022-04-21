@@ -1,0 +1,27 @@
+=====================> [[('I thought', None, None, None, 0), ('the article was quite sad to read', None, None, None, 0), ('and disheartening to hear about the Iraqi people .', None, None, None, 1), ('I felt sad for them', None, None, None, 0), ('knowing their future was uncertain', None, None, None, 0), ('and how hard it was to find a job .', None, None, None, 1), ('The economy', None, None, None, 0), ('they deal with', None, None, None, 0), ('is much worse than ours', None, None, None, 0), ('and I can only imagine', None, None, None, 0), ('how difficult it must be living there .', None, None, None, 1), ('I hope', None, None, None, 0), ('that it gets better in the future .', None, None, None, 1)]]
+Leaf:  S span I thought
+Leaf:  N Joint the article was quite sad to read
+Leaf:  N Joint and disheartening to hear about the Iraqi people .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Background I felt sad for them
+Leaf:  N Joint knowing their future was uncertain
+Leaf:  N Joint and how hard it was to find a job .
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate The economy
+Leaf:  S span they deal with
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is much worse than ours
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span and I can only imagine
+Leaf:  N Attribution how difficult it must be living there .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Attribution that it gets better in the future .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I thought', None, None, None, 0), ('the article was quite sad to read', None, None, None, 0), ('and disheartening to hear about the Iraqi people .', None, None, None, 1), ('I felt sad for them', None, None, None, 0), ('knowing their future was uncertain', None, None, None, 0), ('and how hard it was to find a job .', None, None, None, 1), ('The economy', None, None, None, 0), ('they deal with', None, None, None, 0), ('is much worse than ours', None, None, None, 0), ('and I can only imagine', None, None, None, 0), ('how difficult it must be living there .', None, None, None, 1), ('I hope', None, None, None, 0), ('that it gets better in the future .', None, None, None, 1)]

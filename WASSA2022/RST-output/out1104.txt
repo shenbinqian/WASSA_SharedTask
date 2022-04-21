@@ -1,0 +1,29 @@
+=====================> [[('Just read', None, None, None, 0), ('that due to climate change , hotter than normal temps may be the new normal .', None, None, None, 1), ('In 2013 , temps screamed up to 122 F. in Australia ,', None, None, None, 0), ('which is frightening .', None, None, None, 1), ('But', None, None, None, 0), ('when you think about who really has the capacity', None, None, None, 0), ('to change this', None, None, None, 0), ('-- which is each individual', None, None, None, 0), ('-- it gets even more frightening .', None, None, None, 1), ('The primary cause of climate change is just too many people , full stop .', None, None, None, 1), ('I do not have much hope', None, None, None, 0), ('that people will stop procreating', None, None, None, 0), ('to save themselves ,', None, None, None, 0), ('and this is the biggest tragedy of all .', None, None, None, 1)]]
+Leaf:  S span Just read
+Leaf:  N Attribution that due to climate change , hotter than normal temps may be the new normal .
+Inner:  N Background None Attribution SN
+Leaf:  N Evaluation In 2013 , temps screamed up to 122 F. in Australia ,
+Leaf:  S span which is frightening .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Same-Unit But
+Leaf:  N Elaborate when you think about who really has the capacity
+Leaf:  N Elaborate to change this
+Leaf:  S span -- which is each individual
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation -- it gets even more frightening .
+Inner:  N Same-Unit None Evaluation NN
+Inner:  S span None Same-Unit NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Evaluation The primary cause of climate change is just too many people , full stop .
+Leaf:  N Elaborate I do not have much hope
+Leaf:  N Enablement that people will stop procreating
+Leaf:  S span to save themselves ,
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and this is the biggest tragedy of all .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Just read', None, None, None, 0), ('that due to climate change , hotter than normal temps may be the new normal .', None, None, None, 1), ('In 2013 , temps screamed up to 122 F. in Australia ,', None, None, None, 0), ('which is frightening .', None, None, None, 1), ('But', None, None, None, 0), ('when you think about who really has the capacity', None, None, None, 0), ('to change this', None, None, None, 0), ('-- which is each individual', None, None, None, 0), ('-- it gets even more frightening .', None, None, None, 1), ('The primary cause of climate change is just too many people , full stop .', None, None, None, 1), ('I do not have much hope', None, None, None, 0), ('that people will stop procreating', None, None, None, 0), ('to save themselves ,', None, None, None, 0), ('and this is the biggest tragedy of all .', None, None, None, 1)]

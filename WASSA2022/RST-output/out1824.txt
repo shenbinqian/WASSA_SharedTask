@@ -1,0 +1,21 @@
+=====================> [[('Since Trump became president', None, None, None, 0), ('it has been clear that people who are racist , misogynist , and sexist people have been hiding ,', None, None, None, 0), ('probably because society overall expresses these things as a bad thing .', None, None, None, 1), ('But', None, None, None, 0), ('since they see a leader', None, None, None, 0), ('that is like them ,', None, None, None, 0), ('it gives them fuel', None, None, None, 0), ('to be bad people in public', None, None, None, 0), ('and even are proud of it .', None, None, None, 1), ('I just hate Trump and everything about him as well as his supporters .', None, None, None, 1)]]
+Leaf:  N Same-Unit Since Trump became president
+Leaf:  N Same-Unit it has been clear that people who are racist , misogynist , and sexist people have been hiding ,
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span probably because society overall expresses these things as a bad thing .
+Inner:  N Contrast None Explanation NS
+Leaf:  N Same-Unit But
+Leaf:  N Elaborate since they see a leader
+Leaf:  S span that is like them ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate it gives them fuel
+Leaf:  N Joint to be bad people in public
+Leaf:  N Joint and even are proud of it .
+Inner:  S span None Joint NN
+Inner:  N Manner-Means None Elaborate NS
+Inner:  N Same-Unit None Manner-Means SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span I just hate Trump and everything about him as well as his supporters .
+Inner:  Root None None Evaluation NS
+[('Since Trump became president', None, None, None, 0), ('it has been clear that people who are racist , misogynist , and sexist people have been hiding ,', None, None, None, 0), ('probably because society overall expresses these things as a bad thing .', None, None, None, 1), ('But', None, None, None, 0), ('since they see a leader', None, None, None, 0), ('that is like them ,', None, None, None, 0), ('it gives them fuel', None, None, None, 0), ('to be bad people in public', None, None, None, 0), ('and even are proud of it .', None, None, None, 1), ('I just hate Trump and everything about him as well as his supporters .', None, None, None, 1)]

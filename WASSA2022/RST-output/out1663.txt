@@ -1,0 +1,39 @@
+=====================> [[('This ticks me off for two reasons :', None, None, None, 0), ('One ,', None, None, None, 0), ("that we 've messed up the Australian ecosystem so badly ,", None, None, None, 0), ('and two ,', None, None, None, 0), ('that people are going to read it', None, None, None, 0), ('and say', None, None, None, 0), ('" Oh , no , it was n\'t climate change at all ,', None, None, None, 0), ("so we do n't have to do anything", None, None, None, 0), ('to fix it . "', None, None, None, 0), ('Either way , it was man-made problems', None, None, None, 0), ('that did this little guy in .', None, None, None, 1), ('I wish', None, None, None, 0), ('they would blame it thoroughly on climate change ,', None, None, None, 0), ('so people would maybe be spurred to do something .', None, None, None, 1), ("Instead , right now they 'll say", None, None, None, 0), ('" Oh , it was n\'t * really * climate change , "', None, None, None, 0), ("and when a more clear-cut extinction happens , they 'll point back to this", None, None, None, 0), ('and say', None, None, None, 0), ('" Well , it \'s been going on for a long time now , nothing we can do . " Christ .', None, None, None, 1)]]
+Leaf:  N Elaborate This ticks me off for two reasons :
+Leaf:  N Elaborate One ,
+Leaf:  N Joint that we 've messed up the Australian ecosystem so badly ,
+Leaf:  N Joint and two ,
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint that people are going to read it
+Leaf:  S span and say
+Leaf:  S span " Oh , no , it was n't climate change at all ,
+Leaf:  N Enablement so we do n't have to do anything
+Leaf:  S span to fix it . "
+Inner:  N Cause None Enablement NS
+Inner:  N Attribution None Cause SN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate Either way , it was man-made problems
+Leaf:  S span that did this little guy in .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Enablement they would blame it thoroughly on climate change ,
+Leaf:  S span so people would maybe be spurred to do something .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span Instead , right now they 'll say
+Leaf:  N Attribution " Oh , it was n't * really * climate change , "
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and when a more clear-cut extinction happens , they 'll point back to this
+Leaf:  S span and say
+Leaf:  N Attribution " Well , it 's been going on for a long time now , nothing we can do . " Christ .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  N Contrast None Joint NN
+Inner:  Root None None Contrast NN
+[('This ticks me off for two reasons :', None, None, None, 0), ('One ,', None, None, None, 0), ("that we 've messed up the Australian ecosystem so badly ,", None, None, None, 0), ('and two ,', None, None, None, 0), ('that people are going to read it', None, None, None, 0), ('and say', None, None, None, 0), ('" Oh , no , it was n\'t climate change at all ,', None, None, None, 0), ("so we do n't have to do anything", None, None, None, 0), ('to fix it . "', None, None, None, 0), ('Either way , it was man-made problems', None, None, None, 0), ('that did this little guy in .', None, None, None, 1), ('I wish', None, None, None, 0), ('they would blame it thoroughly on climate change ,', None, None, None, 0), ('so people would maybe be spurred to do something .', None, None, None, 1), ("Instead , right now they 'll say", None, None, None, 0), ('" Oh , it was n\'t * really * climate change , "', None, None, None, 0), ("and when a more clear-cut extinction happens , they 'll point back to this", None, None, None, 0), ('and say', None, None, None, 0), ('" Well , it \'s been going on for a long time now , nothing we can do . " Christ .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Some of the drivers around this place need to be taken out of their cars and arrested .', None, None, None, 1), ('Some people were struck on Highway 80 near Chunky .', None, None, None, 1), ('Some kids were involved .', None, None, None, 1), ('I think', None, None, None, 0), ('three people died .', None, None, None, 1), ('They were riding on the back of a trailer', None, None, None, 0), ('celebrating Halloween .', None, None, None, 1), ('A vehicle collided with the trailer probably a drunk .', None, None, None, 1), ('I think', None, None, None, 0), ('they were just in a hurry like everyone else around here .', None, None, None, 1), ('I guess', None, None, None, 0), ('that driver is going to get it .', None, None, None, 1)]]
+Leaf:  N Summary Some of the drivers around this place need to be taken out of their cars and arrested .
+Leaf:  N Elaborate Some people were struck on Highway 80 near Chunky .
+Leaf:  N Joint Some kids were involved .
+Leaf:  S span I think
+Leaf:  N Attribution three people died .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate They were riding on the back of a trailer
+Leaf:  S span celebrating Halloween .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span A vehicle collided with the trailer probably a drunk .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution they were just in a hurry like everyone else around here .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Attribution that driver is going to get it .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Some of the drivers around this place need to be taken out of their cars and arrested .', None, None, None, 1), ('Some people were struck on Highway 80 near Chunky .', None, None, None, 1), ('Some kids were involved .', None, None, None, 1), ('I think', None, None, None, 0), ('three people died .', None, None, None, 1), ('They were riding on the back of a trailer', None, None, None, 0), ('celebrating Halloween .', None, None, None, 1), ('A vehicle collided with the trailer probably a drunk .', None, None, None, 1), ('I think', None, None, None, 0), ('they were just in a hurry like everyone else around here .', None, None, None, 1), ('I guess', None, None, None, 0), ('that driver is going to get it .', None, None, None, 1)]

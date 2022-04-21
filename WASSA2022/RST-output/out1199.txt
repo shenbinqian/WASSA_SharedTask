@@ -1,0 +1,21 @@
+=====================> [[('I ’m so tired of Republicans .', None, None, None, 1), ('They never compromise .', None, None, None, 1), ('They want it their way .', None, None, None, 1), ('They never meet in the middle or half way .', None, None, None, 1), ('The government is a joke', None, None, None, 0), ('and ca n’t get a thing done', None, None, None, 0), ('because of the divide in parties .', None, None, None, 1), ('Democrats are willing to meet in the middle', None, None, None, 0), ('but it does n’t matter', None, None, None, 0), ('because conservatives will only have one way .', None, None, None, 1)]]
+Leaf:  N Elaborate I ’m so tired of Republicans .
+Leaf:  N Elaborate They never compromise .
+Leaf:  S span They want it their way .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint They never meet in the middle or half way .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint The government is a joke
+Leaf:  N Cause and ca n’t get a thing done
+Leaf:  S span because of the divide in parties .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Democrats are willing to meet in the middle
+Leaf:  N Explanation but it does n’t matter
+Leaf:  S span because conservatives will only have one way .
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I ’m so tired of Republicans .', None, None, None, 1), ('They never compromise .', None, None, None, 1), ('They want it their way .', None, None, None, 1), ('They never meet in the middle or half way .', None, None, None, 1), ('The government is a joke', None, None, None, 0), ('and ca n’t get a thing done', None, None, None, 0), ('because of the divide in parties .', None, None, None, 1), ('Democrats are willing to meet in the middle', None, None, None, 0), ('but it does n’t matter', None, None, None, 0), ('because conservatives will only have one way .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Wow , what a horrible and terrifying accident ,', None, None, None, 0), ('I feel very bad for the people', None, None, None, 0), ('involved and their families .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what caused this terrible accident ,', None, None, None, 0), ('I hope', None, None, None, 0), ('that it was not any human error ,', None, None, None, 0), ('because that makes it worse', None, None, None, 0), ('to deal with .', None, None, None, 1), ('I can not imagine being on that train and the intensity of the accident .', None, None, None, 1), ('It makes me feelvery sad', None, None, None, 0), ('thinking about the deaths of those people on board .', None, None, None, 1)]]
+Leaf:  N Evaluation Wow , what a horrible and terrifying accident ,
+Leaf:  N Elaborate I feel very bad for the people
+Leaf:  S span involved and their families .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Attribution what caused this terrible accident ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution that it was not any human error ,
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate because that makes it worse
+Leaf:  S span to deal with .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I can not imagine being on that train and the intensity of the accident .
+Leaf:  N Background It makes me feelvery sad
+Leaf:  S span thinking about the deaths of those people on board .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow , what a horrible and terrifying accident ,', None, None, None, 0), ('I feel very bad for the people', None, None, None, 0), ('involved and their families .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what caused this terrible accident ,', None, None, None, 0), ('I hope', None, None, None, 0), ('that it was not any human error ,', None, None, None, 0), ('because that makes it worse', None, None, None, 0), ('to deal with .', None, None, None, 1), ('I can not imagine being on that train and the intensity of the accident .', None, None, None, 1), ('It makes me feelvery sad', None, None, None, 0), ('thinking about the deaths of those people on board .', None, None, None, 1)]

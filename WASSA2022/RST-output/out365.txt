@@ -1,0 +1,33 @@
+=====================> [[('Another doom and gloom article about Trump .', None, None, None, 1), ('Not surprising , ethics and truth passed out of journalism long ago .', None, None, None, 1), ('Trump is not against renewable power ,', None, None, None, 0), ('he just wants a free market', None, None, None, 0), ('and he is right .', None, None, None, 1), ('The free market is the only way', None, None, None, 0), ('you will get renewables to the efficiency', None, None, None, 0), ('that they need', None, None, None, 0), ('to go global', None, None, None, 0), ('and push carbon out .', None, None, None, 1), ('If you coddle them', None, None, None, 0), ('they will get fat and lazy', None, None, None, 0), ('and never move forward .', None, None, None, 1), ('The Paris treaty was a push toward globalism and a boon for the liberals', None, None, None, 0), ('who dream of an elite class', None, None, None, 0), ('ruling the world .', None, None, None, 1)]]
+Leaf:  N Elaborate Another doom and gloom article about Trump .
+Leaf:  S span Not surprising , ethics and truth passed out of journalism long ago .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast Trump is not against renewable power ,
+Leaf:  N Contrast he just wants a free market
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span and he is right .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate The free market is the only way
+Leaf:  N Elaborate you will get renewables to the efficiency
+Leaf:  S span that they need
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint to go global
+Leaf:  N Joint and push carbon out .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span If you coddle them
+Leaf:  N Temporal they will get fat and lazy
+Leaf:  N Temporal and never move forward .
+Inner:  N Condition None Temporal NN
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The Paris treaty was a push toward globalism and a boon for the liberals
+Leaf:  N Elaborate who dream of an elite class
+Leaf:  S span ruling the world .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Another doom and gloom article about Trump .', None, None, None, 1), ('Not surprising , ethics and truth passed out of journalism long ago .', None, None, None, 1), ('Trump is not against renewable power ,', None, None, None, 0), ('he just wants a free market', None, None, None, 0), ('and he is right .', None, None, None, 1), ('The free market is the only way', None, None, None, 0), ('you will get renewables to the efficiency', None, None, None, 0), ('that they need', None, None, None, 0), ('to go global', None, None, None, 0), ('and push carbon out .', None, None, None, 1), ('If you coddle them', None, None, None, 0), ('they will get fat and lazy', None, None, None, 0), ('and never move forward .', None, None, None, 1), ('The Paris treaty was a push toward globalism and a boon for the liberals', None, None, None, 0), ('who dream of an elite class', None, None, None, 0), ('ruling the world .', None, None, None, 1)]

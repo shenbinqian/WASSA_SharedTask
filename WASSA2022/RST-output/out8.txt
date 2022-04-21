@@ -1,0 +1,19 @@
+=====================> [[('well well well ,', None, None, None, 0), ('look at what we have well ,', None, None, None, 0), ('the arrogant Kim Kardashian finally got what she deserves :', None, None, None, 0), ('being robbed for millions ,', None, None, None, 0), ('the thought of it is bitter ,', None, None, None, 0), ("considering it 's a robbery after all , but think the other way , a rich superfluous gal as Kim ,", None, None, None, 0), ('broadcasting her belongings on social media ,', None, None, None, 0), ('I guess', None, None, None, 0), ('she brought this upon herself', None, None, None, 0)]]
+Leaf:  N Evaluation well well well ,
+Leaf:  S span look at what we have well ,
+Inner:  S span None Evaluation NS
+Leaf:  N Elaborate the arrogant Kim Kardashian finally got what she deserves :
+Leaf:  N Evaluation being robbed for millions ,
+Leaf:  N Background the thought of it is bitter ,
+Leaf:  N Elaborate considering it 's a robbery after all , but think the other way , a rich superfluous gal as Kim ,
+Leaf:  S span broadcasting her belongings on social media ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Attribution she brought this upon herself
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Inner:  Root None None Evaluation SN
+[('well well well ,', None, None, None, 0), ('look at what we have well ,', None, None, None, 0), ('the arrogant Kim Kardashian finally got what she deserves :', None, None, None, 0), ('being robbed for millions ,', None, None, None, 0), ('the thought of it is bitter ,', None, None, None, 0), ("considering it 's a robbery after all , but think the other way , a rich superfluous gal as Kim ,", None, None, None, 0), ('broadcasting her belongings on social media ,', None, None, None, 0), ('I guess', None, None, None, 0), ('she brought this upon herself', None, None, None, 0)]

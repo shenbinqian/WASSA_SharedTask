@@ -1,0 +1,33 @@
+=====================> [[('Those poor officers . Like in any group of people , there are good and bad ones .', None, None, None, 1), ('In this society the tendency', None, None, None, 0), ('to demonize everyone for the actions of a few sets a very dangerous precedent', None, None, None, 0), ('and things like this can happen .', None, None, None, 1), ('Every person should be judged on their own merits .', None, None, None, 1), ('Saying', None, None, None, 0), ('all cops are bad', None, None, None, 0), ('because of what a few have done is so insane', None, None, None, 0), ("and the public outrage leads to things like this . I do n't know for sure", None, None, None, 0), ("what this person 's motivations were", None, None, None, 0), ('but there have been enough instances', None, None, None, 0), ("that some do n't see law enforcement as people anymore", None, None, None, 0), ('and it makes their job so much more dangerous', None, None, None, 0), ('and we need good cops', None, None, None, 0), ('to do their jobs', None, None, None, 0), ('to keep us safe .', None, None, None, 1)]]
+Leaf:  N Explanation Those poor officers . Like in any group of people , there are good and bad ones .
+Leaf:  N Elaborate In this society the tendency
+Leaf:  S span to demonize everyone for the actions of a few sets a very dangerous precedent
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and things like this can happen .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate Every person should be judged on their own merits .
+Leaf:  S span Saying
+Leaf:  N Explanation all cops are bad
+Leaf:  S span because of what a few have done is so insane
+Inner:  N Attribution None Explanation NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span and the public outrage leads to things like this . I do n't know for sure
+Leaf:  N Attribution what this person 's motivations were
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Leaf:  N Elaborate but there have been enough instances
+Leaf:  S span that some do n't see law enforcement as people anymore
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and it makes their job so much more dangerous
+Inner:  N Evaluation None Cause NS
+Leaf:  N Enablement and we need good cops
+Leaf:  S span to do their jobs
+Inner:  N Enablement None Enablement NS
+Leaf:  S span to keep us safe .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Those poor officers . Like in any group of people , there are good and bad ones .', None, None, None, 1), ('In this society the tendency', None, None, None, 0), ('to demonize everyone for the actions of a few sets a very dangerous precedent', None, None, None, 0), ('and things like this can happen .', None, None, None, 1), ('Every person should be judged on their own merits .', None, None, None, 1), ('Saying', None, None, None, 0), ('all cops are bad', None, None, None, 0), ('because of what a few have done is so insane', None, None, None, 0), ("and the public outrage leads to things like this . I do n't know for sure", None, None, None, 0), ("what this person 's motivations were", None, None, None, 0), ('but there have been enough instances', None, None, None, 0), ("that some do n't see law enforcement as people anymore", None, None, None, 0), ('and it makes their job so much more dangerous', None, None, None, 0), ('and we need good cops', None, None, None, 0), ('to do their jobs', None, None, None, 0), ('to keep us safe .', None, None, None, 1)]

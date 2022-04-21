@@ -1,0 +1,25 @@
+=====================> [[('This is so disturbing .', None, None, None, 1), ('It says', None, None, None, 0), ('that they are killing chickens', None, None, None, 0), ('that are still awake during it .', None, None, None, 1), ("It 's like they like torturing them .", None, None, None, 1), ("Why ca n't we be like Europe ? In Europe they have rules", None, None, None, 0), ('on how this is supposed to be done .', None, None, None, 1), ('No we just let companies do whatever they like .', None, None, None, 1), ('How hard it is to kill something', None, None, None, 0), ('and make sure', None, None, None, 0), ("it 's not awake", None, None, None, 0), ('while doing so ?', None, None, None, 1)]]
+Leaf:  N Elaborate This is so disturbing .
+Leaf:  S span It says
+Leaf:  N Elaborate that they are killing chickens
+Leaf:  S span that are still awake during it .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It 's like they like torturing them .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Why ca n't we be like Europe ? In Europe they have rules
+Leaf:  S span on how this is supposed to be done .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint No we just let companies do whatever they like .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint How hard it is to kill something
+Leaf:  S span and make sure
+Leaf:  N Temporal it 's not awake
+Leaf:  S span while doing so ?
+Inner:  N Attribution None Temporal NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is so disturbing .', None, None, None, 1), ('It says', None, None, None, 0), ('that they are killing chickens', None, None, None, 0), ('that are still awake during it .', None, None, None, 1), ("It 's like they like torturing them .", None, None, None, 1), ("Why ca n't we be like Europe ? In Europe they have rules", None, None, None, 0), ('on how this is supposed to be done .', None, None, None, 1), ('No we just let companies do whatever they like .', None, None, None, 1), ('How hard it is to kill something', None, None, None, 0), ('and make sure', None, None, None, 0), ("it 's not awake", None, None, None, 0), ('while doing so ?', None, None, None, 1)]

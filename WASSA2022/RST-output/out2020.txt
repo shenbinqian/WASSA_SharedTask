@@ -1,0 +1,27 @@
+=====================> [[('This is insane .', None, None, None, 1), ('Anyone', None, None, None, 0), ('who has flown into Heathrow', None, None, None, 0), ('knows', None, None, None, 0), ("it 's got so many fields around it ,", None, None, None, 0), ('why ruin it ?', None, None, None, 1), ("Is n't it a big enough airport already ?", None, None, None, 1), ('And with London having issues', None, None, None, 0), ('as it is with air pollution ,', None, None, None, 0), ('why try to add to it for no reason at all ?', None, None, None, 1), ('This is outrageous', None, None, None, 0), ('and I hope', None, None, None, 0), ('they fight it every step of the way .', None, None, None, 1)]]
+Leaf:  N Summary This is insane .
+Leaf:  N Elaborate Anyone
+Leaf:  S span who has flown into Heathrow
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit knows
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution it 's got so many fields around it ,
+Inner:  N Cause None Attribution SN
+Leaf:  S span why ruin it ?
+Inner:  N Joint None Cause NS
+Leaf:  N Joint Is n't it a big enough airport already ?
+Inner:  S span None Joint NN
+Inner:  N Joint None Summary NS
+Leaf:  N Comparison And with London having issues
+Leaf:  S span as it is with air pollution ,
+Inner:  S span None Comparison NS
+Leaf:  N Background why try to add to it for no reason at all ?
+Inner:  N Joint None Background SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint This is outrageous
+Leaf:  S span and I hope
+Leaf:  N Attribution they fight it every step of the way .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This is insane .', None, None, None, 1), ('Anyone', None, None, None, 0), ('who has flown into Heathrow', None, None, None, 0), ('knows', None, None, None, 0), ("it 's got so many fields around it ,", None, None, None, 0), ('why ruin it ?', None, None, None, 1), ("Is n't it a big enough airport already ?", None, None, None, 1), ('And with London having issues', None, None, None, 0), ('as it is with air pollution ,', None, None, None, 0), ('why try to add to it for no reason at all ?', None, None, None, 1), ('This is outrageous', None, None, None, 0), ('and I hope', None, None, None, 0), ('they fight it every step of the way .', None, None, None, 1)]

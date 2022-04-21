@@ -1,0 +1,23 @@
+=====================> [[("If you 're here illegally ,", None, None, None, 0), ("you should n't be here .", None, None, None, 1), ("I do n't have much sympathy .", None, None, None, 1), ('Sure ,', None, None, None, 0), ('if your parents brought you here ,', None, None, None, 0), ("you did n't have much choice", None, None, None, 0), ('... but figure out how to be here legally .', None, None, None, 1), ("I do n't have much sympathy for people here illegally .", None, None, None, 1), ('There are ways', None, None, None, 0), ('to do things right ...', None, None, None, 1), ('and there are rules for a reason .', None, None, None, 1)]]
+Leaf:  S span If you 're here illegally ,
+Leaf:  N Condition you should n't be here .
+Inner:  N Evaluation None Condition SN
+Leaf:  S span I do n't have much sympathy .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Same-Unit Sure ,
+Leaf:  S span if your parents brought you here ,
+Leaf:  N Condition you did n't have much choice
+Inner:  N Elaborate None Condition SN
+Leaf:  S span ... but figure out how to be here legally .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I do n't have much sympathy for people here illegally .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate There are ways
+Leaf:  S span to do things right ...
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and there are rules for a reason .
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[("If you 're here illegally ,", None, None, None, 0), ("you should n't be here .", None, None, None, 1), ("I do n't have much sympathy .", None, None, None, 1), ('Sure ,', None, None, None, 0), ('if your parents brought you here ,', None, None, None, 0), ("you did n't have much choice", None, None, None, 0), ('... but figure out how to be here legally .', None, None, None, 1), ("I do n't have much sympathy for people here illegally .", None, None, None, 1), ('There are ways', None, None, None, 0), ('to do things right ...', None, None, None, 1), ('and there are rules for a reason .', None, None, None, 1)]

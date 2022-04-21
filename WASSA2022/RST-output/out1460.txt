@@ -1,0 +1,29 @@
+=====================> [[('I think', None, None, None, 0), ('they should find out', None, None, None, 0), ('precisely what she did to that child for 3 years and do the same thing to her for 3 years .', None, None, None, 1), ('Since she is stronger ,', None, None, None, 0), ('she will survive ,', None, None, None, 0), ('then they can bring her back to complete health , then do it again for the next 3 years ,', None, None, None, 0), ('then keep repeating it', None, None, None, 0), ("until she dies . I ca n't comprehend", None, None, None, 0), ('why people like this do these things ,', None, None, None, 0), ("but there is a special place in hell . I do n't buy the mental illness garbage .", None, None, None, 1), ('OF COURSE she has a mental illness ,', None, None, None, 0), ("but that should n't automatically imply protection from justice .", None, None, None, 1), ('The very nature of murder , especially of this kind , requires a mental illness to a certain degree , so no pleading insanity .', None, None, None, 1), ('Torture her as she tortured that poor boy .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  S span they should find out
+Leaf:  N Attribution precisely what she did to that child for 3 years and do the same thing to her for 3 years .
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Since she is stronger ,
+Leaf:  N Condition she will survive ,
+Inner:  S span None Condition SN
+Leaf:  N Condition then they can bring her back to complete health , then do it again for the next 3 years ,
+Inner:  N Temporal None Condition SN
+Leaf:  N Background then keep repeating it
+Leaf:  S span until she dies . I ca n't comprehend
+Leaf:  N Attribution why people like this do these things ,
+Inner:  S span None Attribution SN
+Inner:  N Temporal None Background NS
+Inner:  S span None Temporal NN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but there is a special place in hell . I do n't buy the mental illness garbage .
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span OF COURSE she has a mental illness ,
+Leaf:  N Contrast but that should n't automatically imply protection from justice .
+Inner:  N Explanation None Contrast SN
+Leaf:  S span The very nature of murder , especially of this kind , requires a mental illness to a certain degree , so no pleading insanity .
+Inner:  S span None Explanation NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Topic-Comment Torture her as she tortured that poor boy .
+Inner:  Root None None Topic-Comment NN
+[('I think', None, None, None, 0), ('they should find out', None, None, None, 0), ('precisely what she did to that child for 3 years and do the same thing to her for 3 years .', None, None, None, 1), ('Since she is stronger ,', None, None, None, 0), ('she will survive ,', None, None, None, 0), ('then they can bring her back to complete health , then do it again for the next 3 years ,', None, None, None, 0), ('then keep repeating it', None, None, None, 0), ("until she dies . I ca n't comprehend", None, None, None, 0), ('why people like this do these things ,', None, None, None, 0), ("but there is a special place in hell . I do n't buy the mental illness garbage .", None, None, None, 1), ('OF COURSE she has a mental illness ,', None, None, None, 0), ("but that should n't automatically imply protection from justice .", None, None, None, 1), ('The very nature of murder , especially of this kind , requires a mental illness to a certain degree , so no pleading insanity .', None, None, None, 1), ('Torture her as she tortured that poor boy .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('I feel', None, None, None, 0), ('like Venezuela is stuck .', None, None, None, 1), ('I truly feel', None, None, None, 0), ('like Maduro is not even a bad person', None, None, None, 0), ('just looked at wrong in public .', None, None, None, 1), ('I think', None, None, None, 0), ('Hugo Chavez was not all that bad neither .', None, None, None, 1), ('I do think', None, None, None, 0), ('they need a change from that communist style though .', None, None, None, 1), ('I think', None, None, None, 0), ('that the thing', None, None, None, 0), ('that keeps people up at night', None, None, None, 0), ('is that they need to change .', None, None, None, 1), ('That is how I feel about the whole Venezuela situation', None, None, None, 0), ('and it should change soon hopefully for their well being .', None, None, None, 1), ('Anything else might be too late or too much in the long run of things .', None, None, None, 1), ('We need to help make a change', None, None, None, 0), ('by donating to good organizations .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like Venezuela is stuck .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I truly feel
+Leaf:  N Elaborate like Maduro is not even a bad person
+Leaf:  S span just looked at wrong in public .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution Hugo Chavez was not all that bad neither .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Leaf:  S span I do think
+Leaf:  N Attribution they need a change from that communist style though .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Contrast NS
+Inner:  N Explanation None Joint NN
+Leaf:  S span I think
+Leaf:  N Elaborate that the thing
+Leaf:  S span that keeps people up at night
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is that they need to change .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint That is how I feel about the whole Venezuela situation
+Leaf:  N Joint and it should change soon hopefully for their well being .
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast Anything else might be too late or too much in the long run of things .
+Inner:  S span None Contrast NN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Manner-Means We need to help make a change
+Leaf:  S span by donating to good organizations .
+Inner:  N Topic-Comment None Manner-Means NS
+Inner:  Root None None Topic-Comment NN
+[('I feel', None, None, None, 0), ('like Venezuela is stuck .', None, None, None, 1), ('I truly feel', None, None, None, 0), ('like Maduro is not even a bad person', None, None, None, 0), ('just looked at wrong in public .', None, None, None, 1), ('I think', None, None, None, 0), ('Hugo Chavez was not all that bad neither .', None, None, None, 1), ('I do think', None, None, None, 0), ('they need a change from that communist style though .', None, None, None, 1), ('I think', None, None, None, 0), ('that the thing', None, None, None, 0), ('that keeps people up at night', None, None, None, 0), ('is that they need to change .', None, None, None, 1), ('That is how I feel about the whole Venezuela situation', None, None, None, 0), ('and it should change soon hopefully for their well being .', None, None, None, 1), ('Anything else might be too late or too much in the long run of things .', None, None, None, 1), ('We need to help make a change', None, None, None, 0), ('by donating to good organizations .', None, None, None, 1)]

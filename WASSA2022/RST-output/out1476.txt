@@ -1,0 +1,47 @@
+=====================> [[('Hi N.', None, None, None, 1), ('Just wanting to talk to somebody', None, None, None, 0), ('and you as always you are the right person', None, None, None, 0), ('to reach to . I just read an article on the Matthew and the destruction', None, None, None, 0), ('it left in Haiti .', None, None, None, 1), ('I was overwhelmed', None, None, None, 0), ('and I almost can not believe', None, None, None, 0), ('how many people were affected and not just that but they were suffering from all kinds of unimaginable things .', None, None, None, 1), ('Hunger was the first', None, None, None, 0), ('to list ,', None, None, None, 0), ('there was a lot a starvation ,', None, None, None, 0), ('people were poring from all over', None, None, None, 0), ('when aid was coming to bring them food aid with trucks .', None, None, None, 1), ('Disease was everywhere ,', None, None, None, 0), ('doctors coming from all over the world had to face with cholera and disease .', None, None, None, 1), ('Infrastructure was damaged ,', None, None, None, 0), ('homes destroyed .', None, None, None, 1), ('It is really hard to express in words all the suffering', None, None, None, 0), ('the people had to deal with .', None, None, None, 1), ('I feel', None, None, None, 0), ('like there should be something', None, None, None, 0), ('we should do', None, None, None, 0), ('to help .', None, None, None, 1)]]
+Leaf:  N Elaborate Hi N.
+Leaf:  N Joint Just wanting to talk to somebody
+Leaf:  N Elaborate and you as always you are the right person
+Leaf:  N Elaborate to reach to . I just read an article on the Matthew and the destruction
+Leaf:  S span it left in Haiti .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint I was overwhelmed
+Leaf:  S span and I almost can not believe
+Leaf:  N Attribution how many people were affected and not just that but they were suffering from all kinds of unimaginable things .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate Hunger was the first
+Leaf:  S span to list ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint there was a lot a starvation ,
+Leaf:  N Background people were poring from all over
+Leaf:  S span when aid was coming to bring them food aid with trucks .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Disease was everywhere ,
+Leaf:  N Joint doctors coming from all over the world had to face with cholera and disease .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Infrastructure was damaged ,
+Leaf:  N Joint homes destroyed .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It is really hard to express in words all the suffering
+Leaf:  S span the people had to deal with .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I feel
+Leaf:  N Elaborate like there should be something
+Leaf:  N Enablement we should do
+Leaf:  S span to help .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('Hi N.', None, None, None, 1), ('Just wanting to talk to somebody', None, None, None, 0), ('and you as always you are the right person', None, None, None, 0), ('to reach to . I just read an article on the Matthew and the destruction', None, None, None, 0), ('it left in Haiti .', None, None, None, 1), ('I was overwhelmed', None, None, None, 0), ('and I almost can not believe', None, None, None, 0), ('how many people were affected and not just that but they were suffering from all kinds of unimaginable things .', None, None, None, 1), ('Hunger was the first', None, None, None, 0), ('to list ,', None, None, None, 0), ('there was a lot a starvation ,', None, None, None, 0), ('people were poring from all over', None, None, None, 0), ('when aid was coming to bring them food aid with trucks .', None, None, None, 1), ('Disease was everywhere ,', None, None, None, 0), ('doctors coming from all over the world had to face with cholera and disease .', None, None, None, 1), ('Infrastructure was damaged ,', None, None, None, 0), ('homes destroyed .', None, None, None, 1), ('It is really hard to express in words all the suffering', None, None, None, 0), ('the people had to deal with .', None, None, None, 1), ('I feel', None, None, None, 0), ('like there should be something', None, None, None, 0), ('we should do', None, None, None, 0), ('to help .', None, None, None, 1)]

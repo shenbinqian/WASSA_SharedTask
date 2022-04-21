@@ -1,0 +1,27 @@
+=====================> [[('It seems pretty suspicious to me', None, None, None, 0), ('that a machine', None, None, None, 0), ('that was off', None, None, None, 0), ('could just turn itself back on .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('somebody either accidentally turned it on', None, None, None, 0), ('or do it on purpose .', None, None, None, 1), ('That sounds like a really awful way', None, None, None, 0), ('to go', None, None, None, 0), ('though being crushed like that .', None, None, None, 1), ('They better come up with some better safety requirements', None, None, None, 0), ('to make sure', None, None, None, 0), ("that does n't happen to anybody ever again .", None, None, None, 1)]]
+Leaf:  S span It seems pretty suspicious to me
+Leaf:  N Elaborate that a machine
+Leaf:  S span that was off
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit could just turn itself back on .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I 'm sure
+Leaf:  N Joint somebody either accidentally turned it on
+Leaf:  N Joint or do it on purpose .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate That sounds like a really awful way
+Leaf:  N Background to go
+Leaf:  S span though being crushed like that .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement They better come up with some better safety requirements
+Leaf:  S span to make sure
+Leaf:  N Attribution that does n't happen to anybody ever again .
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It seems pretty suspicious to me', None, None, None, 0), ('that a machine', None, None, None, 0), ('that was off', None, None, None, 0), ('could just turn itself back on .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('somebody either accidentally turned it on', None, None, None, 0), ('or do it on purpose .', None, None, None, 1), ('That sounds like a really awful way', None, None, None, 0), ('to go', None, None, None, 0), ('though being crushed like that .', None, None, None, 1), ('They better come up with some better safety requirements', None, None, None, 0), ('to make sure', None, None, None, 0), ("that does n't happen to anybody ever again .", None, None, None, 1)]

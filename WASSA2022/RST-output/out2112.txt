@@ -1,0 +1,23 @@
+=====================> [[('It is sad', None, None, None, 0), ('when a court can not come to a sound decision on the guilt or innocence of someone .', None, None, None, 1), ('I would lean towards guilty', None, None, None, 0), ('since the suspect ordered the drinks', None, None, None, 0), ('and that cyanide would be a common positon .', None, None, None, 1), ('There also seems to be a motive .', None, None, None, 1), ('They only scenario', None, None, None, 0), ('I could see', None, None, None, 0), ('is if a staff member slipped it ,', None, None, None, 0), ('but that seems unlikely .', None, None, None, 1), ('I feel bad for the family for suddenly losng someone like that', None, None, None, 0)]]
+Leaf:  S span It is sad
+Leaf:  N Attribution when a court can not come to a sound decision on the guilt or innocence of someone .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Explanation I would lean towards guilty
+Leaf:  N Joint since the suspect ordered the drinks
+Leaf:  N Joint and that cyanide would be a common positon .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Joint None Explanation NS
+Leaf:  N Elaborate There also seems to be a motive .
+Leaf:  N Elaborate They only scenario
+Leaf:  S span I could see
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is if a staff member slipped it ,
+Inner:  N Attribution None Same-Unit NN
+Leaf:  S span but that seems unlikely .
+Inner:  S span None Attribution NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I feel bad for the family for suddenly losng someone like that
+Inner:  Root None None Evaluation NS
+[('It is sad', None, None, None, 0), ('when a court can not come to a sound decision on the guilt or innocence of someone .', None, None, None, 1), ('I would lean towards guilty', None, None, None, 0), ('since the suspect ordered the drinks', None, None, None, 0), ('and that cyanide would be a common positon .', None, None, None, 1), ('There also seems to be a motive .', None, None, None, 1), ('They only scenario', None, None, None, 0), ('I could see', None, None, None, 0), ('is if a staff member slipped it ,', None, None, None, 0), ('but that seems unlikely .', None, None, None, 1), ('I feel bad for the family for suddenly losng someone like that', None, None, None, 0)]

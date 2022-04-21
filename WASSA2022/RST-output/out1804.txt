@@ -1,0 +1,17 @@
+=====================> [[("I just ca n't imagine", None, None, None, 0), ('how you would go from having a good day', None, None, None, 0), ('snorkeling with your loved one', None, None, None, 0), ('and be dead the next', None, None, None, 0), ('just how that would happen ?', None, None, None, 1), ('Then not to mention your spouse dies right alongside you in the same mystical way ,', None, None, None, 0), ('it just seems like there is more to it then that .', None, None, None, 1), ('It would seem like something had to of happened .', None, None, None, 1)]]
+Leaf:  S span I just ca n't imagine
+Leaf:  N Manner-Means how you would go from having a good day
+Leaf:  S span snorkeling with your loved one
+Inner:  N Temporal None Manner-Means NS
+Leaf:  N Temporal and be dead the next
+Inner:  N Attribution None Temporal NN
+Inner:  N Cause None Attribution SN
+Leaf:  S span just how that would happen ?
+Inner:  N Joint None Cause NS
+Leaf:  S span Then not to mention your spouse dies right alongside you in the same mystical way ,
+Leaf:  N Evaluation it just seems like there is more to it then that .
+Inner:  N Joint None Evaluation SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span It would seem like something had to of happened .
+Inner:  Root None None Elaborate NS
+[("I just ca n't imagine", None, None, None, 0), ('how you would go from having a good day', None, None, None, 0), ('snorkeling with your loved one', None, None, None, 0), ('and be dead the next', None, None, None, 0), ('just how that would happen ?', None, None, None, 1), ('Then not to mention your spouse dies right alongside you in the same mystical way ,', None, None, None, 0), ('it just seems like there is more to it then that .', None, None, None, 1), ('It would seem like something had to of happened .', None, None, None, 1)]

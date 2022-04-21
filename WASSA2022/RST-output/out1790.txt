@@ -1,0 +1,19 @@
+=====================> [[('HOpefully this fighting ends soon', None, None, None, 0), ('its getting to be too much the negative impact is getting bigger and bigger .', None, None, None, 1), ('If things dont stop', None, None, None, 0), ('before long then the fighting wont be in that area', None, None, None, 0), ('itll spread even wider', None, None, None, 0), ('as all the larger countries get involved', None, None, None, 0), ('and the fighting just wont stop .', None, None, None, 1), ('maybe we should start a petition or something', None, None, None, 0), ('to get some attention on this issue', None, None, None, 0)]]
+Leaf:  N Evaluation HOpefully this fighting ends soon
+Leaf:  S span its getting to be too much the negative impact is getting bigger and bigger .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Temporal If things dont stop
+Leaf:  S span before long then the fighting wont be in that area
+Inner:  N Explanation None Temporal NS
+Leaf:  N Background itll spread even wider
+Leaf:  S span as all the larger countries get involved
+Inner:  N Joint None Background NS
+Leaf:  N Joint and the fighting just wont stop .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Enablement maybe we should start a petition or something
+Leaf:  S span to get some attention on this issue
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('HOpefully this fighting ends soon', None, None, None, 0), ('its getting to be too much the negative impact is getting bigger and bigger .', None, None, None, 1), ('If things dont stop', None, None, None, 0), ('before long then the fighting wont be in that area', None, None, None, 0), ('itll spread even wider', None, None, None, 0), ('as all the larger countries get involved', None, None, None, 0), ('and the fighting just wont stop .', None, None, None, 1), ('maybe we should start a petition or something', None, None, None, 0), ('to get some attention on this issue', None, None, None, 0)]

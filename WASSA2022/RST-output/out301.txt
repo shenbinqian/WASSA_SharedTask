@@ -1,0 +1,33 @@
+=====================> [[('I found this article', None, None, None, 0), ('that was really sad about these divers', None, None, None, 0), ('that they found dead in a Florida cave system .', None, None, None, 1), ('It was so sad .', None, None, None, 1), ('I was really depressed', None, None, None, 0), ('after reading it .', None, None, None, 1), ("Perhaps they should n't have gone so far down", None, None, None, 0), ('because there was a sign', None, None, None, 0), ('saying not to ,', None, None, None, 0), ('but still , it was very sad that they died .', None, None, None, 1), ('They were experienced', None, None, None, 0), ('and should have survived ,', None, None, None, 0), ("but they did n't .", None, None, None, 1), ('I really feel sorry for their friends and family .', None, None, None, 1), ('They will be dearly missed .', None, None, None, 1), ('Please pray for them and their families .', None, None, None, 1)]]
+Leaf:  N Elaborate I found this article
+Leaf:  N Elaborate that was really sad about these divers
+Leaf:  S span that they found dead in a Florida cave system .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It was so sad .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Temporal I was really depressed
+Leaf:  S span after reading it .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation Perhaps they should n't have gone so far down
+Leaf:  N Elaborate because there was a sign
+Leaf:  S span saying not to ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Leaf:  N Contrast but still , it was very sad that they died .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint They were experienced
+Leaf:  N Joint and should have survived ,
+Inner:  S span None Joint NN
+Leaf:  N Contrast but they did n't .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I really feel sorry for their friends and family .
+Leaf:  S span They will be dearly missed .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Please pray for them and their families .
+Inner:  Root None None Elaborate NS
+[('I found this article', None, None, None, 0), ('that was really sad about these divers', None, None, None, 0), ('that they found dead in a Florida cave system .', None, None, None, 1), ('It was so sad .', None, None, None, 1), ('I was really depressed', None, None, None, 0), ('after reading it .', None, None, None, 1), ("Perhaps they should n't have gone so far down", None, None, None, 0), ('because there was a sign', None, None, None, 0), ('saying not to ,', None, None, None, 0), ('but still , it was very sad that they died .', None, None, None, 1), ('They were experienced', None, None, None, 0), ('and should have survived ,', None, None, None, 0), ("but they did n't .", None, None, None, 1), ('I really feel sorry for their friends and family .', None, None, None, 1), ('They will be dearly missed .', None, None, None, 1), ('Please pray for them and their families .', None, None, None, 1)]

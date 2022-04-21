@@ -1,0 +1,23 @@
+=====================> [[('Read an interesting article about blight in the forests', None, None, None, 0), ('you might enjoy .', None, None, None, 1), ('So true , you just have to live', None, None, None, 0), ('to learn with things .', None, None, None, 1), ("Change is certain . It 's the one constant on the planet as in life .", None, None, None, 1), ("Check it out , it 's sort of sad fact of reality", None, None, None, 0), ('but as true', None, None, None, 0), ('as can be .', None, None, None, 1), ('Change is gon na come', None, None, None, 0), ('regardless of what you do', None, None, None, 0), ('and regardless of if you want it to or not .', None, None, None, 1)]]
+Leaf:  N Elaborate Read an interesting article about blight in the forests
+Leaf:  S span you might enjoy .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement So true , you just have to live
+Leaf:  S span to learn with things .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Change is certain . It 's the one constant on the planet as in life .
+Leaf:  N Contrast Check it out , it 's sort of sad fact of reality
+Leaf:  N Contrast but as true
+Leaf:  N Contrast as can be .
+Inner:  N Contrast None Contrast NN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Contrast Change is gon na come
+Leaf:  N Joint regardless of what you do
+Leaf:  N Joint and regardless of if you want it to or not .
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Read an interesting article about blight in the forests', None, None, None, 0), ('you might enjoy .', None, None, None, 1), ('So true , you just have to live', None, None, None, 0), ('to learn with things .', None, None, None, 1), ("Change is certain . It 's the one constant on the planet as in life .", None, None, None, 1), ("Check it out , it 's sort of sad fact of reality", None, None, None, 0), ('but as true', None, None, None, 0), ('as can be .', None, None, None, 1), ('Change is gon na come', None, None, None, 0), ('regardless of what you do', None, None, None, 0), ('and regardless of if you want it to or not .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Things are really heating up', None, None, None, 0), ('i dont know', None, None, None, 0), ('how much longer we can keep things up like this .', None, None, None, 1), ('if we can help', None, None, None, 0), ('they should tell us clearly', None, None, None, 0), ('how we can help out', None, None, None, 0), ('so that the temperature doesnt get too high .', None, None, None, 1), ('if it gets too hot', None, None, None, 0), ('then things will be really messed up for us', None, None, None, 0), ('and our childrens futures will be in danger', None, None, None, 0)]]
+Leaf:  N Cause Things are really heating up
+Leaf:  S span i dont know
+Leaf:  N Attribution how much longer we can keep things up like this .
+Inner:  N Cause None Attribution SN
+Inner:  N Elaborate None Cause NN
+Leaf:  S span if we can help
+Leaf:  S span they should tell us clearly
+Leaf:  N Enablement how we can help out
+Leaf:  S span so that the temperature doesnt get too high .
+Inner:  N Attribution None Enablement NS
+Inner:  N Condition None Attribution SN
+Inner:  N Explanation None Condition SN
+Leaf:  S span if it gets too hot
+Leaf:  N Joint then things will be really messed up for us
+Leaf:  N Joint and our childrens futures will be in danger
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Things are really heating up', None, None, None, 0), ('i dont know', None, None, None, 0), ('how much longer we can keep things up like this .', None, None, None, 1), ('if we can help', None, None, None, 0), ('they should tell us clearly', None, None, None, 0), ('how we can help out', None, None, None, 0), ('so that the temperature doesnt get too high .', None, None, None, 1), ('if it gets too hot', None, None, None, 0), ('then things will be really messed up for us', None, None, None, 0), ('and our childrens futures will be in danger', None, None, None, 0)]

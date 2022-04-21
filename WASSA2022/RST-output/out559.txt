@@ -1,0 +1,23 @@
+=====================> [[('Oh man , I feel perturbed .', None, None, None, 1), ('Why do people have to keep suffering and dying', None, None, None, 0), ('so we can understand', None, None, None, 0), ('that strict gun control is necessary ,', None, None, None, 0), ('who needs to die ?', None, None, None, 1), ('How many people ? This is just a sad and crazy story', None, None, None, 0), ('repeating itself , over and over again .', None, None, None, 1), ('We need to understand', None, None, None, 0), ('that', None, None, None, 0), ('as long as anyone can get a gun ,', None, None, None, 0), ('nobody is safe .', None, None, None, 1)]]
+Leaf:  N Explanation Oh man , I feel perturbed .
+Leaf:  N Enablement Why do people have to keep suffering and dying
+Leaf:  S span so we can understand
+Leaf:  N Attribution that strict gun control is necessary ,
+Inner:  S span None Attribution SN
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint who needs to die ?
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate How many people ? This is just a sad and crazy story
+Leaf:  S span repeating itself , over and over again .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span We need to understand
+Leaf:  N Same-Unit that
+Leaf:  S span as long as anyone can get a gun ,
+Leaf:  N Condition nobody is safe .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Oh man , I feel perturbed .', None, None, None, 1), ('Why do people have to keep suffering and dying', None, None, None, 0), ('so we can understand', None, None, None, 0), ('that strict gun control is necessary ,', None, None, None, 0), ('who needs to die ?', None, None, None, 1), ('How many people ? This is just a sad and crazy story', None, None, None, 0), ('repeating itself , over and over again .', None, None, None, 1), ('We need to understand', None, None, None, 0), ('that', None, None, None, 0), ('as long as anyone can get a gun ,', None, None, None, 0), ('nobody is safe .', None, None, None, 1)]

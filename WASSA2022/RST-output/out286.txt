@@ -1,0 +1,29 @@
+=====================> [[("I do n't really feel much of anything", None, None, None, 0), ('when I read about this sort of incident', None, None, None, 0), ('since it happens all the time ,', None, None, None, 0), ('I guess', None, None, None, 0), ('if I had to come up with something', None, None, None, 0), ('I would say', None, None, None, 0), ("I feel vaguely annoyed and irritated , I do n't see why people ca n't manage to watch sports games in an orderly , non-violent manner ,", None, None, None, 0), ('so the fact', None, None, None, 0), ('that we have to deal with this nonsense every time', None, None, None, 0), ('a popular sporting event happens', None, None, None, 0), ('is irritating .', None, None, None, 1), ('I think', None, None, None, 0), ('that it should not be difficult for people to conduct themselves appropriately ,', None, None, None, 0), ('so it is frustrating that this sort of thing happens so often during sporting and other events .', None, None, None, 1)]]
+Leaf:  N Background I do n't really feel much of anything
+Leaf:  S span when I read about this sort of incident
+Inner:  N Explanation None Background NS
+Leaf:  S span since it happens all the time ,
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Same-Unit I guess
+Leaf:  S span if I had to come up with something
+Leaf:  N Condition I would say
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution I feel vaguely annoyed and irritated , I do n't see why people ca n't manage to watch sports games in an orderly , non-violent manner ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate so the fact
+Leaf:  N Elaborate that we have to deal with this nonsense every time
+Leaf:  S span a popular sporting event happens
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is irritating .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Attribution that it should not be difficult for people to conduct themselves appropriately ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span so it is frustrating that this sort of thing happens so often during sporting and other events .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't really feel much of anything", None, None, None, 0), ('when I read about this sort of incident', None, None, None, 0), ('since it happens all the time ,', None, None, None, 0), ('I guess', None, None, None, 0), ('if I had to come up with something', None, None, None, 0), ('I would say', None, None, None, 0), ("I feel vaguely annoyed and irritated , I do n't see why people ca n't manage to watch sports games in an orderly , non-violent manner ,", None, None, None, 0), ('so the fact', None, None, None, 0), ('that we have to deal with this nonsense every time', None, None, None, 0), ('a popular sporting event happens', None, None, None, 0), ('is irritating .', None, None, None, 1), ('I think', None, None, None, 0), ('that it should not be difficult for people to conduct themselves appropriately ,', None, None, None, 0), ('so it is frustrating that this sort of thing happens so often during sporting and other events .', None, None, None, 1)]

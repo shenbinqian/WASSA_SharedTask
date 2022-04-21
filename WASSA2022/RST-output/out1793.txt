@@ -1,0 +1,25 @@
+=====================> [[('Okay , I live by the Arkansas River', None, None, None, 0), ('so I know about snapping turtles .', None, None, None, 1), ('All this guy had to do is move to another spot', None, None, None, 0), ('and the turtle was not going to chase him down .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('the guy must have been near a nest', None, None, None, 0), ('or something', None, None, None, 0), ('if the turtle tried to attack . Still , should he be charged with a felony ?', None, None, None, 1), ('My Granny Jones used to make turtle soup out of the snappers', None, None, None, 0), ('they fished out of her creek .', None, None, None, 1), ('I guess', None, None, None, 0), ("the difference is he was n't killing the turtle for food ... But , a felony ?", None, None, None, 1)]]
+Leaf:  S span Okay , I live by the Arkansas River
+Leaf:  N Cause so I know about snapping turtles .
+Inner:  N Elaborate None Cause SN
+Leaf:  S span All this guy had to do is move to another spot
+Leaf:  N Condition and the turtle was not going to chase him down .
+Inner:  N Evaluation None Condition SN
+Leaf:  S span I 'm sure
+Leaf:  N Joint the guy must have been near a nest
+Leaf:  N Joint or something
+Inner:  N Condition None Joint NN
+Leaf:  S span if the turtle tried to attack . Still , should he be charged with a felony ?
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate My Granny Jones used to make turtle soup out of the snappers
+Leaf:  S span they fished out of her creek .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Attribution the difference is he was n't killing the turtle for food ... But , a felony ?
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Okay , I live by the Arkansas River', None, None, None, 0), ('so I know about snapping turtles .', None, None, None, 1), ('All this guy had to do is move to another spot', None, None, None, 0), ('and the turtle was not going to chase him down .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('the guy must have been near a nest', None, None, None, 0), ('or something', None, None, None, 0), ('if the turtle tried to attack . Still , should he be charged with a felony ?', None, None, None, 1), ('My Granny Jones used to make turtle soup out of the snappers', None, None, None, 0), ('they fished out of her creek .', None, None, None, 1), ('I guess', None, None, None, 0), ("the difference is he was n't killing the turtle for food ... But , a felony ?", None, None, None, 1)]

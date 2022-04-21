@@ -1,0 +1,17 @@
+=====================> [[('I normally back Russia', None, None, None, 0), ('as I love their country , people , language , and culture ,', None, None, None, 0), ("but I ca n't stand behind them on this one .", None, None, None, 1), ("Assad 's treatment of his civilians is absolutely terrible .", None, None, None, 1), ('This is the rare case', None, None, None, 0), ('when the US is in the right .', None, None, None, 1), ('Something has to be done', None, None, None, 0), ('to protect these people from their own government .', None, None, None, 1)]]
+Leaf:  N Explanation I normally back Russia
+Leaf:  S span as I love their country , people , language , and culture ,
+Inner:  S span None Explanation NS
+Leaf:  N Contrast but I ca n't stand behind them on this one .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Assad 's treatment of his civilians is absolutely terrible .
+Leaf:  N Temporal This is the rare case
+Leaf:  S span when the US is in the right .
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Enablement Something has to be done
+Leaf:  S span to protect these people from their own government .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I normally back Russia', None, None, None, 0), ('as I love their country , people , language , and culture ,', None, None, None, 0), ("but I ca n't stand behind them on this one .", None, None, None, 1), ("Assad 's treatment of his civilians is absolutely terrible .", None, None, None, 1), ('This is the rare case', None, None, None, 0), ('when the US is in the right .', None, None, None, 1), ('Something has to be done', None, None, None, 0), ('to protect these people from their own government .', None, None, None, 1)]

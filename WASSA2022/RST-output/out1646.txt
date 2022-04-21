@@ -1,0 +1,21 @@
+=====================> [[('Can you imagine what kind of heartache', None, None, None, 0), ('these people must be going through ?', None, None, None, 1), ("I do n't know", None, None, None, 0), ('what it would be like to have to live in fear', None, None, None, 0), ('that your own country is going to be bombed , let alone receiving a messages', None, None, None, 0), ('basically telling you', None, None, None, 0), ('that', None, None, None, 0), ("if you do n't get out now", None, None, None, 0), ('you could die from a bombing .', None, None, None, 1), ('Politics is making life so hard for so many innocent people .', None, None, None, 1)]]
+Leaf:  N Elaborate Can you imagine what kind of heartache
+Leaf:  S span these people must be going through ?
+Inner:  N Joint None Elaborate NS
+Leaf:  S span I do n't know
+Leaf:  N Elaborate what it would be like to have to live in fear
+Leaf:  S span that your own country is going to be bombed , let alone receiving a messages
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span basically telling you
+Leaf:  N Attribution that
+Inner:  N Same-Unit None Attribution SN
+Leaf:  S span if you do n't get out now
+Leaf:  N Condition you could die from a bombing .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Politics is making life so hard for so many innocent people .
+Inner:  Root None None Evaluation NS
+[('Can you imagine what kind of heartache', None, None, None, 0), ('these people must be going through ?', None, None, None, 1), ("I do n't know", None, None, None, 0), ('what it would be like to have to live in fear', None, None, None, 0), ('that your own country is going to be bombed , let alone receiving a messages', None, None, None, 0), ('basically telling you', None, None, None, 0), ('that', None, None, None, 0), ("if you do n't get out now", None, None, None, 0), ('you could die from a bombing .', None, None, None, 1), ('Politics is making life so hard for so many innocent people .', None, None, None, 1)]

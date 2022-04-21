@@ -1,0 +1,19 @@
+=====================> [[('This is such a weird experience and so unexplained .', None, None, None, 1), ('Why are so many people dying in the Med ?', None, None, None, 1), ('there are not enough safety measures', None, None, None, 0), ('being put in place', None, None, None, 0), ('so that people can safely enjoy themselves .', None, None, None, 1), ("It is so easy to take someone 's money", None, None, None, 0), ('but then you do not give them the safety', None, None, None, 0), ('that they paid for .', None, None, None, 1), ("It 's sad and such a shame but honestly , I not at all surprised .", None, None, None, 1)]]
+Leaf:  N Explanation This is such a weird experience and so unexplained .
+Leaf:  N Joint Why are so many people dying in the Med ?
+Leaf:  N Elaborate there are not enough safety measures
+Leaf:  S span being put in place
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span so that people can safely enjoy themselves .
+Inner:  N Joint None Enablement NS
+Leaf:  N Contrast It is so easy to take someone 's money
+Leaf:  N Elaborate but then you do not give them the safety
+Leaf:  S span that they paid for .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span It 's sad and such a shame but honestly , I not at all surprised .
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('This is such a weird experience and so unexplained .', None, None, None, 1), ('Why are so many people dying in the Med ?', None, None, None, 1), ('there are not enough safety measures', None, None, None, 0), ('being put in place', None, None, None, 0), ('so that people can safely enjoy themselves .', None, None, None, 1), ("It is so easy to take someone 's money", None, None, None, 0), ('but then you do not give them the safety', None, None, None, 0), ('that they paid for .', None, None, None, 1), ("It 's sad and such a shame but honestly , I not at all surprised .", None, None, None, 1)]

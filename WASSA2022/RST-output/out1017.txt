@@ -1,0 +1,21 @@
+=====================> [[('I just read an article about the hate and racism in America', None, None, None, 0), ('since Donald Trump won the election .', None, None, None, 1), ('It talked about " countless acts of hate "', None, None, None, 0), ('beggining from day one of Trumps presidency .', None, None, None, 1), ('I thought', None, None, None, 0), ('the article was misleading .', None, None, None, 1), ('You can not blame allready existing problems on a newly elected official .', None, None, None, 1), ('There was no facts or statisticis', None, None, None, 0), ('supporting the claims', None, None, None, 0), ('made in the article .', None, None, None, 1)]]
+Leaf:  N Background I just read an article about the hate and racism in America
+Leaf:  S span since Donald Trump won the election .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate It talked about " countless acts of hate "
+Leaf:  S span beggining from day one of Trumps presidency .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I thought
+Leaf:  N Attribution the article was misleading .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span You can not blame allready existing problems on a newly elected official .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate There was no facts or statisticis
+Leaf:  N Elaborate supporting the claims
+Leaf:  S span made in the article .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about the hate and racism in America', None, None, None, 0), ('since Donald Trump won the election .', None, None, None, 1), ('It talked about " countless acts of hate "', None, None, None, 0), ('beggining from day one of Trumps presidency .', None, None, None, 1), ('I thought', None, None, None, 0), ('the article was misleading .', None, None, None, 1), ('You can not blame allready existing problems on a newly elected official .', None, None, None, 1), ('There was no facts or statisticis', None, None, None, 0), ('supporting the claims', None, None, None, 0), ('made in the article .', None, None, None, 1)]

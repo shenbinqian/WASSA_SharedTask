@@ -1,0 +1,23 @@
+=====================> [[("Lucky we do n't go to the beach much eh ?", None, None, None, 1), ("But really it 's kinda spooky that these things are increasing .", None, None, None, 1), ('Probably something', None, None, None, 0), ('to do with global warming in a way', None, None, None, 0), ("we do n't", None, None, None, 0), ('understand yet .', None, None, None, 1), ("I 'm already afraid enough of open water ,", None, None, None, 0), ("do n't need to be thinking about sharks even closer to land .", None, None, None, 1), ('I know', None, None, None, 0), ("it 's Australia ,", None, None, None, 0), ("but Florida is n't that much different .", None, None, None, 1)]]
+Leaf:  N Evaluation Lucky we do n't go to the beach much eh ?
+Leaf:  N Elaborate But really it 's kinda spooky that these things are increasing .
+Leaf:  N Elaborate Probably something
+Leaf:  N Elaborate to do with global warming in a way
+Leaf:  N Elaborate we do n't
+Leaf:  S span understand yet .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint I 'm already afraid enough of open water ,
+Leaf:  N Joint do n't need to be thinking about sharks even closer to land .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I know
+Leaf:  N Contrast it 's Australia ,
+Leaf:  N Contrast but Florida is n't that much different .
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("Lucky we do n't go to the beach much eh ?", None, None, None, 1), ("But really it 's kinda spooky that these things are increasing .", None, None, None, 1), ('Probably something', None, None, None, 0), ('to do with global warming in a way', None, None, None, 0), ("we do n't", None, None, None, 0), ('understand yet .', None, None, None, 1), ("I 'm already afraid enough of open water ,", None, None, None, 0), ("do n't need to be thinking about sharks even closer to land .", None, None, None, 1), ('I know', None, None, None, 0), ("it 's Australia ,", None, None, None, 0), ("but Florida is n't that much different .", None, None, None, 1)]

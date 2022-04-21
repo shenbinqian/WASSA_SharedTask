@@ -1,0 +1,23 @@
+=====================> [[('I am at shock', None, None, None, 0), ('for what I have just read .', None, None, None, 1), ('First of all I would need a lot of time', None, None, None, 0), ('to reflect', None, None, None, 0), ('on what just transpired in the article', None, None, None, 0), ('I read .', None, None, None, 1), ('Please when you read this try not to get too sad about it', None, None, None, 0), ('because it will get you sad . Just try to find someone', None, None, None, 0), ('you love', None, None, None, 0), ('and hold onto them', None, None, None, 0), ('because we should not take for granted what we have .', None, None, None, 1)]]
+Leaf:  N Explanation I am at shock
+Leaf:  S span for what I have just read .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Enablement First of all I would need a lot of time
+Leaf:  S span to reflect
+Inner:  S span None Enablement NS
+Leaf:  N Elaborate on what just transpired in the article
+Leaf:  S span I read .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation Please when you read this try not to get too sad about it
+Leaf:  N Elaborate because it will get you sad . Just try to find someone
+Leaf:  N Joint you love
+Leaf:  N Joint and hold onto them
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because we should not take for granted what we have .
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I am at shock', None, None, None, 0), ('for what I have just read .', None, None, None, 1), ('First of all I would need a lot of time', None, None, None, 0), ('to reflect', None, None, None, 0), ('on what just transpired in the article', None, None, None, 0), ('I read .', None, None, None, 1), ('Please when you read this try not to get too sad about it', None, None, None, 0), ('because it will get you sad . Just try to find someone', None, None, None, 0), ('you love', None, None, None, 0), ('and hold onto them', None, None, None, 0), ('because we should not take for granted what we have .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Dude I seriously can not believe', None, None, None, 0), ('what happened at the zoo not too long ago .', None, None, None, 1), ('A kid fell into a moat in May', None, None, None, 0), ('when he fell through the barrier .', None, None, None, 1), ('Wow it must have been so terrifying for the family .', None, None, None, 1), ('Then the gorilla picked up the boy', None, None, None, 0), ('and carried him a little bit .', None, None, None, 1), ('They actually ended up shooting the gorilla', None, None, None, 0), ('which is so sad .', None, None, None, 1)]]
+Leaf:  S span Dude I seriously can not believe
+Leaf:  N Attribution what happened at the zoo not too long ago .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal A kid fell into a moat in May
+Leaf:  N Temporal when he fell through the barrier .
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span Wow it must have been so terrifying for the family .
+Inner:  N Temporal None Evaluation NS
+Leaf:  N Joint Then the gorilla picked up the boy
+Leaf:  N Joint and carried him a little bit .
+Inner:  N Cause None Joint NN
+Leaf:  N Evaluation They actually ended up shooting the gorilla
+Leaf:  S span which is so sad .
+Inner:  S span None Evaluation NS
+Inner:  S span None Cause NS
+Inner:  S span None Temporal NS
+Inner:  Root None None Elaborate NS
+[('Dude I seriously can not believe', None, None, None, 0), ('what happened at the zoo not too long ago .', None, None, None, 1), ('A kid fell into a moat in May', None, None, None, 0), ('when he fell through the barrier .', None, None, None, 1), ('Wow it must have been so terrifying for the family .', None, None, None, 1), ('Then the gorilla picked up the boy', None, None, None, 0), ('and carried him a little bit .', None, None, None, 1), ('They actually ended up shooting the gorilla', None, None, None, 0), ('which is so sad .', None, None, None, 1)]

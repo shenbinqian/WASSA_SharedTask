@@ -1,0 +1,23 @@
+=====================> [[("I 'm glad", None, None, None, 0), ('these orangutans were rescued ,', None, None, None, 0), ('despite the circumstance', None, None, None, 0), ('that led them there .', None, None, None, 1), ('They are sentient beings', None, None, None, 0), ('and should be treated', None, None, None, 0), ('as we humans treat each other', None, None, None, 0), ('- with care .', None, None, None, 1), ('Hopefully Dina will be treated and able to live a full life along with the others', None, None, None, 0), ('she was rescued with .', None, None, None, 1), ('We as humans need to show more compassion to all living things in this world .', None, None, None, 1)]]
+Leaf:  S span I 'm glad
+Leaf:  N Attribution these orangutans were rescued ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate despite the circumstance
+Leaf:  S span that led them there .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Joint They are sentient beings
+Leaf:  N Comparison and should be treated
+Leaf:  S span as we humans treat each other
+Inner:  N Joint None Comparison NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit - with care .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Hopefully Dina will be treated and able to live a full life along with the others
+Leaf:  S span she was rescued with .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span We as humans need to show more compassion to all living things in this world .
+Inner:  Root None None Evaluation NS
+[("I 'm glad", None, None, None, 0), ('these orangutans were rescued ,', None, None, None, 0), ('despite the circumstance', None, None, None, 0), ('that led them there .', None, None, None, 1), ('They are sentient beings', None, None, None, 0), ('and should be treated', None, None, None, 0), ('as we humans treat each other', None, None, None, 0), ('- with care .', None, None, None, 1), ('Hopefully Dina will be treated and able to live a full life along with the others', None, None, None, 0), ('she was rescued with .', None, None, None, 1), ('We as humans need to show more compassion to all living things in this world .', None, None, None, 1)]

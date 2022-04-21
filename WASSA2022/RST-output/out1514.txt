@@ -1,0 +1,19 @@
+=====================> [[('A 22-year-old guy lost control of his Volkswagen', None, None, None, 0), ('and caused a head-on collision with a van .', None, None, None, 1), ('In addition to him and his passenger dying , a mother and two young children in the van were also killed .', None, None, None, 1), ('The van actually burst into flames . The teenage girl and her cousin in the van were the only ones', None, None, None, 0), ('able to escape .', None, None, None, 1), ('This is truly heartbreaking .', None, None, None, 1), ('I hope', None, None, None, 0), ('the impact killed them', None, None, None, 0), ("and they did n't have to suffer through the fire .", None, None, None, 1)]]
+Leaf:  S span A 22-year-old guy lost control of his Volkswagen
+Leaf:  N Cause and caused a head-on collision with a van .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Elaborate In addition to him and his passenger dying , a mother and two young children in the van were also killed .
+Leaf:  N Elaborate The van actually burst into flames . The teenage girl and her cousin in the van were the only ones
+Leaf:  S span able to escape .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This is truly heartbreaking .
+Leaf:  S span I hope
+Leaf:  N Joint the impact killed them
+Leaf:  N Joint and they did n't have to suffer through the fire .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('A 22-year-old guy lost control of his Volkswagen', None, None, None, 0), ('and caused a head-on collision with a van .', None, None, None, 1), ('In addition to him and his passenger dying , a mother and two young children in the van were also killed .', None, None, None, 1), ('The van actually burst into flames . The teenage girl and her cousin in the van were the only ones', None, None, None, 0), ('able to escape .', None, None, None, 1), ('This is truly heartbreaking .', None, None, None, 1), ('I hope', None, None, None, 0), ('the impact killed them', None, None, None, 0), ("and they did n't have to suffer through the fire .", None, None, None, 1)]

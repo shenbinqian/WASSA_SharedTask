@@ -1,0 +1,21 @@
+=====================> [[('it is a very interesting article .', None, None, None, 1), ('quite a good read', None, None, None, 0), ('and has important information .', None, None, None, 1), ('the article did really communicate to me', None, None, None, 0), ('i felt', None, None, None, 0), ('like the author was talking to me', None, None, None, 0), ('trying to relay some sort of information .', None, None, None, 1), ('i like the use of language', None, None, None, 0), ('that the author uses , very simple and easy to understand for everyone .', None, None, None, 1), ('please read it .', None, None, None, 1)]]
+Leaf:  N Joint it is a very interesting article .
+Leaf:  N Joint quite a good read
+Leaf:  N Joint and has important information .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Explanation the article did really communicate to me
+Leaf:  S span i felt
+Leaf:  N Enablement like the author was talking to me
+Leaf:  S span trying to relay some sort of information .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate i like the use of language
+Leaf:  S span that the author uses , very simple and easy to understand for everyone .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span please read it .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('it is a very interesting article .', None, None, None, 1), ('quite a good read', None, None, None, 0), ('and has important information .', None, None, None, 1), ('the article did really communicate to me', None, None, None, 0), ('i felt', None, None, None, 0), ('like the author was talking to me', None, None, None, 0), ('trying to relay some sort of information .', None, None, None, 1), ('i like the use of language', None, None, None, 0), ('that the author uses , very simple and easy to understand for everyone .', None, None, None, 1), ('please read it .', None, None, None, 1)]

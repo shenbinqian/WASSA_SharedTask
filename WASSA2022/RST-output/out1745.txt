@@ -1,0 +1,15 @@
+=====================> [[('There was a person in the articles', None, None, None, 0), ('that was muslim and at a bar for nightly events .', None, None, None, 1), ('They got into a dispute with another person', None, None, None, 0), ('and then the other person killed them .', None, None, None, 1), ('The investigators said something about donald trump and his hatred toward muslim people maybe having something', None, None, None, 0), ('to do with making the murderer', None, None, None, 0), ('feel justified in his actions .', None, None, None, 1)]]
+Leaf:  N Elaborate There was a person in the articles
+Leaf:  S span that was muslim and at a bar for nightly events .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal They got into a dispute with another person
+Leaf:  N Temporal and then the other person killed them .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The investigators said something about donald trump and his hatred toward muslim people maybe having something
+Leaf:  N Same-Unit to do with making the murderer
+Leaf:  N Same-Unit feel justified in his actions .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There was a person in the articles', None, None, None, 0), ('that was muslim and at a bar for nightly events .', None, None, None, 1), ('They got into a dispute with another person', None, None, None, 0), ('and then the other person killed them .', None, None, None, 1), ('The investigators said something about donald trump and his hatred toward muslim people maybe having something', None, None, None, 0), ('to do with making the murderer', None, None, None, 0), ('feel justified in his actions .', None, None, None, 1)]

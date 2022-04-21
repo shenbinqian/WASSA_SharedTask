@@ -1,0 +1,33 @@
+=====================> [[('The Girl with the beautiful green eyes', None, None, None, 0), ('that was pictured years ago', None, None, None, 0), ('by a photographer is currently under arrest for falsifying documents', None, None, None, 0), ('to stay in pakistan .', None, None, None, 1), ('I feel bad for this woman', None, None, None, 0), ('who felt a need', None, None, None, 0), ('to lie about her status of citizenship', None, None, None, 0), ('to stay in a country', None, None, None, 0), ('just to continue living a better life .', None, None, None, 1), ('This is the second time she has been arrested', None, None, None, 0), ('which shows me', None, None, None, 0), ('that she is really trying to escape a war ravaged country', None, None, None, 0), ('and to continue on living a better life .', None, None, None, 1), ('They should let the girl go .', None, None, None, 1), ('Good for the original photographer', None, None, None, 0), ('who is trying to help her out of this situation .', None, None, None, 1)]]
+Leaf:  N Elaborate The Girl with the beautiful green eyes
+Leaf:  N Same-Unit that was pictured years ago
+Leaf:  N Same-Unit by a photographer is currently under arrest for falsifying documents
+Inner:  N Enablement None Same-Unit NN
+Leaf:  S span to stay in pakistan .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I feel bad for this woman
+Leaf:  N Elaborate who felt a need
+Leaf:  N Enablement to lie about her status of citizenship
+Leaf:  S span to stay in a country
+Inner:  S span None Enablement NS
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span just to continue living a better life .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation This is the second time she has been arrested
+Leaf:  S span which shows me
+Leaf:  N Joint that she is really trying to escape a war ravaged country
+Leaf:  N Joint and to continue on living a better life .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span They should let the girl go .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Good for the original photographer
+Leaf:  S span who is trying to help her out of this situation .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('The Girl with the beautiful green eyes', None, None, None, 0), ('that was pictured years ago', None, None, None, 0), ('by a photographer is currently under arrest for falsifying documents', None, None, None, 0), ('to stay in pakistan .', None, None, None, 1), ('I feel bad for this woman', None, None, None, 0), ('who felt a need', None, None, None, 0), ('to lie about her status of citizenship', None, None, None, 0), ('to stay in a country', None, None, None, 0), ('just to continue living a better life .', None, None, None, 1), ('This is the second time she has been arrested', None, None, None, 0), ('which shows me', None, None, None, 0), ('that she is really trying to escape a war ravaged country', None, None, None, 0), ('and to continue on living a better life .', None, None, None, 1), ('They should let the girl go .', None, None, None, 1), ('Good for the original photographer', None, None, None, 0), ('who is trying to help her out of this situation .', None, None, None, 1)]

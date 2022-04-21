@@ -1,0 +1,21 @@
+=====================> [[('This is another story of government overreach .', None, None, None, 1), ('Big government', None, None, None, 0), ('pushed by authoritarian leftists', None, None, None, 0), ('making a big deal over nonsense', None, None, None, 0), ('and holding back human progression in the name of hippy bullshit .', None, None, None, 1), ('If a species is endangered', None, None, None, 0), ("it deserves it 's fate .", None, None, None, 1), ('More species have went extinct in the time', None, None, None, 0), ('before humans existed than in our entire existence .', None, None, None, 1), ("It 's a non problem and just how the world works .", None, None, None, 1)]]
+Leaf:  N Elaborate This is another story of government overreach .
+Leaf:  N Elaborate Big government
+Leaf:  S span pushed by authoritarian leftists
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint making a big deal over nonsense
+Leaf:  N Joint and holding back human progression in the name of hippy bullshit .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If a species is endangered
+Leaf:  N Condition it deserves it 's fate .
+Inner:  N Elaborate None Condition SN
+Leaf:  N Elaborate More species have went extinct in the time
+Leaf:  S span before humans existed than in our entire existence .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's a non problem and just how the world works .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is another story of government overreach .', None, None, None, 1), ('Big government', None, None, None, 0), ('pushed by authoritarian leftists', None, None, None, 0), ('making a big deal over nonsense', None, None, None, 0), ('and holding back human progression in the name of hippy bullshit .', None, None, None, 1), ('If a species is endangered', None, None, None, 0), ("it deserves it 's fate .", None, None, None, 1), ('More species have went extinct in the time', None, None, None, 0), ('before humans existed than in our entire existence .', None, None, None, 1), ("It 's a non problem and just how the world works .", None, None, None, 1)]

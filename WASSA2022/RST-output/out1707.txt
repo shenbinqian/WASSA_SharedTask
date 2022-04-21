@@ -1,0 +1,17 @@
+=====================> [[('I always read about these house fires', None, None, None, 0), ('and never think about them again .', None, None, None, 1), ('That is something', None, None, None, 0), ('that I should do less of .', None, None, None, 1), ('Maybe I can find a way', None, None, None, 0), ('to donate time or money for families in tragedies', None, None, None, 0), ('so that they can get back on their feet as soon as possible .', None, None, None, 1), ('This recent reversal of my attitude was because a friend of mine recently had their apartment burn out due to a building fire .', None, None, None, 1)]]
+Leaf:  N Temporal I always read about these house fires
+Leaf:  N Temporal and never think about them again .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Elaborate That is something
+Leaf:  S span that I should do less of .
+Inner:  N Condition None Elaborate NS
+Leaf:  N Elaborate Maybe I can find a way
+Leaf:  N Enablement to donate time or money for families in tragedies
+Leaf:  S span so that they can get back on their feet as soon as possible .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  N Cause None Evaluation NS
+Leaf:  S span This recent reversal of my attitude was because a friend of mine recently had their apartment burn out due to a building fire .
+Inner:  Root None None Cause NS
+[('I always read about these house fires', None, None, None, 0), ('and never think about them again .', None, None, None, 1), ('That is something', None, None, None, 0), ('that I should do less of .', None, None, None, 1), ('Maybe I can find a way', None, None, None, 0), ('to donate time or money for families in tragedies', None, None, None, 0), ('so that they can get back on their feet as soon as possible .', None, None, None, 1), ('This recent reversal of my attitude was because a friend of mine recently had their apartment burn out due to a building fire .', None, None, None, 1)]

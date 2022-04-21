@@ -1,0 +1,33 @@
+=====================> [[("I 'm glad", None, None, None, 0), ('that the officers', None, None, None, 0), ('that responded to the scene', None, None, None, 0), ('did not get hurt .', None, None, None, 1), ('I am also happy that the loose Emu did not get hurt .', None, None, None, 1), ('This is a hard article to write about .', None, None, None, 1), ('I wish', None, None, None, 0), ('that all police calls ended with a happy ending like this story', None, None, None, 0), ('where everybody gets to go home . I wish the worlds problems where as simple as an escaped emu on the loose .', None, None, None, 1), ('I believe', None, None, None, 0), ('that most police officers are kind and good nature', None, None, None, 0), ('and want to do the right thing ,', None, None, None, 0), ('like helping this emu ,', None, None, None, 0), ('but they are human and with any humans', None, None, None, 0), ('you will have some bad ones .', None, None, None, 1), ('Once again just happy nobody got hurt .', None, None, None, 1)]]
+Leaf:  S span I 'm glad
+Leaf:  N Elaborate that the officers
+Leaf:  S span that responded to the scene
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit did not get hurt .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint I am also happy that the loose Emu did not get hurt .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This is a hard article to write about .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wish
+Leaf:  N Elaborate that all police calls ended with a happy ending like this story
+Leaf:  S span where everybody gets to go home . I wish the worlds problems where as simple as an escaped emu on the loose .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I believe
+Leaf:  N Joint that most police officers are kind and good nature
+Leaf:  N Elaborate and want to do the right thing ,
+Leaf:  S span like helping this emu ,
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but they are human and with any humans
+Leaf:  N Condition you will have some bad ones .
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Once again just happy nobody got hurt .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I 'm glad", None, None, None, 0), ('that the officers', None, None, None, 0), ('that responded to the scene', None, None, None, 0), ('did not get hurt .', None, None, None, 1), ('I am also happy that the loose Emu did not get hurt .', None, None, None, 1), ('This is a hard article to write about .', None, None, None, 1), ('I wish', None, None, None, 0), ('that all police calls ended with a happy ending like this story', None, None, None, 0), ('where everybody gets to go home . I wish the worlds problems where as simple as an escaped emu on the loose .', None, None, None, 1), ('I believe', None, None, None, 0), ('that most police officers are kind and good nature', None, None, None, 0), ('and want to do the right thing ,', None, None, None, 0), ('like helping this emu ,', None, None, None, 0), ('but they are human and with any humans', None, None, None, 0), ('you will have some bad ones .', None, None, None, 1), ('Once again just happy nobody got hurt .', None, None, None, 1)]

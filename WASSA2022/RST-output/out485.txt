@@ -1,0 +1,27 @@
+=====================> [[('This sounds like a murder-suicide situation .', None, None, None, 1), ("That 's what it always is", None, None, None, 0), ('when you hear there is no danger to the public .', None, None, None, 1), ('How awful that people choose to do this to each other', None, None, None, 0), ('and how awful that some poor kid had to be a witness to it all .', None, None, None, 1), ('That child will never be the same again .', None, None, None, 1), ('I wonder', None, None, None, 0), ('why people', None, None, None, 0), ('who choose to do something', None, None, None, 0), ('like this', None, None, None, 0), ("ca n't just kill themselves", None, None, None, 0), ('and leave everyone around them alone .', None, None, None, 1), ("It 's sick .", None, None, None, 1)]]
+Leaf:  N Elaborate This sounds like a murder-suicide situation .
+Leaf:  N Background That 's what it always is
+Leaf:  S span when you hear there is no danger to the public .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint How awful that people choose to do this to each other
+Leaf:  N Joint and how awful that some poor kid had to be a witness to it all .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span That child will never be the same again .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Elaborate why people
+Leaf:  N Elaborate who choose to do something
+Leaf:  S span like this
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint ca n't just kill themselves
+Leaf:  N Joint and leave everyone around them alone .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's sick .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This sounds like a murder-suicide situation .', None, None, None, 1), ("That 's what it always is", None, None, None, 0), ('when you hear there is no danger to the public .', None, None, None, 1), ('How awful that people choose to do this to each other', None, None, None, 0), ('and how awful that some poor kid had to be a witness to it all .', None, None, None, 1), ('That child will never be the same again .', None, None, None, 1), ('I wonder', None, None, None, 0), ('why people', None, None, None, 0), ('who choose to do something', None, None, None, 0), ('like this', None, None, None, 0), ("ca n't just kill themselves", None, None, None, 0), ('and leave everyone around them alone .', None, None, None, 1), ("It 's sick .", None, None, None, 1)]

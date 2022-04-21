@@ -1,0 +1,19 @@
+=====================> [[('All these tourists are so entitled .', None, None, None, 1), ('They seem to have it in their mind', None, None, None, 0), ('that the world is their own', None, None, None, 0), ('and they can do as', None, None, None, 0), ('they please .', None, None, None, 1), ('Due to their pure sense of entitlement , we are now seeing polar bears dying .', None, None, None, 1), ('Animals will die', None, None, None, 0), ('and go extinct', None, None, None, 0), ('but to have them go due to human greed us a hard pill to swallow .', None, None, None, 1)]]
+Leaf:  N Elaborate All these tourists are so entitled .
+Leaf:  N Elaborate They seem to have it in their mind
+Leaf:  N Joint that the world is their own
+Leaf:  N Condition and they can do as
+Leaf:  S span they please .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Due to their pure sense of entitlement , we are now seeing polar bears dying .
+Inner:  N Background None Elaborate NS
+Leaf:  N Joint Animals will die
+Leaf:  N Joint and go extinct
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast but to have them go due to human greed us a hard pill to swallow .
+Inner:  S span None Contrast NN
+Inner:  Root None None Background NS
+[('All these tourists are so entitled .', None, None, None, 1), ('They seem to have it in their mind', None, None, None, 0), ('that the world is their own', None, None, None, 0), ('and they can do as', None, None, None, 0), ('they please .', None, None, None, 1), ('Due to their pure sense of entitlement , we are now seeing polar bears dying .', None, None, None, 1), ('Animals will die', None, None, None, 0), ('and go extinct', None, None, None, 0), ('but to have them go due to human greed us a hard pill to swallow .', None, None, None, 1)]

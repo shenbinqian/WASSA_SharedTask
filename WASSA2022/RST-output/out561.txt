@@ -1,0 +1,25 @@
+=====================> [[("I ca n't really believe", None, None, None, 0), ("he was found dead in ol' Strombolo 's condo .", None, None, None, 1), ("He was n't anywhere near old enough", None, None, None, 0), ('to die of natural causes', None, None, None, 0), ('so it should be at least a little surprising', None, None, None, 0), ('when we hear', None, None, None, 0), ('about what the cause of death was .', None, None, None, 1), ('I am intrigued to find out', None, None, None, 0), ('if we have another Hollywood murder on our hands .', None, None, None, 1), ("You just ca n't tell anymore these days .", None, None, None, 1), ('you never know who ,', None, None, None, 0), ('you never know when .', None, None, None, 1)]]
+Leaf:  S span I ca n't really believe
+Leaf:  N Attribution he was found dead in ol' Strombolo 's condo .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate He was n't anywhere near old enough
+Leaf:  S span to die of natural causes
+Inner:  S span None Elaborate NS
+Leaf:  N Condition so it should be at least a little surprising
+Leaf:  S span when we hear
+Leaf:  N Attribution about what the cause of death was .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Condition NS
+Inner:  S span None Evaluation SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I am intrigued to find out
+Leaf:  N Attribution if we have another Hollywood murder on our hands .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint You just ca n't tell anymore these days .
+Leaf:  N Joint you never know who ,
+Leaf:  N Joint you never know when .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("I ca n't really believe", None, None, None, 0), ("he was found dead in ol' Strombolo 's condo .", None, None, None, 1), ("He was n't anywhere near old enough", None, None, None, 0), ('to die of natural causes', None, None, None, 0), ('so it should be at least a little surprising', None, None, None, 0), ('when we hear', None, None, None, 0), ('about what the cause of death was .', None, None, None, 1), ('I am intrigued to find out', None, None, None, 0), ('if we have another Hollywood murder on our hands .', None, None, None, 1), ("You just ca n't tell anymore these days .", None, None, None, 1), ('you never know who ,', None, None, None, 0), ('you never know when .', None, None, None, 1)]

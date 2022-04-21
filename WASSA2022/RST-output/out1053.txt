@@ -1,0 +1,37 @@
+=====================> [[('Why do people do this .', None, None, None, 1), ('I would really hope', None, None, None, 0), ('that people did not take their own life ,', None, None, None, 0), ('but', None, None, None, 0), ('if you are going to take your own life ,', None, None, None, 0), ("why take other people 's lives with yours ?", None, None, None, 1), ('Why would you kill your own children , I do not know', None, None, None, 0), ('what kind of pain', None, None, None, 0), ('this man was going through ,', None, None, None, 0), ('but I do not believe', None, None, None, 0), ('he should have taken that pain out on his children .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how we can prevent this from happening .', None, None, None, 1), ('Are there early warning signs', None, None, None, 0), ('that we can spot ?', None, None, None, 1), ('Did he ask for help in his life ?', None, None, None, 1), ('I just really feel sorry for the children ,', None, None, None, 0), ('they never got to live nowhere near a full life .', None, None, None, 1)]]
+Leaf:  N Elaborate Why do people do this .
+Leaf:  S span I would really hope
+Leaf:  N Attribution that people did not take their own life ,
+Inner:  S span None Attribution SN
+Leaf:  N Same-Unit but
+Leaf:  S span if you are going to take your own life ,
+Leaf:  N Condition why take other people 's lives with yours ?
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Joint None Contrast SN
+Leaf:  S span Why would you kill your own children , I do not know
+Leaf:  N Elaborate what kind of pain
+Leaf:  S span this man was going through ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  S span but I do not believe
+Leaf:  N Attribution he should have taken that pain out on his children .
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast SN
+Inner:  N Topic-Comment None Joint NN
+Leaf:  S span I wonder
+Leaf:  N Attribution how we can prevent this from happening .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Are there early warning signs
+Leaf:  S span that we can spot ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Did he ask for help in his life ?
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I just really feel sorry for the children ,
+Leaf:  S span they never got to live nowhere near a full life .
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Why do people do this .', None, None, None, 1), ('I would really hope', None, None, None, 0), ('that people did not take their own life ,', None, None, None, 0), ('but', None, None, None, 0), ('if you are going to take your own life ,', None, None, None, 0), ("why take other people 's lives with yours ?", None, None, None, 1), ('Why would you kill your own children , I do not know', None, None, None, 0), ('what kind of pain', None, None, None, 0), ('this man was going through ,', None, None, None, 0), ('but I do not believe', None, None, None, 0), ('he should have taken that pain out on his children .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how we can prevent this from happening .', None, None, None, 1), ('Are there early warning signs', None, None, None, 0), ('that we can spot ?', None, None, None, 1), ('Did he ask for help in his life ?', None, None, None, 1), ('I just really feel sorry for the children ,', None, None, None, 0), ('they never got to live nowhere near a full life .', None, None, None, 1)]

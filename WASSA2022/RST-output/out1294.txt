@@ -1,0 +1,19 @@
+=====================> [[('I thinj', None, None, None, 0), ('it is our responsibility as a first world country', None, None, None, 0), ('to be providing assisstance to these area in brazil and Columbia .', None, None, None, 1), ('Zika Virus could prove to be an epidemic', None, None, None, 0), ('and that is a global issue , not just a country .', None, None, None, 1), ('Giving them access to proper medical training', None, None, None, 0), ('to spread better health practices and health education to the population', None, None, None, 0), ('could be the most effective thing', None, None, None, 0), ('to preventing more spread of the virus', None, None, None, 0)]]
+Leaf:  S span I thinj
+Leaf:  N Elaborate it is our responsibility as a first world country
+Leaf:  S span to be providing assisstance to these area in brazil and Columbia .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Evaluation Zika Virus could prove to be an epidemic
+Leaf:  S span and that is a global issue , not just a country .
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Enablement Giving them access to proper medical training
+Leaf:  S span to spread better health practices and health education to the population
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Elaborate could be the most effective thing
+Leaf:  S span to preventing more spread of the virus
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Topic-Comment None Same-Unit NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Cause NS
+[('I thinj', None, None, None, 0), ('it is our responsibility as a first world country', None, None, None, 0), ('to be providing assisstance to these area in brazil and Columbia .', None, None, None, 1), ('Zika Virus could prove to be an epidemic', None, None, None, 0), ('and that is a global issue , not just a country .', None, None, None, 1), ('Giving them access to proper medical training', None, None, None, 0), ('to spread better health practices and health education to the population', None, None, None, 0), ('could be the most effective thing', None, None, None, 0), ('to preventing more spread of the virus', None, None, None, 0)]

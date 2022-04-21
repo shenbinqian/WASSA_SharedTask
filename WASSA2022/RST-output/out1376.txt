@@ -1,0 +1,27 @@
+=====================> [[('Did you see', None, None, None, 0), ('where there was a buss crash on the highway this morning ?', None, None, None, 1), ("I do n't think", None, None, None, 0), ('anyone got badly hurt ,', None, None, None, 0), ('but it just shows you', None, None, None, 0), ('how quickly things can go from good to bad .', None, None, None, 1), ('I hope', None, None, None, 0), ("the one at fault was n't doing something stupid like texting", None, None, None, 0), ('while they were driving !', None, None, None, 1), ("I ca n't stand those people !", None, None, None, 1), ('Well ,', None, None, None, 0), ('however it happened ,', None, None, None, 0), ("I 'm just glad no one was seriously hurt or killed .", None, None, None, 1)]]
+Leaf:  S span Did you see
+Leaf:  N Attribution where there was a buss crash on the highway this morning ?
+Inner:  N Summary None Attribution SN
+Leaf:  S span I do n't think
+Leaf:  N Attribution anyone got badly hurt ,
+Inner:  S span None Attribution SN
+Leaf:  S span but it just shows you
+Leaf:  N Attribution how quickly things can go from good to bad .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I hope
+Leaf:  N Temporal the one at fault was n't doing something stupid like texting
+Leaf:  S span while they were driving !
+Inner:  N Attribution None Temporal NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I ca n't stand those people !
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Leaf:  N Same-Unit Well ,
+Leaf:  S span however it happened ,
+Leaf:  N Background I 'm just glad no one was seriously hurt or killed .
+Inner:  N Same-Unit None Background SN
+Inner:  N Background None Same-Unit NN
+Inner:  S span None Background SN
+Inner:  Root None None Summary NS
+[('Did you see', None, None, None, 0), ('where there was a buss crash on the highway this morning ?', None, None, None, 1), ("I do n't think", None, None, None, 0), ('anyone got badly hurt ,', None, None, None, 0), ('but it just shows you', None, None, None, 0), ('how quickly things can go from good to bad .', None, None, None, 1), ('I hope', None, None, None, 0), ("the one at fault was n't doing something stupid like texting", None, None, None, 0), ('while they were driving !', None, None, None, 1), ("I ca n't stand those people !", None, None, None, 1), ('Well ,', None, None, None, 0), ('however it happened ,', None, None, None, 0), ("I 'm just glad no one was seriously hurt or killed .", None, None, None, 1)]

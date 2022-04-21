@@ -1,0 +1,27 @@
+=====================> [[('I bring you sad news today , my friend .', None, None, None, 1), ('A male wolf member of the Huckleberry pack has been slaughtered .', None, None, None, 1), ('How can they do this', None, None, None, 0), ('without consequences ?', None, None, None, 1), ('This event happened in Montana . I have heard similar stories in that region of wolves', None, None, None, 0), ('being gunned down , especially from helicopters .', None, None, None, 1), ('It makes my heart feel heavy . I know', None, None, None, 0), ('you will feel the same way . I am strongly considering giving a donation to the Center for Biological Diversity', None, None, None, 0), ('because they are fighting on behalf of wolves', None, None, None, 0), ('to stop this murder .', None, None, None, 1), ('It was so cruel', None, None, None, 0), ('because the male was simply wandering for a mate .', None, None, None, 1), ("He did n't deserve what happened .", None, None, None, 1)]]
+Leaf:  N Elaborate I bring you sad news today , my friend .
+Leaf:  N Summary A male wolf member of the Huckleberry pack has been slaughtered .
+Leaf:  N Manner-Means How can they do this
+Leaf:  S span without consequences ?
+Inner:  S span None Manner-Means NS
+Inner:  N Background None Summary NS
+Leaf:  N Elaborate This event happened in Montana . I have heard similar stories in that region of wolves
+Leaf:  S span being gunned down , especially from helicopters .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  S span It makes my heart feel heavy . I know
+Leaf:  N Attribution you will feel the same way . I am strongly considering giving a donation to the Center for Biological Diversity
+Inner:  N Explanation None Attribution SN
+Leaf:  N Enablement because they are fighting on behalf of wolves
+Leaf:  S span to stop this murder .
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation It was so cruel
+Leaf:  S span because the male was simply wandering for a mate .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span He did n't deserve what happened .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I bring you sad news today , my friend .', None, None, None, 1), ('A male wolf member of the Huckleberry pack has been slaughtered .', None, None, None, 1), ('How can they do this', None, None, None, 0), ('without consequences ?', None, None, None, 1), ('This event happened in Montana . I have heard similar stories in that region of wolves', None, None, None, 0), ('being gunned down , especially from helicopters .', None, None, None, 1), ('It makes my heart feel heavy . I know', None, None, None, 0), ('you will feel the same way . I am strongly considering giving a donation to the Center for Biological Diversity', None, None, None, 0), ('because they are fighting on behalf of wolves', None, None, None, 0), ('to stop this murder .', None, None, None, 1), ('It was so cruel', None, None, None, 0), ('because the male was simply wandering for a mate .', None, None, None, 1), ("He did n't deserve what happened .", None, None, None, 1)]

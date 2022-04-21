@@ -1,0 +1,25 @@
+=====================> [[('So a man murdered someone over a card', None, None, None, 0), ('being declined .', None, None, None, 1), ('At a Starbucks of course , this is just getting to be ridiculous .', None, None, None, 1), ('Someone gets pissy', None, None, None, 0), ('because they have no money', None, None, None, 0), ('and decide to hurt someone', None, None, None, 0), ('else that has nothing to do with it .', None, None, None, 1), ('The more news articles', None, None, None, 0), ('I read', None, None, None, 0), ('like this ,', None, None, None, 0), ('the less faith', None, None, None, 0), ('I have in humanity .', None, None, None, 1)]]
+Leaf:  N Elaborate So a man murdered someone over a card
+Leaf:  S span being declined .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Explanation At a Starbucks of course , this is just getting to be ridiculous .
+Leaf:  N Cause Someone gets pissy
+Leaf:  S span because they have no money
+Inner:  N Temporal None Cause NS
+Leaf:  N Elaborate and decide to hurt someone
+Leaf:  S span else that has nothing to do with it .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate The more news articles
+Leaf:  N Elaborate I read
+Leaf:  S span like this ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate the less faith
+Leaf:  S span I have in humanity .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('So a man murdered someone over a card', None, None, None, 0), ('being declined .', None, None, None, 1), ('At a Starbucks of course , this is just getting to be ridiculous .', None, None, None, 1), ('Someone gets pissy', None, None, None, 0), ('because they have no money', None, None, None, 0), ('and decide to hurt someone', None, None, None, 0), ('else that has nothing to do with it .', None, None, None, 1), ('The more news articles', None, None, None, 0), ('I read', None, None, None, 0), ('like this ,', None, None, None, 0), ('the less faith', None, None, None, 0), ('I have in humanity .', None, None, None, 1)]

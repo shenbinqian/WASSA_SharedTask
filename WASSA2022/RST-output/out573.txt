@@ -1,0 +1,25 @@
+=====================> [[("Michael Buble 's three year old son has cancer .", None, None, None, 1), ('This is so horrible and sad .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what they are feeling right now .', None, None, None, 1), ('My uncle died of prostate cancer', None, None, None, 0), ('and I know', None, None, None, 0), ('nothing will ever be the same .', None, None, None, 1), ('Cancer on such a young boy seems so cruel', None, None, None, 0), ('if there is a God out there .', None, None, None, 1), ('I am really hoping', None, None, None, 0), ('their son pulls through', None, None, None, 0), ('and they keep on fighting together as a family .', None, None, None, 1)]]
+Leaf:  N Evaluation Michael Buble 's three year old son has cancer .
+Leaf:  N Elaborate This is so horrible and sad .
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution what they are feeling right now .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint My uncle died of prostate cancer
+Leaf:  S span and I know
+Leaf:  N Attribution nothing will ever be the same .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition Cancer on such a young boy seems so cruel
+Leaf:  S span if there is a God out there .
+Inner:  N Evaluation None Condition NS
+Leaf:  S span I am really hoping
+Leaf:  N Joint their son pulls through
+Leaf:  N Joint and they keep on fighting together as a family .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("Michael Buble 's three year old son has cancer .", None, None, None, 1), ('This is so horrible and sad .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what they are feeling right now .', None, None, None, 1), ('My uncle died of prostate cancer', None, None, None, 0), ('and I know', None, None, None, 0), ('nothing will ever be the same .', None, None, None, 1), ('Cancer on such a young boy seems so cruel', None, None, None, 0), ('if there is a God out there .', None, None, None, 1), ('I am really hoping', None, None, None, 0), ('their son pulls through', None, None, None, 0), ('and they keep on fighting together as a family .', None, None, None, 1)]

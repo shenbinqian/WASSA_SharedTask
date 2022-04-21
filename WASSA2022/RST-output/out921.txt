@@ -1,0 +1,39 @@
+=====================> [[('Hey , so I just read about this fire in Arizona .', None, None, None, 1), ('It was not super serious', None, None, None, 0), ('and no one', None, None, None, 0), ('besides one person', None, None, None, 0), ('needed to go to the hospital .', None, None, None, 1), ('It was not like super tragic', None, None, None, 0), ('but it just makes me think about my own life .', None, None, None, 1), ('It also makes me really think about my living situation .', None, None, None, 1), ('I have never thought about how I live in an apartment building', None, None, None, 0), ('shared with several other people', None, None, None, 0), ('and that their actions could have severe consequences . For example , say someone above me has a child', None, None, None, 0), ('who is playing with the stove', None, None, None, 0), ('and the parents are unaware .', None, None, None, 1), ('I fire could start and all of that is beyond my control .', None, None, None, 1), ('It really freaks me out now', None, None, None, 0), ('that I know someone', None, None, None, 0), ('besides just myself', None, None, None, 0), ('could ruin my home or personal belongings .', None, None, None, 1), ('Even worse , someone could lose their life .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , so I just read about this fire in Arizona .
+Leaf:  N Joint It was not super serious
+Leaf:  N Elaborate and no one
+Leaf:  S span besides one person
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit needed to go to the hospital .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Leaf:  S span It was not like super tragic
+Leaf:  N Contrast but it just makes me think about my own life .
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint It also makes me really think about my living situation .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate I have never thought about how I live in an apartment building
+Leaf:  S span shared with several other people
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and that their actions could have severe consequences . For example , say someone above me has a child
+Leaf:  S span who is playing with the stove
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and the parents are unaware .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Cause None Joint NN
+Leaf:  S span I fire could start and all of that is beyond my control .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation It really freaks me out now
+Leaf:  N Elaborate that I know someone
+Leaf:  S span besides just myself
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit could ruin my home or personal belongings .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Explanation NS
+Leaf:  N Joint Even worse , someone could lose their life .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Hey , so I just read about this fire in Arizona .', None, None, None, 1), ('It was not super serious', None, None, None, 0), ('and no one', None, None, None, 0), ('besides one person', None, None, None, 0), ('needed to go to the hospital .', None, None, None, 1), ('It was not like super tragic', None, None, None, 0), ('but it just makes me think about my own life .', None, None, None, 1), ('It also makes me really think about my living situation .', None, None, None, 1), ('I have never thought about how I live in an apartment building', None, None, None, 0), ('shared with several other people', None, None, None, 0), ('and that their actions could have severe consequences . For example , say someone above me has a child', None, None, None, 0), ('who is playing with the stove', None, None, None, 0), ('and the parents are unaware .', None, None, None, 1), ('I fire could start and all of that is beyond my control .', None, None, None, 1), ('It really freaks me out now', None, None, None, 0), ('that I know someone', None, None, None, 0), ('besides just myself', None, None, None, 0), ('could ruin my home or personal belongings .', None, None, None, 1), ('Even worse , someone could lose their life .', None, None, None, 1)]

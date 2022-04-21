@@ -1,0 +1,23 @@
+=====================> [[('People', None, None, None, 0), ('who take advantage', None, None, None, 0), ('of and endanger animals', None, None, None, 0), ('are the worst criminals in existence .', None, None, None, 1), ('Animals are defenseless', None, None, None, 0), ('and unable to do anything', None, None, None, 0), ('other than be confined and taken advantage of .', None, None, None, 1), ('This article shows the unfortunate process', None, None, None, 0), ('after animals are confiscated', None, None, None, 0), ('and taken away from these dangerous people ,', None, None, None, 0), ('but there is no global consensus on the proper sequence and handling of these animals .', None, None, None, 1)]]
+Leaf:  N Elaborate People
+Leaf:  N Elaborate who take advantage
+Leaf:  S span of and endanger animals
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are the worst criminals in existence .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint Animals are defenseless
+Leaf:  N Contrast and unable to do anything
+Leaf:  S span other than be confined and taken advantage of .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background This article shows the unfortunate process
+Leaf:  N Joint after animals are confiscated
+Leaf:  N Joint and taken away from these dangerous people ,
+Inner:  S span None Joint NN
+Inner:  N Contrast None Background NS
+Leaf:  S span but there is no global consensus on the proper sequence and handling of these animals .
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('People', None, None, None, 0), ('who take advantage', None, None, None, 0), ('of and endanger animals', None, None, None, 0), ('are the worst criminals in existence .', None, None, None, 1), ('Animals are defenseless', None, None, None, 0), ('and unable to do anything', None, None, None, 0), ('other than be confined and taken advantage of .', None, None, None, 1), ('This article shows the unfortunate process', None, None, None, 0), ('after animals are confiscated', None, None, None, 0), ('and taken away from these dangerous people ,', None, None, None, 0), ('but there is no global consensus on the proper sequence and handling of these animals .', None, None, None, 1)]

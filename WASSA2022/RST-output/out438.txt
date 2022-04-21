@@ -1,0 +1,29 @@
+=====================> [[('This is the type of thing', None, None, None, 0), ('that really scares me .', None, None, None, 1), ('I would be very interested in viewing this video .', None, None, None, 1), ('How in the world does one shoot their own relatives and two police officers ?', None, None, None, 1), ('What gives this person the right', None, None, None, 0), ('to take someone else life ? Those people may have had children , mothers , sisters , friends , co-workers ,', None, None, None, 0), ('and now they are dead ,', None, None, None, 0), ('and for what ? How did this individual go so long without being apprehended .', None, None, None, 1), ('Sometimes the system really confuses me', None, None, None, 0), ('and upsets me .', None, None, None, 1), ('I wish', None, None, None, 0), ('they would have caught him sooner', None, None, None, 0), ('and kept him alive', None, None, None, 0), ('so he could explain his actions .', None, None, None, 1)]]
+Leaf:  N Elaborate This is the type of thing
+Leaf:  S span that really scares me .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I would be very interested in viewing this video .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint How in the world does one shoot their own relatives and two police officers ?
+Leaf:  N Elaborate What gives this person the right
+Leaf:  S span to take someone else life ? Those people may have had children , mothers , sisters , friends , co-workers ,
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal and now they are dead ,
+Inner:  N Joint None Temporal NN
+Leaf:  N Joint and for what ? How did this individual go so long without being apprehended .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Sometimes the system really confuses me
+Leaf:  N Joint and upsets me .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I wish
+Leaf:  N Joint they would have caught him sooner
+Leaf:  N Joint and kept him alive
+Inner:  N Enablement None Joint NN
+Leaf:  S span so he could explain his actions .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is the type of thing', None, None, None, 0), ('that really scares me .', None, None, None, 1), ('I would be very interested in viewing this video .', None, None, None, 1), ('How in the world does one shoot their own relatives and two police officers ?', None, None, None, 1), ('What gives this person the right', None, None, None, 0), ('to take someone else life ? Those people may have had children , mothers , sisters , friends , co-workers ,', None, None, None, 0), ('and now they are dead ,', None, None, None, 0), ('and for what ? How did this individual go so long without being apprehended .', None, None, None, 1), ('Sometimes the system really confuses me', None, None, None, 0), ('and upsets me .', None, None, None, 1), ('I wish', None, None, None, 0), ('they would have caught him sooner', None, None, None, 0), ('and kept him alive', None, None, None, 0), ('so he could explain his actions .', None, None, None, 1)]

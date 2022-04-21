@@ -1,0 +1,17 @@
+=====================> [[('Hi friend , this article explains', None, None, None, 0), ('why certain species are very difficult', None, None, None, 0), ('to save from extinction .', None, None, None, 1), ("Because of it 's exponential rate of death within each species it is just not possible to save all of a single species", None, None, None, 0), ('and maintain it', None, None, None, 0), ("to stabilize it 's population .", None, None, None, 1), ("Some species would just have to maintain it 's ordinary rate", None, None, None, 0), ('and fall out .', None, None, None, 1)]]
+Leaf:  S span Hi friend , this article explains
+Leaf:  N Elaborate why certain species are very difficult
+Leaf:  S span to save from extinction .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Because of it 's exponential rate of death within each species it is just not possible to save all of a single species
+Leaf:  N Enablement and maintain it
+Leaf:  S span to stabilize it 's population .
+Inner:  N Joint None Enablement NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint Some species would just have to maintain it 's ordinary rate
+Leaf:  N Joint and fall out .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('Hi friend , this article explains', None, None, None, 0), ('why certain species are very difficult', None, None, None, 0), ('to save from extinction .', None, None, None, 1), ("Because of it 's exponential rate of death within each species it is just not possible to save all of a single species", None, None, None, 0), ('and maintain it', None, None, None, 0), ("to stabilize it 's population .", None, None, None, 1), ("Some species would just have to maintain it 's ordinary rate", None, None, None, 0), ('and fall out .', None, None, None, 1)]

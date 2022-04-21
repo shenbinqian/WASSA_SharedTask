@@ -1,0 +1,19 @@
+=====================> [[('To all those with family members', None, None, None, 0), ('deployed in Iraq :', None, None, None, 0), ('God bless your military members', None, None, None, 0), ('who are currently trying to free Mosul from ISIS control .', None, None, None, 1), ('May they rescue and help those poor civilians', None, None, None, 0), ('that ISIS has taken as human shields .', None, None, None, 1), ('May both the US and Iraqi troops and those', None, None, None, 0), ('being held captive', None, None, None, 0), ('be kept safe .', None, None, None, 1)]]
+Leaf:  N Elaborate To all those with family members
+Leaf:  S span deployed in Iraq :
+Inner:  N Attribution None Elaborate NS
+Leaf:  N Elaborate God bless your military members
+Leaf:  S span who are currently trying to free Mosul from ISIS control .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate May they rescue and help those poor civilians
+Leaf:  S span that ISIS has taken as human shields .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate May both the US and Iraqi troops and those
+Leaf:  S span being held captive
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit be kept safe .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Attribution NS
+[('To all those with family members', None, None, None, 0), ('deployed in Iraq :', None, None, None, 0), ('God bless your military members', None, None, None, 0), ('who are currently trying to free Mosul from ISIS control .', None, None, None, 1), ('May they rescue and help those poor civilians', None, None, None, 0), ('that ISIS has taken as human shields .', None, None, None, 1), ('May both the US and Iraqi troops and those', None, None, None, 0), ('being held captive', None, None, None, 0), ('be kept safe .', None, None, None, 1)]

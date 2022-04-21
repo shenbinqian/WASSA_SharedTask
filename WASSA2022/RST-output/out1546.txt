@@ -1,0 +1,37 @@
+=====================> [[("I do n't know", None, None, None, 0), ('if you ever owned or read a copy of National Geographic magazine', None, None, None, 0), ('but there is something interesting', None, None, None, 0), ('that has occurred in the news lately .', None, None, None, 1), ('It appears', None, None, None, 0), ('that the little Afghan girl ,', None, None, None, 0), ('who was made famous on one of their covers ,', None, None, None, 0), ('was arrested for trying to cross into Pakistan .', None, None, None, 1), ('She was trying to enter as an unregistered immigrant instead of a refugee . The Pakistan government wants to have her arrested .', None, None, None, 1), ("I mean afterall , she 's just trying to do what 's best for herself", None, None, None, 0), ('by escaping a land that is overrun with various terrorist groups and warring clans .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if even the UN can provide her the assistance', None, None, None, 0), ('she needs .', None, None, None, 1), ('What it really comes down to is a matter of trying to get out of a bad situation in favor of one', None, None, None, 0), ('that is much more promising .', None, None, None, 1), ('I really think', None, None, None, 0), ('this is unfair to me .', None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  N Attribution if you ever owned or read a copy of National Geographic magazine
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but there is something interesting
+Leaf:  S span that has occurred in the news lately .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It appears
+Leaf:  N Elaborate that the little Afghan girl ,
+Leaf:  S span who was made famous on one of their covers ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was arrested for trying to cross into Pakistan .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span She was trying to enter as an unregistered immigrant instead of a refugee . The Pakistan government wants to have her arrested .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Manner-Means I mean afterall , she 's just trying to do what 's best for herself
+Leaf:  S span by escaping a land that is overrun with various terrorist groups and warring clans .
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I 'm not sure
+Leaf:  N Elaborate if even the UN can provide her the assistance
+Leaf:  S span she needs .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate What it really comes down to is a matter of trying to get out of a bad situation in favor of one
+Leaf:  S span that is much more promising .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I really think
+Leaf:  N Attribution this is unfair to me .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I do n't know", None, None, None, 0), ('if you ever owned or read a copy of National Geographic magazine', None, None, None, 0), ('but there is something interesting', None, None, None, 0), ('that has occurred in the news lately .', None, None, None, 1), ('It appears', None, None, None, 0), ('that the little Afghan girl ,', None, None, None, 0), ('who was made famous on one of their covers ,', None, None, None, 0), ('was arrested for trying to cross into Pakistan .', None, None, None, 1), ('She was trying to enter as an unregistered immigrant instead of a refugee . The Pakistan government wants to have her arrested .', None, None, None, 1), ("I mean afterall , she 's just trying to do what 's best for herself", None, None, None, 0), ('by escaping a land that is overrun with various terrorist groups and warring clans .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if even the UN can provide her the assistance', None, None, None, 0), ('she needs .', None, None, None, 1), ('What it really comes down to is a matter of trying to get out of a bad situation in favor of one', None, None, None, 0), ('that is much more promising .', None, None, None, 1), ('I really think', None, None, None, 0), ('this is unfair to me .', None, None, None, 1)]

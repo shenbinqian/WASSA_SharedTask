@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('justice has been served one way or another .', None, None, None, 1), ('This person seemed like a danger to society .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's only right they should meet their end in this fashion .", None, None, None, 1), ('People like this should be removed from society', None, None, None, 0), ('before they do something', None, None, None, 0), ('that will hurt others .', None, None, None, 1), ('I feel bad for anyone', None, None, None, 0), ('who was in danger from this mad man .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution justice has been served one way or another .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation This person seemed like a danger to society .
+Leaf:  S span I think
+Leaf:  N Attribution it 's only right they should meet their end in this fashion .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Condition People like this should be removed from society
+Leaf:  N Elaborate before they do something
+Leaf:  S span that will hurt others .
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I feel bad for anyone
+Leaf:  S span who was in danger from this mad man .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('justice has been served one way or another .', None, None, None, 1), ('This person seemed like a danger to society .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's only right they should meet their end in this fashion .", None, None, None, 1), ('People like this should be removed from society', None, None, None, 0), ('before they do something', None, None, None, 0), ('that will hurt others .', None, None, None, 1), ('I feel bad for anyone', None, None, None, 0), ('who was in danger from this mad man .', None, None, None, 1)]

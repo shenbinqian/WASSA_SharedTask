@@ -1,0 +1,23 @@
+=====================> [[('Did you hear about what happened in Afghanistan ?', None, None, None, 1), ('There were civilian and military deaths during battles with the Taliban .', None, None, None, 1), ('I can not imagine', None, None, None, 0), ('what the Afghan family members are going through', None, None, None, 0), ('or what the families of the Americans here are going through . It is such a great loss . This war has got to end soon .', None, None, None, 1), ('I know', None, None, None, 0), ('that the US troops are just trying to help the Afghanis', None, None, None, 0), ('but there are so many things', None, None, None, 0), ('that go on during these battles .', None, None, None, 1), ('I pray', None, None, None, 0), ('an end comes soon .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about what happened in Afghanistan ?
+Leaf:  N Elaborate There were civilian and military deaths during battles with the Taliban .
+Leaf:  S span I can not imagine
+Leaf:  N Joint what the Afghan family members are going through
+Leaf:  N Joint or what the families of the Americans here are going through . It is such a great loss . This war has got to end soon .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Attribution that the US troops are just trying to help the Afghanis
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but there are so many things
+Leaf:  S span that go on during these battles .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I pray
+Leaf:  N Attribution an end comes soon .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Did you hear about what happened in Afghanistan ?', None, None, None, 1), ('There were civilian and military deaths during battles with the Taliban .', None, None, None, 1), ('I can not imagine', None, None, None, 0), ('what the Afghan family members are going through', None, None, None, 0), ('or what the families of the Americans here are going through . It is such a great loss . This war has got to end soon .', None, None, None, 1), ('I know', None, None, None, 0), ('that the US troops are just trying to help the Afghanis', None, None, None, 0), ('but there are so many things', None, None, None, 0), ('that go on during these battles .', None, None, None, 1), ('I pray', None, None, None, 0), ('an end comes soon .', None, None, None, 1)]

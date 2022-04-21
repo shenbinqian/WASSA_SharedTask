@@ -1,0 +1,25 @@
+=====================> [[('I just read the article', None, None, None, 0), ('and i want to say', None, None, None, 0), ('i think', None, None, None, 0), ('its terrible anyone would actually blame the doctors for someone', None, None, None, 0), ('committing suicide .', None, None, None, 1), ('Of course its incredibly sad', None, None, None, 0), ('and i feel for anyone', None, None, None, 0), ('that has to go through what people like that do go through', None, None, None, 0), ('but how can these doctors be blamed . That means that anyone can be blamed for missing the signs', None, None, None, 0), ('and its too hard to tell', None, None, None, 0), ('when someone will actually commit to killing themselves', None, None, None, 0), ('even when they are making empty threats .', None, None, None, 1)]]
+Leaf:  N Evaluation I just read the article
+Leaf:  S span and i want to say
+Leaf:  S span i think
+Leaf:  N Elaborate its terrible anyone would actually blame the doctors for someone
+Leaf:  S span committing suicide .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Inner:  N Evaluation None Evaluation NN
+Leaf:  N Joint Of course its incredibly sad
+Leaf:  N Elaborate and i feel for anyone
+Leaf:  S span that has to go through what people like that do go through
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Joint but how can these doctors be blamed . That means that anyone can be blamed for missing the signs
+Leaf:  S span and its too hard to tell
+Leaf:  N Attribution when someone will actually commit to killing themselves
+Inner:  N Contrast None Attribution SN
+Leaf:  S span even when they are making empty threats .
+Inner:  N Joint None Contrast NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Evaluation NS
+[('I just read the article', None, None, None, 0), ('and i want to say', None, None, None, 0), ('i think', None, None, None, 0), ('its terrible anyone would actually blame the doctors for someone', None, None, None, 0), ('committing suicide .', None, None, None, 1), ('Of course its incredibly sad', None, None, None, 0), ('and i feel for anyone', None, None, None, 0), ('that has to go through what people like that do go through', None, None, None, 0), ('but how can these doctors be blamed . That means that anyone can be blamed for missing the signs', None, None, None, 0), ('and its too hard to tell', None, None, None, 0), ('when someone will actually commit to killing themselves', None, None, None, 0), ('even when they are making empty threats .', None, None, None, 1)]

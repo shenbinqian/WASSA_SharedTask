@@ -1,0 +1,29 @@
+=====================> [[('I hear', None, None, None, 0), ('the British Government is looking', None, None, None, 0), ('to drill for oil again .', None, None, None, 1), ('This time they are looking to drill near the Murchison Falls National Park in Uganda .', None, None, None, 1), ('Everyone is so dependent on oil all the time .', None, None, None, 1), ('Too bad for some giraffes', None, None, None, 0), ('that live there', None, None, None, 0), ('as they will be displaced .', None, None, None, 1), ('Of course I could really care less about giraffes 5000 miles away from me .', None, None, None, 1), ('Still I wish the giraffes the best I suppose .', None, None, None, 1), ('Brits are such weasels', None, None, None, 0), ('it figures', None, None, None, 0), ('they would look to kill a bunch of giraffes for their own selfish gains .', None, None, None, 1), ('Governments all stink .', None, None, None, 1)]]
+Leaf:  S span I hear
+Leaf:  N Enablement the British Government is looking
+Leaf:  S span to drill for oil again .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span This time they are looking to drill near the Murchison Falls National Park in Uganda .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Evaluation Everyone is so dependent on oil all the time .
+Leaf:  N Elaborate Too bad for some giraffes
+Leaf:  S span that live there
+Inner:  N Cause None Elaborate NS
+Leaf:  S span as they will be displaced .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span Of course I could really care less about giraffes 5000 miles away from me .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Still I wish the giraffes the best I suppose .
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span Brits are such weasels
+Leaf:  S span it figures
+Leaf:  N Attribution they would look to kill a bunch of giraffes for their own selfish gains .
+Inner:  N Explanation None Attribution SN
+Inner:  S span None Explanation SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Governments all stink .
+Inner:  Root None None Evaluation NS
+[('I hear', None, None, None, 0), ('the British Government is looking', None, None, None, 0), ('to drill for oil again .', None, None, None, 1), ('This time they are looking to drill near the Murchison Falls National Park in Uganda .', None, None, None, 1), ('Everyone is so dependent on oil all the time .', None, None, None, 1), ('Too bad for some giraffes', None, None, None, 0), ('that live there', None, None, None, 0), ('as they will be displaced .', None, None, None, 1), ('Of course I could really care less about giraffes 5000 miles away from me .', None, None, None, 1), ('Still I wish the giraffes the best I suppose .', None, None, None, 1), ('Brits are such weasels', None, None, None, 0), ('it figures', None, None, None, 0), ('they would look to kill a bunch of giraffes for their own selfish gains .', None, None, None, 1), ('Governments all stink .', None, None, None, 1)]

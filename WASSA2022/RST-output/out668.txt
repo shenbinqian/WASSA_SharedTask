@@ -1,0 +1,45 @@
+=====================> [[('I think', None, None, None, 0), ('it is really fucked up', None, None, None, 0), ('that people continue to mess with the environment .', None, None, None, 1), ('Corporations and these oil fuckers should stopped .', None, None, None, 1), ('They are damaging the environment to no end !', None, None, None, 1), ('Someone needs to sit down with CEOs', None, None, None, 0), ('and ask them ,', None, None, None, 0), ('" Why do you want billions', None, None, None, 0), ("if you wo n't be able to enjoy it in the future", None, None, None, 0), ('when the environment is completely fucked ? " Seriously , where is a CEO going to travel to enjoy his millions', None, None, None, 0), ('and stay at luxury resort villas when the environment is completely fucked ?', None, None, None, 1), ('The luxury resort will be gone !!', None, None, None, 1), ('His wealth will end up amounting to nothing', None, None, None, 0), ("when he ca n't even enjoy it .", None, None, None, 1), ('His future children will have millions', None, None, None, 0), ('passed down', None, None, None, 0), ("but they wo n't fully enjoy it", None, None, None, 0), ('because the planet will be fucked !', None, None, None, 1), ('What the fuck ?', None, None, None, 1), ('These people are morally fucking bankrupt ,', None, None, None, 0), ('only bankrupt', None, None, None, 0), ("they 'll ever know .", None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate it is really fucked up
+Leaf:  S span that people continue to mess with the environment .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Corporations and these oil fuckers should stopped .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span They are damaging the environment to no end !
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Someone needs to sit down with CEOs
+Leaf:  N Joint and ask them ,
+Inner:  S span None Joint NN
+Leaf:  N Background " Why do you want billions
+Leaf:  N Background if you wo n't be able to enjoy it in the future
+Leaf:  N Joint when the environment is completely fucked ? " Seriously , where is a CEO going to travel to enjoy his millions
+Leaf:  N Joint and stay at luxury resort villas when the environment is completely fucked ?
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  N Attribution None Background NS
+Inner:  N Summary None Attribution SN
+Leaf:  S span The luxury resort will be gone !!
+Inner:  N Joint None Summary NS
+Leaf:  N Background His wealth will end up amounting to nothing
+Leaf:  S span when he ca n't even enjoy it .
+Inner:  N Joint None Background NS
+Leaf:  N Elaborate His future children will have millions
+Leaf:  S span passed down
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but they wo n't fully enjoy it
+Inner:  N Cause None Contrast SN
+Leaf:  S span because the planet will be fucked !
+Inner:  N Joint None Cause NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span What the fuck ?
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Joint These people are morally fucking bankrupt ,
+Leaf:  N Elaborate only bankrupt
+Leaf:  S span they 'll ever know .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('it is really fucked up', None, None, None, 0), ('that people continue to mess with the environment .', None, None, None, 1), ('Corporations and these oil fuckers should stopped .', None, None, None, 1), ('They are damaging the environment to no end !', None, None, None, 1), ('Someone needs to sit down with CEOs', None, None, None, 0), ('and ask them ,', None, None, None, 0), ('" Why do you want billions', None, None, None, 0), ("if you wo n't be able to enjoy it in the future", None, None, None, 0), ('when the environment is completely fucked ? " Seriously , where is a CEO going to travel to enjoy his millions', None, None, None, 0), ('and stay at luxury resort villas when the environment is completely fucked ?', None, None, None, 1), ('The luxury resort will be gone !!', None, None, None, 1), ('His wealth will end up amounting to nothing', None, None, None, 0), ("when he ca n't even enjoy it .", None, None, None, 1), ('His future children will have millions', None, None, None, 0), ('passed down', None, None, None, 0), ("but they wo n't fully enjoy it", None, None, None, 0), ('because the planet will be fucked !', None, None, None, 1), ('What the fuck ?', None, None, None, 1), ('These people are morally fucking bankrupt ,', None, None, None, 0), ('only bankrupt', None, None, None, 0), ("they 'll ever know .", None, None, None, 1)]

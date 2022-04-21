@@ -1,0 +1,21 @@
+=====================> [[('Global warming and fires and now being considered to be linked to one another .', None, None, None, 1), ('While being a resident of California ,', None, None, None, 0), ('this to me is not surprising .', None, None, None, 1), ('Unfortunately we as a nation need to open our eyes up', None, None, None, 0), ('and realize the impact', None, None, None, 0), ('that we are having on our environment .', None, None, None, 1), ('Even worse is now we have a president', None, None, None, 0), ('who in his own words feel as though global warming is just a fabrication .', None, None, None, 1), ('This is going to cost us more money in the fire fighting department', None, None, None, 0), ('and we are going to see way worse side affects from this problem .', None, None, None, 1)]]
+Leaf:  N Evaluation Global warming and fires and now being considered to be linked to one another .
+Leaf:  S span While being a resident of California ,
+Leaf:  N Background this to me is not surprising .
+Inner:  S span None Background SN
+Leaf:  N Joint Unfortunately we as a nation need to open our eyes up
+Leaf:  N Elaborate and realize the impact
+Leaf:  S span that we are having on our environment .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate Even worse is now we have a president
+Leaf:  S span who in his own words feel as though global warming is just a fabrication .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint This is going to cost us more money in the fire fighting department
+Leaf:  N Joint and we are going to see way worse side affects from this problem .
+Inner:  S span None Joint NN
+Inner:  N Joint None Cause NS
+Inner:  N Background None Joint NN
+Inner:  S span None Background SN
+Inner:  Root None None Evaluation NS
+[('Global warming and fires and now being considered to be linked to one another .', None, None, None, 1), ('While being a resident of California ,', None, None, None, 0), ('this to me is not surprising .', None, None, None, 1), ('Unfortunately we as a nation need to open our eyes up', None, None, None, 0), ('and realize the impact', None, None, None, 0), ('that we are having on our environment .', None, None, None, 1), ('Even worse is now we have a president', None, None, None, 0), ('who in his own words feel as though global warming is just a fabrication .', None, None, None, 1), ('This is going to cost us more money in the fire fighting department', None, None, None, 0), ('and we are going to see way worse side affects from this problem .', None, None, None, 1)]

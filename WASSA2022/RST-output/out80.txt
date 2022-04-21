@@ -1,0 +1,19 @@
+=====================> [[('Overall the problem here seems to be that overuse of resources in a certain area needs to be stopped .', None, None, None, 1), ("Simply pumping more water is n't the issue", None, None, None, 0), ('and perhaps the fact', None, None, None, 0), ('that too many people are trying to use that water source', None, None, None, 0), ('should be something', None, None, None, 0), ("that 's looked into .", None, None, None, 1), ('There should also be some sort of testing and filtering system', None, None, None, 0), ('put into place', None, None, None, 0), ('to protect the people .', None, None, None, 1)]]
+Leaf:  N Summary Overall the problem here seems to be that overuse of resources in a certain area needs to be stopped .
+Leaf:  N Joint Simply pumping more water is n't the issue
+Leaf:  N Elaborate and perhaps the fact
+Leaf:  S span that too many people are trying to use that water source
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate should be something
+Leaf:  S span that 's looked into .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate There should also be some sort of testing and filtering system
+Leaf:  N Enablement put into place
+Leaf:  S span to protect the people .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('Overall the problem here seems to be that overuse of resources in a certain area needs to be stopped .', None, None, None, 1), ("Simply pumping more water is n't the issue", None, None, None, 0), ('and perhaps the fact', None, None, None, 0), ('that too many people are trying to use that water source', None, None, None, 0), ('should be something', None, None, None, 0), ("that 's looked into .", None, None, None, 1), ('There should also be some sort of testing and filtering system', None, None, None, 0), ('put into place', None, None, None, 0), ('to protect the people .', None, None, None, 1)]

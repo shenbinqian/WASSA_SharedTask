@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about a very strong Category 5 typhoon , ‘ Typhoon Meranti ’ ,', None, None, None, 0), ('which grew stronger', None, None, None, 0), ('as it swept close to Taiwan on Wednesday .', None, None, None, 1), ('A Category 5 has intense maximum winds of 230 miles per hour ,', None, None, None, 0), ('and is being called the strongest storm of the year .', None, None, None, 1), ('There were no deaths reported but a handful of injuries and of course electricity is out for large numbers of residents .', None, None, None, 1), ('The storm may intensify', None, None, None, 0), ('as it heads toward China', None, None, None, 0), ('and is being monitored .', None, None, None, 1), ('What a tragedy could unfold', None, None, None, 0), ('if it makes a direct hit on some of the highly populated areas in China .', None, None, None, 1), ('Could end up being one of the strongest storms of the century .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about a very strong Category 5 typhoon , ‘ Typhoon Meranti ’ ,
+Leaf:  N Background which grew stronger
+Leaf:  S span as it swept close to Taiwan on Wednesday .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint A Category 5 has intense maximum winds of 230 miles per hour ,
+Leaf:  N Joint and is being called the strongest storm of the year .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There were no deaths reported but a handful of injuries and of course electricity is out for large numbers of residents .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The storm may intensify
+Leaf:  S span as it heads toward China
+Inner:  N Joint None Temporal NS
+Leaf:  N Joint and is being monitored .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition What a tragedy could unfold
+Leaf:  S span if it makes a direct hit on some of the highly populated areas in China .
+Inner:  N Cause None Condition NS
+Leaf:  S span Could end up being one of the strongest storms of the century .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about a very strong Category 5 typhoon , ‘ Typhoon Meranti ’ ,', None, None, None, 0), ('which grew stronger', None, None, None, 0), ('as it swept close to Taiwan on Wednesday .', None, None, None, 1), ('A Category 5 has intense maximum winds of 230 miles per hour ,', None, None, None, 0), ('and is being called the strongest storm of the year .', None, None, None, 1), ('There were no deaths reported but a handful of injuries and of course electricity is out for large numbers of residents .', None, None, None, 1), ('The storm may intensify', None, None, None, 0), ('as it heads toward China', None, None, None, 0), ('and is being monitored .', None, None, None, 1), ('What a tragedy could unfold', None, None, None, 0), ('if it makes a direct hit on some of the highly populated areas in China .', None, None, None, 1), ('Could end up being one of the strongest storms of the century .', None, None, None, 1)]

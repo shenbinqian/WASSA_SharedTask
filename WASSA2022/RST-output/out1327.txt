@@ -1,0 +1,23 @@
+=====================> [[('What a freaking asshole !', None, None, None, 1), ('Guys are so creepy sometimes .', None, None, None, 1), ('and in our own home state .', None, None, None, 1), ('I wonder', None, None, None, 0), ('who he gave them to to release them out to the public .', None, None, None, 1), ('Anyway , please be careful with your photos and information .', None, None, None, 1), ("I 've been seeing more and more accounts", None, None, None, 0), ('like this', None, None, None, 0), ('popping up ,', None, None, None, 0), ('and I would hate to see any of our sensitive data at risk .', None, None, None, 1), ('stay safe out there .', None, None, None, 1)]]
+Leaf:  N Evaluation What a freaking asshole !
+Leaf:  N Joint Guys are so creepy sometimes .
+Leaf:  N Joint and in our own home state .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I wonder
+Leaf:  N Attribution who he gave them to to release them out to the public .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation Anyway , please be careful with your photos and information .
+Leaf:  N Elaborate I 've been seeing more and more accounts
+Leaf:  N Elaborate like this
+Leaf:  S span popping up ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and I would hate to see any of our sensitive data at risk .
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Topic-Comment stay safe out there .
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('What a freaking asshole !', None, None, None, 1), ('Guys are so creepy sometimes .', None, None, None, 1), ('and in our own home state .', None, None, None, 1), ('I wonder', None, None, None, 0), ('who he gave them to to release them out to the public .', None, None, None, 1), ('Anyway , please be careful with your photos and information .', None, None, None, 1), ("I 've been seeing more and more accounts", None, None, None, 0), ('like this', None, None, None, 0), ('popping up ,', None, None, None, 0), ('and I would hate to see any of our sensitive data at risk .', None, None, None, 1), ('stay safe out there .', None, None, None, 1)]

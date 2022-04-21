@@ -1,0 +1,35 @@
+=====================> [[('What would we do', None, None, None, 0), ('without friends ?', None, None, None, 1), ('Have you ever given it a thought ?', None, None, None, 1), ('Friends are there , right by your side , through thick and thin ,', None, None, None, 0), ('adding the right flavors to your life', None, None, None, 0), ('-- cheering you up', None, None, None, 0), ("when you 're down ,", None, None, None, 0), ('laughing with you', None, None, None, 0), ("till you 're both on the floor", None, None, None, 0), ('clutching your stomachs ,', None, None, None, 0), ('holding your hand', None, None, None, 0), ("when you 're not strong enough", None, None, None, 0), ('to face the world ...', None, None, None, 1), ('When you are blessed with true friends', None, None, None, 0), ('you can always count on ,', None, None, None, 0), ('you can bravely face any storm', None, None, None, 0), ('and tackle obstacles with a smile .', None, None, None, 1)]]
+Leaf:  N Background What would we do
+Leaf:  S span without friends ?
+Inner:  N Summary None Background NS
+Leaf:  N Topic-Comment Have you ever given it a thought ?
+Leaf:  N Joint Friends are there , right by your side , through thick and thin ,
+Leaf:  N Joint adding the right flavors to your life
+Leaf:  N Background -- cheering you up
+Leaf:  S span when you 're down ,
+Inner:  N Joint None Background NS
+Leaf:  N Background laughing with you
+Leaf:  N Elaborate till you 're both on the floor
+Leaf:  S span clutching your stomachs ,
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Leaf:  N Background holding your hand
+Leaf:  N Temporal when you 're not strong enough
+Leaf:  N Temporal to face the world ...
+Inner:  S span None Temporal NN
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate When you are blessed with true friends
+Leaf:  S span you can always count on ,
+Inner:  S span None Elaborate NS
+Leaf:  N Joint you can bravely face any storm
+Leaf:  N Joint and tackle obstacles with a smile .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('What would we do', None, None, None, 0), ('without friends ?', None, None, None, 1), ('Have you ever given it a thought ?', None, None, None, 1), ('Friends are there , right by your side , through thick and thin ,', None, None, None, 0), ('adding the right flavors to your life', None, None, None, 0), ('-- cheering you up', None, None, None, 0), ("when you 're down ,", None, None, None, 0), ('laughing with you', None, None, None, 0), ("till you 're both on the floor", None, None, None, 0), ('clutching your stomachs ,', None, None, None, 0), ('holding your hand', None, None, None, 0), ("when you 're not strong enough", None, None, None, 0), ('to face the world ...', None, None, None, 1), ('When you are blessed with true friends', None, None, None, 0), ('you can always count on ,', None, None, None, 0), ('you can bravely face any storm', None, None, None, 0), ('and tackle obstacles with a smile .', None, None, None, 1)]

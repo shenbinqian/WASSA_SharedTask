@@ -1,0 +1,23 @@
+=====================> [[('Hi , I just read an article about a sue', None, None, None, 0), ('concerning an apartment ,', None, None, None, 0), ('and it got me thinking .', None, None, None, 1), ('Why do people never do research', None, None, None, 0), ('before signing any papers ?', None, None, None, 1), ('It really is not that big of a deal or a difficult thing to do ,', None, None, None, 0), ('this should be something basic to do ,', None, None, None, 0), ('you know ?', None, None, None, 1), ('It just troubles me', None, None, None, 0), ('how far things can go', None, None, None, 0), ('just because people do not really read !', None, None, None, 1)]]
+Leaf:  N Elaborate Hi , I just read an article about a sue
+Leaf:  S span concerning an apartment ,
+Inner:  S span None Elaborate NS
+Leaf:  N Cause and it got me thinking .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Temporal Why do people never do research
+Leaf:  S span before signing any papers ?
+Inner:  N Summary None Temporal NS
+Leaf:  N Evaluation It really is not that big of a deal or a difficult thing to do ,
+Leaf:  S span this should be something basic to do ,
+Inner:  N Attribution None Evaluation NS
+Leaf:  S span you know ?
+Inner:  S span None Attribution NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span It just troubles me
+Leaf:  N Cause how far things can go
+Leaf:  S span just because people do not really read !
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hi , I just read an article about a sue', None, None, None, 0), ('concerning an apartment ,', None, None, None, 0), ('and it got me thinking .', None, None, None, 1), ('Why do people never do research', None, None, None, 0), ('before signing any papers ?', None, None, None, 1), ('It really is not that big of a deal or a difficult thing to do ,', None, None, None, 0), ('this should be something basic to do ,', None, None, None, 0), ('you know ?', None, None, None, 1), ('It just troubles me', None, None, None, 0), ('how far things can go', None, None, None, 0), ('just because people do not really read !', None, None, None, 1)]

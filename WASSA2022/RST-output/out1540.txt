@@ -1,0 +1,21 @@
+=====================> [[('I just read a really , really long article about the outrageous use of torture by our government during the never-ending , so-called " War on Terror . "', None, None, None, 0), ('Our tax dollars have been used', None, None, None, 0), ('to torture detainees', None, None, None, 0), ('( some of them', None, None, None, 0), ('who have been proven to be entirely innocent )', None, None, None, 0), ('which is a direct violation of international law and the US Constitution .', None, None, None, 1), ('Those', None, None, None, 0), ('who suffered this brutal treatment', None, None, None, 0), ('are now experiencing long term physical and psychological problems .', None, None, None, 1), ('The government has stonewalled and tried to keep the details classified .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a really , really long article about the outrageous use of torture by our government during the never-ending , so-called " War on Terror . "
+Leaf:  N Enablement Our tax dollars have been used
+Leaf:  N Elaborate to torture detainees
+Leaf:  N Elaborate ( some of them
+Leaf:  S span who have been proven to be entirely innocent )
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span which is a direct violation of international law and the US Constitution .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate Those
+Leaf:  S span who suffered this brutal treatment
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are now experiencing long term physical and psychological problems .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span The government has stonewalled and tried to keep the details classified .
+Inner:  Root None None Cause NS
+[('I just read a really , really long article about the outrageous use of torture by our government during the never-ending , so-called " War on Terror . "', None, None, None, 0), ('Our tax dollars have been used', None, None, None, 0), ('to torture detainees', None, None, None, 0), ('( some of them', None, None, None, 0), ('who have been proven to be entirely innocent )', None, None, None, 0), ('which is a direct violation of international law and the US Constitution .', None, None, None, 1), ('Those', None, None, None, 0), ('who suffered this brutal treatment', None, None, None, 0), ('are now experiencing long term physical and psychological problems .', None, None, None, 1), ('The government has stonewalled and tried to keep the details classified .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('so three missiles get shot up in the air randomly', None, None, None, 0), ('like', None, None, None, 0), ('if this were to be a daily routine .', None, None, None, 1), ('nobody was going to do anything about it .', None, None, None, 1), ('the craziest part about it is reading about the father', None, None, None, 0), ('who the article states', None, None, None, 0), ('that jokingly told his family', None, None, None, 0), ('to forgive him', None, None, None, 0), ('if he did not return home that night .', None, None, None, 1), ('that man did not return home', None, None, None, 0), ('that i find insane .', None, None, None, 1)]]
+Leaf:  N Background so three missiles get shot up in the air randomly
+Leaf:  N Condition like
+Leaf:  S span if this were to be a daily routine .
+Inner:  S span None Condition NS
+Inner:  S span None Background NS
+Leaf:  N Background nobody was going to do anything about it .
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate the craziest part about it is reading about the father
+Leaf:  S span who the article states
+Leaf:  S span that jokingly told his family
+Leaf:  N Background to forgive him
+Leaf:  S span if he did not return home that night .
+Inner:  N Attribution None Background NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation that man did not return home
+Leaf:  S span that i find insane .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('so three missiles get shot up in the air randomly', None, None, None, 0), ('like', None, None, None, 0), ('if this were to be a daily routine .', None, None, None, 1), ('nobody was going to do anything about it .', None, None, None, 1), ('the craziest part about it is reading about the father', None, None, None, 0), ('who the article states', None, None, None, 0), ('that jokingly told his family', None, None, None, 0), ('to forgive him', None, None, None, 0), ('if he did not return home that night .', None, None, None, 1), ('that man did not return home', None, None, None, 0), ('that i find insane .', None, None, None, 1)]

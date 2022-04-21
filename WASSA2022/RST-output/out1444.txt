@@ -1,0 +1,23 @@
+=====================> [[('I feel bad for the kid', None, None, None, 0), ('that fell into the gorilla enclosure and Harambe , the meme king of 2016 .', None, None, None, 1), ('It sucks', None, None, None, 0), ('that they had to shoot the gorilla ,', None, None, None, 0), ("but it did n't know", None, None, None, 0), ('what it was doing', None, None, None, 0), ('to hurt the kid', None, None, None, 0), ('and it seemed like there was no choice but to kill him .', None, None, None, 1), ('It must have been an awful downer for the zoo visitors', None, None, None, 0), ('who expected to have a relaxing and fun day of leisure . In my opinion the zoo should have given the visitors present at the shooting a coupon for a future visit or something like that', None, None, None, 0), ('to ease the downer .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel bad for the kid
+Leaf:  S span that fell into the gorilla enclosure and Harambe , the meme king of 2016 .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It sucks
+Leaf:  N Attribution that they had to shoot the gorilla ,
+Inner:  S span None Attribution SN
+Leaf:  S span but it did n't know
+Leaf:  N Elaborate what it was doing
+Leaf:  S span to hurt the kid
+Inner:  N Attribution None Elaborate NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Cause and it seemed like there was no choice but to kill him .
+Inner:  N Contrast None Cause NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate It must have been an awful downer for the zoo visitors
+Leaf:  N Enablement who expected to have a relaxing and fun day of leisure . In my opinion the zoo should have given the visitors present at the shooting a coupon for a future visit or something like that
+Leaf:  S span to ease the downer .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I feel bad for the kid', None, None, None, 0), ('that fell into the gorilla enclosure and Harambe , the meme king of 2016 .', None, None, None, 1), ('It sucks', None, None, None, 0), ('that they had to shoot the gorilla ,', None, None, None, 0), ("but it did n't know", None, None, None, 0), ('what it was doing', None, None, None, 0), ('to hurt the kid', None, None, None, 0), ('and it seemed like there was no choice but to kill him .', None, None, None, 1), ('It must have been an awful downer for the zoo visitors', None, None, None, 0), ('who expected to have a relaxing and fun day of leisure . In my opinion the zoo should have given the visitors present at the shooting a coupon for a future visit or something like that', None, None, None, 0), ('to ease the downer .', None, None, None, 1)]

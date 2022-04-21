@@ -1,0 +1,21 @@
+=====================> [[('Another sad story .', None, None, None, 1), ('I am deeply sorry for the families of the innocent civilians', None, None, None, 0), ('that were killed', None, None, None, 0), ('but our United States army has to do what it has to do', None, None, None, 0), ('in order to protect our great country', None, None, None, 0), ('and keep us all safe as Americans .', None, None, None, 1), ('Living in those types of countries is a risk', None, None, None, 0), ('and sometimes innocent peoples lives have to be taken in order', None, None, None, 0), ('to keep us safe', None, None, None, 0), ('and protect our country .', None, None, None, 1)]]
+Leaf:  N Elaborate Another sad story .
+Leaf:  N Elaborate I am deeply sorry for the families of the innocent civilians
+Leaf:  S span that were killed
+Inner:  S span None Elaborate NS
+Leaf:  N Enablement but our United States army has to do what it has to do
+Leaf:  N Joint in order to protect our great country
+Leaf:  N Joint and keep us all safe as Americans .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Enablement NS
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint Living in those types of countries is a risk
+Leaf:  N Enablement and sometimes innocent peoples lives have to be taken in order
+Leaf:  N Joint to keep us safe
+Leaf:  N Joint and protect our country .
+Inner:  S span None Joint NN
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Another sad story .', None, None, None, 1), ('I am deeply sorry for the families of the innocent civilians', None, None, None, 0), ('that were killed', None, None, None, 0), ('but our United States army has to do what it has to do', None, None, None, 0), ('in order to protect our great country', None, None, None, 0), ('and keep us all safe as Americans .', None, None, None, 1), ('Living in those types of countries is a risk', None, None, None, 0), ('and sometimes innocent peoples lives have to be taken in order', None, None, None, 0), ('to keep us safe', None, None, None, 0), ('and protect our country .', None, None, None, 1)]

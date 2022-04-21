@@ -1,0 +1,29 @@
+=====================> [[('It sickens me', None, None, None, 0), ('that more of these third world countries are receiving the aid', None, None, None, 0), ('they deserve', None, None, None, 0), ('so that the kids can be healed', None, None, None, 0), ('and fed', None, None, None, 0), ('and not suffer the diseases', None, None, None, 0), ('that are out there', None, None, None, 0), ('this time it is measles that is killing children in northern Sudan .', None, None, None, 1), ('It makes me sad', None, None, None, 0), ('that this is just an everyday thing', None, None, None, 0), ('to this country', None, None, None, 0), ('and if nobody is helping', None, None, None, 0), ('then more and more children will die', None, None, None, 0), ("because people do n't care about them .", None, None, None, 1)]]
+Leaf:  S span It sickens me
+Leaf:  N Elaborate that more of these third world countries are receiving the aid
+Leaf:  S span they deserve
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Joint so that the kids can be healed
+Leaf:  N Joint and fed
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate and not suffer the diseases
+Leaf:  N Elaborate that are out there
+Leaf:  S span this time it is measles that is killing children in northern Sudan .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It makes me sad
+Leaf:  N Joint that this is just an everyday thing
+Leaf:  N Joint to this country
+Inner:  N Joint None Joint NN
+Leaf:  S span and if nobody is helping
+Leaf:  N Cause then more and more children will die
+Leaf:  S span because people do n't care about them .
+Inner:  N Condition None Cause NS
+Inner:  N Joint None Condition SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('It sickens me', None, None, None, 0), ('that more of these third world countries are receiving the aid', None, None, None, 0), ('they deserve', None, None, None, 0), ('so that the kids can be healed', None, None, None, 0), ('and fed', None, None, None, 0), ('and not suffer the diseases', None, None, None, 0), ('that are out there', None, None, None, 0), ('this time it is measles that is killing children in northern Sudan .', None, None, None, 1), ('It makes me sad', None, None, None, 0), ('that this is just an everyday thing', None, None, None, 0), ('to this country', None, None, None, 0), ('and if nobody is helping', None, None, None, 0), ('then more and more children will die', None, None, None, 0), ("because people do n't care about them .", None, None, None, 1)]

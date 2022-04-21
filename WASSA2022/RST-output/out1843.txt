@@ -1,0 +1,31 @@
+=====================> [[('Do you know about Zika virus news ?', None, None, None, 1), ('That like dengue and West Nile virus , this mosquito-spread disease is now going to be a regular fixture — and a perennial risk for pregnant women .', None, None, None, 1), ('The huge bloom of Zika activity in the Americas right now is unprecedented .', None, None, None, 1), ('A longtime US Army scientist', None, None, None, 0), ('who is now semiretired ,', None, None, None, 0), ('Halstead believes', None, None, None, 0), ('Zika will vanish in a few years , likely for decades .', None, None, None, 1), ('That ’s the way another arbovirus , chikungunya works ,', None, None, None, 0), ('he wrote in an article in Emerging Infectious Diseases last year .', None, None, None, 1), ('“ The rate', None, None, None, 0), ('at which people are getting infected right now', None, None, None, 0), ('certainly suggests', None, None, None, 0), ('that we ’re heading , within a year or two ,', None, None, None, 0), ('to achieve sufficient herd immunity for this virus', None, None, None, 0), ('to die out ,', None, None, None, 0)]]
+Leaf:  N Elaborate Do you know about Zika virus news ?
+Leaf:  S span That like dengue and West Nile virus , this mosquito-spread disease is now going to be a regular fixture — and a perennial risk for pregnant women .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The huge bloom of Zika activity in the Americas right now is unprecedented .
+Leaf:  N Elaborate A longtime US Army scientist
+Leaf:  S span who is now semiretired ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span Halstead believes
+Leaf:  N Attribution Zika will vanish in a few years , likely for decades .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Attribution That ’s the way another arbovirus , chikungunya works ,
+Leaf:  S span he wrote in an article in Emerging Infectious Diseases last year .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate “ The rate
+Leaf:  S span at which people are getting infected right now
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit certainly suggests
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution that we ’re heading , within a year or two ,
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Cause to achieve sufficient herd immunity for this virus
+Leaf:  S span to die out ,
+Inner:  N Same-Unit None Cause NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Do you know about Zika virus news ?', None, None, None, 1), ('That like dengue and West Nile virus , this mosquito-spread disease is now going to be a regular fixture — and a perennial risk for pregnant women .', None, None, None, 1), ('The huge bloom of Zika activity in the Americas right now is unprecedented .', None, None, None, 1), ('A longtime US Army scientist', None, None, None, 0), ('who is now semiretired ,', None, None, None, 0), ('Halstead believes', None, None, None, 0), ('Zika will vanish in a few years , likely for decades .', None, None, None, 1), ('That ’s the way another arbovirus , chikungunya works ,', None, None, None, 0), ('he wrote in an article in Emerging Infectious Diseases last year .', None, None, None, 1), ('“ The rate', None, None, None, 0), ('at which people are getting infected right now', None, None, None, 0), ('certainly suggests', None, None, None, 0), ('that we ’re heading , within a year or two ,', None, None, None, 0), ('to achieve sufficient herd immunity for this virus', None, None, None, 0), ('to die out ,', None, None, None, 0)]

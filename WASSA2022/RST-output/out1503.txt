@@ -1,0 +1,27 @@
+=====================> [[('this article about people', None, None, None, 0), ('targeting muslims', None, None, None, 0), ('is sickening .', None, None, None, 1), ("One lady 's clothes were set on fire !", None, None, None, 1), ('Who does that ?!', None, None, None, 1), ('Another lady was with her 15 month old child', None, None, None, 0), ('and was punched in the face :( It makes me so sick', None, None, None, 0), ('that hate going on in todays world .', None, None, None, 1), ('I understand', None, None, None, 0), ('that there are terrorists', None, None, None, 0), ('and some are muslims .', None, None, None, 1), ('But that does not mean we should say', None, None, None, 0), ('that every muslim should pay the price .', None, None, None, 1)]]
+Leaf:  N Elaborate this article about people
+Leaf:  S span targeting muslims
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is sickening .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Evaluation One lady 's clothes were set on fire !
+Leaf:  N Joint Who does that ?!
+Leaf:  N Temporal Another lady was with her 15 month old child
+Leaf:  N Temporal and was punched in the face :( It makes me so sick
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span that hate going on in todays world .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I understand
+Leaf:  N Joint that there are terrorists
+Leaf:  N Joint and some are muslims .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  S span But that does not mean we should say
+Leaf:  N Attribution that every muslim should pay the price .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('this article about people', None, None, None, 0), ('targeting muslims', None, None, None, 0), ('is sickening .', None, None, None, 1), ("One lady 's clothes were set on fire !", None, None, None, 1), ('Who does that ?!', None, None, None, 1), ('Another lady was with her 15 month old child', None, None, None, 0), ('and was punched in the face :( It makes me so sick', None, None, None, 0), ('that hate going on in todays world .', None, None, None, 1), ('I understand', None, None, None, 0), ('that there are terrorists', None, None, None, 0), ('and some are muslims .', None, None, None, 1), ('But that does not mean we should say', None, None, None, 0), ('that every muslim should pay the price .', None, None, None, 1)]

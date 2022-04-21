@@ -1,0 +1,23 @@
+=====================> [[('This shows', None, None, None, 0), ('how the current political environment is effecting people , especially younger people , emotionally .', None, None, None, 1), ('The stress and fear', None, None, None, 0), ('that is being shown from the younger generation', None, None, None, 0), ('is mostly to blame on social media .', None, None, None, 1), ('We used to be able to discuss political issues in person , calmly .', None, None, None, 1), ('Now ,', None, None, None, 0), ('if you try to mention your opinion on social media ,', None, None, None, 0), ('you run the risk', None, None, None, 0), ('of being attacked or insulted ,', None, None, None, 0), ('simply adding to the fear of the current political situations .', None, None, None, 1)]]
+Leaf:  S span This shows
+Leaf:  N Attribution how the current political environment is effecting people , especially younger people , emotionally .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The stress and fear
+Leaf:  S span that is being shown from the younger generation
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is mostly to blame on social media .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span We used to be able to discuss political issues in person , calmly .
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Same-Unit Now ,
+Leaf:  S span if you try to mention your opinion on social media ,
+Leaf:  N Elaborate you run the risk
+Leaf:  S span of being attacked or insulted ,
+Inner:  N Cause None Elaborate NS
+Leaf:  S span simply adding to the fear of the current political situations .
+Inner:  N Condition None Cause NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('This shows', None, None, None, 0), ('how the current political environment is effecting people , especially younger people , emotionally .', None, None, None, 1), ('The stress and fear', None, None, None, 0), ('that is being shown from the younger generation', None, None, None, 0), ('is mostly to blame on social media .', None, None, None, 1), ('We used to be able to discuss political issues in person , calmly .', None, None, None, 1), ('Now ,', None, None, None, 0), ('if you try to mention your opinion on social media ,', None, None, None, 0), ('you run the risk', None, None, None, 0), ('of being attacked or insulted ,', None, None, None, 0), ('simply adding to the fear of the current political situations .', None, None, None, 1)]

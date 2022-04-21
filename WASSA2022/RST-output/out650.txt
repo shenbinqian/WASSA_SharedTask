@@ -1,0 +1,21 @@
+=====================> [[('That would be a scary situation', None, None, None, 0), ('to live in .', None, None, None, 1), ('It is sad that the people feel like the government cares more about the elephants and animals than the people .', None, None, None, 1), ('These people must learn how to live with the elephants ,', None, None, None, 0), ('but it seems like it is a scary thing to do . I would hate to try and live in that situation with children . I also think', None, None, None, 0), ('that anyone', None, None, None, 0), ('who is going to visit there', None, None, None, 0), ('should be made aware of the dangers of the elephants', None, None, None, 0), ("so that they do n't get injured or killed", None, None, None, 0), ('like the 29 year old woman did in the article .', None, None, None, 1)]]
+Leaf:  N Elaborate That would be a scary situation
+Leaf:  S span to live in .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is sad that the people feel like the government cares more about the elephants and animals than the people .
+Leaf:  N Contrast These people must learn how to live with the elephants ,
+Leaf:  S span but it seems like it is a scary thing to do . I would hate to try and live in that situation with children . I also think
+Leaf:  N Elaborate that anyone
+Leaf:  S span who is going to visit there
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be made aware of the dangers of the elephants
+Inner:  S span None Same-Unit NN
+Leaf:  N Comparison so that they do n't get injured or killed
+Leaf:  S span like the 29 year old woman did in the article .
+Inner:  N Condition None Comparison NS
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('That would be a scary situation', None, None, None, 0), ('to live in .', None, None, None, 1), ('It is sad that the people feel like the government cares more about the elephants and animals than the people .', None, None, None, 1), ('These people must learn how to live with the elephants ,', None, None, None, 0), ('but it seems like it is a scary thing to do . I would hate to try and live in that situation with children . I also think', None, None, None, 0), ('that anyone', None, None, None, 0), ('who is going to visit there', None, None, None, 0), ('should be made aware of the dangers of the elephants', None, None, None, 0), ("so that they do n't get injured or killed", None, None, None, 0), ('like the 29 year old woman did in the article .', None, None, None, 1)]

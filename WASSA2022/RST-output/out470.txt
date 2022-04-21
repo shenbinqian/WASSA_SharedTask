@@ -1,0 +1,23 @@
+=====================> [[('Did you see this sad story ?', None, None, None, 1), ('This holocaust survivor has died .', None, None, None, 1), ('She lived a fruitful life', None, None, None, 0), ('recreating a town', None, None, None, 0), ('and now she is dead .', None, None, None, 1), ('Do you ever think', None, None, None, 0), ('of how sad life can be .', None, None, None, 1), ('This person survived the awful genocidal regime of Hitler .', None, None, None, 1), ('Why do human beings seek to contribute so much pain to one another .', None, None, None, 1), ('It is a sad and horrible way', None, None, None, 0), ('of being .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you see this sad story ?
+Leaf:  N Elaborate This holocaust survivor has died .
+Leaf:  N Manner-Means She lived a fruitful life
+Leaf:  S span recreating a town
+Inner:  N Temporal None Manner-Means NS
+Leaf:  N Temporal and now she is dead .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Do you ever think
+Leaf:  N Attribution of how sad life can be .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This person survived the awful genocidal regime of Hitler .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Why do human beings seek to contribute so much pain to one another .
+Leaf:  N Elaborate It is a sad and horrible way
+Leaf:  S span of being .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Did you see this sad story ?', None, None, None, 1), ('This holocaust survivor has died .', None, None, None, 1), ('She lived a fruitful life', None, None, None, 0), ('recreating a town', None, None, None, 0), ('and now she is dead .', None, None, None, 1), ('Do you ever think', None, None, None, 0), ('of how sad life can be .', None, None, None, 1), ('This person survived the awful genocidal regime of Hitler .', None, None, None, 1), ('Why do human beings seek to contribute so much pain to one another .', None, None, None, 1), ('It is a sad and horrible way', None, None, None, 0), ('of being .', None, None, None, 1)]

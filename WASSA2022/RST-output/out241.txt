@@ -1,0 +1,31 @@
+=====================> [[('Our system has failed us once again', None, None, None, 0), ('and continues to fail us daily . The idea that a foster care system allows for brothers to be split apart', None, None, None, 0), ('that came in together in insane .', None, None, None, 1), ("It 's strange to me", None, None, None, 0), ('that we treat human life', None, None, None, 0), ('as if it is less than important .', None, None, None, 1), ('I wish that people would wake up from the old-world ideals and behavior . Thanks to the 20th century and the advent of film as a story-telling mechanic , we have the ability', None, None, None, 0), ('to be able to share stories with each other on a bigger level .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("that it 's 2018", None, None, None, 0), ('and we still operate', None, None, None, 0), ("as if it 's 1400 a.d.", None, None, None, 1), ('I am disgusted by our modern culture and our governmental system .', None, None, None, 1), ("It 's all a sham .", None, None, None, 1), ('We are slaves .', None, None, None, 1)]]
+Leaf:  N Joint Our system has failed us once again
+Leaf:  N Elaborate and continues to fail us daily . The idea that a foster care system allows for brothers to be split apart
+Leaf:  S span that came in together in insane .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It 's strange to me
+Leaf:  N Enablement that we treat human life
+Leaf:  S span as if it is less than important .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I wish that people would wake up from the old-world ideals and behavior . Thanks to the 20th century and the advent of film as a story-telling mechanic , we have the ability
+Leaf:  S span to be able to share stories with each other on a bigger level .
+Inner:  N Joint None Elaborate NS
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution that it 's 2018
+Inner:  N Joint None Attribution SN
+Leaf:  N Enablement and we still operate
+Leaf:  S span as if it 's 1400 a.d.
+Inner:  N Joint None Enablement NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Summary I am disgusted by our modern culture and our governmental system .
+Leaf:  N Summary It 's all a sham .
+Leaf:  S span We are slaves .
+Inner:  S span None Summary NS
+Inner:  S span None Summary NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Our system has failed us once again', None, None, None, 0), ('and continues to fail us daily . The idea that a foster care system allows for brothers to be split apart', None, None, None, 0), ('that came in together in insane .', None, None, None, 1), ("It 's strange to me", None, None, None, 0), ('that we treat human life', None, None, None, 0), ('as if it is less than important .', None, None, None, 1), ('I wish that people would wake up from the old-world ideals and behavior . Thanks to the 20th century and the advent of film as a story-telling mechanic , we have the ability', None, None, None, 0), ('to be able to share stories with each other on a bigger level .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("that it 's 2018", None, None, None, 0), ('and we still operate', None, None, None, 0), ("as if it 's 1400 a.d.", None, None, None, 1), ('I am disgusted by our modern culture and our governmental system .', None, None, None, 1), ("It 's all a sham .", None, None, None, 1), ('We are slaves .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('I really think', None, None, None, 0), ('racism is getting out of hand lately .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why people have to commit hate crimes against people', None, None, None, 0), ("that they are n't similar to .", None, None, None, 1), ('Everyone deserves to live a happy life', None, None, None, 0), ('without being assaulted', None, None, None, 0), ('or worried', None, None, None, 0), ("that they 'll be assaulted .", None, None, None, 1), ('And chalking it up to religion is even worse .', None, None, None, 1), ("People do n't have to be so easily offended these days ,", None, None, None, 0), ('but they are ,', None, None, None, 0), ("and they 're hate filled", None, None, None, 0), ("while they 're offended too .", None, None, None, 1)]]
+Leaf:  S span I really think
+Leaf:  N Attribution racism is getting out of hand lately .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do n't understand
+Leaf:  N Elaborate why people have to commit hate crimes against people
+Leaf:  S span that they are n't similar to .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Manner-Means Everyone deserves to live a happy life
+Leaf:  N Joint without being assaulted
+Leaf:  S span or worried
+Leaf:  N Attribution that they 'll be assaulted .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate And chalking it up to religion is even worse .
+Leaf:  N Contrast People do n't have to be so easily offended these days ,
+Leaf:  N Joint but they are ,
+Leaf:  N Temporal and they 're hate filled
+Leaf:  S span while they 're offended too .
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I really think', None, None, None, 0), ('racism is getting out of hand lately .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why people have to commit hate crimes against people', None, None, None, 0), ("that they are n't similar to .", None, None, None, 1), ('Everyone deserves to live a happy life', None, None, None, 0), ('without being assaulted', None, None, None, 0), ('or worried', None, None, None, 0), ("that they 'll be assaulted .", None, None, None, 1), ('And chalking it up to religion is even worse .', None, None, None, 1), ("People do n't have to be so easily offended these days ,", None, None, None, 0), ('but they are ,', None, None, None, 0), ("and they 're hate filled", None, None, None, 0), ("while they 're offended too .", None, None, None, 1)]

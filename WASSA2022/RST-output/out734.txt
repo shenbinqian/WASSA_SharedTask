@@ -1,0 +1,29 @@
+=====================> [[('Did you hear about the 3 year old', None, None, None, 0), ('that climbed into the gorilla enclosure', None, None, None, 0), ('and was dragged around by the gorilla .', None, None, None, 1), ('The zookeepers had to shoot the gorilla .', None, None, None, 1), ('Apparently , there were no problems with the barrier .', None, None, None, 1), ("I 'd like to know", None, None, None, 0), ('how the little boy got in there .', None, None, None, 1), ('Based on what I read ,', None, None, None, 0), ("I do n't really take issue with the zoo or the gorilla .", None, None, None, 1), ('The barrier was at the right standard ,', None, None, None, 0), ('and the gorilla did what a gorilla is going to do', None, None, None, 0), ('if something like that happens . I place the blame on the parents', None, None, None, 0), ('who somehow let their 3 year old child climb into a gorilla enclosure .', None, None, None, 1), ('Were they not paying attention ?', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about the 3 year old
+Leaf:  N Temporal that climbed into the gorilla enclosure
+Leaf:  N Temporal and was dragged around by the gorilla .
+Inner:  S span None Temporal NN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Comparison The zookeepers had to shoot the gorilla .
+Leaf:  N Comparison Apparently , there were no problems with the barrier .
+Inner:  S span None Comparison NN
+Inner:  S span None Cause NS
+Leaf:  S span I 'd like to know
+Leaf:  N Attribution how the little boy got in there .
+Inner:  N Background None Attribution SN
+Inner:  N Elaborate None Background SN
+Leaf:  S span Based on what I read ,
+Leaf:  N Background I do n't really take issue with the zoo or the gorilla .
+Inner:  N Evaluation None Background SN
+Leaf:  N Joint The barrier was at the right standard ,
+Leaf:  N Condition and the gorilla did what a gorilla is going to do
+Leaf:  N Elaborate if something like that happens . I place the blame on the parents
+Leaf:  S span who somehow let their 3 year old child climb into a gorilla enclosure .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Condition NS
+Inner:  N Summary None Joint NN
+Leaf:  S span Were they not paying attention ?
+Inner:  S span None Summary NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Did you hear about the 3 year old', None, None, None, 0), ('that climbed into the gorilla enclosure', None, None, None, 0), ('and was dragged around by the gorilla .', None, None, None, 1), ('The zookeepers had to shoot the gorilla .', None, None, None, 1), ('Apparently , there were no problems with the barrier .', None, None, None, 1), ("I 'd like to know", None, None, None, 0), ('how the little boy got in there .', None, None, None, 1), ('Based on what I read ,', None, None, None, 0), ("I do n't really take issue with the zoo or the gorilla .", None, None, None, 1), ('The barrier was at the right standard ,', None, None, None, 0), ('and the gorilla did what a gorilla is going to do', None, None, None, 0), ('if something like that happens . I place the blame on the parents', None, None, None, 0), ('who somehow let their 3 year old child climb into a gorilla enclosure .', None, None, None, 1), ('Were they not paying attention ?', None, None, None, 1)]

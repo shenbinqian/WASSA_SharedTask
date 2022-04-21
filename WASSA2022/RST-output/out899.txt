@@ -1,0 +1,17 @@
+=====================> [[('Why are they prescribing things like that to such young kids ?', None, None, None, 1), ("That 's so insane .", None, None, None, 1), ("Benzodiazepines , especially , should n't be prescribed in general , in my opinion .", None, None, None, 1), ('Doctors are overly calm about the things', None, None, None, 0), ('they prescribe to people ,', None, None, None, 0), ('people', None, None, None, 0), ("that young should n't be subjected to that ,", None, None, None, 0), ("and the death tolls are n't surprising .", None, None, None, 1)]]
+Leaf:  N Evaluation Why are they prescribing things like that to such young kids ?
+Leaf:  S span That 's so insane .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation Benzodiazepines , especially , should n't be prescribed in general , in my opinion .
+Leaf:  N Elaborate Doctors are overly calm about the things
+Leaf:  S span they prescribe to people ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate people
+Leaf:  S span that young should n't be subjected to that ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and the death tolls are n't surprising .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Why are they prescribing things like that to such young kids ?', None, None, None, 1), ("That 's so insane .", None, None, None, 1), ("Benzodiazepines , especially , should n't be prescribed in general , in my opinion .", None, None, None, 1), ('Doctors are overly calm about the things', None, None, None, 0), ('they prescribe to people ,', None, None, None, 0), ('people', None, None, None, 0), ("that young should n't be subjected to that ,", None, None, None, 0), ("and the death tolls are n't surprising .", None, None, None, 1)]

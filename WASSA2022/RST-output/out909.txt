@@ -1,0 +1,21 @@
+=====================> [[('While this seems like good news', None, None, None, 0), ('that there are fewer and fewer cases of Zika', None, None, None, 0), ('I would be lying', None, None, None, 0), ('if I said', None, None, None, 0), ("it was n't still alarming .", None, None, None, 1), ('It seems very strange that such a huge virus with a widespread development and all of the media attention is now just a minor issue .', None, None, None, 1), ("It 's either hiding somewhere are there 's worse on the way .", None, None, None, 1), ('Or it could have all just been media hype', None, None, None, 0), ('to sell TV .', None, None, None, 1), ('Hard to say but suspicious all the same .', None, None, None, 1)]]
+Leaf:  N Elaborate While this seems like good news
+Leaf:  S span that there are fewer and fewer cases of Zika
+Inner:  S span None Elaborate NS
+Leaf:  N Condition I would be lying
+Leaf:  S span if I said
+Leaf:  N Attribution it was n't still alarming .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Condition NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation It seems very strange that such a huge virus with a widespread development and all of the media attention is now just a minor issue .
+Leaf:  N Joint It 's either hiding somewhere are there 's worse on the way .
+Leaf:  N Elaborate Or it could have all just been media hype
+Leaf:  S span to sell TV .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Hard to say but suspicious all the same .
+Inner:  Root None None Evaluation NS
+[('While this seems like good news', None, None, None, 0), ('that there are fewer and fewer cases of Zika', None, None, None, 0), ('I would be lying', None, None, None, 0), ('if I said', None, None, None, 0), ("it was n't still alarming .", None, None, None, 1), ('It seems very strange that such a huge virus with a widespread development and all of the media attention is now just a minor issue .', None, None, None, 1), ("It 's either hiding somewhere are there 's worse on the way .", None, None, None, 1), ('Or it could have all just been media hype', None, None, None, 0), ('to sell TV .', None, None, None, 1), ('Hard to say but suspicious all the same .', None, None, None, 1)]

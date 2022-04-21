@@ -1,0 +1,17 @@
+=====================> [[('People and government and climate groups are scared President Trumps cabinet would push climate control policies back .', None, None, None, 1), ('He might put the states out of the Paris Treaty ,', None, None, None, 0), ('and build more Coal factories', None, None, None, 0), ('that might emit more toxic fumes into the air', None, None, None, 0), ('and expand global warming . And in regards to other countries', None, None, None, 0), ('they might agree with it to as well ,', None, None, None, 0), ('putting our earths climate at a dangerous risk .', None, None, None, 1), ('This might other protocols as well such as the Kyoto protocol', None, None, None, 0)]]
+Leaf:  N Cause People and government and climate groups are scared President Trumps cabinet would push climate control policies back .
+Leaf:  N Joint He might put the states out of the Paris Treaty ,
+Leaf:  N Elaborate and build more Coal factories
+Leaf:  N Joint that might emit more toxic fumes into the air
+Leaf:  N Elaborate and expand global warming . And in regards to other countries
+Leaf:  S span they might agree with it to as well ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span putting our earths climate at a dangerous risk .
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This might other protocols as well such as the Kyoto protocol
+Inner:  S span None Evaluation NS
+Inner:  Root None None Cause NS
+[('People and government and climate groups are scared President Trumps cabinet would push climate control policies back .', None, None, None, 1), ('He might put the states out of the Paris Treaty ,', None, None, None, 0), ('and build more Coal factories', None, None, None, 0), ('that might emit more toxic fumes into the air', None, None, None, 0), ('and expand global warming . And in regards to other countries', None, None, None, 0), ('they might agree with it to as well ,', None, None, None, 0), ('putting our earths climate at a dangerous risk .', None, None, None, 1), ('This might other protocols as well such as the Kyoto protocol', None, None, None, 0)]

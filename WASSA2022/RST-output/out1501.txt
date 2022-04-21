@@ -1,0 +1,45 @@
+=====================> [[('I just read an article about two US Military personals', None, None, None, 0), ('being shot in Jordan .', None, None, None, 1), ('I have so many emotions', None, None, None, 0), ('running through me .', None, None, None, 1), ('I am sad about the loss of lives .', None, None, None, 1), ('I am in disbelief .', None, None, None, 1), ('How could this happen ? The article said', None, None, None, 0), ('they do not believe', None, None, None, 0), ('it was a terrosit attack', None, None, None, 0), ('so that makes me feel relieved , but still worried . US is there to assist Jordan for training . Why our are people being attacked ?!', None, None, None, 1), ('The article said', None, None, None, 0), ('they failed to stop at the entrance', None, None, None, 0), ('so I do not know', None, None, None, 0), ('if maybe it was a miscommunication . I am confused to what actually happened .', None, None, None, 1), ('From what I read', None, None, None, 0), ('there was an attack on Jordan', None, None, None, 0), ('when they just drove and barralled through their border', None, None, None, 0), ('so they are on high alert .', None, None, None, 1), ('My heart goes out to all of those involved', None, None, None, 0), ('and I am sad .', None, None, None, 1), ('But why on earth would they think', None, None, None, 0), ('that the US military personal are planning', None, None, None, 0)]]
+Leaf:  N Elaborate I just read an article about two US Military personals
+Leaf:  S span being shot in Jordan .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate I have so many emotions
+Leaf:  S span running through me .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I am sad about the loss of lives .
+Leaf:  N Joint I am in disbelief .
+Inner:  N Summary None Joint NN
+Leaf:  S span How could this happen ? The article said
+Leaf:  S span they do not believe
+Leaf:  N Attribution it was a terrosit attack
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span so that makes me feel relieved , but still worried . US is there to assist Jordan for training . Why our are people being attacked ?!
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span The article said
+Leaf:  N Attribution they failed to stop at the entrance
+Inner:  N Cause None Attribution SN
+Leaf:  S span so I do not know
+Leaf:  N Attribution if maybe it was a miscommunication . I am confused to what actually happened .
+Inner:  N Cause None Attribution SN
+Inner:  N Elaborate None Cause NN
+Leaf:  S span From what I read
+Leaf:  N Background there was an attack on Jordan
+Leaf:  S span when they just drove and barralled through their border
+Inner:  N Attribution None Background NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span so they are on high alert .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint My heart goes out to all of those involved
+Leaf:  N Joint and I am sad .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span But why on earth would they think
+Leaf:  N Attribution that the US military personal are planning
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Cause NS
+[('I just read an article about two US Military personals', None, None, None, 0), ('being shot in Jordan .', None, None, None, 1), ('I have so many emotions', None, None, None, 0), ('running through me .', None, None, None, 1), ('I am sad about the loss of lives .', None, None, None, 1), ('I am in disbelief .', None, None, None, 1), ('How could this happen ? The article said', None, None, None, 0), ('they do not believe', None, None, None, 0), ('it was a terrosit attack', None, None, None, 0), ('so that makes me feel relieved , but still worried . US is there to assist Jordan for training . Why our are people being attacked ?!', None, None, None, 1), ('The article said', None, None, None, 0), ('they failed to stop at the entrance', None, None, None, 0), ('so I do not know', None, None, None, 0), ('if maybe it was a miscommunication . I am confused to what actually happened .', None, None, None, 1), ('From what I read', None, None, None, 0), ('there was an attack on Jordan', None, None, None, 0), ('when they just drove and barralled through their border', None, None, None, 0), ('so they are on high alert .', None, None, None, 1), ('My heart goes out to all of those involved', None, None, None, 0), ('and I am sad .', None, None, None, 1), ('But why on earth would they think', None, None, None, 0), ('that the US military personal are planning', None, None, None, 0)]

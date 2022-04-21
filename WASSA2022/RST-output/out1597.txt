@@ -1,0 +1,27 @@
+=====================> [[('The fact', None, None, None, 0), ('that all Trump has to say', None, None, None, 0), ('when asked about his supporters', None, None, None, 0), ('being violent', None, None, None, 0), ('is " Stop it . "', None, None, None, 0), ('Is laughable .', None, None, None, 1), ('Yet', None, None, None, 0), ('when he is asked his opinion on minorities like muslims or hispanics ,', None, None, None, 0), ('he can go on for days .', None, None, None, 1), ('Him and his supporters have worms in their brains or something .', None, None, None, 1), ("There 's no way", None, None, None, 0), ('any logical person capable of rationality would agree with half the things', None, None, None, 0), ('he says .', None, None, None, 1)]]
+Leaf:  N Elaborate The fact
+Leaf:  N Background that all Trump has to say
+Leaf:  N Elaborate when asked about his supporters
+Leaf:  S span being violent
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is " Stop it . "
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Is laughable .
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Same-Unit Yet
+Leaf:  S span when he is asked his opinion on minorities like muslims or hispanics ,
+Leaf:  N Background he can go on for days .
+Inner:  N Same-Unit None Background SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Explanation None Contrast NN
+Leaf:  N Summary Him and his supporters have worms in their brains or something .
+Leaf:  N Elaborate There 's no way
+Leaf:  N Elaborate any logical person capable of rationality would agree with half the things
+Leaf:  S span he says .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  Root None None Explanation NS
+[('The fact', None, None, None, 0), ('that all Trump has to say', None, None, None, 0), ('when asked about his supporters', None, None, None, 0), ('being violent', None, None, None, 0), ('is " Stop it . "', None, None, None, 0), ('Is laughable .', None, None, None, 1), ('Yet', None, None, None, 0), ('when he is asked his opinion on minorities like muslims or hispanics ,', None, None, None, 0), ('he can go on for days .', None, None, None, 1), ('Him and his supporters have worms in their brains or something .', None, None, None, 1), ("There 's no way", None, None, None, 0), ('any logical person capable of rationality would agree with half the things', None, None, None, 0), ('he says .', None, None, None, 1)]

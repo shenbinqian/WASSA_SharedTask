@@ -1,0 +1,13 @@
+=====================> [[('I just read an article about wild fires', None, None, None, 0), ('sending a smokey haze across the state near the Appalachian mountains .', None, None, None, 1), ('Can you imagine how big the fire must be to spread so far and wide ?', None, None, None, 1), ('And the people in the area obviously suffer the most .', None, None, None, 1), ('What if you have asthma or some other condition', None, None, None, 0), ('that restricts your breathing ?', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about wild fires
+Leaf:  S span sending a smokey haze across the state near the Appalachian mountains .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Can you imagine how big the fire must be to spread so far and wide ?
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation And the people in the area obviously suffer the most .
+Leaf:  N Elaborate What if you have asthma or some other condition
+Leaf:  S span that restricts your breathing ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about wild fires', None, None, None, 0), ('sending a smokey haze across the state near the Appalachian mountains .', None, None, None, 1), ('Can you imagine how big the fire must be to spread so far and wide ?', None, None, None, 1), ('And the people in the area obviously suffer the most .', None, None, None, 1), ('What if you have asthma or some other condition', None, None, None, 0), ('that restricts your breathing ?', None, None, None, 1)]

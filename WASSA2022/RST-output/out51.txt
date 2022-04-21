@@ -1,0 +1,27 @@
+=====================> [[("I just read an article about America 's refugee problem ,", None, None, None, 0), ('that talked about the Somali community in Minneapolis .', None, None, None, 1), ("I ca n't believe the emotional language", None, None, None, 0), ('they tried', None, None, None, 0), ('to use in the article ;', None, None, None, 0), ('it just makes me sick', None, None, None, 0), ('to see any reporting', None, None, None, 0), ("that does n't only concern the facts , with no editorializing by the author .", None, None, None, 1), ('I wish', None, None, None, 0), ('that everyone', None, None, None, 0), ('who decided to become a writer', None, None, None, 0), ('would learn', None, None, None, 0), ('that there is no place for opinion in the news .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about America 's refugee problem ,
+Leaf:  S span that talked about the Somali community in Minneapolis .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I ca n't believe the emotional language
+Leaf:  N Elaborate they tried
+Leaf:  S span to use in the article ;
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause it just makes me sick
+Leaf:  N Elaborate to see any reporting
+Leaf:  S span that does n't only concern the facts , with no editorializing by the author .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I wish
+Leaf:  N Elaborate that everyone
+Leaf:  S span who decided to become a writer
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span would learn
+Leaf:  N Attribution that there is no place for opinion in the news .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[("I just read an article about America 's refugee problem ,", None, None, None, 0), ('that talked about the Somali community in Minneapolis .', None, None, None, 1), ("I ca n't believe the emotional language", None, None, None, 0), ('they tried', None, None, None, 0), ('to use in the article ;', None, None, None, 0), ('it just makes me sick', None, None, None, 0), ('to see any reporting', None, None, None, 0), ("that does n't only concern the facts , with no editorializing by the author .", None, None, None, 1), ('I wish', None, None, None, 0), ('that everyone', None, None, None, 0), ('who decided to become a writer', None, None, None, 0), ('would learn', None, None, None, 0), ('that there is no place for opinion in the news .', None, None, None, 1)]

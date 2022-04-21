@@ -1,0 +1,21 @@
+=====================> [[('We should protect our environment from now on .', None, None, None, 1), ('I think', None, None, None, 0), ('a lot of wild animals have been put into danger', None, None, None, 0), ('because of human beings .', None, None, None, 1), ('People have put too much plastics into the oceans', None, None, None, 0), ('and pollute the living society of wild animals .', None, None, None, 1), ('It was danger to them', None, None, None, 0), ('if there is plastic around .', None, None, None, 1), ('I wish', None, None, None, 0), ('people will do a better jobs .', None, None, None, 1)]]
+Leaf:  N Elaborate We should protect our environment from now on .
+Leaf:  S span I think
+Leaf:  N Cause a lot of wild animals have been put into danger
+Leaf:  S span because of human beings .
+Inner:  N Explanation None Cause NS
+Leaf:  N Joint People have put too much plastics into the oceans
+Leaf:  N Joint and pollute the living society of wild animals .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition It was danger to them
+Leaf:  S span if there is plastic around .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  N Attribution None Explanation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I wish
+Leaf:  N Attribution people will do a better jobs .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('We should protect our environment from now on .', None, None, None, 1), ('I think', None, None, None, 0), ('a lot of wild animals have been put into danger', None, None, None, 0), ('because of human beings .', None, None, None, 1), ('People have put too much plastics into the oceans', None, None, None, 0), ('and pollute the living society of wild animals .', None, None, None, 1), ('It was danger to them', None, None, None, 0), ('if there is plastic around .', None, None, None, 1), ('I wish', None, None, None, 0), ('people will do a better jobs .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('middle east is fucked up ,', None, None, None, 0), ("I 've honestly never heard of a middle east country such as Afganistan", None, None, None, 0), ('deporting people ,', None, None, None, 0), ('the mention of it just sound funny ,', None, None, None, 0), ('who the heck would want to stay in that shit hole country', None, None, None, 0), ('that has been infested with terrorists and child rapists ?', None, None, None, 1), ('Perhaps those refugees are out of choice ,', None, None, None, 0), ('honestly they should come to a better country such as U.S. or U.K ,', None, None, None, 0), ('even though those 2 countries have their own policies', None, None, None, 0), ('regarding immigration ,', None, None, None, 0), ('but I think', None, None, None, 0), ("they 're quite tolerate to people from war torn countries", None, None, None, 0)]]
+Leaf:  N Evaluation middle east is fucked up ,
+Leaf:  N Elaborate I 've honestly never heard of a middle east country such as Afganistan
+Leaf:  S span deporting people ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span the mention of it just sound funny ,
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate who the heck would want to stay in that shit hole country
+Leaf:  S span that has been infested with terrorists and child rapists ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Perhaps those refugees are out of choice ,
+Leaf:  N Joint honestly they should come to a better country such as U.S. or U.K ,
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate even though those 2 countries have their own policies
+Leaf:  S span regarding immigration ,
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span but I think
+Leaf:  N Attribution they 're quite tolerate to people from war torn countries
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('middle east is fucked up ,', None, None, None, 0), ("I 've honestly never heard of a middle east country such as Afganistan", None, None, None, 0), ('deporting people ,', None, None, None, 0), ('the mention of it just sound funny ,', None, None, None, 0), ('who the heck would want to stay in that shit hole country', None, None, None, 0), ('that has been infested with terrorists and child rapists ?', None, None, None, 1), ('Perhaps those refugees are out of choice ,', None, None, None, 0), ('honestly they should come to a better country such as U.S. or U.K ,', None, None, None, 0), ('even though those 2 countries have their own policies', None, None, None, 0), ('regarding immigration ,', None, None, None, 0), ('but I think', None, None, None, 0), ("they 're quite tolerate to people from war torn countries", None, None, None, 0)]

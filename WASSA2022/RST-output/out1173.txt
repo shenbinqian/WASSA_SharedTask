@@ -1,0 +1,33 @@
+=====================> [[('And another shooting of a black man by a cop .', None, None, None, 1), ('While most of the time ,', None, None, None, 0), ('I feel', None, None, None, 0), ('that the shooting is justified ,', None, None, None, 0), ('with the evidence', None, None, None, 0), ('presented ,', None, None, None, 0), ('I definitely think', None, None, None, 0), ('this needs to go to a jury for a decision .', None, None, None, 1), ('I agree', None, None, None, 0), ('that she should have been trained for this scenario ,', None, None, None, 0), ('but no one knows', None, None, None, 0), ('exactly what their emotions will be in a situation like this one .', None, None, None, 1), ('It was a domestic violence call ,', None, None, None, 0), ('which are extremely dangerous for police officers .', None, None, None, 1), ("But I do n't understand", None, None, None, 0), ("why less than lethal methods were n't deployed first .", None, None, None, 1)]]
+Leaf:  N Elaborate And another shooting of a black man by a cop .
+Leaf:  N Attribution While most of the time ,
+Leaf:  S span I feel
+Leaf:  N Background that the shooting is justified ,
+Leaf:  N Elaborate with the evidence
+Leaf:  S span presented ,
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Leaf:  S span I definitely think
+Leaf:  N Attribution this needs to go to a jury for a decision .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I agree
+Leaf:  N Attribution that she should have been trained for this scenario ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but no one knows
+Leaf:  N Attribution exactly what their emotions will be in a situation like this one .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate It was a domestic violence call ,
+Leaf:  S span which are extremely dangerous for police officers .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span But I do n't understand
+Leaf:  N Attribution why less than lethal methods were n't deployed first .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('And another shooting of a black man by a cop .', None, None, None, 1), ('While most of the time ,', None, None, None, 0), ('I feel', None, None, None, 0), ('that the shooting is justified ,', None, None, None, 0), ('with the evidence', None, None, None, 0), ('presented ,', None, None, None, 0), ('I definitely think', None, None, None, 0), ('this needs to go to a jury for a decision .', None, None, None, 1), ('I agree', None, None, None, 0), ('that she should have been trained for this scenario ,', None, None, None, 0), ('but no one knows', None, None, None, 0), ('exactly what their emotions will be in a situation like this one .', None, None, None, 1), ('It was a domestic violence call ,', None, None, None, 0), ('which are extremely dangerous for police officers .', None, None, None, 1), ("But I do n't understand", None, None, None, 0), ("why less than lethal methods were n't deployed first .", None, None, None, 1)]

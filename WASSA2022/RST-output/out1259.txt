@@ -1,0 +1,37 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('what I just read .', None, None, None, 1), ('I read this article', None, None, None, 0), ('about how riot police took down some pipeline protestors in North Dakota .', None, None, None, 1), ('The armed police used such violent and aggressive tactics', None, None, None, 0), ('to take down the protestors .', None, None, None, 1), ('The protestors were Native Americans and environmental activists .', None, None, None, 1), ('Being environmental activist ourselves could you imagine', None, None, None, 0), ('how we would react to being treated this way .', None, None, None, 1), ('They used sonic devices and rubber bullets', None, None, None, 0), ('shooting the protestors in the face .', None, None, None, 1), ("I 'm outraged by these actions .", None, None, None, 1), ('This is totally uncalled for and violates several codes of conduct .', None, None, None, 1), ("The cause of the protest was that the pipeline was affecting the local 's water supply .", None, None, None, 1), ("I do n't blame them", None, None, None, 0), ('for protesting one bit .', None, None, None, 1), ('The actions and the engagement by the riot police of North Dakota was shameful', None, None, None, 0), ('and they should be punished .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution what I just read .
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate I read this article
+Leaf:  S span about how riot police took down some pipeline protestors in North Dakota .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement The armed police used such violent and aggressive tactics
+Leaf:  S span to take down the protestors .
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span The protestors were Native Americans and environmental activists .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Being environmental activist ourselves could you imagine
+Leaf:  N Attribution how we would react to being treated this way .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Cause They used sonic devices and rubber bullets
+Leaf:  S span shooting the protestors in the face .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation I 'm outraged by these actions .
+Leaf:  S span This is totally uncalled for and violates several codes of conduct .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation The cause of the protest was that the pipeline was affecting the local 's water supply .
+Leaf:  N Explanation I do n't blame them
+Leaf:  S span for protesting one bit .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint The actions and the engagement by the riot police of North Dakota was shameful
+Leaf:  N Joint and they should be punished .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[("I ca n't believe", None, None, None, 0), ('what I just read .', None, None, None, 1), ('I read this article', None, None, None, 0), ('about how riot police took down some pipeline protestors in North Dakota .', None, None, None, 1), ('The armed police used such violent and aggressive tactics', None, None, None, 0), ('to take down the protestors .', None, None, None, 1), ('The protestors were Native Americans and environmental activists .', None, None, None, 1), ('Being environmental activist ourselves could you imagine', None, None, None, 0), ('how we would react to being treated this way .', None, None, None, 1), ('They used sonic devices and rubber bullets', None, None, None, 0), ('shooting the protestors in the face .', None, None, None, 1), ("I 'm outraged by these actions .", None, None, None, 1), ('This is totally uncalled for and violates several codes of conduct .', None, None, None, 1), ("The cause of the protest was that the pipeline was affecting the local 's water supply .", None, None, None, 1), ("I do n't blame them", None, None, None, 0), ('for protesting one bit .', None, None, None, 1), ('The actions and the engagement by the riot police of North Dakota was shameful', None, None, None, 0), ('and they should be punished .', None, None, None, 1)]

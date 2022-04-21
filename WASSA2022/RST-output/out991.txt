@@ -1,0 +1,27 @@
+=====================> [[('What a tragedy this is !', None, None, None, 1), ('I feel so bad for all the owners', None, None, None, 0), ('who lost their pets in that situation .', None, None, None, 1), ('Pets are like members of your family ,', None, None, None, 0), ('and losing a pet is no different .', None, None, None, 1), ('My heart goes out to all of the people', None, None, None, 0), ('who are effected by this .', None, None, None, 1), ('There is nothing', None, None, None, 0), ('this business can do', None, None, None, 0), ('to bring back the animals', None, None, None, 0), ('that died', None, None, None, 0), ('and ease the owners suffering .', None, None, None, 1), ('Hopefully they never let something like this happen again .', None, None, None, 1)]]
+Leaf:  N Elaborate What a tragedy this is !
+Leaf:  N Elaborate I feel so bad for all the owners
+Leaf:  S span who lost their pets in that situation .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span Pets are like members of your family ,
+Leaf:  N Background and losing a pet is no different .
+Inner:  S span None Background SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate My heart goes out to all of the people
+Leaf:  S span who are effected by this .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There is nothing
+Leaf:  S span this business can do
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate to bring back the animals
+Leaf:  S span that died
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and ease the owners suffering .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Hopefully they never let something like this happen again .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('What a tragedy this is !', None, None, None, 1), ('I feel so bad for all the owners', None, None, None, 0), ('who lost their pets in that situation .', None, None, None, 1), ('Pets are like members of your family ,', None, None, None, 0), ('and losing a pet is no different .', None, None, None, 1), ('My heart goes out to all of the people', None, None, None, 0), ('who are effected by this .', None, None, None, 1), ('There is nothing', None, None, None, 0), ('this business can do', None, None, None, 0), ('to bring back the animals', None, None, None, 0), ('that died', None, None, None, 0), ('and ease the owners suffering .', None, None, None, 1), ('Hopefully they never let something like this happen again .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[("I 'm not so sure", None, None, None, 0), ('that there is any right in this situation ,', None, None, None, 0), ('of course it was wrong what he did', None, None, None, 0), ('and he could have handled this another way .', None, None, None, 1), ('He did what he did for his own reasons', None, None, None, 0), ("and he ca n't take that back", None, None, None, 0), ('and he definitely does not feel sorry for what he did .', None, None, None, 1), ('Was it so serious just because he is the mayor', None, None, None, 0), ("and would it not been so serious if he was n't a mayor ? Could he have done something better with the money ? Absolutely , so he is n't wrong", None, None, None, 0), ('when he says', None, None, None, 0), ('the money should have been used for other things ,', None, None, None, 0), ("but throwing a pie in someones face probably is n't the best way", None, None, None, 0), ('to show it', None, None, None, 0)]]
+Leaf:  S span I 'm not so sure
+Leaf:  N Attribution that there is any right in this situation ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint of course it was wrong what he did
+Leaf:  N Joint and he could have handled this another way .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint He did what he did for his own reasons
+Leaf:  N Joint and he ca n't take that back
+Leaf:  N Joint and he definitely does not feel sorry for what he did .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Was it so serious just because he is the mayor
+Leaf:  N Background and would it not been so serious if he was n't a mayor ? Could he have done something better with the money ? Absolutely , so he is n't wrong
+Leaf:  S span when he says
+Leaf:  N Attribution the money should have been used for other things ,
+Inner:  S span None Attribution SN
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Leaf:  N Elaborate but throwing a pie in someones face probably is n't the best way
+Leaf:  S span to show it
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[("I 'm not so sure", None, None, None, 0), ('that there is any right in this situation ,', None, None, None, 0), ('of course it was wrong what he did', None, None, None, 0), ('and he could have handled this another way .', None, None, None, 1), ('He did what he did for his own reasons', None, None, None, 0), ("and he ca n't take that back", None, None, None, 0), ('and he definitely does not feel sorry for what he did .', None, None, None, 1), ('Was it so serious just because he is the mayor', None, None, None, 0), ("and would it not been so serious if he was n't a mayor ? Could he have done something better with the money ? Absolutely , so he is n't wrong", None, None, None, 0), ('when he says', None, None, None, 0), ('the money should have been used for other things ,', None, None, None, 0), ("but throwing a pie in someones face probably is n't the best way", None, None, None, 0), ('to show it', None, None, None, 0)]

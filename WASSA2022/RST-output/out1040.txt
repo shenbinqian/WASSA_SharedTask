@@ -1,0 +1,25 @@
+=====================> [[('A lot of these news go unnoticed', None, None, None, 0), ('I feel .', None, None, None, 1), ('We have war in Syria and war everywhere .', None, None, None, 1), ('We have accepted it as a part of the world .', None, None, None, 1), ("It 's such a shame", None, None, None, 0), ("that it 's like this .", None, None, None, 1), ('Conflict has always broken us down', None, None, None, 0), ("and it 's never been necessary .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('for how long this war has to continue .', None, None, None, 1), ('But I really feel sorry for all the lives', None, None, None, 0), ("that 's been lost in this conflict .", None, None, None, 1)]]
+Leaf:  N Attribution A lot of these news go unnoticed
+Leaf:  S span I feel .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate We have war in Syria and war everywhere .
+Leaf:  S span We have accepted it as a part of the world .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's such a shame
+Leaf:  N Attribution that it 's like this .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Conflict has always broken us down
+Leaf:  N Joint and it 's never been necessary .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I do n't know
+Leaf:  N Attribution for how long this war has to continue .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate But I really feel sorry for all the lives
+Leaf:  S span that 's been lost in this conflict .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('A lot of these news go unnoticed', None, None, None, 0), ('I feel .', None, None, None, 1), ('We have war in Syria and war everywhere .', None, None, None, 1), ('We have accepted it as a part of the world .', None, None, None, 1), ("It 's such a shame", None, None, None, 0), ("that it 's like this .", None, None, None, 1), ('Conflict has always broken us down', None, None, None, 0), ("and it 's never been necessary .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('for how long this war has to continue .', None, None, None, 1), ('But I really feel sorry for all the lives', None, None, None, 0), ("that 's been lost in this conflict .", None, None, None, 1)]

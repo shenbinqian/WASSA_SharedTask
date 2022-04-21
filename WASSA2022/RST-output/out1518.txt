@@ -1,0 +1,37 @@
+=====================> [[('I just read about this Australian hiker', None, None, None, 0), ('that was lost in the Malaysian jungle for two weeks', None, None, None, 0), ('and most of that time', None, None, None, 0), ('without food .', None, None, None, 1), ('He was week but he survived .', None, None, None, 1), ("I 'm shocked .", None, None, None, 1), ("I 'm happy", None, None, None, 0), ('he made it', None, None, None, 0), ('because to often you hear those stories of a lost hiker', None, None, None, 0), ('and it ends tragically . His friends and family say', None, None, None, 0), ('he has a strong mental attitude ,', None, None, None, 0), ("he must . I do n't think", None, None, None, 0), ("I 'd ever survive that", None, None, None, 0), ("long especially since I do n't even know anything about safe plants", None, None, None, 0), ('to eat', None, None, None, 0), ('like this', None, None, None, 0), ('guy must have .', None, None, None, 1), ('Way to go sir . Way to fight .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about this Australian hiker
+Leaf:  N Joint that was lost in the Malaysian jungle for two weeks
+Leaf:  N Manner-Means and most of that time
+Leaf:  S span without food .
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He was week but he survived .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I 'm shocked .
+Leaf:  S span I 'm happy
+Leaf:  N Attribution he made it
+Inner:  N Explanation None Attribution SN
+Leaf:  N Temporal because to often you hear those stories of a lost hiker
+Leaf:  N Temporal and it ends tragically . His friends and family say
+Inner:  S span None Temporal NN
+Leaf:  N Attribution he has a strong mental attitude ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span he must . I do n't think
+Leaf:  N Background I 'd ever survive that
+Leaf:  N Elaborate long especially since I do n't even know anything about safe plants
+Leaf:  N Elaborate to eat
+Leaf:  N Same-Unit like this
+Leaf:  N Same-Unit guy must have .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Way to go sir . Way to fight .
+Inner:  Root None None Elaborate NS
+[('I just read about this Australian hiker', None, None, None, 0), ('that was lost in the Malaysian jungle for two weeks', None, None, None, 0), ('and most of that time', None, None, None, 0), ('without food .', None, None, None, 1), ('He was week but he survived .', None, None, None, 1), ("I 'm shocked .", None, None, None, 1), ("I 'm happy", None, None, None, 0), ('he made it', None, None, None, 0), ('because to often you hear those stories of a lost hiker', None, None, None, 0), ('and it ends tragically . His friends and family say', None, None, None, 0), ('he has a strong mental attitude ,', None, None, None, 0), ("he must . I do n't think", None, None, None, 0), ("I 'd ever survive that", None, None, None, 0), ("long especially since I do n't even know anything about safe plants", None, None, None, 0), ('to eat', None, None, None, 0), ('like this', None, None, None, 0), ('guy must have .', None, None, None, 1), ('Way to go sir . Way to fight .', None, None, None, 1)]

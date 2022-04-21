@@ -1,0 +1,25 @@
+=====================> [[('Even though the situation is hard to watch ,', None, None, None, 0), ('I am glad that more and more people are standing up to racism .', None, None, None, 1), ('This is a problem', None, None, None, 0), ('that many deny is even still a problem .', None, None, None, 1), ('It is uncomfortable to see the divide', None, None, None, 0), ('that these situations shine a light on', None, None, None, 0), ('but in the end it is for the greater good .', None, None, None, 1), ('There needs to be major reforms in the policing sector', None, None, None, 0), ('that will eliminate the racial profiling', None, None, None, 0), ('that goes on', None, None, None, 0), ('but I am afraid', None, None, None, 0), ('that more hard will come before the good .', None, None, None, 1)]]
+Leaf:  S span Even though the situation is hard to watch ,
+Leaf:  N Contrast I am glad that more and more people are standing up to racism .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate This is a problem
+Leaf:  S span that many deny is even still a problem .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate It is uncomfortable to see the divide
+Leaf:  S span that these situations shine a light on
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but in the end it is for the greater good .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate There needs to be major reforms in the policing sector
+Leaf:  N Elaborate that will eliminate the racial profiling
+Leaf:  S span that goes on
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but I am afraid
+Leaf:  N Attribution that more hard will come before the good .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Even though the situation is hard to watch ,', None, None, None, 0), ('I am glad that more and more people are standing up to racism .', None, None, None, 1), ('This is a problem', None, None, None, 0), ('that many deny is even still a problem .', None, None, None, 1), ('It is uncomfortable to see the divide', None, None, None, 0), ('that these situations shine a light on', None, None, None, 0), ('but in the end it is for the greater good .', None, None, None, 1), ('There needs to be major reforms in the policing sector', None, None, None, 0), ('that will eliminate the racial profiling', None, None, None, 0), ('that goes on', None, None, None, 0), ('but I am afraid', None, None, None, 0), ('that more hard will come before the good .', None, None, None, 1)]

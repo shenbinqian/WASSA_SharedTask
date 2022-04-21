@@ -1,0 +1,23 @@
+=====================> [[('This is a very interesting article', None, None, None, 0), ('that focuses on this woman jet pilot ,', None, None, None, 0), ('she was one of a kind .', None, None, None, 1), ('her heroic acts were recognized by those', None, None, None, 0), ('who knew her .', None, None, None, 1), ('the author portrays her as a hero and someone', None, None, None, 0), ('who should be remembered .', None, None, None, 1), ('once you finish reading this article', None, None, None, 0), ("you 'll understand", None, None, None, 0), ('lots of things', None, None, None, 0), ('you did not before', None, None, None, 0)]]
+Leaf:  N Elaborate This is a very interesting article
+Leaf:  S span that focuses on this woman jet pilot ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span she was one of a kind .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate her heroic acts were recognized by those
+Leaf:  S span who knew her .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate the author portrays her as a hero and someone
+Leaf:  S span who should be remembered .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span once you finish reading this article
+Leaf:  S span you 'll understand
+Leaf:  N Elaborate lots of things
+Leaf:  S span you did not before
+Inner:  N Attribution None Elaborate NS
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  Root None None Elaborate NS
+[('This is a very interesting article', None, None, None, 0), ('that focuses on this woman jet pilot ,', None, None, None, 0), ('she was one of a kind .', None, None, None, 1), ('her heroic acts were recognized by those', None, None, None, 0), ('who knew her .', None, None, None, 1), ('the author portrays her as a hero and someone', None, None, None, 0), ('who should be remembered .', None, None, None, 1), ('once you finish reading this article', None, None, None, 0), ("you 'll understand", None, None, None, 0), ('lots of things', None, None, None, 0), ('you did not before', None, None, None, 0)]

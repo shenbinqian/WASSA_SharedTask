@@ -1,0 +1,31 @@
+=====================> [[('Hey look at what I have been reading into .', None, None, None, 1), ('I want your opinions on this matter at hand .', None, None, None, 1), ('So civilian casualties are starting to rise', None, None, None, 0), ('as Iraqi forces push into Mosul .', None, None, None, 1), ('The vehicles screeched into the small field hospital on the outskirts of Mosul', None, None, None, 0), ('carrying desperate loads :', None, None, None, 0), ('soldiers', None, None, None, 0), ('injured in battle as well as men , women and children', None, None, None, 0), ('caught in the crossfire of Iraq ’s war against the Islamic State .', None, None, None, 1), ('Now you know me .', None, None, None, 1), ('I would be in terrible trouble', None, None, None, 0), ('this is not a way of life . Why are were even in war .', None, None, None, 1), ('Why harm our children .', None, None, None, 1), ('This has saddened me to no end .', None, None, None, 1), ('We do not need , want or find any peace in war !', None, None, None, 1)]]
+Leaf:  N Enablement Hey look at what I have been reading into .
+Leaf:  S span I want your opinions on this matter at hand .
+Inner:  N Textual-Organization None Enablement NS
+Leaf:  N Background So civilian casualties are starting to rise
+Leaf:  S span as Iraqi forces push into Mosul .
+Inner:  N Summary None Background NS
+Leaf:  N Manner-Means The vehicles screeched into the small field hospital on the outskirts of Mosul
+Leaf:  S span carrying desperate loads :
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate soldiers
+Leaf:  N Elaborate injured in battle as well as men , women and children
+Leaf:  S span caught in the crossfire of Iraq ’s war against the Islamic State .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation Now you know me .
+Leaf:  N Explanation I would be in terrible trouble
+Leaf:  N Joint this is not a way of life . Why are were even in war .
+Leaf:  N Joint Why harm our children .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate This has saddened me to no end .
+Leaf:  S span We do not need , want or find any peace in war !
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Hey look at what I have been reading into .', None, None, None, 1), ('I want your opinions on this matter at hand .', None, None, None, 1), ('So civilian casualties are starting to rise', None, None, None, 0), ('as Iraqi forces push into Mosul .', None, None, None, 1), ('The vehicles screeched into the small field hospital on the outskirts of Mosul', None, None, None, 0), ('carrying desperate loads :', None, None, None, 0), ('soldiers', None, None, None, 0), ('injured in battle as well as men , women and children', None, None, None, 0), ('caught in the crossfire of Iraq ’s war against the Islamic State .', None, None, None, 1), ('Now you know me .', None, None, None, 1), ('I would be in terrible trouble', None, None, None, 0), ('this is not a way of life . Why are were even in war .', None, None, None, 1), ('Why harm our children .', None, None, None, 1), ('This has saddened me to no end .', None, None, None, 1), ('We do not need , want or find any peace in war !', None, None, None, 1)]

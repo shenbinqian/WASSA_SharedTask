@@ -1,0 +1,29 @@
+=====================> [[('I feel', None, None, None, 0), ('like the Syrian war situation is just completely out of control at this point ,', None, None, None, 0), ('but what often bothers me more is that people', None, None, None, 0), ('who supported Obama', None, None, None, 0), ('for both terms had a sort of blind spot on this issue .', None, None, None, 1), ('When the Arab Spring happened and then the Libyan war and now the Syrian war', None, None, None, 0), ('( et cetera )', None, None, None, 0), ('there was very little meaningful opposition to it from the Democrat-voting side of the aisle .', None, None, None, 1), ('Republican lawmakers just pretended to be opposed to thwart Obama ,', None, None, None, 0), ('if they even did that . In reality , the whole government supported " removing Assad "', None, None, None, 0), ('and because that objective was considered SO important ,', None, None, None, 0), ('now we have the current situation of extreme tragedy .', None, None, None, 1), ('I feel', None, None, None, 0), ('like it is hard to convey how important this is .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like the Syrian war situation is just completely out of control at this point ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate but what often bothers me more is that people
+Leaf:  N Contrast who supported Obama
+Leaf:  S span for both terms had a sort of blind spot on this issue .
+Inner:  S span None Contrast NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate When the Arab Spring happened and then the Libyan war and now the Syrian war
+Leaf:  S span ( et cetera )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit there was very little meaningful opposition to it from the Democrat-voting side of the aisle .
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Condition Republican lawmakers just pretended to be opposed to thwart Obama ,
+Leaf:  S span if they even did that . In reality , the whole government supported " removing Assad "
+Inner:  N Same-Unit None Condition NS
+Leaf:  S span and because that objective was considered SO important ,
+Leaf:  N Cause now we have the current situation of extreme tragedy .
+Inner:  N Same-Unit None Cause SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I feel
+Leaf:  N Attribution like it is hard to convey how important this is .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I feel', None, None, None, 0), ('like the Syrian war situation is just completely out of control at this point ,', None, None, None, 0), ('but what often bothers me more is that people', None, None, None, 0), ('who supported Obama', None, None, None, 0), ('for both terms had a sort of blind spot on this issue .', None, None, None, 1), ('When the Arab Spring happened and then the Libyan war and now the Syrian war', None, None, None, 0), ('( et cetera )', None, None, None, 0), ('there was very little meaningful opposition to it from the Democrat-voting side of the aisle .', None, None, None, 1), ('Republican lawmakers just pretended to be opposed to thwart Obama ,', None, None, None, 0), ('if they even did that . In reality , the whole government supported " removing Assad "', None, None, None, 0), ('and because that objective was considered SO important ,', None, None, None, 0), ('now we have the current situation of extreme tragedy .', None, None, None, 1), ('I feel', None, None, None, 0), ('like it is hard to convey how important this is .', None, None, None, 1)]

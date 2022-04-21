@@ -1,0 +1,19 @@
+=====================> [[('I found this article', None, None, None, 0), ('and thought', None, None, None, 0), ('you might be interested in it .', None, None, None, 1), ('This is so sad and disgusting .', None, None, None, 1), ('Gun violence really must be stopped in this country', None, None, None, 0), ("and it 's hurting innocent people and even unborn people around this country .", None, None, None, 1), ('I think', None, None, None, 0), ('there might be a die in we can participate in happening this week', None, None, None, 0), ('if you can come .', None, None, None, 1)]]
+Leaf:  N Joint I found this article
+Leaf:  S span and thought
+Leaf:  N Attribution you might be interested in it .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation This is so sad and disgusting .
+Leaf:  N Joint Gun violence really must be stopped in this country
+Leaf:  N Joint and it 's hurting innocent people and even unborn people around this country .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  N Condition there might be a die in we can participate in happening this week
+Leaf:  S span if you can come .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I found this article', None, None, None, 0), ('and thought', None, None, None, 0), ('you might be interested in it .', None, None, None, 1), ('This is so sad and disgusting .', None, None, None, 1), ('Gun violence really must be stopped in this country', None, None, None, 0), ("and it 's hurting innocent people and even unborn people around this country .", None, None, None, 1), ('I think', None, None, None, 0), ('there might be a die in we can participate in happening this week', None, None, None, 0), ('if you can come .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('The eyes are a part of our body', None, None, None, 0), ('we definitely take for granted .', None, None, None, 1), ('At the same time , they are extremely important and truly open our vision to the world .', None, None, None, 1), ('It would be devastating for a young person', None, None, None, 0), ('to suffer an eye injury', None, None, None, 0), ('simply playing a sport .', None, None, None, 1), ('People should be extremely vigilant', None, None, None, 0), ('to prepare children to play such sports', None, None, None, 0), ('and avoid suffering any life altering injuries .', None, None, None, 1)]]
+Leaf:  N Same-Unit The eyes are a part of our body
+Leaf:  N Same-Unit we definitely take for granted .
+Inner:  N Temporal None Same-Unit NN
+Leaf:  N Temporal At the same time , they are extremely important and truly open our vision to the world .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Elaborate It would be devastating for a young person
+Leaf:  S span to suffer an eye injury
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span simply playing a sport .
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Enablement People should be extremely vigilant
+Leaf:  N Cause to prepare children to play such sports
+Leaf:  S span and avoid suffering any life altering injuries .
+Inner:  S span None Cause NS
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('The eyes are a part of our body', None, None, None, 0), ('we definitely take for granted .', None, None, None, 1), ('At the same time , they are extremely important and truly open our vision to the world .', None, None, None, 1), ('It would be devastating for a young person', None, None, None, 0), ('to suffer an eye injury', None, None, None, 0), ('simply playing a sport .', None, None, None, 1), ('People should be extremely vigilant', None, None, None, 0), ('to prepare children to play such sports', None, None, None, 0), ('and avoid suffering any life altering injuries .', None, None, None, 1)]

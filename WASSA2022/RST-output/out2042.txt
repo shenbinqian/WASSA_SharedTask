@@ -1,0 +1,25 @@
+=====================> [[('Hey , can you believe that guy', None, None, None, 0), ('who threw down the flamingo at the bush gardens ?', None, None, None, 1), ('There was no rhyme or reason to it .', None, None, None, 1), ('Must have thrown that bird extremely hard', None, None, None, 0), ('to have injured it', None, None, None, 0), ('so bad', None, None, None, 0), ('that it needed to be euthanized .', None, None, None, 1), ('Animal abuse doesnt just stop at domesticated animals .', None, None, None, 1), ('He has got what he has coming to him', None, None, None, 0), ('and I think', None, None, None, 0), ('he should have a ton of community service', None, None, None, 0), ('where he is forced to clean exceriemnt', None, None, None, 0)]]
+Leaf:  N Elaborate Hey , can you believe that guy
+Leaf:  S span who threw down the flamingo at the bush gardens ?
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate There was no rhyme or reason to it .
+Leaf:  N Cause Must have thrown that bird extremely hard
+Leaf:  S span to have injured it
+Inner:  N Cause None Cause NS
+Leaf:  N Cause so bad
+Leaf:  S span that it needed to be euthanized .
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Summary NS
+Leaf:  N Explanation Animal abuse doesnt just stop at domesticated animals .
+Leaf:  N Joint He has got what he has coming to him
+Leaf:  S span and I think
+Leaf:  N Elaborate he should have a ton of community service
+Leaf:  S span where he is forced to clean exceriemnt
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Explanation NS
+Inner:  Root None None Topic-Change NN
+[('Hey , can you believe that guy', None, None, None, 0), ('who threw down the flamingo at the bush gardens ?', None, None, None, 1), ('There was no rhyme or reason to it .', None, None, None, 1), ('Must have thrown that bird extremely hard', None, None, None, 0), ('to have injured it', None, None, None, 0), ('so bad', None, None, None, 0), ('that it needed to be euthanized .', None, None, None, 1), ('Animal abuse doesnt just stop at domesticated animals .', None, None, None, 1), ('He has got what he has coming to him', None, None, None, 0), ('and I think', None, None, None, 0), ('he should have a ton of community service', None, None, None, 0), ('where he is forced to clean exceriemnt', None, None, None, 0)]

@@ -1,0 +1,25 @@
+=====================> [[('I read an article about the hidden ads in online media', None, None, None, 0), ('and how it may be affecting children .', None, None, None, 1), ('It was about how kids see ads for junk food', None, None, None, 0), ('when they go online .', None, None, None, 1), ('They also spend a lot of time online , especially on YouTube .', None, None, None, 1), ('The videos on there are more influential ,', None, None, None, 0), ('since they are real people ,', None, None, None, 0), ('and the ads are more convincing .', None, None, None, 1), ('The article made me not want to let the kids watch YouTube', None, None, None, 0), ('or go online ,', None, None, None, 0), ('which is really hard to do .', None, None, None, 1), ('I hate that the advertising industry seems to control all of our online media .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about the hidden ads in online media
+Leaf:  S span and how it may be affecting children .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal It was about how kids see ads for junk food
+Leaf:  N Temporal when they go online .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate They also spend a lot of time online , especially on YouTube .
+Leaf:  N Explanation The videos on there are more influential ,
+Leaf:  N Joint since they are real people ,
+Leaf:  N Joint and the ads are more convincing .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint The article made me not want to let the kids watch YouTube
+Leaf:  N Elaborate or go online ,
+Leaf:  S span which is really hard to do .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hate that the advertising industry seems to control all of our online media .
+Inner:  Root None None Elaborate NS
+[('I read an article about the hidden ads in online media', None, None, None, 0), ('and how it may be affecting children .', None, None, None, 1), ('It was about how kids see ads for junk food', None, None, None, 0), ('when they go online .', None, None, None, 1), ('They also spend a lot of time online , especially on YouTube .', None, None, None, 1), ('The videos on there are more influential ,', None, None, None, 0), ('since they are real people ,', None, None, None, 0), ('and the ads are more convincing .', None, None, None, 1), ('The article made me not want to let the kids watch YouTube', None, None, None, 0), ('or go online ,', None, None, None, 0), ('which is really hard to do .', None, None, None, 1), ('I hate that the advertising industry seems to control all of our online media .', None, None, None, 1)]

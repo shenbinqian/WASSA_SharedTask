@@ -1,0 +1,25 @@
+=====================> [[('This man should be found guilty .', None, None, None, 1), ('There is no way', None, None, None, 0), ('he forgot', None, None, None, 0), ('that his son was in the car .', None, None, None, 1), ('The child would have been able to speak .', None, None, None, 1), ('He would have been in a front facing car seat .', None, None, None, 1), ("there is no way he did n't see him .", None, None, None, 1), ('He is guilty', None, None, None, 0), ('and he needs to be punished .', None, None, None, 1), ('He should be put in prison for life .', None, None, None, 1), ('This poor child suffered a great deal', None, None, None, 0), ('and this man needs to suffer .', None, None, None, 1)]]
+Leaf:  N Summary This man should be found guilty .
+Leaf:  N Elaborate There is no way
+Leaf:  S span he forgot
+Leaf:  N Attribution that his son was in the car .
+Inner:  S span None Attribution SN
+Inner:  N Comparison None Elaborate NS
+Leaf:  N Joint The child would have been able to speak .
+Leaf:  N Joint He would have been in a front facing car seat .
+Leaf:  N Joint there is no way he did n't see him .
+Inner:  N Joint None Joint NN
+Inner:  N Comparison None Joint NN
+Inner:  S span None Comparison NN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span He is guilty
+Leaf:  N Summary and he needs to be punished .
+Leaf:  S span He should be put in prison for life .
+Inner:  N Comparison None Summary NS
+Inner:  N Elaborate None Comparison SN
+Leaf:  N Joint This poor child suffered a great deal
+Leaf:  N Joint and this man needs to suffer .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This man should be found guilty .', None, None, None, 1), ('There is no way', None, None, None, 0), ('he forgot', None, None, None, 0), ('that his son was in the car .', None, None, None, 1), ('The child would have been able to speak .', None, None, None, 1), ('He would have been in a front facing car seat .', None, None, None, 1), ("there is no way he did n't see him .", None, None, None, 1), ('He is guilty', None, None, None, 0), ('and he needs to be punished .', None, None, None, 1), ('He should be put in prison for life .', None, None, None, 1), ('This poor child suffered a great deal', None, None, None, 0), ('and this man needs to suffer .', None, None, None, 1)]

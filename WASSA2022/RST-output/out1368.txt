@@ -1,0 +1,45 @@
+=====================> [[('Wow . .', None, None, None, 1), ('di you see this ?', None, None, None, 1), ('Delicia Taylor is suing the makers of this product . .', None, None, None, 1), ('Soft Sheen Carson Optimum Amly Legend No Mix , No Lye Relaxer .', None, None, None, 1), ('She has bald spots ,', None, None, None, 0), ('Burns , blisters and pain', None, None, None, 0), ('from using this .', None, None, None, 1), ('Do you know anyone', None, None, None, 0), ('who uses this ?', None, None, None, 1), ('If you do have them check out this link .', None, None, None, 1), ('The law suit is for 5 million dollars . .', None, None, None, 1), ('maybe they can get some money . .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's terrible that this product was allowed to be sold .", None, None, None, 1), ('It is awful', None, None, None, 0), ('when someone thinks', None, None, None, 0), ('something would make them look nice', None, None, None, 0), ('but instead ends up damaging them for life . Be sure to check the article out . .', None, None, None, 1), ('I think', None, None, None, 0), ('there are some pictures out there too .', None, None, None, 1), ('Brace yourself', None, None, None, 0), ('before you look at them .', None, None, None, 1)]]
+Leaf:  S span Wow . .
+Leaf:  N Summary di you see this ?
+Inner:  N Textual-Organization None Summary SN
+Leaf:  N Elaborate Delicia Taylor is suing the makers of this product . .
+Leaf:  S span Soft Sheen Carson Optimum Amly Legend No Mix , No Lye Relaxer .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint She has bald spots ,
+Leaf:  N Cause Burns , blisters and pain
+Leaf:  S span from using this .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Do you know anyone
+Leaf:  S span who uses this ?
+Inner:  N Condition None Elaborate NS
+Leaf:  S span If you do have them check out this link .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Condition The law suit is for 5 million dollars . .
+Leaf:  S span maybe they can get some money . .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution it 's terrible that this product was allowed to be sold .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation It is awful
+Leaf:  S span when someone thinks
+Leaf:  N Attribution something would make them look nice
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but instead ends up damaging them for life . Be sure to check the article out . .
+Inner:  S span None Contrast NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Attribution there are some pictures out there too .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal Brace yourself
+Leaf:  S span before you look at them .
+Inner:  S span None Temporal NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Wow . .', None, None, None, 1), ('di you see this ?', None, None, None, 1), ('Delicia Taylor is suing the makers of this product . .', None, None, None, 1), ('Soft Sheen Carson Optimum Amly Legend No Mix , No Lye Relaxer .', None, None, None, 1), ('She has bald spots ,', None, None, None, 0), ('Burns , blisters and pain', None, None, None, 0), ('from using this .', None, None, None, 1), ('Do you know anyone', None, None, None, 0), ('who uses this ?', None, None, None, 1), ('If you do have them check out this link .', None, None, None, 1), ('The law suit is for 5 million dollars . .', None, None, None, 1), ('maybe they can get some money . .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's terrible that this product was allowed to be sold .", None, None, None, 1), ('It is awful', None, None, None, 0), ('when someone thinks', None, None, None, 0), ('something would make them look nice', None, None, None, 0), ('but instead ends up damaging them for life . Be sure to check the article out . .', None, None, None, 1), ('I think', None, None, None, 0), ('there are some pictures out there too .', None, None, None, 1), ('Brace yourself', None, None, None, 0), ('before you look at them .', None, None, None, 1)]

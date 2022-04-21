@@ -1,0 +1,33 @@
+=====================> [[('The author of this article I read examined several cases', None, None, None, 0), ('in which youth were killed in gun violence on the same day .', None, None, None, 1), ('They used the personal stories of a couple of people', None, None, None, 0), ('to show', None, None, None, 0), ('how the ready availability of guns contributes to sad situations', None, None, None, 0), ('in which kids are shot and killed .', None, None, None, 1), ("It was n't as well written as a lot of journalism in this area ,", None, None, None, 0), ('but it was pretty interesting to hear the stories of the two cases that were detailed .', None, None, None, 1), ("One involved a violent adult who went on a rampage and shot an ex-girlfriend 's child and another person . The other story involved two kids", None, None, None, 0), ('who were left alone in a home', None, None, None, 0), ('that had a lot of guns', None, None, None, 0), ('and one of them ended up shooting and killing the other ,', None, None, None, 0), ('claiming', None, None, None, 0), ('it was an accident .', None, None, None, 1), ('The author concludes', None, None, None, 0), ('by calling for more active challenges to the NRA and the second amendment', None, None, None, 0)]]
+Leaf:  N Elaborate The author of this article I read examined several cases
+Leaf:  S span in which youth were killed in gun violence on the same day .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement They used the personal stories of a couple of people
+Leaf:  S span to show
+Leaf:  N Elaborate how the ready availability of guns contributes to sad situations
+Leaf:  S span in which kids are shot and killed .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It was n't as well written as a lot of journalism in this area ,
+Leaf:  N Contrast but it was pretty interesting to hear the stories of the two cases that were detailed .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate One involved a violent adult who went on a rampage and shot an ex-girlfriend 's child and another person . The other story involved two kids
+Leaf:  N Elaborate who were left alone in a home
+Leaf:  S span that had a lot of guns
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and one of them ended up shooting and killing the other ,
+Leaf:  S span claiming
+Leaf:  N Attribution it was an accident .
+Inner:  S span None Attribution SN
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The author concludes
+Leaf:  N Attribution by calling for more active challenges to the NRA and the second amendment
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('The author of this article I read examined several cases', None, None, None, 0), ('in which youth were killed in gun violence on the same day .', None, None, None, 1), ('They used the personal stories of a couple of people', None, None, None, 0), ('to show', None, None, None, 0), ('how the ready availability of guns contributes to sad situations', None, None, None, 0), ('in which kids are shot and killed .', None, None, None, 1), ("It was n't as well written as a lot of journalism in this area ,", None, None, None, 0), ('but it was pretty interesting to hear the stories of the two cases that were detailed .', None, None, None, 1), ("One involved a violent adult who went on a rampage and shot an ex-girlfriend 's child and another person . The other story involved two kids", None, None, None, 0), ('who were left alone in a home', None, None, None, 0), ('that had a lot of guns', None, None, None, 0), ('and one of them ended up shooting and killing the other ,', None, None, None, 0), ('claiming', None, None, None, 0), ('it was an accident .', None, None, None, 1), ('The author concludes', None, None, None, 0), ('by calling for more active challenges to the NRA and the second amendment', None, None, None, 0)]

@@ -1,0 +1,33 @@
+=====================> [[('You know', None, None, None, 0), ('I have no sympathy for anyone', None, None, None, 0), ('who harms an animal .', None, None, None, 1), ("I 'm a huge animal rights advocate", None, None, None, 0), ('and I think', None, None, None, 0), ('those', None, None, None, 0), ('who are cruel to animals', None, None, None, 0), ('deserve very strict punishment .', None, None, None, 1), ('The officer involved should be charged with a crime and fired from their job .', None, None, None, 1), ('I hate it', None, None, None, 0), ('when people hurt defenseless animals', None, None, None, 0), ('and this particular crime did not have to happen !', None, None, None, 1), ('When this happens with children', None, None, None, 0), ('being left in hot cars ,', None, None, None, 0), ('there are serious charges leveled', None, None, None, 0), ('and so , there should be the same in this case !', None, None, None, 1)]]
+Leaf:  S span You know
+Leaf:  N Elaborate I have no sympathy for anyone
+Leaf:  S span who harms an animal .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint I 'm a huge animal rights advocate
+Leaf:  S span and I think
+Leaf:  N Elaborate those
+Leaf:  S span who are cruel to animals
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit deserve very strict punishment .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The officer involved should be charged with a crime and fired from their job .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Background I hate it
+Leaf:  N Cause when people hurt defenseless animals
+Leaf:  N Cause and this particular crime did not have to happen !
+Inner:  S span None Cause NN
+Inner:  N Joint None Background NS
+Leaf:  N Elaborate When this happens with children
+Leaf:  S span being left in hot cars ,
+Inner:  S span None Elaborate NS
+Leaf:  S span there are serious charges leveled
+Leaf:  N Cause and so , there should be the same in this case !
+Inner:  N Background None Cause SN
+Inner:  N Joint None Background SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('You know', None, None, None, 0), ('I have no sympathy for anyone', None, None, None, 0), ('who harms an animal .', None, None, None, 1), ("I 'm a huge animal rights advocate", None, None, None, 0), ('and I think', None, None, None, 0), ('those', None, None, None, 0), ('who are cruel to animals', None, None, None, 0), ('deserve very strict punishment .', None, None, None, 1), ('The officer involved should be charged with a crime and fired from their job .', None, None, None, 1), ('I hate it', None, None, None, 0), ('when people hurt defenseless animals', None, None, None, 0), ('and this particular crime did not have to happen !', None, None, None, 1), ('When this happens with children', None, None, None, 0), ('being left in hot cars ,', None, None, None, 0), ('there are serious charges leveled', None, None, None, 0), ('and so , there should be the same in this case !', None, None, None, 1)]

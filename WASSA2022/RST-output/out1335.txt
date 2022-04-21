@@ -1,0 +1,11 @@
+=====================> [[('It seems that a lawsuit is now pending for the Sawtooth National Recreation Area .', None, None, None, 1), ('Exessive grazing from the cattle has occured in this area', None, None, None, 0), ('and it seems to be threatening the wildlife in the area . Protective measures have been put in place over the years', None, None, None, 0), ('but there have no been serious consequences for parties', None, None, None, 0), ('that do not comply .', None, None, None, 1)]]
+Leaf:  N Elaborate It seems that a lawsuit is now pending for the Sawtooth National Recreation Area .
+Leaf:  N Cause Exessive grazing from the cattle has occured in this area
+Leaf:  S span and it seems to be threatening the wildlife in the area . Protective measures have been put in place over the years
+Leaf:  N Elaborate but there have no been serious consequences for parties
+Leaf:  S span that do not comply .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('It seems that a lawsuit is now pending for the Sawtooth National Recreation Area .', None, None, None, 1), ('Exessive grazing from the cattle has occured in this area', None, None, None, 0), ('and it seems to be threatening the wildlife in the area . Protective measures have been put in place over the years', None, None, None, 0), ('but there have no been serious consequences for parties', None, None, None, 0), ('that do not comply .', None, None, None, 1)]

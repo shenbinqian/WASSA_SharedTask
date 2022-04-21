@@ -1,0 +1,17 @@
+=====================> [[('Okay , I hate hearing about disease outbreaks .', None, None, None, 1), ('It causes me so much stress', None, None, None, 0), ('because you have to fight something', None, None, None, 0), ('that you can not see .', None, None, None, 1), ('And I am aware of all the medical advancements ,', None, None, None, 0), ('but that only really gives me some piece of mind .', None, None, None, 1), ('It would nice to eradicate illness completely .', None, None, None, 1), ('Live in a utopian type society .', None, None, None, 1)]]
+Leaf:  N Explanation Okay , I hate hearing about disease outbreaks .
+Leaf:  N Cause It causes me so much stress
+Leaf:  N Elaborate because you have to fight something
+Leaf:  S span that you can not see .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span And I am aware of all the medical advancements ,
+Leaf:  N Contrast but that only really gives me some piece of mind .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span It would nice to eradicate illness completely .
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Live in a utopian type society .
+Inner:  Root None None Joint NN
+[('Okay , I hate hearing about disease outbreaks .', None, None, None, 1), ('It causes me so much stress', None, None, None, 0), ('because you have to fight something', None, None, None, 0), ('that you can not see .', None, None, None, 1), ('And I am aware of all the medical advancements ,', None, None, None, 0), ('but that only really gives me some piece of mind .', None, None, None, 1), ('It would nice to eradicate illness completely .', None, None, None, 1), ('Live in a utopian type society .', None, None, None, 1)]

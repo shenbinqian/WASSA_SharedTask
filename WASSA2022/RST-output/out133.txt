@@ -1,0 +1,19 @@
+=====================> [[('This is disgusting .', None, None, None, 1), ('As many of you know , I am an animal lover .', None, None, None, 1), ('There is not much', None, None, None, 0), ('that makes me sad , upset and angry like any instance of an animal suffering .', None, None, None, 1), ('What this man did is unforgivable .', None, None, None, 1), ('I hope', None, None, None, 0), ('he has a mental illness .', None, None, None, 1), ('I can not think of any other reason', None, None, None, 0), ('why someone would do something so cruel .', None, None, None, 1)]]
+Leaf:  S span This is disgusting .
+Leaf:  N Evaluation As many of you know , I am an animal lover .
+Leaf:  N Elaborate There is not much
+Leaf:  S span that makes me sad , upset and angry like any instance of an animal suffering .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate What this man did is unforgivable .
+Leaf:  S span I hope
+Leaf:  N Attribution he has a mental illness .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause I can not think of any other reason
+Leaf:  N Cause why someone would do something so cruel .
+Inner:  N Joint None Cause NN
+Inner:  S span None Joint NN
+Inner:  N Summary None Evaluation NS
+Inner:  Root None None Summary SN
+[('This is disgusting .', None, None, None, 1), ('As many of you know , I am an animal lover .', None, None, None, 1), ('There is not much', None, None, None, 0), ('that makes me sad , upset and angry like any instance of an animal suffering .', None, None, None, 1), ('What this man did is unforgivable .', None, None, None, 1), ('I hope', None, None, None, 0), ('he has a mental illness .', None, None, None, 1), ('I can not think of any other reason', None, None, None, 0), ('why someone would do something so cruel .', None, None, None, 1)]

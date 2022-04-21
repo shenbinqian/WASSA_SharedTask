@@ -1,0 +1,25 @@
+=====================> [[('Trump is a completely terrible president .', None, None, None, 1), ("Do n't you agree ?", None, None, None, 1), ("He 's done nothing for the country ,", None, None, None, 0), ("it 's no wonder", None, None, None, 0), ("that he 's gone down so far in the polls .", None, None, None, 1), ('anyone', None, None, None, 0), ('who supports him', None, None, None, 0), ('better comment', None, None, None, 0), ('so I can unfriend you right now .', None, None, None, 1), ("It 's ridiculous .", None, None, None, 1), ('If you support him ,', None, None, None, 0), ('you support racism , homophobia , xenophobia , divisiveness , and hate .', None, None, None, 1)]]
+Leaf:  N Evaluation Trump is a completely terrible president .
+Leaf:  N Evaluation Do n't you agree ?
+Leaf:  N Cause He 's done nothing for the country ,
+Leaf:  S span it 's no wonder
+Leaf:  N Attribution that he 's gone down so far in the polls .
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause NN
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Leaf:  N Elaborate anyone
+Leaf:  S span who supports him
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement better comment
+Leaf:  S span so I can unfriend you right now .
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate It 's ridiculous .
+Leaf:  S span If you support him ,
+Leaf:  N Condition you support racism , homophobia , xenophobia , divisiveness , and hate .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Trump is a completely terrible president .', None, None, None, 1), ("Do n't you agree ?", None, None, None, 1), ("He 's done nothing for the country ,", None, None, None, 0), ("it 's no wonder", None, None, None, 0), ("that he 's gone down so far in the polls .", None, None, None, 1), ('anyone', None, None, None, 0), ('who supports him', None, None, None, 0), ('better comment', None, None, None, 0), ('so I can unfriend you right now .', None, None, None, 1), ("It 's ridiculous .", None, None, None, 1), ('If you support him ,', None, None, None, 0), ('you support racism , homophobia , xenophobia , divisiveness , and hate .', None, None, None, 1)]

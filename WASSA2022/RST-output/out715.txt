@@ -1,0 +1,27 @@
+=====================> [[('Just read an article', None, None, None, 0), ("that explored Trump 's appeal", None, None, None, 0), ('and why he won the election .', None, None, None, 1), ('It indicated', None, None, None, 0), ("that Trump had a simple appeal to the darker side of people , the look out for myself and not others side , it explored Trump 's ability", None, None, None, 0), ('to partner with those', None, None, None, 0), ('that are hurting', None, None, None, 0), ('and feel left out of society through lack of jobs , etc . He used this association', None, None, None, 0), ('to promote his agenda , with simple phrases', None, None, None, 0), ('that were easy to remember ,', None, None, None, 0), ('and tailored it to the good old boy network .', None, None, None, 1), ("The article did n't really explore Russia 's influence on the election ,", None, None, None, 0), ("only addressed Trump 's appeal to certain groups .", None, None, None, 1)]]
+Leaf:  N Elaborate Just read an article
+Leaf:  N Joint that explored Trump 's appeal
+Leaf:  N Joint and why he won the election .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It indicated
+Leaf:  N Elaborate that Trump had a simple appeal to the darker side of people , the look out for myself and not others side , it explored Trump 's ability
+Leaf:  N Elaborate to partner with those
+Leaf:  N Joint that are hurting
+Leaf:  N Joint and feel left out of society through lack of jobs , etc . He used this association
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate to promote his agenda , with simple phrases
+Leaf:  S span that were easy to remember ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and tailored it to the good old boy network .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Comparison The article did n't really explore Russia 's influence on the election ,
+Leaf:  N Comparison only addressed Trump 's appeal to certain groups .
+Inner:  S span None Comparison NN
+Inner:  Root None None Elaborate NS
+[('Just read an article', None, None, None, 0), ("that explored Trump 's appeal", None, None, None, 0), ('and why he won the election .', None, None, None, 1), ('It indicated', None, None, None, 0), ("that Trump had a simple appeal to the darker side of people , the look out for myself and not others side , it explored Trump 's ability", None, None, None, 0), ('to partner with those', None, None, None, 0), ('that are hurting', None, None, None, 0), ('and feel left out of society through lack of jobs , etc . He used this association', None, None, None, 0), ('to promote his agenda , with simple phrases', None, None, None, 0), ('that were easy to remember ,', None, None, None, 0), ('and tailored it to the good old boy network .', None, None, None, 1), ("The article did n't really explore Russia 's influence on the election ,", None, None, None, 0), ("only addressed Trump 's appeal to certain groups .", None, None, None, 1)]

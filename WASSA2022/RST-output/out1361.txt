@@ -1,0 +1,27 @@
+=====================> [[('Knowing', None, None, None, 0), ('how you love animals ,', None, None, None, 0), ('I thought', None, None, None, 0), ('you would like to read about the Four Paws removal of the surviving animals in a Gaza Strip zoo .', None, None, None, 1), ('First of all , the zoo was horrid .', None, None, None, 1), ('Less than 20 animals remained of the hundreds', None, None, None, 0), ('that had been previously housed here . The rescue of the animals occurred under rather harrowing conditions with Hamas and Israeli forces launching missles during the evacuation process .', None, None, None, 1), ('It sounds as though the surviving animals will end up in different locations', None, None, None, 0), ('that deal with their specific species .', None, None, None, 1), ('They will be rehabilitated', None, None, None, 0), ('and may eventually be released back into the wild .', None, None, None, 1), ('Let me know', None, None, None, 0), ('what you think .', None, None, None, 1)]]
+Leaf:  S span Knowing
+Leaf:  N Attribution how you love animals ,
+Inner:  S span None Attribution SN
+Leaf:  S span I thought
+Leaf:  N Attribution you would like to read about the Four Paws removal of the surviving animals in a Gaza Strip zoo .
+Inner:  N Background None Attribution SN
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate First of all , the zoo was horrid .
+Leaf:  N Elaborate Less than 20 animals remained of the hundreds
+Leaf:  S span that had been previously housed here . The rescue of the animals occurred under rather harrowing conditions with Hamas and Israeli forces launching missles during the evacuation process .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It sounds as though the surviving animals will end up in different locations
+Leaf:  S span that deal with their specific species .
+Inner:  N Condition None Elaborate NS
+Leaf:  N Joint They will be rehabilitated
+Leaf:  N Joint and may eventually be released back into the wild .
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Let me know
+Leaf:  N Attribution what you think .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Knowing', None, None, None, 0), ('how you love animals ,', None, None, None, 0), ('I thought', None, None, None, 0), ('you would like to read about the Four Paws removal of the surviving animals in a Gaza Strip zoo .', None, None, None, 1), ('First of all , the zoo was horrid .', None, None, None, 1), ('Less than 20 animals remained of the hundreds', None, None, None, 0), ('that had been previously housed here . The rescue of the animals occurred under rather harrowing conditions with Hamas and Israeli forces launching missles during the evacuation process .', None, None, None, 1), ('It sounds as though the surviving animals will end up in different locations', None, None, None, 0), ('that deal with their specific species .', None, None, None, 1), ('They will be rehabilitated', None, None, None, 0), ('and may eventually be released back into the wild .', None, None, None, 1), ('Let me know', None, None, None, 0), ('what you think .', None, None, None, 1)]

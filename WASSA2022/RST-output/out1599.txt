@@ -1,0 +1,13 @@
+=====================> [[('The growing back and forth tension between the United States and Russia is really worrisome .', None, None, None, 1), ('One minute it seems like they like us', None, None, None, 0), ('and the next they have nuclear weapons at the ready', None, None, None, 0), ('and pointed straight at the United States .', None, None, None, 1), ("It 's scary to think about what could happen especially with the big mouthed president", None, None, None, 0), ('we have .', None, None, None, 1)]]
+Leaf:  N Explanation The growing back and forth tension between the United States and Russia is really worrisome .
+Leaf:  N Contrast One minute it seems like they like us
+Leaf:  N Joint and the next they have nuclear weapons at the ready
+Leaf:  N Joint and pointed straight at the United States .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate It 's scary to think about what could happen especially with the big mouthed president
+Leaf:  S span we have .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('The growing back and forth tension between the United States and Russia is really worrisome .', None, None, None, 1), ('One minute it seems like they like us', None, None, None, 0), ('and the next they have nuclear weapons at the ready', None, None, None, 0), ('and pointed straight at the United States .', None, None, None, 1), ("It 's scary to think about what could happen especially with the big mouthed president", None, None, None, 0), ('we have .', None, None, None, 1)]

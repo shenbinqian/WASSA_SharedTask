@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about tour boat', None, None, None, 0), ('that capsized', None, None, None, 0), ('because of the boat operator .', None, None, None, 1), ('It was horrific reading the statements of the survivors .', None, None, None, 1), ('It brought chill to my bone', None, None, None, 0), ('when they wrote many situations', None, None, None, 0), ('that could of ended their lives .', None, None, None, 1), ('Just imagining', None, None, None, 0), ('what I would of done in that situation', None, None, None, 0), ('makes me feel troubled', None, None, None, 0), ('because I cant really swim in open water . All the survivors are now suing the company for injuries , recklessness , neglect , and trauma .', None, None, None, 1), ('Pretty crazy how one event can change the outcome of life or death .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about tour boat
+Leaf:  N Cause that capsized
+Leaf:  S span because of the boat operator .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It was horrific reading the statements of the survivors .
+Leaf:  N Background It brought chill to my bone
+Leaf:  N Elaborate when they wrote many situations
+Leaf:  S span that could of ended their lives .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Just imagining
+Leaf:  N Attribution what I would of done in that situation
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit makes me feel troubled
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span because I cant really swim in open water . All the survivors are now suing the company for injuries , recklessness , neglect , and trauma .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Pretty crazy how one event can change the outcome of life or death .
+Inner:  Root None None Evaluation NS
+[('I just read an article about tour boat', None, None, None, 0), ('that capsized', None, None, None, 0), ('because of the boat operator .', None, None, None, 1), ('It was horrific reading the statements of the survivors .', None, None, None, 1), ('It brought chill to my bone', None, None, None, 0), ('when they wrote many situations', None, None, None, 0), ('that could of ended their lives .', None, None, None, 1), ('Just imagining', None, None, None, 0), ('what I would of done in that situation', None, None, None, 0), ('makes me feel troubled', None, None, None, 0), ('because I cant really swim in open water . All the survivors are now suing the company for injuries , recklessness , neglect , and trauma .', None, None, None, 1), ('Pretty crazy how one event can change the outcome of life or death .', None, None, None, 1)]

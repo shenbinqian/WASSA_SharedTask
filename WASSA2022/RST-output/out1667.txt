@@ -1,0 +1,37 @@
+=====================> [[('After reading', None, None, None, 0), ('that the amphibian population and specifically ranavirus might be caused by humans', None, None, None, 0), ('it makes me sad', None, None, None, 0), ('but I can understand the situation .', None, None, None, 1), ('We can often do things with unintended consequences', None, None, None, 0), ('that are not noticeable in the beginning .', None, None, None, 1), ('This appears to be the thought here', None, None, None, 0), ('that maybe we have caused these amphibians to become sick', None, None, None, 0), ('because of carrying the disease in or perhaps genetic mutations .', None, None, None, 1), ('Either way , it is a sad situation', None, None, None, 0), ('that will hopefully be able to be reversed', None, None, None, 0), ('before it is too late', None, None, None, 0), ('but these types of things happen in our society', None, None, None, 0), ('without specific intention .', None, None, None, 1), ('I feel for the little froggies', None, None, None, 0), ('though and hope', None, None, None, 0), ('science can find a way', None, None, None, 0), ('to preserve them and their habitat .', None, None, None, 1)]]
+Leaf:  S span After reading
+Leaf:  N Attribution that the amphibian population and specifically ranavirus might be caused by humans
+Inner:  S span None Attribution SN
+Leaf:  N Evaluation it makes me sad
+Leaf:  S span but I can understand the situation .
+Inner:  N Explanation None Evaluation NS
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate We can often do things with unintended consequences
+Leaf:  S span that are not noticeable in the beginning .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This appears to be the thought here
+Leaf:  N Cause that maybe we have caused these amphibians to become sick
+Leaf:  S span because of carrying the disease in or perhaps genetic mutations .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Either way , it is a sad situation
+Leaf:  S span that will hopefully be able to be reversed
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before it is too late
+Inner:  S span None Temporal NS
+Leaf:  N Manner-Means but these types of things happen in our society
+Leaf:  S span without specific intention .
+Inner:  N Contrast None Manner-Means NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast I feel for the little froggies
+Leaf:  S span though and hope
+Leaf:  N Elaborate science can find a way
+Leaf:  S span to preserve them and their habitat .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Contrast None Contrast NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('After reading', None, None, None, 0), ('that the amphibian population and specifically ranavirus might be caused by humans', None, None, None, 0), ('it makes me sad', None, None, None, 0), ('but I can understand the situation .', None, None, None, 1), ('We can often do things with unintended consequences', None, None, None, 0), ('that are not noticeable in the beginning .', None, None, None, 1), ('This appears to be the thought here', None, None, None, 0), ('that maybe we have caused these amphibians to become sick', None, None, None, 0), ('because of carrying the disease in or perhaps genetic mutations .', None, None, None, 1), ('Either way , it is a sad situation', None, None, None, 0), ('that will hopefully be able to be reversed', None, None, None, 0), ('before it is too late', None, None, None, 0), ('but these types of things happen in our society', None, None, None, 0), ('without specific intention .', None, None, None, 1), ('I feel for the little froggies', None, None, None, 0), ('though and hope', None, None, None, 0), ('science can find a way', None, None, None, 0), ('to preserve them and their habitat .', None, None, None, 1)]

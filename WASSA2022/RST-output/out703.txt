@@ -1,0 +1,25 @@
+=====================> [[('Hey , Josh have you seen this ?', None, None, None, 1), ('World currencies are going to be taking a hit ,', None, None, None, 0), ('I just wanted to let you know .', None, None, None, 1), ('The complete misunderstanding', None, None, None, 0), ('of how to run something as simple as a bank', None, None, None, 0), ('multiplied by thousands around the country of India', None, None, None, 0), ('is bringing that country to its knees .', None, None, None, 1), ('We see this happen all the time', None, None, None, 0), ('where markets are controlled by the government', None, None, None, 0), ('and something stagnates', None, None, None, 0), ('then we add more controls', None, None, None, 0), ('and now we have a depression .', None, None, None, 1)]]
+Leaf:  N Summary Hey , Josh have you seen this ?
+Leaf:  S span World currencies are going to be taking a hit ,
+Leaf:  N Evaluation I just wanted to let you know .
+Inner:  N Topic-Comment None Evaluation SN
+Leaf:  N Elaborate The complete misunderstanding
+Leaf:  N Elaborate of how to run something as simple as a bank
+Leaf:  S span multiplied by thousands around the country of India
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is bringing that country to its knees .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate We see this happen all the time
+Leaf:  N Joint where markets are controlled by the government
+Leaf:  N Temporal and something stagnates
+Leaf:  N Temporal then we add more controls
+Leaf:  N Temporal and now we have a depression .
+Inner:  N Temporal None Temporal NN
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('Hey , Josh have you seen this ?', None, None, None, 1), ('World currencies are going to be taking a hit ,', None, None, None, 0), ('I just wanted to let you know .', None, None, None, 1), ('The complete misunderstanding', None, None, None, 0), ('of how to run something as simple as a bank', None, None, None, 0), ('multiplied by thousands around the country of India', None, None, None, 0), ('is bringing that country to its knees .', None, None, None, 1), ('We see this happen all the time', None, None, None, 0), ('where markets are controlled by the government', None, None, None, 0), ('and something stagnates', None, None, None, 0), ('then we add more controls', None, None, None, 0), ('and now we have a depression .', None, None, None, 1)]

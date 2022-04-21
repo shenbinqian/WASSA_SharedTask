@@ -1,0 +1,45 @@
+=====================> [[('My feelings and thoughts', None, None, None, 0), ('regarding the article I just read ,', None, None, None, 0), ('is what I want to sit down', None, None, None, 0), ('and compose a brief message to you , in regards to it .', None, None, None, 1), ('I think', None, None, None, 0), ('that the Greenhouse Effect is highly over-rated .', None, None, None, 1), ('I find', None, None, None, 0), ('that the forces', None, None, None, 0), ('that oppose and are against it ,', None, None, None, 0), ('has a strong point .', None, None, None, 1), ('As well , those in favor of it is also right ,', None, None, None, 0), ('and just to want and seek and work towards ways', None, None, None, 0), ('that would be in the best interest of our lives and our environment .', None, None, None, 1), ('I believe', None, None, None, 0), ('it they would not show any interest ,', None, None, None, 0), ('then whatever the harmful effects would only increase . Those in opposition , who feel', None, None, None, 0), ("that it 's just an umbrella word", None, None, None, 0), ('to funnel monies in areas', None, None, None, 0), ('that are not needed .', None, None, None, 1), ("That believe Mother Nature and the natural state of how our Earth and it 's environment works , are also somewhat correct .", None, None, None, 1), ('I wish', None, None, None, 0), ('each would meet halfway .', None, None, None, 1)]]
+Leaf:  N Elaborate My feelings and thoughts
+Leaf:  S span regarding the article I just read ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Temporal is what I want to sit down
+Leaf:  N Temporal and compose a brief message to you , in regards to it .
+Inner:  N Same-Unit None Temporal NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I think
+Leaf:  N Attribution that the Greenhouse Effect is highly over-rated .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I find
+Leaf:  N Elaborate that the forces
+Leaf:  S span that oppose and are against it ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has a strong point .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint As well , those in favor of it is also right ,
+Leaf:  N Elaborate and just to want and seek and work towards ways
+Leaf:  S span that would be in the best interest of our lives and our environment .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I believe
+Leaf:  N Attribution it they would not show any interest ,
+Inner:  S span None Attribution SN
+Leaf:  S span then whatever the harmful effects would only increase . Those in opposition , who feel
+Leaf:  N Elaborate that it 's just an umbrella word
+Leaf:  N Elaborate to funnel monies in areas
+Leaf:  S span that are not needed .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation That believe Mother Nature and the natural state of how our Earth and it 's environment works , are also somewhat correct .
+Leaf:  S span I wish
+Leaf:  N Attribution each would meet halfway .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('My feelings and thoughts', None, None, None, 0), ('regarding the article I just read ,', None, None, None, 0), ('is what I want to sit down', None, None, None, 0), ('and compose a brief message to you , in regards to it .', None, None, None, 1), ('I think', None, None, None, 0), ('that the Greenhouse Effect is highly over-rated .', None, None, None, 1), ('I find', None, None, None, 0), ('that the forces', None, None, None, 0), ('that oppose and are against it ,', None, None, None, 0), ('has a strong point .', None, None, None, 1), ('As well , those in favor of it is also right ,', None, None, None, 0), ('and just to want and seek and work towards ways', None, None, None, 0), ('that would be in the best interest of our lives and our environment .', None, None, None, 1), ('I believe', None, None, None, 0), ('it they would not show any interest ,', None, None, None, 0), ('then whatever the harmful effects would only increase . Those in opposition , who feel', None, None, None, 0), ("that it 's just an umbrella word", None, None, None, 0), ('to funnel monies in areas', None, None, None, 0), ('that are not needed .', None, None, None, 1), ("That believe Mother Nature and the natural state of how our Earth and it 's environment works , are also somewhat correct .", None, None, None, 1), ('I wish', None, None, None, 0), ('each would meet halfway .', None, None, None, 1)]

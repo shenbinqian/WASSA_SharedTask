@@ -1,0 +1,29 @@
+=====================> [[('YOu hear about the environmental cost', None, None, None, 0), ('of using coal ,', None, None, None, 0), ('but it is very upsetting to read about specific people', None, None, None, 0), ('and how their lives have changed , for the worse ,', None, None, None, 0), ('because of coal mining .', None, None, None, 1), ('Further upsetting is to hear about the animals effected .', None, None, None, 1), ('Elephants invading villages ,', None, None, None, 0), ('being electrocuted ,', None, None, None, 0), ('hurting humans ,', None, None, None, 0), ('all', None, None, None, 0), ('because their land is being taken for coal .', None, None, None, 1), ('Sad !', None, None, None, 1), ('People are dying from lack of fresh air and water ,', None, None, None, 0), ('and it is wrong .', None, None, None, 1)]]
+Leaf:  N Elaborate YOu hear about the environmental cost
+Leaf:  S span of using coal ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but it is very upsetting to read about specific people
+Leaf:  N Cause and how their lives have changed , for the worse ,
+Leaf:  S span because of coal mining .
+Inner:  S span None Cause NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Cause None Contrast SN
+Leaf:  N Elaborate Further upsetting is to hear about the animals effected .
+Leaf:  N Elaborate Elephants invading villages ,
+Leaf:  N Joint being electrocuted ,
+Leaf:  N Background hurting humans ,
+Leaf:  N Explanation all
+Leaf:  S span because their land is being taken for coal .
+Inner:  S span None Explanation NS
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Sad !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Evaluation People are dying from lack of fresh air and water ,
+Leaf:  S span and it is wrong .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('YOu hear about the environmental cost', None, None, None, 0), ('of using coal ,', None, None, None, 0), ('but it is very upsetting to read about specific people', None, None, None, 0), ('and how their lives have changed , for the worse ,', None, None, None, 0), ('because of coal mining .', None, None, None, 1), ('Further upsetting is to hear about the animals effected .', None, None, None, 1), ('Elephants invading villages ,', None, None, None, 0), ('being electrocuted ,', None, None, None, 0), ('hurting humans ,', None, None, None, 0), ('all', None, None, None, 0), ('because their land is being taken for coal .', None, None, None, 1), ('Sad !', None, None, None, 1), ('People are dying from lack of fresh air and water ,', None, None, None, 0), ('and it is wrong .', None, None, None, 1)]

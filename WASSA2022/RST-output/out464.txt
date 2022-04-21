@@ -1,0 +1,49 @@
+=====================> [[("I do n't really like coconuts ,", None, None, None, 0), ('I think', None, None, None, 0), ('everyone knows that ,', None, None, None, 0), ('but I still think', None, None, None, 0), ('that they play a huge role in our ecosystem .', None, None, None, 1), ("I do n't know a lot about coconuts", None, None, None, 0), ('or what role they play in the environment ,', None, None, None, 0), ("but they 're really important for a lot of economies", None, None, None, 0), ('where they are grown .', None, None, None, 1), ('I think that the article brings up a good point', None, None, None, 0), ('by saying', None, None, None, 0), ('that major companies', None, None, None, 0), ('that sell coconut water', None, None, None, 0), ('should be the ones', None, None, None, 0), ('trying to look for a solution', None, None, None, 0), ('because they are being oversourced due to high demand for their products ,', None, None, None, 0), ('so I think', None, None, None, 0), ('that they have a lot of responsibility', None, None, None, 0), ('to try to be the ones', None, None, None, 0), ('to fix this dilemma', None, None, None, 0), ('and solve this coconut crisis .', None, None, None, 1), ('It just makes me worried about the environment overall', None, None, None, 0), ('because I really worry about global warming', None, None, None, 0), ('and I just really worry about the environment in general .', None, None, None, 1)]]
+Leaf:  N Elaborate I do n't really like coconuts ,
+Leaf:  S span I think
+Leaf:  N Attribution everyone knows that ,
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Leaf:  S span but I still think
+Leaf:  N Attribution that they play a huge role in our ecosystem .
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint I do n't know a lot about coconuts
+Leaf:  N Joint or what role they play in the environment ,
+Inner:  S span None Joint NN
+Leaf:  N Elaborate but they 're really important for a lot of economies
+Leaf:  S span where they are grown .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Joint None Contrast SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Manner-Means I think that the article brings up a good point
+Leaf:  S span by saying
+Leaf:  N Elaborate that major companies
+Leaf:  S span that sell coconut water
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate should be the ones
+Leaf:  N Explanation trying to look for a solution
+Leaf:  S span because they are being oversourced due to high demand for their products ,
+Inner:  S span None Explanation NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span so I think
+Leaf:  N Elaborate that they have a lot of responsibility
+Leaf:  N Elaborate to try to be the ones
+Leaf:  N Joint to fix this dilemma
+Leaf:  N Joint and solve this coconut crisis .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation It just makes me worried about the environment overall
+Leaf:  N Joint because I really worry about global warming
+Leaf:  N Joint and I just really worry about the environment in general .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't really like coconuts ,", None, None, None, 0), ('I think', None, None, None, 0), ('everyone knows that ,', None, None, None, 0), ('but I still think', None, None, None, 0), ('that they play a huge role in our ecosystem .', None, None, None, 1), ("I do n't know a lot about coconuts", None, None, None, 0), ('or what role they play in the environment ,', None, None, None, 0), ("but they 're really important for a lot of economies", None, None, None, 0), ('where they are grown .', None, None, None, 1), ('I think that the article brings up a good point', None, None, None, 0), ('by saying', None, None, None, 0), ('that major companies', None, None, None, 0), ('that sell coconut water', None, None, None, 0), ('should be the ones', None, None, None, 0), ('trying to look for a solution', None, None, None, 0), ('because they are being oversourced due to high demand for their products ,', None, None, None, 0), ('so I think', None, None, None, 0), ('that they have a lot of responsibility', None, None, None, 0), ('to try to be the ones', None, None, None, 0), ('to fix this dilemma', None, None, None, 0), ('and solve this coconut crisis .', None, None, None, 1), ('It just makes me worried about the environment overall', None, None, None, 0), ('because I really worry about global warming', None, None, None, 0), ('and I just really worry about the environment in general .', None, None, None, 1)]

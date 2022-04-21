@@ -1,0 +1,27 @@
+=====================> [[('Crushed to death by a machine', None, None, None, 0), ('that makes recycled plastics into pellets ?', None, None, None, 1), ('Really ? What a terrible way to die .', None, None, None, 1), ('My guess is that standard operating procedure does not include crawling inside the machine', None, None, None, 0), ('to unclog it .', None, None, None, 1), ('I understand', None, None, None, 0), ("that it is a tragedy , but geez , at some point people have to be held accountable for their own actions . I 'm sure there will be a lawsuit , probably a hefty one ,", None, None, None, 0), ('but I hope', None, None, None, 0), ('they lose .', None, None, None, 1), ("There does n't seem to be any reason", None, None, None, 0), ('the company should be held accountable for his actions', None, None, None, 0), ('unless there was a malfunction of the overall systems .', None, None, None, 1), ("I 'm trying not to picture it in my mind . Yikes !", None, None, None, 1)]]
+Leaf:  N Elaborate Crushed to death by a machine
+Leaf:  S span that makes recycled plastics into pellets ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Really ? What a terrible way to die .
+Leaf:  N Enablement My guess is that standard operating procedure does not include crawling inside the machine
+Leaf:  S span to unclog it .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I understand
+Leaf:  N Attribution that it is a tragedy , but geez , at some point people have to be held accountable for their own actions . I 'm sure there will be a lawsuit , probably a hefty one ,
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span but I hope
+Leaf:  N Attribution they lose .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate There does n't seem to be any reason
+Leaf:  S span the company should be held accountable for his actions
+Inner:  N Condition None Elaborate NS
+Leaf:  S span unless there was a malfunction of the overall systems .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm trying not to picture it in my mind . Yikes !
+Inner:  Root None None Evaluation NS
+[('Crushed to death by a machine', None, None, None, 0), ('that makes recycled plastics into pellets ?', None, None, None, 1), ('Really ? What a terrible way to die .', None, None, None, 1), ('My guess is that standard operating procedure does not include crawling inside the machine', None, None, None, 0), ('to unclog it .', None, None, None, 1), ('I understand', None, None, None, 0), ("that it is a tragedy , but geez , at some point people have to be held accountable for their own actions . I 'm sure there will be a lawsuit , probably a hefty one ,", None, None, None, 0), ('but I hope', None, None, None, 0), ('they lose .', None, None, None, 1), ("There does n't seem to be any reason", None, None, None, 0), ('the company should be held accountable for his actions', None, None, None, 0), ('unless there was a malfunction of the overall systems .', None, None, None, 1), ("I 'm trying not to picture it in my mind . Yikes !", None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('I just read an artivcle about a police shooting .', None, None, None, 1), ('It was different than I expected .', None, None, None, 1), ('Two police officers', None, None, None, 0), ('where shot to death', None, None, None, 0), ('while sitting in their patrol cars .', None, None, None, 1), ('I have gotten so used to reading about them shooting', None, None, None, 0), ('and killing people', None, None, None, 0), ('I was surprised to read about them getting the same treatment .', None, None, None, 1), ('Everyday I am reading something', None, None, None, 0), ('or seeing a video of police shooting people .', None, None, None, 1), ('I am scared to death', None, None, None, 0), ('of getting pulled over .', None, None, None, 1), ('All the police in my area are rookies', None, None, None, 0), ('and do not know me', None, None, None, 0), ('from when I was a " bad kid " lol .', None, None, None, 1), ('I would be worried to death getting pulled over by the police', None, None, None, 0), ('seeing', None, None, None, 0), ('how trigger happy they have been lately .', None, None, None, 1)]]
+Leaf:  N Contrast I just read an artivcle about a police shooting .
+Leaf:  N Elaborate It was different than I expected .
+Leaf:  N Same-Unit Two police officers
+Leaf:  N Temporal where shot to death
+Leaf:  S span while sitting in their patrol cars .
+Inner:  N Same-Unit None Temporal NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Joint I have gotten so used to reading about them shooting
+Leaf:  N Joint and killing people
+Inner:  S span None Joint NN
+Leaf:  N Background I was surprised to read about them getting the same treatment .
+Inner:  S span None Background SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Everyday I am reading something
+Leaf:  N Joint or seeing a video of police shooting people .
+Inner:  N Cause None Joint NN
+Leaf:  N Cause I am scared to death
+Leaf:  S span of getting pulled over .
+Inner:  N Explanation None Cause NS
+Leaf:  N Joint All the police in my area are rookies
+Leaf:  N Same-Unit and do not know me
+Leaf:  N Same-Unit from when I was a " bad kid " lol .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Background I would be worried to death getting pulled over by the police
+Leaf:  S span seeing
+Leaf:  N Attribution how trigger happy they have been lately .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I just read an artivcle about a police shooting .', None, None, None, 1), ('It was different than I expected .', None, None, None, 1), ('Two police officers', None, None, None, 0), ('where shot to death', None, None, None, 0), ('while sitting in their patrol cars .', None, None, None, 1), ('I have gotten so used to reading about them shooting', None, None, None, 0), ('and killing people', None, None, None, 0), ('I was surprised to read about them getting the same treatment .', None, None, None, 1), ('Everyday I am reading something', None, None, None, 0), ('or seeing a video of police shooting people .', None, None, None, 1), ('I am scared to death', None, None, None, 0), ('of getting pulled over .', None, None, None, 1), ('All the police in my area are rookies', None, None, None, 0), ('and do not know me', None, None, None, 0), ('from when I was a " bad kid " lol .', None, None, None, 1), ('I would be worried to death getting pulled over by the police', None, None, None, 0), ('seeing', None, None, None, 0), ('how trigger happy they have been lately .', None, None, None, 1)]

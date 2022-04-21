@@ -1,0 +1,23 @@
+=====================> [[('I read an interesting article online about Russia again .', None, None, None, 1), ('Apparently one of Putins former aids had just died outside of a hotel in D.C. ,', None, None, None, 0), ('that is really crazy and scary . Apparently a lot of people are thinking', None, None, None, 0), ('that this could be foul play', None, None, None, 0), ("and it would n't be a surprise", None, None, None, 0), ('since the Russian government is known for doing this sort of thing all the time .', None, None, None, 1), ('He was apparently fixing', None, None, None, 0), ('to cut a deal with the federal government', None, None, None, 0), ('which would have angered the Russian government', None, None, None, 0), ('so I bet they killed him off', None, None, None, 0), ('so that they could avoid him giving away information to the federal government .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an interesting article online about Russia again .
+Leaf:  N Evaluation Apparently one of Putins former aids had just died outside of a hotel in D.C. ,
+Leaf:  S span that is really crazy and scary . Apparently a lot of people are thinking
+Leaf:  N Joint that this could be foul play
+Leaf:  N Explanation and it would n't be a surprise
+Leaf:  S span since the Russian government is known for doing this sort of thing all the time .
+Inner:  N Joint None Explanation NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement He was apparently fixing
+Leaf:  S span to cut a deal with the federal government
+Inner:  N Cause None Enablement NS
+Leaf:  S span which would have angered the Russian government
+Inner:  N Topic-Comment None Cause NS
+Leaf:  N Enablement so I bet they killed him off
+Leaf:  S span so that they could avoid him giving away information to the federal government .
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('I read an interesting article online about Russia again .', None, None, None, 1), ('Apparently one of Putins former aids had just died outside of a hotel in D.C. ,', None, None, None, 0), ('that is really crazy and scary . Apparently a lot of people are thinking', None, None, None, 0), ('that this could be foul play', None, None, None, 0), ("and it would n't be a surprise", None, None, None, 0), ('since the Russian government is known for doing this sort of thing all the time .', None, None, None, 1), ('He was apparently fixing', None, None, None, 0), ('to cut a deal with the federal government', None, None, None, 0), ('which would have angered the Russian government', None, None, None, 0), ('so I bet they killed him off', None, None, None, 0), ('so that they could avoid him giving away information to the federal government .', None, None, None, 1)]

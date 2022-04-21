@@ -1,0 +1,19 @@
+=====================> [[('I feel', None, None, None, 0), ('like Aleppo is a legit war zone right now .', None, None, None, 1), ('You can get killed anywhere at anytime .', None, None, None, 1), ('I feel so sorry about the innocent families and children', None, None, None, 0), ('that are involved', None, None, None, 0), ('and would like other nations to at least help Syria and other Middle Eastern Countries and accept refugees .', None, None, None, 1), ('The thought', None, None, None, 0), ('of losing your child or someone in your family', None, None, None, 0), ('is really disturbing .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like Aleppo is a legit war zone right now .
+Inner:  N Cause None Attribution SN
+Leaf:  S span You can get killed anywhere at anytime .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate I feel so sorry about the innocent families and children
+Leaf:  S span that are involved
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and would like other nations to at least help Syria and other Middle Eastern Countries and accept refugees .
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate The thought
+Leaf:  S span of losing your child or someone in your family
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is really disturbing .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I feel', None, None, None, 0), ('like Aleppo is a legit war zone right now .', None, None, None, 1), ('You can get killed anywhere at anytime .', None, None, None, 1), ('I feel so sorry about the innocent families and children', None, None, None, 0), ('that are involved', None, None, None, 0), ('and would like other nations to at least help Syria and other Middle Eastern Countries and accept refugees .', None, None, None, 1), ('The thought', None, None, None, 0), ('of losing your child or someone in your family', None, None, None, 0), ('is really disturbing .', None, None, None, 1)]

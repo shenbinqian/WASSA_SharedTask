@@ -1,0 +1,13 @@
+=====================> [[('With the ever-growing lack of medical clinics and equipment in 3rd world countries , more outbreaks will eventually start', None, None, None, 0), ('and can affect millions of people .', None, None, None, 1), ('This article for example , showed that cholera outbreak in Haiti , Millions has been affected', None, None, None, 0), ('and people are dying', None, None, None, 0), ("but we do n't have the resources", None, None, None, 0), ('to help them .', None, None, None, 1)]]
+Leaf:  N Joint With the ever-growing lack of medical clinics and equipment in 3rd world countries , more outbreaks will eventually start
+Leaf:  N Joint and can affect millions of people .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint This article for example , showed that cholera outbreak in Haiti , Millions has been affected
+Leaf:  N Joint and people are dying
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate but we do n't have the resources
+Leaf:  S span to help them .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('With the ever-growing lack of medical clinics and equipment in 3rd world countries , more outbreaks will eventually start', None, None, None, 0), ('and can affect millions of people .', None, None, None, 1), ('This article for example , showed that cholera outbreak in Haiti , Millions has been affected', None, None, None, 0), ('and people are dying', None, None, None, 0), ("but we do n't have the resources", None, None, None, 0), ('to help them .', None, None, None, 1)]

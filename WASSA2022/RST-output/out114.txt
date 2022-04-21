@@ -1,0 +1,19 @@
+=====================> [[('I really feel bad for the Yemeni people .', None, None, None, 1), ('They were already unfortunate enough', None, None, None, 0), ('before this civil unrest .', None, None, None, 1), ('Now it has gotten worse', None, None, None, 0), ('and too many people are dying .', None, None, None, 1), ('I really pray', None, None, None, 0), ('that there is some order', None, None, None, 0), ('and that peace comes to this country .', None, None, None, 1), ('I feel for the family members of the the sick , wounded , and dead .', None, None, None, 1)]]
+Leaf:  N Explanation I really feel bad for the Yemeni people .
+Leaf:  N Temporal They were already unfortunate enough
+Leaf:  S span before this civil unrest .
+Inner:  S span None Temporal NS
+Leaf:  N Joint Now it has gotten worse
+Leaf:  N Joint and too many people are dying .
+Inner:  N Background None Joint NN
+Inner:  S span None Background SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I really pray
+Leaf:  N Joint that there is some order
+Leaf:  N Joint and that peace comes to this country .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I feel for the family members of the the sick , wounded , and dead .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I really feel bad for the Yemeni people .', None, None, None, 1), ('They were already unfortunate enough', None, None, None, 0), ('before this civil unrest .', None, None, None, 1), ('Now it has gotten worse', None, None, None, 0), ('and too many people are dying .', None, None, None, 1), ('I really pray', None, None, None, 0), ('that there is some order', None, None, None, 0), ('and that peace comes to this country .', None, None, None, 1), ('I feel for the family members of the the sick , wounded , and dead .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('I pretty much hate all wildlife', None, None, None, 0), ('including squirrels .', None, None, None, 1), ('They should just go blast the little varmint .', None, None, None, 1), ('After all squirrels carry rabies and other diseases', None, None, None, 0), ('even if they say', None, None, None, 0), ('small animals seldom have rabies .', None, None, None, 1), ("Once you bite a human , it 's over", None, None, None, 0), ('and you deserve to die .', None, None, None, 1), ('It is kind of funny though these elderly people not being able to get away .', None, None, None, 1), ('Why does everything wacky always happen in Florida . Like 30 % of anything strange happens in Florida .', None, None, None, 1), ('Frankly I think', None, None, None, 0), ('some reporter made the whole thing up . Squirrels are not going to attack multiple people .', None, None, None, 1), ('Sure they might on a rare occasion bite someone but not three people .', None, None, None, 1), ("Then again it 's Florida so common laws and logic go out the window .", None, None, None, 1), ('ANyhow thought', None, None, None, 0), ('you might enjoy some rambling on some things', None, None, None, 0), ('I read .', None, None, None, 1), ('Take care buddy . Later .', None, None, None, 1)]]
+Leaf:  N Elaborate I pretty much hate all wildlife
+Leaf:  S span including squirrels .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They should just go blast the little varmint .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Contrast After all squirrels carry rabies and other diseases
+Leaf:  S span even if they say
+Leaf:  N Attribution small animals seldom have rabies .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Joint Once you bite a human , it 's over
+Leaf:  N Joint and you deserve to die .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It is kind of funny though these elderly people not being able to get away .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Why does everything wacky always happen in Florida . Like 30 % of anything strange happens in Florida .
+Leaf:  S span Frankly I think
+Leaf:  N Attribution some reporter made the whole thing up . Squirrels are not going to attack multiple people .
+Inner:  N Contrast None Attribution SN
+Leaf:  N Evaluation Sure they might on a rare occasion bite someone but not three people .
+Leaf:  S span Then again it 's Florida so common laws and logic go out the window .
+Inner:  S span None Evaluation NS
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span ANyhow thought
+Leaf:  N Elaborate you might enjoy some rambling on some things
+Leaf:  S span I read .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Take care buddy . Later .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I pretty much hate all wildlife', None, None, None, 0), ('including squirrels .', None, None, None, 1), ('They should just go blast the little varmint .', None, None, None, 1), ('After all squirrels carry rabies and other diseases', None, None, None, 0), ('even if they say', None, None, None, 0), ('small animals seldom have rabies .', None, None, None, 1), ("Once you bite a human , it 's over", None, None, None, 0), ('and you deserve to die .', None, None, None, 1), ('It is kind of funny though these elderly people not being able to get away .', None, None, None, 1), ('Why does everything wacky always happen in Florida . Like 30 % of anything strange happens in Florida .', None, None, None, 1), ('Frankly I think', None, None, None, 0), ('some reporter made the whole thing up . Squirrels are not going to attack multiple people .', None, None, None, 1), ('Sure they might on a rare occasion bite someone but not three people .', None, None, None, 1), ("Then again it 's Florida so common laws and logic go out the window .", None, None, None, 1), ('ANyhow thought', None, None, None, 0), ('you might enjoy some rambling on some things', None, None, None, 0), ('I read .', None, None, None, 1), ('Take care buddy . Later .', None, None, None, 1)]

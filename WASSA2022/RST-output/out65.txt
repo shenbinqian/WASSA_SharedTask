@@ -1,0 +1,19 @@
+=====================> [[("Again it 's all about the money .", None, None, None, 1), ('Corporate America strikes again .', None, None, None, 1), ('They leech as much money from the working class as possible', None, None, None, 0), ('as they sit in their office , finger banging their secretary .', None, None, None, 1), ('When their lies and misdirection is revealed ,', None, None, None, 0), ('some fat cat takes the blame', None, None, None, 0), ('( along with millions of dollars of hush money ,', None, None, None, 0), ('and the working class is thrown to the wolves', None, None, None, 0), ('and blamed for most of the misdeeds .', None, None, None, 1)]]
+Leaf:  N Summary Again it 's all about the money .
+Leaf:  N Summary Corporate America strikes again .
+Leaf:  N Temporal They leech as much money from the working class as possible
+Leaf:  S span as they sit in their office , finger banging their secretary .
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span When their lies and misdirection is revealed ,
+Leaf:  N Elaborate some fat cat takes the blame
+Leaf:  S span ( along with millions of dollars of hush money ,
+Inner:  N Background None Elaborate NS
+Inner:  N Temporal None Background SN
+Leaf:  N Joint and the working class is thrown to the wolves
+Leaf:  N Joint and blamed for most of the misdeeds .
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  Root None None Summary NS
+[("Again it 's all about the money .", None, None, None, 1), ('Corporate America strikes again .', None, None, None, 1), ('They leech as much money from the working class as possible', None, None, None, 0), ('as they sit in their office , finger banging their secretary .', None, None, None, 1), ('When their lies and misdirection is revealed ,', None, None, None, 0), ('some fat cat takes the blame', None, None, None, 0), ('( along with millions of dollars of hush money ,', None, None, None, 0), ('and the working class is thrown to the wolves', None, None, None, 0), ('and blamed for most of the misdeeds .', None, None, None, 1)]

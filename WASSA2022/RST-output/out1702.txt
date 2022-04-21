@@ -1,0 +1,35 @@
+=====================> [[('That article was a steaming pile of nonsense .', None, None, None, 1), ('Storied about criminals', None, None, None, 0), ('emboldened', None, None, None, 0), ('to assault and kill cops', None, None, None, 0), ("by the media 's sympathetic bias towards criminals is a regular occurrence these days .", None, None, None, 1), ('Black Lives Matter is a borderline terrorist organization', None, None, None, 0), ('who believes', None, None, None, 0), ('there should be no laws , or at the very least , that black people should be exempt from them .', None, None, None, 1), ("They 're in favor", None, None, None, 0), ('of abolishing the police and penal system .', None, None, None, 1), ('What sane person riots over a criminal getting the inevitable ending', None, None, None, 0), ('that comes from leading a lawless and dangerous life ?', None, None, None, 1), ('When I read', None, None, None, 0), ('about a white criminal getting killed in a confrontation with the police ,', None, None, None, 0), ('I feel relief .', None, None, None, 1), ('My instinct is to say " good riddance "', None, None, None, 0), ('and not go out and loot a liquor store and burn down fast food restaurants .', None, None, None, 1)]]
+Leaf:  N Summary That article was a steaming pile of nonsense .
+Leaf:  N Elaborate Storied about criminals
+Leaf:  N Enablement emboldened
+Leaf:  S span to assault and kill cops
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit by the media 's sympathetic bias towards criminals is a regular occurrence these days .
+Inner:  N Topic-Change None Same-Unit NN
+Leaf:  N Elaborate Black Lives Matter is a borderline terrorist organization
+Leaf:  S span who believes
+Leaf:  N Attribution there should be no laws , or at the very least , that black people should be exempt from them .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They 're in favor
+Leaf:  S span of abolishing the police and penal system .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate What sane person riots over a criminal getting the inevitable ending
+Leaf:  S span that comes from leading a lawless and dangerous life ?
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Topic-Comment None Topic-Comment NN
+Leaf:  N Elaborate When I read
+Leaf:  S span about a white criminal getting killed in a confrontation with the police ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background I feel relief .
+Inner:  N Elaborate None Background SN
+Leaf:  N Joint My instinct is to say " good riddance "
+Leaf:  N Joint and not go out and loot a liquor store and burn down fast food restaurants .
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Topic-Change None Topic-Comment NN
+Inner:  S span None Topic-Change NN
+Inner:  Root None None Summary NS
+[('That article was a steaming pile of nonsense .', None, None, None, 1), ('Storied about criminals', None, None, None, 0), ('emboldened', None, None, None, 0), ('to assault and kill cops', None, None, None, 0), ("by the media 's sympathetic bias towards criminals is a regular occurrence these days .", None, None, None, 1), ('Black Lives Matter is a borderline terrorist organization', None, None, None, 0), ('who believes', None, None, None, 0), ('there should be no laws , or at the very least , that black people should be exempt from them .', None, None, None, 1), ("They 're in favor", None, None, None, 0), ('of abolishing the police and penal system .', None, None, None, 1), ('What sane person riots over a criminal getting the inevitable ending', None, None, None, 0), ('that comes from leading a lawless and dangerous life ?', None, None, None, 1), ('When I read', None, None, None, 0), ('about a white criminal getting killed in a confrontation with the police ,', None, None, None, 0), ('I feel relief .', None, None, None, 1), ('My instinct is to say " good riddance "', None, None, None, 0), ('and not go out and loot a liquor store and burn down fast food restaurants .', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[("It 's horrifying to see a dog", None, None, None, 0), ('subjected to such a cruel fate .', None, None, None, 1), ('This brings attention to the numerous other cases of fatalism', None, None, None, 0), ("that could 've been prevented by careful inspection and care for one 's pets .", None, None, None, 1), ('Dogs deserve better from us ,', None, None, None, 0), ("and it 's our obligation as human beings to provide care for animals as much as possible .", None, None, None, 1)]]
+Leaf:  N Elaborate It 's horrifying to see a dog
+Leaf:  S span subjected to such a cruel fate .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This brings attention to the numerous other cases of fatalism
+Leaf:  S span that could 've been prevented by careful inspection and care for one 's pets .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Dogs deserve better from us ,
+Leaf:  N Joint and it 's our obligation as human beings to provide care for animals as much as possible .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[("It 's horrifying to see a dog", None, None, None, 0), ('subjected to such a cruel fate .', None, None, None, 1), ('This brings attention to the numerous other cases of fatalism', None, None, None, 0), ("that could 've been prevented by careful inspection and care for one 's pets .", None, None, None, 1), ('Dogs deserve better from us ,', None, None, None, 0), ("and it 's our obligation as human beings to provide care for animals as much as possible .", None, None, None, 1)]

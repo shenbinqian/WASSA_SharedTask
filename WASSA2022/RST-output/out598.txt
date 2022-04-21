@@ -1,0 +1,27 @@
+=====================> [[('I always wonder', None, None, None, 0), ('whether to believe articles like this .', None, None, None, 1), ('I have always liked Mayweather ,', None, None, None, 0), ('and I feel', None, None, None, 0), ('there are probably two sides to this story .', None, None, None, 1), ('Besides , the lawsuit is filed', None, None, None, 0), ('but there is no verdict yet ,', None, None, None, 0), ('so Mayweather could be innocent .', None, None, None, 1), ('Anyone can file a lawsuit', None, None, None, 0), ('and the only proof', None, None, None, 0), ('of who is right', None, None, None, 0), ('is when the suit is decided .', None, None, None, 1), ('I will be interested to follow the outcome of this one .', None, None, None, 1)]]
+Leaf:  S span I always wonder
+Leaf:  N Attribution whether to believe articles like this .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint I have always liked Mayweather ,
+Leaf:  S span and I feel
+Leaf:  N Attribution there are probably two sides to this story .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Besides , the lawsuit is filed
+Leaf:  N Contrast but there is no verdict yet ,
+Inner:  N Cause None Contrast SN
+Leaf:  S span so Mayweather could be innocent .
+Inner:  N Condition None Cause NS
+Leaf:  S span Anyone can file a lawsuit
+Leaf:  N Elaborate and the only proof
+Leaf:  S span of who is right
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is when the suit is decided .
+Inner:  N Background None Same-Unit NN
+Inner:  S span None Background SN
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I will be interested to follow the outcome of this one .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I always wonder', None, None, None, 0), ('whether to believe articles like this .', None, None, None, 1), ('I have always liked Mayweather ,', None, None, None, 0), ('and I feel', None, None, None, 0), ('there are probably two sides to this story .', None, None, None, 1), ('Besides , the lawsuit is filed', None, None, None, 0), ('but there is no verdict yet ,', None, None, None, 0), ('so Mayweather could be innocent .', None, None, None, 1), ('Anyone can file a lawsuit', None, None, None, 0), ('and the only proof', None, None, None, 0), ('of who is right', None, None, None, 0), ('is when the suit is decided .', None, None, None, 1), ('I will be interested to follow the outcome of this one .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('It must be extremely difficult to find these lone wolf terrorist .', None, None, None, 1), ('I can only begin to understand the type of manpower', None, None, None, 0), ('needed', None, None, None, 0), ('to pursue these people .', None, None, None, 1), ('I think', None, None, None, 0), ('that most of them are mentally ill and hard to catch', None, None, None, 0), ('before they commit the crime .', None, None, None, 1), ('It makes me think of the movie Minority Report', None, None, None, 0), ('and how that type of technology might become available with the advance of A.I. .', None, None, None, 1)]]
+Leaf:  N Elaborate It must be extremely difficult to find these lone wolf terrorist .
+Leaf:  N Elaborate I can only begin to understand the type of manpower
+Leaf:  N Enablement needed
+Leaf:  S span to pursue these people .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Temporal that most of them are mentally ill and hard to catch
+Leaf:  S span before they commit the crime .
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It makes me think of the movie Minority Report
+Leaf:  S span and how that type of technology might become available with the advance of A.I. .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('It must be extremely difficult to find these lone wolf terrorist .', None, None, None, 1), ('I can only begin to understand the type of manpower', None, None, None, 0), ('needed', None, None, None, 0), ('to pursue these people .', None, None, None, 1), ('I think', None, None, None, 0), ('that most of them are mentally ill and hard to catch', None, None, None, 0), ('before they commit the crime .', None, None, None, 1), ('It makes me think of the movie Minority Report', None, None, None, 0), ('and how that type of technology might become available with the advance of A.I. .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[("It 's bad that these 2 died ,", None, None, None, 0), ('but I have to believe', None, None, None, 0), ('they had to have know the risks involved .', None, None, None, 1), ('I think so many of us ,', None, None, None, 0), ('even knowing the risks ,', None, None, None, 0), ('think', None, None, None, 0), ('that " it ca n\'t happen to me "', None, None, None, 0), ('and do things', None, None, None, 0), ("we should n't .", None, None, None, 1), ("It 's so sad for their families !", None, None, None, 1), ("I 'm not sure what is the right thing to do .", None, None, None, 1), ('Signs are posted ,', None, None, None, 0), ('and divers know the risks .', None, None, None, 1), ("But would it be better to permanently close the area ? I 'm on the fence .", None, None, None, 1)]]
+Leaf:  N Contrast It 's bad that these 2 died ,
+Leaf:  S span but I have to believe
+Leaf:  N Attribution they had to have know the risks involved .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Contrast NS
+Leaf:  N Same-Unit I think so many of us ,
+Leaf:  S span even knowing the risks ,
+Leaf:  S span think
+Leaf:  N Attribution that " it ca n't happen to me "
+Inner:  N Background None Attribution SN
+Inner:  N Joint None Background SN
+Leaf:  N Elaborate and do things
+Leaf:  S span we should n't .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It 's so sad for their families !
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I 'm not sure what is the right thing to do .
+Leaf:  N Joint Signs are posted ,
+Leaf:  N Joint and divers know the risks .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span But would it be better to permanently close the area ? I 'm on the fence .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("It 's bad that these 2 died ,", None, None, None, 0), ('but I have to believe', None, None, None, 0), ('they had to have know the risks involved .', None, None, None, 1), ('I think so many of us ,', None, None, None, 0), ('even knowing the risks ,', None, None, None, 0), ('think', None, None, None, 0), ('that " it ca n\'t happen to me "', None, None, None, 0), ('and do things', None, None, None, 0), ("we should n't .", None, None, None, 1), ("It 's so sad for their families !", None, None, None, 1), ("I 'm not sure what is the right thing to do .", None, None, None, 1), ('Signs are posted ,', None, None, None, 0), ('and divers know the risks .', None, None, None, 1), ("But would it be better to permanently close the area ? I 'm on the fence .", None, None, None, 1)]

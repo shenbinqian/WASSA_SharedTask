@@ -1,0 +1,29 @@
+=====================> [[('Some people are just disturbed .', None, None, None, 1), ('Everyone is going to point to mental illness in something like this ,', None, None, None, 0), ('but I fear', None, None, None, 0), ('that', None, None, None, 0), ('when things like this happens ,', None, None, None, 0), ('it gets easier and easier just to point at people', None, None, None, 0), ('and call them mentally ill .', None, None, None, 1), ('I fear', None, None, None, 0), ('that eventually we are going to get to the point', None, None, None, 0), ('where you can classify someone as mentally ill by the crowd . Just finger pointing . I feel for these victims and the victims of crimes in the future', None, None, None, 0), ('because we spend too much time', None, None, None, 0), ('making excuses', None, None, None, 0), ('and pointing fingers', None, None, None, 0), ('rather than dealing with the problems at hand .', None, None, None, 1)]]
+Leaf:  N Elaborate Some people are just disturbed .
+Leaf:  N Contrast Everyone is going to point to mental illness in something like this ,
+Leaf:  S span but I fear
+Leaf:  N Same-Unit that
+Leaf:  S span when things like this happens ,
+Leaf:  N Joint it gets easier and easier just to point at people
+Leaf:  N Joint and call them mentally ill .
+Inner:  N Background None Joint NN
+Inner:  N Same-Unit None Background SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I fear
+Leaf:  N Elaborate that eventually we are going to get to the point
+Leaf:  S span where you can classify someone as mentally ill by the crowd . Just finger pointing . I feel for these victims and the victims of crimes in the future
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate because we spend too much time
+Leaf:  N Joint making excuses
+Leaf:  N Comparison and pointing fingers
+Leaf:  S span rather than dealing with the problems at hand .
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('Some people are just disturbed .', None, None, None, 1), ('Everyone is going to point to mental illness in something like this ,', None, None, None, 0), ('but I fear', None, None, None, 0), ('that', None, None, None, 0), ('when things like this happens ,', None, None, None, 0), ('it gets easier and easier just to point at people', None, None, None, 0), ('and call them mentally ill .', None, None, None, 1), ('I fear', None, None, None, 0), ('that eventually we are going to get to the point', None, None, None, 0), ('where you can classify someone as mentally ill by the crowd . Just finger pointing . I feel for these victims and the victims of crimes in the future', None, None, None, 0), ('because we spend too much time', None, None, None, 0), ('making excuses', None, None, None, 0), ('and pointing fingers', None, None, None, 0), ('rather than dealing with the problems at hand .', None, None, None, 1)]

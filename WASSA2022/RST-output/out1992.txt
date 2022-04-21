@@ -1,0 +1,21 @@
+=====================> [[('This female lawyer', None, None, None, 0), ('that accused her boss of sexually harassing her', None, None, None, 0), ('may very well be a true story in every detail .', None, None, None, 1), ('Things like this happened previously at a very alarming rate', None, None, None, 0), ('and continue to happen today', None, None, None, 0), ('even if it is less frequent .', None, None, None, 1), ('The problem with bringing these issues forward at a later date is that it is hard for these claims to be validated with so much time in between the actual act .', None, None, None, 1), ('I think', None, None, None, 0), ('the rhetoric and climate of current administration in the white house also helps add to the power of these men', None, None, None, 0), ('to just deny the claims .', None, None, None, 1)]]
+Leaf:  N Elaborate This female lawyer
+Leaf:  S span that accused her boss of sexually harassing her
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit may very well be a true story in every detail .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Temporal Things like this happened previously at a very alarming rate
+Leaf:  N Temporal and continue to happen today
+Inner:  N Contrast None Temporal NN
+Leaf:  S span even if it is less frequent .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Explanation The problem with bringing these issues forward at a later date is that it is hard for these claims to be validated with so much time in between the actual act .
+Leaf:  S span I think
+Leaf:  N Elaborate the rhetoric and climate of current administration in the white house also helps add to the power of these men
+Leaf:  S span to just deny the claims .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This female lawyer', None, None, None, 0), ('that accused her boss of sexually harassing her', None, None, None, 0), ('may very well be a true story in every detail .', None, None, None, 1), ('Things like this happened previously at a very alarming rate', None, None, None, 0), ('and continue to happen today', None, None, None, 0), ('even if it is less frequent .', None, None, None, 1), ('The problem with bringing these issues forward at a later date is that it is hard for these claims to be validated with so much time in between the actual act .', None, None, None, 1), ('I think', None, None, None, 0), ('the rhetoric and climate of current administration in the white house also helps add to the power of these men', None, None, None, 0), ('to just deny the claims .', None, None, None, 1)]

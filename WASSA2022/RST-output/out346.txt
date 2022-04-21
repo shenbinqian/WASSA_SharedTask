@@ -1,0 +1,25 @@
+=====================> [[('The article was about smokers and the prevalence of cancer among cigarette smokers .', None, None, None, 1), ('It indicated', None, None, None, 0), ('that the tobacco lobby results in weak tobacco control and a low effort among politicians', None, None, None, 0), ('to try and stop people from smoking .', None, None, None, 1), ("Quite frankly , I 'm not sure", None, None, None, 0), ('why I should care about smokers .', None, None, None, 1), ('The evidence is there for them to see ,', None, None, None, 0), ('yet they persist in their bad habits .', None, None, None, 1), ('Government can only do so much', None, None, None, 0), ("and it makes little sense for me to worry about another person 's health", None, None, None, 0), ('when they are consciously making the decision', None, None, None, 0), ('to kill themselves .', None, None, None, 1)]]
+Leaf:  N Elaborate The article was about smokers and the prevalence of cancer among cigarette smokers .
+Leaf:  S span It indicated
+Leaf:  N Elaborate that the tobacco lobby results in weak tobacco control and a low effort among politicians
+Leaf:  S span to try and stop people from smoking .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Quite frankly , I 'm not sure
+Leaf:  N Attribution why I should care about smokers .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The evidence is there for them to see ,
+Leaf:  N Contrast yet they persist in their bad habits .
+Inner:  S span None Contrast SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Government can only do so much
+Leaf:  N Background and it makes little sense for me to worry about another person 's health
+Leaf:  N Elaborate when they are consciously making the decision
+Leaf:  S span to kill themselves .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('The article was about smokers and the prevalence of cancer among cigarette smokers .', None, None, None, 1), ('It indicated', None, None, None, 0), ('that the tobacco lobby results in weak tobacco control and a low effort among politicians', None, None, None, 0), ('to try and stop people from smoking .', None, None, None, 1), ("Quite frankly , I 'm not sure", None, None, None, 0), ('why I should care about smokers .', None, None, None, 1), ('The evidence is there for them to see ,', None, None, None, 0), ('yet they persist in their bad habits .', None, None, None, 1), ('Government can only do so much', None, None, None, 0), ("and it makes little sense for me to worry about another person 's health", None, None, None, 0), ('when they are consciously making the decision', None, None, None, 0), ('to kill themselves .', None, None, None, 1)]

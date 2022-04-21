@@ -1,0 +1,29 @@
+=====================> [[('This is awful !', None, None, None, 1), ('I just read', None, None, None, 0), ('that a family lost two family pets and their home', None, None, None, 0), ('due to a horrible fire , still in investigation !', None, None, None, 1), ('This is one of those times', None, None, None, 0), ('when I let my mind wander', None, None, None, 0), ('and I think ,', None, None, None, 0), ('what is going to happen to them ?', None, None, None, 1), ('Where would they sleep at night ?', None, None, None, 1), ('And the pain', None, None, None, 0), ('they must feel', None, None, None, 0), ('for not having the pets , and a place', None, None, None, 0), ('to call their', None, None, None, 0), ('own .', None, None, None, 1)]]
+Leaf:  N Explanation This is awful !
+Leaf:  S span I just read
+Leaf:  N Cause that a family lost two family pets and their home
+Leaf:  S span due to a horrible fire , still in investigation !
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate This is one of those times
+Leaf:  N Joint when I let my mind wander
+Leaf:  S span and I think ,
+Leaf:  N Attribution what is going to happen to them ?
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Where would they sleep at night ?
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate And the pain
+Leaf:  S span they must feel
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate for not having the pets , and a place
+Leaf:  N Elaborate to call their
+Leaf:  S span own .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This is awful !', None, None, None, 1), ('I just read', None, None, None, 0), ('that a family lost two family pets and their home', None, None, None, 0), ('due to a horrible fire , still in investigation !', None, None, None, 1), ('This is one of those times', None, None, None, 0), ('when I let my mind wander', None, None, None, 0), ('and I think ,', None, None, None, 0), ('what is going to happen to them ?', None, None, None, 1), ('Where would they sleep at night ?', None, None, None, 1), ('And the pain', None, None, None, 0), ('they must feel', None, None, None, 0), ('for not having the pets , and a place', None, None, None, 0), ('to call their', None, None, None, 0), ('own .', None, None, None, 1)]

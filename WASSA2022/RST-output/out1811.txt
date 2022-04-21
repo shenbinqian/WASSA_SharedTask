@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about cave divers in Florida', None, None, None, 0), ('who died', None, None, None, 0), ('trying to explore the cave system .', None, None, None, 1), ('It seems like an incredibly dangerous thing to do .', None, None, None, 1), ("I 'm not so sure", None, None, None, 0), ('I see the benefit', None, None, None, 0), ('in doing this kind of activity .', None, None, None, 1), ('I feel like they people knew the risks', None, None, None, 0), ('and what could happen', None, None, None, 0), ('if things go wrong .', None, None, None, 1), ('This is not something', None, None, None, 0), ("I 'd do myself .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about cave divers in Florida
+Leaf:  N Cause who died
+Leaf:  S span trying to explore the cave system .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It seems like an incredibly dangerous thing to do .
+Leaf:  S span I 'm not so sure
+Leaf:  N Elaborate I see the benefit
+Leaf:  S span in doing this kind of activity .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint I feel like they people knew the risks
+Leaf:  N Condition and what could happen
+Leaf:  S span if things go wrong .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate This is not something
+Leaf:  S span I 'd do myself .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about cave divers in Florida', None, None, None, 0), ('who died', None, None, None, 0), ('trying to explore the cave system .', None, None, None, 1), ('It seems like an incredibly dangerous thing to do .', None, None, None, 1), ("I 'm not so sure", None, None, None, 0), ('I see the benefit', None, None, None, 0), ('in doing this kind of activity .', None, None, None, 1), ('I feel like they people knew the risks', None, None, None, 0), ('and what could happen', None, None, None, 0), ('if things go wrong .', None, None, None, 1), ('This is not something', None, None, None, 0), ("I 'd do myself .", None, None, None, 1)]

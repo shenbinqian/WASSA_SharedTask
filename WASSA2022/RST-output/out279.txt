@@ -1,0 +1,19 @@
+=====================> [[('Hundreds of people marched through the city ,', None, None, None, 0), ('disrupting traffic', None, None, None, 0), ('and spray-painting graffiti .', None, None, None, 1), ('Authorities reported instances of vandalism and assault during a rally', None, None, None, 0), ('that organizers had billed as peaceful earlier in the day .', None, None, None, 1), ('In other parts of the country , spirited demonstrations on college campuses and peaceful marches along downtown streets have taken place since Wednesday . – – ADVERTISEMENT – – A mainly peaceful protest by about 3,000 people ended in Los Angeles early Saturday with about 200 arrests for failure', None, None, None, 0), ('to disperse', None, None, None, 0), ('after police broke up the lingering demonstration .', None, None, None, 1), ('Hundreds joined a Friday afternoon “ love rally ” in Washington Square Park in Manhattan .', None, None, None, 1)]]
+Leaf:  N Manner-Means Hundreds of people marched through the city ,
+Leaf:  N Joint disrupting traffic
+Leaf:  N Joint and spray-painting graffiti .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate Authorities reported instances of vandalism and assault during a rally
+Leaf:  S span that organizers had billed as peaceful earlier in the day .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate In other parts of the country , spirited demonstrations on college campuses and peaceful marches along downtown streets have taken place since Wednesday . – – ADVERTISEMENT – – A mainly peaceful protest by about 3,000 people ended in Los Angeles early Saturday with about 200 arrests for failure
+Leaf:  S span to disperse
+Inner:  N Background None Elaborate NS
+Leaf:  S span after police broke up the lingering demonstration .
+Inner:  N Joint None Background NS
+Leaf:  N Joint Hundreds joined a Friday afternoon “ love rally ” in Washington Square Park in Manhattan .
+Inner:  N Topic-Change None Joint NN
+Inner:  Root None None Topic-Change NN
+[('Hundreds of people marched through the city ,', None, None, None, 0), ('disrupting traffic', None, None, None, 0), ('and spray-painting graffiti .', None, None, None, 1), ('Authorities reported instances of vandalism and assault during a rally', None, None, None, 0), ('that organizers had billed as peaceful earlier in the day .', None, None, None, 1), ('In other parts of the country , spirited demonstrations on college campuses and peaceful marches along downtown streets have taken place since Wednesday . – – ADVERTISEMENT – – A mainly peaceful protest by about 3,000 people ended in Los Angeles early Saturday with about 200 arrests for failure', None, None, None, 0), ('to disperse', None, None, None, 0), ('after police broke up the lingering demonstration .', None, None, None, 1), ('Hundreds joined a Friday afternoon “ love rally ” in Washington Square Park in Manhattan .', None, None, None, 1)]

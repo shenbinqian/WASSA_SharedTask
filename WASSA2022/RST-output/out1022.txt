@@ -1,0 +1,25 @@
+=====================> [[('I feel bad for the migrants', None, None, None, 0), ('who died', None, None, None, 0), ('when the ship', None, None, None, 0), ('which was carrying them sunk .', None, None, None, 1), ('Especially the young ones .', None, None, None, 1), ("Kids should n't have to die like this", None, None, None, 0), ('just trying to take a risk', None, None, None, 0), ('to improve their lives .', None, None, None, 1), ('I am touched by the state of the tiger population .', None, None, None, 1), ('They should never be raised and kept in this fashion .', None, None, None, 1), ('They deserve to be free .', None, None, None, 1), ('On top of this rare species should always be protected .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel bad for the migrants
+Leaf:  N Cause who died
+Leaf:  N Elaborate when the ship
+Leaf:  S span which was carrying them sunk .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Especially the young ones .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Manner-Means Kids should n't have to die like this
+Leaf:  N Enablement just trying to take a risk
+Leaf:  S span to improve their lives .
+Inner:  S span None Enablement NS
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation I am touched by the state of the tiger population .
+Leaf:  N Evaluation They should never be raised and kept in this fashion .
+Leaf:  N Joint They deserve to be free .
+Leaf:  N Joint On top of this rare species should always be protected .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I feel bad for the migrants', None, None, None, 0), ('who died', None, None, None, 0), ('when the ship', None, None, None, 0), ('which was carrying them sunk .', None, None, None, 1), ('Especially the young ones .', None, None, None, 1), ("Kids should n't have to die like this", None, None, None, 0), ('just trying to take a risk', None, None, None, 0), ('to improve their lives .', None, None, None, 1), ('I am touched by the state of the tiger population .', None, None, None, 1), ('They should never be raised and kept in this fashion .', None, None, None, 1), ('They deserve to be free .', None, None, None, 1), ('On top of this rare species should always be protected .', None, None, None, 1)]

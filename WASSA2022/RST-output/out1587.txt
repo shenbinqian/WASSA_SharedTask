@@ -1,0 +1,29 @@
+=====================> [[('I read an article about a man', None, None, None, 0), ("who was caught smashing Donald Trump 's star in Hollywood .", None, None, None, 1), ('He had a sledgehammer', None, None, None, 0), ('and was smashing it .', None, None, None, 1), ('I thought', None, None, None, 0), ('it sounded pretty funny .', None, None, None, 1), ('The article described some of the ways', None, None, None, 0), ('people are protesting ,', None, None, None, 0), ('from covering the star with graffiti , to putting a Bernie Sanders sticker on it ,', None, None, None, 0), ('to putting a barbed wire fence around it .', None, None, None, 1), ("I do n't like that he even has a star ,", None, None, None, 0), ('and I think', None, None, None, 0), ('if I were to go to Hollywood ,', None, None, None, 0), ("I 'd like to do something like this as well .", None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about a man
+Leaf:  S span who was caught smashing Donald Trump 's star in Hollywood .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint He had a sledgehammer
+Leaf:  N Joint and was smashing it .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I thought
+Leaf:  N Attribution it sounded pretty funny .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The article described some of the ways
+Leaf:  S span people are protesting ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint from covering the star with graffiti , to putting a Bernie Sanders sticker on it ,
+Leaf:  N Joint to putting a barbed wire fence around it .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I do n't like that he even has a star ,
+Leaf:  S span and I think
+Leaf:  S span if I were to go to Hollywood ,
+Leaf:  N Condition I 'd like to do something like this as well .
+Inner:  N Attribution None Condition SN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I read an article about a man', None, None, None, 0), ("who was caught smashing Donald Trump 's star in Hollywood .", None, None, None, 1), ('He had a sledgehammer', None, None, None, 0), ('and was smashing it .', None, None, None, 1), ('I thought', None, None, None, 0), ('it sounded pretty funny .', None, None, None, 1), ('The article described some of the ways', None, None, None, 0), ('people are protesting ,', None, None, None, 0), ('from covering the star with graffiti , to putting a Bernie Sanders sticker on it ,', None, None, None, 0), ('to putting a barbed wire fence around it .', None, None, None, 1), ("I do n't like that he even has a star ,", None, None, None, 0), ('and I think', None, None, None, 0), ('if I were to go to Hollywood ,', None, None, None, 0), ("I 'd like to do something like this as well .", None, None, None, 1)]

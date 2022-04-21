@@ -1,0 +1,25 @@
+=====================> [[('I just read about an old couple', None, None, None, 0), ('that died while out in the water .', None, None, None, 1), ('Apparently they may have had some kind of health conditions ,', None, None, None, 0), ('but nobody really knows .', None, None, None, 1), ('The people', None, None, None, 0), ('who checked the bodies', None, None, None, 0), ('think', None, None, None, 0), ('it was probably heart attacks', None, None, None, 0), ('that killed them .', None, None, None, 1), ("Anyway , it 's really scary to think", None, None, None, 0), ('that at any given moment our hearts can just stop working', None, None, None, 0), ('and then we are gone forever .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about an old couple
+Leaf:  S span that died while out in the water .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Attribution Apparently they may have had some kind of health conditions ,
+Leaf:  S span but nobody really knows .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate The people
+Leaf:  S span who checked the bodies
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit think
+Inner:  S span None Same-Unit NN
+Leaf:  N Elaborate it was probably heart attacks
+Leaf:  S span that killed them .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Anyway , it 's really scary to think
+Leaf:  N Temporal that at any given moment our hearts can just stop working
+Leaf:  N Temporal and then we are gone forever .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I just read about an old couple', None, None, None, 0), ('that died while out in the water .', None, None, None, 1), ('Apparently they may have had some kind of health conditions ,', None, None, None, 0), ('but nobody really knows .', None, None, None, 1), ('The people', None, None, None, 0), ('who checked the bodies', None, None, None, 0), ('think', None, None, None, 0), ('it was probably heart attacks', None, None, None, 0), ('that killed them .', None, None, None, 1), ("Anyway , it 's really scary to think", None, None, None, 0), ('that at any given moment our hearts can just stop working', None, None, None, 0), ('and then we are gone forever .', None, None, None, 1)]

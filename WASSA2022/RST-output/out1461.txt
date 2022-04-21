@@ -1,0 +1,27 @@
+=====================> [[('This is an extremely sad story', None, None, None, 0), ('The civilians', None, None, None, 0), ('who lost', None, None, None, 0), ('their did nothing wrong .', None, None, None, 1), ('They did not ask for this war', None, None, None, 0), ('to come to their region .', None, None, None, 1), ('They were mere victims of the misfortune', None, None, None, 0), ('of being born', None, None, None, 0), ('where they were', None, None, None, 0), ('and being where they were', None, None, None, 0), ('when they were .', None, None, None, 1), ('They were no more guilty than you or I .', None, None, None, 1), ('It is extremely sad and disappoints me as an American .', None, None, None, 1)]]
+Leaf:  N Elaborate This is an extremely sad story
+Leaf:  N Elaborate The civilians
+Leaf:  N Manner-Means who lost
+Leaf:  S span their did nothing wrong .
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They did not ask for this war
+Leaf:  S span to come to their region .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They were mere victims of the misfortune
+Leaf:  N Elaborate of being born
+Leaf:  S span where they were
+Inner:  N Joint None Elaborate NS
+Leaf:  N Background and being where they were
+Leaf:  S span when they were .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They were no more guilty than you or I .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is extremely sad and disappoints me as an American .
+Inner:  Root None None Evaluation NS
+[('This is an extremely sad story', None, None, None, 0), ('The civilians', None, None, None, 0), ('who lost', None, None, None, 0), ('their did nothing wrong .', None, None, None, 1), ('They did not ask for this war', None, None, None, 0), ('to come to their region .', None, None, None, 1), ('They were mere victims of the misfortune', None, None, None, 0), ('of being born', None, None, None, 0), ('where they were', None, None, None, 0), ('and being where they were', None, None, None, 0), ('when they were .', None, None, None, 1), ('They were no more guilty than you or I .', None, None, None, 1), ('It is extremely sad and disappoints me as an American .', None, None, None, 1)]

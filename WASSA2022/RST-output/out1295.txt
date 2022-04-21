@@ -1,0 +1,15 @@
+=====================> [[('Lmao why has no one told me about this .', None, None, None, 1), ('This i \\ should be like public information from insurance companies', None, None, None, 0), ('but of course they are trying the most amount of money off of their customers .', None, None, None, 1), ('Us safe drivers are the reason', None, None, None, 0), ('why they are profitable in the first place ,', None, None, None, 0), ('so they could do their part', None, None, None, 0), ('and give us discounts for our safe driving practices', None, None, None, 0)]]
+Leaf:  N Elaborate Lmao why has no one told me about this .
+Leaf:  S span This i \ should be like public information from insurance companies
+Leaf:  N Contrast but of course they are trying the most amount of money off of their customers .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Cause Us safe drivers are the reason
+Leaf:  S span why they are profitable in the first place ,
+Inner:  N Cause None Cause NS
+Leaf:  N Joint so they could do their part
+Leaf:  N Joint and give us discounts for our safe driving practices
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Lmao why has no one told me about this .', None, None, None, 1), ('This i \\ should be like public information from insurance companies', None, None, None, 0), ('but of course they are trying the most amount of money off of their customers .', None, None, None, 1), ('Us safe drivers are the reason', None, None, None, 0), ('why they are profitable in the first place ,', None, None, None, 0), ('so they could do their part', None, None, None, 0), ('and give us discounts for our safe driving practices', None, None, None, 0)]

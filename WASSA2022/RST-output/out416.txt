@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('it is a shame that people still lose their lives on trails .', None, None, None, 1), ('Some do not appreciate the dangers of mother nature', None, None, None, 0), ('and try to best her', None, None, None, 0), ('without realizing', None, None, None, 0), ('what they are up against .', None, None, None, 1), ('It is always important to prepare before you go out on a hike .', None, None, None, 1), ('Without understanding', None, None, None, 0), ('what you are doing ,', None, None, None, 0), ('a person could easily end up lost or dead .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it is a shame that people still lose their lives on trails .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Some do not appreciate the dangers of mother nature
+Leaf:  N Background and try to best her
+Leaf:  S span without realizing
+Leaf:  N Attribution what they are up against .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation It is always important to prepare before you go out on a hike .
+Leaf:  S span Without understanding
+Leaf:  N Attribution what you are doing ,
+Inner:  S span None Attribution SN
+Leaf:  N Manner-Means a person could easily end up lost or dead .
+Inner:  S span None Manner-Means SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('it is a shame that people still lose their lives on trails .', None, None, None, 1), ('Some do not appreciate the dangers of mother nature', None, None, None, 0), ('and try to best her', None, None, None, 0), ('without realizing', None, None, None, 0), ('what they are up against .', None, None, None, 1), ('It is always important to prepare before you go out on a hike .', None, None, None, 1), ('Without understanding', None, None, None, 0), ('what you are doing ,', None, None, None, 0), ('a person could easily end up lost or dead .', None, None, None, 1)]

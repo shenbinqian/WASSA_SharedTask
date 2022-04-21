@@ -1,0 +1,39 @@
+=====================> [[('I just heard', None, None, None, 0), ('that the Editor of Elle magazine killed herself .', None, None, None, 1), ('It is always sad', None, None, None, 0), ('when someone take their own life .', None, None, None, 1), ('What makes this one worse than the usual is that there were chances', None, None, None, 0), ('that she could have been helped', None, None, None, 0), ('but she was turned away .', None, None, None, 1), ('They said', None, None, None, 0), ('that she was " over the worst of it "', None, None, None, 0), ('but other evidence suggests', None, None, None, 0), ('that she was not . To me it seems like people did not want to deal with her for some reason', None, None, None, 0), ('or they were on a small budget', None, None, None, 0), ('and could not afford to treat her', None, None, None, 0), ('so they turned her away . Very sad and very messed up', None, None, None, 0), ('that you turn away', None, None, None, 0), ('someone', None, None, None, 0), ('whop wants helpa dn', None, None, None, 0), ('they then kill themselves .', None, None, None, 1), ('The system needs to be fixed .', None, None, None, 1)]]
+Leaf:  S span I just heard
+Leaf:  N Attribution that the Editor of Elle magazine killed herself .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background It is always sad
+Leaf:  S span when someone take their own life .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate What makes this one worse than the usual is that there were chances
+Leaf:  S span that she could have been helped
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but she was turned away .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span They said
+Leaf:  N Attribution that she was " over the worst of it "
+Inner:  S span None Attribution SN
+Leaf:  S span but other evidence suggests
+Leaf:  N Joint that she was not . To me it seems like people did not want to deal with her for some reason
+Leaf:  N Joint or they were on a small budget
+Leaf:  N Joint and could not afford to treat her
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Explanation so they turned her away . Very sad and very messed up
+Inner:  N Contrast None Explanation SN
+Inner:  N Topic-Comment None Contrast SN
+Leaf:  N Manner-Means that you turn away
+Leaf:  N Elaborate someone
+Leaf:  N Temporal whop wants helpa dn
+Leaf:  N Temporal they then kill themselves .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Manner-Means NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The system needs to be fixed .
+Inner:  Root None None Evaluation NS
+[('I just heard', None, None, None, 0), ('that the Editor of Elle magazine killed herself .', None, None, None, 1), ('It is always sad', None, None, None, 0), ('when someone take their own life .', None, None, None, 1), ('What makes this one worse than the usual is that there were chances', None, None, None, 0), ('that she could have been helped', None, None, None, 0), ('but she was turned away .', None, None, None, 1), ('They said', None, None, None, 0), ('that she was " over the worst of it "', None, None, None, 0), ('but other evidence suggests', None, None, None, 0), ('that she was not . To me it seems like people did not want to deal with her for some reason', None, None, None, 0), ('or they were on a small budget', None, None, None, 0), ('and could not afford to treat her', None, None, None, 0), ('so they turned her away . Very sad and very messed up', None, None, None, 0), ('that you turn away', None, None, None, 0), ('someone', None, None, None, 0), ('whop wants helpa dn', None, None, None, 0), ('they then kill themselves .', None, None, None, 1), ('The system needs to be fixed .', None, None, None, 1)]

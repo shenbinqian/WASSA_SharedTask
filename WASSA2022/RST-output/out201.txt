@@ -1,0 +1,23 @@
+=====================> [[('I saw some heartbreaking news', None, None, None, 0), ('and I could not believe it .', None, None, None, 1), ('Why would defenseless and innocent people be killed over something', None, None, None, 0), ('that they did not do', None, None, None, 0), ('or had no involvement with ?', None, None, None, 1), ('I will never understand', None, None, None, 0), ('why some things in this world are the way', None, None, None, 0), ('that they are .', None, None, None, 1), ('There needs to be change', None, None, None, 0), ('but sadly I do not think', None, None, None, 0), ('we will see it soon .', None, None, None, 1)]]
+Leaf:  N Joint I saw some heartbreaking news
+Leaf:  N Joint and I could not believe it .
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Why would defenseless and innocent people be killed over something
+Leaf:  N Joint that they did not do
+Leaf:  N Joint or had no involvement with ?
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Explanation NS
+Leaf:  S span I will never understand
+Leaf:  N Elaborate why some things in this world are the way
+Leaf:  S span that they are .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span There needs to be change
+Leaf:  S span but sadly I do not think
+Leaf:  N Attribution we will see it soon .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('I saw some heartbreaking news', None, None, None, 0), ('and I could not believe it .', None, None, None, 1), ('Why would defenseless and innocent people be killed over something', None, None, None, 0), ('that they did not do', None, None, None, 0), ('or had no involvement with ?', None, None, None, 1), ('I will never understand', None, None, None, 0), ('why some things in this world are the way', None, None, None, 0), ('that they are .', None, None, None, 1), ('There needs to be change', None, None, None, 0), ('but sadly I do not think', None, None, None, 0), ('we will see it soon .', None, None, None, 1)]

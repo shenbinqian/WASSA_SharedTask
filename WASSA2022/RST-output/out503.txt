@@ -1,0 +1,21 @@
+=====================> [[('Hey , I thought', None, None, None, 0), ('this was an interesting article about males', None, None, None, 0), ('born through medical fertilization .', None, None, None, 1), ('Apparently , these men are also more likely to suffer from the same problems', None, None, None, 0), ('as their fathers did', None, None, None, 0), ('with being able to have babies .', None, None, None, 1), ("It 's sort of sad to think about it .", None, None, None, 1), ('The author suggest using a sperm donor instead ,', None, None, None, 0), ("but I could n't imagine doing that", None, None, None, 0), ('if I was in this situation .', None, None, None, 1)]]
+Leaf:  S span Hey , I thought
+Leaf:  N Elaborate this was an interesting article about males
+Leaf:  S span born through medical fertilization .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Comparison Apparently , these men are also more likely to suffer from the same problems
+Leaf:  N Elaborate as their fathers did
+Leaf:  S span with being able to have babies .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Comparison NS
+Leaf:  S span It 's sort of sad to think about it .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The author suggest using a sperm donor instead ,
+Leaf:  N Condition but I could n't imagine doing that
+Leaf:  S span if I was in this situation .
+Inner:  N Contrast None Condition NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('Hey , I thought', None, None, None, 0), ('this was an interesting article about males', None, None, None, 0), ('born through medical fertilization .', None, None, None, 1), ('Apparently , these men are also more likely to suffer from the same problems', None, None, None, 0), ('as their fathers did', None, None, None, 0), ('with being able to have babies .', None, None, None, 1), ("It 's sort of sad to think about it .", None, None, None, 1), ('The author suggest using a sperm donor instead ,', None, None, None, 0), ("but I could n't imagine doing that", None, None, None, 0), ('if I was in this situation .', None, None, None, 1)]

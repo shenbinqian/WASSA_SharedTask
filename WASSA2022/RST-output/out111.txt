@@ -1,0 +1,21 @@
+=====================> [[('Hi can you believe this ?', None, None, None, 1), ('We have to be very careful with this .', None, None, None, 1), ('You never know', None, None, None, 0), ('what kind of damage', None, None, None, 0), ('you can receive', None, None, None, 0), ('in your eyes', None, None, None, 0), ('from having these infections .', None, None, None, 1), ('I would never want to this to happen to me or my daughter .', None, None, None, 1), ('I will have to really take care of my our lenses from now and on', None, None, None, 0), ('to prevent any damage .', None, None, None, 1)]]
+Leaf:  N Evaluation Hi can you believe this ?
+Leaf:  N Elaborate We have to be very careful with this .
+Leaf:  S span You never know
+Leaf:  N Elaborate what kind of damage
+Leaf:  S span you can receive
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Cause in your eyes
+Leaf:  S span from having these infections .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation I would never want to this to happen to me or my daughter .
+Leaf:  N Enablement I will have to really take care of my our lenses from now and on
+Leaf:  S span to prevent any damage .
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hi can you believe this ?', None, None, None, 1), ('We have to be very careful with this .', None, None, None, 1), ('You never know', None, None, None, 0), ('what kind of damage', None, None, None, 0), ('you can receive', None, None, None, 0), ('in your eyes', None, None, None, 0), ('from having these infections .', None, None, None, 1), ('I would never want to this to happen to me or my daughter .', None, None, None, 1), ('I will have to really take care of my our lenses from now and on', None, None, None, 0), ('to prevent any damage .', None, None, None, 1)]

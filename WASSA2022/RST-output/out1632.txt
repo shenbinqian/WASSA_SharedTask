@@ -1,0 +1,27 @@
+=====================> [[('So apparently Russia sent a bunch of bombs on a school in Syria .', None, None, None, 1), ('It killed like 22 kids .', None, None, None, 1), ('Now the Russian government is trying to say', None, None, None, 0), ('it never happened .', None, None, None, 1), ('They even showed satellite images of another place', None, None, None, 0), ('and claimed', None, None, None, 0), ('it was there .', None, None, None, 1), ('Some organization', None, None, None, 0), ('called HRW ( Human Rights Watch )', None, None, None, 0), ('had evidence', None, None, None, 0), ('to show otherwise .', None, None, None, 1), ('They even had images of the same type of aircraft', None, None, None, 0), ('that the Russians use .', None, None, None, 1)]]
+Leaf:  N Cause So apparently Russia sent a bunch of bombs on a school in Syria .
+Leaf:  S span It killed like 22 kids .
+Inner:  S span None Cause NS
+Leaf:  S span Now the Russian government is trying to say
+Leaf:  N Attribution it never happened .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint They even showed satellite images of another place
+Leaf:  S span and claimed
+Leaf:  N Attribution it was there .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Some organization
+Leaf:  S span called HRW ( Human Rights Watch )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate had evidence
+Leaf:  S span to show otherwise .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate They even had images of the same type of aircraft
+Leaf:  S span that the Russians use .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('So apparently Russia sent a bunch of bombs on a school in Syria .', None, None, None, 1), ('It killed like 22 kids .', None, None, None, 1), ('Now the Russian government is trying to say', None, None, None, 0), ('it never happened .', None, None, None, 1), ('They even showed satellite images of another place', None, None, None, 0), ('and claimed', None, None, None, 0), ('it was there .', None, None, None, 1), ('Some organization', None, None, None, 0), ('called HRW ( Human Rights Watch )', None, None, None, 0), ('had evidence', None, None, None, 0), ('to show otherwise .', None, None, None, 1), ('They even had images of the same type of aircraft', None, None, None, 0), ('that the Russians use .', None, None, None, 1)]

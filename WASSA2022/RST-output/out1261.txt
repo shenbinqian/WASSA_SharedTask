@@ -1,0 +1,39 @@
+=====================> [[('I always hear about Syria', None, None, None, 0), ('but I never knew', None, None, None, 0), ('how bad it was for older people .', None, None, None, 1), ('Some of them did not want to leave', None, None, None, 0), ("and now they ca n't get out at all .", None, None, None, 1), ('There are barely any medical services at all . Hardly anything', None, None, None, 0), ("to help with all the old age medical conditions that show up later in life . These people do n't have enough food .", None, None, None, 1), ('They are scared', None, None, None, 0), ("they will die alone . I do n't think many people have thought about this . I am so heartbroken for those people .", None, None, None, 1), ('I wish I could help them .', None, None, None, 1), ('Syria is such a mess .', None, None, None, 1), ('I pray', None, None, None, 0), ('somehow this can all come to a end soon . Too many deaths have occurred . These older people never thought', None, None, None, 0), ('they would have to live like this .', None, None, None, 1), ('Everything was normal until the war for them . I think', None, None, None, 0), ('more people need to know about the older people', None, None, None, 0), ('living in Syria .', None, None, None, 1), ('They are just left there', None, None, None, 0), ('to suffer .', None, None, None, 1)]]
+Leaf:  N Contrast I always hear about Syria
+Leaf:  S span but I never knew
+Leaf:  N Attribution how bad it was for older people .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Temporal Some of them did not want to leave
+Leaf:  N Temporal and now they ca n't get out at all .
+Inner:  S span None Temporal NN
+Inner:  N Contrast None Explanation NS
+Inner:  N Summary None Contrast NN
+Leaf:  N Elaborate There are barely any medical services at all . Hardly anything
+Leaf:  S span to help with all the old age medical conditions that show up later in life . These people do n't have enough food .
+Inner:  N Joint None Elaborate NS
+Leaf:  S span They are scared
+Leaf:  N Attribution they will die alone . I do n't think many people have thought about this . I am so heartbroken for those people .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I wish I could help them .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation Syria is such a mess .
+Leaf:  S span I pray
+Leaf:  S span somehow this can all come to a end soon . Too many deaths have occurred . These older people never thought
+Leaf:  N Attribution they would have to live like this .
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  S span Everything was normal until the war for them . I think
+Leaf:  N Elaborate more people need to know about the older people
+Leaf:  S span living in Syria .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement They are just left there
+Leaf:  S span to suffer .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I always hear about Syria', None, None, None, 0), ('but I never knew', None, None, None, 0), ('how bad it was for older people .', None, None, None, 1), ('Some of them did not want to leave', None, None, None, 0), ("and now they ca n't get out at all .", None, None, None, 1), ('There are barely any medical services at all . Hardly anything', None, None, None, 0), ("to help with all the old age medical conditions that show up later in life . These people do n't have enough food .", None, None, None, 1), ('They are scared', None, None, None, 0), ("they will die alone . I do n't think many people have thought about this . I am so heartbroken for those people .", None, None, None, 1), ('I wish I could help them .', None, None, None, 1), ('Syria is such a mess .', None, None, None, 1), ('I pray', None, None, None, 0), ('somehow this can all come to a end soon . Too many deaths have occurred . These older people never thought', None, None, None, 0), ('they would have to live like this .', None, None, None, 1), ('Everything was normal until the war for them . I think', None, None, None, 0), ('more people need to know about the older people', None, None, None, 0), ('living in Syria .', None, None, None, 1), ('They are just left there', None, None, None, 0), ('to suffer .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('It ’s a shame', None, None, None, 0), ('that Nevada is going through this .', None, None, None, 1), ('It is a beautiful state .', None, None, None, 1), ('I really feel for the reservations .', None, None, None, 1), ('They have no where to go .', None, None, None, 1), ('They rely on water as a way of life .', None, None, None, 1), ('They have animals', None, None, None, 0), ('that need water .', None, None, None, 1), ('I do n’t really know', None, None, None, 0), ('what can be done .', None, None, None, 1), ('Maybe we should address climate change .', None, None, None, 1), ('It is definitely happening .', None, None, None, 1)]]
+Leaf:  S span It ’s a shame
+Leaf:  N Attribution that Nevada is going through this .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is a beautiful state .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation I really feel for the reservations .
+Leaf:  N Joint They have no where to go .
+Leaf:  N Joint They rely on water as a way of life .
+Leaf:  N Elaborate They have animals
+Leaf:  S span that need water .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  S span I do n’t really know
+Leaf:  N Attribution what can be done .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Maybe we should address climate change .
+Leaf:  S span It is definitely happening .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It ’s a shame', None, None, None, 0), ('that Nevada is going through this .', None, None, None, 1), ('It is a beautiful state .', None, None, None, 1), ('I really feel for the reservations .', None, None, None, 1), ('They have no where to go .', None, None, None, 1), ('They rely on water as a way of life .', None, None, None, 1), ('They have animals', None, None, None, 0), ('that need water .', None, None, None, 1), ('I do n’t really know', None, None, None, 0), ('what can be done .', None, None, None, 1), ('Maybe we should address climate change .', None, None, None, 1), ('It is definitely happening .', None, None, None, 1)]

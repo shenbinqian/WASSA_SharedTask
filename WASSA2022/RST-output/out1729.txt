@@ -1,0 +1,35 @@
+=====================> [[('Hello !', None, None, None, 1), ('This is why you follow the rules at our National Parks !', None, None, None, 1), ('This is a terrible tragedy', None, None, None, 0), ('that could have easily been avoided .', None, None, None, 1), ('I was young once ,', None, None, None, 0), ('and I did plenty of reckless things .', None, None, None, 1), ('I understand ,', None, None, None, 0), ("maybe the boy was just trying to check the temperature . Maybe he did n't believe the signs ,", None, None, None, 0), ('or he thought', None, None, None, 0), ('it would be cool to do what no one else has done . His poor sister ! To see that happen !', None, None, None, 1), ('To see her own brother boil to death .', None, None, None, 1), ("I ca n't imagine how gruesome that must have been .", None, None, None, 1), ("I just ca n't believe", None, None, None, 0), ("they could n't get his body until the next day ...", None, None, None, 1), ('and the next day it was gone !', None, None, None, 1), ('This is a huge lesson for anyone', None, None, None, 0), ('that is young and reckless !', None, None, None, 1)]]
+Leaf:  N Joint Hello !
+Leaf:  N Joint This is why you follow the rules at our National Parks !
+Inner:  N Textual-Organization None Joint NN
+Leaf:  N Elaborate This is a terrible tragedy
+Leaf:  S span that could have easily been avoided .
+Inner:  N Background None Elaborate NS
+Leaf:  N Joint I was young once ,
+Leaf:  N Joint and I did plenty of reckless things .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I understand ,
+Leaf:  N Joint maybe the boy was just trying to check the temperature . Maybe he did n't believe the signs ,
+Leaf:  S span or he thought
+Leaf:  N Attribution it would be cool to do what no one else has done . His poor sister ! To see that happen !
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Cause None Attribution SN
+Leaf:  S span To see her own brother boil to death .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Joint I ca n't imagine how gruesome that must have been .
+Leaf:  S span I just ca n't believe
+Leaf:  N Attribution they could n't get his body until the next day ...
+Inner:  N Temporal None Attribution SN
+Leaf:  N Temporal and the next day it was gone !
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This is a huge lesson for anyone
+Leaf:  S span that is young and reckless !
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Background NS
+Inner:  Root None None Textual-Organization NN
+[('Hello !', None, None, None, 1), ('This is why you follow the rules at our National Parks !', None, None, None, 1), ('This is a terrible tragedy', None, None, None, 0), ('that could have easily been avoided .', None, None, None, 1), ('I was young once ,', None, None, None, 0), ('and I did plenty of reckless things .', None, None, None, 1), ('I understand ,', None, None, None, 0), ("maybe the boy was just trying to check the temperature . Maybe he did n't believe the signs ,", None, None, None, 0), ('or he thought', None, None, None, 0), ('it would be cool to do what no one else has done . His poor sister ! To see that happen !', None, None, None, 1), ('To see her own brother boil to death .', None, None, None, 1), ("I ca n't imagine how gruesome that must have been .", None, None, None, 1), ("I just ca n't believe", None, None, None, 0), ("they could n't get his body until the next day ...", None, None, None, 1), ('and the next day it was gone !', None, None, None, 1), ('This is a huge lesson for anyone', None, None, None, 0), ('that is young and reckless !', None, None, None, 1)]

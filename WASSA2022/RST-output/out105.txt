@@ -1,0 +1,19 @@
+=====================> [[('All the unrest in the Middle East has me really concerned', None, None, None, 0), ('with my son being deployed over there .', None, None, None, 1), ("There 's so much going on in Saudi Arabia and neighboring countries", None, None, None, 0), ("and I 'm so worried", None, None, None, 0), ('he will end up right in the middle of it all .', None, None, None, 1), ('Please say a prayer', None, None, None, 0), ('that he is safe over there', None, None, None, 0), ('and that nothing bad happens', None, None, None, 0), ('while he is there !', None, None, None, 1)]]
+Leaf:  N Background All the unrest in the Middle East has me really concerned
+Leaf:  S span with my son being deployed over there .
+Inner:  N Explanation None Background NS
+Leaf:  S span There 's so much going on in Saudi Arabia and neighboring countries
+Leaf:  S span and I 'm so worried
+Leaf:  N Attribution he will end up right in the middle of it all .
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause SN
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  S span Please say a prayer
+Leaf:  N Joint that he is safe over there
+Leaf:  N Temporal and that nothing bad happens
+Leaf:  S span while he is there !
+Inner:  N Joint None Temporal NS
+Inner:  N Attribution None Joint NN
+Inner:  N Topic-Comment None Attribution SN
+Inner:  Root None None Topic-Comment NN
+[('All the unrest in the Middle East has me really concerned', None, None, None, 0), ('with my son being deployed over there .', None, None, None, 1), ("There 's so much going on in Saudi Arabia and neighboring countries", None, None, None, 0), ("and I 'm so worried", None, None, None, 0), ('he will end up right in the middle of it all .', None, None, None, 1), ('Please say a prayer', None, None, None, 0), ('that he is safe over there', None, None, None, 0), ('and that nothing bad happens', None, None, None, 0), ('while he is there !', None, None, None, 1)]

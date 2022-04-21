@@ -1,0 +1,23 @@
+=====================> [[('This article was so sad .', None, None, None, 1), ('I guess ISIS had killed many people recently in israel .', None, None, None, 1), ('They were very rude about it', None, None, None, 0), ('and many people were at high tension', None, None, None, 0), ('worried', None, None, None, 0), ('they had bombs or traps set up', None, None, None, 0), ('as they were recovering', None, None, None, 0), ('and looking for more bodies .', None, None, None, 1), ('They said', None, None, None, 0), ('the people of ISIS just dumped there bodies', None, None, None, 0), ('as if they were trash .', None, None, None, 1)]]
+Leaf:  N Explanation This article was so sad .
+Leaf:  N Elaborate I guess ISIS had killed many people recently in israel .
+Leaf:  N Joint They were very rude about it
+Leaf:  N Joint and many people were at high tension
+Inner:  N Elaborate None Joint NN
+Leaf:  S span worried
+Leaf:  N Attribution they had bombs or traps set up
+Inner:  N Temporal None Attribution SN
+Leaf:  N Joint as they were recovering
+Leaf:  N Joint and looking for more bodies .
+Inner:  S span None Joint NN
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They said
+Leaf:  N Manner-Means the people of ISIS just dumped there bodies
+Leaf:  S span as if they were trash .
+Inner:  N Attribution None Manner-Means NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This article was so sad .', None, None, None, 1), ('I guess ISIS had killed many people recently in israel .', None, None, None, 1), ('They were very rude about it', None, None, None, 0), ('and many people were at high tension', None, None, None, 0), ('worried', None, None, None, 0), ('they had bombs or traps set up', None, None, None, 0), ('as they were recovering', None, None, None, 0), ('and looking for more bodies .', None, None, None, 1), ('They said', None, None, None, 0), ('the people of ISIS just dumped there bodies', None, None, None, 0), ('as if they were trash .', None, None, None, 1)]

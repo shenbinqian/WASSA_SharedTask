@@ -1,0 +1,21 @@
+=====================> [[('I am shocked and saddened by this earthquake .', None, None, None, 1), ('What a sad and terrible tragedy .', None, None, None, 1), ('I feel so sorry for all the victims and those', None, None, None, 0), ('affected by this event .', None, None, None, 1), ("I ca n't even imagine", None, None, None, 0), ('how devastating this must be for them . What an incredible catastrophe . My thoughts and prayers and best wishes go out for all the many people', None, None, None, 0), ('affected by this tragic catastrophe .', None, None, None, 1), ('I hope', None, None, None, 0), ('that everyone stays safe for the foreseeable future .', None, None, None, 1), ('I am still in shock .', None, None, None, 1)]]
+Leaf:  N Evaluation I am shocked and saddened by this earthquake .
+Leaf:  N Evaluation What a sad and terrible tragedy .
+Leaf:  N Elaborate I feel so sorry for all the victims and those
+Leaf:  S span affected by this event .
+Inner:  N Summary None Elaborate NS
+Leaf:  S span I ca n't even imagine
+Leaf:  N Elaborate how devastating this must be for them . What an incredible catastrophe . My thoughts and prayers and best wishes go out for all the many people
+Leaf:  S span affected by this tragic catastrophe .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution that everyone stays safe for the foreseeable future .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I am still in shock .
+Inner:  Root None None Elaborate NS
+[('I am shocked and saddened by this earthquake .', None, None, None, 1), ('What a sad and terrible tragedy .', None, None, None, 1), ('I feel so sorry for all the victims and those', None, None, None, 0), ('affected by this event .', None, None, None, 1), ("I ca n't even imagine", None, None, None, 0), ('how devastating this must be for them . What an incredible catastrophe . My thoughts and prayers and best wishes go out for all the many people', None, None, None, 0), ('affected by this tragic catastrophe .', None, None, None, 1), ('I hope', None, None, None, 0), ('that everyone stays safe for the foreseeable future .', None, None, None, 1), ('I am still in shock .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('This feels so typical .', None, None, None, 1), ('The burden of safe sex has fallen to the woman for decades ,', None, None, None, 0), ('ever since the oral contraceptive was introduced .', None, None, None, 1), ('Women frequently have to decide between accepting disturbing side effects', None, None, None, 0), ('or accepting the risk of pregnancy ,', None, None, None, 0), ('whereas men have never had to make that choice .', None, None, None, 1), ('There will never be true equality', None, None, None, 0), ('until men and women face the risks and consequences of sex equally .', None, None, None, 1)]]
+Leaf:  N Explanation This feels so typical .
+Leaf:  N Background The burden of safe sex has fallen to the woman for decades ,
+Leaf:  S span ever since the oral contraceptive was introduced .
+Inner:  N Cause None Background NS
+Leaf:  N Joint Women frequently have to decide between accepting disturbing side effects
+Leaf:  N Joint or accepting the risk of pregnancy ,
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast whereas men have never had to make that choice .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Condition There will never be true equality
+Leaf:  S span until men and women face the risks and consequences of sex equally .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Cause NS
+Inner:  Root None None Explanation NS
+[('This feels so typical .', None, None, None, 1), ('The burden of safe sex has fallen to the woman for decades ,', None, None, None, 0), ('ever since the oral contraceptive was introduced .', None, None, None, 1), ('Women frequently have to decide between accepting disturbing side effects', None, None, None, 0), ('or accepting the risk of pregnancy ,', None, None, None, 0), ('whereas men have never had to make that choice .', None, None, None, 1), ('There will never be true equality', None, None, None, 0), ('until men and women face the risks and consequences of sex equally .', None, None, None, 1)]

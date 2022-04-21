@@ -1,0 +1,33 @@
+=====================> [[('While I do sympathize with the plight of back people and latest police violence ,', None, None, None, 0), ('I think', None, None, None, 0), ('that they are not helping the situation', None, None, None, 0), ('by engaging in violent protests', None, None, None, 0), ('that take even more lives', None, None, None, 0), ('and create a great deal of disturbance in USA !', None, None, None, 1), ('These protests ignite racial tensions', None, None, None, 0), ('but will not bring back the lives of innocent victims .', None, None, None, 1), ('What needs to be done here is clamping tight on the police force-punishing them appropriately and in the harshest of form', None, None, None, 0), ('if they take an innocent life', None, None, None, 0), ('or harass black people for no reason !', None, None, None, 1), ('They need to undergo training and psychological evaluation', None, None, None, 0), ('before being allowed to go out there', None, None, None, 0), ('and deal with criminals !', None, None, None, 1), ('They need to be psychologically stable and clear of racial bias ,', None, None, None, 0), ('otherwise they are not suitable for this job !', None, None, None, 1)]]
+Leaf:  S span While I do sympathize with the plight of back people and latest police violence ,
+Leaf:  S span I think
+Leaf:  N Manner-Means that they are not helping the situation
+Leaf:  N Elaborate by engaging in violent protests
+Leaf:  N Joint that take even more lives
+Leaf:  N Joint and create a great deal of disturbance in USA !
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Contrast These protests ignite racial tensions
+Leaf:  N Contrast but will not bring back the lives of innocent victims .
+Inner:  S span None Contrast NN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Condition What needs to be done here is clamping tight on the police force-punishing them appropriately and in the harshest of form
+Leaf:  N Joint if they take an innocent life
+Leaf:  N Joint or harass black people for no reason !
+Inner:  S span None Joint NN
+Inner:  N Joint None Condition NS
+Leaf:  S span They need to undergo training and psychological evaluation
+Leaf:  N Joint before being allowed to go out there
+Leaf:  N Joint and deal with criminals !
+Inner:  N Temporal None Joint NN
+Inner:  N Joint None Temporal SN
+Leaf:  S span They need to be psychologically stable and clear of racial bias ,
+Leaf:  N Condition otherwise they are not suitable for this job !
+Inner:  N Joint None Condition SN
+Inner:  N Joint None Joint NN
+Inner:  N Topic-Comment None Joint NN
+Inner:  Root None None Topic-Comment NN
+[('While I do sympathize with the plight of back people and latest police violence ,', None, None, None, 0), ('I think', None, None, None, 0), ('that they are not helping the situation', None, None, None, 0), ('by engaging in violent protests', None, None, None, 0), ('that take even more lives', None, None, None, 0), ('and create a great deal of disturbance in USA !', None, None, None, 1), ('These protests ignite racial tensions', None, None, None, 0), ('but will not bring back the lives of innocent victims .', None, None, None, 1), ('What needs to be done here is clamping tight on the police force-punishing them appropriately and in the harshest of form', None, None, None, 0), ('if they take an innocent life', None, None, None, 0), ('or harass black people for no reason !', None, None, None, 1), ('They need to undergo training and psychological evaluation', None, None, None, 0), ('before being allowed to go out there', None, None, None, 0), ('and deal with criminals !', None, None, None, 1), ('They need to be psychologically stable and clear of racial bias ,', None, None, None, 0), ('otherwise they are not suitable for this job !', None, None, None, 1)]

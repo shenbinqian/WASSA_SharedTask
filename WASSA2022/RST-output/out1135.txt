@@ -1,0 +1,31 @@
+=====================> [[('Tourist', None, None, None, 0), ('who claimed', None, None, None, 0), ('she was raped in Dubai is charged with extramarital sex —', None, None, None, 0), ('A British tourist', None, None, None, 0), ('allegedly raped by two men in Dubai', None, None, None, 0), ('faces jail', None, None, None, 0), ('after cops accused her of sex outside marriage .', None, None, None, 1), ('The woman , 25 , claims', None, None, None, 0), ('she was attacked by two U.K. men last month .', None, None, None, 1), ('But', None, None, None, 0), ('when she reported it ,', None, None, None, 0), ('she was locked up and charged with “ extramarital sex ” .', None, None, None, 1), ('She is on bail', None, None, None, 0), ('but is not allowed to leave', None, None, None, 0), ('and needs $ 30,000 for legal fees .', None, None, None, 1)]]
+Leaf:  N Elaborate Tourist
+Leaf:  S span who claimed
+Leaf:  N Attribution she was raped in Dubai is charged with extramarital sex —
+Inner:  S span None Attribution SN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate A British tourist
+Leaf:  S span allegedly raped by two men in Dubai
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Background faces jail
+Leaf:  S span after cops accused her of sex outside marriage .
+Inner:  N Same-Unit None Background NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span The woman , 25 , claims
+Leaf:  N Attribution she was attacked by two U.K. men last month .
+Inner:  N Contrast None Attribution SN
+Leaf:  N Same-Unit But
+Leaf:  S span when she reported it ,
+Leaf:  N Background she was locked up and charged with “ extramarital sex ” .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint She is on bail
+Leaf:  N Joint but is not allowed to leave
+Leaf:  N Joint and needs $ 30,000 for legal fees .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Tourist', None, None, None, 0), ('who claimed', None, None, None, 0), ('she was raped in Dubai is charged with extramarital sex —', None, None, None, 0), ('A British tourist', None, None, None, 0), ('allegedly raped by two men in Dubai', None, None, None, 0), ('faces jail', None, None, None, 0), ('after cops accused her of sex outside marriage .', None, None, None, 1), ('The woman , 25 , claims', None, None, None, 0), ('she was attacked by two U.K. men last month .', None, None, None, 1), ('But', None, None, None, 0), ('when she reported it ,', None, None, None, 0), ('she was locked up and charged with “ extramarital sex ” .', None, None, None, 1), ('She is on bail', None, None, None, 0), ('but is not allowed to leave', None, None, None, 0), ('and needs $ 30,000 for legal fees .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I had to read another article with zero formatting for a survey .', None, None, None, 1), ('This one was about war in the Middle East .', None, None, None, 1), ('It was pretty depressing to read .', None, None, None, 1), ('Religion makes people do such horrible , hateful , stupid things .', None, None, None, 1), ('Apparently kids just pick up explosives ,', None, None, None, 0), ('people get their heads blown off ,', None, None, None, 0), ("little girls die for no reason . For what ? Because someone 's imaginary friend in the sky is slightly different from their imaginary friend in the sky ?", None, None, None, 1), ('Ridiculous , disgusting .', None, None, None, 1), ('Imagine what these people could have accomplished', None, None, None, 0), ('if they dedicated themselves to knowledge instead .', None, None, None, 1), ('We could be on other planets ,', None, None, None, 0), ('we could live for thousands of years or more .', None, None, None, 1), ('But nope , we \'d rather hate and murder each other of something as stupid as " God " or " Allah . "', None, None, None, 0)]]
+Leaf:  N Elaborate I had to read another article with zero formatting for a survey .
+Leaf:  S span This one was about war in the Middle East .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It was pretty depressing to read .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Religion makes people do such horrible , hateful , stupid things .
+Leaf:  N Joint Apparently kids just pick up explosives ,
+Leaf:  N Joint people get their heads blown off ,
+Leaf:  N Joint little girls die for no reason . For what ? Because someone 's imaginary friend in the sky is slightly different from their imaginary friend in the sky ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Ridiculous , disgusting .
+Leaf:  N Condition Imagine what these people could have accomplished
+Leaf:  S span if they dedicated themselves to knowledge instead .
+Inner:  N Elaborate None Condition NS
+Leaf:  N Joint We could be on other planets ,
+Leaf:  N Joint we could live for thousands of years or more .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast But nope , we 'd rather hate and murder each other of something as stupid as " God " or " Allah . "
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I had to read another article with zero formatting for a survey .', None, None, None, 1), ('This one was about war in the Middle East .', None, None, None, 1), ('It was pretty depressing to read .', None, None, None, 1), ('Religion makes people do such horrible , hateful , stupid things .', None, None, None, 1), ('Apparently kids just pick up explosives ,', None, None, None, 0), ('people get their heads blown off ,', None, None, None, 0), ("little girls die for no reason . For what ? Because someone 's imaginary friend in the sky is slightly different from their imaginary friend in the sky ?", None, None, None, 1), ('Ridiculous , disgusting .', None, None, None, 1), ('Imagine what these people could have accomplished', None, None, None, 0), ('if they dedicated themselves to knowledge instead .', None, None, None, 1), ('We could be on other planets ,', None, None, None, 0), ('we could live for thousands of years or more .', None, None, None, 1), ('But nope , we \'d rather hate and murder each other of something as stupid as " God " or " Allah . "', None, None, None, 0)]

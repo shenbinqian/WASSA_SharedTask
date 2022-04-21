@@ -1,0 +1,17 @@
+=====================> [[('a 6.4 magnitude on the richter scale earthquake hasshaken up the whole capital of santiago , chile .', None, None, None, 1), ('chile is very propense to earthquakes and natural disasters .', None, None, None, 1), ('we have heard of an earthquake', None, None, None, 0), ('that scaled out to be 8.8', None, None, None, 0), ('and destroyes over 200 thousand homes in chile .', None, None, None, 1), ('i feel very bad for the people', None, None, None, 0), ('who died .', None, None, None, 1), ('and send out my compassion to the family of the 55 dead in this earthquake .', None, None, None, 1)]]
+Leaf:  N Explanation a 6.4 magnitude on the richter scale earthquake hasshaken up the whole capital of santiago , chile .
+Leaf:  S span chile is very propense to earthquakes and natural disasters .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate we have heard of an earthquake
+Leaf:  N Joint that scaled out to be 8.8
+Leaf:  N Joint and destroyes over 200 thousand homes in chile .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate i feel very bad for the people
+Leaf:  S span who died .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and send out my compassion to the family of the 55 dead in this earthquake .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('a 6.4 magnitude on the richter scale earthquake hasshaken up the whole capital of santiago , chile .', None, None, None, 1), ('chile is very propense to earthquakes and natural disasters .', None, None, None, 1), ('we have heard of an earthquake', None, None, None, 0), ('that scaled out to be 8.8', None, None, None, 0), ('and destroyes over 200 thousand homes in chile .', None, None, None, 1), ('i feel very bad for the people', None, None, None, 0), ('who died .', None, None, None, 1), ('and send out my compassion to the family of the 55 dead in this earthquake .', None, None, None, 1)]

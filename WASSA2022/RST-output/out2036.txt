@@ -1,0 +1,27 @@
+=====================> [[('It is very alarming to my spirit that humans', None, None, None, 0), ('who were once adopted by American citizens', None, None, None, 0), ('would be scrutinized for no reason of their own doing .', None, None, None, 1), ('There is so many things wrong with the American system', None, None, None, 0), ('of adopting children from other countries .', None, None, None, 1), ('If we are going to adopt children from other countries as Americans ,', None, None, None, 0), ('they should be granted their citizenship immediately upon being adopted .', None, None, None, 1), ('Before another adoption takes place', None, None, None, 0), ('that involves American parents , and innocent children from another country ,', None, None, None, 0), ('there needs to be new rules , regulations , and laws', None, None, None, 0), ('mandated for the protection of these children and families', None, None, None, 0), ('of what can be deemed as a sloppy American adoption system .', None, None, None, 1), ("Let 's fix it right away .", None, None, None, 1)]]
+Leaf:  N Elaborate It is very alarming to my spirit that humans
+Leaf:  S span who were once adopted by American citizens
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would be scrutinized for no reason of their own doing .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Elaborate There is so many things wrong with the American system
+Leaf:  S span of adopting children from other countries .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span If we are going to adopt children from other countries as Americans ,
+Leaf:  N Condition they should be granted their citizenship immediately upon being adopted .
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Before another adoption takes place
+Leaf:  S span that involves American parents , and innocent children from another country ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate there needs to be new rules , regulations , and laws
+Leaf:  S span mandated for the protection of these children and families
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit of what can be deemed as a sloppy American adoption system .
+Inner:  N Condition None Same-Unit NN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Leaf:  N Background Let 's fix it right away .
+Inner:  Root None None Background SN
+[('It is very alarming to my spirit that humans', None, None, None, 0), ('who were once adopted by American citizens', None, None, None, 0), ('would be scrutinized for no reason of their own doing .', None, None, None, 1), ('There is so many things wrong with the American system', None, None, None, 0), ('of adopting children from other countries .', None, None, None, 1), ('If we are going to adopt children from other countries as Americans ,', None, None, None, 0), ('they should be granted their citizenship immediately upon being adopted .', None, None, None, 1), ('Before another adoption takes place', None, None, None, 0), ('that involves American parents , and innocent children from another country ,', None, None, None, 0), ('there needs to be new rules , regulations , and laws', None, None, None, 0), ('mandated for the protection of these children and families', None, None, None, 0), ('of what can be deemed as a sloppy American adoption system .', None, None, None, 1), ("Let 's fix it right away .", None, None, None, 1)]

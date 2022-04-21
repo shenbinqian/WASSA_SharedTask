@@ -1,0 +1,15 @@
+=====================> [[('Unfortunately , I have a yahoo email account', None, None, None, 0), ('and of course I am worried about my information being stolen . Fortunately for me though , I never really used that information for personal reasons ,', None, None, None, 0), ('i mainly used it for a junk email ,', None, None, None, 0), ('so there would be no real important information', None, None, None, 0), ('that one could steal from me .', None, None, None, 1), ('But this also makes me worried', None, None, None, 0), ('that any other email sites , like gmail , hotmail etc could just as easy be hacked .', None, None, None, 1)]]
+Leaf:  S span Unfortunately , I have a yahoo email account
+Leaf:  N Evaluation and of course I am worried about my information being stolen . Fortunately for me though , I never really used that information for personal reasons ,
+Leaf:  N Evaluation i mainly used it for a junk email ,
+Inner:  N Cause None Evaluation NN
+Leaf:  N Elaborate so there would be no real important information
+Leaf:  S span that one could steal from me .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Cause NS
+Inner:  N Evaluation None Cause SN
+Leaf:  S span But this also makes me worried
+Leaf:  N Attribution that any other email sites , like gmail , hotmail etc could just as easy be hacked .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Unfortunately , I have a yahoo email account', None, None, None, 0), ('and of course I am worried about my information being stolen . Fortunately for me though , I never really used that information for personal reasons ,', None, None, None, 0), ('i mainly used it for a junk email ,', None, None, None, 0), ('so there would be no real important information', None, None, None, 0), ('that one could steal from me .', None, None, None, 1), ('But this also makes me worried', None, None, None, 0), ('that any other email sites , like gmail , hotmail etc could just as easy be hacked .', None, None, None, 1)]

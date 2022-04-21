@@ -1,0 +1,35 @@
+=====================> [[('I just read this article about a really bad accident', None, None, None, 0), ('that happened at a water park .', None, None, None, 1), ('Apparently , the ride malfunctioned', None, None, None, 0), ('and threw some kids from the ride', None, None, None, 0), ('and the parents were stuck in the raft', None, None, None, 0), ('and they were stuck underwater', None, None, None, 0), ('and were hitting the machinery below .', None, None, None, 1), ('Everyone kept talking', None, None, None, 0), ('about how horrific it was', None, None, None, 0), ('and what a terrible tragedy it was . I feel really bad for these people', None, None, None, 0), ('and it really makes you wonder', None, None, None, 0), ('if you should go to a park ever again .', None, None, None, 1), ("You 're suppose to have fun at these places", None, None, None, 0), ('but you never really ever think about actually getting hurt', None, None, None, 0), ('when you get on these rides .', None, None, None, 1), ('Those poor people , they just wanted to have a nice afternoon', None, None, None, 0), ('and it just ended so badly .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about a really bad accident
+Leaf:  S span that happened at a water park .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Apparently , the ride malfunctioned
+Leaf:  N Joint and threw some kids from the ride
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and the parents were stuck in the raft
+Leaf:  N Joint and they were stuck underwater
+Leaf:  N Joint and were hitting the machinery below .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Cause None Joint NN
+Leaf:  S span Everyone kept talking
+Leaf:  N Joint about how horrific it was
+Leaf:  N Joint and what a terrible tragedy it was . I feel really bad for these people
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span and it really makes you wonder
+Leaf:  N Attribution if you should go to a park ever again .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast You 're suppose to have fun at these places
+Leaf:  N Background but you never really ever think about actually getting hurt
+Leaf:  S span when you get on these rides .
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Those poor people , they just wanted to have a nice afternoon
+Leaf:  N Contrast and it just ended so badly .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I just read this article about a really bad accident', None, None, None, 0), ('that happened at a water park .', None, None, None, 1), ('Apparently , the ride malfunctioned', None, None, None, 0), ('and threw some kids from the ride', None, None, None, 0), ('and the parents were stuck in the raft', None, None, None, 0), ('and they were stuck underwater', None, None, None, 0), ('and were hitting the machinery below .', None, None, None, 1), ('Everyone kept talking', None, None, None, 0), ('about how horrific it was', None, None, None, 0), ('and what a terrible tragedy it was . I feel really bad for these people', None, None, None, 0), ('and it really makes you wonder', None, None, None, 0), ('if you should go to a park ever again .', None, None, None, 1), ("You 're suppose to have fun at these places", None, None, None, 0), ('but you never really ever think about actually getting hurt', None, None, None, 0), ('when you get on these rides .', None, None, None, 1), ('Those poor people , they just wanted to have a nice afternoon', None, None, None, 0), ('and it just ended so badly .', None, None, None, 1)]

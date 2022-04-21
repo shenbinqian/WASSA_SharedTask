@@ -1,0 +1,27 @@
+=====================> [[('I saw a horrible story about a turtle on line today .', None, None, None, 1), ('A man took a hammer', None, None, None, 0), ('and beat a large turtle to death .', None, None, None, 1), ("He broke the shell on it 's back", None, None, None, 0), ("and crushed it 's head with the hammer .", None, None, None, 1), ('I hope', None, None, None, 0), ('they give that vile excuse for a human being the maximum sentence .', None, None, None, 1), ('I love turtles .', None, None, None, 1), ('They are so unique and cool to watch . I have a creek in my back yard', None, None, None, 0), ('and I see them all the time', None, None, None, 0), ('and they do not bite .', None, None, None, 1), ("I ca n't stand animal abuse .", None, None, None, 1), ('It makes me sick .', None, None, None, 1)]]
+Leaf:  N Elaborate I saw a horrible story about a turtle on line today .
+Leaf:  N Temporal A man took a hammer
+Leaf:  N Temporal and beat a large turtle to death .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Joint He broke the shell on it 's back
+Leaf:  N Joint and crushed it 's head with the hammer .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution they give that vile excuse for a human being the maximum sentence .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate I love turtles .
+Leaf:  N Joint They are so unique and cool to watch . I have a creek in my back yard
+Leaf:  N Joint and I see them all the time
+Leaf:  N Joint and they do not bite .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Evaluation I ca n't stand animal abuse .
+Leaf:  S span It makes me sick .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I saw a horrible story about a turtle on line today .', None, None, None, 1), ('A man took a hammer', None, None, None, 0), ('and beat a large turtle to death .', None, None, None, 1), ("He broke the shell on it 's back", None, None, None, 0), ("and crushed it 's head with the hammer .", None, None, None, 1), ('I hope', None, None, None, 0), ('they give that vile excuse for a human being the maximum sentence .', None, None, None, 1), ('I love turtles .', None, None, None, 1), ('They are so unique and cool to watch . I have a creek in my back yard', None, None, None, 0), ('and I see them all the time', None, None, None, 0), ('and they do not bite .', None, None, None, 1), ("I ca n't stand animal abuse .", None, None, None, 1), ('It makes me sick .', None, None, None, 1)]

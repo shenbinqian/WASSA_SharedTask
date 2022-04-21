@@ -1,0 +1,37 @@
+=====================> [[('These actresses and actors have tons of money .', None, None, None, 1), ('If they really wanted to do the right thing ,', None, None, None, 0), ('they certainly could , for their only son .', None, None, None, 1), ('They are just selfish people ,', None, None, None, 0), ('wanting', None, None, None, 0), ('what they want', None, None, None, 0), ('and unwilling to compromise with each other .', None, None, None, 1), ('Most actors and actresses are like that .', None, None, None, 1), ('They are so self-centered .', None, None, None, 1), ('I ca n’t stand people like that . I feel sorry for the poor kid . Although he will probably grow up to be a self-absorbed , selfish brat , just like his parents . I swear', None, None, None, 0), ('that I think', None, None, None, 0), ('the less people have , the better off they treat their children and their families .', None, None, None, 1), ('I have no sympathy for people like these rich snobby people .', None, None, None, 1), ('They probably have their own jets , tons of money . Yet , they still ca n’t compromise .', None, None, None, 1), ('I wish', None, None, None, 0), ('people like this would get a grip', None, None, None, 0), ('and I wish', None, None, None, 0), ('the media would stop reporting', None, None, None, 0)]]
+Leaf:  N Condition These actresses and actors have tons of money .
+Leaf:  S span If they really wanted to do the right thing ,
+Leaf:  N Condition they certainly could , for their only son .
+Inner:  S span None Condition SN
+Inner:  N Contrast None Condition NS
+Leaf:  N Elaborate They are just selfish people ,
+Leaf:  N Elaborate wanting
+Leaf:  S span what they want
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and unwilling to compromise with each other .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Most actors and actresses are like that .
+Leaf:  S span They are so self-centered .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Attribution I ca n’t stand people like that . I feel sorry for the poor kid . Although he will probably grow up to be a self-absorbed , selfish brat , just like his parents . I swear
+Leaf:  S span that I think
+Leaf:  N Attribution the less people have , the better off they treat their children and their families .
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I have no sympathy for people like these rich snobby people .
+Leaf:  S span They probably have their own jets , tons of money . Yet , they still ca n’t compromise .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span I wish
+Leaf:  N Joint people like this would get a grip
+Leaf:  N Joint and I wish
+Leaf:  N Joint the media would stop reporting
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('These actresses and actors have tons of money .', None, None, None, 1), ('If they really wanted to do the right thing ,', None, None, None, 0), ('they certainly could , for their only son .', None, None, None, 1), ('They are just selfish people ,', None, None, None, 0), ('wanting', None, None, None, 0), ('what they want', None, None, None, 0), ('and unwilling to compromise with each other .', None, None, None, 1), ('Most actors and actresses are like that .', None, None, None, 1), ('They are so self-centered .', None, None, None, 1), ('I ca n’t stand people like that . I feel sorry for the poor kid . Although he will probably grow up to be a self-absorbed , selfish brat , just like his parents . I swear', None, None, None, 0), ('that I think', None, None, None, 0), ('the less people have , the better off they treat their children and their families .', None, None, None, 1), ('I have no sympathy for people like these rich snobby people .', None, None, None, 1), ('They probably have their own jets , tons of money . Yet , they still ca n’t compromise .', None, None, None, 1), ('I wish', None, None, None, 0), ('people like this would get a grip', None, None, None, 0), ('and I wish', None, None, None, 0), ('the media would stop reporting', None, None, None, 0)]

@@ -1,0 +1,33 @@
+=====================> [[('As much as I love dogs', None, None, None, 0), ('I must say', None, None, None, 0), ('this was totally the owners fault .', None, None, None, 1), ('The rule was the dog needed to be on a leash .', None, None, None, 1), ('The woman did not follow the rules', None, None, None, 0), ('and the dog ran over to a stranger .', None, None, None, 1), ('The dog scared the stranger', None, None, None, 0), ('as is expected . I have had many big scary dogs', None, None, None, 0), ('running towards me', None, None, None, 0), ("and was n't sure", None, None, None, 0), ('if it was going to attack me', None, None, None, 0), ('or be nice . The man got scared', None, None, None, 0), ('and shot the dog .', None, None, None, 1), ('Its sad', None, None, None, 0), ('but the man did not know', None, None, None, 0), ('if the dog was going to attack him .', None, None, None, 1)]]
+Leaf:  S span As much as I love dogs
+Leaf:  S span I must say
+Leaf:  N Attribution this was totally the owners fault .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Contrast The rule was the dog needed to be on a leash .
+Leaf:  S span The woman did not follow the rules
+Leaf:  N Cause and the dog ran over to a stranger .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Manner-Means The dog scared the stranger
+Leaf:  N Elaborate as is expected . I have had many big scary dogs
+Leaf:  S span running towards me
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Manner-Means NS
+Leaf:  S span and was n't sure
+Leaf:  N Joint if it was going to attack me
+Leaf:  N Temporal or be nice . The man got scared
+Leaf:  N Temporal and shot the dog .
+Inner:  N Joint None Temporal NN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Its sad
+Leaf:  S span but the man did not know
+Leaf:  N Attribution if the dog was going to attack him .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('As much as I love dogs', None, None, None, 0), ('I must say', None, None, None, 0), ('this was totally the owners fault .', None, None, None, 1), ('The rule was the dog needed to be on a leash .', None, None, None, 1), ('The woman did not follow the rules', None, None, None, 0), ('and the dog ran over to a stranger .', None, None, None, 1), ('The dog scared the stranger', None, None, None, 0), ('as is expected . I have had many big scary dogs', None, None, None, 0), ('running towards me', None, None, None, 0), ("and was n't sure", None, None, None, 0), ('if it was going to attack me', None, None, None, 0), ('or be nice . The man got scared', None, None, None, 0), ('and shot the dog .', None, None, None, 1), ('Its sad', None, None, None, 0), ('but the man did not know', None, None, None, 0), ('if the dog was going to attack him .', None, None, None, 1)]

@@ -1,0 +1,41 @@
+=====================> [[('Hey , did you know', None, None, None, 0), ('that Turtles are especially endangered', None, None, None, 0), ('because of people', None, None, None, 0), ('using them for food ,', None, None, None, 0), ('exploiting them', None, None, None, 0), ('by selling and trading them ,', None, None, None, 0), ('and they are dying', None, None, None, 0), ('because of pollution and damage to rivers and Lakes . .', None, None, None, 1), ('their resources and dwindling .', None, None, None, 1), ("The real worry is n't so much the problem with Global warming . .", None, None, None, 1), ('they can stand that somewhat . .', None, None, None, 1), ('the problem is we are damaging the planet and fresh water so rapidly they can not withstand it . More than 60 percent of Turtles and their Shelled brothers are in danger . .', None, None, None, 1), ('they are vulnerable , endangered , or critically endangered .', None, None, None, 1), ('We should do something', None, None, None, 0), ('to stop this .', None, None, None, 1), ('These creatures sometimes live longer than us .', None, None, None, 1), ('How is it that we are allowing them to be maimed , eaten , and polluting their habitat', None, None, None, 0), ('?? We have to do better .', None, None, None, 1), ('What do you say', None, None, None, 0), ('we volunteer tog', None, None, None, 0)]]
+Leaf:  S span Hey , did you know
+Leaf:  N Cause that Turtles are especially endangered
+Leaf:  N Elaborate because of people
+Leaf:  N Joint using them for food ,
+Leaf:  N Manner-Means exploiting them
+Leaf:  S span by selling and trading them ,
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Cause NS
+Leaf:  N Cause and they are dying
+Leaf:  S span because of pollution and damage to rivers and Lakes . .
+Inner:  N Joint None Cause NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span their resources and dwindling .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate The real worry is n't so much the problem with Global warming . .
+Leaf:  S span they can stand that somewhat . .
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate the problem is we are damaging the planet and fresh water so rapidly they can not withstand it . More than 60 percent of Turtles and their Shelled brothers are in danger . .
+Leaf:  S span they are vulnerable , endangered , or critically endangered .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Topic-Comment None Contrast NN
+Leaf:  N Elaborate We should do something
+Leaf:  S span to stop this .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Evaluation These creatures sometimes live longer than us .
+Leaf:  S span How is it that we are allowing them to be maimed , eaten , and polluting their habitat
+Inner:  S span None Evaluation NS
+Leaf:  N Explanation ?? We have to do better .
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate What do you say
+Leaf:  S span we volunteer tog
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Hey , did you know', None, None, None, 0), ('that Turtles are especially endangered', None, None, None, 0), ('because of people', None, None, None, 0), ('using them for food ,', None, None, None, 0), ('exploiting them', None, None, None, 0), ('by selling and trading them ,', None, None, None, 0), ('and they are dying', None, None, None, 0), ('because of pollution and damage to rivers and Lakes . .', None, None, None, 1), ('their resources and dwindling .', None, None, None, 1), ("The real worry is n't so much the problem with Global warming . .", None, None, None, 1), ('they can stand that somewhat . .', None, None, None, 1), ('the problem is we are damaging the planet and fresh water so rapidly they can not withstand it . More than 60 percent of Turtles and their Shelled brothers are in danger . .', None, None, None, 1), ('they are vulnerable , endangered , or critically endangered .', None, None, None, 1), ('We should do something', None, None, None, 0), ('to stop this .', None, None, None, 1), ('These creatures sometimes live longer than us .', None, None, None, 1), ('How is it that we are allowing them to be maimed , eaten , and polluting their habitat', None, None, None, 0), ('?? We have to do better .', None, None, None, 1), ('What do you say', None, None, None, 0), ('we volunteer tog', None, None, None, 0)]

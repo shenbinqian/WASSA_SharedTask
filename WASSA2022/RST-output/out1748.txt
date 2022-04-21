@@ -1,0 +1,33 @@
+=====================> [[('The Islamic state is now desperately using human shields', None, None, None, 0), ('to try and deter our attacks against them .', None, None, None, 1), ('This is a strategy', None, None, None, 0), ('that is doomed to failure for multiple reasons ,', None, None, None, 0), ('the biggest being the civilians', None, None, None, 0), ('they are using', None, None, None, 0), ("are n't going to tolerate that shit forever ,", None, None, None, 0), ('and will probably start resisting and escaping .', None, None, None, 1), ("The next biggest , America does n't really show restraint", None, None, None, 0), ('when they want to bomb a target', None, None, None, 0), ('and civilians are present .', None, None, None, 1), ('I mean , we generally go out of our way', None, None, None, 0), ("to not blow up the nearby children 's hospital ,", None, None, None, 0), ('but the second we suspect', None, None, None, 0), ("Bin Laden 's cousin is in there", None, None, None, 0), ('7000 drones start swarming .', None, None, None, 1)]]
+Leaf:  N Enablement The Islamic state is now desperately using human shields
+Leaf:  S span to try and deter our attacks against them .
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Elaborate This is a strategy
+Leaf:  S span that is doomed to failure for multiple reasons ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate the biggest being the civilians
+Leaf:  S span they are using
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are n't going to tolerate that shit forever ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and will probably start resisting and escaping .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Background The next biggest , America does n't really show restraint
+Leaf:  N Summary when they want to bomb a target
+Leaf:  S span and civilians are present .
+Inner:  S span None Summary NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Enablement I mean , we generally go out of our way
+Leaf:  S span to not blow up the nearby children 's hospital ,
+Inner:  S span None Enablement NS
+Leaf:  S span but the second we suspect
+Leaf:  N Attribution Bin Laden 's cousin is in there
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit 7000 drones start swarming .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The Islamic state is now desperately using human shields', None, None, None, 0), ('to try and deter our attacks against them .', None, None, None, 1), ('This is a strategy', None, None, None, 0), ('that is doomed to failure for multiple reasons ,', None, None, None, 0), ('the biggest being the civilians', None, None, None, 0), ('they are using', None, None, None, 0), ("are n't going to tolerate that shit forever ,", None, None, None, 0), ('and will probably start resisting and escaping .', None, None, None, 1), ("The next biggest , America does n't really show restraint", None, None, None, 0), ('when they want to bomb a target', None, None, None, 0), ('and civilians are present .', None, None, None, 1), ('I mean , we generally go out of our way', None, None, None, 0), ("to not blow up the nearby children 's hospital ,", None, None, None, 0), ('but the second we suspect', None, None, None, 0), ("Bin Laden 's cousin is in there", None, None, None, 0), ('7000 drones start swarming .', None, None, None, 1)]

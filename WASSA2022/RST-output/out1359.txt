@@ -1,0 +1,17 @@
+=====================> [[("I ca n't even begin to put myself in the shoes of someone", None, None, None, 0), ('who has to deal with preparing to die half a dozen times ,', None, None, None, 0), ("and then once again , it 's halted ,", None, None, None, 0), ('because people above him argue over semantics .', None, None, None, 1), ('Yes , he did do something wrong ,', None, None, None, 0), ('and deserves what he is given ,', None, None, None, 0), ('but bureaucracy goes a little too far', None, None, None, 0), ('in how much they can control a persons feelings and life .', None, None, None, 1)]]
+Leaf:  N Elaborate I ca n't even begin to put myself in the shoes of someone
+Leaf:  N Temporal who has to deal with preparing to die half a dozen times ,
+Leaf:  N Temporal and then once again , it 's halted ,
+Inner:  N Explanation None Temporal NN
+Leaf:  S span because people above him argue over semantics .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Yes , he did do something wrong ,
+Leaf:  N Joint and deserves what he is given ,
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate but bureaucracy goes a little too far
+Leaf:  S span in how much they can control a persons feelings and life .
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[("I ca n't even begin to put myself in the shoes of someone", None, None, None, 0), ('who has to deal with preparing to die half a dozen times ,', None, None, None, 0), ("and then once again , it 's halted ,", None, None, None, 0), ('because people above him argue over semantics .', None, None, None, 1), ('Yes , he did do something wrong ,', None, None, None, 0), ('and deserves what he is given ,', None, None, None, 0), ('but bureaucracy goes a little too far', None, None, None, 0), ('in how much they can control a persons feelings and life .', None, None, None, 1)]

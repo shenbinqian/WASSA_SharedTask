@@ -1,0 +1,25 @@
+=====================> [[('Heck no , this is one of those topics', None, None, None, 0), ('that I could talk about for hours and hours .', None, None, None, 1), ('It is so stressful the fact', None, None, None, 0), ('that animals are traded like that , just unbearable .', None, None, None, 1), ('People', None, None, None, 0), ('who do that ,', None, None, None, 0), ('should be the ones in the cages .', None, None, None, 1), ('They are not even humans ,', None, None, None, 0), ('they are monsters . And of course they have to find a way', None, None, None, 0), ('to teach the countries what to do', None, None, None, 0), ('when they face this type of situations .', None, None, None, 1), ('And they better do it quick .', None, None, None, 1)]]
+Leaf:  N Elaborate Heck no , this is one of those topics
+Leaf:  S span that I could talk about for hours and hours .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is so stressful the fact
+Leaf:  S span that animals are traded like that , just unbearable .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate People
+Leaf:  S span who do that ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be the ones in the cages .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span They are not even humans ,
+Leaf:  N Comparison they are monsters . And of course they have to find a way
+Inner:  N Elaborate None Comparison SN
+Leaf:  N Background to teach the countries what to do
+Leaf:  S span when they face this type of situations .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span And they better do it quick .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Heck no , this is one of those topics', None, None, None, 0), ('that I could talk about for hours and hours .', None, None, None, 1), ('It is so stressful the fact', None, None, None, 0), ('that animals are traded like that , just unbearable .', None, None, None, 1), ('People', None, None, None, 0), ('who do that ,', None, None, None, 0), ('should be the ones in the cages .', None, None, None, 1), ('They are not even humans ,', None, None, None, 0), ('they are monsters . And of course they have to find a way', None, None, None, 0), ('to teach the countries what to do', None, None, None, 0), ('when they face this type of situations .', None, None, None, 1), ('And they better do it quick .', None, None, None, 1)]

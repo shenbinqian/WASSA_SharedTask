@@ -1,0 +1,31 @@
+=====================> [[('This article reminds me of an incident', None, None, None, 0), ('that happened', None, None, None, 0), ('when I was a teenager .', None, None, None, 1), ('My stepdad worked at a power plant', None, None, None, 0), ('and there was some small explosion', None, None, None, 0), ('and three people died .', None, None, None, 1), ('One of them was the father of a guy', None, None, None, 0), ('I knew from school .', None, None, None, 1), ('I had heard his head was crushed .', None, None, None, 1), ('It was very disturbing imagery', None, None, None, 0), ('and it has stuck with me since . I worry about my husband working in a dangerous job , too ,', None, None, None, 0), ('but it seems generally a lot of guys', None, None, None, 0), ('working in these places', None, None, None, 0), ("are n't following safety rules", None, None, None, 0), ("and that 's how the accidents happen .", None, None, None, 1)]]
+Leaf:  N Elaborate This article reminds me of an incident
+Leaf:  N Temporal that happened
+Leaf:  S span when I was a teenager .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span My stepdad worked at a power plant
+Leaf:  N Cause and there was some small explosion
+Leaf:  S span and three people died .
+Inner:  N Temporal None Cause NS
+Inner:  N Elaborate None Temporal SN
+Leaf:  N Elaborate One of them was the father of a guy
+Leaf:  S span I knew from school .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I had heard his head was crushed .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause It was very disturbing imagery
+Leaf:  S span and it has stuck with me since . I worry about my husband working in a dangerous job , too ,
+Inner:  S span None Cause NS
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Elaborate but it seems generally a lot of guys
+Leaf:  S span working in these places
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Cause are n't following safety rules
+Leaf:  S span and that 's how the accidents happen .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('This article reminds me of an incident', None, None, None, 0), ('that happened', None, None, None, 0), ('when I was a teenager .', None, None, None, 1), ('My stepdad worked at a power plant', None, None, None, 0), ('and there was some small explosion', None, None, None, 0), ('and three people died .', None, None, None, 1), ('One of them was the father of a guy', None, None, None, 0), ('I knew from school .', None, None, None, 1), ('I had heard his head was crushed .', None, None, None, 1), ('It was very disturbing imagery', None, None, None, 0), ('and it has stuck with me since . I worry about my husband working in a dangerous job , too ,', None, None, None, 0), ('but it seems generally a lot of guys', None, None, None, 0), ('working in these places', None, None, None, 0), ("are n't following safety rules", None, None, None, 0), ("and that 's how the accidents happen .", None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Wow talk about crazy .', None, None, None, 1), ('I know', None, None, None, 0), ('the situation in Africa was bad ,', None, None, None, 0), ('but I just always feel', None, None, None, 0), ('it never gets better .', None, None, None, 1), ('You told me', None, None, None, 0), ("that you 're visiting in a few weeks .", None, None, None, 1), ('Can you ensure me', None, None, None, 0), ('that you will be okay ? I am worried about you', None, None, None, 0), ('and want to maker sure', None, None, None, 0), ("you 're okay .", None, None, None, 1), ('Hopefully your missionary work will yield good results .', None, None, None, 1), ('Maybe I will read about you in an article in a few months', None, None, None, 0), ('helping over all .', None, None, None, 1), ('Anyways , I hope this reaches you .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow talk about crazy .
+Leaf:  S span I know
+Leaf:  N Attribution the situation in Africa was bad ,
+Inner:  S span None Attribution SN
+Leaf:  S span but I just always feel
+Leaf:  N Attribution it never gets better .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span You told me
+Leaf:  N Attribution that you 're visiting in a few weeks .
+Inner:  N Condition None Attribution SN
+Leaf:  S span Can you ensure me
+Leaf:  N Joint that you will be okay ? I am worried about you
+Leaf:  S span and want to maker sure
+Leaf:  N Attribution you 're okay .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Hopefully your missionary work will yield good results .
+Leaf:  N Elaborate Maybe I will read about you in an article in a few months
+Leaf:  S span helping over all .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Textual-Organization Anyways , I hope this reaches you .
+Inner:  Root None None Textual-Organization NN
+[('Wow talk about crazy .', None, None, None, 1), ('I know', None, None, None, 0), ('the situation in Africa was bad ,', None, None, None, 0), ('but I just always feel', None, None, None, 0), ('it never gets better .', None, None, None, 1), ('You told me', None, None, None, 0), ("that you 're visiting in a few weeks .", None, None, None, 1), ('Can you ensure me', None, None, None, 0), ('that you will be okay ? I am worried about you', None, None, None, 0), ('and want to maker sure', None, None, None, 0), ("you 're okay .", None, None, None, 1), ('Hopefully your missionary work will yield good results .', None, None, None, 1), ('Maybe I will read about you in an article in a few months', None, None, None, 0), ('helping over all .', None, None, None, 1), ('Anyways , I hope this reaches you .', None, None, None, 1)]

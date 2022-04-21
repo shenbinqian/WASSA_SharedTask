@@ -1,0 +1,25 @@
+=====================> [[('Thats pretty crazy that someone died in Jakarta .', None, None, None, 1), ("I do n't even know", None, None, None, 0), ('what the whole issue was but just to think that just like that your life could be over .', None, None, None, 1), ('I get that politics is a pretty nasty sport', None, None, None, 0), ("but really when you think about it , it 's quite different around the world", None, None, None, 0), ('then it is here .', None, None, None, 1), ('People think', None, None, None, 0), ('our current state of the nation is bad ,', None, None, None, 0), ('can you just imagine being in some of these other countries', None, None, None, 0), ('where there seems to be nothing but endless political strife .', None, None, None, 1), ("I 've even seen government members punch each other in meetings in some foreign governments .", None, None, None, 1), ('The world is such a crazy place .', None, None, None, 1)]]
+Leaf:  N Elaborate Thats pretty crazy that someone died in Jakarta .
+Leaf:  S span I do n't even know
+Leaf:  N Attribution what the whole issue was but just to think that just like that your life could be over .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I get that politics is a pretty nasty sport
+Leaf:  N Comparison but really when you think about it , it 's quite different around the world
+Leaf:  S span then it is here .
+Inner:  N Contrast None Comparison NS
+Inner:  N Joint None Contrast SN
+Leaf:  S span People think
+Leaf:  N Attribution our current state of the nation is bad ,
+Inner:  N Condition None Attribution SN
+Leaf:  N Elaborate can you just imagine being in some of these other countries
+Leaf:  S span where there seems to be nothing but endless political strife .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint I 've even seen government members punch each other in meetings in some foreign governments .
+Inner:  N Condition None Joint NN
+Inner:  N Joint None Condition NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span The world is such a crazy place .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Thats pretty crazy that someone died in Jakarta .', None, None, None, 1), ("I do n't even know", None, None, None, 0), ('what the whole issue was but just to think that just like that your life could be over .', None, None, None, 1), ('I get that politics is a pretty nasty sport', None, None, None, 0), ("but really when you think about it , it 's quite different around the world", None, None, None, 0), ('then it is here .', None, None, None, 1), ('People think', None, None, None, 0), ('our current state of the nation is bad ,', None, None, None, 0), ('can you just imagine being in some of these other countries', None, None, None, 0), ('where there seems to be nothing but endless political strife .', None, None, None, 1), ("I 've even seen government members punch each other in meetings in some foreign governments .", None, None, None, 1), ('The world is such a crazy place .', None, None, None, 1)]

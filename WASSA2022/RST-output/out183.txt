@@ -1,0 +1,39 @@
+=====================> [[('Tensing was later fired .', None, None, None, 1), ('Tensing , 26 , testified', None, None, None, 0), ('he feared', None, None, None, 0), ('he was going to be killed .', None, None, None, 1), ('Prosecutors said repeatedly the evidence contradicted Tensing ’s story .', None, None, None, 1), ('Judge Megan Shanahan said Saturday', None, None, None, 0), ('that the jury of 10 whites and two blacks spent more two hours', None, None, None, 0), ('deliberating Saturday morning', None, None, None, 0), ('after getting a night ’s sleep', None, None, None, 0), ('and still could not reach a decision . “ It ’s obvious to me you have made a sincere and conscientious effort , ”', None, None, None, 0), ('the judge said', None, None, None, 0), ('before setting a new hearing date for Nov. 28 to determine whether the case will re-tried . County prosecutor Joe Deters said', None, None, None, 0), ('he ’ll decide within the next two weeks whether to try the case again .', None, None, None, 1), ('Attorney Al Gerhardstein ,', None, None, None, 0), ('who represents the DuBose family ,', None, None, None, 0), ('said', None, None, None, 0), ('they want another trial and ca n’t understand', None, None, None, 0), ('why the jury could n’t reach a conclusion .', None, None, None, 1), ('“ With the video', None, None, None, 0)]]
+Leaf:  N Elaborate Tensing was later fired .
+Leaf:  S span Tensing , 26 , testified
+Leaf:  S span he feared
+Leaf:  N Attribution he was going to be killed .
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Prosecutors said repeatedly the evidence contradicted Tensing ’s story .
+Inner:  S span None Explanation NS
+Inner:  N Joint None Elaborate NS
+Leaf:  S span Judge Megan Shanahan said Saturday
+Leaf:  N Elaborate that the jury of 10 whites and two blacks spent more two hours
+Leaf:  S span deliberating Saturday morning
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span after getting a night ’s sleep
+Inner:  S span None Temporal NS
+Leaf:  N Temporal and still could not reach a decision . “ It ’s obvious to me you have made a sincere and conscientious effort , ”
+Inner:  N Attribution None Temporal SN
+Leaf:  S span the judge said
+Inner:  N Attribution None Attribution NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  S span before setting a new hearing date for Nov. 28 to determine whether the case will re-tried . County prosecutor Joe Deters said
+Leaf:  N Attribution he ’ll decide within the next two weeks whether to try the case again .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate Attorney Al Gerhardstein ,
+Leaf:  S span who represents the DuBose family ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit said
+Inner:  S span None Same-Unit NN
+Leaf:  S span they want another trial and ca n’t understand
+Leaf:  N Attribution why the jury could n’t reach a conclusion .
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span “ With the video
+Inner:  Root None None Elaborate NS
+[('Tensing was later fired .', None, None, None, 1), ('Tensing , 26 , testified', None, None, None, 0), ('he feared', None, None, None, 0), ('he was going to be killed .', None, None, None, 1), ('Prosecutors said repeatedly the evidence contradicted Tensing ’s story .', None, None, None, 1), ('Judge Megan Shanahan said Saturday', None, None, None, 0), ('that the jury of 10 whites and two blacks spent more two hours', None, None, None, 0), ('deliberating Saturday morning', None, None, None, 0), ('after getting a night ’s sleep', None, None, None, 0), ('and still could not reach a decision . “ It ’s obvious to me you have made a sincere and conscientious effort , ”', None, None, None, 0), ('the judge said', None, None, None, 0), ('before setting a new hearing date for Nov. 28 to determine whether the case will re-tried . County prosecutor Joe Deters said', None, None, None, 0), ('he ’ll decide within the next two weeks whether to try the case again .', None, None, None, 1), ('Attorney Al Gerhardstein ,', None, None, None, 0), ('who represents the DuBose family ,', None, None, None, 0), ('said', None, None, None, 0), ('they want another trial and ca n’t understand', None, None, None, 0), ('why the jury could n’t reach a conclusion .', None, None, None, 1), ('“ With the video', None, None, None, 0)]

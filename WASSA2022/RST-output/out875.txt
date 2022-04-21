@@ -1,0 +1,17 @@
+=====================> [[('I was sad', None, None, None, 0), ('to hear', None, None, None, 0), ('that a woman was critically injured Sunday evening in a multiple car wreck in the Clinton area of Prince George ’s County .', None, None, None, 1), ('It seems like these things are becoming more common .', None, None, None, 1), ('At least the reporting of such accidents is more common .', None, None, None, 1), ('People should pay more attention to their driving .', None, None, None, 1), ("I would n't be surprised at all", None, None, None, 0), ('if someone involved was distracted by cellphone use .', None, None, None, 1)]]
+Leaf:  S span I was sad
+Leaf:  S span to hear
+Leaf:  N Attribution that a woman was critically injured Sunday evening in a multiple car wreck in the Clinton area of Prince George ’s County .
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It seems like these things are becoming more common .
+Leaf:  S span At least the reporting of such accidents is more common .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation People should pay more attention to their driving .
+Leaf:  N Condition I would n't be surprised at all
+Leaf:  S span if someone involved was distracted by cellphone use .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I was sad', None, None, None, 0), ('to hear', None, None, None, 0), ('that a woman was critically injured Sunday evening in a multiple car wreck in the Clinton area of Prince George ’s County .', None, None, None, 1), ('It seems like these things are becoming more common .', None, None, None, 1), ('At least the reporting of such accidents is more common .', None, None, None, 1), ('People should pay more attention to their driving .', None, None, None, 1), ("I would n't be surprised at all", None, None, None, 0), ('if someone involved was distracted by cellphone use .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[("Here 's some more junk about people", None, None, None, 0), ("' seeking asylum ' from their craphole countries", None, None, None, 0), ("that they 've ruined", None, None, None, 0), ('so they want to go ruin other countries now instead of fixing their own mess .', None, None, None, 1), ("You 've got to wonder", None, None, None, 0), ('how long Europe is going to let refugees in', None, None, None, 0), ('when crimes such as sexual assault and such are on the rise', None, None, None, 0), ('and everytime they catch the person', None, None, None, 0), ("it 's yet another refugee", None, None, None, 0), ('who came here', None, None, None, 0), ('to just keep living the same crappy way', None, None, None, 0), ('that ruined their home .', None, None, None, 1)]]
+Leaf:  N Elaborate Here 's some more junk about people
+Leaf:  N Elaborate ' seeking asylum ' from their craphole countries
+Leaf:  S span that they 've ruined
+Inner:  N Cause None Elaborate NS
+Leaf:  S span so they want to go ruin other countries now instead of fixing their own mess .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span You 've got to wonder
+Leaf:  N Background how long Europe is going to let refugees in
+Leaf:  S span when crimes such as sexual assault and such are on the rise
+Inner:  N Joint None Background NS
+Leaf:  S span and everytime they catch the person
+Leaf:  N Elaborate it 's yet another refugee
+Leaf:  N Enablement who came here
+Leaf:  N Elaborate to just keep living the same crappy way
+Leaf:  S span that ruined their home .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Background None Elaborate NS
+Inner:  N Joint None Background SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[("Here 's some more junk about people", None, None, None, 0), ("' seeking asylum ' from their craphole countries", None, None, None, 0), ("that they 've ruined", None, None, None, 0), ('so they want to go ruin other countries now instead of fixing their own mess .', None, None, None, 1), ("You 've got to wonder", None, None, None, 0), ('how long Europe is going to let refugees in', None, None, None, 0), ('when crimes such as sexual assault and such are on the rise', None, None, None, 0), ('and everytime they catch the person', None, None, None, 0), ("it 's yet another refugee", None, None, None, 0), ('who came here', None, None, None, 0), ('to just keep living the same crappy way', None, None, None, 0), ('that ruined their home .', None, None, None, 1)]

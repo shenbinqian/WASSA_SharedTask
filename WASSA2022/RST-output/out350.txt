@@ -1,0 +1,33 @@
+=====================> [[('It hurts to know', None, None, None, 0), ('that those children may have lost their parents in their ordeal', None, None, None, 0), ('and that they may be put into the " system "', None, None, None, 0), ("where they 're passed around multiple families", None, None, None, 0), ('before they find a loving home .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they have relatives', None, None, None, 0), ('that might be willing to take them in .', None, None, None, 1), ('I wish the article had been more informative', None, None, None, 0), ('and told a more comprehensive story', None, None, None, 0), ('about what happened', None, None, None, 0), ('and why the children were spared', None, None, None, 0), ('when three adults were killed .', None, None, None, 1), ('Perhaps there was a spat between the adults involved', None, None, None, 0), ('and the children ended up witnessing a traumatic incident .', None, None, None, 1), ('Either way , no good comes out of this entire situation .', None, None, None, 1)]]
+Leaf:  S span It hurts to know
+Leaf:  N Joint that those children may have lost their parents in their ordeal
+Leaf:  N Elaborate and that they may be put into the " system "
+Leaf:  S span where they 're passed around multiple families
+Leaf:  N Condition before they find a loving home .
+Inner:  S span None Condition SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I wonder
+Leaf:  N Elaborate if they have relatives
+Leaf:  S span that might be willing to take them in .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I wish the article had been more informative
+Leaf:  N Elaborate and told a more comprehensive story
+Leaf:  N Joint about what happened
+Leaf:  N Background and why the children were spared
+Leaf:  S span when three adults were killed .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Cause Perhaps there was a spat between the adults involved
+Leaf:  N Cause and the children ended up witnessing a traumatic incident .
+Inner:  N Evaluation None Cause NN
+Leaf:  S span Either way , no good comes out of this entire situation .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('It hurts to know', None, None, None, 0), ('that those children may have lost their parents in their ordeal', None, None, None, 0), ('and that they may be put into the " system "', None, None, None, 0), ("where they 're passed around multiple families", None, None, None, 0), ('before they find a loving home .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they have relatives', None, None, None, 0), ('that might be willing to take them in .', None, None, None, 1), ('I wish the article had been more informative', None, None, None, 0), ('and told a more comprehensive story', None, None, None, 0), ('about what happened', None, None, None, 0), ('and why the children were spared', None, None, None, 0), ('when three adults were killed .', None, None, None, 1), ('Perhaps there was a spat between the adults involved', None, None, None, 0), ('and the children ended up witnessing a traumatic incident .', None, None, None, 1), ('Either way , no good comes out of this entire situation .', None, None, None, 1)]

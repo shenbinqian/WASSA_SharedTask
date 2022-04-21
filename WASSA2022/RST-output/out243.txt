@@ -1,0 +1,23 @@
+=====================> [[('My amazement with the acts of random humans never ceases .', None, None, None, 1), ('I often question', None, None, None, 0), ('how it is that I , another random human in this mixed up shit-hole', None, None, None, 0), ('we call " Planet Earth " ,', None, None, None, 0), ('can have unlimited empathy', None, None, None, 0), ("( to the level that I wo n't even squash a bug )", None, None, None, 0), ('and other people will go out of their way', None, None, None, 0), ('to run over an animal', None, None, None, 0), ('crossing the road .', None, None, None, 1), ('Humans can be rather sadistic and disgusting individuals .', None, None, None, 1), ('Every single day of my life I hear of some crazy story about someone beating something to death .', None, None, None, 1)]]
+Leaf:  N Evaluation My amazement with the acts of random humans never ceases .
+Leaf:  S span I often question
+Leaf:  N Elaborate how it is that I , another random human in this mixed up shit-hole
+Leaf:  S span we call " Planet Earth " ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate can have unlimited empathy
+Leaf:  S span ( to the level that I wo n't even squash a bug )
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Enablement and other people will go out of their way
+Leaf:  N Elaborate to run over an animal
+Leaf:  S span crossing the road .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation Humans can be rather sadistic and disgusting individuals .
+Leaf:  S span Every single day of my life I hear of some crazy story about someone beating something to death .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('My amazement with the acts of random humans never ceases .', None, None, None, 1), ('I often question', None, None, None, 0), ('how it is that I , another random human in this mixed up shit-hole', None, None, None, 0), ('we call " Planet Earth " ,', None, None, None, 0), ('can have unlimited empathy', None, None, None, 0), ("( to the level that I wo n't even squash a bug )", None, None, None, 0), ('and other people will go out of their way', None, None, None, 0), ('to run over an animal', None, None, None, 0), ('crossing the road .', None, None, None, 1), ('Humans can be rather sadistic and disgusting individuals .', None, None, None, 1), ('Every single day of my life I hear of some crazy story about someone beating something to death .', None, None, None, 1)]

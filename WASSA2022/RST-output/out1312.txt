@@ -1,0 +1,19 @@
+=====================> [[('Despite our best efforts ,', None, None, None, 0), ('it really is nearly impossible to keep our children and families from the cruel nature of the world .', None, None, None, 1), ('Even something like a vacation to another country or a trip', None, None, None, 0), ('to watch fireworks', None, None, None, 0), ('can result in tragedy', None, None, None, 0), ('that leaves everlasting scars .', None, None, None, 1), ('This is a world', None, None, None, 0), ('we want to avoid ,', None, None, None, 0), ('but find ourselves surrounded by almost always .', None, None, None, 1)]]
+Leaf:  S span Despite our best efforts ,
+Leaf:  N Contrast it really is nearly impossible to keep our children and families from the cruel nature of the world .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate Even something like a vacation to another country or a trip
+Leaf:  S span to watch fireworks
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate can result in tragedy
+Leaf:  S span that leaves everlasting scars .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate This is a world
+Leaf:  S span we want to avoid ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but find ourselves surrounded by almost always .
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('Despite our best efforts ,', None, None, None, 0), ('it really is nearly impossible to keep our children and families from the cruel nature of the world .', None, None, None, 1), ('Even something like a vacation to another country or a trip', None, None, None, 0), ('to watch fireworks', None, None, None, 0), ('can result in tragedy', None, None, None, 0), ('that leaves everlasting scars .', None, None, None, 1), ('This is a world', None, None, None, 0), ('we want to avoid ,', None, None, None, 0), ('but find ourselves surrounded by almost always .', None, None, None, 1)]

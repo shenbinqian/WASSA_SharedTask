@@ -1,0 +1,27 @@
+=====================> [[('The discount for tires sounds good', None, None, None, 0), ('and it is a good incentive', None, None, None, 0), ('to not get in an accident .', None, None, None, 1), ('Being a good driver is helpful for your bank account and yourself !', None, None, None, 1), ('I think', None, None, None, 0), ('it is a good incentive', None, None, None, 0), ('and will help make the roads safer for everybody , not just for those', None, None, None, 0), ("who do n't", None, None, None, 0), ('have accidents .', None, None, None, 1), ('I would read this article', None, None, None, 0), ('and think about the good things', None, None, None, 0), ('that happen', None, None, None, 0), ('when you drive nicely and with control towards others and your vehicle .', None, None, None, 1)]]
+Leaf:  N Joint The discount for tires sounds good
+Leaf:  N Elaborate and it is a good incentive
+Leaf:  S span to not get in an accident .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation Being a good driver is helpful for your bank account and yourself !
+Leaf:  S span I think
+Leaf:  N Joint it is a good incentive
+Leaf:  N Elaborate and will help make the roads safer for everybody , not just for those
+Leaf:  S span who do n't
+Leaf:  N Attribution have accidents .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I would read this article
+Leaf:  N Elaborate and think about the good things
+Leaf:  N Background that happen
+Leaf:  S span when you drive nicely and with control towards others and your vehicle .
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('The discount for tires sounds good', None, None, None, 0), ('and it is a good incentive', None, None, None, 0), ('to not get in an accident .', None, None, None, 1), ('Being a good driver is helpful for your bank account and yourself !', None, None, None, 1), ('I think', None, None, None, 0), ('it is a good incentive', None, None, None, 0), ('and will help make the roads safer for everybody , not just for those', None, None, None, 0), ("who do n't", None, None, None, 0), ('have accidents .', None, None, None, 1), ('I would read this article', None, None, None, 0), ('and think about the good things', None, None, None, 0), ('that happen', None, None, None, 0), ('when you drive nicely and with control towards others and your vehicle .', None, None, None, 1)]

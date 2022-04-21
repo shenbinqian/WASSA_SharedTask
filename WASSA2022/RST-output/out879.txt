@@ -1,0 +1,21 @@
+=====================> [[('It ’s a sad day', None, None, None, 0), ('when young kids are killing themselves .', None, None, None, 1), ('They act on impulse', None, None, None, 0), ('and do not realize', None, None, None, 0), ('that their actions have lasting consequences .', None, None, None, 1), ('If someone was just their', None, None, None, 0), ('to listen to', None, None, None, 0), ('these kids', None, None, None, 0), ('a lot of this probably would n’t be happening .', None, None, None, 1), ('Its just so sad especially for the parents and grandparents but also for the whole family .', None, None, None, 1)]]
+Leaf:  N Background It ’s a sad day
+Leaf:  S span when young kids are killing themselves .
+Inner:  N Background None Background NS
+Leaf:  N Joint They act on impulse
+Leaf:  S span and do not realize
+Leaf:  N Attribution that their actions have lasting consequences .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Background NS
+Leaf:  N Elaborate If someone was just their
+Leaf:  S span to listen to
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit these kids
+Inner:  S span None Same-Unit NN
+Leaf:  N Condition a lot of this probably would n’t be happening .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Its just so sad especially for the parents and grandparents but also for the whole family .
+Inner:  Root None None Evaluation NS
+[('It ’s a sad day', None, None, None, 0), ('when young kids are killing themselves .', None, None, None, 1), ('They act on impulse', None, None, None, 0), ('and do not realize', None, None, None, 0), ('that their actions have lasting consequences .', None, None, None, 1), ('If someone was just their', None, None, None, 0), ('to listen to', None, None, None, 0), ('these kids', None, None, None, 0), ('a lot of this probably would n’t be happening .', None, None, None, 1), ('Its just so sad especially for the parents and grandparents but also for the whole family .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Jeez , who would have thought', None, None, None, 0), ('that those little guys could wreak such environmental disaster .', None, None, None, 1), ('But this is a classic example of people', None, None, None, 0), ('who think', None, None, None, 0), ('their one indiscretion', None, None, None, 0), ('( dumping the fish in the river )', None, None, None, 0), ('is harmless . Much like someone', None, None, None, 0), ('who starts a forest fire ,', None, None, None, 0), ('we should have laws', None, None, None, 0), ('making the person responsible liable for the cost of cleaning up the mess .', None, None, None, 1), ("Not that we 'd ever catch them .", None, None, None, 1)]]
+Leaf:  S span Jeez , who would have thought
+Leaf:  N Attribution that those little guys could wreak such environmental disaster .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate But this is a classic example of people
+Leaf:  S span who think
+Leaf:  N Elaborate their one indiscretion
+Leaf:  S span ( dumping the fish in the river )
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Elaborate is harmless . Much like someone
+Leaf:  S span who starts a forest fire ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate we should have laws
+Leaf:  S span making the person responsible liable for the cost of cleaning up the mess .
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  S span Not that we 'd ever catch them .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Jeez , who would have thought', None, None, None, 0), ('that those little guys could wreak such environmental disaster .', None, None, None, 1), ('But this is a classic example of people', None, None, None, 0), ('who think', None, None, None, 0), ('their one indiscretion', None, None, None, 0), ('( dumping the fish in the river )', None, None, None, 0), ('is harmless . Much like someone', None, None, None, 0), ('who starts a forest fire ,', None, None, None, 0), ('we should have laws', None, None, None, 0), ('making the person responsible liable for the cost of cleaning up the mess .', None, None, None, 1), ("Not that we 'd ever catch them .", None, None, None, 1)]

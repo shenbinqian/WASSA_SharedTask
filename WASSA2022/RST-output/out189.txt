@@ -1,0 +1,13 @@
+=====================> [[('There is a particularly rough situation with the United States , Russia , and Syria right now .', None, None, None, 1), ('The United States is receiving conflicting intelligence about attacks and conspiracies .', None, None, None, 1), ('There is a need for cooperation', None, None, None, 0), ('but diplomatic intensity is very important .', None, None, None, 1), ('Russia seems to be keeping its intelligence under wraps', None, None, None, 0), ('while Syria is in a power deluge .', None, None, None, 1)]]
+Leaf:  N Elaborate There is a particularly rough situation with the United States , Russia , and Syria right now .
+Leaf:  N Evaluation The United States is receiving conflicting intelligence about attacks and conspiracies .
+Leaf:  N Contrast There is a need for cooperation
+Leaf:  N Contrast but diplomatic intensity is very important .
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal Russia seems to be keeping its intelligence under wraps
+Leaf:  S span while Syria is in a power deluge .
+Inner:  S span None Temporal NS
+Inner:  Root None None Elaborate NS
+[('There is a particularly rough situation with the United States , Russia , and Syria right now .', None, None, None, 1), ('The United States is receiving conflicting intelligence about attacks and conspiracies .', None, None, None, 1), ('There is a need for cooperation', None, None, None, 0), ('but diplomatic intensity is very important .', None, None, None, 1), ('Russia seems to be keeping its intelligence under wraps', None, None, None, 0), ('while Syria is in a power deluge .', None, None, None, 1)]

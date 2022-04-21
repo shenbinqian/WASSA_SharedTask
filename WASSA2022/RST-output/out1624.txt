@@ -1,0 +1,41 @@
+=====================> [[('I did n’t know', None, None, None, 0), ('that cocunuts are becoming in short supply .', None, None, None, 1), ('It was a very interesting article .', None, None, None, 1), ('I did n’t realize', None, None, None, 0), ('how many things are made with cocunut', None, None, None, 0), ('or that they have some kind of bank type of thing', None, None, None, 0), ('to keep the seeds .', None, None, None, 1), ('I find it so amazing to learn about things I knew nothing about . I love cocunuts and did buy some cocunut oil', None, None, None, 0), ('but have n’t used it yet .', None, None, None, 1), ('I heard', None, None, None, 0), ('that the oil was good for your skin and hair ,', None, None, None, 0), ('although I have n’t tried it yet .', None, None, None, 1), ('Reading the article made me think about the show “ Naked and Afraid ” since the players are often in the jungle ,', None, None, None, 0), ('trying to survivor', None, None, None, 0), ('and finding cocunuts on the trees . Or on the TV show Survivor ,', None, None, None, 0), ('where they often eat and drink coconut juice . In honesty , I do n’t know', None, None, None, 0), ('if I have ever eaten a cocunut', None, None, None, 0), ('even though I thought', None, None, None, 0), ('I did .', None, None, None, 1), ('I eat mangos , kiwi ’s and oth', None, None, None, 0)]]
+Leaf:  S span I did n’t know
+Leaf:  N Attribution that cocunuts are becoming in short supply .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It was a very interesting article .
+Leaf:  S span I did n’t realize
+Leaf:  N Joint how many things are made with cocunut
+Leaf:  N Elaborate or that they have some kind of bank type of thing
+Leaf:  S span to keep the seeds .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Contrast I find it so amazing to learn about things I knew nothing about . I love cocunuts and did buy some cocunut oil
+Leaf:  S span but have n’t used it yet .
+Inner:  N Contrast None Contrast NS
+Leaf:  S span I heard
+Leaf:  N Attribution that the oil was good for your skin and hair ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span although I have n’t tried it yet .
+Inner:  S span None Contrast NS
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Enablement Reading the article made me think about the show “ Naked and Afraid ” since the players are often in the jungle ,
+Leaf:  N Temporal trying to survivor
+Leaf:  N Elaborate and finding cocunuts on the trees . Or on the TV show Survivor ,
+Leaf:  S span where they often eat and drink coconut juice . In honesty , I do n’t know
+Leaf:  N Attribution if I have ever eaten a cocunut
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span even though I thought
+Leaf:  N Attribution I did .
+Inner:  S span None Attribution SN
+Inner:  N Temporal None Contrast NS
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span I eat mangos , kiwi ’s and oth
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I did n’t know', None, None, None, 0), ('that cocunuts are becoming in short supply .', None, None, None, 1), ('It was a very interesting article .', None, None, None, 1), ('I did n’t realize', None, None, None, 0), ('how many things are made with cocunut', None, None, None, 0), ('or that they have some kind of bank type of thing', None, None, None, 0), ('to keep the seeds .', None, None, None, 1), ('I find it so amazing to learn about things I knew nothing about . I love cocunuts and did buy some cocunut oil', None, None, None, 0), ('but have n’t used it yet .', None, None, None, 1), ('I heard', None, None, None, 0), ('that the oil was good for your skin and hair ,', None, None, None, 0), ('although I have n’t tried it yet .', None, None, None, 1), ('Reading the article made me think about the show “ Naked and Afraid ” since the players are often in the jungle ,', None, None, None, 0), ('trying to survivor', None, None, None, 0), ('and finding cocunuts on the trees . Or on the TV show Survivor ,', None, None, None, 0), ('where they often eat and drink coconut juice . In honesty , I do n’t know', None, None, None, 0), ('if I have ever eaten a cocunut', None, None, None, 0), ('even though I thought', None, None, None, 0), ('I did .', None, None, None, 1), ('I eat mangos , kiwi ’s and oth', None, None, None, 0)]

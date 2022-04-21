@@ -1,0 +1,19 @@
+=====================> [[('Take a look at this story', None, None, None, 0), ('that I found online .', None, None, None, 1), ("It 's about forest fires", None, None, None, 0), ('being spread out over a couple of different states , pretty interesting .', None, None, None, 1), ('I know', None, None, None, 0), ('that I sent you the pictures', None, None, None, 0), ('of what was happening around here ,', None, None, None, 0), ('but you might be also interested in reading this story', None, None, None, 0), ('about how it is happening all over the place .', None, None, None, 1)]]
+Leaf:  N Elaborate Take a look at this story
+Leaf:  S span that I found online .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It 's about forest fires
+Leaf:  S span being spread out over a couple of different states , pretty interesting .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Elaborate that I sent you the pictures
+Leaf:  S span of what was happening around here ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but you might be also interested in reading this story
+Leaf:  S span about how it is happening all over the place .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Take a look at this story', None, None, None, 0), ('that I found online .', None, None, None, 1), ("It 's about forest fires", None, None, None, 0), ('being spread out over a couple of different states , pretty interesting .', None, None, None, 1), ('I know', None, None, None, 0), ('that I sent you the pictures', None, None, None, 0), ('of what was happening around here ,', None, None, None, 0), ('but you might be also interested in reading this story', None, None, None, 0), ('about how it is happening all over the place .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[("It 's utter devastation in New Zealand", None, None, None, 0), ('after suffering one of the worst earthquakes in 2011', None, None, None, 0), ('the South Island was pummeled with another two earthquakes', None, None, None, 0), ("and it 's aftershocks could be felt throughout the whole island .", None, None, None, 1), ('The area is completely devastated', None, None, None, 0), ('and looks like a ghost town', None, None, None, 0), ('because of all the damage and danger from the downed power lines .', None, None, None, 1)]]
+Leaf:  N Background It 's utter devastation in New Zealand
+Leaf:  N Same-Unit after suffering one of the worst earthquakes in 2011
+Leaf:  N Joint the South Island was pummeled with another two earthquakes
+Leaf:  N Joint and it 's aftershocks could be felt throughout the whole island .
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint The area is completely devastated
+Leaf:  N Cause and looks like a ghost town
+Leaf:  S span because of all the damage and danger from the downed power lines .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("It 's utter devastation in New Zealand", None, None, None, 0), ('after suffering one of the worst earthquakes in 2011', None, None, None, 0), ('the South Island was pummeled with another two earthquakes', None, None, None, 0), ("and it 's aftershocks could be felt throughout the whole island .", None, None, None, 1), ('The area is completely devastated', None, None, None, 0), ('and looks like a ghost town', None, None, None, 0), ('because of all the damage and danger from the downed power lines .', None, None, None, 1)]

@@ -1,0 +1,39 @@
+=====================> [[('So , I just read this article about a series of bombing in New York and New Jersey', None, None, None, 0), ('and how these acts are being viewed as an act of terrorism .', None, None, None, 1), ('Sometimes I still can not believe', None, None, None, 0), ('that we lived through 9/11 ,', None, None, None, 0), ('especially because before that I had never even heard the word terrorism', None, None, None, 0), ('or knew what a terrorist attack was . And now , we live in a world', None, None, None, 0), ('where we are constantly hearing about possible terror attacks or terrorists regularly on the news .', None, None, None, 1), ('It just makes me absolutely sick that this is the world', None, None, None, 0), ('I am raising', None, None, None, 0), ('my kids in', None, None, None, 0), ('and that we have to live in fear of someone', None, None, None, 0), ('trying to kill us', None, None, None, 0), ('or setting up bombs', None, None, None, 0), ('to surprise attack people .', None, None, None, 1), ('The fact', None, None, None, 0), ('that we can not live a carefree life anymore', None, None, None, 0), ('because of the sick minds of individuals scares me daily', None, None, None, 0), ('and makes me wish', None, None, None, 0), ('I could keep my kids in a bubble !!!', None, None, None, 1)]]
+Leaf:  N Elaborate So , I just read this article about a series of bombing in New York and New Jersey
+Leaf:  S span and how these acts are being viewed as an act of terrorism .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Sometimes I still can not believe
+Leaf:  N Attribution that we lived through 9/11 ,
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint especially because before that I had never even heard the word terrorism
+Leaf:  N Elaborate or knew what a terrorist attack was . And now , we live in a world
+Leaf:  S span where we are constantly hearing about possible terror attacks or terrorists regularly on the news .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate It just makes me absolutely sick that this is the world
+Leaf:  S span I am raising
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit my kids in
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and that we have to live in fear of someone
+Leaf:  N Joint trying to kill us
+Leaf:  N Enablement or setting up bombs
+Leaf:  S span to surprise attack people .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate The fact
+Leaf:  N Cause that we can not live a carefree life anymore
+Leaf:  S span because of the sick minds of individuals scares me daily
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and makes me wish
+Leaf:  N Attribution I could keep my kids in a bubble !!!
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('So , I just read this article about a series of bombing in New York and New Jersey', None, None, None, 0), ('and how these acts are being viewed as an act of terrorism .', None, None, None, 1), ('Sometimes I still can not believe', None, None, None, 0), ('that we lived through 9/11 ,', None, None, None, 0), ('especially because before that I had never even heard the word terrorism', None, None, None, 0), ('or knew what a terrorist attack was . And now , we live in a world', None, None, None, 0), ('where we are constantly hearing about possible terror attacks or terrorists regularly on the news .', None, None, None, 1), ('It just makes me absolutely sick that this is the world', None, None, None, 0), ('I am raising', None, None, None, 0), ('my kids in', None, None, None, 0), ('and that we have to live in fear of someone', None, None, None, 0), ('trying to kill us', None, None, None, 0), ('or setting up bombs', None, None, None, 0), ('to surprise attack people .', None, None, None, 1), ('The fact', None, None, None, 0), ('that we can not live a carefree life anymore', None, None, None, 0), ('because of the sick minds of individuals scares me daily', None, None, None, 0), ('and makes me wish', None, None, None, 0), ('I could keep my kids in a bubble !!!', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('hey .', None, None, None, 1), ('have u heard about the accident', None, None, None, 0), ('where a fuel tank exploded', None, None, None, 0), ('and around 75 people', None, None, None, 0), ('where burned to death', None, None, None, 0), ('and many more are injured .', None, None, None, 1), ('what a world', None, None, None, 0), ('we live in', None, None, None, 0), ('where people for some profit put their life in danger as well as other .', None, None, None, 1), ('this make me sick to my core .', None, None, None, 1), ('who going to take responsibility for all that life lost and uncomfortable', None, None, None, 0)]]
+Leaf:  N Elaborate hey .
+Leaf:  N Elaborate have u heard about the accident
+Leaf:  S span where a fuel tank exploded
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and around 75 people
+Leaf:  N Same-Unit where burned to death
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and many more are injured .
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate what a world
+Leaf:  N Elaborate we live in
+Leaf:  S span where people for some profit put their life in danger as well as other .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Topic-Comment this make me sick to my core .
+Leaf:  N Topic-Comment who going to take responsibility for all that life lost and uncomfortable
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('hey .', None, None, None, 1), ('have u heard about the accident', None, None, None, 0), ('where a fuel tank exploded', None, None, None, 0), ('and around 75 people', None, None, None, 0), ('where burned to death', None, None, None, 0), ('and many more are injured .', None, None, None, 1), ('what a world', None, None, None, 0), ('we live in', None, None, None, 0), ('where people for some profit put their life in danger as well as other .', None, None, None, 1), ('this make me sick to my core .', None, None, None, 1), ('who going to take responsibility for all that life lost and uncomfortable', None, None, None, 0)]

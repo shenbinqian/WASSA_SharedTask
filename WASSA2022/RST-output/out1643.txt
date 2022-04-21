@@ -1,0 +1,27 @@
+=====================> [[('Did you hear', None, None, None, 0), ('that the very first female US atorney general died recenty at 78 .', None, None, None, 1), ('She was put in under Clinton', None, None, None, 0), ('though so she was probably very corrupt', None, None, None, 0), ('and did a lot of bad things over the course of her career .', None, None, None, 1), ('But she went to Harvard', None, None, None, 0), ('so she must have been pretty smart regardless .', None, None, None, 1), ('She was also the one', None, None, None, 0), ('who got a little boy', None, None, None, 0), ('sent back to Cuba', None, None, None, 0), ('which is just horrible', None, None, None, 0), ('since they are living in horrible conditions with a horrible government', None, None, None, 0), ('that abuses them .', None, None, None, 1)]]
+Leaf:  S span Did you hear
+Leaf:  N Attribution that the very first female US atorney general died recenty at 78 .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast She was put in under Clinton
+Leaf:  N Joint though so she was probably very corrupt
+Leaf:  N Joint and did a lot of bad things over the course of her career .
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span But she went to Harvard
+Leaf:  N Explanation so she must have been pretty smart regardless .
+Inner:  N Contrast None Explanation SN
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate She was also the one
+Leaf:  N Elaborate who got a little boy
+Leaf:  N Elaborate sent back to Cuba
+Leaf:  N Explanation which is just horrible
+Leaf:  N Elaborate since they are living in horrible conditions with a horrible government
+Leaf:  S span that abuses them .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Did you hear', None, None, None, 0), ('that the very first female US atorney general died recenty at 78 .', None, None, None, 1), ('She was put in under Clinton', None, None, None, 0), ('though so she was probably very corrupt', None, None, None, 0), ('and did a lot of bad things over the course of her career .', None, None, None, 1), ('But she went to Harvard', None, None, None, 0), ('so she must have been pretty smart regardless .', None, None, None, 1), ('She was also the one', None, None, None, 0), ('who got a little boy', None, None, None, 0), ('sent back to Cuba', None, None, None, 0), ('which is just horrible', None, None, None, 0), ('since they are living in horrible conditions with a horrible government', None, None, None, 0), ('that abuses them .', None, None, None, 1)]

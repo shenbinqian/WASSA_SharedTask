@@ -1,0 +1,21 @@
+=====================> [[('This is one of those articles', None, None, None, 0), ('that can really make you feel paranoid .', None, None, None, 1), ('Like , what if suddenly there is a red squirrel in my backyard', None, None, None, 0), ('and it has this sickness ?', None, None, None, 1), ('And now I might have it .', None, None, None, 1), ('You know ?', None, None, None, 1), ('Stuff like that .', None, None, None, 1), ('In the other hand , it just shows how little we know of these world .', None, None, None, 1), ('Of the illness , the animals , how it affects us .', None, None, None, 1), ('So much to discover', None, None, None, 0)]]
+Leaf:  N Elaborate This is one of those articles
+Leaf:  S span that can really make you feel paranoid .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Like , what if suddenly there is a red squirrel in my backyard
+Leaf:  N Joint and it has this sickness ?
+Inner:  N Cause None Joint NN
+Leaf:  S span And now I might have it .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span You know ?
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Contrast Stuff like that .
+Leaf:  N Elaborate In the other hand , it just shows how little we know of these world .
+Leaf:  S span Of the illness , the animals , how it affects us .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span So much to discover
+Inner:  Root None None Evaluation NS
+[('This is one of those articles', None, None, None, 0), ('that can really make you feel paranoid .', None, None, None, 1), ('Like , what if suddenly there is a red squirrel in my backyard', None, None, None, 0), ('and it has this sickness ?', None, None, None, 1), ('And now I might have it .', None, None, None, 1), ('You know ?', None, None, None, 1), ('Stuff like that .', None, None, None, 1), ('In the other hand , it just shows how little we know of these world .', None, None, None, 1), ('Of the illness , the animals , how it affects us .', None, None, None, 1), ('So much to discover', None, None, None, 0)]

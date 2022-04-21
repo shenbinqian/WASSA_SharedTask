@@ -1,0 +1,27 @@
+=====================> [[('Drunk driver I ’m guessing .', None, None, None, 1), ('It is horrible .', None, None, None, 1), ('I hope', None, None, None, 0), ('he rots in jail .', None, None, None, 1), ('I have no sympathy for drunk drivers .', None, None, None, 1), ('It ’s not fair that he gets to live .', None, None, None, 1), ('He took the lives of a mother and her children .', None, None, None, 1), ('I ca n’t', None, None, None, 0), ('imagine', None, None, None, 0), ('what I would do', None, None, None, 0), ('if that happened to my family .', None, None, None, 1), ('Life is so precious .', None, None, None, 1), ('It can be taken away so fast and so randomly .', None, None, None, 1)]]
+Leaf:  N Evaluation Drunk driver I ’m guessing .
+Leaf:  N Evaluation It is horrible .
+Leaf:  S span I hope
+Leaf:  N Attribution he rots in jail .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Evaluation I have no sympathy for drunk drivers .
+Leaf:  S span It ’s not fair that he gets to live .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Explanation NS
+Leaf:  S span He took the lives of a mother and her children .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I ca n’t
+Leaf:  S span imagine
+Leaf:  N Condition what I would do
+Leaf:  S span if that happened to my family .
+Inner:  N Attribution None Condition NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Life is so precious .
+Leaf:  S span It can be taken away so fast and so randomly .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Drunk driver I ’m guessing .', None, None, None, 1), ('It is horrible .', None, None, None, 1), ('I hope', None, None, None, 0), ('he rots in jail .', None, None, None, 1), ('I have no sympathy for drunk drivers .', None, None, None, 1), ('It ’s not fair that he gets to live .', None, None, None, 1), ('He took the lives of a mother and her children .', None, None, None, 1), ('I ca n’t', None, None, None, 0), ('imagine', None, None, None, 0), ('what I would do', None, None, None, 0), ('if that happened to my family .', None, None, None, 1), ('Life is so precious .', None, None, None, 1), ('It can be taken away so fast and so randomly .', None, None, None, 1)]

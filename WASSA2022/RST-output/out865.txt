@@ -1,0 +1,25 @@
+=====================> [[('Seems like so many tragic accidents have been happening lately .', None, None, None, 1), ('I just read another article about the tragic death of a father son', None, None, None, 0), ('that took place during a hike .', None, None, None, 1), ('The both of them fell off a cliff', None, None, None, 0), ('and died recently', None, None, None, 0), ('while exploring the outdoors .', None, None, None, 1), ('There was an attempt made to recover their bodies', None, None, None, 0), ('but the exact cause was not specified .', None, None, None, 1), ('Poor souls .', None, None, None, 1), ('I pray', None, None, None, 0), ('that their family may be given strength', None, None, None, 0), ('as they discover the tragedy .', None, None, None, 1)]]
+Leaf:  N Elaborate Seems like so many tragic accidents have been happening lately .
+Leaf:  N Elaborate I just read another article about the tragic death of a father son
+Leaf:  S span that took place during a hike .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The both of them fell off a cliff
+Leaf:  N Temporal and died recently
+Leaf:  N Temporal while exploring the outdoors .
+Inner:  N Temporal None Temporal NN
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span There was an attempt made to recover their bodies
+Leaf:  N Contrast but the exact cause was not specified .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Poor souls .
+Leaf:  S span I pray
+Leaf:  N Background that their family may be given strength
+Leaf:  S span as they discover the tragedy .
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Inner:  S span None Evaluation SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Seems like so many tragic accidents have been happening lately .', None, None, None, 1), ('I just read another article about the tragic death of a father son', None, None, None, 0), ('that took place during a hike .', None, None, None, 1), ('The both of them fell off a cliff', None, None, None, 0), ('and died recently', None, None, None, 0), ('while exploring the outdoors .', None, None, None, 1), ('There was an attempt made to recover their bodies', None, None, None, 0), ('but the exact cause was not specified .', None, None, None, 1), ('Poor souls .', None, None, None, 1), ('I pray', None, None, None, 0), ('that their family may be given strength', None, None, None, 0), ('as they discover the tragedy .', None, None, None, 1)]

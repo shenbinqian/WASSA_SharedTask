@@ -1,0 +1,31 @@
+=====================> [[('Are you kidding me ?', None, None, None, 1), ('This is on YOU LA County Department of Children and Family Services !', None, None, None, 1), ('How could you let this fall through the cracks !', None, None, None, 1), ('" Authorities found no cause for alarm —', None, None, None, 0), ('school officials told social workers', None, None, None, 0), ('he lived in a safe household .', None, None, None, 1), ('" Yeah , that was said', None, None, None, 0), ('just before the boy DISAPPEARED .', None, None, None, 1), ('Then , NOTHING was done . He was alive and locked in a closet for three years ! We need more oversight at LA County !', None, None, None, 1), ('This can not happen to our children !', None, None, None, 1), ('The poor boy was drugged ,', None, None, None, 0), ('even when they moved houses .', None, None, None, 1), ('I can not believe', None, None, None, 0), ('there is a mother so cruel .', None, None, None, 1), ('You should not be allowed to have children !', None, None, None, 1)]]
+Leaf:  S span Are you kidding me ?
+Leaf:  N Summary This is on YOU LA County Department of Children and Family Services !
+Leaf:  S span How could you let this fall through the cracks !
+Inner:  N Summary None Summary NS
+Inner:  N Topic-Comment None Summary SN
+Leaf:  N Elaborate " Authorities found no cause for alarm —
+Leaf:  S span school officials told social workers
+Leaf:  N Attribution he lived in a safe household .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal " Yeah , that was said
+Leaf:  S span just before the boy DISAPPEARED .
+Inner:  N Temporal None Temporal NS
+Leaf:  N Joint Then , NOTHING was done . He was alive and locked in a closet for three years ! We need more oversight at LA County !
+Leaf:  N Joint This can not happen to our children !
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Temporal The poor boy was drugged ,
+Leaf:  S span even when they moved houses .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I can not believe
+Leaf:  N Attribution there is a mother so cruel .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span You should not be allowed to have children !
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('Are you kidding me ?', None, None, None, 1), ('This is on YOU LA County Department of Children and Family Services !', None, None, None, 1), ('How could you let this fall through the cracks !', None, None, None, 1), ('" Authorities found no cause for alarm —', None, None, None, 0), ('school officials told social workers', None, None, None, 0), ('he lived in a safe household .', None, None, None, 1), ('" Yeah , that was said', None, None, None, 0), ('just before the boy DISAPPEARED .', None, None, None, 1), ('Then , NOTHING was done . He was alive and locked in a closet for three years ! We need more oversight at LA County !', None, None, None, 1), ('This can not happen to our children !', None, None, None, 1), ('The poor boy was drugged ,', None, None, None, 0), ('even when they moved houses .', None, None, None, 1), ('I can not believe', None, None, None, 0), ('there is a mother so cruel .', None, None, None, 1), ('You should not be allowed to have children !', None, None, None, 1)]

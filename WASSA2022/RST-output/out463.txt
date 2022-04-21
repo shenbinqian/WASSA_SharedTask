@@ -1,0 +1,43 @@
+=====================> [[("It 's almost funny", None, None, None, 0), ('because I was looking at something really similar to this on Steve Wilkos ,', None, None, None, 0), ('that a baby got hurt', None, None, None, 0), ('after pushing through a window screen', None, None, None, 0), ('and Steve was yelling at her', None, None, None, 0), ('and saying how she was so negligent and a bad mom', None, None, None, 0), ('but I honestly think', None, None, None, 0), ("that it 's not the parents fault .", None, None, None, 1), ('Sometimes accidents just really so happen and kids are curious', None, None, None, 0), ('and they climb', None, None, None, 0), ('and then accidents happen .', None, None, None, 1), ("It 's really upsetting for all of those involved and I really feel for the mom in this case", None, None, None, 0), ('because she just lost her kid', None, None, None, 0), ('and she probably blames herself enough', None, None, None, 0), ("as it is . She does n't need society", None, None, None, 0), ('talking badly about her from behind closed doors .', None, None, None, 1), ('Accidents are just accidents', None, None, None, 0), ('and it can happen to anyone ,', None, None, None, 0), ('although I think', None, None, None, 0), ('that everyone can agree', None, None, None, 0), ("that it 's a really sad situation overall .", None, None, None, 1)]]
+Leaf:  N Explanation It 's almost funny
+Leaf:  S span because I was looking at something really similar to this on Steve Wilkos ,
+Inner:  S span None Explanation NS
+Leaf:  N Background that a baby got hurt
+Leaf:  S span after pushing through a window screen
+Inner:  N Cause None Background NS
+Leaf:  N Joint and Steve was yelling at her
+Leaf:  N Joint and saying how she was so negligent and a bad mom
+Inner:  N Cause None Joint NN
+Inner:  N Attribution None Cause NN
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I honestly think
+Leaf:  N Attribution that it 's not the parents fault .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Contrast NS
+Leaf:  N Temporal Sometimes accidents just really so happen and kids are curious
+Leaf:  N Temporal and they climb
+Leaf:  N Temporal and then accidents happen .
+Inner:  N Temporal None Temporal NN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Explanation It 's really upsetting for all of those involved and I really feel for the mom in this case
+Leaf:  S span because she just lost her kid
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Background and she probably blames herself enough
+Leaf:  N Elaborate as it is . She does n't need society
+Leaf:  S span talking badly about her from behind closed doors .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Accidents are just accidents
+Leaf:  N Joint and it can happen to anyone ,
+Inner:  N Attribution None Joint NN
+Leaf:  S span although I think
+Leaf:  S span that everyone can agree
+Leaf:  N Attribution that it 's a really sad situation overall .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[("It 's almost funny", None, None, None, 0), ('because I was looking at something really similar to this on Steve Wilkos ,', None, None, None, 0), ('that a baby got hurt', None, None, None, 0), ('after pushing through a window screen', None, None, None, 0), ('and Steve was yelling at her', None, None, None, 0), ('and saying how she was so negligent and a bad mom', None, None, None, 0), ('but I honestly think', None, None, None, 0), ("that it 's not the parents fault .", None, None, None, 1), ('Sometimes accidents just really so happen and kids are curious', None, None, None, 0), ('and they climb', None, None, None, 0), ('and then accidents happen .', None, None, None, 1), ("It 's really upsetting for all of those involved and I really feel for the mom in this case", None, None, None, 0), ('because she just lost her kid', None, None, None, 0), ('and she probably blames herself enough', None, None, None, 0), ("as it is . She does n't need society", None, None, None, 0), ('talking badly about her from behind closed doors .', None, None, None, 1), ('Accidents are just accidents', None, None, None, 0), ('and it can happen to anyone ,', None, None, None, 0), ('although I think', None, None, None, 0), ('that everyone can agree', None, None, None, 0), ("that it 's a really sad situation overall .", None, None, None, 1)]

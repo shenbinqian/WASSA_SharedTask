@@ -1,0 +1,21 @@
+=====================> [[('Heyy !', None, None, None, 1), ('Although this story is sad ,', None, None, None, 0), ('I found it definitely alarming', None, None, None, 0), ('and should serve as an example', None, None, None, 0), ('on how this obsession with selfies needs to stop . Apparently , a guy was killed by a python', None, None, None, 0), ('because he was trying to take a good selfie .', None, None, None, 1), ('I think', None, None, None, 0), ('he was one of those people', None, None, None, 0), ('who like to take selfies', None, None, None, 0), ('doing something daring', None, None, None, 0)]]
+Leaf:  N Evaluation Heyy !
+Leaf:  S span Although this story is sad ,
+Leaf:  N Contrast I found it definitely alarming
+Inner:  N Joint None Contrast SN
+Leaf:  N Elaborate and should serve as an example
+Leaf:  N Explanation on how this obsession with selfies needs to stop . Apparently , a guy was killed by a python
+Leaf:  S span because he was trying to take a good selfie .
+Inner:  S span None Explanation NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I think
+Leaf:  N Elaborate he was one of those people
+Leaf:  N Manner-Means who like to take selfies
+Leaf:  S span doing something daring
+Inner:  S span None Manner-Means NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Heyy !', None, None, None, 1), ('Although this story is sad ,', None, None, None, 0), ('I found it definitely alarming', None, None, None, 0), ('and should serve as an example', None, None, None, 0), ('on how this obsession with selfies needs to stop . Apparently , a guy was killed by a python', None, None, None, 0), ('because he was trying to take a good selfie .', None, None, None, 1), ('I think', None, None, None, 0), ('he was one of those people', None, None, None, 0), ('who like to take selfies', None, None, None, 0), ('doing something daring', None, None, None, 0)]

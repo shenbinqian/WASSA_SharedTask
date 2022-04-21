@@ -1,0 +1,23 @@
+=====================> [[('I heard', None, None, None, 0), ('almost 80 people died from an explosion .', None, None, None, 1), ('It was caused by lightening or something .', None, None, None, 1), ('Crazy huh ? I hope nothing like that every happens here during a fuel crisis .', None, None, None, 1), ('Over 100 were injured . So sad .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what all those people', None, None, None, 0), ('who survived', None, None, None, 0), ('are going to do .', None, None, None, 1), ('Maybe the red cross will set up something .', None, None, None, 1), ('How can I find out ?', None, None, None, 1)]]
+Leaf:  S span I heard
+Leaf:  N Attribution almost 80 people died from an explosion .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It was caused by lightening or something .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Crazy huh ? I hope nothing like that every happens here during a fuel crisis .
+Leaf:  S span Over 100 were injured . So sad .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Elaborate what all those people
+Leaf:  S span who survived
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are going to do .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Maybe the red cross will set up something .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span How can I find out ?
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I heard', None, None, None, 0), ('almost 80 people died from an explosion .', None, None, None, 1), ('It was caused by lightening or something .', None, None, None, 1), ('Crazy huh ? I hope nothing like that every happens here during a fuel crisis .', None, None, None, 1), ('Over 100 were injured . So sad .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what all those people', None, None, None, 0), ('who survived', None, None, None, 0), ('are going to do .', None, None, None, 1), ('Maybe the red cross will set up something .', None, None, None, 1), ('How can I find out ?', None, None, None, 1)]

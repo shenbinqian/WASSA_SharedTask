@@ -1,0 +1,19 @@
+=====================> [[('The outer boom', None, None, None, 0), ('which was put in place', None, None, None, 0), ('to contain the spilled oil', None, None, None, 0), ('had broke free on Friday', None, None, None, 0), ('causing the oil to spread', None, None, None, 0), ('and bad weather had prevented clean up crews from working on the spill for four consecutive days .', None, None, None, 1), ('By Saturday , salvage crews had recovered more than 40 percent of the 200,000 liters of fuel', None, None, None, 0), ('estimated to be in the vessel ,', None, None, None, 0), ('but the damage had already been done .', None, None, None, 1)]]
+Leaf:  N Elaborate The outer boom
+Leaf:  N Enablement which was put in place
+Leaf:  S span to contain the spilled oil
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit had broke free on Friday
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span causing the oil to spread
+Inner:  N Joint None Cause NS
+Leaf:  N Joint and bad weather had prevented clean up crews from working on the spill for four consecutive days .
+Inner:  N Cause None Joint NN
+Leaf:  N Elaborate By Saturday , salvage crews had recovered more than 40 percent of the 200,000 liters of fuel
+Leaf:  S span estimated to be in the vessel ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but the damage had already been done .
+Inner:  S span None Contrast SN
+Inner:  Root None None Cause NS
+[('The outer boom', None, None, None, 0), ('which was put in place', None, None, None, 0), ('to contain the spilled oil', None, None, None, 0), ('had broke free on Friday', None, None, None, 0), ('causing the oil to spread', None, None, None, 0), ('and bad weather had prevented clean up crews from working on the spill for four consecutive days .', None, None, None, 1), ('By Saturday , salvage crews had recovered more than 40 percent of the 200,000 liters of fuel', None, None, None, 0), ('estimated to be in the vessel ,', None, None, None, 0), ('but the damage had already been done .', None, None, None, 1)]

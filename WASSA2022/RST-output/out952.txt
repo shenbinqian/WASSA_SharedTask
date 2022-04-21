@@ -1,0 +1,27 @@
+=====================> [[('I just read this article about a haze', None, None, None, 0), ('that was responsible for killing 100,000 people .', None, None, None, 1), ('Can you believe', None, None, None, 0), ('that !?', None, None, None, 1), ('The haze was caused by fires', None, None, None, 0), ('used to clear rain forest ,', None, None, None, 0), ('if I remember correctly .', None, None, None, 1), ('I mean could you imagine that happening here .', None, None, None, 1), ('It is unfathomable .', None, None, None, 1), ('I know', None, None, None, 0), ('we have our wildfires', None, None, None, 0), ('but very few people die to them .', None, None, None, 1), ('Imagine what people are going through .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about a haze
+Leaf:  S span that was responsible for killing 100,000 people .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Can you believe
+Leaf:  N Attribution that !?
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The haze was caused by fires
+Leaf:  S span used to clear rain forest ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span if I remember correctly .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span I mean could you imagine that happening here .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is unfathomable .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know
+Leaf:  N Attribution we have our wildfires
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but very few people die to them .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Imagine what people are going through .
+Inner:  Root None None Evaluation NS
+[('I just read this article about a haze', None, None, None, 0), ('that was responsible for killing 100,000 people .', None, None, None, 1), ('Can you believe', None, None, None, 0), ('that !?', None, None, None, 1), ('The haze was caused by fires', None, None, None, 0), ('used to clear rain forest ,', None, None, None, 0), ('if I remember correctly .', None, None, None, 1), ('I mean could you imagine that happening here .', None, None, None, 1), ('It is unfathomable .', None, None, None, 1), ('I know', None, None, None, 0), ('we have our wildfires', None, None, None, 0), ('but very few people die to them .', None, None, None, 1), ('Imagine what people are going through .', None, None, None, 1)]

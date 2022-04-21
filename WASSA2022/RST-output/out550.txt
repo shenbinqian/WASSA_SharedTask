@@ -1,0 +1,27 @@
+=====================> [[("It does n't matter what country", None, None, None, 0), ('you live in .', None, None, None, 1), ('The powerful will always stomp on the weak .', None, None, None, 1), ('Expecting anything from your government or your party is pointless', None, None, None, 0), ('unless you have some amount of influence .', None, None, None, 1), ('Politics have not stopped war , poverty , disease , crime , or anything else . It simply is a way to subjugate mass amounts of people no differently than in olden times . They keep painting a pretty picture ,', None, None, None, 0), ('and we all live in this illusion', None, None, None, 0), ('that life can be great here or there . But that is because there is not enough focus on the horrible things happening under our noses , even in our own neighborhoods . People are wretched ,', None, None, None, 0), ('and those', None, None, None, 0), ('who rise to power', None, None, None, 0), ('will continue to be the most retched', None, None, None, 0), ('as they sell themselves out to any donor , or support', None, None, None, 0), ('that will keep them in power .', None, None, None, 1)]]
+Leaf:  N Elaborate It does n't matter what country
+Leaf:  S span you live in .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span The powerful will always stomp on the weak .
+Inner:  N Summary None Explanation NS
+Leaf:  N Condition Expecting anything from your government or your party is pointless
+Leaf:  S span unless you have some amount of influence .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Summary NS
+Leaf:  N Joint Politics have not stopped war , poverty , disease , crime , or anything else . It simply is a way to subjugate mass amounts of people no differently than in olden times . They keep painting a pretty picture ,
+Leaf:  N Elaborate and we all live in this illusion
+Leaf:  S span that life can be great here or there . But that is because there is not enough focus on the horrible things happening under our noses , even in our own neighborhoods . People are wretched ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and those
+Leaf:  S span who rise to power
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will continue to be the most retched
+Inner:  N Background None Same-Unit NN
+Leaf:  N Elaborate as they sell themselves out to any donor , or support
+Leaf:  S span that will keep them in power .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("It does n't matter what country", None, None, None, 0), ('you live in .', None, None, None, 1), ('The powerful will always stomp on the weak .', None, None, None, 1), ('Expecting anything from your government or your party is pointless', None, None, None, 0), ('unless you have some amount of influence .', None, None, None, 1), ('Politics have not stopped war , poverty , disease , crime , or anything else . It simply is a way to subjugate mass amounts of people no differently than in olden times . They keep painting a pretty picture ,', None, None, None, 0), ('and we all live in this illusion', None, None, None, 0), ('that life can be great here or there . But that is because there is not enough focus on the horrible things happening under our noses , even in our own neighborhoods . People are wretched ,', None, None, None, 0), ('and those', None, None, None, 0), ('who rise to power', None, None, None, 0), ('will continue to be the most retched', None, None, None, 0), ('as they sell themselves out to any donor , or support', None, None, None, 0), ('that will keep them in power .', None, None, None, 1)]

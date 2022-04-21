@@ -1,0 +1,25 @@
+=====================> [[('Could you imagine ?', None, None, None, 1), ('That is one of the most horrific things', None, None, None, 0), ('I have heard .', None, None, None, 1), ('My heart hurts for his family .', None, None, None, 1), ('It would be hard enough to lose someone close to you but in such a way !', None, None, None, 1), ("I would n't be able to stop thinking about it .", None, None, None, 1), ('The poor man must have been terrified .', None, None, None, 1), ('I hope', None, None, None, 0), ('it was so quick', None, None, None, 0), ("that he did n't know what was happening .", None, None, None, 1), ('I hope', None, None, None, 0), ('his family and co-workers find peace .', None, None, None, 1)]]
+Leaf:  N Elaborate Could you imagine ?
+Leaf:  N Elaborate That is one of the most horrific things
+Leaf:  S span I have heard .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation My heart hurts for his family .
+Leaf:  N Evaluation It would be hard enough to lose someone close to you but in such a way !
+Leaf:  S span I would n't be able to stop thinking about it .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation The poor man must have been terrified .
+Leaf:  S span I hope
+Leaf:  N Cause it was so quick
+Leaf:  S span that he did n't know what was happening .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution his family and co-workers find peace .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Could you imagine ?', None, None, None, 1), ('That is one of the most horrific things', None, None, None, 0), ('I have heard .', None, None, None, 1), ('My heart hurts for his family .', None, None, None, 1), ('It would be hard enough to lose someone close to you but in such a way !', None, None, None, 1), ("I would n't be able to stop thinking about it .", None, None, None, 1), ('The poor man must have been terrified .', None, None, None, 1), ('I hope', None, None, None, 0), ('it was so quick', None, None, None, 0), ("that he did n't know what was happening .", None, None, None, 1), ('I hope', None, None, None, 0), ('his family and co-workers find peace .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[("Venezuela and many of it 's sister countries are going through a crisis .", None, None, None, 1), ('Due to drops in oil prices , and the loss of income', None, None, None, 0), ('the country has received from this drop ,', None, None, None, 0), ('the citizens are the ones', None, None, None, 0), ('that are paying for it .', None, None, None, 1), ('They are hungry ,', None, None, None, 0), ('there is issues with people not having enough food and starving .', None, None, None, 1), ('Their political powers are corrupt', None, None, None, 0), ("and ca n't be counted on for help .", None, None, None, 1), ('There is fighting , rebels and rampant crime .', None, None, None, 1), ('My heart breaks for this people ,', None, None, None, 0), ("as they do n't have anyone", None, None, None, 0), ('to turn to for help .', None, None, None, 1), ('They feel powerless , hungry and scared .', None, None, None, 1)]]
+Leaf:  N Manner-Means Venezuela and many of it 's sister countries are going through a crisis .
+Leaf:  N Elaborate Due to drops in oil prices , and the loss of income
+Leaf:  S span the country has received from this drop ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate the citizens are the ones
+Leaf:  S span that are paying for it .
+Inner:  N Explanation None Elaborate NS
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Joint They are hungry ,
+Leaf:  N Joint there is issues with people not having enough food and starving .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint Their political powers are corrupt
+Leaf:  N Joint and ca n't be counted on for help .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span There is fighting , rebels and rampant crime .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Explanation My heart breaks for this people ,
+Leaf:  N Elaborate as they do n't have anyone
+Leaf:  S span to turn to for help .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span They feel powerless , hungry and scared .
+Inner:  Root None None Evaluation NS
+[("Venezuela and many of it 's sister countries are going through a crisis .", None, None, None, 1), ('Due to drops in oil prices , and the loss of income', None, None, None, 0), ('the country has received from this drop ,', None, None, None, 0), ('the citizens are the ones', None, None, None, 0), ('that are paying for it .', None, None, None, 1), ('They are hungry ,', None, None, None, 0), ('there is issues with people not having enough food and starving .', None, None, None, 1), ('Their political powers are corrupt', None, None, None, 0), ("and ca n't be counted on for help .", None, None, None, 1), ('There is fighting , rebels and rampant crime .', None, None, None, 1), ('My heart breaks for this people ,', None, None, None, 0), ("as they do n't have anyone", None, None, None, 0), ('to turn to for help .', None, None, None, 1), ('They feel powerless , hungry and scared .', None, None, None, 1)]

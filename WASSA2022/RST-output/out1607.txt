@@ -1,0 +1,19 @@
+=====================> [[('We need to be more responsible with our wilderness areas !', None, None, None, 1), ('It is alarming that no one wants to talk', None, None, None, 0), ('about how these areas are being destroyed by development', None, None, None, 0), ('and can never be returned to their original wilderness states .', None, None, None, 1), ('Can you imagine a world', None, None, None, 0), ('in which our children can never go camping', None, None, None, 0), ('or hiking in the wilderness', None, None, None, 0), ('because it has all been destroyed', None, None, None, 0), ('and turned into buildings ??', None, None, None, 1)]]
+Leaf:  N Explanation We need to be more responsible with our wilderness areas !
+Leaf:  S span It is alarming that no one wants to talk
+Leaf:  N Joint about how these areas are being destroyed by development
+Leaf:  N Joint and can never be returned to their original wilderness states .
+Inner:  N Attribution None Joint NN
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate Can you imagine a world
+Leaf:  N Joint in which our children can never go camping
+Leaf:  N Joint or hiking in the wilderness
+Inner:  N Explanation None Joint NN
+Leaf:  N Comparison because it has all been destroyed
+Leaf:  N Comparison and turned into buildings ??
+Inner:  S span None Comparison NN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  Root None None Explanation NS
+[('We need to be more responsible with our wilderness areas !', None, None, None, 1), ('It is alarming that no one wants to talk', None, None, None, 0), ('about how these areas are being destroyed by development', None, None, None, 0), ('and can never be returned to their original wilderness states .', None, None, None, 1), ('Can you imagine a world', None, None, None, 0), ('in which our children can never go camping', None, None, None, 0), ('or hiking in the wilderness', None, None, None, 0), ('because it has all been destroyed', None, None, None, 0), ('and turned into buildings ??', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Guys , please read this .', None, None, None, 1), ('This issue needs to be seen by more of us', None, None, None, 0), ('and acknowledged as something', None, None, None, 0), ('that happens more', None, None, None, 0), ('than we realize .', None, None, None, 1), ('Is this something', None, None, None, 0), ('we can change', None, None, None, 0), ('or work on as a community ?', None, None, None, 1), ('Please help me think of ways', None, None, None, 0), ('we can work on making this a nonissue in the future for the next generation .', None, None, None, 1), ('This is our kids and grandkids future', None, None, None, 0), ('we are thinking of .', None, None, None, 1)]]
+Leaf:  N Evaluation Guys , please read this .
+Leaf:  N Joint This issue needs to be seen by more of us
+Leaf:  N Elaborate and acknowledged as something
+Leaf:  N Comparison that happens more
+Leaf:  S span than we realize .
+Inner:  S span None Comparison NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate Is this something
+Leaf:  N Joint we can change
+Leaf:  N Joint or work on as a community ?
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate Please help me think of ways
+Leaf:  S span we can work on making this a nonissue in the future for the next generation .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is our kids and grandkids future
+Leaf:  S span we are thinking of .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Evaluation NS
+[('Guys , please read this .', None, None, None, 1), ('This issue needs to be seen by more of us', None, None, None, 0), ('and acknowledged as something', None, None, None, 0), ('that happens more', None, None, None, 0), ('than we realize .', None, None, None, 1), ('Is this something', None, None, None, 0), ('we can change', None, None, None, 0), ('or work on as a community ?', None, None, None, 1), ('Please help me think of ways', None, None, None, 0), ('we can work on making this a nonissue in the future for the next generation .', None, None, None, 1), ('This is our kids and grandkids future', None, None, None, 0), ('we are thinking of .', None, None, None, 1)]

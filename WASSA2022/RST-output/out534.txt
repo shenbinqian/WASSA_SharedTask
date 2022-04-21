@@ -1,0 +1,41 @@
+=====================> [[('Here is an article for you .', None, None, None, 1), ("It 's an old one , obviously .", None, None, None, 1), ('I am so sick of Republicans .', None, None, None, 1), ('They are a cowardly , spineless bunch', None, None, None, 0), ('who fall in line behind Trump every time .', None, None, None, 1), ("Let 's hope they get a major butt whooping in November .", None, None, None, 1), ('But this article demonstrates', None, None, None, 0), ("how we ca n't take anything for granted .", None, None, None, 1), ('I remember back then ,', None, None, None, 0), ('when all the polls showing wins for Hillary and the Democrats .', None, None, None, 1), ("I have n't trusted the polls since then ,", None, None, None, 0), ("and I know you do n't trust them either .", None, None, None, 1), ('And who knows', None, None, None, 0), ('what the Russians are going to do this time around ?', None, None, None, 1), ('No one has tried to stop them ,', None, None, None, 0), ("so why would n't they try to interfere in our elections again", None, None, None, 0), ('? We have to keep an eye out', None, None, None, 0), ('and do whatever we can', None, None, None, 0), ('to make sure', None, None, None, 0), ("there 's no funny business at the polls in November .", None, None, None, 1)]]
+Leaf:  N Elaborate Here is an article for you .
+Leaf:  S span It 's an old one , obviously .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I am so sick of Republicans .
+Leaf:  N Elaborate They are a cowardly , spineless bunch
+Leaf:  S span who fall in line behind Trump every time .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Let 's hope they get a major butt whooping in November .
+Inner:  S span None Evaluation NS
+Leaf:  S span But this article demonstrates
+Leaf:  N Attribution how we ca n't take anything for granted .
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  S span I remember back then ,
+Leaf:  N Temporal when all the polls showing wins for Hillary and the Democrats .
+Inner:  S span None Temporal SN
+Leaf:  N Joint I have n't trusted the polls since then ,
+Leaf:  N Joint and I know you do n't trust them either .
+Inner:  N Joint None Joint NN
+Leaf:  S span And who knows
+Leaf:  N Attribution what the Russians are going to do this time around ?
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span No one has tried to stop them ,
+Leaf:  N Contrast so why would n't they try to interfere in our elections again
+Inner:  N Topic-Comment None Contrast SN
+Leaf:  N Joint ? We have to keep an eye out
+Leaf:  N Enablement and do whatever we can
+Leaf:  S span to make sure
+Leaf:  N Attribution there 's no funny business at the polls in November .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Enablement NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Background None Joint NN
+Inner:  S span None Background SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Here is an article for you .', None, None, None, 1), ("It 's an old one , obviously .", None, None, None, 1), ('I am so sick of Republicans .', None, None, None, 1), ('They are a cowardly , spineless bunch', None, None, None, 0), ('who fall in line behind Trump every time .', None, None, None, 1), ("Let 's hope they get a major butt whooping in November .", None, None, None, 1), ('But this article demonstrates', None, None, None, 0), ("how we ca n't take anything for granted .", None, None, None, 1), ('I remember back then ,', None, None, None, 0), ('when all the polls showing wins for Hillary and the Democrats .', None, None, None, 1), ("I have n't trusted the polls since then ,", None, None, None, 0), ("and I know you do n't trust them either .", None, None, None, 1), ('And who knows', None, None, None, 0), ('what the Russians are going to do this time around ?', None, None, None, 1), ('No one has tried to stop them ,', None, None, None, 0), ("so why would n't they try to interfere in our elections again", None, None, None, 0), ('? We have to keep an eye out', None, None, None, 0), ('and do whatever we can', None, None, None, 0), ('to make sure', None, None, None, 0), ("there 's no funny business at the polls in November .", None, None, None, 1)]

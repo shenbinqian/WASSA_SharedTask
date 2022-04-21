@@ -1,0 +1,13 @@
+=====================> [[("We really do n't think of air pollution all that much in most of the country ,", None, None, None, 0), ('but it seems to be significant problem in certain larger areas .', None, None, None, 1), ('Apparently India is having a lot of issues with it ,', None, None, None, 0), ("and it 's making people sick .", None, None, None, 1), ("It 's really sad when places put more emphasis on businesses", None, None, None, 0), ('than they do on the health of the people .', None, None, None, 1)]]
+Leaf:  S span We really do n't think of air pollution all that much in most of the country ,
+Leaf:  N Contrast but it seems to be significant problem in certain larger areas .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint Apparently India is having a lot of issues with it ,
+Leaf:  N Joint and it 's making people sick .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Comparison It 's really sad when places put more emphasis on businesses
+Leaf:  N Comparison than they do on the health of the people .
+Inner:  S span None Comparison NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("We really do n't think of air pollution all that much in most of the country ,", None, None, None, 0), ('but it seems to be significant problem in certain larger areas .', None, None, None, 1), ('Apparently India is having a lot of issues with it ,', None, None, None, 0), ("and it 's making people sick .", None, None, None, 1), ("It 's really sad when places put more emphasis on businesses", None, None, None, 0), ('than they do on the health of the people .', None, None, None, 1)]

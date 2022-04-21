@@ -1,0 +1,19 @@
+=====================> [[('Aw , look ,', None, None, None, 0), ("I did n't know", None, None, None, 0), ('Pete Burns died .', None, None, None, 1), ("I 'm glad he was happy with all his surgeries and his life ,", None, None, None, 0), ("even if I was n't .", None, None, None, 1), ('He was so hot', None, None, None, 0), ('before he did all that , man . Gorgeous voice . Why are all the pretty ones so often the wrong kind of crazy ?', None, None, None, 1), ('Now I have to go listen to that song ,', None, None, None, 0), ("or it 's going to be stuck in my head all day .", None, None, None, 1)]]
+Leaf:  N Same-Unit Aw , look ,
+Leaf:  S span I did n't know
+Leaf:  N Attribution Pete Burns died .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Contrast I 'm glad he was happy with all his surgeries and his life ,
+Leaf:  S span even if I was n't .
+Inner:  S span None Contrast NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Temporal He was so hot
+Leaf:  S span before he did all that , man . Gorgeous voice . Why are all the pretty ones so often the wrong kind of crazy ?
+Inner:  S span None Temporal NS
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  S span Now I have to go listen to that song ,
+Leaf:  N Condition or it 's going to be stuck in my head all day .
+Inner:  N Topic-Comment None Condition SN
+Inner:  Root None None Topic-Comment NN
+[('Aw , look ,', None, None, None, 0), ("I did n't know", None, None, None, 0), ('Pete Burns died .', None, None, None, 1), ("I 'm glad he was happy with all his surgeries and his life ,", None, None, None, 0), ("even if I was n't .", None, None, None, 1), ('He was so hot', None, None, None, 0), ('before he did all that , man . Gorgeous voice . Why are all the pretty ones so often the wrong kind of crazy ?', None, None, None, 1), ('Now I have to go listen to that song ,', None, None, None, 0), ("or it 's going to be stuck in my head all day .", None, None, None, 1)]

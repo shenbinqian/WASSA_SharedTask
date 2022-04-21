@@ -1,0 +1,27 @@
+=====================> [[('This is a growing problem', None, None, None, 0), ('I see with almost anything .', None, None, None, 1), ('If there is enough money', None, None, None, 0), ('backing something', None, None, None, 0), ('people will destroy', None, None, None, 0), ('what they want', None, None, None, 0), ('to get their way .', None, None, None, 1), ('Endangered animals are of no interest to certain people', None, None, None, 0), ('if there is money', None, None, None, 0), ('to be made .', None, None, None, 1), ('Stories like these make me sad', None, None, None, 0), ('and I wonder', None, None, None, 0), ('when these kind of things will stop .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a growing problem
+Leaf:  S span I see with almost anything .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate If there is enough money
+Leaf:  S span backing something
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate people will destroy
+Leaf:  N Enablement what they want
+Leaf:  S span to get their way .
+Inner:  S span None Enablement NS
+Inner:  N Condition None Elaborate NS
+Inner:  N Elaborate None Condition SN
+Leaf:  N Condition Endangered animals are of no interest to certain people
+Leaf:  N Elaborate if there is money
+Leaf:  S span to be made .
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Stories like these make me sad
+Leaf:  S span and I wonder
+Leaf:  N Attribution when these kind of things will stop .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This is a growing problem', None, None, None, 0), ('I see with almost anything .', None, None, None, 1), ('If there is enough money', None, None, None, 0), ('backing something', None, None, None, 0), ('people will destroy', None, None, None, 0), ('what they want', None, None, None, 0), ('to get their way .', None, None, None, 1), ('Endangered animals are of no interest to certain people', None, None, None, 0), ('if there is money', None, None, None, 0), ('to be made .', None, None, None, 1), ('Stories like these make me sad', None, None, None, 0), ('and I wonder', None, None, None, 0), ('when these kind of things will stop .', None, None, None, 1)]

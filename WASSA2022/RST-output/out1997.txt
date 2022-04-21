@@ -1,0 +1,21 @@
+=====================> [[('That was a very long read .', None, None, None, 1), ('My take is the usual dealing with businesses like this .', None, None, None, 1), ('Any research', None, None, None, 0), ('not done by a neutral third party', None, None, None, 0), ("ca n't be relied on", None, None, None, 0), ('because it could be biased .', None, None, None, 1), ('Concern is legitimate in this case', None, None, None, 0), ('before starting the project .', None, None, None, 1), ('The explanation', None, None, None, 0), ('about what the toxin can do felt a little vague for most of the paper .', None, None, None, 1)]]
+Leaf:  N Elaborate That was a very long read .
+Leaf:  N Elaborate My take is the usual dealing with businesses like this .
+Leaf:  N Elaborate Any research
+Leaf:  S span not done by a neutral third party
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Explanation ca n't be relied on
+Leaf:  S span because it could be biased .
+Inner:  N Same-Unit None Explanation NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Temporal Concern is legitimate in this case
+Leaf:  S span before starting the project .
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The explanation
+Leaf:  S span about what the toxin can do felt a little vague for most of the paper .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('That was a very long read .', None, None, None, 1), ('My take is the usual dealing with businesses like this .', None, None, None, 1), ('Any research', None, None, None, 0), ('not done by a neutral third party', None, None, None, 0), ("ca n't be relied on", None, None, None, 0), ('because it could be biased .', None, None, None, 1), ('Concern is legitimate in this case', None, None, None, 0), ('before starting the project .', None, None, None, 1), ('The explanation', None, None, None, 0), ('about what the toxin can do felt a little vague for most of the paper .', None, None, None, 1)]

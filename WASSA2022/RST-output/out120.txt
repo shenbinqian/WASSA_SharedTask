@@ -1,0 +1,25 @@
+=====================> [[('Polar bears deserve the respect', None, None, None, 0), ('they deserve .', None, None, None, 1), ('They do not deserve to be treated the way', None, None, None, 0), ('they are now .', None, None, None, 1), ("There 's no reason", None, None, None, 0), ('to kill these animals', None, None, None, 0), ('and it disgusts me', None, None, None, 0), ('that humans exist', None, None, None, 0), ('just to cause harm to them .', None, None, None, 1), ('I hope', None, None, None, 0), ("one day there 's a collective effort", None, None, None, 0), ('to stop the growing genocide of these gentle and humble creatures .', None, None, None, 1)]]
+Leaf:  N Elaborate Polar bears deserve the respect
+Leaf:  S span they deserve .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate They do not deserve to be treated the way
+Leaf:  S span they are now .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate There 's no reason
+Leaf:  S span to kill these animals
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and it disgusts me
+Leaf:  N Enablement that humans exist
+Leaf:  S span just to cause harm to them .
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate one day there 's a collective effort
+Leaf:  S span to stop the growing genocide of these gentle and humble creatures .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Condition None Attribution SN
+Inner:  Root None None Condition SN
+[('Polar bears deserve the respect', None, None, None, 0), ('they deserve .', None, None, None, 1), ('They do not deserve to be treated the way', None, None, None, 0), ('they are now .', None, None, None, 1), ("There 's no reason", None, None, None, 0), ('to kill these animals', None, None, None, 0), ('and it disgusts me', None, None, None, 0), ('that humans exist', None, None, None, 0), ('just to cause harm to them .', None, None, None, 1), ('I hope', None, None, None, 0), ("one day there 's a collective effort", None, None, None, 0), ('to stop the growing genocide of these gentle and humble creatures .', None, None, None, 1)]

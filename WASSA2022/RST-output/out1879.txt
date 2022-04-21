@@ -1,0 +1,15 @@
+=====================> [[("Trump 's win was an upset", None, None, None, 0), ('but it should not of really been that uprising .', None, None, None, 1), ('Some polling sites gave him a thirty percent chance', None, None, None, 0), ('of winning ,', None, None, None, 0), ('and Clinton was a historical unpopular candidate .', None, None, None, 1), ('The democracts should look within on solving there problems .', None, None, None, 1), ('they should focus on nominating a better candidate the next time around .', None, None, None, 1)]]
+Leaf:  N Contrast Trump 's win was an upset
+Leaf:  N Contrast but it should not of really been that uprising .
+Inner:  N Explanation None Contrast NN
+Leaf:  N Elaborate Some polling sites gave him a thirty percent chance
+Leaf:  S span of winning ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and Clinton was a historical unpopular candidate .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint The democracts should look within on solving there problems .
+Leaf:  N Joint they should focus on nominating a better candidate the next time around .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[("Trump 's win was an upset", None, None, None, 0), ('but it should not of really been that uprising .', None, None, None, 1), ('Some polling sites gave him a thirty percent chance', None, None, None, 0), ('of winning ,', None, None, None, 0), ('and Clinton was a historical unpopular candidate .', None, None, None, 1), ('The democracts should look within on solving there problems .', None, None, None, 1), ('they should focus on nominating a better candidate the next time around .', None, None, None, 1)]

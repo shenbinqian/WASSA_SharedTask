@@ -1,0 +1,17 @@
+=====================> [[('are you looking for an informative , creative and interesting article', None, None, None, 0), ('to read ?', None, None, None, 1), ('Just for fun or educational purposes ?', None, None, None, 1), ('then this the article for you .', None, None, None, 1), ('this article is really interesting .', None, None, None, 1), ('the author explains things in away', None, None, None, 0), ('that anyone can understand them .', None, None, None, 1), ("the author 's use of language is genius and very interesting", None, None, None, 0)]]
+Leaf:  N Elaborate are you looking for an informative , creative and interesting article
+Leaf:  S span to read ?
+Inner:  N Summary None Elaborate NS
+Leaf:  S span Just for fun or educational purposes ?
+Inner:  S span None Summary NS
+Leaf:  N Elaborate then this the article for you .
+Leaf:  N Elaborate this article is really interesting .
+Leaf:  S span the author explains things in away
+Leaf:  N Attribution that anyone can understand them .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint the author 's use of language is genius and very interesting
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  Root None None Background SN
+[('are you looking for an informative , creative and interesting article', None, None, None, 0), ('to read ?', None, None, None, 1), ('Just for fun or educational purposes ?', None, None, None, 1), ('then this the article for you .', None, None, None, 1), ('this article is really interesting .', None, None, None, 1), ('the author explains things in away', None, None, None, 0), ('that anyone can understand them .', None, None, None, 1), ("the author 's use of language is genius and very interesting", None, None, None, 0)]

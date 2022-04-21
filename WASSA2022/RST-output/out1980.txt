@@ -1,0 +1,17 @@
+=====================> [[('Fuck Trump .', None, None, None, 1), ('Fuck that asshole piece of garbage .', None, None, None, 1), ('How stupid is this country', None, None, None, 0), ('to elect someone like that ?', None, None, None, 1), ('This article feels like a decade old there have been so many controversies since then .', None, None, None, 1), ('All of his promises were shit', None, None, None, 0), ('and he still managed to break them', None, None, None, 0), ('and be a unparalleled asshole , almost impressive in the worst way .', None, None, None, 1)]]
+Leaf:  N Joint Fuck Trump .
+Leaf:  N Joint Fuck that asshole piece of garbage .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate How stupid is this country
+Leaf:  S span to elect someone like that ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate This article feels like a decade old there have been so many controversies since then .
+Leaf:  S span All of his promises were shit
+Leaf:  S span and he still managed to break them
+Leaf:  N Manner-Means and be a unparalleled asshole , almost impressive in the worst way .
+Inner:  N Contrast None Manner-Means SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Fuck Trump .', None, None, None, 1), ('Fuck that asshole piece of garbage .', None, None, None, 1), ('How stupid is this country', None, None, None, 0), ('to elect someone like that ?', None, None, None, 1), ('This article feels like a decade old there have been so many controversies since then .', None, None, None, 1), ('All of his promises were shit', None, None, None, 0), ('and he still managed to break them', None, None, None, 0), ('and be a unparalleled asshole , almost impressive in the worst way .', None, None, None, 1)]

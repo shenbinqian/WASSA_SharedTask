@@ -1,0 +1,27 @@
+=====================> [[("I do n't think", None, None, None, 0), ('that it is fair to compare President Trump to Nazi Germany or the holocaust .', None, None, None, 1), ('I am not a fan of President Trump by any means ,', None, None, None, 0), ('but I also have not once thought about comparing him to such a horrific part of the history of this world .', None, None, None, 1), ('Jews should not be worried', None, None, None, 0), ('that there will be another holocaust', None, None, None, 0), ("or that they will have to go back into concentration camps . I do n't think", None, None, None, 0), ('the country would ever let that happen again ,', None, None, None, 0), ("and I do n't think", None, None, None, 0), ('that Donald Trump would go down that road either .', None, None, None, 1), ('He has a tendency', None, None, None, 0), ('to act like a child ,', None, None, None, 0), ('but that would be a far stretch , even for him .', None, None, None, 1)]]
+Leaf:  S span I do n't think
+Leaf:  N Attribution that it is fair to compare President Trump to Nazi Germany or the holocaust .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I am not a fan of President Trump by any means ,
+Leaf:  S span but I also have not once thought about comparing him to such a horrific part of the history of this world .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Jews should not be worried
+Leaf:  N Joint that there will be another holocaust
+Leaf:  S span or that they will have to go back into concentration camps . I do n't think
+Leaf:  N Attribution the country would ever let that happen again ,
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  S span and I do n't think
+Leaf:  N Attribution that Donald Trump would go down that road either .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate He has a tendency
+Leaf:  S span to act like a child ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but that would be a far stretch , even for him .
+Inner:  S span None Contrast NS
+Inner:  Root None None Explanation NS
+[("I do n't think", None, None, None, 0), ('that it is fair to compare President Trump to Nazi Germany or the holocaust .', None, None, None, 1), ('I am not a fan of President Trump by any means ,', None, None, None, 0), ('but I also have not once thought about comparing him to such a horrific part of the history of this world .', None, None, None, 1), ('Jews should not be worried', None, None, None, 0), ('that there will be another holocaust', None, None, None, 0), ("or that they will have to go back into concentration camps . I do n't think", None, None, None, 0), ('the country would ever let that happen again ,', None, None, None, 0), ("and I do n't think", None, None, None, 0), ('that Donald Trump would go down that road either .', None, None, None, 1), ('He has a tendency', None, None, None, 0), ('to act like a child ,', None, None, None, 0), ('but that would be a far stretch , even for him .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('what a terrible tragedy , Richard Hong was found dead .', None, None, None, 1), ('i have heard the name before', None, None, None, 0), ("but i do n't think", None, None, None, 0), ('i have ever seen him acting in anything though .', None, None, None, 1), ('i wonder what happen ? hope', None, None, None, 0), ('the police investigate the situation thoroughly.i wonder', None, None, None, 0), ('if he died from natural causes', None, None, None, 0), ("or was a result of foul play.Whatever the cause it 's terrible ,", None, None, None, 0), ('my thoughts and prays go out to his family and friends .', None, None, None, 1)]]
+Leaf:  N Elaborate what a terrible tragedy , Richard Hong was found dead .
+Leaf:  S span i have heard the name before
+Leaf:  S span but i do n't think
+Leaf:  N Attribution i have ever seen him acting in anything though .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span i wonder what happen ? hope
+Leaf:  N Attribution the police investigate the situation thoroughly.i wonder
+Inner:  S span None Attribution SN
+Leaf:  N Joint if he died from natural causes
+Leaf:  N Joint or was a result of foul play.Whatever the cause it 's terrible ,
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span my thoughts and prays go out to his family and friends .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('what a terrible tragedy , Richard Hong was found dead .', None, None, None, 1), ('i have heard the name before', None, None, None, 0), ("but i do n't think", None, None, None, 0), ('i have ever seen him acting in anything though .', None, None, None, 1), ('i wonder what happen ? hope', None, None, None, 0), ('the police investigate the situation thoroughly.i wonder', None, None, None, 0), ('if he died from natural causes', None, None, None, 0), ("or was a result of foul play.Whatever the cause it 's terrible ,", None, None, None, 0), ('my thoughts and prays go out to his family and friends .', None, None, None, 1)]

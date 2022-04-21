@@ -1,0 +1,19 @@
+=====================> [[('So , I just read an article', None, None, None, 0), ('that I have absolutely no interest in .', None, None, None, 1), ("It was a bunch of gossip about Val Kilmer 's health ,", None, None, None, 0), ('as if that is newsworthy .', None, None, None, 1), ("I 'm not even sure", None, None, None, 0), ('why I read the whole thing .', None, None, None, 1), ('I gained nothing in the way of knowledge', None, None, None, 0), ('by reading this article . What a waste of time !', None, None, None, 1), ('People really should learn how to mind their own business .', None, None, None, 1)]]
+Leaf:  N Elaborate So , I just read an article
+Leaf:  S span that I have absolutely no interest in .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Manner-Means It was a bunch of gossip about Val Kilmer 's health ,
+Leaf:  S span as if that is newsworthy .
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I 'm not even sure
+Leaf:  N Attribution why I read the whole thing .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause I gained nothing in the way of knowledge
+Leaf:  S span by reading this article . What a waste of time !
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span People really should learn how to mind their own business .
+Inner:  Root None None Evaluation NS
+[('So , I just read an article', None, None, None, 0), ('that I have absolutely no interest in .', None, None, None, 1), ("It was a bunch of gossip about Val Kilmer 's health ,", None, None, None, 0), ('as if that is newsworthy .', None, None, None, 1), ("I 'm not even sure", None, None, None, 0), ('why I read the whole thing .', None, None, None, 1), ('I gained nothing in the way of knowledge', None, None, None, 0), ('by reading this article . What a waste of time !', None, None, None, 1), ('People really should learn how to mind their own business .', None, None, None, 1)]

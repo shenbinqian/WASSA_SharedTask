@@ -1,0 +1,23 @@
+=====================> [[('This will embolden Trump supporters stance on immigration reform .', None, None, None, 1), ('I however do not believe', None, None, None, 0), ('just cause you are Muslim or an immigrant', None, None, None, 0), ('you are more prone to committing a terror attack .', None, None, None, 1), ('Attacks of terror and mass shooting are mostly causes by angry white men .', None, None, None, 1), ("When It 's a white man hes a lone wolf and when your from a foreign country its terrorism .", None, None, None, 1), ('I am not making excuses', None, None, None, 0), ('for what happened .', None, None, None, 1), ('Surly its tragic', None, None, None, 0), ('but lets not pool a whole race of people into a negative basket', None, None, None, 0), ('because of one or two bad eggs .', None, None, None, 1)]]
+Leaf:  N Contrast This will embolden Trump supporters stance on immigration reform .
+Leaf:  S span I however do not believe
+Leaf:  S span just cause you are Muslim or an immigrant
+Leaf:  N Background you are more prone to committing a terror attack .
+Inner:  N Attribution None Background SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Attacks of terror and mass shooting are mostly causes by angry white men .
+Leaf:  S span When It 's a white man hes a lone wolf and when your from a foreign country its terrorism .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I am not making excuses
+Leaf:  S span for what happened .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Contrast Surly its tragic
+Leaf:  N Cause but lets not pool a whole race of people into a negative basket
+Leaf:  S span because of one or two bad eggs .
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('This will embolden Trump supporters stance on immigration reform .', None, None, None, 1), ('I however do not believe', None, None, None, 0), ('just cause you are Muslim or an immigrant', None, None, None, 0), ('you are more prone to committing a terror attack .', None, None, None, 1), ('Attacks of terror and mass shooting are mostly causes by angry white men .', None, None, None, 1), ("When It 's a white man hes a lone wolf and when your from a foreign country its terrorism .", None, None, None, 1), ('I am not making excuses', None, None, None, 0), ('for what happened .', None, None, None, 1), ('Surly its tragic', None, None, None, 0), ('but lets not pool a whole race of people into a negative basket', None, None, None, 0), ('because of one or two bad eggs .', None, None, None, 1)]

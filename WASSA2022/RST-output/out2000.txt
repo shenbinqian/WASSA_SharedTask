@@ -1,0 +1,15 @@
+=====================> [[('But guns are not the issue .', None, None, None, 1), ('At this point it is just another shooting', None, None, None, 0), ('and we are happy', None, None, None, 0), ("that the count was n't higher .", None, None, None, 1), ('I wish', None, None, None, 0), ('the government would actually do something about the loose guns ,', None, None, None, 0), ("because clearly this guy should n't have had one , and about mental health . Our society is getting more and more desensitized about this actions .", None, None, None, 1)]]
+Leaf:  N Summary But guns are not the issue .
+Leaf:  N Cause At this point it is just another shooting
+Leaf:  S span and we are happy
+Leaf:  N Attribution that the count was n't higher .
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause NN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I wish
+Leaf:  N Attribution the government would actually do something about the loose guns ,
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because clearly this guy should n't have had one , and about mental health . Our society is getting more and more desensitized about this actions .
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('But guns are not the issue .', None, None, None, 1), ('At this point it is just another shooting', None, None, None, 0), ('and we are happy', None, None, None, 0), ("that the count was n't higher .", None, None, None, 1), ('I wish', None, None, None, 0), ('the government would actually do something about the loose guns ,', None, None, None, 0), ("because clearly this guy should n't have had one , and about mental health . Our society is getting more and more desensitized about this actions .", None, None, None, 1)]

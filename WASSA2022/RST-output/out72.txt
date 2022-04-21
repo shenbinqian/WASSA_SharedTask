@@ -1,0 +1,39 @@
+=====================> [[('So i just read this article on gold fish in the wild . Wow .', None, None, None, 1), ('I learned a lot .', None, None, None, 1), ('Apparently we have an overload of gold fish in our lakes and rivers ,', None, None, None, 0), ('which is very bad for the fish and the earth .', None, None, None, 1), ("It 's bad for the earth", None, None, None, 0), ('because it messes with the sediments', None, None, None, 0), ('as they swim low on the bottom .', None, None, None, 1), ('It is also bad for the fish', None, None, None, 0), ("because they are n't bread for the big waters .", None, None, None, 1), ('their bodies grow as big as a football', None, None, None, 0), ('and they can weigh up to 4 pounds .', None, None, None, 1), ('Some are not even healthy .', None, None, None, 1), ('They say', None, None, None, 0), ('the best way', None, None, None, 0), ('to get rid of healthy fish', None, None, None, 0), ('is to bring it back to the pet store', None, None, None, 0), ('and to not flush sick or dead fish . put them in an ice slush .', None, None, None, 1), ('this article was really sad and disturbing', None, None, None, 0), ('to read at the same time .', None, None, None, 1)]]
+Leaf:  N Cause So i just read this article on gold fish in the wild . Wow .
+Leaf:  S span I learned a lot .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate Apparently we have an overload of gold fish in our lakes and rivers ,
+Leaf:  N Explanation which is very bad for the fish and the earth .
+Leaf:  N Explanation It 's bad for the earth
+Leaf:  N Temporal because it messes with the sediments
+Leaf:  S span as they swim low on the bottom .
+Inner:  S span None Temporal NS
+Inner:  N Joint None Explanation NS
+Leaf:  N Explanation It is also bad for the fish
+Leaf:  S span because they are n't bread for the big waters .
+Inner:  N Explanation None Explanation NS
+Leaf:  N Joint their bodies grow as big as a football
+Leaf:  N Joint and they can weigh up to 4 pounds .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Some are not even healthy .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They say
+Leaf:  N Elaborate the best way
+Leaf:  S span to get rid of healthy fish
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint is to bring it back to the pet store
+Leaf:  N Joint and to not flush sick or dead fish . put them in an ice slush .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause this article was really sad and disturbing
+Leaf:  S span to read at the same time .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So i just read this article on gold fish in the wild . Wow .', None, None, None, 1), ('I learned a lot .', None, None, None, 1), ('Apparently we have an overload of gold fish in our lakes and rivers ,', None, None, None, 0), ('which is very bad for the fish and the earth .', None, None, None, 1), ("It 's bad for the earth", None, None, None, 0), ('because it messes with the sediments', None, None, None, 0), ('as they swim low on the bottom .', None, None, None, 1), ('It is also bad for the fish', None, None, None, 0), ("because they are n't bread for the big waters .", None, None, None, 1), ('their bodies grow as big as a football', None, None, None, 0), ('and they can weigh up to 4 pounds .', None, None, None, 1), ('Some are not even healthy .', None, None, None, 1), ('They say', None, None, None, 0), ('the best way', None, None, None, 0), ('to get rid of healthy fish', None, None, None, 0), ('is to bring it back to the pet store', None, None, None, 0), ('and to not flush sick or dead fish . put them in an ice slush .', None, None, None, 1), ('this article was really sad and disturbing', None, None, None, 0), ('to read at the same time .', None, None, None, 1)]

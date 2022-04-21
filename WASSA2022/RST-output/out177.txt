@@ -1,0 +1,29 @@
+=====================> [[('As a parent , I feel', None, None, None, 0), ('that is definitely one of my responsibilities', None, None, None, 0), ('to teach my children the importance', None, None, None, 0), ('of loving and taking care of our environment .', None, None, None, 1), ('Without the wilderness ,', None, None, None, 0), ('the animals will have nowhere to live ,', None, None, None, 0), ('and without the wilderness ,', None, None, None, 0), ('what will our animals be forced to live in .', None, None, None, 1), ('What I want them to remember is that they are the ones', None, None, None, 0), ('living in the environment , not the environment', None, None, None, 0), ('invading on our lives .', None, None, None, 1), ('We must take care of it', None, None, None, 0), ('in order to make sure', None, None, None, 0), ("that we have a sustainable environment our children 's children .", None, None, None, 1)]]
+Leaf:  S span As a parent , I feel
+Leaf:  N Elaborate that is definitely one of my responsibilities
+Leaf:  N Elaborate to teach my children the importance
+Leaf:  S span of loving and taking care of our environment .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Without the wilderness ,
+Leaf:  N Manner-Means the animals will have nowhere to live ,
+Inner:  N Joint None Manner-Means SN
+Leaf:  N Evaluation and without the wilderness ,
+Leaf:  N Evaluation what will our animals be forced to live in .
+Inner:  N Joint None Evaluation NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate What I want them to remember is that they are the ones
+Leaf:  N Elaborate living in the environment , not the environment
+Leaf:  S span invading on our lives .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Enablement We must take care of it
+Leaf:  S span in order to make sure
+Leaf:  N Attribution that we have a sustainable environment our children 's children .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('As a parent , I feel', None, None, None, 0), ('that is definitely one of my responsibilities', None, None, None, 0), ('to teach my children the importance', None, None, None, 0), ('of loving and taking care of our environment .', None, None, None, 1), ('Without the wilderness ,', None, None, None, 0), ('the animals will have nowhere to live ,', None, None, None, 0), ('and without the wilderness ,', None, None, None, 0), ('what will our animals be forced to live in .', None, None, None, 1), ('What I want them to remember is that they are the ones', None, None, None, 0), ('living in the environment , not the environment', None, None, None, 0), ('invading on our lives .', None, None, None, 1), ('We must take care of it', None, None, None, 0), ('in order to make sure', None, None, None, 0), ("that we have a sustainable environment our children 's children .", None, None, None, 1)]

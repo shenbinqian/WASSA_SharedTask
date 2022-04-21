@@ -1,0 +1,27 @@
+=====================> [[('Awww , this story is so heartbreaking .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what this family is going through .', None, None, None, 1), ('Did you see this ?', None, None, None, 1), ('I am hopeful', None, None, None, 0), ('that they can find peace .', None, None, None, 1), ('If something like this happened to me , I do not know', None, None, None, 0), ('what I would do .', None, None, None, 1), ('I guess', None, None, None, 0), ('that this just reminds us', None, None, None, 0), ('that life is precious', None, None, None, 0), ('and we should appreciate', None, None, None, 0), ('what we have !', None, None, None, 1)]]
+Leaf:  N Elaborate Awww , this story is so heartbreaking .
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution what this family is going through .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Did you see this ?
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am hopeful
+Leaf:  N Attribution that they can find peace .
+Inner:  S span None Attribution SN
+Inner:  N Condition None Evaluation NS
+Leaf:  S span If something like this happened to me , I do not know
+Leaf:  N Attribution what I would do .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I guess
+Leaf:  S span that this just reminds us
+Leaf:  N Joint that life is precious
+Leaf:  N Enablement and we should appreciate
+Leaf:  S span what we have !
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Condition NS
+[('Awww , this story is so heartbreaking .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what this family is going through .', None, None, None, 1), ('Did you see this ?', None, None, None, 1), ('I am hopeful', None, None, None, 0), ('that they can find peace .', None, None, None, 1), ('If something like this happened to me , I do not know', None, None, None, 0), ('what I would do .', None, None, None, 1), ('I guess', None, None, None, 0), ('that this just reminds us', None, None, None, 0), ('that life is precious', None, None, None, 0), ('and we should appreciate', None, None, None, 0), ('what we have !', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[("I really did n't know Leonard Cohen", None, None, None, 0), ('that much', None, None, None, 0), ('growing up ,', None, None, None, 0), ('only listen to a couple of his songs ,', None, None, None, 0), ("was n't a big fan", None, None, None, 0), ("but It 's tragic that he died ,", None, None, None, 0), ('to be fair its a good way', None, None, None, 0), ('to die at an old age', None, None, None, 0), ('and died while asleep , painless and nothing that hurts him .', None, None, None, 1), ('He also said', None, None, None, 0), ('that He was ready to die ,', None, None, None, 0), ('so lets take that in for an account ,', None, None, None, 0), ('that he was prepared to go .', None, None, None, 1), ('So he died peaceful .', None, None, None, 1)]]
+Leaf:  N Temporal I really did n't know Leonard Cohen
+Leaf:  N Temporal that much
+Leaf:  S span growing up ,
+Inner:  N Temporal None Temporal NS
+Leaf:  N Temporal only listen to a couple of his songs ,
+Inner:  S span None Temporal NN
+Inner:  N Same-Unit None Temporal NS
+Leaf:  N Same-Unit was n't a big fan
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Explanation but It 's tragic that he died ,
+Leaf:  N Elaborate to be fair its a good way
+Leaf:  S span to die at an old age
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and died while asleep , painless and nothing that hurts him .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span He also said
+Leaf:  S span that He was ready to die ,
+Leaf:  N Elaborate so lets take that in for an account ,
+Leaf:  S span that he was prepared to go .
+Inner:  N Explanation None Elaborate NS
+Inner:  N Attribution None Explanation SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span So he died peaceful .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("I really did n't know Leonard Cohen", None, None, None, 0), ('that much', None, None, None, 0), ('growing up ,', None, None, None, 0), ('only listen to a couple of his songs ,', None, None, None, 0), ("was n't a big fan", None, None, None, 0), ("but It 's tragic that he died ,", None, None, None, 0), ('to be fair its a good way', None, None, None, 0), ('to die at an old age', None, None, None, 0), ('and died while asleep , painless and nothing that hurts him .', None, None, None, 1), ('He also said', None, None, None, 0), ('that He was ready to die ,', None, None, None, 0), ('so lets take that in for an account ,', None, None, None, 0), ('that he was prepared to go .', None, None, None, 1), ('So he died peaceful .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('The upsurge in violent deaths is a troubling and terrifying prospect', None, None, None, 0), ('to face ,', None, None, None, 0), ("based on the FBI 's statistics .", None, None, None, 1), ("It 's not a good measure of a society 's health", None, None, None, 0), ('to see such dangerous statistics .', None, None, None, 1), ('We need to be doing everything', None, None, None, 0), ('we can', None, None, None, 0), ('to help mitigate this crisis .', None, None, None, 1), ('As for the collision of buses inside the Lincoln Terminal ? That was another terrible tragedy', None, None, None, 0), ("which could 've been avoided", None, None, None, 0), ('had the proper course of action been taken .', None, None, None, 1)]]
+Leaf:  N Elaborate The upsurge in violent deaths is a troubling and terrifying prospect
+Leaf:  N Background to face ,
+Leaf:  S span based on the FBI 's statistics .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It 's not a good measure of a society 's health
+Leaf:  S span to see such dangerous statistics .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate We need to be doing everything
+Leaf:  S span we can
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to help mitigate this crisis .
+Inner:  N Topic-Comment None Enablement NS
+Inner:  N Topic-Change None Topic-Comment NN
+Leaf:  N Elaborate As for the collision of buses inside the Lincoln Terminal ? That was another terrible tragedy
+Leaf:  N Condition which could 've been avoided
+Leaf:  S span had the proper course of action been taken .
+Inner:  S span None Condition NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('The upsurge in violent deaths is a troubling and terrifying prospect', None, None, None, 0), ('to face ,', None, None, None, 0), ("based on the FBI 's statistics .", None, None, None, 1), ("It 's not a good measure of a society 's health", None, None, None, 0), ('to see such dangerous statistics .', None, None, None, 1), ('We need to be doing everything', None, None, None, 0), ('we can', None, None, None, 0), ('to help mitigate this crisis .', None, None, None, 1), ('As for the collision of buses inside the Lincoln Terminal ? That was another terrible tragedy', None, None, None, 0), ("which could 've been avoided", None, None, None, 0), ('had the proper course of action been taken .', None, None, None, 1)]

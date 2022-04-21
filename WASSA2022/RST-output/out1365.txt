@@ -1,0 +1,27 @@
+=====================> [[('The liberal left has struck again .', None, None, None, 1), ('They continue to react negatively to Trump being president even 18 months after the election .', None, None, None, 1), ('This whole thing about getting an IUD now', None, None, None, 0), ('because Trump will make birth control unaffordable in the near future', None, None, None, 0), ('is ridiculous . Just another issue', None, None, None, 0), ('to get people stirred up .', None, None, None, 1), ('Most Trump supporters are conservative', None, None, None, 0), ('when it comes to economic issues', None, None, None, 0), ('but moderately liberal', None, None, None, 0), ('when it concerns social issues .', None, None, None, 1), ('Big changes in birth control , same sex marriages , abortion , and women ’s rights are not going to happen .', None, None, None, 1), ('I would like to ask the haters', None, None, None, 0), ('how their lives have changed for the worse since the election !', None, None, None, 1)]]
+Leaf:  N Explanation The liberal left has struck again .
+Leaf:  S span They continue to react negatively to Trump being president even 18 months after the election .
+Inner:  N Summary None Explanation NS
+Leaf:  N Cause This whole thing about getting an IUD now
+Leaf:  S span because Trump will make birth control unaffordable in the near future
+Inner:  N Same-Unit None Cause NS
+Leaf:  N Elaborate is ridiculous . Just another issue
+Leaf:  S span to get people stirred up .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Background Most Trump supporters are conservative
+Leaf:  S span when it comes to economic issues
+Inner:  N Contrast None Background NS
+Leaf:  N Background but moderately liberal
+Leaf:  S span when it concerns social issues .
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast NN
+Leaf:  N Evaluation Big changes in birth control , same sex marriages , abortion , and women ’s rights are not going to happen .
+Inner:  S span None Evaluation SN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span I would like to ask the haters
+Leaf:  N Attribution how their lives have changed for the worse since the election !
+Inner:  S span None Attribution SN
+Inner:  Root None None Topic-Comment NS
+[('The liberal left has struck again .', None, None, None, 1), ('They continue to react negatively to Trump being president even 18 months after the election .', None, None, None, 1), ('This whole thing about getting an IUD now', None, None, None, 0), ('because Trump will make birth control unaffordable in the near future', None, None, None, 0), ('is ridiculous . Just another issue', None, None, None, 0), ('to get people stirred up .', None, None, None, 1), ('Most Trump supporters are conservative', None, None, None, 0), ('when it comes to economic issues', None, None, None, 0), ('but moderately liberal', None, None, None, 0), ('when it concerns social issues .', None, None, None, 1), ('Big changes in birth control , same sex marriages , abortion , and women ’s rights are not going to happen .', None, None, None, 1), ('I would like to ask the haters', None, None, None, 0), ('how their lives have changed for the worse since the election !', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[("Dude , you wo n't believe this .", None, None, None, 1), ('A six-year-old girl fell down an elevator shaft', None, None, None, 0), ('and died .', None, None, None, 1), ('The elevator company has to be at fault here ,', None, None, None, 0), ("but that wo n't bring her back !", None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('how her parents must feel ,', None, None, None, 0), ('looking at my little boy', None, None, None, 0), ('and wondering', None, None, None, 0), ('what it would be like if we lost him in such a horrible -- yet preventable -- tragedy .', None, None, None, 1), ('I feel so bad for the parents ,', None, None, None, 0), ('but I wonder', None, None, None, 0), ("if they could have prevented it somehow , and if so , it would be hard not to blame them somewhat for what happened . But that is n't to deflect guilt", None, None, None, 0), ('over how horrible they must feel ,', None, None, None, 0), ('as no one wants to lose their child in such an egregious tragedy .', None, None, None, 1), ('I hope you pray for the family with me !', None, None, None, 1)]]
+Leaf:  N Summary Dude , you wo n't believe this .
+Leaf:  N Temporal A six-year-old girl fell down an elevator shaft
+Leaf:  N Temporal and died .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Topic-Comment The elevator company has to be at fault here ,
+Leaf:  N Topic-Comment but that wo n't bring her back !
+Inner:  S span None Topic-Comment NN
+Inner:  N Joint None Evaluation NS
+Leaf:  S span I ca n't imagine
+Leaf:  N Background how her parents must feel ,
+Leaf:  N Joint looking at my little boy
+Leaf:  S span and wondering
+Leaf:  N Attribution what it would be like if we lost him in such a horrible -- yet preventable -- tragedy .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Background NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Contrast I feel so bad for the parents ,
+Leaf:  S span but I wonder
+Leaf:  N Elaborate if they could have prevented it somehow , and if so , it would be hard not to blame them somewhat for what happened . But that is n't to deflect guilt
+Leaf:  S span over how horrible they must feel ,
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span as no one wants to lose their child in such an egregious tragedy .
+Inner:  N Attribution None Explanation NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span I hope you pray for the family with me !
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("Dude , you wo n't believe this .", None, None, None, 1), ('A six-year-old girl fell down an elevator shaft', None, None, None, 0), ('and died .', None, None, None, 1), ('The elevator company has to be at fault here ,', None, None, None, 0), ("but that wo n't bring her back !", None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('how her parents must feel ,', None, None, None, 0), ('looking at my little boy', None, None, None, 0), ('and wondering', None, None, None, 0), ('what it would be like if we lost him in such a horrible -- yet preventable -- tragedy .', None, None, None, 1), ('I feel so bad for the parents ,', None, None, None, 0), ('but I wonder', None, None, None, 0), ("if they could have prevented it somehow , and if so , it would be hard not to blame them somewhat for what happened . But that is n't to deflect guilt", None, None, None, 0), ('over how horrible they must feel ,', None, None, None, 0), ('as no one wants to lose their child in such an egregious tragedy .', None, None, None, 1), ('I hope you pray for the family with me !', None, None, None, 1)]

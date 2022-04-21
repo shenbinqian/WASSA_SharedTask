@@ -1,0 +1,25 @@
+=====================> [[('I am so tired of war .', None, None, None, 1), ('Especially when all it ends in death , murder , rape , etc .', None, None, None, 1), ('What is the point of all that .', None, None, None, 1), ('Who benefits from it ?', None, None, None, 1), ('It just makes me sad for all those people .', None, None, None, 1), ('It sure does make me grateful to live in a country', None, None, None, 0), ('where I do not have to deal with all that . Could you imagine waking up every day', None, None, None, 0), ('not knowing', None, None, None, 0), ("if you 're going to die", None, None, None, 0), ('or', None, None, None, 0), ('blow', None, None, None, 0), ('up from a bomb ?', None, None, None, 1)]]
+Leaf:  N Background I am so tired of war .
+Leaf:  S span Especially when all it ends in death , murder , rape , etc .
+Inner:  N Summary None Background NS
+Leaf:  N Joint What is the point of all that .
+Leaf:  N Joint Who benefits from it ?
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Evaluation It just makes me sad for all those people .
+Leaf:  N Elaborate It sure does make me grateful to live in a country
+Leaf:  N Temporal where I do not have to deal with all that . Could you imagine waking up every day
+Leaf:  S span not knowing
+Leaf:  N Joint if you 're going to die
+Leaf:  N Joint or
+Leaf:  N Cause blow
+Leaf:  S span up from a bomb ?
+Inner:  N Joint None Cause NS
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I am so tired of war .', None, None, None, 1), ('Especially when all it ends in death , murder , rape , etc .', None, None, None, 1), ('What is the point of all that .', None, None, None, 1), ('Who benefits from it ?', None, None, None, 1), ('It just makes me sad for all those people .', None, None, None, 1), ('It sure does make me grateful to live in a country', None, None, None, 0), ('where I do not have to deal with all that . Could you imagine waking up every day', None, None, None, 0), ('not knowing', None, None, None, 0), ("if you 're going to die", None, None, None, 0), ('or', None, None, None, 0), ('blow', None, None, None, 0), ('up from a bomb ?', None, None, None, 1)]

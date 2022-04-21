@@ -1,0 +1,31 @@
+=====================> [[('did you hear about the wolf', None, None, None, 0), ('that got shot by a government sniper in Idaho', None, None, None, 0), ('I think', None, None, None, 0), ('it was .', None, None, None, 1), ('He was a special wolf from a pack in California', None, None, None, 0), ('that was endangered', None, None, None, 0), ('and had a tracking device on him', None, None, None, 0), ('so they could monitor his movements .', None, None, None, 1), ('he had already traveled 700 miles looking for a mate ,', None, None, None, 0), ('which is what wolves do', None, None, None, 0), ('when they come of age . They are trying to hold them accountable for the needless and cruel slaughter of wild animals .', None, None, None, 1), ('I forgot the name of the group .', None, None, None, 1), ('But I hope they stop them .', None, None, None, 1), ('Animals need more laws', None, None, None, 0), ('that protect them from evil garbage people .', None, None, None, 1)]]
+Leaf:  N Elaborate did you hear about the wolf
+Leaf:  S span that got shot by a government sniper in Idaho
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution it was .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate He was a special wolf from a pack in California
+Leaf:  N Joint that was endangered
+Leaf:  N Enablement and had a tracking device on him
+Leaf:  S span so they could monitor his movements .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate he had already traveled 700 miles looking for a mate ,
+Leaf:  N Background which is what wolves do
+Leaf:  S span when they come of age . They are trying to hold them accountable for the needless and cruel slaughter of wild animals .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I forgot the name of the group .
+Leaf:  N Contrast But I hope they stop them .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Animals need more laws
+Leaf:  S span that protect them from evil garbage people .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('did you hear about the wolf', None, None, None, 0), ('that got shot by a government sniper in Idaho', None, None, None, 0), ('I think', None, None, None, 0), ('it was .', None, None, None, 1), ('He was a special wolf from a pack in California', None, None, None, 0), ('that was endangered', None, None, None, 0), ('and had a tracking device on him', None, None, None, 0), ('so they could monitor his movements .', None, None, None, 1), ('he had already traveled 700 miles looking for a mate ,', None, None, None, 0), ('which is what wolves do', None, None, None, 0), ('when they come of age . They are trying to hold them accountable for the needless and cruel slaughter of wild animals .', None, None, None, 1), ('I forgot the name of the group .', None, None, None, 1), ('But I hope they stop them .', None, None, None, 1), ('Animals need more laws', None, None, None, 0), ('that protect them from evil garbage people .', None, None, None, 1)]

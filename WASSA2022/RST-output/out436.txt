@@ -1,0 +1,23 @@
+=====================> [[('The article was quite eye opening for someone', None, None, None, 0), ('who may not be extremely into politics .', None, None, None, 1), ('The confederate flag seems to somehow have different meanings to different people ,', None, None, None, 0), ('which I never really understood .', None, None, None, 1), ('To get upset', None, None, None, 0), ('because the flag was being hung in college campuses ,', None, None, None, 0), ('makes sense to me .', None, None, None, 1), ('I would get upset as well . For students to be afraid for their welfare and or they education at their college', None, None, None, 0), ('because of President elect Trump ,', None, None, None, 0), ('also makes sense to me .', None, None, None, 1), ('The whole campaign seems to be one big controversy .', None, None, None, 1)]]
+Leaf:  N Elaborate The article was quite eye opening for someone
+Leaf:  S span who may not be extremely into politics .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The confederate flag seems to somehow have different meanings to different people ,
+Leaf:  S span which I never really understood .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background To get upset
+Leaf:  S span because the flag was being hung in college campuses ,
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit makes sense to me .
+Inner:  N Comparison None Same-Unit NN
+Leaf:  N Cause I would get upset as well . For students to be afraid for their welfare and or they education at their college
+Leaf:  S span because of President elect Trump ,
+Inner:  N Same-Unit None Cause NS
+Leaf:  N Same-Unit also makes sense to me .
+Inner:  N Comparison None Same-Unit NN
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The whole campaign seems to be one big controversy .
+Inner:  Root None None Evaluation NS
+[('The article was quite eye opening for someone', None, None, None, 0), ('who may not be extremely into politics .', None, None, None, 1), ('The confederate flag seems to somehow have different meanings to different people ,', None, None, None, 0), ('which I never really understood .', None, None, None, 1), ('To get upset', None, None, None, 0), ('because the flag was being hung in college campuses ,', None, None, None, 0), ('makes sense to me .', None, None, None, 1), ('I would get upset as well . For students to be afraid for their welfare and or they education at their college', None, None, None, 0), ('because of President elect Trump ,', None, None, None, 0), ('also makes sense to me .', None, None, None, 1), ('The whole campaign seems to be one big controversy .', None, None, None, 1)]

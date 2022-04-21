@@ -1,0 +1,25 @@
+=====================> [[('Did you see', None, None, None, 0), ('where that Australian hiker', None, None, None, 0), ('found after 2 weeks in Malaysian jungle .', None, None, None, 1), ('He only had one day of food with him .', None, None, None, 1), ('He lived on berries and stuff .', None, None, None, 1), ('I think', None, None, None, 0), ('I could survive in the woods like that .', None, None, None, 1), ('I know a lot about native plants', None, None, None, 0), ("so I would do pretty good . Of course as long as it was n't some place cold .", None, None, None, 1), ('The jungle would be hard but only if there are wild animals', None, None, None, 0), ('that would like to eat you for their food .', None, None, None, 1), ('At least the weather would be better .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you see
+Leaf:  N Elaborate where that Australian hiker
+Leaf:  S span found after 2 weeks in Malaysian jungle .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He only had one day of food with him .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He lived on berries and stuff .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution I could survive in the woods like that .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know a lot about native plants
+Leaf:  N Condition so I would do pretty good . Of course as long as it was n't some place cold .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate The jungle would be hard but only if there are wild animals
+Leaf:  S span that would like to eat you for their food .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span At least the weather would be better .
+Inner:  Root None None Evaluation NS
+[('Did you see', None, None, None, 0), ('where that Australian hiker', None, None, None, 0), ('found after 2 weeks in Malaysian jungle .', None, None, None, 1), ('He only had one day of food with him .', None, None, None, 1), ('He lived on berries and stuff .', None, None, None, 1), ('I think', None, None, None, 0), ('I could survive in the woods like that .', None, None, None, 1), ('I know a lot about native plants', None, None, None, 0), ("so I would do pretty good . Of course as long as it was n't some place cold .", None, None, None, 1), ('The jungle would be hard but only if there are wild animals', None, None, None, 0), ('that would like to eat you for their food .', None, None, None, 1), ('At least the weather would be better .', None, None, None, 1)]

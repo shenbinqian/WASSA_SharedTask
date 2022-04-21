@@ -1,0 +1,27 @@
+=====================> [[('Hello Alexander , oh how I need to tell you this story', None, None, None, 0), ('I read ,', None, None, None, 0), ('its crazy you know .', None, None, None, 1), ('Anyway so I read this story about Myanmarl ;', None, None, None, 0), ('they are having a huge investigation about child slavery ,', None, None, None, 0), ('its very sad we live in a world', None, None, None, 0), ('that is filled with monsters like this .', None, None, None, 1), ('The goods news about this is that the police arrested two family members .', None, None, None, 1), ('I feel good about that', None, None, None, 0), ('coming out .', None, None, None, 1), ('I hope', None, None, None, 0), ('they find more', None, None, None, 0), ('and put them into justice .', None, None, None, 1)]]
+Leaf:  N Elaborate Hello Alexander , oh how I need to tell you this story
+Leaf:  S span I read ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span its crazy you know .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Anyway so I read this story about Myanmarl ;
+Leaf:  N Evaluation they are having a huge investigation about child slavery ,
+Leaf:  N Elaborate its very sad we live in a world
+Leaf:  S span that is filled with monsters like this .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The goods news about this is that the police arrested two family members .
+Leaf:  N Elaborate I feel good about that
+Leaf:  S span coming out .
+Inner:  N Joint None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Joint they find more
+Leaf:  N Joint and put them into justice .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hello Alexander , oh how I need to tell you this story', None, None, None, 0), ('I read ,', None, None, None, 0), ('its crazy you know .', None, None, None, 1), ('Anyway so I read this story about Myanmarl ;', None, None, None, 0), ('they are having a huge investigation about child slavery ,', None, None, None, 0), ('its very sad we live in a world', None, None, None, 0), ('that is filled with monsters like this .', None, None, None, 1), ('The goods news about this is that the police arrested two family members .', None, None, None, 1), ('I feel good about that', None, None, None, 0), ('coming out .', None, None, None, 1), ('I hope', None, None, None, 0), ('they find more', None, None, None, 0), ('and put them into justice .', None, None, None, 1)]

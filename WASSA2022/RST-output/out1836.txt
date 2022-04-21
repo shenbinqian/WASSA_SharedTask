@@ -1,0 +1,25 @@
+=====================> [[("I 'm so sad", None, None, None, 0), ('to hear about this ,', None, None, None, 0), ('it just drives me crazy .', None, None, None, 1), ('I wish', None, None, None, 0), ('that we would just do something', None, None, None, 0), ('once and for all', None, None, None, 0), ('to help save these people from such suffering .', None, None, None, 1), ('I guess in the mean time', None, None, None, 0), ('all that I can do personally', None, None, None, 0), ('is just pray for the people though and hope', None, None, None, 0), ('that soon things will get better , somehow .', None, None, None, 1), ("Does n't this just make you so mad ?", None, None, None, 1)]]
+Leaf:  N Cause I 'm so sad
+Leaf:  S span to hear about this ,
+Inner:  N Cause None Cause NS
+Leaf:  S span it just drives me crazy .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I wish
+Leaf:  N Manner-Means that we would just do something
+Leaf:  S span once and for all
+Inner:  N Enablement None Manner-Means NS
+Leaf:  S span to help save these people from such suffering .
+Inner:  N Attribution None Enablement NS
+Inner:  N Condition None Attribution SN
+Leaf:  N Elaborate I guess in the mean time
+Leaf:  N Same-Unit all that I can do personally
+Leaf:  S span is just pray for the people though and hope
+Leaf:  N Attribution that soon things will get better , somehow .
+Inner:  N Same-Unit None Attribution SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Does n't this just make you so mad ?
+Inner:  Root None None Evaluation NS
+[("I 'm so sad", None, None, None, 0), ('to hear about this ,', None, None, None, 0), ('it just drives me crazy .', None, None, None, 1), ('I wish', None, None, None, 0), ('that we would just do something', None, None, None, 0), ('once and for all', None, None, None, 0), ('to help save these people from such suffering .', None, None, None, 1), ('I guess in the mean time', None, None, None, 0), ('all that I can do personally', None, None, None, 0), ('is just pray for the people though and hope', None, None, None, 0), ('that soon things will get better , somehow .', None, None, None, 1), ("Does n't this just make you so mad ?", None, None, None, 1)]

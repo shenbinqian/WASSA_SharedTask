@@ -1,0 +1,17 @@
+=====================> [[('in Spain this was the Deadly Train Crash killed at least four people', None, None, None, 0), ('and injured nearly 50 others', None, None, None, 0), ('after it derailed in the northwest region of the country.Photos of the wreck showed', None, None, None, 0), ('the train ’s carriage flipped on its side', None, None, None, 0), ('and smashed', None, None, None, 0), ('from where it likely hit part of a bridge near the tracks.A witness woman told Spanish television', None, None, None, 0), ('about hearing a " very strong bang "', None, None, None, 0), ('before seeing billowing black smoke .', None, None, None, 1)]]
+Leaf:  N Joint in Spain this was the Deadly Train Crash killed at least four people
+Leaf:  N Joint and injured nearly 50 others
+Inner:  N Background None Joint NN
+Leaf:  S span after it derailed in the northwest region of the country.Photos of the wreck showed
+Leaf:  N Joint the train ’s carriage flipped on its side
+Leaf:  N Elaborate and smashed
+Leaf:  S span from where it likely hit part of a bridge near the tracks.A witness woman told Spanish television
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Leaf:  N Temporal about hearing a " very strong bang "
+Leaf:  S span before seeing billowing black smoke .
+Inner:  N Attribution None Temporal NS
+Inner:  Root None None Attribution SN
+[('in Spain this was the Deadly Train Crash killed at least four people', None, None, None, 0), ('and injured nearly 50 others', None, None, None, 0), ('after it derailed in the northwest region of the country.Photos of the wreck showed', None, None, None, 0), ('the train ’s carriage flipped on its side', None, None, None, 0), ('and smashed', None, None, None, 0), ('from where it likely hit part of a bridge near the tracks.A witness woman told Spanish television', None, None, None, 0), ('about hearing a " very strong bang "', None, None, None, 0), ('before seeing billowing black smoke .', None, None, None, 1)]

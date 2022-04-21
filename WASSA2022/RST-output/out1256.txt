@@ -1,0 +1,29 @@
+=====================> [[('After reading this article on some of the federal prisons ,', None, None, None, 0), ('I am extremely upset about the treatment of prisoners in these facilities .', None, None, None, 1), ('The way that the guards are treating the prisoners are literally inhumane .', None, None, None, 1), ('I understand', None, None, None, 0), ('that the prisoners are convicts and felons', None, None, None, 0), ('and really deserve to be place in prison as their punishment ,', None, None, None, 0), ('but there needs to be accountability for the actions of the guards', None, None, None, 0), ('mistreating them', None, None, None, 0), ('and basically treating them like animals .', None, None, None, 1), ('Prisons are about rehabilitation or at least they should be , but in this article with the countless reports from prisoners about very distressing and disturbing situations', None, None, None, 0), ("I ca n't fathom", None, None, None, 0), ('to understand what goes on in the minds of these guards', None, None, None, 0), ('running the prisons .', None, None, None, 1), ('We seriously need to do something about these conditions .', None, None, None, 1)]]
+Leaf:  S span After reading this article on some of the federal prisons ,
+Leaf:  N Background I am extremely upset about the treatment of prisoners in these facilities .
+Inner:  N Elaborate None Background SN
+Leaf:  S span The way that the guards are treating the prisoners are literally inhumane .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I understand
+Leaf:  N Joint that the prisoners are convicts and felons
+Leaf:  N Joint and really deserve to be place in prison as their punishment ,
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but there needs to be accountability for the actions of the guards
+Leaf:  N Joint mistreating them
+Leaf:  N Joint and basically treating them like animals .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Same-Unit Prisons are about rehabilitation or at least they should be , but in this article with the countless reports from prisoners about very distressing and disturbing situations
+Leaf:  N Enablement I ca n't fathom
+Leaf:  N Elaborate to understand what goes on in the minds of these guards
+Leaf:  S span running the prisons .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Enablement NS
+Inner:  S span None Same-Unit NN
+Inner:  N Cause None Summary NS
+Leaf:  S span We seriously need to do something about these conditions .
+Inner:  Root None None Cause NS
+[('After reading this article on some of the federal prisons ,', None, None, None, 0), ('I am extremely upset about the treatment of prisoners in these facilities .', None, None, None, 1), ('The way that the guards are treating the prisoners are literally inhumane .', None, None, None, 1), ('I understand', None, None, None, 0), ('that the prisoners are convicts and felons', None, None, None, 0), ('and really deserve to be place in prison as their punishment ,', None, None, None, 0), ('but there needs to be accountability for the actions of the guards', None, None, None, 0), ('mistreating them', None, None, None, 0), ('and basically treating them like animals .', None, None, None, 1), ('Prisons are about rehabilitation or at least they should be , but in this article with the countless reports from prisoners about very distressing and disturbing situations', None, None, None, 0), ("I ca n't fathom", None, None, None, 0), ('to understand what goes on in the minds of these guards', None, None, None, 0), ('running the prisons .', None, None, None, 1), ('We seriously need to do something about these conditions .', None, None, None, 1)]

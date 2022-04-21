@@ -1,0 +1,21 @@
+=====================> [[('All of this unrest in the middle east makes me afraid', None, None, None, 0), ('to ever leave North America .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that it turned out', None, None, None, 0), ('that the shooter was mentally unstable', None, None, None, 0), ('instead of being involved in a larger plot .', None, None, None, 1), ('I wish I had some answers', None, None, None, 0), ('that could make all this war easier', None, None, None, 0), ("but I just do n't understand", None, None, None, 0), ("why everyone ca n't just get along .", None, None, None, 1)]]
+Leaf:  N Cause All of this unrest in the middle east makes me afraid
+Leaf:  S span to ever leave North America .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I 'm glad
+Leaf:  S span that it turned out
+Leaf:  N Attribution that the shooter was mentally unstable
+Inner:  N Contrast None Attribution SN
+Leaf:  S span instead of being involved in a larger plot .
+Inner:  N Attribution None Contrast NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I wish I had some answers
+Leaf:  S span that could make all this war easier
+Inner:  S span None Elaborate NS
+Leaf:  S span but I just do n't understand
+Leaf:  N Attribution why everyone ca n't just get along .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('All of this unrest in the middle east makes me afraid', None, None, None, 0), ('to ever leave North America .', None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that it turned out', None, None, None, 0), ('that the shooter was mentally unstable', None, None, None, 0), ('instead of being involved in a larger plot .', None, None, None, 1), ('I wish I had some answers', None, None, None, 0), ('that could make all this war easier', None, None, None, 0), ("but I just do n't understand", None, None, None, 0), ("why everyone ca n't just get along .", None, None, None, 1)]

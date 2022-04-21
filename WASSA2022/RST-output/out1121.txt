@@ -1,0 +1,23 @@
+=====================> [[('There was this crazy story in the news the other day .', None, None, None, 1), ('Two guys were shot in Pennsylvania .', None, None, None, 1), ('One was shot twice in the stomach', None, None, None, 0), ('and the other was shot in the back .', None, None, None, 1), ('There were no arrests or anything', None, None, None, 0), ('and there was not stated motive .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if it was a random thing', None, None, None, 0), ('or if they were involved with drugs or something ?', None, None, None, 1), ('I guess', None, None, None, 0), ("we 'll never know ...", None, None, None, 1)]]
+Leaf:  N Elaborate There was this crazy story in the news the other day .
+Leaf:  N Elaborate Two guys were shot in Pennsylvania .
+Leaf:  N Joint One was shot twice in the stomach
+Leaf:  N Joint and the other was shot in the back .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint There were no arrests or anything
+Leaf:  N Joint and there was not stated motive .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I wonder
+Leaf:  N Joint if it was a random thing
+Leaf:  N Joint or if they were involved with drugs or something ?
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I guess
+Leaf:  N Attribution we 'll never know ...
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('There was this crazy story in the news the other day .', None, None, None, 1), ('Two guys were shot in Pennsylvania .', None, None, None, 1), ('One was shot twice in the stomach', None, None, None, 0), ('and the other was shot in the back .', None, None, None, 1), ('There were no arrests or anything', None, None, None, 0), ('and there was not stated motive .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if it was a random thing', None, None, None, 0), ('or if they were involved with drugs or something ?', None, None, None, 1), ('I guess', None, None, None, 0), ("we 'll never know ...", None, None, None, 1)]

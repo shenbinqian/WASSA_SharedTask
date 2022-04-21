@@ -1,0 +1,31 @@
+=====================> [[("It 's really amazing to me how much food", None, None, None, 0), ('we waste', None, None, None, 0), ('as a country', None, None, None, 0), ('considering how overweight and obese people are .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('how wasteful it all is ,', None, None, None, 0), ('if you think about it . A lot of the food', None, None, None, 0), ('we eat ,', None, None, None, 0), ("we do n't need ,", None, None, None, 0), ('and then we throw away so much too !', None, None, None, 1), ('All that food belongs with people', None, None, None, 0), ('who really need it .', None, None, None, 1), ('I wish', None, None, None, 0), ('people would donate more', None, None, None, 0), ('and that restaurants could donate their unused food to homeless shelters .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's really amazing to me how much food
+Leaf:  S span we waste
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit as a country
+Inner:  N Background None Same-Unit NN
+Leaf:  S span considering how overweight and obese people are .
+Inner:  N Elaborate None Background NS
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution how wasteful it all is ,
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate if you think about it . A lot of the food
+Leaf:  S span we eat ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit we do n't need ,
+Inner:  S span None Same-Unit NN
+Inner:  N Temporal None Background NS
+Leaf:  N Temporal and then we throw away so much too !
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate All that food belongs with people
+Leaf:  S span who really need it .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Joint people would donate more
+Leaf:  N Joint and that restaurants could donate their unused food to homeless shelters .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("It 's really amazing to me how much food", None, None, None, 0), ('we waste', None, None, None, 0), ('as a country', None, None, None, 0), ('considering how overweight and obese people are .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('how wasteful it all is ,', None, None, None, 0), ('if you think about it . A lot of the food', None, None, None, 0), ('we eat ,', None, None, None, 0), ("we do n't need ,", None, None, None, 0), ('and then we throw away so much too !', None, None, None, 1), ('All that food belongs with people', None, None, None, 0), ('who really need it .', None, None, None, 1), ('I wish', None, None, None, 0), ('people would donate more', None, None, None, 0), ('and that restaurants could donate their unused food to homeless shelters .', None, None, None, 1)]

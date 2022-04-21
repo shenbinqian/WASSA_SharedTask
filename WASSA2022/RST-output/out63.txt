@@ -1,0 +1,21 @@
+=====================> [[('This seems like a conspiracy reach ,', None, None, None, 0), ('but the medical exams were either lying', None, None, None, 0), ('or the bodies were really never examined .', None, None, None, 1), ('The Poles have a reason', None, None, None, 0), ('to distrust Russia', None, None, None, 0), ('- Russia does itself no favors ,', None, None, None, 0), ('no country in the World should trust them - , they have a long history of conflict .', None, None, None, 1), ('The reason', None, None, None, 0), ('we had Polish jokes in America a few decades ago', None, None, None, 0), ('started with Russian racism towards Poles .', None, None, None, 1)]]
+Leaf:  S span This seems like a conspiracy reach ,
+Leaf:  N Joint but the medical exams were either lying
+Leaf:  N Joint or the bodies were really never examined .
+Inner:  N Evaluation None Joint NN
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Elaborate The Poles have a reason
+Leaf:  S span to distrust Russia
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Summary - Russia does itself no favors ,
+Leaf:  S span no country in the World should trust them - , they have a long history of conflict .
+Inner:  S span None Summary NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate The reason
+Leaf:  S span we had Polish jokes in America a few decades ago
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit started with Russian racism towards Poles .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This seems like a conspiracy reach ,', None, None, None, 0), ('but the medical exams were either lying', None, None, None, 0), ('or the bodies were really never examined .', None, None, None, 1), ('The Poles have a reason', None, None, None, 0), ('to distrust Russia', None, None, None, 0), ('- Russia does itself no favors ,', None, None, None, 0), ('no country in the World should trust them - , they have a long history of conflict .', None, None, None, 1), ('The reason', None, None, None, 0), ('we had Polish jokes in America a few decades ago', None, None, None, 0), ('started with Russian racism towards Poles .', None, None, None, 1)]

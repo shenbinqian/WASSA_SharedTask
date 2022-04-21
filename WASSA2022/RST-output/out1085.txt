@@ -1,0 +1,19 @@
+=====================> [[('We are living in a world', None, None, None, 0), ('that ha problems left and right', None, None, None, 0), ("and sometimes I ca n't help", None, None, None, 0), ('but to be sad because so many people and animals are suffering.Rivers are drying in some places', None, None, None, 0), ('and ll the fishes are dying', None, None, None, 0), ('while some areas have flash floods', None, None, None, 0), ('that destroy things', None, None, None, 0), ('and kill people.This are end times', None, None, None, 0), ('and am saddened all the time by such issues .', None, None, None, 1)]]
+Leaf:  N Elaborate We are living in a world
+Leaf:  S span that ha problems left and right
+Inner:  S span None Elaborate NS
+Leaf:  S span and sometimes I ca n't help
+Leaf:  N Joint but to be sad because so many people and animals are suffering.Rivers are drying in some places
+Leaf:  N Joint and ll the fishes are dying
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate while some areas have flash floods
+Leaf:  N Joint that destroy things
+Leaf:  N Joint and kill people.This are end times
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Background None Joint NN
+Inner:  N Evaluation None Background SN
+Leaf:  S span and am saddened all the time by such issues .
+Inner:  Root None None Evaluation NS
+[('We are living in a world', None, None, None, 0), ('that ha problems left and right', None, None, None, 0), ("and sometimes I ca n't help", None, None, None, 0), ('but to be sad because so many people and animals are suffering.Rivers are drying in some places', None, None, None, 0), ('and ll the fishes are dying', None, None, None, 0), ('while some areas have flash floods', None, None, None, 0), ('that destroy things', None, None, None, 0), ('and kill people.This are end times', None, None, None, 0), ('and am saddened all the time by such issues .', None, None, None, 1)]

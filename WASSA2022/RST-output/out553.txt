@@ -1,0 +1,19 @@
+=====================> [[('So remember the Flint MI water problem from years back ?', None, None, None, 1), ('The one', None, None, None, 0), ('where the idiots decided to use their own water supply from a dam', None, None, None, 0), ('which leaked led .', None, None, None, 1), ('Well apparently now the government is flipping out', None, None, None, 0), ('that its a nationwide problem .', None, None, None, 1), ('Or should I say', None, None, None, 0), ('the " scientists " are flipping out', None, None, None, 0), ('since we have never heard of lead in the water anywhere outside of the Flint MI disaster', None, None, None, 0)]]
+Leaf:  N Elaborate So remember the Flint MI water problem from years back ?
+Leaf:  N Elaborate The one
+Leaf:  N Elaborate where the idiots decided to use their own water supply from a dam
+Leaf:  S span which leaked led .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  S span Well apparently now the government is flipping out
+Leaf:  N Attribution that its a nationwide problem .
+Inner:  N Summary None Attribution SN
+Leaf:  S span Or should I say
+Leaf:  N Attribution the " scientists " are flipping out
+Inner:  N Explanation None Attribution SN
+Leaf:  S span since we have never heard of lead in the water anywhere outside of the Flint MI disaster
+Inner:  S span None Explanation NS
+Inner:  N Background None Summary NS
+Inner:  Root None None Background SN
+[('So remember the Flint MI water problem from years back ?', None, None, None, 1), ('The one', None, None, None, 0), ('where the idiots decided to use their own water supply from a dam', None, None, None, 0), ('which leaked led .', None, None, None, 1), ('Well apparently now the government is flipping out', None, None, None, 0), ('that its a nationwide problem .', None, None, None, 1), ('Or should I say', None, None, None, 0), ('the " scientists " are flipping out', None, None, None, 0), ('since we have never heard of lead in the water anywhere outside of the Flint MI disaster', None, None, None, 0)]

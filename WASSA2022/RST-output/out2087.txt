@@ -1,0 +1,15 @@
+=====================> [[('Just read an article about a breakout of a certain disease in Wisconsin ,', None, None, None, 0), ('it generally affects the elderly ,', None, None, None, 0), ('but scientists have no idea', None, None, None, 0), ('where it is coming from .', None, None, None, 1), ('If you have elderly loved ones in Wisconsin make sure', None, None, None, 0), ('you are checking up on them .', None, None, None, 1), ('Pretty bazaar that a usually small disease like this can break out and explode among certain populations !', None, None, None, 1)]]
+Leaf:  N Elaborate Just read an article about a breakout of a certain disease in Wisconsin ,
+Leaf:  N Contrast it generally affects the elderly ,
+Leaf:  S span but scientists have no idea
+Leaf:  N Attribution where it is coming from .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If you have elderly loved ones in Wisconsin make sure
+Leaf:  N Attribution you are checking up on them .
+Inner:  S span None Attribution SN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Pretty bazaar that a usually small disease like this can break out and explode among certain populations !
+Inner:  Root None None Cause NS
+[('Just read an article about a breakout of a certain disease in Wisconsin ,', None, None, None, 0), ('it generally affects the elderly ,', None, None, None, 0), ('but scientists have no idea', None, None, None, 0), ('where it is coming from .', None, None, None, 1), ('If you have elderly loved ones in Wisconsin make sure', None, None, None, 0), ('you are checking up on them .', None, None, None, 1), ('Pretty bazaar that a usually small disease like this can break out and explode among certain populations !', None, None, None, 1)]

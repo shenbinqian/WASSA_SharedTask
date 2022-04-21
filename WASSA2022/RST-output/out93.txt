@@ -1,0 +1,19 @@
+=====================> [[('Can you imagine being forced to live in such a violent place ?? A place', None, None, None, 0), ('where your life is at risk all day everyday ?', None, None, None, 1), ('These poor people have learned to live in extreme fear everyday .', None, None, None, 1), ('Imagine purposely bringing babies into the world', None, None, None, 0), ('when this is happening', None, None, None, 0), ('where you live .', None, None, None, 1), ("I would n't do it ,", None, None, None, 0), ('I would never on purpose bring another life into this kind of situation .', None, None, None, 1), ('God bless these poor souls .', None, None, None, 1)]]
+Leaf:  N Elaborate Can you imagine being forced to live in such a violent place ?? A place
+Leaf:  S span where your life is at risk all day everyday ?
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Explanation These poor people have learned to live in extreme fear everyday .
+Leaf:  N Background Imagine purposely bringing babies into the world
+Leaf:  N Elaborate when this is happening
+Leaf:  S span where you live .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint I would n't do it ,
+Leaf:  N Joint I would never on purpose bring another life into this kind of situation .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span God bless these poor souls .
+Inner:  Root None None Evaluation NS
+[('Can you imagine being forced to live in such a violent place ?? A place', None, None, None, 0), ('where your life is at risk all day everyday ?', None, None, None, 1), ('These poor people have learned to live in extreme fear everyday .', None, None, None, 1), ('Imagine purposely bringing babies into the world', None, None, None, 0), ('when this is happening', None, None, None, 0), ('where you live .', None, None, None, 1), ("I would n't do it ,", None, None, None, 0), ('I would never on purpose bring another life into this kind of situation .', None, None, None, 1), ('God bless these poor souls .', None, None, None, 1)]

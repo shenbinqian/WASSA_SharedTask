@@ -1,0 +1,31 @@
+=====================> [[('Non-human animals are given rights only', None, None, None, 0), ('because of their interactions with human beings .', None, None, None, 1), ('Without involvement with humans , animals do not deserve rights .', None, None, None, 1), ('It is through this interaction with humans that animals are even given moral consideration .', None, None, None, 1), ('As the outcome , animals are becoming even further tarred in society .', None, None, None, 1), ('Humans have and are continuing to handle animals', None, None, None, 0), ('as if they are some kind of material goods .', None, None, None, 1), ('This is considered as being immoral ,', None, None, None, 0), ('as animals have their own lives ,', None, None, None, 0), ('and they think ,', None, None, None, 0), ('have feelings ,', None, None, None, 0), ('can feel pain ,', None, None, None, 0), ('require love , happiness , and everything else', None, None, None, 0), ('that humans have .', None, None, None, 1), ('As for human rights , it ’s always uncertain .', None, None, None, 1)]]
+Leaf:  N Cause Non-human animals are given rights only
+Leaf:  S span because of their interactions with human beings .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate Without involvement with humans , animals do not deserve rights .
+Leaf:  S span It is through this interaction with humans that animals are even given moral consideration .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span As the outcome , animals are becoming even further tarred in society .
+Inner:  N Explanation None Cause NS
+Leaf:  N Manner-Means Humans have and are continuing to handle animals
+Leaf:  S span as if they are some kind of material goods .
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Explanation This is considered as being immoral ,
+Leaf:  N Joint as animals have their own lives ,
+Leaf:  N Joint and they think ,
+Leaf:  N Joint have feelings ,
+Leaf:  N Joint can feel pain ,
+Leaf:  N Elaborate require love , happiness , and everything else
+Leaf:  S span that humans have .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Comparison None Explanation NS
+Leaf:  S span As for human rights , it ’s always uncertain .
+Inner:  Root None None Comparison NS
+[('Non-human animals are given rights only', None, None, None, 0), ('because of their interactions with human beings .', None, None, None, 1), ('Without involvement with humans , animals do not deserve rights .', None, None, None, 1), ('It is through this interaction with humans that animals are even given moral consideration .', None, None, None, 1), ('As the outcome , animals are becoming even further tarred in society .', None, None, None, 1), ('Humans have and are continuing to handle animals', None, None, None, 0), ('as if they are some kind of material goods .', None, None, None, 1), ('This is considered as being immoral ,', None, None, None, 0), ('as animals have their own lives ,', None, None, None, 0), ('and they think ,', None, None, None, 0), ('have feelings ,', None, None, None, 0), ('can feel pain ,', None, None, None, 0), ('require love , happiness , and everything else', None, None, None, 0), ('that humans have .', None, None, None, 1), ('As for human rights , it ’s always uncertain .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Hey , Check out this article about PTSD .', None, None, None, 1), ('I feel bad for these veterans', None, None, None, 0), ('that had to experience this', None, None, None, 0), ('as a result from the Vietnam War .', None, None, None, 1), ('I know someone', None, None, None, 0), ('that has fought in the Vietnam War', None, None, None, 0), ('and he has seen other soldiers', None, None, None, 0), ('being diagnosed', None, None, None, 0), ('as a result of the war .', None, None, None, 1), ("It 's sad to see these soldiers go through so much trauma and disgust after the war . With the increasing rate of the mental health issue , it makes me worry even more .", None, None, None, 1)]]
+Leaf:  N Evaluation Hey , Check out this article about PTSD .
+Leaf:  N Elaborate I feel bad for these veterans
+Leaf:  N Cause that had to experience this
+Leaf:  S span as a result from the Vietnam War .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I know someone
+Leaf:  S span that has fought in the Vietnam War
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and he has seen other soldiers
+Leaf:  N Cause being diagnosed
+Leaf:  S span as a result of the war .
+Inner:  S span None Cause NS
+Inner:  N Background None Elaborate NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span It 's sad to see these soldiers go through so much trauma and disgust after the war . With the increasing rate of the mental health issue , it makes me worry even more .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hey , Check out this article about PTSD .', None, None, None, 1), ('I feel bad for these veterans', None, None, None, 0), ('that had to experience this', None, None, None, 0), ('as a result from the Vietnam War .', None, None, None, 1), ('I know someone', None, None, None, 0), ('that has fought in the Vietnam War', None, None, None, 0), ('and he has seen other soldiers', None, None, None, 0), ('being diagnosed', None, None, None, 0), ('as a result of the war .', None, None, None, 1), ("It 's sad to see these soldiers go through so much trauma and disgust after the war . With the increasing rate of the mental health issue , it makes me worry even more .", None, None, None, 1)]

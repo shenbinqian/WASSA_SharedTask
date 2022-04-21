@@ -1,0 +1,27 @@
+=====================> [[('All of you know', None, None, None, 0), ('that I love birds .', None, None, None, 1), ('This article was hard for me to read', None, None, None, 0), ('because of that .', None, None, None, 1), ('Wind turbines are killing a lot of birds ,', None, None, None, 0), ('including eagles .', None, None, None, 1), ("It 's really very sad .", None, None, None, 1), ('It makes me feel awful . I am all for wind turbines and renewable sources of energy', None, None, None, 0), ('because of global warming and coal ,', None, None, None, 0), ('but this is awful .', None, None, None, 1), ("I do n't want these poor birds to die like this .", None, None, None, 1), ('Read this article', None, None, None, 0), ("and you 'll see why .", None, None, None, 1)]]
+Leaf:  S span All of you know
+Leaf:  N Attribution that I love birds .
+Inner:  S span None Attribution SN
+Leaf:  N Cause This article was hard for me to read
+Leaf:  S span because of that .
+Inner:  N Explanation None Cause NS
+Leaf:  N Elaborate Wind turbines are killing a lot of birds ,
+Leaf:  S span including eagles .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's really very sad .
+Leaf:  N Cause It makes me feel awful . I am all for wind turbines and renewable sources of energy
+Leaf:  S span because of global warming and coal ,
+Inner:  S span None Cause NS
+Leaf:  N Contrast but this is awful .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I do n't want these poor birds to die like this .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Background None Explanation NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span Read this article
+Leaf:  N Condition and you 'll see why .
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('All of you know', None, None, None, 0), ('that I love birds .', None, None, None, 1), ('This article was hard for me to read', None, None, None, 0), ('because of that .', None, None, None, 1), ('Wind turbines are killing a lot of birds ,', None, None, None, 0), ('including eagles .', None, None, None, 1), ("It 's really very sad .", None, None, None, 1), ('It makes me feel awful . I am all for wind turbines and renewable sources of energy', None, None, None, 0), ('because of global warming and coal ,', None, None, None, 0), ('but this is awful .', None, None, None, 1), ("I do n't want these poor birds to die like this .", None, None, None, 1), ('Read this article', None, None, None, 0), ("and you 'll see why .", None, None, None, 1)]

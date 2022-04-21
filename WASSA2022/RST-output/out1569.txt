@@ -1,0 +1,27 @@
+=====================> [[('It is so sad to hear about the poor victims of the train derailment .', None, None, None, 1), ('I feel', None, None, None, 0), ('that these types of accidents could be reduced', None, None, None, 0), ('if proper maintenance and planning are administered more carefully .', None, None, None, 1), ('When using mass transit', None, None, None, 0), ('the last thing', None, None, None, 0), ('anyone should be thinking', None, None, None, 0), ('about is " Are we going to die this time " .', None, None, None, 1), ('When you travel', None, None, None, 0), ('you want to have fun', None, None, None, 0), ('and you hope for a great time .', None, None, None, 1), ('These types of tragedies should be scrutinized by the governments', None, None, None, 0), ('where it happens frequently .', None, None, None, 1)]]
+Leaf:  N Evaluation It is so sad to hear about the poor victims of the train derailment .
+Leaf:  S span I feel
+Leaf:  N Condition that these types of accidents could be reduced
+Leaf:  S span if proper maintenance and planning are administered more carefully .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span When using mass transit
+Leaf:  N Elaborate the last thing
+Leaf:  N Same-Unit anyone should be thinking
+Leaf:  N Same-Unit about is " Are we going to die this time " .
+Inner:  S span None Same-Unit NN
+Inner:  N Background None Elaborate NS
+Inner:  N Background None Background SN
+Leaf:  N Temporal When you travel
+Leaf:  N Joint you want to have fun
+Leaf:  N Joint and you hope for a great time .
+Inner:  N Temporal None Joint NN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Elaborate These types of tragedies should be scrutinized by the governments
+Leaf:  S span where it happens frequently .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Background NS
+Inner:  Root None None Explanation NS
+[('It is so sad to hear about the poor victims of the train derailment .', None, None, None, 1), ('I feel', None, None, None, 0), ('that these types of accidents could be reduced', None, None, None, 0), ('if proper maintenance and planning are administered more carefully .', None, None, None, 1), ('When using mass transit', None, None, None, 0), ('the last thing', None, None, None, 0), ('anyone should be thinking', None, None, None, 0), ('about is " Are we going to die this time " .', None, None, None, 1), ('When you travel', None, None, None, 0), ('you want to have fun', None, None, None, 0), ('and you hope for a great time .', None, None, None, 1), ('These types of tragedies should be scrutinized by the governments', None, None, None, 0), ('where it happens frequently .', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('The Chicago district has shutdown about twenty five percent of there public drinking fountains .', None, None, None, 1), ('They have found levels of lead', None, None, None, 0), ('that are great in this area .', None, None, None, 1), ('It is believed that about one out of seven children have levels of lead in their system', None, None, None, 0), ('that the EPA deems too high .', None, None, None, 1), ('After the outbreak in Flint , I can see for their concerns .', None, None, None, 1)]]
+Leaf:  N Elaborate The Chicago district has shutdown about twenty five percent of there public drinking fountains .
+Leaf:  N Elaborate They have found levels of lead
+Leaf:  S span that are great in this area .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It is believed that about one out of seven children have levels of lead in their system
+Leaf:  S span that the EPA deems too high .
+Inner:  S span None Elaborate NS
+Inner:  N Comparison None Elaborate NS
+Leaf:  S span After the outbreak in Flint , I can see for their concerns .
+Inner:  Root None None Comparison NS
+[('The Chicago district has shutdown about twenty five percent of there public drinking fountains .', None, None, None, 1), ('They have found levels of lead', None, None, None, 0), ('that are great in this area .', None, None, None, 1), ('It is believed that about one out of seven children have levels of lead in their system', None, None, None, 0), ('that the EPA deems too high .', None, None, None, 1), ('After the outbreak in Flint , I can see for their concerns .', None, None, None, 1)]

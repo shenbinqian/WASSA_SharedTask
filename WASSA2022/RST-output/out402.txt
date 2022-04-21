@@ -1,0 +1,17 @@
+=====================> [[("Seriously , what 's wrong with this guy !", None, None, None, 1), ('Who throws an animal to the ground for no reason .', None, None, None, 1), ('What a jerk .', None, None, None, 1), ('I hope', None, None, None, 0), ('the judge throws the book at him .', None, None, None, 1), ("He does n't necessarily deserve jail time ,", None, None, None, 0), ("but I 'm thinking a hefty fine as well as many hours of community service .", None, None, None, 1), ('Sea World should file a restraining order from this guy as well .', None, None, None, 1)]]
+Leaf:  N Elaborate Seriously , what 's wrong with this guy !
+Leaf:  S span Who throws an animal to the ground for no reason .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span What a jerk .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Attribution the judge throws the book at him .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span He does n't necessarily deserve jail time ,
+Leaf:  N Contrast but I 'm thinking a hefty fine as well as many hours of community service .
+Inner:  N Comparison None Contrast SN
+Leaf:  N Comparison Sea World should file a restraining order from this guy as well .
+Inner:  S span None Comparison NN
+Inner:  Root None None Evaluation NS
+[("Seriously , what 's wrong with this guy !", None, None, None, 1), ('Who throws an animal to the ground for no reason .', None, None, None, 1), ('What a jerk .', None, None, None, 1), ('I hope', None, None, None, 0), ('the judge throws the book at him .', None, None, None, 1), ("He does n't necessarily deserve jail time ,", None, None, None, 0), ("but I 'm thinking a hefty fine as well as many hours of community service .", None, None, None, 1), ('Sea World should file a restraining order from this guy as well .', None, None, None, 1)]

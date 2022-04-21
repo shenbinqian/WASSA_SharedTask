@@ -1,0 +1,19 @@
+=====================> [[("I really do n't fully understand", None, None, None, 0), ("what 's happening in this article .", None, None, None, 1), ('I get that the players need sleep', None, None, None, 0), ("and that 's about it .", None, None, None, 1), ("Do you know much about what they 're trying to say here ?", None, None, None, 1), ('I have such little knowledge of sports', None, None, None, 0), ('that I struggle understanding the lingo', None, None, None, 0), ('associated with the sport .', None, None, None, 1), ('I can understand sleep though !', None, None, None, 1)]]
+Leaf:  S span I really do n't fully understand
+Leaf:  N Attribution what 's happening in this article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint I get that the players need sleep
+Leaf:  N Joint and that 's about it .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Do you know much about what they 're trying to say here ?
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I have such little knowledge of sports
+Leaf:  N Elaborate that I struggle understanding the lingo
+Leaf:  S span associated with the sport .
+Inner:  N Explanation None Elaborate NS
+Inner:  S span None Explanation SN
+Leaf:  N Contrast I can understand sleep though !
+Inner:  S span None Contrast SN
+Inner:  Root None None Explanation NS
+[("I really do n't fully understand", None, None, None, 0), ("what 's happening in this article .", None, None, None, 1), ('I get that the players need sleep', None, None, None, 0), ("and that 's about it .", None, None, None, 1), ("Do you know much about what they 're trying to say here ?", None, None, None, 1), ('I have such little knowledge of sports', None, None, None, 0), ('that I struggle understanding the lingo', None, None, None, 0), ('associated with the sport .', None, None, None, 1), ('I can understand sleep though !', None, None, None, 1)]

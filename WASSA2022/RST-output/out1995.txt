@@ -1,0 +1,21 @@
+=====================> [[('This is a very depressing story', None, None, None, 0), ('because this child was essentially being tortured to death', None, None, None, 0), ('and it was right in plain view .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people like this exist .', None, None, None, 1), ('It is alarming', None, None, None, 0), ('that social workers and other were not able to detect what was going on .', None, None, None, 1), ("The child was obviously being abused underneath everyone 's eyes", None, None, None, 0), ('and no one did anything about it . People like this need to be monitored', None, None, None, 0), ("when something does n't look right .", None, None, None, 1)]]
+Leaf:  N Explanation This is a very depressing story
+Leaf:  N Temporal because this child was essentially being tortured to death
+Leaf:  N Temporal and it was right in plain view .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I do n't understand
+Leaf:  N Attribution how people like this exist .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is alarming
+Leaf:  N Attribution that social workers and other were not able to detect what was going on .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The child was obviously being abused underneath everyone 's eyes
+Leaf:  N Background and no one did anything about it . People like this need to be monitored
+Leaf:  S span when something does n't look right .
+Inner:  N Temporal None Background NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Elaborate NS
+[('This is a very depressing story', None, None, None, 0), ('because this child was essentially being tortured to death', None, None, None, 0), ('and it was right in plain view .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people like this exist .', None, None, None, 1), ('It is alarming', None, None, None, 0), ('that social workers and other were not able to detect what was going on .', None, None, None, 1), ("The child was obviously being abused underneath everyone 's eyes", None, None, None, 0), ('and no one did anything about it . People like this need to be monitored', None, None, None, 0), ("when something does n't look right .", None, None, None, 1)]

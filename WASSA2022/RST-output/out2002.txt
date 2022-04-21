@@ -1,0 +1,21 @@
+=====================> [[('Can you believe', None, None, None, 0), ("some people still do n't believe in climate change ?", None, None, None, 1), ('When will people , especially Americans like Donald Trump , wake up ?', None, None, None, 1), ('What is it', None, None, None, 0), ('going to take to get them', None, None, None, 0), ('to start making a difference . We live in Connecticut ,', None, None, None, 0), ('imagine our ENTIRE state burning up !', None, None, None, 1), ('What do climate change deniers think is really causing this then ? Bunch of idiots in congress', None, None, None, 0), ("who do n't care .", None, None, None, 1), ('We are losing our forests and animals and it just so sad .', None, None, None, 1)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution some people still do n't believe in climate change ?
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint When will people , especially Americans like Donald Trump , wake up ?
+Leaf:  N Elaborate What is it
+Leaf:  N Enablement going to take to get them
+Leaf:  S span to start making a difference . We live in Connecticut ,
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit imagine our ENTIRE state burning up !
+Inner:  N Joint None Same-Unit NN
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Elaborate What do climate change deniers think is really causing this then ? Bunch of idiots in congress
+Leaf:  S span who do n't care .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Joint None Topic-Comment NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span We are losing our forests and animals and it just so sad .
+Inner:  Root None None Evaluation NS
+[('Can you believe', None, None, None, 0), ("some people still do n't believe in climate change ?", None, None, None, 1), ('When will people , especially Americans like Donald Trump , wake up ?', None, None, None, 1), ('What is it', None, None, None, 0), ('going to take to get them', None, None, None, 0), ('to start making a difference . We live in Connecticut ,', None, None, None, 0), ('imagine our ENTIRE state burning up !', None, None, None, 1), ('What do climate change deniers think is really causing this then ? Bunch of idiots in congress', None, None, None, 0), ("who do n't care .", None, None, None, 1), ('We are losing our forests and animals and it just so sad .', None, None, None, 1)]

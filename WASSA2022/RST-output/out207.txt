@@ -1,0 +1,19 @@
+=====================> [[('I just read an article about a mother and father', None, None, None, 0), ('that sexually abused their daughter from the age of 11 .', None, None, None, 1), ('It is just disgusting .', None, None, None, 1), ("I ca n't imagine how in the world someone would be okay doing this to their child .", None, None, None, 1), ('Those parents deserve a fate worse than death .', None, None, None, 1), ('What is WRONG with people ?', None, None, None, 1), ('They deserved to be tortured', None, None, None, 0), ('until the day', None, None, None, 0), ('they die . So disgusting .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about a mother and father
+Leaf:  S span that sexually abused their daughter from the age of 11 .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Summary It is just disgusting .
+Leaf:  S span I ca n't imagine how in the world someone would be okay doing this to their child .
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation Those parents deserve a fate worse than death .
+Leaf:  S span What is WRONG with people ?
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate They deserved to be tortured
+Leaf:  N Elaborate until the day
+Leaf:  S span they die . So disgusting .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about a mother and father', None, None, None, 0), ('that sexually abused their daughter from the age of 11 .', None, None, None, 1), ('It is just disgusting .', None, None, None, 1), ("I ca n't imagine how in the world someone would be okay doing this to their child .", None, None, None, 1), ('Those parents deserve a fate worse than death .', None, None, None, 1), ('What is WRONG with people ?', None, None, None, 1), ('They deserved to be tortured', None, None, None, 0), ('until the day', None, None, None, 0), ('they die . So disgusting .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[("I do n't necessarily agree with this stance ,", None, None, None, 0), ('as I feel', None, None, None, 0), ('Trump can help our country move forth', None, None, None, 0), ('and improve economically .', None, None, None, 1), ("While Trump was n't my ideal President ,", None, None, None, 0), ('he was the much better choice over Clinton . So , in my opinion , he was the better candidate .', None, None, None, 1), ('I feel', None, None, None, 0), ('like Obama was a joke as a President ,', None, None, None, 0), ('and what did he really do during his 8 years of Presidency', None, None, None, 0), ("that he will be remembered for ? ObamaCare ? That is n't a positive in my opinion . So , I ca n't say", None, None, None, 0), ('that I really think', None, None, None, 0), ('Moore and I are on the same page ,', None, None, None, 0), ('and we have a difference of opinions .', None, None, None, 1)]]
+Leaf:  N Background I do n't necessarily agree with this stance ,
+Leaf:  S span as I feel
+Leaf:  N Joint Trump can help our country move forth
+Leaf:  N Joint and improve economically .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Background NS
+Leaf:  S span While Trump was n't my ideal President ,
+Leaf:  N Contrast he was the much better choice over Clinton . So , in my opinion , he was the better candidate .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I feel
+Leaf:  N Joint like Obama was a joke as a President ,
+Leaf:  N Elaborate and what did he really do during his 8 years of Presidency
+Leaf:  S span that he will be remembered for ? ObamaCare ? That is n't a positive in my opinion . So , I ca n't say
+Inner:  S span None Elaborate NS
+Leaf:  S span that I really think
+Leaf:  N Joint Moore and I are on the same page ,
+Leaf:  N Joint and we have a difference of opinions .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I do n't necessarily agree with this stance ,", None, None, None, 0), ('as I feel', None, None, None, 0), ('Trump can help our country move forth', None, None, None, 0), ('and improve economically .', None, None, None, 1), ("While Trump was n't my ideal President ,", None, None, None, 0), ('he was the much better choice over Clinton . So , in my opinion , he was the better candidate .', None, None, None, 1), ('I feel', None, None, None, 0), ('like Obama was a joke as a President ,', None, None, None, 0), ('and what did he really do during his 8 years of Presidency', None, None, None, 0), ("that he will be remembered for ? ObamaCare ? That is n't a positive in my opinion . So , I ca n't say", None, None, None, 0), ('that I really think', None, None, None, 0), ('Moore and I are on the same page ,', None, None, None, 0), ('and we have a difference of opinions .', None, None, None, 1)]

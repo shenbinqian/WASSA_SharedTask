@@ -1,0 +1,29 @@
+=====================> [[("It 's such a shame the man had to shoot the dog .", None, None, None, 1), ('Labradors in general are decent dogs', None, None, None, 0), ('and not know to attack people for no reason .', None, None, None, 1), ('He could have shot into the ground or into the air', None, None, None, 0), ('to scare the dog off .', None, None, None, 1), ('I feel bad for the lady', None, None, None, 0), ('that lost her dog', None, None, None, 0), ('but this is why you keep your dogs on leashes .', None, None, None, 1), ("If she had n't let the dog off the leash", None, None, None, 0), ("this probably would not have happened . It 's a terrible and unfortunate situation all around", None, None, None, 0), ('and I hope', None, None, None, 0), ('I never find myself with the same problem .', None, None, None, 1), ("I 'm gon na go play with my dog now", None, None, None, 0), ('and be grateful .', None, None, None, 1)]]
+Leaf:  N Explanation It 's such a shame the man had to shoot the dog .
+Leaf:  N Joint Labradors in general are decent dogs
+Leaf:  N Joint and not know to attack people for no reason .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Enablement He could have shot into the ground or into the air
+Leaf:  S span to scare the dog off .
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate I feel bad for the lady
+Leaf:  S span that lost her dog
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but this is why you keep your dogs on leashes .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span If she had n't let the dog off the leash
+Leaf:  N Condition this probably would not have happened . It 's a terrible and unfortunate situation all around
+Inner:  N Joint None Condition SN
+Leaf:  S span and I hope
+Leaf:  N Attribution I never find myself with the same problem .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I 'm gon na go play with my dog now
+Leaf:  N Joint and be grateful .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's such a shame the man had to shoot the dog .", None, None, None, 1), ('Labradors in general are decent dogs', None, None, None, 0), ('and not know to attack people for no reason .', None, None, None, 1), ('He could have shot into the ground or into the air', None, None, None, 0), ('to scare the dog off .', None, None, None, 1), ('I feel bad for the lady', None, None, None, 0), ('that lost her dog', None, None, None, 0), ('but this is why you keep your dogs on leashes .', None, None, None, 1), ("If she had n't let the dog off the leash", None, None, None, 0), ("this probably would not have happened . It 's a terrible and unfortunate situation all around", None, None, None, 0), ('and I hope', None, None, None, 0), ('I never find myself with the same problem .', None, None, None, 1), ("I 'm gon na go play with my dog now", None, None, None, 0), ('and be grateful .', None, None, None, 1)]

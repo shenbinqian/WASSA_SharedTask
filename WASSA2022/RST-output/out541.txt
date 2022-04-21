@@ -1,0 +1,45 @@
+=====================> [[('I just read an article', None, None, None, 0), ('about how Billy Bob Thorton felt about his marriage to Angelia Jolie .', None, None, None, 1), ('He expressed', None, None, None, 0), ('that he did not feel good enough', None, None, None, 0), ('to be with her .', None, None, None, 1), ('This was kind of surprising .', None, None, None, 1), ('It made me feel empathic towards him .', None, None, None, 1), ('He stated', None, None, None, 0), ('that he did not like being around rich and important people . This made me feel like he is relatable . I did find it odd that they both wore vials of blood around their necks', None, None, None, 0), ('while they were together .', None, None, None, 1), ('It was a little gross . He even went into detail', None, None, None, 0), ('about how they cut their fingers together', None, None, None, 0), ('to get the blood', None, None, None, 0), ('and then compared it the lockets', None, None, None, 0), ('you can buy', None, None, None, 0), ('and put pictures of your grandmas in .', None, None, None, 1), ('I also did not realize', None, None, None, 0), ('that he is 20 years her junior .', None, None, None, 1), ('I found', None, None, None, 0), ('that to be a little old', None, None, None, 0), ('but I have seen it work .', None, None, None, 1), ('The article also briefly touched on her relationship with Brad .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span about how Billy Bob Thorton felt about his marriage to Angelia Jolie .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He expressed
+Leaf:  N Elaborate that he did not feel good enough
+Leaf:  S span to be with her .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This was kind of surprising .
+Leaf:  N Elaborate It made me feel empathic towards him .
+Leaf:  S span He stated
+Leaf:  N Temporal that he did not like being around rich and important people . This made me feel like he is relatable . I did find it odd that they both wore vials of blood around their necks
+Leaf:  S span while they were together .
+Inner:  N Attribution None Temporal NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It was a little gross . He even went into detail
+Leaf:  N Enablement about how they cut their fingers together
+Leaf:  S span to get the blood
+Inner:  S span None Enablement NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Elaborate and then compared it the lockets
+Leaf:  N Joint you can buy
+Leaf:  N Joint and put pictures of your grandmas in .
+Inner:  S span None Joint NN
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I also did not realize
+Leaf:  N Attribution that he is 20 years her junior .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I found
+Leaf:  N Attribution that to be a little old
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I have seen it work .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint The article also briefly touched on her relationship with Brad .
+Inner:  Root None None Joint NN
+[('I just read an article', None, None, None, 0), ('about how Billy Bob Thorton felt about his marriage to Angelia Jolie .', None, None, None, 1), ('He expressed', None, None, None, 0), ('that he did not feel good enough', None, None, None, 0), ('to be with her .', None, None, None, 1), ('This was kind of surprising .', None, None, None, 1), ('It made me feel empathic towards him .', None, None, None, 1), ('He stated', None, None, None, 0), ('that he did not like being around rich and important people . This made me feel like he is relatable . I did find it odd that they both wore vials of blood around their necks', None, None, None, 0), ('while they were together .', None, None, None, 1), ('It was a little gross . He even went into detail', None, None, None, 0), ('about how they cut their fingers together', None, None, None, 0), ('to get the blood', None, None, None, 0), ('and then compared it the lockets', None, None, None, 0), ('you can buy', None, None, None, 0), ('and put pictures of your grandmas in .', None, None, None, 1), ('I also did not realize', None, None, None, 0), ('that he is 20 years her junior .', None, None, None, 1), ('I found', None, None, None, 0), ('that to be a little old', None, None, None, 0), ('but I have seen it work .', None, None, None, 1), ('The article also briefly touched on her relationship with Brad .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('A Russian fighter jet crashed into the Mediterranean Sea', None, None, None, 0), ('as it attempted to land on an aircraft carrier .', None, None, None, 1), ('The pilot safely ejected from the aircraft .', None, None, None, 1), ("Many Russian naval vessels are not off the coast of Syria in Russia 's support of the Syrian government .", None, None, None, 1), ('Many Britains are concerned over Russian warships', None, None, None, 0), ('traveling through British waters .', None, None, None, 1), ('But Russia says', None, None, None, 0), ("its focus is about maintaining and safeguarding it 's maritime economic activity and responding to new kinds of piracy and international terrorism .", None, None, None, 1)]]
+Leaf:  N Temporal A Russian fighter jet crashed into the Mediterranean Sea
+Leaf:  N Temporal as it attempted to land on an aircraft carrier .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span The pilot safely ejected from the aircraft .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Many Russian naval vessels are not off the coast of Syria in Russia 's support of the Syrian government .
+Leaf:  N Elaborate Many Britains are concerned over Russian warships
+Leaf:  S span traveling through British waters .
+Inner:  S span None Elaborate NS
+Leaf:  S span But Russia says
+Leaf:  N Attribution its focus is about maintaining and safeguarding it 's maritime economic activity and responding to new kinds of piracy and international terrorism .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('A Russian fighter jet crashed into the Mediterranean Sea', None, None, None, 0), ('as it attempted to land on an aircraft carrier .', None, None, None, 1), ('The pilot safely ejected from the aircraft .', None, None, None, 1), ("Many Russian naval vessels are not off the coast of Syria in Russia 's support of the Syrian government .", None, None, None, 1), ('Many Britains are concerned over Russian warships', None, None, None, 0), ('traveling through British waters .', None, None, None, 1), ('But Russia says', None, None, None, 0), ("its focus is about maintaining and safeguarding it 's maritime economic activity and responding to new kinds of piracy and international terrorism .", None, None, None, 1)]

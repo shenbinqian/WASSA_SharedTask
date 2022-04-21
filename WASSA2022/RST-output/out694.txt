@@ -1,0 +1,27 @@
+=====================> [[("It 's hard to imagine the life of people", None, None, None, 0), ('who left everything', None, None, None, 0), ('they had –', None, None, None, 0), ('of course , many of them had already lost most', None, None, None, 0), ('of what they had –', None, None, None, 0), ('and started impossibly long and complicated journeys', None, None, None, 0), ('to secure a better life for themselves and their family .', None, None, None, 1), ('Imagine having nothing but the clothes on your back ,', None, None, None, 0), ('not knowing', None, None, None, 0), ('where your next meal is going to come from ,', None, None, None, 0), ('but still hoping for a chance', None, None, None, 0), ('to rebuild your life .', None, None, None, 1), ('It ’s heart breaking .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's hard to imagine the life of people
+Leaf:  N Elaborate who left everything
+Leaf:  S span they had –
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate of course , many of them had already lost most
+Leaf:  S span of what they had –
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Enablement and started impossibly long and complicated journeys
+Leaf:  S span to secure a better life for themselves and their family .
+Inner:  N Temporal None Enablement NS
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Imagine having nothing but the clothes on your back ,
+Leaf:  S span not knowing
+Leaf:  N Attribution where your next meal is going to come from ,
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate but still hoping for a chance
+Leaf:  S span to rebuild your life .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It ’s heart breaking .
+Inner:  Root None None Evaluation NS
+[("It 's hard to imagine the life of people", None, None, None, 0), ('who left everything', None, None, None, 0), ('they had –', None, None, None, 0), ('of course , many of them had already lost most', None, None, None, 0), ('of what they had –', None, None, None, 0), ('and started impossibly long and complicated journeys', None, None, None, 0), ('to secure a better life for themselves and their family .', None, None, None, 1), ('Imagine having nothing but the clothes on your back ,', None, None, None, 0), ('not knowing', None, None, None, 0), ('where your next meal is going to come from ,', None, None, None, 0), ('but still hoping for a chance', None, None, None, 0), ('to rebuild your life .', None, None, None, 1), ('It ’s heart breaking .', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[("Now a days crime rate increased and now no safe for Muslim religion on USA , the american 's doing something fishy and wanted .", None, None, None, 1), ('on New York city A Muslim woman ’s clothing was set on fire', None, None, None, 0), ('while she walked down New York City ’s Fifth Avenue ,', None, None, None, 0), ('the police suspected a man', None, None, None, 0), ('who is standing with lighter', None, None, None, 0), ('and who ran away .', None, None, None, 1)]]
+Leaf:  N Elaborate Now a days crime rate increased and now no safe for Muslim religion on USA , the american 's doing something fishy and wanted .
+Leaf:  N Temporal on New York city A Muslim woman ’s clothing was set on fire
+Leaf:  S span while she walked down New York City ’s Fifth Avenue ,
+Inner:  N Topic-Comment None Temporal NS
+Leaf:  N Elaborate the police suspected a man
+Leaf:  S span who is standing with lighter
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and who ran away .
+Inner:  N Topic-Comment None Same-Unit NN
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[("Now a days crime rate increased and now no safe for Muslim religion on USA , the american 's doing something fishy and wanted .", None, None, None, 1), ('on New York city A Muslim woman ’s clothing was set on fire', None, None, None, 0), ('while she walked down New York City ’s Fifth Avenue ,', None, None, None, 0), ('the police suspected a man', None, None, None, 0), ('who is standing with lighter', None, None, None, 0), ('and who ran away .', None, None, None, 1)]

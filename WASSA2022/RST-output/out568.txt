@@ -1,0 +1,25 @@
+=====================> [[('Hey everyone , please share this !', None, None, None, 1), ('She appears to be in her late 60s or early 70s , 6 \' 0 " , 175 lbs , with gray hair .', None, None, None, 1), ("This could easily be someone 's grandmother or mom ,", None, None, None, 0), ('a family could be worried sick about her .', None, None, None, 1), ('Her outfit sounds like she may of been in some sort of retirement home or something similar .', None, None, None, 1), ('I know', None, None, None, 0), ('if this was my grandmother', None, None, None, 0), ('I could want', None, None, None, 0), ('to know', None, None, None, 0), ('so I could help her get home ,', None, None, None, 0), ('so please share this within the area', None, None, None, 0), ('so we can maybe get her back to her home and family .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey everyone , please share this !
+Leaf:  N Evaluation She appears to be in her late 60s or early 70s , 6 ' 0 " , 175 lbs , with gray hair .
+Leaf:  N Condition This could easily be someone 's grandmother or mom ,
+Leaf:  S span a family could be worried sick about her .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Her outfit sounds like she may of been in some sort of retirement home or something similar .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  S span if this was my grandmother
+Leaf:  S span I could want
+Leaf:  N Attribution to know
+Inner:  N Enablement None Attribution SN
+Leaf:  S span so I could help her get home ,
+Inner:  N Condition None Enablement NS
+Inner:  N Attribution None Condition SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Enablement so please share this within the area
+Leaf:  S span so we can maybe get her back to her home and family .
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey everyone , please share this !', None, None, None, 1), ('She appears to be in her late 60s or early 70s , 6 \' 0 " , 175 lbs , with gray hair .', None, None, None, 1), ("This could easily be someone 's grandmother or mom ,", None, None, None, 0), ('a family could be worried sick about her .', None, None, None, 1), ('Her outfit sounds like she may of been in some sort of retirement home or something similar .', None, None, None, 1), ('I know', None, None, None, 0), ('if this was my grandmother', None, None, None, 0), ('I could want', None, None, None, 0), ('to know', None, None, None, 0), ('so I could help her get home ,', None, None, None, 0), ('so please share this within the area', None, None, None, 0), ('so we can maybe get her back to her home and family .', None, None, None, 1)]

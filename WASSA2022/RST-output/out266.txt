@@ -1,0 +1,21 @@
+=====================> [[('We need to be more considerate of climate change ,', None, None, None, 0), ('its effects are too dangerous', None, None, None, 0), ('to ignore .', None, None, None, 1), ("Because of this , it 's easy to recognize the moral imperative", None, None, None, 0), ('we have', None, None, None, 0), ('to fulfill our obligations to society .', None, None, None, 1), ('We would be remiss to deny these exact warning signs ,', None, None, None, 0), ('and we know', None, None, None, 0), ('that scientists have dedicated their entire lives towards the subject of climate change .', None, None, None, 1), ('We should heed their collective warning immediately .', None, None, None, 1)]]
+Leaf:  N Explanation We need to be more considerate of climate change ,
+Leaf:  N Cause its effects are too dangerous
+Leaf:  S span to ignore .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate Because of this , it 's easy to recognize the moral imperative
+Leaf:  N Elaborate we have
+Leaf:  S span to fulfill our obligations to society .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint We would be remiss to deny these exact warning signs ,
+Leaf:  S span and we know
+Leaf:  N Attribution that scientists have dedicated their entire lives towards the subject of climate change .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  N Condition We should heed their collective warning immediately .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('We need to be more considerate of climate change ,', None, None, None, 0), ('its effects are too dangerous', None, None, None, 0), ('to ignore .', None, None, None, 1), ("Because of this , it 's easy to recognize the moral imperative", None, None, None, 0), ('we have', None, None, None, 0), ('to fulfill our obligations to society .', None, None, None, 1), ('We would be remiss to deny these exact warning signs ,', None, None, None, 0), ('and we know', None, None, None, 0), ('that scientists have dedicated their entire lives towards the subject of climate change .', None, None, None, 1), ('We should heed their collective warning immediately .', None, None, None, 1)]

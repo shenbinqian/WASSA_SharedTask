@@ -1,0 +1,23 @@
+=====================> [[('There is no way', None, None, None, 0), ('the FBI or any government agency could figure out', None, None, None, 0), ('what a lone wolf terrorist was going to do .', None, None, None, 1), ('Some terrorist could walk into anywhere', None, None, None, 0), ('and just start shooting the place up .', None, None, None, 1), ("It 's terrible what the United States has become .", None, None, None, 1), ('The only way I see to limit terrorism is to try and limit immigration into the country ,', None, None, None, 0), ("but even that does n't solve things . Seems like if you do n't live the right kind of life to someone ,", None, None, None, 0), ("whether it 's being gay etc. ,", None, None, None, 0), ('then somebody tries to hurt you .', None, None, None, 1), ("It 's terrible .", None, None, None, 1)]]
+Leaf:  N Elaborate There is no way
+Leaf:  S span the FBI or any government agency could figure out
+Leaf:  N Attribution what a lone wolf terrorist was going to do .
+Inner:  S span None Attribution SN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Temporal Some terrorist could walk into anywhere
+Leaf:  N Temporal and just start shooting the place up .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span It 's terrible what the United States has become .
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  S span The only way I see to limit terrorism is to try and limit immigration into the country ,
+Leaf:  N Elaborate but even that does n't solve things . Seems like if you do n't live the right kind of life to someone ,
+Leaf:  S span whether it 's being gay etc. ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition then somebody tries to hurt you .
+Inner:  N Contrast None Condition SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span It 's terrible .
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('There is no way', None, None, None, 0), ('the FBI or any government agency could figure out', None, None, None, 0), ('what a lone wolf terrorist was going to do .', None, None, None, 1), ('Some terrorist could walk into anywhere', None, None, None, 0), ('and just start shooting the place up .', None, None, None, 1), ("It 's terrible what the United States has become .", None, None, None, 1), ('The only way I see to limit terrorism is to try and limit immigration into the country ,', None, None, None, 0), ("but even that does n't solve things . Seems like if you do n't live the right kind of life to someone ,", None, None, None, 0), ("whether it 's being gay etc. ,", None, None, None, 0), ('then somebody tries to hurt you .', None, None, None, 1), ("It 's terrible .", None, None, None, 1)]

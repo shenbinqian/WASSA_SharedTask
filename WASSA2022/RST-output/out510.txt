@@ -1,0 +1,21 @@
+=====================> [[('This article I just read', None, None, None, 0), ('talks about another mass shooter . Well , not so much mass shooter like some of the recent ones ,', None, None, None, 0), ('but they did open fire in public', None, None, None, 0), ('and kill 5 people .', None, None, None, 1), ("I ca n't help", None, None, None, 0), ('but feel disgusted', None, None, None, 0), ('that these things still happen .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that this guy gets what he deserves ,', None, None, None, 0), ('because this has to stop .', None, None, None, 1)]]
+Leaf:  N Same-Unit This article I just read
+Leaf:  S span talks about another mass shooter . Well , not so much mass shooter like some of the recent ones ,
+Leaf:  N Joint but they did open fire in public
+Leaf:  N Joint and kill 5 people .
+Inner:  N Contrast None Joint NN
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I ca n't help
+Leaf:  S span but feel disgusted
+Leaf:  N Attribution that these things still happen .
+Inner:  N Condition None Attribution SN
+Inner:  N Evaluation None Condition SN
+Leaf:  S span I really hope
+Leaf:  N Attribution that this guy gets what he deserves ,
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because this has to stop .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This article I just read', None, None, None, 0), ('talks about another mass shooter . Well , not so much mass shooter like some of the recent ones ,', None, None, None, 0), ('but they did open fire in public', None, None, None, 0), ('and kill 5 people .', None, None, None, 1), ("I ca n't help", None, None, None, 0), ('but feel disgusted', None, None, None, 0), ('that these things still happen .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that this guy gets what he deserves ,', None, None, None, 0), ('because this has to stop .', None, None, None, 1)]

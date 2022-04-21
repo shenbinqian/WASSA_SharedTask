@@ -1,0 +1,25 @@
+=====================> [[("I just ca n't imagine", None, None, None, 0), ('that this poor 4 year old was blinded', None, None, None, 0), ('the way', None, None, None, 0), ('she was .', None, None, None, 1), ('But then I wonder', None, None, None, 0), ('if it is truly an act of justice', None, None, None, 0), ('to carry out the same punishment on the perpetrator .', None, None, None, 1), ('It seems so human to want revenge ,', None, None, None, 0), ('but it also feel so useless .', None, None, None, 1), ('In a way', None, None, None, 0), ('it seems to make " us " as " bad " as him .', None, None, None, 1), ('It just makes me sad .', None, None, None, 1)]]
+Leaf:  S span I just ca n't imagine
+Leaf:  N Elaborate that this poor 4 year old was blinded
+Leaf:  N Elaborate the way
+Leaf:  S span she was .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Temporal None Attribution SN
+Leaf:  S span But then I wonder
+Leaf:  N Elaborate if it is truly an act of justice
+Leaf:  S span to carry out the same punishment on the perpetrator .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It seems so human to want revenge ,
+Leaf:  N Joint but it also feel so useless .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate In a way
+Leaf:  S span it seems to make " us " as " bad " as him .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It just makes me sad .
+Inner:  S span None Evaluation NS
+Inner:  N Temporal None Evaluation NS
+Inner:  Root None None Temporal NN
+[("I just ca n't imagine", None, None, None, 0), ('that this poor 4 year old was blinded', None, None, None, 0), ('the way', None, None, None, 0), ('she was .', None, None, None, 1), ('But then I wonder', None, None, None, 0), ('if it is truly an act of justice', None, None, None, 0), ('to carry out the same punishment on the perpetrator .', None, None, None, 1), ('It seems so human to want revenge ,', None, None, None, 0), ('but it also feel so useless .', None, None, None, 1), ('In a way', None, None, None, 0), ('it seems to make " us " as " bad " as him .', None, None, None, 1), ('It just makes me sad .', None, None, None, 1)]

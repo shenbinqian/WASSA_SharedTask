@@ -1,0 +1,25 @@
+=====================> [[('Since I have no children', None, None, None, 0), ("and do n't plan on having any ,", None, None, None, 0), ("I do n't really have an opinion", None, None, None, 0), ('regarding the ease', None, None, None, 0), ('that women choose to have cesarean instead of natural births .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('my opinion would be well received', None, None, None, 0), ('and I myself know', None, None, None, 0), ('I have no experience in this .', None, None, None, 1), ('I do believe , however ,', None, None, None, 0), ('that a woman should look at all available options', None, None, None, 0), ('and decide what is best for her and her family .', None, None, None, 1)]]
+Leaf:  N Joint Since I have no children
+Leaf:  N Joint and do n't plan on having any ,
+Inner:  S span None Joint NN
+Leaf:  N Elaborate I do n't really have an opinion
+Leaf:  N Elaborate regarding the ease
+Leaf:  S span that women choose to have cesarean instead of natural births .
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  N Explanation None Background SN
+Leaf:  S span I do n't think
+Leaf:  N Attribution my opinion would be well received
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I myself know
+Leaf:  N Attribution I have no experience in this .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  S span I do believe , however ,
+Leaf:  N Joint that a woman should look at all available options
+Leaf:  N Joint and decide what is best for her and her family .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Explanation NS
+[('Since I have no children', None, None, None, 0), ("and do n't plan on having any ,", None, None, None, 0), ("I do n't really have an opinion", None, None, None, 0), ('regarding the ease', None, None, None, 0), ('that women choose to have cesarean instead of natural births .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('my opinion would be well received', None, None, None, 0), ('and I myself know', None, None, None, 0), ('I have no experience in this .', None, None, None, 1), ('I do believe , however ,', None, None, None, 0), ('that a woman should look at all available options', None, None, None, 0), ('and decide what is best for her and her family .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('I am sharing this', None, None, None, 0), ('because I wish', None, None, None, 0), ('people can understand', None, None, None, 0), ('what humans are doing to the environment', None, None, None, 0), ('and how its actually affecting our climate .', None, None, None, 1), ('WE ARE going through climate change ,', None, None, None, 0), ('and it seems like the world does not care', None, None, None, 0), ("because there 's still pollution and etc .", None, None, None, 1), ('The artic glaciers are melting ,', None, None, None, 0), ('waters are getting warmer', None, None, None, 0), ('and people say', None, None, None, 0), ('that \'s not " global warming " .', None, None, None, 1), ('Definitely give this article a read', None, None, None, 0), ('if you are into environmental stuff .', None, None, None, 1)]]
+Leaf:  N Explanation I am sharing this
+Leaf:  S span because I wish
+Leaf:  S span people can understand
+Leaf:  N Joint what humans are doing to the environment
+Leaf:  N Joint and how its actually affecting our climate .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Temporal WE ARE going through climate change ,
+Leaf:  N Explanation and it seems like the world does not care
+Leaf:  S span because there 's still pollution and etc .
+Inner:  N Temporal None Explanation NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Joint The artic glaciers are melting ,
+Leaf:  N Joint waters are getting warmer
+Leaf:  S span and people say
+Leaf:  N Attribution that 's not " global warming " .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition Definitely give this article a read
+Leaf:  S span if you are into environmental stuff .
+Inner:  S span None Condition NS
+Inner:  Root None None Evaluation NS
+[('I am sharing this', None, None, None, 0), ('because I wish', None, None, None, 0), ('people can understand', None, None, None, 0), ('what humans are doing to the environment', None, None, None, 0), ('and how its actually affecting our climate .', None, None, None, 1), ('WE ARE going through climate change ,', None, None, None, 0), ('and it seems like the world does not care', None, None, None, 0), ("because there 's still pollution and etc .", None, None, None, 1), ('The artic glaciers are melting ,', None, None, None, 0), ('waters are getting warmer', None, None, None, 0), ('and people say', None, None, None, 0), ('that \'s not " global warming " .', None, None, None, 1), ('Definitely give this article a read', None, None, None, 0), ('if you are into environmental stuff .', None, None, None, 1)]

@@ -1,0 +1,43 @@
+=====================> [[('After reading that article on the Arctic Ice ,', None, None, None, 0), ('I feel', None, None, None, 0), ('that maybe we should get together', None, None, None, 0), ('and do something .', None, None, None, 1), ('Maybe find an organization', None, None, None, 0), ('to donate time and money too .', None, None, None, 1), ("I do n't know ,", None, None, None, 0), ('but it is scary that the ice is not rebounding .', None, None, None, 1), ('I am not sure what will happen in the future ,', None, None, None, 0), ('but if we can try to get people aware now of their carbon footprint , maybe , just maybe we can make a small impact on the ice melting .', None, None, None, 1), ('I know', None, None, None, 0), ('the Earth goes through cycles ,', None, None, None, 0), ('but I am sure', None, None, None, 0), ('that humans have greatly impacted the amount of thawing way more than normal cycles .', None, None, None, 1), ('It is as if humans are a parasite .', None, None, None, 1), ('We are like a chronic inflammation to the Earth .', None, None, None, 1), ("It 's getting scary out there", None, None, None, 0), ('and we have no other planet', None, None, None, 0), ('to go to in this vast universe .', None, None, None, 1), ("We ca n't mess up the one", None, None, None, 0), ('we have .', None, None, None, 1)]]
+Leaf:  S span After reading that article on the Arctic Ice ,
+Leaf:  S span I feel
+Leaf:  N Temporal that maybe we should get together
+Leaf:  N Temporal and do something .
+Inner:  N Attribution None Temporal NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Maybe find an organization
+Leaf:  S span to donate time and money too .
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span I do n't know ,
+Leaf:  N Contrast but it is scary that the ice is not rebounding .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I am not sure what will happen in the future ,
+Leaf:  N Attribution but if we can try to get people aware now of their carbon footprint , maybe , just maybe we can make a small impact on the ice melting .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Attribution the Earth goes through cycles ,
+Inner:  S span None Attribution SN
+Leaf:  S span but I am sure
+Leaf:  N Attribution that humans have greatly impacted the amount of thawing way more than normal cycles .
+Inner:  N Contrast None Attribution SN
+Inner:  N Summary None Contrast SN
+Leaf:  N Elaborate It is as if humans are a parasite .
+Leaf:  S span We are like a chronic inflammation to the Earth .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint It 's getting scary out there
+Leaf:  N Elaborate and we have no other planet
+Leaf:  S span to go to in this vast universe .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate We ca n't mess up the one
+Leaf:  S span we have .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('After reading that article on the Arctic Ice ,', None, None, None, 0), ('I feel', None, None, None, 0), ('that maybe we should get together', None, None, None, 0), ('and do something .', None, None, None, 1), ('Maybe find an organization', None, None, None, 0), ('to donate time and money too .', None, None, None, 1), ("I do n't know ,", None, None, None, 0), ('but it is scary that the ice is not rebounding .', None, None, None, 1), ('I am not sure what will happen in the future ,', None, None, None, 0), ('but if we can try to get people aware now of their carbon footprint , maybe , just maybe we can make a small impact on the ice melting .', None, None, None, 1), ('I know', None, None, None, 0), ('the Earth goes through cycles ,', None, None, None, 0), ('but I am sure', None, None, None, 0), ('that humans have greatly impacted the amount of thawing way more than normal cycles .', None, None, None, 1), ('It is as if humans are a parasite .', None, None, None, 1), ('We are like a chronic inflammation to the Earth .', None, None, None, 1), ("It 's getting scary out there", None, None, None, 0), ('and we have no other planet', None, None, None, 0), ('to go to in this vast universe .', None, None, None, 1), ("We ca n't mess up the one", None, None, None, 0), ('we have .', None, None, None, 1)]

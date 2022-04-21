@@ -1,0 +1,25 @@
+=====================> [[('In all honesty .', None, None, None, 1), ('I have read so many of these articales', None, None, None, 0), ('it is all starting to run together', None, None, None, 0), ('and i am forgetting what i am reading .', None, None, None, 1), ('The time and pay', None, None, None, 0), ('i have spent', None, None, None, 0), ('on this', None, None, None, 0), ('is starting to look like it is not worth completing the hit', None, None, None, 0), ('because it is becoming unfair pay versus time', None, None, None, 0), ('i am spending', None, None, None, 0), ('reading all these articles', None, None, None, 0), ('and wasting time', None, None, None, 0)]]
+Leaf:  N Elaborate In all honesty .
+Leaf:  S span I have read so many of these articales
+Leaf:  N Joint it is all starting to run together
+Leaf:  N Joint and i am forgetting what i am reading .
+Inner:  N Cause None Joint NN
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The time and pay
+Leaf:  N Same-Unit i have spent
+Leaf:  N Same-Unit on this
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is starting to look like it is not worth completing the hit
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Elaborate because it is becoming unfair pay versus time
+Leaf:  N Manner-Means i am spending
+Leaf:  S span reading all these articles
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Joint and wasting time
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('In all honesty .', None, None, None, 1), ('I have read so many of these articales', None, None, None, 0), ('it is all starting to run together', None, None, None, 0), ('and i am forgetting what i am reading .', None, None, None, 1), ('The time and pay', None, None, None, 0), ('i have spent', None, None, None, 0), ('on this', None, None, None, 0), ('is starting to look like it is not worth completing the hit', None, None, None, 0), ('because it is becoming unfair pay versus time', None, None, None, 0), ('i am spending', None, None, None, 0), ('reading all these articles', None, None, None, 0), ('and wasting time', None, None, None, 0)]

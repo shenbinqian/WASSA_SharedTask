@@ -1,0 +1,13 @@
+=====================> [[('it is amazing how little it takes for some people to harm or kill another person .', None, None, None, 1), ('it seems like there is a breakdown or morals in our society .', None, None, None, 1), ('we have become more anonimus', None, None, None, 0), ('and disconected from others', None, None, None, 0), ('where we live ,', None, None, None, 0), ('in large cities . with no connections to others some people in our society act out their aggression on others .', None, None, None, 1)]]
+Leaf:  N Summary it is amazing how little it takes for some people to harm or kill another person .
+Leaf:  N Explanation it seems like there is a breakdown or morals in our society .
+Leaf:  N Joint we have become more anonimus
+Leaf:  N Elaborate and disconected from others
+Leaf:  S span where we live ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit in large cities . with no connections to others some people in our society act out their aggression on others .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('it is amazing how little it takes for some people to harm or kill another person .', None, None, None, 1), ('it seems like there is a breakdown or morals in our society .', None, None, None, 1), ('we have become more anonimus', None, None, None, 0), ('and disconected from others', None, None, None, 0), ('where we live ,', None, None, None, 0), ('in large cities . with no connections to others some people in our society act out their aggression on others .', None, None, None, 1)]

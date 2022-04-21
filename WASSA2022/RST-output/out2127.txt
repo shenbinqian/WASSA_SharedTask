@@ -1,0 +1,25 @@
+=====================> [[('This is such a tragedy .', None, None, None, 1), ('All I can think about is what if a fire like that broke out in my home .', None, None, None, 1), ('Would my children make it out safely ?', None, None, None, 1), ('I have four children and three dogs .', None, None, None, 1), ("They obviously did n't stand a chance", None, None, None, 0), ('and there were only two children and one dog .', None, None, None, 1), ('I wish we knew more on this story ,', None, None, None, 0), ('such', None, None, None, 0), ('as why the fire broke out ,', None, None, None, 0), ('were the smoke detectors working ,', None, None, None, 0), ('and were there other people in the house', None, None, None, 0), ('that made it out alive ?', None, None, None, 1)]]
+Leaf:  N Explanation This is such a tragedy .
+Leaf:  N Condition All I can think about is what if a fire like that broke out in my home .
+Leaf:  S span Would my children make it out safely ?
+Inner:  N Explanation None Condition NS
+Leaf:  N Elaborate I have four children and three dogs .
+Leaf:  N Elaborate They obviously did n't stand a chance
+Leaf:  S span and there were only two children and one dog .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I wish we knew more on this story ,
+Leaf:  N Elaborate such
+Leaf:  N Joint as why the fire broke out ,
+Leaf:  N Joint were the smoke detectors working ,
+Leaf:  N Elaborate and were there other people in the house
+Leaf:  S span that made it out alive ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('This is such a tragedy .', None, None, None, 1), ('All I can think about is what if a fire like that broke out in my home .', None, None, None, 1), ('Would my children make it out safely ?', None, None, None, 1), ('I have four children and three dogs .', None, None, None, 1), ("They obviously did n't stand a chance", None, None, None, 0), ('and there were only two children and one dog .', None, None, None, 1), ('I wish we knew more on this story ,', None, None, None, 0), ('such', None, None, None, 0), ('as why the fire broke out ,', None, None, None, 0), ('were the smoke detectors working ,', None, None, None, 0), ('and were there other people in the house', None, None, None, 0), ('that made it out alive ?', None, None, None, 1)]

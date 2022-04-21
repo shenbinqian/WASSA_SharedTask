@@ -1,0 +1,27 @@
+=====================> [[('So apparently there is an infamous retired nba star', None, None, None, 0), ('who is going around', None, None, None, 0), ('and pieing influential political figures haha .', None, None, None, 1), ('At first I thought', None, None, None, 0), ('it was a typo ,', None, None, None, 0), ('and it was suppose to be die ,', None, None, None, 0), ('but it indeed was talking about someone taking a coconut pie ,', None, None, None, 0), ('and slamming it into the face of people .', None, None, None, 1), ('The act seems pretty innocent to me ,', None, None, None, 0), ('and is almost sad', None, None, None, 0), ('that he is going to have to face some jail time along with the beating from the security .', None, None, None, 1), ('Obviously , you cant go around doing this ,', None, None, None, 0), ('but it is tough not to laugh .', None, None, None, 1)]]
+Leaf:  N Elaborate So apparently there is an infamous retired nba star
+Leaf:  N Joint who is going around
+Leaf:  N Joint and pieing influential political figures haha .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span At first I thought
+Leaf:  N Joint it was a typo ,
+Leaf:  N Joint and it was suppose to be die ,
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Temporal but it indeed was talking about someone taking a coconut pie ,
+Leaf:  N Temporal and slamming it into the face of people .
+Inner:  N Contrast None Temporal NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint The act seems pretty innocent to me ,
+Leaf:  S span and is almost sad
+Leaf:  N Attribution that he is going to have to face some jail time along with the beating from the security .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast Obviously , you cant go around doing this ,
+Leaf:  S span but it is tough not to laugh .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('So apparently there is an infamous retired nba star', None, None, None, 0), ('who is going around', None, None, None, 0), ('and pieing influential political figures haha .', None, None, None, 1), ('At first I thought', None, None, None, 0), ('it was a typo ,', None, None, None, 0), ('and it was suppose to be die ,', None, None, None, 0), ('but it indeed was talking about someone taking a coconut pie ,', None, None, None, 0), ('and slamming it into the face of people .', None, None, None, 1), ('The act seems pretty innocent to me ,', None, None, None, 0), ('and is almost sad', None, None, None, 0), ('that he is going to have to face some jail time along with the beating from the security .', None, None, None, 1), ('Obviously , you cant go around doing this ,', None, None, None, 0), ('but it is tough not to laugh .', None, None, None, 1)]

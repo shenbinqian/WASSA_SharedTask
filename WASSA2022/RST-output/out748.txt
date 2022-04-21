@@ -1,0 +1,19 @@
+=====================> [[('I really liked this guys music .', None, None, None, 1), ("It 's hard to feel too sad though .", None, None, None, 1), ('He lived a full and excellent life .', None, None, None, 1), ('His music will live on for generations', None, None, None, 0), ('and there is every bit of the chance', None, None, None, 0), ('that he will never be forgotten .', None, None, None, 1), ('It is not bad to live to 80 .', None, None, None, 1), ('many others live far shorter lives', None, None, None, 0), ('and some peoples existence seems as meaningless as a fart in the wind .', None, None, None, 1)]]
+Leaf:  N Evaluation I really liked this guys music .
+Leaf:  S span It 's hard to feel too sad though .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint He lived a full and excellent life .
+Leaf:  N Joint His music will live on for generations
+Leaf:  N Elaborate and there is every bit of the chance
+Leaf:  S span that he will never be forgotten .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint It is not bad to live to 80 .
+Leaf:  N Joint many others live far shorter lives
+Leaf:  N Joint and some peoples existence seems as meaningless as a fart in the wind .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I really liked this guys music .', None, None, None, 1), ("It 's hard to feel too sad though .", None, None, None, 1), ('He lived a full and excellent life .', None, None, None, 1), ('His music will live on for generations', None, None, None, 0), ('and there is every bit of the chance', None, None, None, 0), ('that he will never be forgotten .', None, None, None, 1), ('It is not bad to live to 80 .', None, None, None, 1), ('many others live far shorter lives', None, None, None, 0), ('and some peoples existence seems as meaningless as a fart in the wind .', None, None, None, 1)]

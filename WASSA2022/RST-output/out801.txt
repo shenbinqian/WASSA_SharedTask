@@ -1,0 +1,41 @@
+=====================> [[('i just read an article about a father', None, None, None, 0), ("who killed his daughter 's adoptive grandfather", None, None, None, 0), ('because he had molested her', None, None, None, 0), ('and got off with a light sentence .', None, None, None, 1), ('its crazy . i mean , i can see', None, None, None, 0), ('why he would snap ,', None, None, None, 0), ('if you can call it that ,', None, None, None, 0), ('but . . i dont know . my feelings are all over the place .', None, None, None, 1), ('if someone hurt my kids', None, None, None, 0), ('i could see imagining killing tyhem , but i doubt i could acct on it . and there are all these people cheering his actions . like he has this weird fan club for doing it . his life is ruined , his daughter is a mess dealing with the guilt of it all ,', None, None, None, 0), ('someone is dead .', None, None, None, 1), ('and it said on the way', None, None, None, 0), ('to kill the old man ,', None, None, None, 0), ('he shot at an old boyfriend of hers', None, None, None, 0), ('he suspected', None, None, None, 0), ('was abusive .', None, None, None, 1), ('idk , maybe the heat of the moment', None, None, None, 0), ('since he already decided', None, None, None, 0), ('he was going to jail for murder .', None, None, None, 1), ('just such an emotional read', None, None, None, 0)]]
+Leaf:  N Elaborate i just read an article about a father
+Leaf:  N Explanation who killed his daughter 's adoptive grandfather
+Leaf:  S span because he had molested her
+Inner:  S span None Explanation NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and got off with a light sentence .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span its crazy . i mean , i can see
+Leaf:  N Background why he would snap ,
+Leaf:  S span if you can call it that ,
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but . . i dont know . my feelings are all over the place .
+Inner:  N Explanation None Contrast SN
+Leaf:  S span if someone hurt my kids
+Leaf:  N Condition i could see imagining killing tyhem , but i doubt i could acct on it . and there are all these people cheering his actions . like he has this weird fan club for doing it . his life is ruined , his daughter is a mess dealing with the guilt of it all ,
+Inner:  N Joint None Condition SN
+Leaf:  N Joint someone is dead .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate and it said on the way
+Leaf:  S span to kill the old man ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate he shot at an old boyfriend of hers
+Leaf:  N Same-Unit he suspected
+Leaf:  N Same-Unit was abusive .
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Background idk , maybe the heat of the moment
+Leaf:  S span since he already decided
+Leaf:  N Attribution he was going to jail for murder .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span just such an emotional read
+Inner:  Root None None Evaluation NS
+[('i just read an article about a father', None, None, None, 0), ("who killed his daughter 's adoptive grandfather", None, None, None, 0), ('because he had molested her', None, None, None, 0), ('and got off with a light sentence .', None, None, None, 1), ('its crazy . i mean , i can see', None, None, None, 0), ('why he would snap ,', None, None, None, 0), ('if you can call it that ,', None, None, None, 0), ('but . . i dont know . my feelings are all over the place .', None, None, None, 1), ('if someone hurt my kids', None, None, None, 0), ('i could see imagining killing tyhem , but i doubt i could acct on it . and there are all these people cheering his actions . like he has this weird fan club for doing it . his life is ruined , his daughter is a mess dealing with the guilt of it all ,', None, None, None, 0), ('someone is dead .', None, None, None, 1), ('and it said on the way', None, None, None, 0), ('to kill the old man ,', None, None, None, 0), ('he shot at an old boyfriend of hers', None, None, None, 0), ('he suspected', None, None, None, 0), ('was abusive .', None, None, None, 1), ('idk , maybe the heat of the moment', None, None, None, 0), ('since he already decided', None, None, None, 0), ('he was going to jail for murder .', None, None, None, 1), ('just such an emotional read', None, None, None, 0)]

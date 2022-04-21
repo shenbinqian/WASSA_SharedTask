@@ -1,0 +1,33 @@
+=====================> [[('I can not believe', None, None, None, 0), ('there is someone evil enough in this world', None, None, None, 0), ('to torture a poor , helpless kitten this way .', None, None, None, 1), ('Did you read this article ?', None, None, None, 1), ('The kitten was wrapped so tightly ,', None, None, None, 0), ("it 's little legs were close to it 's face .", None, None, None, 1), ('It made me cry .', None, None, None, 1), ('It is horrifying to think people', None, None, None, 0), ('that are capable of this exist . Anyone', None, None, None, 0), ('that does', None, None, None, 0), ('this is a true psychopath .', None, None, None, 1), ('What will they do next ? Murder young children ? Anyone', None, None, None, 0), ('that is that cruel to animals', None, None, None, 0), ('should be punished .', None, None, None, 1), ('Please share .', None, None, None, 1), ('We have to raise awareness .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Cause there is someone evil enough in this world
+Leaf:  S span to torture a poor , helpless kitten this way .
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Did you read this article ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The kitten was wrapped so tightly ,
+Leaf:  N Elaborate it 's little legs were close to it 's face .
+Inner:  N Cause None Elaborate SN
+Leaf:  S span It made me cry .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is horrifying to think people
+Leaf:  S span that are capable of this exist . Anyone
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that does
+Leaf:  N Attribution this is a true psychopath .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate What will they do next ? Murder young children ? Anyone
+Leaf:  S span that is that cruel to animals
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be punished .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Please share .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span We have to raise awareness .
+Inner:  Root None None Evaluation NS
+[('I can not believe', None, None, None, 0), ('there is someone evil enough in this world', None, None, None, 0), ('to torture a poor , helpless kitten this way .', None, None, None, 1), ('Did you read this article ?', None, None, None, 1), ('The kitten was wrapped so tightly ,', None, None, None, 0), ("it 's little legs were close to it 's face .", None, None, None, 1), ('It made me cry .', None, None, None, 1), ('It is horrifying to think people', None, None, None, 0), ('that are capable of this exist . Anyone', None, None, None, 0), ('that does', None, None, None, 0), ('this is a true psychopath .', None, None, None, 1), ('What will they do next ? Murder young children ? Anyone', None, None, None, 0), ('that is that cruel to animals', None, None, None, 0), ('should be punished .', None, None, None, 1), ('Please share .', None, None, None, 1), ('We have to raise awareness .', None, None, None, 1)]

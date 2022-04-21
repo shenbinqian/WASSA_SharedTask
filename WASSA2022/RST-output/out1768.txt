@@ -1,0 +1,23 @@
+=====================> [[('This article was about the disturbing finds by the Iraqi military', None, None, None, 0), ('as they re-captured territory from retreating Islamic State fighters .', None, None, None, 1), ('They found mass graves of people', None, None, None, 0), ('killed by ISIS', None, None, None, 0), ('and', None, None, None, 0), ('although there is some confusion about the details ,', None, None, None, 0), ('there are dozens or maybe over 100 bodies .', None, None, None, 1), ('There is also evidence of torture . The ISIS fighters were certainly brutal towards their victims ,', None, None, None, 0), ('and have captured many more', None, None, None, 0), ('to use as human shields', None, None, None, 0), ('or to kill outright for their perceived beliefs .', None, None, None, 1)]]
+Leaf:  N Background This article was about the disturbing finds by the Iraqi military
+Leaf:  S span as they re-captured territory from retreating Islamic State fighters .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate They found mass graves of people
+Leaf:  S span killed by ISIS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Same-Unit and
+Leaf:  S span although there is some confusion about the details ,
+Leaf:  N Contrast there are dozens or maybe over 100 bodies .
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Joint None Contrast NN
+Leaf:  N Joint There is also evidence of torture . The ISIS fighters were certainly brutal towards their victims ,
+Leaf:  N Enablement and have captured many more
+Leaf:  N Joint to use as human shields
+Leaf:  N Joint or to kill outright for their perceived beliefs .
+Inner:  S span None Joint NN
+Inner:  N Joint None Enablement NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This article was about the disturbing finds by the Iraqi military', None, None, None, 0), ('as they re-captured territory from retreating Islamic State fighters .', None, None, None, 1), ('They found mass graves of people', None, None, None, 0), ('killed by ISIS', None, None, None, 0), ('and', None, None, None, 0), ('although there is some confusion about the details ,', None, None, None, 0), ('there are dozens or maybe over 100 bodies .', None, None, None, 1), ('There is also evidence of torture . The ISIS fighters were certainly brutal towards their victims ,', None, None, None, 0), ('and have captured many more', None, None, None, 0), ('to use as human shields', None, None, None, 0), ('or to kill outright for their perceived beliefs .', None, None, None, 1)]

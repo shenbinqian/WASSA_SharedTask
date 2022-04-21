@@ -1,0 +1,25 @@
+=====================> [[('A man has took it on himself', None, None, None, 0), ('to kill evasive mice', None, None, None, 0), ('that have doubled in size on an island .', None, None, None, 1), ('The mice feed on birds', None, None, None, 0), ('and when the birds have babies', None, None, None, 0), ('its like a buffet for them to thrive on .', None, None, None, 1), ('I imagine', None, None, None, 0), ('it must be disgusting to have so many mice', None, None, None, 0), ('doing what they please', None, None, None, 0), ('and destroying other animals .', None, None, None, 1), ('It gives me the creeps', None, None, None, 0), ('thinking about it .', None, None, None, 1)]]
+Leaf:  N Enablement A man has took it on himself
+Leaf:  N Elaborate to kill evasive mice
+Leaf:  S span that have doubled in size on an island .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Joint The mice feed on birds
+Leaf:  S span and when the birds have babies
+Leaf:  N Background its like a buffet for them to thrive on .
+Inner:  N Joint None Background SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I imagine
+Leaf:  N Elaborate it must be disgusting to have so many mice
+Leaf:  N Joint doing what they please
+Leaf:  N Joint and destroying other animals .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background It gives me the creeps
+Leaf:  S span thinking about it .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('A man has took it on himself', None, None, None, 0), ('to kill evasive mice', None, None, None, 0), ('that have doubled in size on an island .', None, None, None, 1), ('The mice feed on birds', None, None, None, 0), ('and when the birds have babies', None, None, None, 0), ('its like a buffet for them to thrive on .', None, None, None, 1), ('I imagine', None, None, None, 0), ('it must be disgusting to have so many mice', None, None, None, 0), ('doing what they please', None, None, None, 0), ('and destroying other animals .', None, None, None, 1), ('It gives me the creeps', None, None, None, 0), ('thinking about it .', None, None, None, 1)]

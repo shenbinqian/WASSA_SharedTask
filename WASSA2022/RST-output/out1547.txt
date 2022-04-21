@@ -1,0 +1,23 @@
+=====================> [[('Man is there some issue with the quality of air in India .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if I would be willing to take a trip there .', None, None, None, 1), ('There seems to be a heavy smog', None, None, None, 0), ('lingering over the town', None, None, None, 0), ('that has caused a number of respiratory illnesses as well as shut down some schools .', None, None, None, 1), ('I have just read', None, None, None, 0), ('that air quality readings have been taken from some scientists .', None, None, None, 1), ('They found the quality of the air to be like smoking 40 packs of cigarettes a day . Yet , the local media is reporting something more like two dozen .', None, None, None, 1), ("I 'm not sure who to believe", None, None, None, 0), ('but either way it seems like quite a dangerous situation to me .', None, None, None, 1)]]
+Leaf:  N Elaborate Man is there some issue with the quality of air in India .
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution if I would be willing to take a trip there .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There seems to be a heavy smog
+Leaf:  S span lingering over the town
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that has caused a number of respiratory illnesses as well as shut down some schools .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I have just read
+Leaf:  N Attribution that air quality readings have been taken from some scientists .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They found the quality of the air to be like smoking 40 packs of cigarettes a day . Yet , the local media is reporting something more like two dozen .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I 'm not sure who to believe
+Leaf:  S span but either way it seems like quite a dangerous situation to me .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Man is there some issue with the quality of air in India .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('if I would be willing to take a trip there .', None, None, None, 1), ('There seems to be a heavy smog', None, None, None, 0), ('lingering over the town', None, None, None, 0), ('that has caused a number of respiratory illnesses as well as shut down some schools .', None, None, None, 1), ('I have just read', None, None, None, 0), ('that air quality readings have been taken from some scientists .', None, None, None, 1), ('They found the quality of the air to be like smoking 40 packs of cigarettes a day . Yet , the local media is reporting something more like two dozen .', None, None, None, 1), ("I 'm not sure who to believe", None, None, None, 0), ('but either way it seems like quite a dangerous situation to me .', None, None, None, 1)]

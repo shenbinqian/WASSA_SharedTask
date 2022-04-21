@@ -1,0 +1,17 @@
+=====================> [[('Aww , I hope', None, None, None, 0), ("this story is n't really true .", None, None, None, 1), ('I mean do people still go to see elephants perform anywhere ?', None, None, None, 1), ('And people have been so much more vocal', None, None, None, 0), ('and worried about animals for quite a long time ,', None, None, None, 0), ('I just have trouble believing', None, None, None, 0), ('that this story is true .', None, None, None, 1), ('I hope not . Plus , do elephants really live that long ?', None, None, None, 1)]]
+Leaf:  S span Aww , I hope
+Leaf:  N Attribution this story is n't really true .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I mean do people still go to see elephants perform anywhere ?
+Inner:  N Joint None Explanation NS
+Leaf:  N Joint And people have been so much more vocal
+Leaf:  N Joint and worried about animals for quite a long time ,
+Inner:  S span None Joint NN
+Leaf:  S span I just have trouble believing
+Leaf:  N Attribution that this story is true .
+Inner:  N Background None Attribution SN
+Inner:  N Elaborate None Background SN
+Leaf:  S span I hope not . Plus , do elephants really live that long ?
+Inner:  N Joint None Elaborate NS
+Inner:  Root None None Joint NN
+[('Aww , I hope', None, None, None, 0), ("this story is n't really true .", None, None, None, 1), ('I mean do people still go to see elephants perform anywhere ?', None, None, None, 1), ('And people have been so much more vocal', None, None, None, 0), ('and worried about animals for quite a long time ,', None, None, None, 0), ('I just have trouble believing', None, None, None, 0), ('that this story is true .', None, None, None, 1), ('I hope not . Plus , do elephants really live that long ?', None, None, None, 1)]

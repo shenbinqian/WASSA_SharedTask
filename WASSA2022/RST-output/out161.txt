@@ -1,0 +1,29 @@
+=====================> [[('Hey man can you believe', None, None, None, 0), ('that again', None, None, None, 0), ('the sea ice is at its lowest level again !', None, None, None, 1), ('I just read an article on it', None, None, None, 0), ('and It seems like it keeps going lower and lower .', None, None, None, 1), ('I feel really worried for animals', None, None, None, 0), ('that depend on the sea ice ,', None, None, None, 0), ('polar bears I think really need it .', None, None, None, 1), ('Plus I read', None, None, None, 0), ('how it can have a really bad impact on our climate', None, None, None, 0), ("because the ice reflects so much of the sun 's energy", None, None, None, 0), ('without it even more heat from the sun gets in', None, None, None, 0), ("and does n't get reflected . Definitely something", None, None, None, 0), ('to watch and worry about .', None, None, None, 1)]]
+Leaf:  S span Hey man can you believe
+Leaf:  N Manner-Means that again
+Leaf:  S span the sea ice is at its lowest level again !
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal I just read an article on it
+Leaf:  N Temporal and It seems like it keeps going lower and lower .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Elaborate I feel really worried for animals
+Leaf:  S span that depend on the sea ice ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span polar bears I think really need it .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Plus I read
+Leaf:  N Explanation how it can have a really bad impact on our climate
+Leaf:  N Condition because the ice reflects so much of the sun 's energy
+Leaf:  N Joint without it even more heat from the sun gets in
+Leaf:  N Elaborate and does n't get reflected . Definitely something
+Leaf:  S span to watch and worry about .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Condition NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Hey man can you believe', None, None, None, 0), ('that again', None, None, None, 0), ('the sea ice is at its lowest level again !', None, None, None, 1), ('I just read an article on it', None, None, None, 0), ('and It seems like it keeps going lower and lower .', None, None, None, 1), ('I feel really worried for animals', None, None, None, 0), ('that depend on the sea ice ,', None, None, None, 0), ('polar bears I think really need it .', None, None, None, 1), ('Plus I read', None, None, None, 0), ('how it can have a really bad impact on our climate', None, None, None, 0), ("because the ice reflects so much of the sun 's energy", None, None, None, 0), ('without it even more heat from the sun gets in', None, None, None, 0), ("and does n't get reflected . Definitely something", None, None, None, 0), ('to watch and worry about .', None, None, None, 1)]

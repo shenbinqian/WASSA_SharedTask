@@ -1,0 +1,19 @@
+=====================> [[('When you are a police officer', None, None, None, 0), ('there is a high chance', None, None, None, 0), ("you 'll get shot ,", None, None, None, 0), ('this kind of thing happens', None, None, None, 0), ('because people have an easy access to guns ,', None, None, None, 0), ('if there was a more strict gun control ,', None, None, None, 0), ("less officers would die during their service , but well , the government prefer guns over people 's lives .", None, None, None, 1), ('poor officers ,', None, None, None, 0), ('but they had a risky job .', None, None, None, 1)]]
+Leaf:  N Same-Unit When you are a police officer
+Leaf:  N Elaborate there is a high chance
+Leaf:  S span you 'll get shot ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Cause this kind of thing happens
+Leaf:  S span because people have an easy access to guns ,
+Inner:  S span None Cause NS
+Leaf:  S span if there was a more strict gun control ,
+Leaf:  N Condition less officers would die during their service , but well , the government prefer guns over people 's lives .
+Inner:  N Condition None Condition SN
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation poor officers ,
+Leaf:  S span but they had a risky job .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('When you are a police officer', None, None, None, 0), ('there is a high chance', None, None, None, 0), ("you 'll get shot ,", None, None, None, 0), ('this kind of thing happens', None, None, None, 0), ('because people have an easy access to guns ,', None, None, None, 0), ('if there was a more strict gun control ,', None, None, None, 0), ("less officers would die during their service , but well , the government prefer guns over people 's lives .", None, None, None, 1), ('poor officers ,', None, None, None, 0), ('but they had a risky job .', None, None, None, 1)]

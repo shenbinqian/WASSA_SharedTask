@@ -1,0 +1,17 @@
+=====================> [[('I just read an article about Susan Sarandon', None, None, None, 0), ('asking people to put their money', None, None, None, 0), ('where their mouth is in regards to the Dakota Access Pipeline .', None, None, None, 1), ("While I do n't agree with her position ,", None, None, None, 0), ('I do agree with that statement .', None, None, None, 1), ('If people want to whine about it ,', None, None, None, 0), ('they should step up', None, None, None, 0), ('and help instead of crying on social media .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about Susan Sarandon
+Leaf:  N Elaborate asking people to put their money
+Leaf:  S span where their mouth is in regards to the Dakota Access Pipeline .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span While I do n't agree with her position ,
+Leaf:  N Contrast I do agree with that statement .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span If people want to whine about it ,
+Leaf:  N Joint they should step up
+Leaf:  N Joint and help instead of crying on social media .
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about Susan Sarandon', None, None, None, 0), ('asking people to put their money', None, None, None, 0), ('where their mouth is in regards to the Dakota Access Pipeline .', None, None, None, 1), ("While I do n't agree with her position ,", None, None, None, 0), ('I do agree with that statement .', None, None, None, 1), ('If people want to whine about it ,', None, None, None, 0), ('they should step up', None, None, None, 0), ('and help instead of crying on social media .', None, None, None, 1)]

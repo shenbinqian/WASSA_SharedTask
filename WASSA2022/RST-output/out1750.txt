@@ -1,0 +1,23 @@
+=====================> [[('And in other news', None, None, None, 0), ('ushering in the apocalypse ,', None, None, None, 0), ('Paraguay just mismanaged their water resources so poorly', None, None, None, 0), ('that one of their rivers almost completely has dried up , in addition to a drought .', None, None, None, 1), ('I feel', None, None, None, 0), ("like these types of things are going to become extremely common in our near future thanks to our current President 's very uninterested feelings about global warming .", None, None, None, 1), ('We will likely never recover', None, None, None, 0), ('since we have long since not done enough', None, None, None, 0), ('to combat it ,', None, None, None, 0), ('and millions worldwide are going to suffer and die', None, None, None, 0), ('as stuff like this becomes a seasonal thing .', None, None, None, 1)]]
+Leaf:  N Elaborate And in other news
+Leaf:  S span ushering in the apocalypse ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Cause Paraguay just mismanaged their water resources so poorly
+Leaf:  S span that one of their rivers almost completely has dried up , in addition to a drought .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I feel
+Leaf:  N Attribution like these types of things are going to become extremely common in our near future thanks to our current President 's very uninterested feelings about global warming .
+Inner:  N Cause None Attribution SN
+Leaf:  N Cause We will likely never recover
+Leaf:  N Elaborate since we have long since not done enough
+Leaf:  S span to combat it ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Background and millions worldwide are going to suffer and die
+Leaf:  S span as stuff like this becomes a seasonal thing .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('And in other news', None, None, None, 0), ('ushering in the apocalypse ,', None, None, None, 0), ('Paraguay just mismanaged their water resources so poorly', None, None, None, 0), ('that one of their rivers almost completely has dried up , in addition to a drought .', None, None, None, 1), ('I feel', None, None, None, 0), ("like these types of things are going to become extremely common in our near future thanks to our current President 's very uninterested feelings about global warming .", None, None, None, 1), ('We will likely never recover', None, None, None, 0), ('since we have long since not done enough', None, None, None, 0), ('to combat it ,', None, None, None, 0), ('and millions worldwide are going to suffer and die', None, None, None, 0), ('as stuff like this becomes a seasonal thing .', None, None, None, 1)]

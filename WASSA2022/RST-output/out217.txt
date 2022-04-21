@@ -1,0 +1,19 @@
+=====================> [[('this is an incredibly one sided article .', None, None, None, 1), ('not sure how they are even allowed to publish stuff like this .', None, None, None, 1), ('It is amazing they had to reference black lives matter ,', None, None, None, 0), ('and all of sudden this guy was an upstanding citizen .', None, None, None, 1), ('There is always a reason', None, None, None, 0), ('an office pulls the trigger .', None, None, None, 1), ('Sometimes , it is an accident ,', None, None, None, 0), ('but more often that not , it is not . Hopefully they will publish the toxicology report .', None, None, None, 1), ("Wo n't hold my breath though .", None, None, None, 1)]]
+Leaf:  N Elaborate this is an incredibly one sided article .
+Leaf:  N Evaluation not sure how they are even allowed to publish stuff like this .
+Leaf:  N Temporal It is amazing they had to reference black lives matter ,
+Leaf:  N Temporal and all of sudden this guy was an upstanding citizen .
+Inner:  S span None Temporal NN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation There is always a reason
+Leaf:  S span an office pulls the trigger .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Contrast Sometimes , it is an accident ,
+Leaf:  S span but more often that not , it is not . Hopefully they will publish the toxicology report .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span Wo n't hold my breath though .
+Inner:  Root None None Contrast NS
+[('this is an incredibly one sided article .', None, None, None, 1), ('not sure how they are even allowed to publish stuff like this .', None, None, None, 1), ('It is amazing they had to reference black lives matter ,', None, None, None, 0), ('and all of sudden this guy was an upstanding citizen .', None, None, None, 1), ('There is always a reason', None, None, None, 0), ('an office pulls the trigger .', None, None, None, 1), ('Sometimes , it is an accident ,', None, None, None, 0), ('but more often that not , it is not . Hopefully they will publish the toxicology report .', None, None, None, 1), ("Wo n't hold my breath though .", None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I know', None, None, None, 0), ('a lot of people refuse to believe the facts about climate change', None, None, None, 0), ("and some really do n't care", None, None, None, 0), ("because they do n't see", None, None, None, 0), ('how the problem directly affects them ,', None, None, None, 0), ('but all you coffee addicts out there are going to cry a little shallow tear', None, None, None, 0), ('when your favorite cup-of-Joe goes extinct .', None, None, None, 1), ("The increase of the planet 's temperature is adversely affecting coffee growth in areas", None, None, None, 0), ('where the plants have always thrived .', None, None, None, 1), ('Funny ( not really at all funny ) ,', None, None, None, 0), ('but more people will worry', None, None, None, 0), ('about their brand of coffee going extinct than about animal and plant species', None, None, None, 0), ('being constantly wiped out for good .', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Joint a lot of people refuse to believe the facts about climate change
+Leaf:  N Explanation and some really do n't care
+Leaf:  S span because they do n't see
+Leaf:  N Attribution how the problem directly affects them ,
+Inner:  S span None Attribution SN
+Inner:  N Joint None Explanation NS
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Background but all you coffee addicts out there are going to cry a little shallow tear
+Leaf:  S span when your favorite cup-of-Joe goes extinct .
+Inner:  N Contrast None Background NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate The increase of the planet 's temperature is adversely affecting coffee growth in areas
+Leaf:  S span where the plants have always thrived .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Funny ( not really at all funny ) ,
+Leaf:  S span but more people will worry
+Leaf:  N Elaborate about their brand of coffee going extinct than about animal and plant species
+Leaf:  S span being constantly wiped out for good .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I know', None, None, None, 0), ('a lot of people refuse to believe the facts about climate change', None, None, None, 0), ("and some really do n't care", None, None, None, 0), ("because they do n't see", None, None, None, 0), ('how the problem directly affects them ,', None, None, None, 0), ('but all you coffee addicts out there are going to cry a little shallow tear', None, None, None, 0), ('when your favorite cup-of-Joe goes extinct .', None, None, None, 1), ("The increase of the planet 's temperature is adversely affecting coffee growth in areas", None, None, None, 0), ('where the plants have always thrived .', None, None, None, 1), ('Funny ( not really at all funny ) ,', None, None, None, 0), ('but more people will worry', None, None, None, 0), ('about their brand of coffee going extinct than about animal and plant species', None, None, None, 0), ('being constantly wiped out for good .', None, None, None, 1)]

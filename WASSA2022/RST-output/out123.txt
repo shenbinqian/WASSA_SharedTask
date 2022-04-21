@@ -1,0 +1,19 @@
+=====================> [[('Remember that you', None, None, None, 0), ('where telling me', None, None, None, 0), ('about how you were having trouble sleeping lately ?', None, None, None, 1), ('Maybe you should take a look at this article', None, None, None, 0), ('that I found online about sleep paralysis', None, None, None, 0), ('and what it is all about and how it is affecting this guy .', None, None, None, 1), ('I hope', None, None, None, 0), ('that it can help you out a little bit', None, None, None, 0), ('with what you have been going through .', None, None, None, 1)]]
+Leaf:  N Same-Unit Remember that you
+Leaf:  S span where telling me
+Leaf:  N Attribution about how you were having trouble sleeping lately ?
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Topic-Comment None Same-Unit NN
+Leaf:  N Elaborate Maybe you should take a look at this article
+Leaf:  S span that I found online about sleep paralysis
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and what it is all about and how it is affecting this guy .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate that it can help you out a little bit
+Leaf:  S span with what you have been going through .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Topic-Comment NS
+[('Remember that you', None, None, None, 0), ('where telling me', None, None, None, 0), ('about how you were having trouble sleeping lately ?', None, None, None, 1), ('Maybe you should take a look at this article', None, None, None, 0), ('that I found online about sleep paralysis', None, None, None, 0), ('and what it is all about and how it is affecting this guy .', None, None, None, 1), ('I hope', None, None, None, 0), ('that it can help you out a little bit', None, None, None, 0), ('with what you have been going through .', None, None, None, 1)]

@@ -1,0 +1,35 @@
+=====================> [[('You know', None, None, None, 0), ("I love playing devil 's advocate", None, None, None, 0), ('and having random views on things .', None, None, None, 1), ("Well here 's another one of my crazy ideas", None, None, None, 0), ('so prepare yourself .', None, None, None, 1), ('I think', None, None, None, 0), ('that the Mayor of Sacramento is blessed', None, None, None, 0), ("that 's all that happened to him .", None, None, None, 1), ('Yes he may be upset', None, None, None, 0), ('and a little shaken ,', None, None, None, 0), ('but he still gets to go home to his family', None, None, None, 0), ('and enjoy his wealth .', None, None, None, 1), ("He does n't lose his job", None, None, None, 0), ("and he is n't majorly damaged .", None, None, None, 1), ('I would easily take a pie in the face', None, None, None, 0), ('if afterwards I was a rich white man', None, None, None, 0), ('who still had supporters behind me .', None, None, None, 1)]]
+Leaf:  S span You know
+Leaf:  N Joint I love playing devil 's advocate
+Leaf:  N Joint and having random views on things .
+Inner:  N Attribution None Joint NN
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  S span Well here 's another one of my crazy ideas
+Leaf:  N Explanation so prepare yourself .
+Inner:  N Topic-Comment None Explanation SN
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span I think
+Leaf:  S span that the Mayor of Sacramento is blessed
+Leaf:  N Attribution that 's all that happened to him .
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint Yes he may be upset
+Leaf:  N Joint and a little shaken ,
+Inner:  S span None Joint NN
+Leaf:  N Joint but he still gets to go home to his family
+Leaf:  N Joint and enjoy his wealth .
+Inner:  N Contrast None Joint NN
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint He does n't lose his job
+Leaf:  N Joint and he is n't majorly damaged .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition I would easily take a pie in the face
+Leaf:  N Elaborate if afterwards I was a rich white man
+Leaf:  S span who still had supporters behind me .
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('You know', None, None, None, 0), ("I love playing devil 's advocate", None, None, None, 0), ('and having random views on things .', None, None, None, 1), ("Well here 's another one of my crazy ideas", None, None, None, 0), ('so prepare yourself .', None, None, None, 1), ('I think', None, None, None, 0), ('that the Mayor of Sacramento is blessed', None, None, None, 0), ("that 's all that happened to him .", None, None, None, 1), ('Yes he may be upset', None, None, None, 0), ('and a little shaken ,', None, None, None, 0), ('but he still gets to go home to his family', None, None, None, 0), ('and enjoy his wealth .', None, None, None, 1), ("He does n't lose his job", None, None, None, 0), ("and he is n't majorly damaged .", None, None, None, 1), ('I would easily take a pie in the face', None, None, None, 0), ('if afterwards I was a rich white man', None, None, None, 0), ('who still had supporters behind me .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('These poor people in Syria .', None, None, None, 1), ('On the lookout all the time , every time', None, None, None, 0), ('you hear a bang or a noise', None, None, None, 0), ('they must shake .', None, None, None, 1), ('This is so bad these poor people were just going to school .', None, None, None, 1), ('The place you should feel safe . Your trying to make yourself better to learn something .', None, None, None, 1), ('If Russia targeted this school', None, None, None, 0), ('then I hope', None, None, None, 0), ('they get what they deserve .', None, None, None, 1), ('They should think about their families', None, None, None, 0), ('when carrying out an attack such as this .', None, None, None, 1)]]
+Leaf:  N Elaborate These poor people in Syria .
+Leaf:  N Elaborate On the lookout all the time , every time
+Leaf:  S span you hear a bang or a noise
+Inner:  N Cause None Elaborate NS
+Leaf:  S span they must shake .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This is so bad these poor people were just going to school .
+Leaf:  S span The place you should feel safe . Your trying to make yourself better to learn something .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If Russia targeted this school
+Leaf:  S span then I hope
+Leaf:  N Attribution they get what they deserve .
+Inner:  N Condition None Attribution SN
+Inner:  N Elaborate None Condition SN
+Leaf:  N Condition They should think about their families
+Leaf:  S span when carrying out an attack such as this .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('These poor people in Syria .', None, None, None, 1), ('On the lookout all the time , every time', None, None, None, 0), ('you hear a bang or a noise', None, None, None, 0), ('they must shake .', None, None, None, 1), ('This is so bad these poor people were just going to school .', None, None, None, 1), ('The place you should feel safe . Your trying to make yourself better to learn something .', None, None, None, 1), ('If Russia targeted this school', None, None, None, 0), ('then I hope', None, None, None, 0), ('they get what they deserve .', None, None, None, 1), ('They should think about their families', None, None, None, 0), ('when carrying out an attack such as this .', None, None, None, 1)]

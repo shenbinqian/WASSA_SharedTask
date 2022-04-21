@@ -1,0 +1,27 @@
+=====================> [[("It 's absolutely horrible how Indian government treats their people !", None, None, None, 1), ('Poverty , disease , no regulations', None, None, None, 0), ('when it comes to the environmental safety standards .', None, None, None, 1), ('My heart goes out to these people', None, None, None, 0), ('because they deserve to live in peace on this Earth', None, None, None, 0), ('and be healthy and prosperous just like everyone else . Such a blatant disregard for human life ! India is like hell in Earth . I would lock up these government people in solitary confinement for life', None, None, None, 0), ('and let the fly ash befall on their heads', None, None, None, 0), ('so they can find out what getting tuberculosis and liver decease is like for these poor people !', None, None, None, 1), ('The situation in India just never ends , makes you wonder', None, None, None, 0), ('where all these mega wealthy Indian royals are ?!!!', None, None, None, 1), ("Why is n't the fly ash falling on them ,", None, None, None, 0), ("or why are n't they drinking polluted water", None, None, None, 0), ('that causes lung illness !!!', None, None, None, 1)]]
+Leaf:  N Elaborate It 's absolutely horrible how Indian government treats their people !
+Leaf:  N Background Poverty , disease , no regulations
+Leaf:  S span when it comes to the environmental safety standards .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation My heart goes out to these people
+Leaf:  N Joint because they deserve to live in peace on this Earth
+Leaf:  N Temporal and be healthy and prosperous just like everyone else . Such a blatant disregard for human life ! India is like hell in Earth . I would lock up these government people in solitary confinement for life
+Leaf:  N Temporal and let the fly ash befall on their heads
+Inner:  N Enablement None Temporal NN
+Leaf:  S span so they can find out what getting tuberculosis and liver decease is like for these poor people !
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Leaf:  S span The situation in India just never ends , makes you wonder
+Leaf:  N Joint where all these mega wealthy Indian royals are ?!!!
+Leaf:  N Joint Why is n't the fly ash falling on them ,
+Leaf:  N Elaborate or why are n't they drinking polluted water
+Leaf:  S span that causes lung illness !!!
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("It 's absolutely horrible how Indian government treats their people !", None, None, None, 1), ('Poverty , disease , no regulations', None, None, None, 0), ('when it comes to the environmental safety standards .', None, None, None, 1), ('My heart goes out to these people', None, None, None, 0), ('because they deserve to live in peace on this Earth', None, None, None, 0), ('and be healthy and prosperous just like everyone else . Such a blatant disregard for human life ! India is like hell in Earth . I would lock up these government people in solitary confinement for life', None, None, None, 0), ('and let the fly ash befall on their heads', None, None, None, 0), ('so they can find out what getting tuberculosis and liver decease is like for these poor people !', None, None, None, 1), ('The situation in India just never ends , makes you wonder', None, None, None, 0), ('where all these mega wealthy Indian royals are ?!!!', None, None, None, 1), ("Why is n't the fly ash falling on them ,", None, None, None, 0), ("or why are n't they drinking polluted water", None, None, None, 0), ('that causes lung illness !!!', None, None, None, 1)]

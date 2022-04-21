@@ -1,0 +1,27 @@
+=====================> [[('Did you read this story about the mountain climber', None, None, None, 0), ('who died', None, None, None, 0), ('trying to climb a mountain in Vietnam ?', None, None, None, 1), ('It was very sad .', None, None, None, 1), ('The girlfriend begged him to get help', None, None, None, 0), ('but he refused', None, None, None, 0), ('until it was too late . I feel so bad for his family and girlfriend', None, None, None, 0), ('he left behind .', None, None, None, 1), ('I do take comfort', None, None, None, 0), ('in knowing', None, None, None, 0), ("that 's what he wanted to do", None, None, None, 0), ('and he died', None, None, None, 0), ('following what he wants .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you read this story about the mountain climber
+Leaf:  N Manner-Means who died
+Leaf:  S span trying to climb a mountain in Vietnam ?
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It was very sad .
+Leaf:  S span The girlfriend begged him to get help
+Leaf:  N Contrast but he refused
+Leaf:  N Elaborate until it was too late . I feel so bad for his family and girlfriend
+Leaf:  S span he left behind .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Contrast NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate I do take comfort
+Leaf:  S span in knowing
+Leaf:  N Joint that 's what he wanted to do
+Leaf:  N Manner-Means and he died
+Leaf:  S span following what he wants .
+Inner:  N Joint None Manner-Means NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Did you read this story about the mountain climber', None, None, None, 0), ('who died', None, None, None, 0), ('trying to climb a mountain in Vietnam ?', None, None, None, 1), ('It was very sad .', None, None, None, 1), ('The girlfriend begged him to get help', None, None, None, 0), ('but he refused', None, None, None, 0), ('until it was too late . I feel so bad for his family and girlfriend', None, None, None, 0), ('he left behind .', None, None, None, 1), ('I do take comfort', None, None, None, 0), ('in knowing', None, None, None, 0), ("that 's what he wanted to do", None, None, None, 0), ('and he died', None, None, None, 0), ('following what he wants .', None, None, None, 1)]

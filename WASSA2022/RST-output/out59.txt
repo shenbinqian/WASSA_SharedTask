@@ -1,0 +1,33 @@
+=====================> [[('The whole " police violence against blacks " theme has been overplayed', None, None, None, 0), ('to manipulate people .', None, None, None, 1), ('The fact is that there really is a problem of police feeling justified in shooting people', None, None, None, 0), ('whenever they feel threatened ,', None, None, None, 0), ("but this does n't just happen to blacks . I can think of four cases off the top of my head", None, None, None, 0), ('where innocent unarmed white men were killed by police . One of them was the recent case', None, None, None, 0), ('where the guy', None, None, None, 0), ('who died', None, None, None, 0), ('was the victim of " swatting " . He was n\'t involved in an crime at all , but the police burst into his house with guns blazing', None, None, None, 0), ("and he died . And the cop wo n't be prosecuted . I hope", None, None, None, 0), ('that blacks', None, None, None, 0), ('who care about this issue', None, None, None, 0), ('will realize', None, None, None, 0), ('they are being manipulated', None, None, None, 0), ('and will join forces with others', None, None, None, 0), ("who do n't want to live in a police state .", None, None, None, 1)]]
+Leaf:  N Enablement The whole " police violence against blacks " theme has been overplayed
+Leaf:  S span to manipulate people .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Background The fact is that there really is a problem of police feeling justified in shooting people
+Leaf:  S span whenever they feel threatened ,
+Inner:  S span None Background NS
+Leaf:  N Elaborate but this does n't just happen to blacks . I can think of four cases off the top of my head
+Leaf:  N Elaborate where innocent unarmed white men were killed by police . One of them was the recent case
+Leaf:  N Elaborate where the guy
+Leaf:  S span who died
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was the victim of " swatting " . He was n't involved in an crime at all , but the police burst into his house with guns blazing
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span and he died . And the cop wo n't be prosecuted . I hope
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate that blacks
+Leaf:  S span who care about this issue
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will realize
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution they are being manipulated
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and will join forces with others
+Leaf:  S span who do n't want to live in a police state .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('The whole " police violence against blacks " theme has been overplayed', None, None, None, 0), ('to manipulate people .', None, None, None, 1), ('The fact is that there really is a problem of police feeling justified in shooting people', None, None, None, 0), ('whenever they feel threatened ,', None, None, None, 0), ("but this does n't just happen to blacks . I can think of four cases off the top of my head", None, None, None, 0), ('where innocent unarmed white men were killed by police . One of them was the recent case', None, None, None, 0), ('where the guy', None, None, None, 0), ('who died', None, None, None, 0), ('was the victim of " swatting " . He was n\'t involved in an crime at all , but the police burst into his house with guns blazing', None, None, None, 0), ("and he died . And the cop wo n't be prosecuted . I hope", None, None, None, 0), ('that blacks', None, None, None, 0), ('who care about this issue', None, None, None, 0), ('will realize', None, None, None, 0), ('they are being manipulated', None, None, None, 0), ('and will join forces with others', None, None, None, 0), ("who do n't want to live in a police state .", None, None, None, 1)]

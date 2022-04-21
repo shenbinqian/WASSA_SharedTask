@@ -1,0 +1,17 @@
+=====================> [[('The wholes situation has enough blame', None, None, None, 0), ('to go around for both parties .', None, None, None, 1), ('The victim should not have fallen overboard , however ,', None, None, None, 0), ("the cruise ship is ultimately responsible for the safety of it 's passengers .", None, None, None, 1), ('Whether or', None, None, None, 0), ("not the victim was being confronted by the ship 's security", None, None, None, 0), ('makes no difference', None, None, None, 0), ('as to whether they should have ordered a search for the fallen passenger .', None, None, None, 1)]]
+Leaf:  N Elaborate The wholes situation has enough blame
+Leaf:  S span to go around for both parties .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The victim should not have fallen overboard , however ,
+Leaf:  N Contrast the cruise ship is ultimately responsible for the safety of it 's passengers .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Whether or
+Leaf:  S span not the victim was being confronted by the ship 's security
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate makes no difference
+Leaf:  S span as to whether they should have ordered a search for the fallen passenger .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The wholes situation has enough blame', None, None, None, 0), ('to go around for both parties .', None, None, None, 1), ('The victim should not have fallen overboard , however ,', None, None, None, 0), ("the cruise ship is ultimately responsible for the safety of it 's passengers .", None, None, None, 1), ('Whether or', None, None, None, 0), ("not the victim was being confronted by the ship 's security", None, None, None, 0), ('makes no difference', None, None, None, 0), ('as to whether they should have ordered a search for the fallen passenger .', None, None, None, 1)]

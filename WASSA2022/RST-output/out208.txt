@@ -1,0 +1,33 @@
+=====================> [[('I just read an article about Kesha', None, None, None, 0), ('and how she was pressured into losing weight', None, None, None, 0), ('by not eating and " dumbing down " the content of her songs .', None, None, None, 1), ("It 's pretty messed up", None, None, None, 0), ('that this is what goes on in the entertainment/music industry . At the same time though , she is an adult', None, None, None, 0), ('and she had the choice', None, None, None, 0), ('to go along with this or not . She cashed in and got a lot of fame .', None, None, None, 1), ("I ca n't say", None, None, None, 0), ('I really feel that sorry for her .', None, None, None, 1), ('If it was me', None, None, None, 0), ('I would have just said ,', None, None, None, 0), ('" no "', None, None, None, 0), ('and moved on .', None, None, None, 1), ('She had the ability', None, None, None, 0), ('to speak up ,', None, None, None, 0), ("but she did n't because she wanted fame .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about Kesha
+Leaf:  N Manner-Means and how she was pressured into losing weight
+Leaf:  S span by not eating and " dumbing down " the content of her songs .
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's pretty messed up
+Leaf:  S span that this is what goes on in the entertainment/music industry . At the same time though , she is an adult
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and she had the choice
+Leaf:  S span to go along with this or not . She cashed in and got a lot of fame .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I ca n't say
+Leaf:  N Attribution I really feel that sorry for her .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span If it was me
+Leaf:  S span I would have just said ,
+Leaf:  N Joint " no "
+Leaf:  N Joint and moved on .
+Inner:  N Attribution None Joint NN
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate She had the ability
+Leaf:  S span to speak up ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but she did n't because she wanted fame .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about Kesha', None, None, None, 0), ('and how she was pressured into losing weight', None, None, None, 0), ('by not eating and " dumbing down " the content of her songs .', None, None, None, 1), ("It 's pretty messed up", None, None, None, 0), ('that this is what goes on in the entertainment/music industry . At the same time though , she is an adult', None, None, None, 0), ('and she had the choice', None, None, None, 0), ('to go along with this or not . She cashed in and got a lot of fame .', None, None, None, 1), ("I ca n't say", None, None, None, 0), ('I really feel that sorry for her .', None, None, None, 1), ('If it was me', None, None, None, 0), ('I would have just said ,', None, None, None, 0), ('" no "', None, None, None, 0), ('and moved on .', None, None, None, 1), ('She had the ability', None, None, None, 0), ('to speak up ,', None, None, None, 0), ("but she did n't because she wanted fame .", None, None, None, 1)]

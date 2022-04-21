@@ -1,0 +1,19 @@
+=====================> [[('She was only 30 years old ,', None, None, None, 0), ('so sad.she was a pioneer', None, None, None, 0), ("and i 'm sure she will be greatly missed . i question the training", None, None, None, 0), ('these women receive in china ,', None, None, None, 0), ('i have no doubt', None, None, None, 0), ('that the Chinese military/government push people beyond their limitations', None, None, None, 0), ('so that they will look good to outsiders ,', None, None, None, 0), ("it 's such a shame !", None, None, None, 1), ('Many Chinese citizens online are also questioning the quality of the pilots equipment and quality of training !', None, None, None, 1)]]
+Leaf:  N Cause She was only 30 years old ,
+Leaf:  N Joint so sad.she was a pioneer
+Leaf:  N Elaborate and i 'm sure she will be greatly missed . i question the training
+Leaf:  S span these women receive in china ,
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  S span i have no doubt
+Leaf:  N Enablement that the Chinese military/government push people beyond their limitations
+Leaf:  S span so that they will look good to outsiders ,
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span it 's such a shame !
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Many Chinese citizens online are also questioning the quality of the pilots equipment and quality of training !
+Inner:  Root None None Elaborate NS
+[('She was only 30 years old ,', None, None, None, 0), ('so sad.she was a pioneer', None, None, None, 0), ("and i 'm sure she will be greatly missed . i question the training", None, None, None, 0), ('these women receive in china ,', None, None, None, 0), ('i have no doubt', None, None, None, 0), ('that the Chinese military/government push people beyond their limitations', None, None, None, 0), ('so that they will look good to outsiders ,', None, None, None, 0), ("it 's such a shame !", None, None, None, 1), ('Many Chinese citizens online are also questioning the quality of the pilots equipment and quality of training !', None, None, None, 1)]

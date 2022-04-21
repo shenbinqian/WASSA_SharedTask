@@ -1,0 +1,27 @@
+=====================> [[('The fact', None, None, None, 0), ('that human beings are abusing the planet', None, None, None, 0), ('and each other is evident in this article .', None, None, None, 1), ('It is enough', None, None, None, 0), ('to get you depressed ,', None, None, None, 0), ('read this', None, None, None, 0), ('so you can get an idea', None, None, None, 0), ('of how pollution affects third wolrd countries .', None, None, None, 1), ('Instead of going after industries', None, None, None, 0), ('( probably all American )', None, None, None, 0), ('with fines , they rather close schools', None, None, None, 0), ('because of the pollution and smog .', None, None, None, 1), ('Their health is being affected and not only that , the enviroment is being completely abused .', None, None, None, 1)]]
+Leaf:  N Elaborate The fact
+Leaf:  N Same-Unit that human beings are abusing the planet
+Leaf:  N Same-Unit and each other is evident in this article .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It is enough
+Leaf:  S span to get you depressed ,
+Inner:  N Condition None Elaborate NS
+Leaf:  N Enablement read this
+Leaf:  N Elaborate so you can get an idea
+Leaf:  S span of how pollution affects third wolrd countries .
+Inner:  S span None Elaborate NS
+Inner:  N Condition None Enablement NS
+Inner:  N Elaborate None Condition NN
+Leaf:  N Elaborate Instead of going after industries
+Leaf:  S span ( probably all American )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Cause with fines , they rather close schools
+Leaf:  S span because of the pollution and smog .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Their health is being affected and not only that , the enviroment is being completely abused .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The fact', None, None, None, 0), ('that human beings are abusing the planet', None, None, None, 0), ('and each other is evident in this article .', None, None, None, 1), ('It is enough', None, None, None, 0), ('to get you depressed ,', None, None, None, 0), ('read this', None, None, None, 0), ('so you can get an idea', None, None, None, 0), ('of how pollution affects third wolrd countries .', None, None, None, 1), ('Instead of going after industries', None, None, None, 0), ('( probably all American )', None, None, None, 0), ('with fines , they rather close schools', None, None, None, 0), ('because of the pollution and smog .', None, None, None, 1), ('Their health is being affected and not only that , the enviroment is being completely abused .', None, None, None, 1)]

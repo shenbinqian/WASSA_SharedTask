@@ -1,0 +1,25 @@
+=====================> [[('Another attack on a mall', None, None, None, 0), ('-', None, None, None, 0), ('while no one was actually hurt ,', None, None, None, 0), ('this is just an ongoing trend', None, None, None, 0), ('that concerns me so much .', None, None, None, 1), ("It 's gottten to where I Feel", None, None, None, 0), ('like nowhere we go is safe anymore .', None, None, None, 1), ("I do n't like going to crowded places anymore", None, None, None, 0), ('or anywhere', None, None, None, 0), ('that there are a lot of people .', None, None, None, 1), ("It seems like it 's more likely to happen there", None, None, None, 0), ("plus it 's always some crazy immigrant .", None, None, None, 1)]]
+Leaf:  N Contrast Another attack on a mall
+Leaf:  N Contrast -
+Leaf:  S span while no one was actually hurt ,
+Inner:  S span None Contrast NS
+Inner:  S span None Contrast NS
+Leaf:  N Elaborate this is just an ongoing trend
+Leaf:  S span that concerns me so much .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate It 's gottten to where I Feel
+Leaf:  S span like nowhere we go is safe anymore .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I do n't like going to crowded places anymore
+Leaf:  N Elaborate or anywhere
+Leaf:  S span that there are a lot of people .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It seems like it 's more likely to happen there
+Leaf:  N Joint plus it 's always some crazy immigrant .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Another attack on a mall', None, None, None, 0), ('-', None, None, None, 0), ('while no one was actually hurt ,', None, None, None, 0), ('this is just an ongoing trend', None, None, None, 0), ('that concerns me so much .', None, None, None, 1), ("It 's gottten to where I Feel", None, None, None, 0), ('like nowhere we go is safe anymore .', None, None, None, 1), ("I do n't like going to crowded places anymore", None, None, None, 0), ('or anywhere', None, None, None, 0), ('that there are a lot of people .', None, None, None, 1), ("It seems like it 's more likely to happen there", None, None, None, 0), ("plus it 's always some crazy immigrant .", None, None, None, 1)]

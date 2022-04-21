@@ -1,0 +1,29 @@
+=====================> [[('This is such a non-story .', None, None, None, 1), ('Every day people are dealing with divorce and custody issues .', None, None, None, 1), ('This unfortunately has become a common problem .', None, None, None, 1), ('Generally speaking a story', None, None, None, 0), ('like this is sad', None, None, None, 0), ('to read', None, None, None, 0), ('or hear about', None, None, None, 0), ('but these are celebrities .', None, None, None, 1), ('Who cares about their problems ?', None, None, None, 1), ('They are no more special than anyone else .', None, None, None, 1), ('People', None, None, None, 0), ('who get caught up', None, None, None, 0), ('in celebrity custody battles', None, None, None, 0), ('need to get a life .', None, None, None, 1)]]
+Leaf:  S span This is such a non-story .
+Leaf:  N Elaborate Every day people are dealing with divorce and custody issues .
+Leaf:  N Elaborate This unfortunately has become a common problem .
+Leaf:  N Elaborate Generally speaking a story
+Leaf:  N Evaluation like this is sad
+Leaf:  N Joint to read
+Leaf:  N Joint or hear about
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but these are celebrities .
+Leaf:  N Evaluation Who cares about their problems ?
+Leaf:  S span They are no more special than anyone else .
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Joint None Contrast SN
+Leaf:  N Elaborate People
+Leaf:  N Manner-Means who get caught up
+Leaf:  S span in celebrity custody battles
+Inner:  N Same-Unit None Manner-Means NS
+Leaf:  N Same-Unit need to get a life .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Inner:  Root None None Summary SN
+[('This is such a non-story .', None, None, None, 1), ('Every day people are dealing with divorce and custody issues .', None, None, None, 1), ('This unfortunately has become a common problem .', None, None, None, 1), ('Generally speaking a story', None, None, None, 0), ('like this is sad', None, None, None, 0), ('to read', None, None, None, 0), ('or hear about', None, None, None, 0), ('but these are celebrities .', None, None, None, 1), ('Who cares about their problems ?', None, None, None, 1), ('They are no more special than anyone else .', None, None, None, 1), ('People', None, None, None, 0), ('who get caught up', None, None, None, 0), ('in celebrity custody battles', None, None, None, 0), ('need to get a life .', None, None, None, 1)]

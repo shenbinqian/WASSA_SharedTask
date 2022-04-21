@@ -1,0 +1,11 @@
+=====================> [[('Check out this news article .', None, None, None, 1), ("It 's absolutely infuriating that this sort of thing would happen YET again , not only from a big oil and gas company , but specifically from BP again .", None, None, None, 1), ('Their ineffable ineptitude constantly leads to environmental disasters', None, None, None, 0), ('and someone has to put a stop to their BS', None, None, None, 0), ('before we let them completely destroy our habitat here on Earth .', None, None, None, 1)]]
+Leaf:  N Elaborate Check out this news article .
+Leaf:  N Explanation It 's absolutely infuriating that this sort of thing would happen YET again , not only from a big oil and gas company , but specifically from BP again .
+Leaf:  N Cause Their ineffable ineptitude constantly leads to environmental disasters
+Leaf:  S span and someone has to put a stop to their BS
+Leaf:  N Condition before we let them completely destroy our habitat here on Earth .
+Inner:  N Cause None Condition SN
+Inner:  S span None Cause NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Check out this news article .', None, None, None, 1), ("It 's absolutely infuriating that this sort of thing would happen YET again , not only from a big oil and gas company , but specifically from BP again .", None, None, None, 1), ('Their ineffable ineptitude constantly leads to environmental disasters', None, None, None, 0), ('and someone has to put a stop to their BS', None, None, None, 0), ('before we let them completely destroy our habitat here on Earth .', None, None, None, 1)]

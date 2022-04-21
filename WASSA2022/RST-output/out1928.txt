@@ -1,0 +1,21 @@
+=====================> [[('I dont like it', None, None, None, 0), ('when family split up', None, None, None, 0), ('and the parents decide to divorce .', None, None, None, 1), ('It is always hard for the kids', None, None, None, 0), ("and the emotional trauma does n't worth it .", None, None, None, 1), ('I am still a firm believer', None, None, None, 0), ('in family', None, None, None, 0), ('and it must be protected by all means .', None, None, None, 1), ('Public figures should lay good examples for others to follow .', None, None, None, 1), ('Custody always get messy', None, None, None, 0)]]
+Leaf:  N Background I dont like it
+Leaf:  N Temporal when family split up
+Leaf:  N Temporal and the parents decide to divorce .
+Inner:  S span None Temporal NN
+Inner:  N Explanation None Background NS
+Leaf:  N Joint It is always hard for the kids
+Leaf:  N Joint and the emotional trauma does n't worth it .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Explanation NS
+Leaf:  N Elaborate I am still a firm believer
+Leaf:  N Joint in family
+Leaf:  N Joint and it must be protected by all means .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span Public figures should lay good examples for others to follow .
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Topic-Change Custody always get messy
+Inner:  Root None None Topic-Change NN
+[('I dont like it', None, None, None, 0), ('when family split up', None, None, None, 0), ('and the parents decide to divorce .', None, None, None, 1), ('It is always hard for the kids', None, None, None, 0), ("and the emotional trauma does n't worth it .", None, None, None, 1), ('I am still a firm believer', None, None, None, 0), ('in family', None, None, None, 0), ('and it must be protected by all means .', None, None, None, 1), ('Public figures should lay good examples for others to follow .', None, None, None, 1), ('Custody always get messy', None, None, None, 0)]

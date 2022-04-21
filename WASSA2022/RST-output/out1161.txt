@@ -1,0 +1,43 @@
+=====================> [[('Hello Friend .', None, None, None, 1), ('How are you ?', None, None, None, 1), ('How is your family ?', None, None, None, 1), ('We had some time', None, None, None, 0), ('without contact ,', None, None, None, 0), ('we should avoid that', None, None, None, 0), ('and always communicate .', None, None, None, 1), ('Of sure where you live', None, None, None, 0), ('this that I am going to say to you is already news', None, None, None, 0), ('but , friend , you must take care of you and your family please . I do not know', None, None, None, 0), ('if you found out', None, None, None, 0), ('but I read in a digital online newspaper samples of violence in Philadelphia ,', None, None, None, 0), ('I could not get out of my head that you live in that place . Apparently a person who was armed shot in the stomach to an elderly man and another person', None, None, None, 0), ("who was accompanying him . One of the reports I 've heard from the police is that the crime weapon has not been found ,", None, None, None, 0), ('which makes me suppose', None, None, None, 0), ('that until now the police have no idea', None, None, None, 0), ('who was ,', None, None, None, 0), ('and neither the clues', None, None, None, 0), ('to catch the bad guy .', None, None, None, 1), ('The police do not know anything', None, None, None, 0), ('so it means t', None, None, None, 0)]]
+Leaf:  N Joint Hello Friend .
+Leaf:  N Joint How are you ?
+Leaf:  N Elaborate How is your family ?
+Leaf:  N Background We had some time
+Leaf:  S span without contact ,
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint we should avoid that
+Leaf:  N Joint and always communicate .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Of sure where you live
+Leaf:  S span this that I am going to say to you is already news
+Leaf:  S span but , friend , you must take care of you and your family please . I do not know
+Leaf:  N Attribution if you found out
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Leaf:  S span but I read in a digital online newspaper samples of violence in Philadelphia ,
+Leaf:  N Elaborate I could not get out of my head that you live in that place . Apparently a person who was armed shot in the stomach to an elderly man and another person
+Leaf:  S span who was accompanying him . One of the reports I 've heard from the police is that the crime weapon has not been found ,
+Inner:  N Explanation None Elaborate NS
+Inner:  N Attribution None Explanation SN
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  S span which makes me suppose
+Leaf:  S span that until now the police have no idea
+Leaf:  N Attribution who was ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and neither the clues
+Leaf:  S span to catch the bad guy .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The police do not know anything
+Leaf:  N Cause so it means t
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  Root None None Joint NN
+[('Hello Friend .', None, None, None, 1), ('How are you ?', None, None, None, 1), ('How is your family ?', None, None, None, 1), ('We had some time', None, None, None, 0), ('without contact ,', None, None, None, 0), ('we should avoid that', None, None, None, 0), ('and always communicate .', None, None, None, 1), ('Of sure where you live', None, None, None, 0), ('this that I am going to say to you is already news', None, None, None, 0), ('but , friend , you must take care of you and your family please . I do not know', None, None, None, 0), ('if you found out', None, None, None, 0), ('but I read in a digital online newspaper samples of violence in Philadelphia ,', None, None, None, 0), ('I could not get out of my head that you live in that place . Apparently a person who was armed shot in the stomach to an elderly man and another person', None, None, None, 0), ("who was accompanying him . One of the reports I 've heard from the police is that the crime weapon has not been found ,", None, None, None, 0), ('which makes me suppose', None, None, None, 0), ('that until now the police have no idea', None, None, None, 0), ('who was ,', None, None, None, 0), ('and neither the clues', None, None, None, 0), ('to catch the bad guy .', None, None, None, 1), ('The police do not know anything', None, None, None, 0), ('so it means t', None, None, None, 0)]

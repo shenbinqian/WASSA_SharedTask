@@ -1,0 +1,23 @@
+=====================> [[('Just found this article ;', None, None, None, 0), ('not surprised by this at all .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('there are truly female trump voters', None, None, None, 0), ("but I 'm not surprised ;", None, None, None, 0), ('racism is something', None, None, None, 0), ('they all bind together with .', None, None, None, 1), ('She really should just leave the party', None, None, None, 0), ('if she actually has any sense .', None, None, None, 1), ('Feel free to share this with someone else as well', None, None, None, 0), ('if you want .', None, None, None, 1)]]
+Leaf:  S span Just found this article ;
+Leaf:  N Elaborate not surprised by this at all .
+Inner:  N Elaborate None Elaborate SN
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution there are truly female trump voters
+Inner:  S span None Attribution SN
+Leaf:  N Explanation but I 'm not surprised ;
+Leaf:  N Elaborate racism is something
+Leaf:  S span they all bind together with .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Explanation NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Condition She really should just leave the party
+Leaf:  S span if she actually has any sense .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Condition Feel free to share this with someone else as well
+Leaf:  S span if you want .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Just found this article ;', None, None, None, 0), ('not surprised by this at all .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('there are truly female trump voters', None, None, None, 0), ("but I 'm not surprised ;", None, None, None, 0), ('racism is something', None, None, None, 0), ('they all bind together with .', None, None, None, 1), ('She really should just leave the party', None, None, None, 0), ('if she actually has any sense .', None, None, None, 1), ('Feel free to share this with someone else as well', None, None, None, 0), ('if you want .', None, None, None, 1)]

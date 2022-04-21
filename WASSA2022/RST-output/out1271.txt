@@ -1,0 +1,29 @@
+=====================> [[('I am not over there ,', None, None, None, 0), ("so I do n't fully know what 's going on .", None, None, None, 1), ('I do know', None, None, None, 0), ('that we should be helping these poor people out of the water', None, None, None, 0), ('and not letting them die from exhaustion', None, None, None, 0), ('or whatever else is causing their death , especially not 2 month old babies . this is just appalling that countries can not come to aid these people .', None, None, None, 1), ('Yes , they know the risk involved ,', None, None, None, 0), ('but because of other countries', None, None, None, 0), ('bombing their land out', None, None, None, 0), ('they are trying to find a better and safer situation for themselves and for their families .', None, None, None, 1), ("I do n't blame them", None, None, None, 0), ('trying to better themselves from the war-torn countries', None, None, None, 0), ('that they come from .', None, None, None, 1), ('I have sympathy for all of these people .', None, None, None, 1)]]
+Leaf:  S span I am not over there ,
+Leaf:  N Cause so I do n't fully know what 's going on .
+Inner:  N Elaborate None Cause SN
+Leaf:  S span I do know
+Leaf:  N Joint that we should be helping these poor people out of the water
+Leaf:  N Summary and not letting them die from exhaustion
+Leaf:  S span or whatever else is causing their death , especially not 2 month old babies . this is just appalling that countries can not come to aid these people .
+Inner:  N Joint None Summary NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Yes , they know the risk involved ,
+Leaf:  N Elaborate but because of other countries
+Leaf:  S span bombing their land out
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation they are trying to find a better and safer situation for themselves and for their families .
+Inner:  N Contrast None Explanation SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Manner-Means I do n't blame them
+Leaf:  N Elaborate trying to better themselves from the war-torn countries
+Leaf:  S span that they come from .
+Inner:  S span None Elaborate NS
+Inner:  S span None Manner-Means NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I have sympathy for all of these people .
+Inner:  Root None None Evaluation NS
+[('I am not over there ,', None, None, None, 0), ("so I do n't fully know what 's going on .", None, None, None, 1), ('I do know', None, None, None, 0), ('that we should be helping these poor people out of the water', None, None, None, 0), ('and not letting them die from exhaustion', None, None, None, 0), ('or whatever else is causing their death , especially not 2 month old babies . this is just appalling that countries can not come to aid these people .', None, None, None, 1), ('Yes , they know the risk involved ,', None, None, None, 0), ('but because of other countries', None, None, None, 0), ('bombing their land out', None, None, None, 0), ('they are trying to find a better and safer situation for themselves and for their families .', None, None, None, 1), ("I do n't blame them", None, None, None, 0), ('trying to better themselves from the war-torn countries', None, None, None, 0), ('that they come from .', None, None, None, 1), ('I have sympathy for all of these people .', None, None, None, 1)]

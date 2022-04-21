@@ -1,0 +1,29 @@
+=====================> [[('I am not sure', None, None, None, 0), ('if you saw', None, None, None, 0), ('that Fernandez is dead .', None, None, None, 1), ('That is really going to impact the Marlins .', None, None, None, 1), ("I did n't know all", None, None, None, 0), ('that he went through as a child', None, None, None, 0), ('to get to America .', None, None, None, 1), ('It is sad when someone with such light and hope is killed either in an accident or by some jealous fan .', None, None, None, 1), ('I know', None, None, None, 0), ('he was really important to a lot of people .', None, None, None, 1), ('I am glad', None, None, None, 0), ('they decided to cancel the Braves game .', None, None, None, 1), ('Nobody is really going to be focused enough', None, None, None, 0), ('to play anyway .', None, None, None, 1)]]
+Leaf:  S span I am not sure
+Leaf:  S span if you saw
+Leaf:  N Attribution that Fernandez is dead .
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span That is really going to impact the Marlins .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate I did n't know all
+Leaf:  N Enablement that he went through as a child
+Leaf:  S span to get to America .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is sad when someone with such light and hope is killed either in an accident or by some jealous fan .
+Leaf:  S span I know
+Leaf:  N Attribution he was really important to a lot of people .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I am glad
+Leaf:  N Attribution they decided to cancel the Braves game .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Cause Nobody is really going to be focused enough
+Leaf:  S span to play anyway .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I am not sure', None, None, None, 0), ('if you saw', None, None, None, 0), ('that Fernandez is dead .', None, None, None, 1), ('That is really going to impact the Marlins .', None, None, None, 1), ("I did n't know all", None, None, None, 0), ('that he went through as a child', None, None, None, 0), ('to get to America .', None, None, None, 1), ('It is sad when someone with such light and hope is killed either in an accident or by some jealous fan .', None, None, None, 1), ('I know', None, None, None, 0), ('he was really important to a lot of people .', None, None, None, 1), ('I am glad', None, None, None, 0), ('they decided to cancel the Braves game .', None, None, None, 1), ('Nobody is really going to be focused enough', None, None, None, 0), ('to play anyway .', None, None, None, 1)]

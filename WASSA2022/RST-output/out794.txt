@@ -1,0 +1,23 @@
+=====================> [[('Hey you , I found more information about that woman', None, None, None, 0), ('who overdosed in the car with her infant .', None, None, None, 1), ('It is just horrible .', None, None, None, 1), ('From what I am reading', None, None, None, 0), ('it happened in Indiana', None, None, None, 0), ('and she had a syringe in her hand . Her poor baby was only 10 months old . How sad . They were parked outside of a Dollar General', None, None, None, 0), ('when thankfully someone noticed', None, None, None, 0), ('and called 911 .', None, None, None, 1), ('The grandmother got guardianship over the baby , thank goodness .', None, None, None, 1), ('The women got booked on neglect and possession ,', None, None, None, 0), ('hopefully she stays in there for awhile .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey you , I found more information about that woman
+Leaf:  S span who overdosed in the car with her infant .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is just horrible .
+Leaf:  S span From what I am reading
+Leaf:  N Attribution it happened in Indiana
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and she had a syringe in her hand . Her poor baby was only 10 months old . How sad . They were parked outside of a Dollar General
+Inner:  S span None Joint NN
+Leaf:  N Joint when thankfully someone noticed
+Leaf:  N Joint and called 911 .
+Inner:  N Temporal None Joint NN
+Inner:  N Elaborate None Temporal SN
+Leaf:  N Elaborate The grandmother got guardianship over the baby , thank goodness .
+Leaf:  N Evaluation The women got booked on neglect and possession ,
+Leaf:  S span hopefully she stays in there for awhile .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hey you , I found more information about that woman', None, None, None, 0), ('who overdosed in the car with her infant .', None, None, None, 1), ('It is just horrible .', None, None, None, 1), ('From what I am reading', None, None, None, 0), ('it happened in Indiana', None, None, None, 0), ('and she had a syringe in her hand . Her poor baby was only 10 months old . How sad . They were parked outside of a Dollar General', None, None, None, 0), ('when thankfully someone noticed', None, None, None, 0), ('and called 911 .', None, None, None, 1), ('The grandmother got guardianship over the baby , thank goodness .', None, None, None, 1), ('The women got booked on neglect and possession ,', None, None, None, 0), ('hopefully she stays in there for awhile .', None, None, None, 1)]

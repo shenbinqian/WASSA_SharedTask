@@ -1,0 +1,29 @@
+=====================> [[('the trumph had made a huge impact on a american politics .', None, None, None, 1), ('he had made some terrible move on the politics', None, None, None, 0), ('and it had made the other countries to trun on america.after a white supremacist carried out a massacre of black churchgoers in Charleston , S.C. ,', None, None, None, 0), ('it seemed as though the Confederate battle flag . these were also made some huge impact on the american politics', None, None, None, 0), ('that had made by trumph .', None, None, None, 1), ('But now that explosive and complicated vestige of the Old South is back , in a new — and , to some Americans , newly disturbing context .', None, None, None, 1), ('During President-elect Donald J. Trump ’s', None, None, None, 0), ('campaign.When he was still running for president in June 2015 ,', None, None, None, 0), ('Trump was asked', None, None, None, 0), ('whether or not the Confederate flag', None, None, None, 0), ('flying above the South Carolina state house', None, None, None, 0), ('needed to be taken down .', None, None, None, 1), ('“ I think', None, None, None, 0), ('it probably does .', None, None, None, 1)]]
+Leaf:  N Summary the trumph had made a huge impact on a american politics .
+Leaf:  N Elaborate he had made some terrible move on the politics
+Leaf:  S span and it had made the other countries to trun on america.after a white supremacist carried out a massacre of black churchgoers in Charleston , S.C. ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate it seemed as though the Confederate battle flag . these were also made some huge impact on the american politics
+Leaf:  S span that had made by trumph .
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  S span None Summary NS
+Leaf:  N Contrast But now that explosive and complicated vestige of the Old South is back , in a new — and , to some Americans , newly disturbing context .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Same-Unit During President-elect Donald J. Trump ’s
+Leaf:  S span campaign.When he was still running for president in June 2015 ,
+Leaf:  N Background Trump was asked
+Inner:  S span None Background SN
+Leaf:  N Elaborate whether or not the Confederate flag
+Leaf:  S span flying above the South Carolina state house
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit needed to be taken down .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span “ I think
+Leaf:  N Attribution it probably does .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('the trumph had made a huge impact on a american politics .', None, None, None, 1), ('he had made some terrible move on the politics', None, None, None, 0), ('and it had made the other countries to trun on america.after a white supremacist carried out a massacre of black churchgoers in Charleston , S.C. ,', None, None, None, 0), ('it seemed as though the Confederate battle flag . these were also made some huge impact on the american politics', None, None, None, 0), ('that had made by trumph .', None, None, None, 1), ('But now that explosive and complicated vestige of the Old South is back , in a new — and , to some Americans , newly disturbing context .', None, None, None, 1), ('During President-elect Donald J. Trump ’s', None, None, None, 0), ('campaign.When he was still running for president in June 2015 ,', None, None, None, 0), ('Trump was asked', None, None, None, 0), ('whether or not the Confederate flag', None, None, None, 0), ('flying above the South Carolina state house', None, None, None, 0), ('needed to be taken down .', None, None, None, 1), ('“ I think', None, None, None, 0), ('it probably does .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('Yorkshire Wildlife Park has done the most human act', None, None, None, 0), ('by rescuing The “ World ’s Saddest Polar Bear ” From Guangzhou ’s Grandview Aquarium ,', None, None, None, 0), ('I am happy to know', None, None, None, 0), ('that the wildlife park offered help', None, None, None, 0), ('and demand the closure of the aquarium .', None, None, None, 1), ('This polar bear suffered for the pleasure of humans .', None, None, None, 1), ('Humane Society and animal groups are not " on the job "', None, None, None, 0), ('when this is even allowed to take place .', None, None, None, 1), ('Laws must be in place', None, None, None, 0), ('when animals are used as sacrifice to human gratification .', None, None, None, 1), ('Pizza is named " polar bear " for a reason .', None, None, None, 1), ('They have a special habitat ,', None, None, None, 0), ('and hunt for their food .', None, None, None, 1), ('the depend on sea ice', None, None, None, 0), ('and are marine mammals .', None, None, None, 1), ('This should never happen again to a polar bear like Pizza , or any other animal be taken out of its natural habitat .', None, None, None, 1)]]
+Leaf:  N Manner-Means Yorkshire Wildlife Park has done the most human act
+Leaf:  S span by rescuing The “ World ’s Saddest Polar Bear ” From Guangzhou ’s Grandview Aquarium ,
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  S span I am happy to know
+Leaf:  N Joint that the wildlife park offered help
+Leaf:  N Joint and demand the closure of the aquarium .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Background None Elaborate NS
+Leaf:  S span This polar bear suffered for the pleasure of humans .
+Inner:  N Explanation None Background NS
+Leaf:  N Background Humane Society and animal groups are not " on the job "
+Leaf:  S span when this is even allowed to take place .
+Inner:  N Evaluation None Background NS
+Leaf:  N Background Laws must be in place
+Leaf:  S span when animals are used as sacrifice to human gratification .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Explanation Pizza is named " polar bear " for a reason .
+Leaf:  N Joint They have a special habitat ,
+Leaf:  N Joint and hunt for their food .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint the depend on sea ice
+Leaf:  N Joint and are marine mammals .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This should never happen again to a polar bear like Pizza , or any other animal be taken out of its natural habitat .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Yorkshire Wildlife Park has done the most human act', None, None, None, 0), ('by rescuing The “ World ’s Saddest Polar Bear ” From Guangzhou ’s Grandview Aquarium ,', None, None, None, 0), ('I am happy to know', None, None, None, 0), ('that the wildlife park offered help', None, None, None, 0), ('and demand the closure of the aquarium .', None, None, None, 1), ('This polar bear suffered for the pleasure of humans .', None, None, None, 1), ('Humane Society and animal groups are not " on the job "', None, None, None, 0), ('when this is even allowed to take place .', None, None, None, 1), ('Laws must be in place', None, None, None, 0), ('when animals are used as sacrifice to human gratification .', None, None, None, 1), ('Pizza is named " polar bear " for a reason .', None, None, None, 1), ('They have a special habitat ,', None, None, None, 0), ('and hunt for their food .', None, None, None, 1), ('the depend on sea ice', None, None, None, 0), ('and are marine mammals .', None, None, None, 1), ('This should never happen again to a polar bear like Pizza , or any other animal be taken out of its natural habitat .', None, None, None, 1)]

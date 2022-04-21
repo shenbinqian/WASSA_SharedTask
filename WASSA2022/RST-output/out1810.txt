@@ -1,0 +1,19 @@
+=====================> [[('Well that sucks for this people in the south .', None, None, None, 1), ("It seems like there 's always something", None, None, None, 0), ("that 's messing with the gas prices .", None, None, None, 1), ("Hopefully they 'll get it repaired soon", None, None, None, 0), ('though and things will go back to normal .', None, None, None, 1), ("At least there was n't severe environmental damage ,", None, None, None, 0), ("that 's a good thing .", None, None, None, 1), ('If I were down there ,', None, None, None, 0), ('I would probably just ride a bike for a few weeks .', None, None, None, 1)]]
+Leaf:  N Explanation Well that sucks for this people in the south .
+Leaf:  N Elaborate It seems like there 's always something
+Leaf:  S span that 's messing with the gas prices .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Temporal Hopefully they 'll get it repaired soon
+Leaf:  N Temporal though and things will go back to normal .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Evaluation At least there was n't severe environmental damage ,
+Leaf:  S span that 's a good thing .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span If I were down there ,
+Leaf:  N Condition I would probably just ride a bike for a few weeks .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Well that sucks for this people in the south .', None, None, None, 1), ("It seems like there 's always something", None, None, None, 0), ("that 's messing with the gas prices .", None, None, None, 1), ("Hopefully they 'll get it repaired soon", None, None, None, 0), ('though and things will go back to normal .', None, None, None, 1), ("At least there was n't severe environmental damage ,", None, None, None, 0), ("that 's a good thing .", None, None, None, 1), ('If I were down there ,', None, None, None, 0), ('I would probably just ride a bike for a few weeks .', None, None, None, 1)]

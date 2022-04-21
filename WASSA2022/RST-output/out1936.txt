@@ -1,0 +1,17 @@
+=====================> [[('Reading the news reminds me of the sacrifices', None, None, None, 0), ('made by men and women of the police departments ,', None, None, None, 0), ('the cop left his family that day for work like any other day', None, None, None, 0), ('and he was gunned down', None, None, None, 0), ('for doing his job ,', None, None, None, 0), ('it makes me reflect on the gun laws of this country .', None, None, None, 1), ('Do we really need to make amendments', None, None, None, 0), ('to curtail this streak of violent crimes ?', None, None, None, 1)]]
+Leaf:  N Elaborate Reading the news reminds me of the sacrifices
+Leaf:  S span made by men and women of the police departments ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal the cop left his family that day for work like any other day
+Leaf:  N Explanation and he was gunned down
+Leaf:  S span for doing his job ,
+Inner:  N Temporal None Explanation NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Leaf:  N Cause it makes me reflect on the gun laws of this country .
+Inner:  N Evaluation None Cause SN
+Leaf:  N Enablement Do we really need to make amendments
+Leaf:  S span to curtail this streak of violent crimes ?
+Inner:  S span None Enablement NS
+Inner:  Root None None Evaluation NS
+[('Reading the news reminds me of the sacrifices', None, None, None, 0), ('made by men and women of the police departments ,', None, None, None, 0), ('the cop left his family that day for work like any other day', None, None, None, 0), ('and he was gunned down', None, None, None, 0), ('for doing his job ,', None, None, None, 0), ('it makes me reflect on the gun laws of this country .', None, None, None, 1), ('Do we really need to make amendments', None, None, None, 0), ('to curtail this streak of violent crimes ?', None, None, None, 1)]

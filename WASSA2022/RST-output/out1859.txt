@@ -1,0 +1,23 @@
+=====================> [[('I feel', None, None, None, 0), ('like the world is so corrupt', None, None, None, 0), ('that it no longer makes me feel anything .', None, None, None, 1), ('I expect the worst from this world', None, None, None, 0), ('and only am surprised', None, None, None, 0), ('when something exceedingly good happens .', None, None, None, 1), ('That is a shame', None, None, None, 0), ('that such a gruesome scene can not even make me feel anything .', None, None, None, 1), ('The world is a cesspool', None, None, None, 0), ('and we no longer have any integrity', None, None, None, 0), ('to show for it .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Cause like the world is so corrupt
+Leaf:  S span that it no longer makes me feel anything .
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint I expect the worst from this world
+Leaf:  N Condition and only am surprised
+Leaf:  S span when something exceedingly good happens .
+Inner:  N Joint None Condition NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate That is a shame
+Leaf:  S span that such a gruesome scene can not even make me feel anything .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint The world is a cesspool
+Leaf:  N Elaborate and we no longer have any integrity
+Leaf:  S span to show for it .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('like the world is so corrupt', None, None, None, 0), ('that it no longer makes me feel anything .', None, None, None, 1), ('I expect the worst from this world', None, None, None, 0), ('and only am surprised', None, None, None, 0), ('when something exceedingly good happens .', None, None, None, 1), ('That is a shame', None, None, None, 0), ('that such a gruesome scene can not even make me feel anything .', None, None, None, 1), ('The world is a cesspool', None, None, None, 0), ('and we no longer have any integrity', None, None, None, 0), ('to show for it .', None, None, None, 1)]

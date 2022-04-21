@@ -1,0 +1,17 @@
+=====================> [[('I totally support these protesters .', None, None, None, 1), ("We 've had trouble with oil pipelines here in Michigan .", None, None, None, 1), ('I feel like these pipelines are foisted on local communities', None, None, None, 0), ('without any care', None, None, None, 0), ('for whether it is good for the community', None, None, None, 0), ('and without adequate studies', None, None, None, 0), ('as to how safe they are from leaks and pollution .', None, None, None, 1), ('There are more important things in life than money and oil .', None, None, None, 1)]]
+Leaf:  N Background I totally support these protesters .
+Leaf:  N Explanation We 've had trouble with oil pipelines here in Michigan .
+Leaf:  N Manner-Means I feel like these pipelines are foisted on local communities
+Leaf:  N Elaborate without any care
+Leaf:  S span for whether it is good for the community
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and without adequate studies
+Leaf:  S span as to how safe they are from leaks and pollution .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span There are more important things in life than money and oil .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Background NS
+[('I totally support these protesters .', None, None, None, 1), ("We 've had trouble with oil pipelines here in Michigan .", None, None, None, 1), ('I feel like these pipelines are foisted on local communities', None, None, None, 0), ('without any care', None, None, None, 0), ('for whether it is good for the community', None, None, None, 0), ('and without adequate studies', None, None, None, 0), ('as to how safe they are from leaks and pollution .', None, None, None, 1), ('There are more important things in life than money and oil .', None, None, None, 1)]

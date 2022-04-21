@@ -1,0 +1,17 @@
+=====================> [[('It brings me great sorrow', None, None, None, 0), ('to tell you about a horrific incident', None, None, None, 0), ('that left two children', None, None, None, 0), ('without parents after a mechanical failure at an amusement park .', None, None, None, 1), ('It is truly shocking and disturbing that this could have happened .', None, None, None, 1), ('Thee two kids lsot both parents', None, None, None, 0), ('and they watched them drown', None, None, None, 0), ('which is disturbing to think about .', None, None, None, 1)]]
+Leaf:  N Manner-Means It brings me great sorrow
+Leaf:  N Elaborate to tell you about a horrific incident
+Leaf:  N Elaborate that left two children
+Leaf:  S span without parents after a mechanical failure at an amusement park .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span It is truly shocking and disturbing that this could have happened .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Temporal Thee two kids lsot both parents
+Leaf:  N Temporal and they watched them drown
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span which is disturbing to think about .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It brings me great sorrow', None, None, None, 0), ('to tell you about a horrific incident', None, None, None, 0), ('that left two children', None, None, None, 0), ('without parents after a mechanical failure at an amusement park .', None, None, None, 1), ('It is truly shocking and disturbing that this could have happened .', None, None, None, 1), ('Thee two kids lsot both parents', None, None, None, 0), ('and they watched them drown', None, None, None, 0), ('which is disturbing to think about .', None, None, None, 1)]

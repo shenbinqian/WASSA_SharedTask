@@ -1,0 +1,17 @@
+=====================> [[('Wow ...', None, None, None, 1), ('what a strange turn of events in this story .', None, None, None, 1), ('This guy', None, None, None, 0), ('who just randomly opened fire on a police officer', None, None, None, 0), ('turns out to be responsible for a number of homicides in Alaska .', None, None, None, 1), ("It 's crazy to think", None, None, None, 0), ('that if the officers never confronted him for something unrelated ,', None, None, None, 0), ('that there could have been countless more killings .', None, None, None, 1)]]
+Leaf:  N Evaluation Wow ...
+Leaf:  S span what a strange turn of events in this story .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate This guy
+Leaf:  S span who just randomly opened fire on a police officer
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit turns out to be responsible for a number of homicides in Alaska .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It 's crazy to think
+Leaf:  S span that if the officers never confronted him for something unrelated ,
+Leaf:  N Condition that there could have been countless more killings .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Wow ...', None, None, None, 1), ('what a strange turn of events in this story .', None, None, None, 1), ('This guy', None, None, None, 0), ('who just randomly opened fire on a police officer', None, None, None, 0), ('turns out to be responsible for a number of homicides in Alaska .', None, None, None, 1), ("It 's crazy to think", None, None, None, 0), ('that if the officers never confronted him for something unrelated ,', None, None, None, 0), ('that there could have been countless more killings .', None, None, None, 1)]

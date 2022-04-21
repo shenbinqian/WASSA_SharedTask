@@ -1,0 +1,21 @@
+=====================> [[('I just read this article about a scandal', None, None, None, 0), ('involving a person', None, None, None, 0), ('trying to rent a place from someone else ,', None, None, None, 0), ('but then it turned out that this person was using it for personal reasons', None, None, None, 0), ('because the place', None, None, None, 0), ('the other person was renting', None, None, None, 0), ("was n't own bu the person", None, None, None, 0), ('they thought .', None, None, None, 1), ("It would be interesting if the author of the article did n't try so hard to sound like a kid", None, None, None, 0), ('using slang .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about a scandal
+Leaf:  N Elaborate involving a person
+Leaf:  S span trying to rent a place from someone else ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation but then it turned out that this person was using it for personal reasons
+Leaf:  N Elaborate because the place
+Leaf:  S span the other person was renting
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was n't own bu the person
+Inner:  N Attribution None Same-Unit NN
+Leaf:  S span they thought .
+Inner:  S span None Attribution NS
+Inner:  N Contrast None Explanation NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate It would be interesting if the author of the article did n't try so hard to sound like a kid
+Leaf:  S span using slang .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I just read this article about a scandal', None, None, None, 0), ('involving a person', None, None, None, 0), ('trying to rent a place from someone else ,', None, None, None, 0), ('but then it turned out that this person was using it for personal reasons', None, None, None, 0), ('because the place', None, None, None, 0), ('the other person was renting', None, None, None, 0), ("was n't own bu the person", None, None, None, 0), ('they thought .', None, None, None, 1), ("It would be interesting if the author of the article did n't try so hard to sound like a kid", None, None, None, 0), ('using slang .', None, None, None, 1)]

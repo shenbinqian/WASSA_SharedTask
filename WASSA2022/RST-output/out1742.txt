@@ -1,0 +1,25 @@
+=====================> [[('Hello friends I have just read an article about these people from egypt', None, None, None, 0), ('that were on a boat', None, None, None, 0), ('and then they got shipwrecked', None, None, None, 0), ('I think .', None, None, None, 1), ('The recent scientist of the earth have no found the evidence about the ship and the bodies', None, None, None, 0), ('and are beginning to make ideas up about the people .', None, None, None, 1), ('They said', None, None, None, 0), ('that the people were on the ship', None, None, None, 0), ('and I forgot', None, None, None, 0), ('why or what they were doing', None, None, None, 0), ('but it is still a little bit interesting .', None, None, None, 1), ('The article was very long and hard to read though .', None, None, None, 1)]]
+Leaf:  N Elaborate Hello friends I have just read an article about these people from egypt
+Leaf:  N Temporal that were on a boat
+Leaf:  N Temporal and then they got shipwrecked
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I think .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Temporal The recent scientist of the earth have no found the evidence about the ship and the bodies
+Leaf:  N Temporal and are beginning to make ideas up about the people .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span They said
+Leaf:  N Joint that the people were on the ship
+Leaf:  S span and I forgot
+Leaf:  N Attribution why or what they were doing
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it is still a little bit interesting .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The article was very long and hard to read though .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello friends I have just read an article about these people from egypt', None, None, None, 0), ('that were on a boat', None, None, None, 0), ('and then they got shipwrecked', None, None, None, 0), ('I think .', None, None, None, 1), ('The recent scientist of the earth have no found the evidence about the ship and the bodies', None, None, None, 0), ('and are beginning to make ideas up about the people .', None, None, None, 1), ('They said', None, None, None, 0), ('that the people were on the ship', None, None, None, 0), ('and I forgot', None, None, None, 0), ('why or what they were doing', None, None, None, 0), ('but it is still a little bit interesting .', None, None, None, 1), ('The article was very long and hard to read though .', None, None, None, 1)]

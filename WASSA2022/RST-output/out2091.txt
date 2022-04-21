@@ -1,0 +1,27 @@
+=====================> [[("I 'm so sick of war .", None, None, None, 1), ('I get tired of seeing people get killed and hurt .', None, None, None, 1), ('I wish', None, None, None, 0), ('that people would see', None, None, None, 0), ('that being over there', None, None, None, 0), ('when we do not have to be', None, None, None, 0), ('makes more terrorist .', None, None, None, 1), ('It is a cycle', None, None, None, 0), ('that we need to stop .', None, None, None, 1), ('I do not see', None, None, None, 0), ('how the terrorist think', None, None, None, 0), ('that hurting innocent people advances their cause .', None, None, None, 1), ('The whole situation makes me angry .', None, None, None, 1)]]
+Leaf:  N Explanation I 'm so sick of war .
+Leaf:  S span I get tired of seeing people get killed and hurt .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I wish
+Leaf:  S span that people would see
+Leaf:  N Background that being over there
+Leaf:  S span when we do not have to be
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit makes more terrorist .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate It is a cycle
+Leaf:  S span that we need to stop .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do not see
+Leaf:  S span how the terrorist think
+Leaf:  N Attribution that hurting innocent people advances their cause .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The whole situation makes me angry .
+Inner:  Root None None Evaluation NS
+[("I 'm so sick of war .", None, None, None, 1), ('I get tired of seeing people get killed and hurt .', None, None, None, 1), ('I wish', None, None, None, 0), ('that people would see', None, None, None, 0), ('that being over there', None, None, None, 0), ('when we do not have to be', None, None, None, 0), ('makes more terrorist .', None, None, None, 1), ('It is a cycle', None, None, None, 0), ('that we need to stop .', None, None, None, 1), ('I do not see', None, None, None, 0), ('how the terrorist think', None, None, None, 0), ('that hurting innocent people advances their cause .', None, None, None, 1), ('The whole situation makes me angry .', None, None, None, 1)]

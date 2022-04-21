@@ -1,0 +1,29 @@
+=====================> [[("I 'm at a loss for words", None, None, None, 0), ('when I think of all the senseless lives', None, None, None, 0), ('lost from gun violence .', None, None, None, 1), ('As a gun supporter maybe I should take a step back', None, None, None, 0), ("and ask myself the hard questions about guns and there impact and availability in today 's society .", None, None, None, 1), ('I know that statistically more people die from other causes', None, None, None, 0), ('compared to gun violence ,', None, None, None, 0), ('but are guns way to accessible in America compared to other countries ?', None, None, None, 1), ('When the 2nd amendment was written', None, None, None, 0), ('could they imagine the way', None, None, None, 0), ('guns could have progressed or how they are being used today ?', None, None, None, 1), ('Seeing so many mass shootings makes me feel', None, None, None, 0), ("that maybe it 's time to change some of the gun laws", None, None, None, 0), ('and help make things like 40 children killed or injured a thing of the past .', None, None, None, 1)]]
+Leaf:  N Background I 'm at a loss for words
+Leaf:  N Elaborate when I think of all the senseless lives
+Leaf:  S span lost from gun violence .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Temporal As a gun supporter maybe I should take a step back
+Leaf:  N Temporal and ask myself the hard questions about guns and there impact and availability in today 's society .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Comparison I know that statistically more people die from other causes
+Leaf:  S span compared to gun violence ,
+Inner:  N Contrast None Comparison NS
+Leaf:  N Contrast but are guns way to accessible in America compared to other countries ?
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span When the 2nd amendment was written
+Leaf:  N Elaborate could they imagine the way
+Leaf:  S span guns could have progressed or how they are being used today ?
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Seeing so many mass shootings makes me feel
+Leaf:  N Joint that maybe it 's time to change some of the gun laws
+Leaf:  N Joint and help make things like 40 children killed or injured a thing of the past .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I 'm at a loss for words", None, None, None, 0), ('when I think of all the senseless lives', None, None, None, 0), ('lost from gun violence .', None, None, None, 1), ('As a gun supporter maybe I should take a step back', None, None, None, 0), ("and ask myself the hard questions about guns and there impact and availability in today 's society .", None, None, None, 1), ('I know that statistically more people die from other causes', None, None, None, 0), ('compared to gun violence ,', None, None, None, 0), ('but are guns way to accessible in America compared to other countries ?', None, None, None, 1), ('When the 2nd amendment was written', None, None, None, 0), ('could they imagine the way', None, None, None, 0), ('guns could have progressed or how they are being used today ?', None, None, None, 1), ('Seeing so many mass shootings makes me feel', None, None, None, 0), ("that maybe it 's time to change some of the gun laws", None, None, None, 0), ('and help make things like 40 children killed or injured a thing of the past .', None, None, None, 1)]

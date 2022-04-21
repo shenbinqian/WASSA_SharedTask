@@ -1,0 +1,23 @@
+=====================> [[('I felt very bad', None, None, None, 0), ('when read these kinds of news .', None, None, None, 1), ('For me , it is vital to protect women and kids .', None, None, None, 1), ('I think', None, None, None, 0), ('they are vulnerable than men .', None, None, None, 1), ('The society should give more protect to them .', None, None, None, 1), ('I really feel pity for the girls', None, None, None, 0), ('who had suffering like that .', None, None, None, 1), ('I hate those bad people', None, None, None, 0), ('that did all these crimes .', None, None, None, 1), ('They should be punished .', None, None, None, 1)]]
+Leaf:  N Background I felt very bad
+Leaf:  S span when read these kinds of news .
+Inner:  N Evaluation None Background NS
+Leaf:  N Explanation For me , it is vital to protect women and kids .
+Leaf:  S span I think
+Leaf:  N Attribution they are vulnerable than men .
+Inner:  N Cause None Attribution SN
+Leaf:  S span The society should give more protect to them .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I really feel pity for the girls
+Leaf:  S span who had suffering like that .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I hate those bad people
+Leaf:  S span that did all these crimes .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span They should be punished .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I felt very bad', None, None, None, 0), ('when read these kinds of news .', None, None, None, 1), ('For me , it is vital to protect women and kids .', None, None, None, 1), ('I think', None, None, None, 0), ('they are vulnerable than men .', None, None, None, 1), ('The society should give more protect to them .', None, None, None, 1), ('I really feel pity for the girls', None, None, None, 0), ('who had suffering like that .', None, None, None, 1), ('I hate those bad people', None, None, None, 0), ('that did all these crimes .', None, None, None, 1), ('They should be punished .', None, None, None, 1)]

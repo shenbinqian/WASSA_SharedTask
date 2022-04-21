@@ -1,0 +1,19 @@
+=====================> [[('This is what happens', None, None, None, 0), ('when you take in people from an archaic civilization .', None, None, None, 1), ('All of these refugees need to be throw back into their mud pit .', None, None, None, 1), ('Their religion embraces hatred .', None, None, None, 1), ('Let them figure out', None, None, None, 0), ('how to live in peace in their own countries ,', None, None, None, 0), ('then we can allow them into civilized world .', None, None, None, 1), ('Is it is now , I think', None, None, None, 0), ('all of Europe is doomed .', None, None, None, 1)]]
+Leaf:  N Background This is what happens
+Leaf:  S span when you take in people from an archaic civilization .
+Inner:  N Elaborate None Background NS
+Leaf:  N Explanation All of these refugees need to be throw back into their mud pit .
+Leaf:  N Cause Their religion embraces hatred .
+Leaf:  S span Let them figure out
+Leaf:  N Attribution how to live in peace in their own countries ,
+Inner:  S span None Attribution SN
+Leaf:  N Condition then we can allow them into civilized world .
+Inner:  S span None Condition SN
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Is it is now , I think
+Leaf:  N Attribution all of Europe is doomed .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('This is what happens', None, None, None, 0), ('when you take in people from an archaic civilization .', None, None, None, 1), ('All of these refugees need to be throw back into their mud pit .', None, None, None, 1), ('Their religion embraces hatred .', None, None, None, 1), ('Let them figure out', None, None, None, 0), ('how to live in peace in their own countries ,', None, None, None, 0), ('then we can allow them into civilized world .', None, None, None, 1), ('Is it is now , I think', None, None, None, 0), ('all of Europe is doomed .', None, None, None, 1)]

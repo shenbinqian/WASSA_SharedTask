@@ -1,0 +1,21 @@
+=====================> [[('A hiker was lost in a Malaysian jungle for ten days .', None, None, None, 1), ('The hiker only brought enough food for one day .', None, None, None, 1), ('He survived on bananas and berries', None, None, None, 0), ('he found in the jungle .', None, None, None, 1), ('When he was found he was covered in leaches , weak , and very disoriented .', None, None, None, 1), ('Its a miracle he survived on his own for ten days in the jungle .', None, None, None, 1), ('There was no cell coverage in the part of the jungle', None, None, None, 0), ('he was in', None, None, None, 0), ('so he could not communicate to anyone', None, None, None, 0), ('or ask for help .', None, None, None, 1)]]
+Leaf:  N Elaborate A hiker was lost in a Malaysian jungle for ten days .
+Leaf:  S span The hiker only brought enough food for one day .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate He survived on bananas and berries
+Leaf:  S span he found in the jungle .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span When he was found he was covered in leaches , weak , and very disoriented .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation Its a miracle he survived on his own for ten days in the jungle .
+Leaf:  N Elaborate There was no cell coverage in the part of the jungle
+Leaf:  S span he was in
+Inner:  S span None Elaborate NS
+Leaf:  N Joint so he could not communicate to anyone
+Leaf:  N Joint or ask for help .
+Inner:  N Cause None Joint NN
+Inner:  S span None Cause SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('A hiker was lost in a Malaysian jungle for ten days .', None, None, None, 1), ('The hiker only brought enough food for one day .', None, None, None, 1), ('He survived on bananas and berries', None, None, None, 0), ('he found in the jungle .', None, None, None, 1), ('When he was found he was covered in leaches , weak , and very disoriented .', None, None, None, 1), ('Its a miracle he survived on his own for ten days in the jungle .', None, None, None, 1), ('There was no cell coverage in the part of the jungle', None, None, None, 0), ('he was in', None, None, None, 0), ('so he could not communicate to anyone', None, None, None, 0), ('or ask for help .', None, None, None, 1)]

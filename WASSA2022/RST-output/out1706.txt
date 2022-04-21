@@ -1,0 +1,25 @@
+=====================> [[('What a terrifying ordeal', None, None, None, 0), ('that these plaintiffs went through .', None, None, None, 1), ('If I was them ,', None, None, None, 0), ('I would be suing', None, None, None, 0), ('whoever was responsible , too .', None, None, None, 1), ('I try to avoid putting myself into situations like these ,', None, None, None, 0), ('but life often does not care what you want .', None, None, None, 1), ('I hope', None, None, None, 0), ('that these people get the closure', None, None, None, 0), ('that they are seeking .', None, None, None, 1), ('I know', None, None, None, 0), ('I would want closure .', None, None, None, 1)]]
+Leaf:  N Elaborate What a terrifying ordeal
+Leaf:  S span that these plaintiffs went through .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span If I was them ,
+Leaf:  N Elaborate I would be suing
+Leaf:  S span whoever was responsible , too .
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Contrast I try to avoid putting myself into situations like these ,
+Leaf:  N Contrast but life often does not care what you want .
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span I hope
+Leaf:  N Elaborate that these people get the closure
+Leaf:  S span that they are seeking .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution I would want closure .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('What a terrifying ordeal', None, None, None, 0), ('that these plaintiffs went through .', None, None, None, 1), ('If I was them ,', None, None, None, 0), ('I would be suing', None, None, None, 0), ('whoever was responsible , too .', None, None, None, 1), ('I try to avoid putting myself into situations like these ,', None, None, None, 0), ('but life often does not care what you want .', None, None, None, 1), ('I hope', None, None, None, 0), ('that these people get the closure', None, None, None, 0), ('that they are seeking .', None, None, None, 1), ('I know', None, None, None, 0), ('I would want closure .', None, None, None, 1)]

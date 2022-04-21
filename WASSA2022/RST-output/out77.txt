@@ -1,0 +1,29 @@
+=====================> [[('It does seem silly that people in committed relationships are still affected by the donating ban ,', None, None, None, 0), ('but I can also understand', None, None, None, 0), ('why such a ban was put in place .', None, None, None, 1), ('The trouble with anything is that', None, None, None, 0), ('when you try to protect some people ,', None, None, None, 0), ('others rights seem to always be infringed', None, None, None, 0), ("and we 're forced to decide which offense is greater and more important .", None, None, None, 1), ("I do n't see", None, None, None, 0), ("why someone ca n't be tested ,", None, None, None, 0), ('found to be clean', None, None, None, 0), ('and then give blood', None, None, None, 0), ('but I can understand why especially in an emergency', None, None, None, 0), ('when things can easily get overlooked', None, None, None, 0), ('the ban is a good idea .', None, None, None, 1)]]
+Leaf:  N Contrast It does seem silly that people in committed relationships are still affected by the donating ban ,
+Leaf:  S span but I can also understand
+Leaf:  N Attribution why such a ban was put in place .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Contrast NS
+Leaf:  N Same-Unit The trouble with anything is that
+Leaf:  S span when you try to protect some people ,
+Leaf:  N Background others rights seem to always be infringed
+Inner:  S span None Background SN
+Leaf:  N Cause and we 're forced to decide which offense is greater and more important .
+Inner:  N Same-Unit None Cause SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I do n't see
+Leaf:  N Joint why someone ca n't be tested ,
+Leaf:  N Temporal found to be clean
+Leaf:  N Temporal and then give blood
+Inner:  N Joint None Temporal NN
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Background but I can understand why especially in an emergency
+Leaf:  S span when things can easily get overlooked
+Inner:  S span None Background NS
+Leaf:  N Background the ban is a good idea .
+Inner:  S span None Background SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('It does seem silly that people in committed relationships are still affected by the donating ban ,', None, None, None, 0), ('but I can also understand', None, None, None, 0), ('why such a ban was put in place .', None, None, None, 1), ('The trouble with anything is that', None, None, None, 0), ('when you try to protect some people ,', None, None, None, 0), ('others rights seem to always be infringed', None, None, None, 0), ("and we 're forced to decide which offense is greater and more important .", None, None, None, 1), ("I do n't see", None, None, None, 0), ("why someone ca n't be tested ,", None, None, None, 0), ('found to be clean', None, None, None, 0), ('and then give blood', None, None, None, 0), ('but I can understand why especially in an emergency', None, None, None, 0), ('when things can easily get overlooked', None, None, None, 0), ('the ban is a good idea .', None, None, None, 1)]

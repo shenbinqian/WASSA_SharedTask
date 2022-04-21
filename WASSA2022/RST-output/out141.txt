@@ -1,0 +1,23 @@
+=====================> [[('the person', None, None, None, 0), ('that rented out the appartment', None, None, None, 0), ('i feel', None, None, None, 0), ('was in the wrong doing', None, None, None, 0), ('because they didnt own the place', None, None, None, 0), ('so when the damages came it he wasnt able to fix the problems', None, None, None, 0), ('making it the owners problem', None, None, None, 0), ('which led to them finding out', None, None, None, 0), ('and having to file the law suite for 20k', None, None, None, 0), ('to get there money back', None, None, None, 0), ('so it was a messy situtation', None, None, None, 0)]]
+Leaf:  N Elaborate the person
+Leaf:  S span that rented out the appartment
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit i feel
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Explanation was in the wrong doing
+Leaf:  S span because they didnt own the place
+Inner:  N Cause None Explanation NS
+Leaf:  N Elaborate so when the damages came it he wasnt able to fix the problems
+Leaf:  S span making it the owners problem
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Cause NS
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Temporal which led to them finding out
+Leaf:  N Enablement and having to file the law suite for 20k
+Leaf:  S span to get there money back
+Inner:  N Temporal None Enablement NS
+Inner:  S span None Temporal NN
+Inner:  N Cause None Cause NS
+Leaf:  S span so it was a messy situtation
+Inner:  Root None None Cause NS
+[('the person', None, None, None, 0), ('that rented out the appartment', None, None, None, 0), ('i feel', None, None, None, 0), ('was in the wrong doing', None, None, None, 0), ('because they didnt own the place', None, None, None, 0), ('so when the damages came it he wasnt able to fix the problems', None, None, None, 0), ('making it the owners problem', None, None, None, 0), ('which led to them finding out', None, None, None, 0), ('and having to file the law suite for 20k', None, None, None, 0), ('to get there money back', None, None, None, 0), ('so it was a messy situtation', None, None, None, 0)]

@@ -1,0 +1,35 @@
+=====================> [[('The article says that', None, None, None, 0), ('- Trump to supporters harassing minorities :', None, None, None, 0), ("' Stop it ' —", None, None, None, 0), ('Donald Trump on Sunday told his supporters to stop harassing minorities , in his first televised sit-down interview', None, None, None, 0), ('since becoming President-elect .', None, None, None, 1), ('" I am so saddened to hear that , "', None, None, None, 0), ('Trump told CBS \' Lesley Stahl on " 60 Minutes "', None, None, None, 0), ('when she said', None, None, None, 0), ('Latinos and Muslims are facing harassment .', None, None, None, 1), ('" And I say , \' Stop it . \'', None, None, None, 0), ('If it -- if it helps , I will say this ,', None, None, None, 0), ('and I will say right to the cameras : \' Stop it . \' " Trump directed his comments to his own supporters', None, None, None, 0), ('whom said', None, None, None, 0), ('have written racist slogans', None, None, None, 0), ('or chanted degrading messages', None, None, None, 0), ('-- particularly in schools . It was a powerful appeal to a nation ripped apart by the divisive 2016 campaign .', None, None, None, 1), ("Trump 's election has left Democrats angry and many minorities fearful about the future .", None, None, None, 1)]]
+Leaf:  N Same-Unit The article says that
+Leaf:  N Same-Unit - Trump to supporters harassing minorities :
+Leaf:  N Same-Unit ' Stop it ' —
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Temporal Donald Trump on Sunday told his supporters to stop harassing minorities , in his first televised sit-down interview
+Leaf:  S span since becoming President-elect .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Attribution " I am so saddened to hear that , "
+Leaf:  S span Trump told CBS ' Lesley Stahl on " 60 Minutes "
+Inner:  N Temporal None Attribution NS
+Leaf:  S span when she said
+Leaf:  N Attribution Latinos and Muslims are facing harassment .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Elaborate " And I say , ' Stop it . '
+Leaf:  N Joint If it -- if it helps , I will say this ,
+Leaf:  N Elaborate and I will say right to the cameras : ' Stop it . ' " Trump directed his comments to his own supporters
+Leaf:  S span whom said
+Leaf:  N Joint have written racist slogans
+Leaf:  N Elaborate or chanted degrading messages
+Leaf:  S span -- particularly in schools . It was a powerful appeal to a nation ripped apart by the divisive 2016 campaign .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Background Trump 's election has left Democrats angry and many minorities fearful about the future .
+Inner:  Root None None Background SN
+[('The article says that', None, None, None, 0), ('- Trump to supporters harassing minorities :', None, None, None, 0), ("' Stop it ' —", None, None, None, 0), ('Donald Trump on Sunday told his supporters to stop harassing minorities , in his first televised sit-down interview', None, None, None, 0), ('since becoming President-elect .', None, None, None, 1), ('" I am so saddened to hear that , "', None, None, None, 0), ('Trump told CBS \' Lesley Stahl on " 60 Minutes "', None, None, None, 0), ('when she said', None, None, None, 0), ('Latinos and Muslims are facing harassment .', None, None, None, 1), ('" And I say , \' Stop it . \'', None, None, None, 0), ('If it -- if it helps , I will say this ,', None, None, None, 0), ('and I will say right to the cameras : \' Stop it . \' " Trump directed his comments to his own supporters', None, None, None, 0), ('whom said', None, None, None, 0), ('have written racist slogans', None, None, None, 0), ('or chanted degrading messages', None, None, None, 0), ('-- particularly in schools . It was a powerful appeal to a nation ripped apart by the divisive 2016 campaign .', None, None, None, 1), ("Trump 's election has left Democrats angry and many minorities fearful about the future .", None, None, None, 1)]

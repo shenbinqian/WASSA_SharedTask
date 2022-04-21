@@ -1,0 +1,27 @@
+=====================> [[('I finished an article about birds', None, None, None, 0), ('eating', None, None, None, 0), ('and getting caught in plastic .', None, None, None, 1), ('It really is sad .', None, None, None, 1), ('I think', None, None, None, 0), ('that something needs to be done', None, None, None, 0), ('to made materials more easy recycled .', None, None, None, 1), ('I would like to recycle more ,', None, None, None, 0), ('but the process is cumbersome .', None, None, None, 1), ('I want to help the wildlife', None, None, None, 0), ('and do my part .', None, None, None, 1), ('I think', None, None, None, 0), ('I will look into how I can recycle more often .', None, None, None, 1)]]
+Leaf:  N Elaborate I finished an article about birds
+Leaf:  N Joint eating
+Leaf:  N Joint and getting caught in plastic .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It really is sad .
+Leaf:  S span I think
+Leaf:  N Enablement that something needs to be done
+Leaf:  S span to made materials more easy recycled .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast I would like to recycle more ,
+Leaf:  N Contrast but the process is cumbersome .
+Inner:  N Topic-Comment None Contrast NN
+Leaf:  N Joint I want to help the wildlife
+Leaf:  N Joint and do my part .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I think
+Leaf:  N Attribution I will look into how I can recycle more often .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I finished an article about birds', None, None, None, 0), ('eating', None, None, None, 0), ('and getting caught in plastic .', None, None, None, 1), ('It really is sad .', None, None, None, 1), ('I think', None, None, None, 0), ('that something needs to be done', None, None, None, 0), ('to made materials more easy recycled .', None, None, None, 1), ('I would like to recycle more ,', None, None, None, 0), ('but the process is cumbersome .', None, None, None, 1), ('I want to help the wildlife', None, None, None, 0), ('and do my part .', None, None, None, 1), ('I think', None, None, None, 0), ('I will look into how I can recycle more often .', None, None, None, 1)]

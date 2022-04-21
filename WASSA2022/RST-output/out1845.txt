@@ -1,0 +1,23 @@
+=====================> [[('our president party people are making something stupid on some occasions ,', None, None, None, 0), ('you see ‘', None, None, None, 0), ('Silicon Valley ’ stars recount', None, None, None, 0), ('being harassed by Donald Trump supporters .', None, None, None, 1), ('some one insulting Trump', None, None, None, 0), ('and making fight with them ,', None, None, None, 0), ('its not necessary .', None, None, None, 1), ('unwanted fights and unwanted speech should be avoided .', None, None, None, 1), ('because all are having responsible position and work', None, None, None, 0), ('to do ,', None, None, None, 0), ('At bar doing nasty things no good using some people name', None, None, None, 0)]]
+Leaf:  S span our president party people are making something stupid on some occasions ,
+Leaf:  N Background you see ‘
+Inner:  S span None Background SN
+Leaf:  S span Silicon Valley ’ stars recount
+Leaf:  N Attribution being harassed by Donald Trump supporters .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint some one insulting Trump
+Leaf:  N Joint and making fight with them ,
+Inner:  S span None Joint NN
+Leaf:  N Evaluation its not necessary .
+Inner:  S span None Evaluation SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span unwanted fights and unwanted speech should be avoided .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate because all are having responsible position and work
+Leaf:  S span to do ,
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span At bar doing nasty things no good using some people name
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('our president party people are making something stupid on some occasions ,', None, None, None, 0), ('you see ‘', None, None, None, 0), ('Silicon Valley ’ stars recount', None, None, None, 0), ('being harassed by Donald Trump supporters .', None, None, None, 1), ('some one insulting Trump', None, None, None, 0), ('and making fight with them ,', None, None, None, 0), ('its not necessary .', None, None, None, 1), ('unwanted fights and unwanted speech should be avoided .', None, None, None, 1), ('because all are having responsible position and work', None, None, None, 0), ('to do ,', None, None, None, 0), ('At bar doing nasty things no good using some people name', None, None, None, 0)]

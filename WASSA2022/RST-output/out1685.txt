@@ -1,0 +1,27 @@
+=====================> [[('Other story similar to the local news about the killing of a woman', None, None, None, 0), ('I know in town .', None, None, None, 1), ('It always makes me think of the children first .', None, None, None, 1), ('It also makes me wonder', None, None, None, 0), ('how a person could commit such atrocities , especially in front of children .', None, None, None, 1), ('The child', None, None, None, 0), ('that called 911', None, None, None, 0), ('will no doubt mentally live with that phone call for the rest of their life . Article seem to have been murder , and a middle class home , maybe drug use or robbery gone wrong ?', None, None, None, 1), ('What is wrong with the world today ? I will certainly hug my children tighter tonight', None, None, None, 0), ('after reading all these articles about murder , grieving children , deaths , worldly disasters and sadness .', None, None, None, 1), ('The world is such an interesting , wonderful yet sad place all at once .', None, None, None, 1), ('I will also say a prayer for those kids and pray', None, None, None, 0), ('and be thankful for mine .', None, None, None, 1)]]
+Leaf:  N Elaborate Other story similar to the local news about the killing of a woman
+Leaf:  S span I know in town .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It always makes me think of the children first .
+Leaf:  S span It also makes me wonder
+Leaf:  N Attribution how a person could commit such atrocities , especially in front of children .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate The child
+Leaf:  S span that called 911
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will no doubt mentally live with that phone call for the rest of their life . Article seem to have been murder , and a middle class home , maybe drug use or robbery gone wrong ?
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background What is wrong with the world today ? I will certainly hug my children tighter tonight
+Leaf:  S span after reading all these articles about murder , grieving children , deaths , worldly disasters and sadness .
+Inner:  N Evaluation None Background NS
+Leaf:  S span The world is such an interesting , wonderful yet sad place all at once .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint I will also say a prayer for those kids and pray
+Leaf:  N Joint and be thankful for mine .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Other story similar to the local news about the killing of a woman', None, None, None, 0), ('I know in town .', None, None, None, 1), ('It always makes me think of the children first .', None, None, None, 1), ('It also makes me wonder', None, None, None, 0), ('how a person could commit such atrocities , especially in front of children .', None, None, None, 1), ('The child', None, None, None, 0), ('that called 911', None, None, None, 0), ('will no doubt mentally live with that phone call for the rest of their life . Article seem to have been murder , and a middle class home , maybe drug use or robbery gone wrong ?', None, None, None, 1), ('What is wrong with the world today ? I will certainly hug my children tighter tonight', None, None, None, 0), ('after reading all these articles about murder , grieving children , deaths , worldly disasters and sadness .', None, None, None, 1), ('The world is such an interesting , wonderful yet sad place all at once .', None, None, None, 1), ('I will also say a prayer for those kids and pray', None, None, None, 0), ('and be thankful for mine .', None, None, None, 1)]

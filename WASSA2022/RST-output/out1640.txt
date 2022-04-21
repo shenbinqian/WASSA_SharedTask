@@ -1,0 +1,17 @@
+=====================> [[("I just do n't believe this article .", None, None, None, 1), ('It definitely seemed to lean towards a very liberal bias .', None, None, None, 1), ('I just have a tough time', None, None, None, 0), ('believing the numbers on this one .', None, None, None, 1), ('I would like to see where they got their figures .', None, None, None, 1), ('Unfortunately , I feel', None, None, None, 0), ('that everyone is just against Trump .', None, None, None, 1), ("It does n't matter what he does !!!", None, None, None, 1)]]
+Leaf:  N Elaborate I just do n't believe this article .
+Leaf:  S span It definitely seemed to lean towards a very liberal bias .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I just have a tough time
+Leaf:  S span believing the numbers on this one .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I would like to see where they got their figures .
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Leaf:  S span Unfortunately , I feel
+Leaf:  N Attribution that everyone is just against Trump .
+Inner:  N Summary None Attribution SN
+Leaf:  S span It does n't matter what he does !!!
+Inner:  N Joint None Summary NS
+Inner:  Root None None Joint NN
+[("I just do n't believe this article .", None, None, None, 1), ('It definitely seemed to lean towards a very liberal bias .', None, None, None, 1), ('I just have a tough time', None, None, None, 0), ('believing the numbers on this one .', None, None, None, 1), ('I would like to see where they got their figures .', None, None, None, 1), ('Unfortunately , I feel', None, None, None, 0), ('that everyone is just against Trump .', None, None, None, 1), ("It does n't matter what he does !!!", None, None, None, 1)]

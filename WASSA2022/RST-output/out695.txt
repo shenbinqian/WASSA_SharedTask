@@ -1,0 +1,23 @@
+=====================> [[('Yay , bigots !', None, None, None, 1), ('I know', None, None, None, 0), ('that bigots are not a particularly new species ,', None, None, None, 0), ('but I used to think , just a few years ago ,', None, None, None, 0), ('that things were much better', None, None, None, 0), ('and that people were generally becoming more open-minded and welcoming .', None, None, None, 1), ('But the election of our new president signals something very different .', None, None, None, 1), ('And very much encourages the bigots to spread their wings', None, None, None, 0), ('and parade proudly .', None, None, None, 1), ('They are being empowered right now ,', None, None, None, 0), ('and that is very disturbing .', None, None, None, 1)]]
+Leaf:  N Elaborate Yay , bigots !
+Leaf:  S span I know
+Leaf:  N Attribution that bigots are not a particularly new species ,
+Inner:  S span None Attribution SN
+Leaf:  S span but I used to think , just a few years ago ,
+Leaf:  N Joint that things were much better
+Leaf:  N Joint and that people were generally becoming more open-minded and welcoming .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Leaf:  N Elaborate But the election of our new president signals something very different .
+Leaf:  N Joint And very much encourages the bigots to spread their wings
+Leaf:  N Joint and parade proudly .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation They are being empowered right now ,
+Leaf:  S span and that is very disturbing .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Yay , bigots !', None, None, None, 1), ('I know', None, None, None, 0), ('that bigots are not a particularly new species ,', None, None, None, 0), ('but I used to think , just a few years ago ,', None, None, None, 0), ('that things were much better', None, None, None, 0), ('and that people were generally becoming more open-minded and welcoming .', None, None, None, 1), ('But the election of our new president signals something very different .', None, None, None, 1), ('And very much encourages the bigots to spread their wings', None, None, None, 0), ('and parade proudly .', None, None, None, 1), ('They are being empowered right now ,', None, None, None, 0), ('and that is very disturbing .', None, None, None, 1)]

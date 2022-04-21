@@ -1,0 +1,31 @@
+=====================> [[('This article is just awful .', None, None, None, 1), ('Boko Haram is an extremist group', None, None, None, 0), ('that needs to be stopped by any means necessary .', None, None, None, 1), ('The fact of the matter is these people are using religion as an excuse', None, None, None, 0), ('to rape and kill woman and children ,', None, None, None, 0), ('and thats one of the most unmoral and unethical things', None, None, None, 0), ('I can think of .', None, None, None, 1), ('These poor women and children are not only kidnapped and drugged ,', None, None, None, 0), ('but they are also dealing with being raped', None, None, None, 0), ('and having their loved ones killed .', None, None, None, 1), ('This is an awful and tragic issue ,', None, None, None, 0), ('and this is something', None, None, None, 0), ('that needs to be shown throughout the entire world', None, None, None, 0), ('that these people are bad', None, None, None, 0), ('and need to be stopped .', None, None, None, 1)]]
+Leaf:  N Explanation This article is just awful .
+Leaf:  N Elaborate Boko Haram is an extremist group
+Leaf:  S span that needs to be stopped by any means necessary .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The fact of the matter is these people are using religion as an excuse
+Leaf:  S span to rape and kill woman and children ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate and thats one of the most unmoral and unethical things
+Leaf:  S span I can think of .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint These poor women and children are not only kidnapped and drugged ,
+Leaf:  N Joint but they are also dealing with being raped
+Leaf:  N Joint and having their loved ones killed .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint This is an awful and tragic issue ,
+Leaf:  N Elaborate and this is something
+Leaf:  S span that needs to be shown throughout the entire world
+Leaf:  N Joint that these people are bad
+Leaf:  N Joint and need to be stopped .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This article is just awful .', None, None, None, 1), ('Boko Haram is an extremist group', None, None, None, 0), ('that needs to be stopped by any means necessary .', None, None, None, 1), ('The fact of the matter is these people are using religion as an excuse', None, None, None, 0), ('to rape and kill woman and children ,', None, None, None, 0), ('and thats one of the most unmoral and unethical things', None, None, None, 0), ('I can think of .', None, None, None, 1), ('These poor women and children are not only kidnapped and drugged ,', None, None, None, 0), ('but they are also dealing with being raped', None, None, None, 0), ('and having their loved ones killed .', None, None, None, 1), ('This is an awful and tragic issue ,', None, None, None, 0), ('and this is something', None, None, None, 0), ('that needs to be shown throughout the entire world', None, None, None, 0), ('that these people are bad', None, None, None, 0), ('and need to be stopped .', None, None, None, 1)]

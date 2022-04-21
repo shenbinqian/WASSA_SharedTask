@@ -1,0 +1,19 @@
+=====================> [[('A Jordanian writer was shot and killed outside of a courthouse', None, None, None, 0), ('due to a cartoon', None, None, None, 0), ('he posted', None, None, None, 0), ('mocking ISIS .', None, None, None, 1), ("It 's amazing that someone could be persecuted for mocking a terrorist organization", None, None, None, 0), ('who rose to fame', None, None, None, 0), ('by killing people', None, None, None, 0), ('and causing civil unrest .', None, None, None, 1), ('What reasonable country would prosecute someone for this ?', None, None, None, 1)]]
+Leaf:  N Cause A Jordanian writer was shot and killed outside of a courthouse
+Leaf:  N Elaborate due to a cartoon
+Leaf:  N Elaborate he posted
+Leaf:  S span mocking ISIS .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate It 's amazing that someone could be persecuted for mocking a terrorist organization
+Leaf:  N Manner-Means who rose to fame
+Leaf:  N Joint by killing people
+Leaf:  N Joint and causing civil unrest .
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span What reasonable country would prosecute someone for this ?
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('A Jordanian writer was shot and killed outside of a courthouse', None, None, None, 0), ('due to a cartoon', None, None, None, 0), ('he posted', None, None, None, 0), ('mocking ISIS .', None, None, None, 1), ("It 's amazing that someone could be persecuted for mocking a terrorist organization", None, None, None, 0), ('who rose to fame', None, None, None, 0), ('by killing people', None, None, None, 0), ('and causing civil unrest .', None, None, None, 1), ('What reasonable country would prosecute someone for this ?', None, None, None, 1)]

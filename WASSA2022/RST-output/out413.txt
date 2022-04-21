@@ -1,0 +1,15 @@
+=====================> [[('Whenever kids are involved in a nasty breakup there are never any winners .', None, None, None, 1), ('The person', None, None, None, 0), ('who gets the short end of the stick in this case', None, None, None, 0), ('will probably be the child', None, None, None, 0), ('who will be forced to split time and maybe even countries between the two parents .', None, None, None, 1), ("People should try and consider the child 's feelings", None, None, None, 0), ('before using them as pawns in a custody fight .', None, None, None, 1)]]
+Leaf:  N Elaborate Whenever kids are involved in a nasty breakup there are never any winners .
+Leaf:  N Elaborate The person
+Leaf:  S span who gets the short end of the stick in this case
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate will probably be the child
+Leaf:  S span who will be forced to split time and maybe even countries between the two parents .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span People should try and consider the child 's feelings
+Leaf:  N Background before using them as pawns in a custody fight .
+Inner:  S span None Background SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Whenever kids are involved in a nasty breakup there are never any winners .', None, None, None, 1), ('The person', None, None, None, 0), ('who gets the short end of the stick in this case', None, None, None, 0), ('will probably be the child', None, None, None, 0), ('who will be forced to split time and maybe even countries between the two parents .', None, None, None, 1), ("People should try and consider the child 's feelings", None, None, None, 0), ('before using them as pawns in a custody fight .', None, None, None, 1)]

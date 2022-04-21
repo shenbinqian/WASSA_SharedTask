@@ -1,0 +1,19 @@
+=====================> [[('How disgusting is Wells Fargo ?', None, None, None, 1), ("It 's unbelievable the way", None, None, None, 0), ('they treated their tellers ,', None, None, None, 0), ('and all those fake accounts ?', None, None, None, 1), ("Can you even ? I do n't understand", None, None, None, 0), ("how this bank does n't get shut down .", None, None, None, 1), ('You really should think about getting an account with a different bank ,', None, None, None, 0), ('you know .', None, None, None, 1), ('What if your SS got used to make some of those accounts ?', None, None, None, 1)]]
+Leaf:  N Joint How disgusting is Wells Fargo ?
+Leaf:  N Elaborate It 's unbelievable the way
+Leaf:  S span they treated their tellers ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and all those fake accounts ?
+Inner:  N Joint None Same-Unit NN
+Inner:  N Joint None Joint NN
+Leaf:  S span Can you even ? I do n't understand
+Leaf:  N Attribution how this bank does n't get shut down .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Attribution You really should think about getting an account with a different bank ,
+Leaf:  S span you know .
+Inner:  S span None Attribution NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span What if your SS got used to make some of those accounts ?
+Inner:  N Joint None Evaluation NS
+Inner:  Root None None Joint NN
+[('How disgusting is Wells Fargo ?', None, None, None, 1), ("It 's unbelievable the way", None, None, None, 0), ('they treated their tellers ,', None, None, None, 0), ('and all those fake accounts ?', None, None, None, 1), ("Can you even ? I do n't understand", None, None, None, 0), ("how this bank does n't get shut down .", None, None, None, 1), ('You really should think about getting an account with a different bank ,', None, None, None, 0), ('you know .', None, None, None, 1), ('What if your SS got used to make some of those accounts ?', None, None, None, 1)]

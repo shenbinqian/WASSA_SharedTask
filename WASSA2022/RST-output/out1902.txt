@@ -1,0 +1,19 @@
+=====================> [[('In case we all needed yet another reminder', None, None, None, 0), ('that , yes , climate change is real and , yes , we are really screwed', None, None, None, 0), ("if we do n't do something about it immediately .", None, None, None, 1), ('Here in the US we have stupid fucking Trump', None, None, None, 0), ('who pulled out of the Paris agreement', None, None, None, 0), ("- we wo n't make any progress on this", None, None, None, 0), ('until that moron', None, None, None, 0), ('- and all those climate change denying Republicans -', None, None, None, 0), ('are out of the White House .', None, None, None, 1)]]
+Leaf:  N Elaborate In case we all needed yet another reminder
+Leaf:  S span that , yes , climate change is real and , yes , we are really screwed
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if we do n't do something about it immediately .
+Inner:  N Background None Condition NS
+Leaf:  N Elaborate Here in the US we have stupid fucking Trump
+Leaf:  S span who pulled out of the Paris agreement
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation - we wo n't make any progress on this
+Inner:  N Condition None Explanation SN
+Leaf:  N Elaborate until that moron
+Leaf:  S span - and all those climate change denying Republicans -
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are out of the White House .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Condition NS
+Inner:  Root None None Background NS
+[('In case we all needed yet another reminder', None, None, None, 0), ('that , yes , climate change is real and , yes , we are really screwed', None, None, None, 0), ("if we do n't do something about it immediately .", None, None, None, 1), ('Here in the US we have stupid fucking Trump', None, None, None, 0), ('who pulled out of the Paris agreement', None, None, None, 0), ("- we wo n't make any progress on this", None, None, None, 0), ('until that moron', None, None, None, 0), ('- and all those climate change denying Republicans -', None, None, None, 0), ('are out of the White House .', None, None, None, 1)]

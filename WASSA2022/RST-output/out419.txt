@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('this is a terrible story', None, None, None, 0), ('to hear .', None, None, None, 1), ('For a family to be torn apart', None, None, None, 0), ('like that is just heart wrenching .', None, None, None, 1), ('It is such a tragedy', None, None, None, 0), ('for all involved to be lost due to a temporary lapse in judgment .', None, None, None, 1), ('I hope', None, None, None, 0), ('the father can come to grips with the situation', None, None, None, 0), ('and eventually find some kind of lasting peace ,', None, None, None, 0), ('and be able to go on with his life after a loss of this magnitude .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate this is a terrible story
+Leaf:  S span to hear .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Comparison For a family to be torn apart
+Leaf:  S span like that is just heart wrenching .
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Elaborate It is such a tragedy
+Leaf:  S span for all involved to be lost due to a temporary lapse in judgment .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Temporal the father can come to grips with the situation
+Leaf:  N Joint and eventually find some kind of lasting peace ,
+Leaf:  N Joint and be able to go on with his life after a loss of this magnitude .
+Inner:  N Temporal None Joint NN
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('this is a terrible story', None, None, None, 0), ('to hear .', None, None, None, 1), ('For a family to be torn apart', None, None, None, 0), ('like that is just heart wrenching .', None, None, None, 1), ('It is such a tragedy', None, None, None, 0), ('for all involved to be lost due to a temporary lapse in judgment .', None, None, None, 1), ('I hope', None, None, None, 0), ('the father can come to grips with the situation', None, None, None, 0), ('and eventually find some kind of lasting peace ,', None, None, None, 0), ('and be able to go on with his life after a loss of this magnitude .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ("what 's going on overseas .", None, None, None, 1), ("It 's so tragic", None, None, None, 0), ('that people in the military are still dying in war ,', None, None, None, 0), ('and for what ? I thought', None, None, None, 0), ('they would be gone from there by now', None, None, None, 0), ("but they 're not .", None, None, None, 1), ("And there 's still issues with kidnappings and things of that nature .", None, None, None, 1), ("It 's really quite shocking", None, None, None, 0), ('when you think about it .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution what 's going on overseas .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's so tragic
+Leaf:  N Attribution that people in the military are still dying in war ,
+Inner:  N Joint None Attribution SN
+Leaf:  S span and for what ? I thought
+Leaf:  N Attribution they would be gone from there by now
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but they 're not .
+Inner:  N Joint None Contrast SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span And there 's still issues with kidnappings and things of that nature .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background It 's really quite shocking
+Leaf:  S span when you think about it .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I ca n't believe", None, None, None, 0), ("what 's going on overseas .", None, None, None, 1), ("It 's so tragic", None, None, None, 0), ('that people in the military are still dying in war ,', None, None, None, 0), ('and for what ? I thought', None, None, None, 0), ('they would be gone from there by now', None, None, None, 0), ("but they 're not .", None, None, None, 1), ("And there 's still issues with kidnappings and things of that nature .", None, None, None, 1), ("It 's really quite shocking", None, None, None, 0), ('when you think about it .', None, None, None, 1)]

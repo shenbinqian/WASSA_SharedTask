@@ -1,0 +1,25 @@
+=====================> [[('i was reading about this article', None, None, None, 0), ('and got caught up in it', None, None, None, 0), ('because of the main topic', None, None, None, 0), ('when it had started ,', None, None, None, 0), ('it began talking about all of these massive shootings', None, None, None, 0), ('that have been going on around the country .', None, None, None, 1), ('i felt', None, None, None, 0), ('like that was the main idea', None, None, None, 0), ('and discussing the murders in the united states i feel like they could have posted the differences between the states and other countries around the world as well .', None, None, None, 1), ('its free writing', None, None, None, 0), ('but i think', None, None, None, 0), ('it makes americans look bad .', None, None, None, 1)]]
+Leaf:  N Joint i was reading about this article
+Leaf:  N Joint and got caught up in it
+Inner:  N Explanation None Joint NN
+Leaf:  N Same-Unit because of the main topic
+Leaf:  N Same-Unit when it had started ,
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Elaborate it began talking about all of these massive shootings
+Leaf:  S span that have been going on around the country .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span i felt
+Leaf:  N Attribution like that was the main idea
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and discussing the murders in the united states i feel like they could have posted the differences between the states and other countries around the world as well .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast its free writing
+Leaf:  S span but i think
+Leaf:  N Attribution it makes americans look bad .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('i was reading about this article', None, None, None, 0), ('and got caught up in it', None, None, None, 0), ('because of the main topic', None, None, None, 0), ('when it had started ,', None, None, None, 0), ('it began talking about all of these massive shootings', None, None, None, 0), ('that have been going on around the country .', None, None, None, 1), ('i felt', None, None, None, 0), ('like that was the main idea', None, None, None, 0), ('and discussing the murders in the united states i feel like they could have posted the differences between the states and other countries around the world as well .', None, None, None, 1), ('its free writing', None, None, None, 0), ('but i think', None, None, None, 0), ('it makes americans look bad .', None, None, None, 1)]

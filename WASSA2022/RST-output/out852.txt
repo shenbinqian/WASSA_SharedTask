@@ -1,0 +1,23 @@
+=====================> [[('This is just more violent nonsense from the outrageous middle east .', None, None, None, 1), ('Honestly , I dont care any longer .', None, None, None, 1), ('All these people', None, None, None, 0), ('clutching to one religion or another', None, None, None, 0), ('( often just as a mask for their rage )', None, None, None, 0), ('and killing each other out of tribal animus .', None, None, None, 1), ('It hasnt changed , well , ever .', None, None, None, 1), ('I dont expect it to change now .', None, None, None, 1), ('Its hopeless because people are just ignorant , solipsistic apes .', None, None, None, 1), ('I just cant care any longer about these idiots .', None, None, None, 1), ("Its horrible and tragic but it 's all so preventable .", None, None, None, 1)]]
+Leaf:  S span This is just more violent nonsense from the outrageous middle east .
+Leaf:  N Evaluation Honestly , I dont care any longer .
+Inner:  N Explanation None Evaluation SN
+Leaf:  N Elaborate All these people
+Leaf:  N Enablement clutching to one religion or another
+Leaf:  S span ( often just as a mask for their rage )
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint and killing each other out of tribal animus .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  S span It hasnt changed , well , ever .
+Leaf:  N Elaborate I dont expect it to change now .
+Inner:  N Background None Elaborate SN
+Inner:  N Evaluation None Background SN
+Leaf:  N Elaborate Its hopeless because people are just ignorant , solipsistic apes .
+Leaf:  N Evaluation I just cant care any longer about these idiots .
+Leaf:  S span Its horrible and tragic but it 's all so preventable .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This is just more violent nonsense from the outrageous middle east .', None, None, None, 1), ('Honestly , I dont care any longer .', None, None, None, 1), ('All these people', None, None, None, 0), ('clutching to one religion or another', None, None, None, 0), ('( often just as a mask for their rage )', None, None, None, 0), ('and killing each other out of tribal animus .', None, None, None, 1), ('It hasnt changed , well , ever .', None, None, None, 1), ('I dont expect it to change now .', None, None, None, 1), ('Its hopeless because people are just ignorant , solipsistic apes .', None, None, None, 1), ('I just cant care any longer about these idiots .', None, None, None, 1), ("Its horrible and tragic but it 's all so preventable .", None, None, None, 1)]

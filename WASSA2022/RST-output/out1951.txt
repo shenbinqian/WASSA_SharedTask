@@ -1,0 +1,35 @@
+=====================> [[('This article has made my heart so heavy .', None, None, None, 1), ('I had to pause a couple times', None, None, None, 0), ('while reading ,', None, None, None, 0), ('just to gather my thoughts', None, None, None, 0), ('so that I could continue .', None, None, None, 1), ('I feel for the innocent people', None, None, None, 0), ('who should not have been involved in this at all . I wish that we could do something', None, None, None, 0), ('to help these people come to an agreement', None, None, None, 0), ('so this terrible conflict can end .', None, None, None, 1), ("I ca n't even begin to imagine what it must feel like to live in a place", None, None, None, 0), ('where you have to have such strong fear', None, None, None, 0), ('to even leave your home .', None, None, None, 1), ("I ca n't imagine living amongst such stress and turmoil .", None, None, None, 1), ('My heart is so heavy', None, None, None, 0), ('and I wish', None, None, None, 0), ('there was something', None, None, None, 0), ('I could do to help .', None, None, None, 1)]]
+Leaf:  N Cause This article has made my heart so heavy .
+Leaf:  N Temporal I had to pause a couple times
+Leaf:  N Enablement while reading ,
+Leaf:  S span just to gather my thoughts
+Inner:  N Enablement None Enablement NS
+Leaf:  S span so that I could continue .
+Inner:  S span None Enablement NS
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate I feel for the innocent people
+Leaf:  S span who should not have been involved in this at all . I wish that we could do something
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement to help these people come to an agreement
+Leaf:  S span so this terrible conflict can end .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate I ca n't even begin to imagine what it must feel like to live in a place
+Leaf:  N Cause where you have to have such strong fear
+Leaf:  S span to even leave your home .
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint I ca n't imagine living amongst such stress and turmoil .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint My heart is so heavy
+Leaf:  S span and I wish
+Leaf:  N Elaborate there was something
+Leaf:  S span I could do to help .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This article has made my heart so heavy .', None, None, None, 1), ('I had to pause a couple times', None, None, None, 0), ('while reading ,', None, None, None, 0), ('just to gather my thoughts', None, None, None, 0), ('so that I could continue .', None, None, None, 1), ('I feel for the innocent people', None, None, None, 0), ('who should not have been involved in this at all . I wish that we could do something', None, None, None, 0), ('to help these people come to an agreement', None, None, None, 0), ('so this terrible conflict can end .', None, None, None, 1), ("I ca n't even begin to imagine what it must feel like to live in a place", None, None, None, 0), ('where you have to have such strong fear', None, None, None, 0), ('to even leave your home .', None, None, None, 1), ("I ca n't imagine living amongst such stress and turmoil .", None, None, None, 1), ('My heart is so heavy', None, None, None, 0), ('and I wish', None, None, None, 0), ('there was something', None, None, None, 0), ('I could do to help .', None, None, None, 1)]

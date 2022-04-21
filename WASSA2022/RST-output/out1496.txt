@@ -1,0 +1,21 @@
+=====================> [[('Hey , this article really shows', None, None, None, 0), ('how people can be compassionate in even the hardest places', None, None, None, 0), ('to do so .', None, None, None, 1), ("It 's really an inspiring thing for them to do", None, None, None, 0), ('to go in', None, None, None, 0), ('and save these animals even in the midst of an ongoing conflict', None, None, None, 0), ('where they could have come to harm , as well as the animals .', None, None, None, 1), ('Also important is the situation in Gaza , and other conflict zones , makes it rather difficult to maintain a humanely run zoo ,', None, None, None, 0), ('and have veterinarians on hand', None, None, None, 0), ('in case the animals become ill .', None, None, None, 1)]]
+Leaf:  S span Hey , this article really shows
+Leaf:  N Elaborate how people can be compassionate in even the hardest places
+Leaf:  S span to do so .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It 's really an inspiring thing for them to do
+Leaf:  N Temporal to go in
+Leaf:  N Elaborate and save these animals even in the midst of an ongoing conflict
+Leaf:  S span where they could have come to harm , as well as the animals .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Also important is the situation in Gaza , and other conflict zones , makes it rather difficult to maintain a humanely run zoo ,
+Leaf:  N Condition and have veterinarians on hand
+Leaf:  S span in case the animals become ill .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Hey , this article really shows', None, None, None, 0), ('how people can be compassionate in even the hardest places', None, None, None, 0), ('to do so .', None, None, None, 1), ("It 's really an inspiring thing for them to do", None, None, None, 0), ('to go in', None, None, None, 0), ('and save these animals even in the midst of an ongoing conflict', None, None, None, 0), ('where they could have come to harm , as well as the animals .', None, None, None, 1), ('Also important is the situation in Gaza , and other conflict zones , makes it rather difficult to maintain a humanely run zoo ,', None, None, None, 0), ('and have veterinarians on hand', None, None, None, 0), ('in case the animals become ill .', None, None, None, 1)]

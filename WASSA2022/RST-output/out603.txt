@@ -1,0 +1,21 @@
+=====================> [[('Death to all cops !', None, None, None, 1), ('We can not allow the police force to continue existing .', None, None, None, 1), ('They are nothing more than government sanctioned mass murderers', None, None, None, 0), ('that exist', None, None, None, 0), ('to protect White capitalist interests', None, None, None, 0), ('by slaughtering hundreds .', None, None, None, 1), ('We must deceively destroy the police as a concept', None, None, None, 0), ('without any hesitation or remorse .', None, None, None, 1), ('All police are our enemies !', None, None, None, 1), ('There are no good cops !', None, None, None, 1)]]
+Leaf:  N Summary Death to all cops !
+Leaf:  N Explanation We can not allow the police force to continue existing .
+Leaf:  N Elaborate They are nothing more than government sanctioned mass murderers
+Leaf:  N Enablement that exist
+Leaf:  S span to protect White capitalist interests
+Inner:  N Manner-Means None Enablement NS
+Leaf:  S span by slaughtering hundreds .
+Inner:  S span None Manner-Means NS
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Explanation NS
+Leaf:  N Manner-Means We must deceively destroy the police as a concept
+Leaf:  S span without any hesitation or remorse .
+Inner:  S span None Manner-Means NS
+Inner:  N Explanation None Summary NS
+Leaf:  N Joint All police are our enemies !
+Leaf:  N Joint There are no good cops !
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Summary NS
+[('Death to all cops !', None, None, None, 1), ('We can not allow the police force to continue existing .', None, None, None, 1), ('They are nothing more than government sanctioned mass murderers', None, None, None, 0), ('that exist', None, None, None, 0), ('to protect White capitalist interests', None, None, None, 0), ('by slaughtering hundreds .', None, None, None, 1), ('We must deceively destroy the police as a concept', None, None, None, 0), ('without any hesitation or remorse .', None, None, None, 1), ('All police are our enemies !', None, None, None, 1), ('There are no good cops !', None, None, None, 1)]

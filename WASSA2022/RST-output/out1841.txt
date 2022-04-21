@@ -1,0 +1,31 @@
+=====================> [[('You know one thing late Thursday', None, None, None, 0), ('that the Islamic State used a rocket', None, None, None, 0), ('containing mustard gas against U.S. troops in Iraq .', None, None, None, 1), ('The general was addressing leaked news reports', None, None, None, 0), ('that investigators had found a black oily substance on a rocket', None, None, None, 0), ('that landed near the perimeter of the base .', None, None, None, 1), ('Dunford told the committee', None, None, None, 0), ('that investigators had assessed the liquid', None, None, None, 0), ('and found “ it to be a sulfur-mustard blister agent . ” The news is concerning because this is the first time', None, None, None, 0), ('a chemical weapon has been used against U.S. officials', None, None, None, 0), ('said', None, None, None, 0), ('the Islamic State was using to produce mustard agent and other chemicals for military use .', None, None, None, 1), ('No soldiers were injured in the attack ,', None, None, None, 0), ('nor have any shown symptoms of exposure to mustard gas , a weapon', None, None, None, 0), ('banned by the 1925 Geneva protocol after the horrors of World War I.', None, None, None, 1)]]
+Leaf:  S span You know one thing late Thursday
+Leaf:  N Elaborate that the Islamic State used a rocket
+Leaf:  S span containing mustard gas against U.S. troops in Iraq .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The general was addressing leaked news reports
+Leaf:  N Elaborate that investigators had found a black oily substance on a rocket
+Leaf:  S span that landed near the perimeter of the base .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Dunford told the committee
+Leaf:  N Temporal that investigators had assessed the liquid
+Leaf:  N Elaborate and found “ it to be a sulfur-mustard blister agent . ” The news is concerning because this is the first time
+Leaf:  S span a chemical weapon has been used against U.S. officials
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit said
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution the Islamic State was using to produce mustard agent and other chemicals for military use .
+Inner:  N Temporal None Attribution SN
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint No soldiers were injured in the attack ,
+Leaf:  N Elaborate nor have any shown symptoms of exposure to mustard gas , a weapon
+Leaf:  S span banned by the 1925 Geneva protocol after the horrors of World War I.
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('You know one thing late Thursday', None, None, None, 0), ('that the Islamic State used a rocket', None, None, None, 0), ('containing mustard gas against U.S. troops in Iraq .', None, None, None, 1), ('The general was addressing leaked news reports', None, None, None, 0), ('that investigators had found a black oily substance on a rocket', None, None, None, 0), ('that landed near the perimeter of the base .', None, None, None, 1), ('Dunford told the committee', None, None, None, 0), ('that investigators had assessed the liquid', None, None, None, 0), ('and found “ it to be a sulfur-mustard blister agent . ” The news is concerning because this is the first time', None, None, None, 0), ('a chemical weapon has been used against U.S. officials', None, None, None, 0), ('said', None, None, None, 0), ('the Islamic State was using to produce mustard agent and other chemicals for military use .', None, None, None, 1), ('No soldiers were injured in the attack ,', None, None, None, 0), ('nor have any shown symptoms of exposure to mustard gas , a weapon', None, None, None, 0), ('banned by the 1925 Geneva protocol after the horrors of World War I.', None, None, None, 1)]

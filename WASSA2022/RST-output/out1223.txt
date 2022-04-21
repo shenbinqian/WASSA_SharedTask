@@ -1,0 +1,21 @@
+=====================> [[('Hey I know', None, None, None, 0), ('you are busy', None, None, None, 0), ('but I wanted to share something', None, None, None, 0), ('that is laying heavy on my heart .', None, None, None, 1), ('The nigerian paper is reporting of mass rape', None, None, None, 0), ('done by the government .', None, None, None, 1), ('Women and children were raped by policemen , soldiers , camp leaders and vigilante groups .', None, None, None, 1), ('This makes my blood boil .', None, None, None, 1), ('How does this make you feel ?', None, None, None, 1), ('What can we do ?', None, None, None, 1)]]
+Leaf:  S span Hey I know
+Leaf:  N Attribution you are busy
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but I wanted to share something
+Leaf:  S span that is laying heavy on my heart .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate The nigerian paper is reporting of mass rape
+Leaf:  S span done by the government .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Women and children were raped by policemen , soldiers , camp leaders and vigilante groups .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This makes my blood boil .
+Leaf:  N Joint How does this make you feel ?
+Leaf:  N Joint What can we do ?
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey I know', None, None, None, 0), ('you are busy', None, None, None, 0), ('but I wanted to share something', None, None, None, 0), ('that is laying heavy on my heart .', None, None, None, 1), ('The nigerian paper is reporting of mass rape', None, None, None, 0), ('done by the government .', None, None, None, 1), ('Women and children were raped by policemen , soldiers , camp leaders and vigilante groups .', None, None, None, 1), ('This makes my blood boil .', None, None, None, 1), ('How does this make you feel ?', None, None, None, 1), ('What can we do ?', None, None, None, 1)]

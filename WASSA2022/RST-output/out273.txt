@@ -1,0 +1,23 @@
+=====================> [[("he mayor was on Duterte 's list of local officials", None, None, None, 0), ('branded as " narco-politicians "', None, None, None, 0), ('who allegedly have ties to the illegal drug world ,', None, None, None, 0), ('according to CNN affiliate CNN Philippines .', None, None, None, 1), ('He , along with his wife , surrendered themselves to provincial police in August', None, None, None, 0), ('to clear their names', None, None, None, 0), ('and deny involvement . At the roadblock early Friday morning , an " armed encounter " between Dimaukom \'s men and police ensued ,', None, None, None, 0), ("the report says , with law enforcement officials responding to fire from the mayor 's bodyguards ,", None, None, None, 0), ('leaving 10 men dead . Duterte was elected to office in May on a platform of a hardline crackdown on crime , particularly illegal drugs .', None, None, None, 1), ('Since taking office in early June , his police force has waged a bloody war on drug dealers and users ,', None, None, None, 0), ('resulting in the deaths of hundreds of Filipino drug suspects at the', None, None, None, 0)]]
+Leaf:  N Elaborate he mayor was on Duterte 's list of local officials
+Leaf:  N Elaborate branded as " narco-politicians "
+Leaf:  S span who allegedly have ties to the illegal drug world ,
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span according to CNN affiliate CNN Philippines .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Enablement He , along with his wife , surrendered themselves to provincial police in August
+Leaf:  N Joint to clear their names
+Leaf:  N Joint and deny involvement . At the roadblock early Friday morning , an " armed encounter " between Dimaukom 's men and police ensued ,
+Inner:  N Attribution None Joint NN
+Leaf:  S span the report says , with law enforcement officials responding to fire from the mayor 's bodyguards ,
+Inner:  S span None Attribution NS
+Inner:  N Cause None Enablement NS
+Leaf:  S span leaving 10 men dead . Duterte was elected to office in May on a platform of a hardline crackdown on crime , particularly illegal drugs .
+Inner:  N Temporal None Cause NS
+Leaf:  N Cause Since taking office in early June , his police force has waged a bloody war on drug dealers and users ,
+Leaf:  S span resulting in the deaths of hundreds of Filipino drug suspects at the
+Inner:  N Temporal None Cause NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Elaborate NS
+[("he mayor was on Duterte 's list of local officials", None, None, None, 0), ('branded as " narco-politicians "', None, None, None, 0), ('who allegedly have ties to the illegal drug world ,', None, None, None, 0), ('according to CNN affiliate CNN Philippines .', None, None, None, 1), ('He , along with his wife , surrendered themselves to provincial police in August', None, None, None, 0), ('to clear their names', None, None, None, 0), ('and deny involvement . At the roadblock early Friday morning , an " armed encounter " between Dimaukom \'s men and police ensued ,', None, None, None, 0), ("the report says , with law enforcement officials responding to fire from the mayor 's bodyguards ,", None, None, None, 0), ('leaving 10 men dead . Duterte was elected to office in May on a platform of a hardline crackdown on crime , particularly illegal drugs .', None, None, None, 1), ('Since taking office in early June , his police force has waged a bloody war on drug dealers and users ,', None, None, None, 0), ('resulting in the deaths of hundreds of Filipino drug suspects at the', None, None, None, 0)]

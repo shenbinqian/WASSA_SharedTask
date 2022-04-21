@@ -1,0 +1,27 @@
+=====================> [[('Getting old is sad .', None, None, None, 1), ('I hope', None, None, None, 0), ('they pull through .', None, None, None, 1), ('But , many people never reach 86 .', None, None, None, 1), ("So , I ca n't feel too bad for them .", None, None, None, 1), ('They also probably lived a life', None, None, None, 0), ('many of us can only dream about .', None, None, None, 1), ('This might sound wrong ,', None, None, None, 0), ('but I will probably forget about this in 5 minutes .', None, None, None, 1), ('Life goes on .', None, None, None, 1), ("I 've already spent more time", None, None, None, 0), ('thinking about them', None, None, None, 0), ('than they will ever think about me .', None, None, None, 1)]]
+Leaf:  N Evaluation Getting old is sad .
+Leaf:  S span I hope
+Leaf:  N Attribution they pull through .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Leaf:  S span But , many people never reach 86 .
+Leaf:  N Cause So , I ca n't feel too bad for them .
+Inner:  N Contrast None Cause SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate They also probably lived a life
+Leaf:  S span many of us can only dream about .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This might sound wrong ,
+Leaf:  N Contrast but I will probably forget about this in 5 minutes .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate Life goes on .
+Leaf:  N Elaborate I 've already spent more time
+Leaf:  N Comparison thinking about them
+Leaf:  N Comparison than they will ever think about me .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Getting old is sad .', None, None, None, 1), ('I hope', None, None, None, 0), ('they pull through .', None, None, None, 1), ('But , many people never reach 86 .', None, None, None, 1), ("So , I ca n't feel too bad for them .", None, None, None, 1), ('They also probably lived a life', None, None, None, 0), ('many of us can only dream about .', None, None, None, 1), ('This might sound wrong ,', None, None, None, 0), ('but I will probably forget about this in 5 minutes .', None, None, None, 1), ('Life goes on .', None, None, None, 1), ("I 've already spent more time", None, None, None, 0), ('thinking about them', None, None, None, 0), ('than they will ever think about me .', None, None, None, 1)]

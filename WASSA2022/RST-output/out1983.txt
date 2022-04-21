@@ -1,0 +1,29 @@
+=====================> [[('These kinds of situations are always tough to gauge .', None, None, None, 1), ('In this article it claims', None, None, None, 0), ('the man shot did try to flee', None, None, None, 0), ('and the officer flee for his life .', None, None, None, 1), ('Although there is probably more information needed ,', None, None, None, 0), ('this is n\'t a simple " officer shot black man', None, None, None, 0), ('because he \'s black " .', None, None, None, 1), ('The officer could very well have feared for his life', None, None, None, 0), ('clinging on to the car .', None, None, None, 1), ('Although based off the article', None, None, None, 0), ('the cop could be racially targeting black people .', None, None, None, 1), ('Again these situations are always tricky', None, None, None, 0), ('but in this case I think', None, None, None, 0), ('both parties are to blame .', None, None, None, 1)]]
+Leaf:  N Explanation These kinds of situations are always tough to gauge .
+Leaf:  S span In this article it claims
+Leaf:  N Cause the man shot did try to flee
+Leaf:  S span and the officer flee for his life .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Although there is probably more information needed ,
+Leaf:  N Cause this is n't a simple " officer shot black man
+Leaf:  S span because he 's black " .
+Inner:  N Contrast None Cause NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Background The officer could very well have feared for his life
+Leaf:  S span clinging on to the car .
+Inner:  S span None Background NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span Although based off the article
+Leaf:  N Contrast the cop could be racially targeting black people .
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Contrast Again these situations are always tricky
+Leaf:  S span but in this case I think
+Leaf:  N Attribution both parties are to blame .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[('These kinds of situations are always tough to gauge .', None, None, None, 1), ('In this article it claims', None, None, None, 0), ('the man shot did try to flee', None, None, None, 0), ('and the officer flee for his life .', None, None, None, 1), ('Although there is probably more information needed ,', None, None, None, 0), ('this is n\'t a simple " officer shot black man', None, None, None, 0), ('because he \'s black " .', None, None, None, 1), ('The officer could very well have feared for his life', None, None, None, 0), ('clinging on to the car .', None, None, None, 1), ('Although based off the article', None, None, None, 0), ('the cop could be racially targeting black people .', None, None, None, 1), ('Again these situations are always tricky', None, None, None, 0), ('but in this case I think', None, None, None, 0), ('both parties are to blame .', None, None, None, 1)]

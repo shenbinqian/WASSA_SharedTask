@@ -1,0 +1,21 @@
+=====================> [[('Who cares what she thinks ?', None, None, None, 1), ('This just sounds like a way', None, None, None, 0), ('to sell more of her own products .', None, None, None, 1), ('I have difficulty believing', None, None, None, 0), ('that all the " fakes " are really that bad', None, None, None, 0), ('or that she has any real idea', None, None, None, 0), ('of what other companies are using for their products .', None, None, None, 1), ("It 's funny", None, None, None, 0), ('that she had to mention her website multiple times and not name any companies', None, None, None, 0), ('that were supposedly selling these knockoffs .', None, None, None, 1)]]
+Leaf:  N Evaluation Who cares what she thinks ?
+Leaf:  N Elaborate This just sounds like a way
+Leaf:  S span to sell more of her own products .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I have difficulty believing
+Leaf:  N Joint that all the " fakes " are really that bad
+Leaf:  N Elaborate or that she has any real idea
+Leaf:  S span of what other companies are using for their products .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's funny
+Leaf:  N Elaborate that she had to mention her website multiple times and not name any companies
+Leaf:  S span that were supposedly selling these knockoffs .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Who cares what she thinks ?', None, None, None, 1), ('This just sounds like a way', None, None, None, 0), ('to sell more of her own products .', None, None, None, 1), ('I have difficulty believing', None, None, None, 0), ('that all the " fakes " are really that bad', None, None, None, 0), ('or that she has any real idea', None, None, None, 0), ('of what other companies are using for their products .', None, None, None, 1), ("It 's funny", None, None, None, 0), ('that she had to mention her website multiple times and not name any companies', None, None, None, 0), ('that were supposedly selling these knockoffs .', None, None, None, 1)]

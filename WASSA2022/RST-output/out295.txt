@@ -1,0 +1,27 @@
+=====================> [[("It 's ridiculous that those talk shows of daytime tv moved on to be more like soap opera 's .", None, None, None, 1), ('They could have done alot of good for their fans ,', None, None, None, 0), ('but then it just became more of a cheap laugh .', None, None, None, 1), ('The people', None, None, None, 0), ('that lost their jobs on Sally Jesse Raphael', None, None, None, 0), ('had families', None, None, None, 0), ('they supported .', None, None, None, 1), ('After being told the show would be renewed ,', None, None, None, 0), ('it was a harsh blow', None, None, None, 0), ('to find out', None, None, None, 0), ("that was n't the case .", None, None, None, 1), ('I feel for those', None, None, None, 0), ('that were put out of work .', None, None, None, 1)]]
+Leaf:  N Explanation It 's ridiculous that those talk shows of daytime tv moved on to be more like soap opera 's .
+Leaf:  S span They could have done alot of good for their fans ,
+Leaf:  N Contrast but then it just became more of a cheap laugh .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate The people
+Leaf:  S span that lost their jobs on Sally Jesse Raphael
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate had families
+Leaf:  S span they supported .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span After being told the show would be renewed ,
+Leaf:  N Manner-Means it was a harsh blow
+Leaf:  S span to find out
+Leaf:  N Attribution that was n't the case .
+Inner:  S span None Attribution SN
+Inner:  N Background None Manner-Means NS
+Inner:  N Evaluation None Background SN
+Leaf:  N Elaborate I feel for those
+Leaf:  S span that were put out of work .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("It 's ridiculous that those talk shows of daytime tv moved on to be more like soap opera 's .", None, None, None, 1), ('They could have done alot of good for their fans ,', None, None, None, 0), ('but then it just became more of a cheap laugh .', None, None, None, 1), ('The people', None, None, None, 0), ('that lost their jobs on Sally Jesse Raphael', None, None, None, 0), ('had families', None, None, None, 0), ('they supported .', None, None, None, 1), ('After being told the show would be renewed ,', None, None, None, 0), ('it was a harsh blow', None, None, None, 0), ('to find out', None, None, None, 0), ("that was n't the case .", None, None, None, 1), ('I feel for those', None, None, None, 0), ('that were put out of work .', None, None, None, 1)]

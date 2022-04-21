@@ -1,0 +1,25 @@
+=====================> [[('I read an article about Typhoon Meranti .', None, None, None, 1), ('The article said', None, None, None, 0), ('the storm passed by Taiwan', None, None, None, 0), ('without actually hitting the island ,', None, None, None, 0), ('which I suppose was a good thing ,', None, None, None, 0), ('because evidently there was another storm in 2009 , Typhone Morakot ,', None, None, None, 0), ('that killed a bunch of people', None, None, None, 0), ('and did billions of dollars of damage .', None, None, None, 1), ("I 'm glad I do n't live somewhere", None, None, None, 0), ("where there 's any inclement weather like that ,", None, None, None, 0), ('it must be miserable to live on an island', None, None, None, 0), ("where it 's hot and crowded .", None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about Typhoon Meranti .
+Leaf:  S span The article said
+Leaf:  N Manner-Means the storm passed by Taiwan
+Leaf:  S span without actually hitting the island ,
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span which I suppose was a good thing ,
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate because evidently there was another storm in 2009 , Typhone Morakot ,
+Leaf:  N Joint that killed a bunch of people
+Leaf:  N Joint and did billions of dollars of damage .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I 'm glad I do n't live somewhere
+Leaf:  S span where there 's any inclement weather like that ,
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate it must be miserable to live on an island
+Leaf:  S span where it 's hot and crowded .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I read an article about Typhoon Meranti .', None, None, None, 1), ('The article said', None, None, None, 0), ('the storm passed by Taiwan', None, None, None, 0), ('without actually hitting the island ,', None, None, None, 0), ('which I suppose was a good thing ,', None, None, None, 0), ('because evidently there was another storm in 2009 , Typhone Morakot ,', None, None, None, 0), ('that killed a bunch of people', None, None, None, 0), ('and did billions of dollars of damage .', None, None, None, 1), ("I 'm glad I do n't live somewhere", None, None, None, 0), ("where there 's any inclement weather like that ,", None, None, None, 0), ('it must be miserable to live on an island', None, None, None, 0), ("where it 's hot and crowded .", None, None, None, 1)]

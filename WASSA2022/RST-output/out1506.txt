@@ -1,0 +1,21 @@
+=====================> [[('Hello there , I think', None, None, None, 0), ('this situation in Haiti needs our attention .', None, None, None, 1), ("It 's clear that these people are suffering", None, None, None, 0), ('after such a catastrophe befell them .', None, None, None, 1), ("I urge you to donate and make a difference in these people 's lives especially the children", None, None, None, 0), ('who are suffering', None, None, None, 0), ("and do n't have anything", None, None, None, 0), ('to eat .', None, None, None, 1), ('Every dollar will count', None, None, None, 0), ('I think', None, None, None, 0)]]
+Leaf:  S span Hello there , I think
+Leaf:  N Attribution this situation in Haiti needs our attention .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Background It 's clear that these people are suffering
+Leaf:  S span after such a catastrophe befell them .
+Inner:  S span None Background NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate I urge you to donate and make a difference in these people 's lives especially the children
+Leaf:  N Joint who are suffering
+Leaf:  N Elaborate and do n't have anything
+Leaf:  S span to eat .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Attribution Every dollar will count
+Leaf:  S span I think
+Inner:  S span None Attribution NS
+Inner:  Root None None Evaluation NS
+[('Hello there , I think', None, None, None, 0), ('this situation in Haiti needs our attention .', None, None, None, 1), ("It 's clear that these people are suffering", None, None, None, 0), ('after such a catastrophe befell them .', None, None, None, 1), ("I urge you to donate and make a difference in these people 's lives especially the children", None, None, None, 0), ('who are suffering', None, None, None, 0), ("and do n't have anything", None, None, None, 0), ('to eat .', None, None, None, 1), ('Every dollar will count', None, None, None, 0), ('I think', None, None, None, 0)]

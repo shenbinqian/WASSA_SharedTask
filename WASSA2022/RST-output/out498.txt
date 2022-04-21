@@ -1,0 +1,23 @@
+=====================> [[('First of all , I guess', None, None, None, 0), ("I 'm being too naive in my thinking", None, None, None, 0), ('that the KKK no longer existed .', None, None, None, 1), ('Also , I can not see', None, None, None, 0), ('that this had anything to do with Trump , himself , but more some radical group', None, None, None, 0), ('trying to tie themselves to the Trump Campaign', None, None, None, 0), ('to make him look bad .', None, None, None, 1), ('I would not be surprised', None, None, None, 0), ('if this was " fake news "', None, None, None, 0), ('drummed up by the Democratic party', None, None, None, 0), ('in order to smear Trump .', None, None, None, 1)]]
+Leaf:  S span First of all , I guess
+Leaf:  S span I 'm being too naive in my thinking
+Leaf:  N Attribution that the KKK no longer existed .
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  S span Also , I can not see
+Leaf:  N Elaborate that this had anything to do with Trump , himself , but more some radical group
+Leaf:  N Enablement trying to tie themselves to the Trump Campaign
+Leaf:  S span to make him look bad .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition I would not be surprised
+Leaf:  N Elaborate if this was " fake news "
+Leaf:  N Enablement drummed up by the Democratic party
+Leaf:  S span in order to smear Trump .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  Root None None Evaluation NS
+[('First of all , I guess', None, None, None, 0), ("I 'm being too naive in my thinking", None, None, None, 0), ('that the KKK no longer existed .', None, None, None, 1), ('Also , I can not see', None, None, None, 0), ('that this had anything to do with Trump , himself , but more some radical group', None, None, None, 0), ('trying to tie themselves to the Trump Campaign', None, None, None, 0), ('to make him look bad .', None, None, None, 1), ('I would not be surprised', None, None, None, 0), ('if this was " fake news "', None, None, None, 0), ('drummed up by the Democratic party', None, None, None, 0), ('in order to smear Trump .', None, None, None, 1)]

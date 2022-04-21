@@ -1,0 +1,21 @@
+=====================> [[("I ca n't even imagine", None, None, None, 0), ('what it would be like to be minding our own business in a club', None, None, None, 0), ('and then having someone come in', None, None, None, 0), ('and shoot you .', None, None, None, 1), ('This must have been terrifying for this person .', None, None, None, 1), ('I certainly hope', None, None, None, 0), ('they did not lose their life', None, None, None, 0), ('and I also hope', None, None, None, 0), ('this is not an incident', None, None, None, 0), ('that leads to further problems in the future .', None, None, None, 1)]]
+Leaf:  S span I ca n't even imagine
+Leaf:  N Temporal what it would be like to be minding our own business in a club
+Leaf:  N Temporal and then having someone come in
+Leaf:  N Temporal and shoot you .
+Inner:  N Temporal None Temporal NN
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span This must have been terrifying for this person .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I certainly hope
+Leaf:  N Attribution they did not lose their life
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I also hope
+Leaf:  N Elaborate this is not an incident
+Leaf:  S span that leads to further problems in the future .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[("I ca n't even imagine", None, None, None, 0), ('what it would be like to be minding our own business in a club', None, None, None, 0), ('and then having someone come in', None, None, None, 0), ('and shoot you .', None, None, None, 1), ('This must have been terrifying for this person .', None, None, None, 1), ('I certainly hope', None, None, None, 0), ('they did not lose their life', None, None, None, 0), ('and I also hope', None, None, None, 0), ('this is not an incident', None, None, None, 0), ('that leads to further problems in the future .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('another case of government not working like it should .', None, None, None, 1), ('one should have effective recourse', None, None, None, 0), ('without having to hire an attorney', None, None, None, 0), ('and spend thousands of dollars', None, None, None, 0), ('to straighten things out .', None, None, None, 1), ('it makes me angry', None, None, None, 0), ('because i know', None, None, None, 0), ('how easily it could happen to me .', None, None, None, 1), ("why people ca n't do their jobs and/or show some empathy", None, None, None, 0), ('in this situation is beyond my comprehension .', None, None, None, 1), ('i sure hope', None, None, None, 0), ('this does not happen to me or you .', None, None, None, 1)]]
+Leaf:  S span another case of government not working like it should .
+Leaf:  N Manner-Means one should have effective recourse
+Leaf:  N Joint without having to hire an attorney
+Leaf:  N Enablement and spend thousands of dollars
+Leaf:  S span to straighten things out .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Manner-Means NS
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Explanation it makes me angry
+Leaf:  S span because i know
+Leaf:  N Attribution how easily it could happen to me .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Summary None Evaluation NS
+Leaf:  N Cause why people ca n't do their jobs and/or show some empathy
+Leaf:  N Cause in this situation is beyond my comprehension .
+Inner:  N Evaluation None Cause NN
+Leaf:  S span i sure hope
+Leaf:  N Attribution this does not happen to me or you .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('another case of government not working like it should .', None, None, None, 1), ('one should have effective recourse', None, None, None, 0), ('without having to hire an attorney', None, None, None, 0), ('and spend thousands of dollars', None, None, None, 0), ('to straighten things out .', None, None, None, 1), ('it makes me angry', None, None, None, 0), ('because i know', None, None, None, 0), ('how easily it could happen to me .', None, None, None, 1), ("why people ca n't do their jobs and/or show some empathy", None, None, None, 0), ('in this situation is beyond my comprehension .', None, None, None, 1), ('i sure hope', None, None, None, 0), ('this does not happen to me or you .', None, None, None, 1)]

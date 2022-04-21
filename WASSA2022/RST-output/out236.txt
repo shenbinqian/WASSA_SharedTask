@@ -1,0 +1,15 @@
+=====================> [[('I think', None, None, None, 0), ('the article is a bit hard to read .', None, None, None, 1), ('It is about the environment and El Nino and how they interact .', None, None, None, 1), ('The article was also about pollution and how the environment is changed by certain chemicals in the air .', None, None, None, 1), ("Because it 's a science based article ,", None, None, None, 0), ("it 's a little hard to understand", None, None, None, 0), ('what the conclusion is .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution the article is a bit hard to read .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint It is about the environment and El Nino and how they interact .
+Leaf:  N Joint The article was also about pollution and how the environment is changed by certain chemicals in the air .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Because it 's a science based article ,
+Leaf:  S span it 's a little hard to understand
+Leaf:  N Attribution what the conclusion is .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('the article is a bit hard to read .', None, None, None, 1), ('It is about the environment and El Nino and how they interact .', None, None, None, 1), ('The article was also about pollution and how the environment is changed by certain chemicals in the air .', None, None, None, 1), ("Because it 's a science based article ,", None, None, None, 0), ("it 's a little hard to understand", None, None, None, 0), ('what the conclusion is .', None, None, None, 1)]

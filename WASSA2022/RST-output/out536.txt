@@ -1,0 +1,31 @@
+=====================> [[("I just do n't know", None, None, None, 0), ('how they could do this to that poor girl .', None, None, None, 1), ('After everything', None, None, None, 0), ('she has been through .', None, None, None, 1), ('I really feel for her .', None, None, None, 1), ('I understand', None, None, None, 0), ('what she might be going through .', None, None, None, 1), ('It is a shame to have this happen after all this time .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that someone will be able to help her.I feel really bad', None, None, None, 0), ('about what is being done .', None, None, None, 1), ('I am worried', None, None, None, 0), ('about what might happen', None, None, None, 0), ("if she does n't get any help .", None, None, None, 1), ('They really should just let her go .', None, None, None, 1)]]
+Leaf:  S span I just do n't know
+Leaf:  N Attribution how they could do this to that poor girl .
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate After everything
+Leaf:  S span she has been through .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I really feel for her .
+Leaf:  N Elaborate I understand
+Leaf:  S span what she might be going through .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Evaluation It is a shame to have this happen after all this time .
+Leaf:  S span I really hope
+Leaf:  N Attribution that someone will be able to help her.I feel really bad
+Inner:  S span None Attribution SN
+Leaf:  N Attribution about what is being done .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I am worried
+Leaf:  N Condition about what might happen
+Leaf:  S span if she does n't get any help .
+Inner:  N Attribution None Condition NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span They really should just let her go .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I just do n't know", None, None, None, 0), ('how they could do this to that poor girl .', None, None, None, 1), ('After everything', None, None, None, 0), ('she has been through .', None, None, None, 1), ('I really feel for her .', None, None, None, 1), ('I understand', None, None, None, 0), ('what she might be going through .', None, None, None, 1), ('It is a shame to have this happen after all this time .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that someone will be able to help her.I feel really bad', None, None, None, 0), ('about what is being done .', None, None, None, 1), ('I am worried', None, None, None, 0), ('about what might happen', None, None, None, 0), ("if she does n't get any help .", None, None, None, 1), ('They really should just let her go .', None, None, None, 1)]

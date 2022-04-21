@@ -1,0 +1,23 @@
+=====================> [[('This article was about a rash of fires in the south , particularly Appalachia .', None, None, None, 1), ('It mentioned dry conditions', None, None, None, 0), ('causing numerous fires', None, None, None, 0), ('and contributing to pollution', None, None, None, 0), ('that made the air dangerous and unpleasant to breathe .', None, None, None, 1), ('It also said', None, None, None, 0), ('that some of the fires were probably caused by arson ,', None, None, None, 0), ("but did n't dwell too much on that aspect .", None, None, None, 1), ('The quoted official mentioned', None, None, None, 0), ('that dry conditions meant more fires could easily be accidentally started', None, None, None, 0), ('and that was a danger .', None, None, None, 1)]]
+Leaf:  N Elaborate This article was about a rash of fires in the south , particularly Appalachia .
+Leaf:  N Elaborate It mentioned dry conditions
+Leaf:  N Joint causing numerous fires
+Leaf:  N Elaborate and contributing to pollution
+Leaf:  S span that made the air dangerous and unpleasant to breathe .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It also said
+Leaf:  N Attribution that some of the fires were probably caused by arson ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but did n't dwell too much on that aspect .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The quoted official mentioned
+Leaf:  N Evaluation that dry conditions meant more fires could easily be accidentally started
+Leaf:  S span and that was a danger .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This article was about a rash of fires in the south , particularly Appalachia .', None, None, None, 1), ('It mentioned dry conditions', None, None, None, 0), ('causing numerous fires', None, None, None, 0), ('and contributing to pollution', None, None, None, 0), ('that made the air dangerous and unpleasant to breathe .', None, None, None, 1), ('It also said', None, None, None, 0), ('that some of the fires were probably caused by arson ,', None, None, None, 0), ("but did n't dwell too much on that aspect .", None, None, None, 1), ('The quoted official mentioned', None, None, None, 0), ('that dry conditions meant more fires could easily be accidentally started', None, None, None, 0), ('and that was a danger .', None, None, None, 1)]

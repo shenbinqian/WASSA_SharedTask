@@ -1,0 +1,25 @@
+=====================> [[('I just read a very sad article about a man', None, None, None, 0), ('who recently lose his family from a car accident .', None, None, None, 1), ('The car was hit by someone', None, None, None, 0), ('who lost control', None, None, None, 0), ('while speeding', None, None, None, 0), ('and slammed into the car with the family ,', None, None, None, 0), ('causing all of them to die .', None, None, None, 1), ('The person speeding , along with his family were also killed .', None, None, None, 1), ("It 's so sad and troubling", None, None, None, 0), ('knowing', None, None, None, 0), ('that someone has to go through such tragedies in life due to other peoples careless mistakes .', None, None, None, 1), ('May God rest their poor souls .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a very sad article about a man
+Leaf:  S span who recently lose his family from a car accident .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The car was hit by someone
+Leaf:  S span who lost control
+Inner:  N Background None Elaborate NS
+Leaf:  S span while speeding
+Inner:  N Cause None Background NS
+Leaf:  N Cause and slammed into the car with the family ,
+Leaf:  S span causing all of them to die .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span The person speeding , along with his family were also killed .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background It 's so sad and troubling
+Leaf:  S span knowing
+Leaf:  N Attribution that someone has to go through such tragedies in life due to other peoples careless mistakes .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span May God rest their poor souls .
+Inner:  Root None None Evaluation NS
+[('I just read a very sad article about a man', None, None, None, 0), ('who recently lose his family from a car accident .', None, None, None, 1), ('The car was hit by someone', None, None, None, 0), ('who lost control', None, None, None, 0), ('while speeding', None, None, None, 0), ('and slammed into the car with the family ,', None, None, None, 0), ('causing all of them to die .', None, None, None, 1), ('The person speeding , along with his family were also killed .', None, None, None, 1), ("It 's so sad and troubling", None, None, None, 0), ('knowing', None, None, None, 0), ('that someone has to go through such tragedies in life due to other peoples careless mistakes .', None, None, None, 1), ('May God rest their poor souls .', None, None, None, 1)]

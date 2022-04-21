@@ -1,0 +1,21 @@
+=====================> [[('There was a bad misunderstanding', None, None, None, 0), ('that lead to the deaths of 3 people in Jordan recently .', None, None, None, 1), ('They had been on high alert', None, None, None, 0), ('because of the ISIS attacks', None, None, None, 0), ('and', None, None, None, 0), ('when 3 Americans went close to the border', None, None, None, 0), ('they were shot and killed .', None, None, None, 1), ('It is sad to see this happen to people', None, None, None, 0), ('when they were just trying to do their job', None, None, None, 0), ('it is very depressing .', None, None, None, 1)]]
+Leaf:  N Elaborate There was a bad misunderstanding
+Leaf:  S span that lead to the deaths of 3 people in Jordan recently .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause They had been on high alert
+Leaf:  S span because of the ISIS attacks
+Inner:  N Temporal None Cause NS
+Leaf:  N Same-Unit and
+Leaf:  S span when 3 Americans went close to the border
+Leaf:  N Background they were shot and killed .
+Inner:  N Same-Unit None Background SN
+Inner:  N Temporal None Same-Unit NN
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal It is sad to see this happen to people
+Leaf:  S span when they were just trying to do their job
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span it is very depressing .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('There was a bad misunderstanding', None, None, None, 0), ('that lead to the deaths of 3 people in Jordan recently .', None, None, None, 1), ('They had been on high alert', None, None, None, 0), ('because of the ISIS attacks', None, None, None, 0), ('and', None, None, None, 0), ('when 3 Americans went close to the border', None, None, None, 0), ('they were shot and killed .', None, None, None, 1), ('It is sad to see this happen to people', None, None, None, 0), ('when they were just trying to do their job', None, None, None, 0), ('it is very depressing .', None, None, None, 1)]

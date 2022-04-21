@@ -1,0 +1,33 @@
+=====================> [[('Those of you', None, None, None, 0), ('who smoke', None, None, None, 0), ('should quit .', None, None, None, 1), ('Once we quit ,', None, None, None, 0), ("we 're often surprised at the changes in attitude", None, None, None, 0), ('we experience', None, None, None, 0), ('regarding smoking ,', None, None, None, 0), ('and life in general .', None, None, None, 1), ('When we quit and win our freedom from addiction ,', None, None, None, 0), ('our mindset changes .', None, None, None, 1), ("After I quit I came to realize how much I really do n't like it !", None, None, None, 1), ('I think I care more about myself now :', None, None, None, 0), ('My health ,', None, None, None, 0), ('I stand up for myself when appropriate ,', None, None, None, 0), ('I feel like there are more possibilities out there now', None, None, None, 0), ('without my smoking monkey on my back .', None, None, None, 1)]]
+Leaf:  N Elaborate Those of you
+Leaf:  S span who smoke
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should quit .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Once we quit ,
+Leaf:  N Elaborate we 're often surprised at the changes in attitude
+Leaf:  N Elaborate we experience
+Leaf:  S span regarding smoking ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and life in general .
+Inner:  S span None Same-Unit NN
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span When we quit and win our freedom from addiction ,
+Leaf:  N Background our mindset changes .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation After I quit I came to realize how much I really do n't like it !
+Leaf:  N Elaborate I think I care more about myself now :
+Leaf:  N Joint My health ,
+Leaf:  N Joint I stand up for myself when appropriate ,
+Leaf:  N Background I feel like there are more possibilities out there now
+Leaf:  S span without my smoking monkey on my back .
+Inner:  N Joint None Background NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Those of you', None, None, None, 0), ('who smoke', None, None, None, 0), ('should quit .', None, None, None, 1), ('Once we quit ,', None, None, None, 0), ("we 're often surprised at the changes in attitude", None, None, None, 0), ('we experience', None, None, None, 0), ('regarding smoking ,', None, None, None, 0), ('and life in general .', None, None, None, 1), ('When we quit and win our freedom from addiction ,', None, None, None, 0), ('our mindset changes .', None, None, None, 1), ("After I quit I came to realize how much I really do n't like it !", None, None, None, 1), ('I think I care more about myself now :', None, None, None, 0), ('My health ,', None, None, None, 0), ('I stand up for myself when appropriate ,', None, None, None, 0), ('I feel like there are more possibilities out there now', None, None, None, 0), ('without my smoking monkey on my back .', None, None, None, 1)]

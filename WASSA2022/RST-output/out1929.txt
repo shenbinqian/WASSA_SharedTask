@@ -1,0 +1,19 @@
+=====================> [[('Cant the world just stop all wars', None, None, None, 0), ('and live in peace and unity ?', None, None, None, 1), ('Must we always prove to the lower animals', None, None, None, 0), ('that we are more heartless than every other creation ?', None, None, None, 1), ('The world is supposed to live in peace and love ,', None, None, None, 0), ('not launching missile against one', None, None, None, 0), ('another.There should be combined effort', None, None, None, 0), ('to end wars', None, None, None, 0), ('and ensure peace reign .', None, None, None, 1)]]
+Leaf:  N Joint Cant the world just stop all wars
+Leaf:  N Joint and live in peace and unity ?
+Inner:  N Joint None Joint NN
+Leaf:  S span Must we always prove to the lower animals
+Leaf:  N Attribution that we are more heartless than every other creation ?
+Inner:  N Joint None Attribution SN
+Inner:  N Explanation None Joint NN
+Leaf:  N Contrast The world is supposed to live in peace and love ,
+Leaf:  N Same-Unit not launching missile against one
+Leaf:  N Same-Unit another.There should be combined effort
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint to end wars
+Leaf:  N Joint and ensure peace reign .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Explanation NS
+[('Cant the world just stop all wars', None, None, None, 0), ('and live in peace and unity ?', None, None, None, 1), ('Must we always prove to the lower animals', None, None, None, 0), ('that we are more heartless than every other creation ?', None, None, None, 1), ('The world is supposed to live in peace and love ,', None, None, None, 0), ('not launching missile against one', None, None, None, 0), ('another.There should be combined effort', None, None, None, 0), ('to end wars', None, None, None, 0), ('and ensure peace reign .', None, None, None, 1)]

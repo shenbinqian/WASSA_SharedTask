@@ -1,0 +1,25 @@
+=====================> [[('The first article never appeared ,', None, None, None, 0), ('there was only a generic place holders', None, None, None, 0), ('and nothing to write about .', None, None, None, 1), ('I answered questions about my emotions', None, None, None, 0), ('based on how I feel right now', None, None, None, 0), ("and I 'm writing this", None, None, None, 0), ('to explain', None, None, None, 0), ("that the article was n't there .", None, None, None, 1), ('I hope', None, None, None, 0), ('that the following articles will appear', None, None, None, 0), ("and I 'll be able to finish this survey", None, None, None, 0), ('as intended .', None, None, None, 1)]]
+Leaf:  N Joint The first article never appeared ,
+Leaf:  N Joint there was only a generic place holders
+Leaf:  N Joint and nothing to write about .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate I answered questions about my emotions
+Leaf:  S span based on how I feel right now
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Enablement and I 'm writing this
+Leaf:  S span to explain
+Leaf:  N Attribution that the article was n't there .
+Inner:  S span None Attribution SN
+Inner:  N Temporal None Enablement NS
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Joint that the following articles will appear
+Leaf:  N Manner-Means and I 'll be able to finish this survey
+Leaf:  S span as intended .
+Inner:  N Joint None Manner-Means NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('The first article never appeared ,', None, None, None, 0), ('there was only a generic place holders', None, None, None, 0), ('and nothing to write about .', None, None, None, 1), ('I answered questions about my emotions', None, None, None, 0), ('based on how I feel right now', None, None, None, 0), ("and I 'm writing this", None, None, None, 0), ('to explain', None, None, None, 0), ("that the article was n't there .", None, None, None, 1), ('I hope', None, None, None, 0), ('that the following articles will appear', None, None, None, 0), ("and I 'll be able to finish this survey", None, None, None, 0), ('as intended .', None, None, None, 1)]

@@ -1,0 +1,49 @@
+=====================> [[('A lot of us not just veterans are losing sleep .', None, None, None, 1), ('I believe', None, None, None, 0), ('its because of deppression .', None, None, None, 1), ("We are n't happy", None, None, None, 0), ('and its because of money .', None, None, None, 1), ('Humans are always working', None, None, None, 0), ('they have no life .', None, None, None, 1), ("Work is not life . Some people do n't get to spend time with there kids or family .", None, None, None, 1), ('They cant even have time for themselves .', None, None, None, 1), ('There worried about work , what time', None, None, None, 0), ('they have to get up ,', None, None, None, 0), ('or what they will eat', None, None, None, 0), ("because they do n't have time", None, None, None, 0), ('to cook .', None, None, None, 1), ('So we eat unhealthy thing', None, None, None, 0), ('that can lead to depression . Not getting enough sleep or the right nutrients lead to sicknesses .', None, None, None, 1), ("Theres people who do n't have enough time", None, None, None, 0), ('to see a doctor .', None, None, None, 1), ('Our lifestyle is the reason', None, None, None, 0), ("we 're not getting enough sleep .", None, None, None, 1), ('People put way to much on there plate', None, None, None, 0), ('just so', None, None, None, 0), ('they can have money .', None, None, None, 1), ('Everything is about money .', None, None, None, 1)]]
+Leaf:  N Explanation A lot of us not just veterans are losing sleep .
+Leaf:  S span I believe
+Leaf:  N Attribution its because of deppression .
+Inner:  N Summary None Attribution SN
+Leaf:  N Cause We are n't happy
+Leaf:  S span and its because of money .
+Inner:  S span None Cause NS
+Inner:  N Explanation None Summary NS
+Leaf:  S span Humans are always working
+Leaf:  N Background they have no life .
+Inner:  N Summary None Background SN
+Leaf:  N Summary Work is not life . Some people do n't get to spend time with there kids or family .
+Leaf:  S span They cant even have time for themselves .
+Inner:  S span None Summary NS
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate There worried about work , what time
+Leaf:  S span they have to get up ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause or what they will eat
+Leaf:  N Elaborate because they do n't have time
+Leaf:  S span to cook .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate So we eat unhealthy thing
+Leaf:  S span that can lead to depression . Not getting enough sleep or the right nutrients lead to sicknesses .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement Theres people who do n't have enough time
+Leaf:  S span to see a doctor .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Cause Our lifestyle is the reason
+Leaf:  N Cause we 're not getting enough sleep .
+Inner:  N Explanation None Cause NN
+Leaf:  N Enablement People put way to much on there plate
+Leaf:  N Enablement just so
+Leaf:  S span they can have money .
+Inner:  S span None Enablement NS
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Everything is about money .
+Inner:  Root None None Evaluation NS
+[('A lot of us not just veterans are losing sleep .', None, None, None, 1), ('I believe', None, None, None, 0), ('its because of deppression .', None, None, None, 1), ("We are n't happy", None, None, None, 0), ('and its because of money .', None, None, None, 1), ('Humans are always working', None, None, None, 0), ('they have no life .', None, None, None, 1), ("Work is not life . Some people do n't get to spend time with there kids or family .", None, None, None, 1), ('They cant even have time for themselves .', None, None, None, 1), ('There worried about work , what time', None, None, None, 0), ('they have to get up ,', None, None, None, 0), ('or what they will eat', None, None, None, 0), ("because they do n't have time", None, None, None, 0), ('to cook .', None, None, None, 1), ('So we eat unhealthy thing', None, None, None, 0), ('that can lead to depression . Not getting enough sleep or the right nutrients lead to sicknesses .', None, None, None, 1), ("Theres people who do n't have enough time", None, None, None, 0), ('to see a doctor .', None, None, None, 1), ('Our lifestyle is the reason', None, None, None, 0), ("we 're not getting enough sleep .", None, None, None, 1), ('People put way to much on there plate', None, None, None, 0), ('just so', None, None, None, 0), ('they can have money .', None, None, None, 1), ('Everything is about money .', None, None, None, 1)]

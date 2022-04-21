@@ -1,0 +1,25 @@
+=====================> [[('Of course Donald Trump would try to downplay the state of the African American community .', None, None, None, 1), ('It is sad and disturbing that murder rates have risen so much , over 10 percent in one year .', None, None, None, 1), ('And most of the victims are african american men .', None, None, None, 1), ('This is a criss .', None, None, None, 1), ('Leave it to Donald', None, None, None, 0), ('to try to sweep it under the rug .', None, None, None, 1), ('Moreover , violent crime has increased by over 2 % .', None, None, None, 1), ('Even though this is considered a low increase ,', None, None, None, 0), ("why are n't we focusing on having a DECREASE", None, None, None, 0), ('instead of just accepting a lower increase ?', None, None, None, 1), ('Also , that bus crash sounds so scary ,', None, None, None, 0), ("I 'm glad no one was seriously injured .", None, None, None, 1)]]
+Leaf:  N Explanation Of course Donald Trump would try to downplay the state of the African American community .
+Leaf:  N Elaborate It is sad and disturbing that murder rates have risen so much , over 10 percent in one year .
+Leaf:  S span And most of the victims are african american men .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is a criss .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Elaborate Leave it to Donald
+Leaf:  S span to try to sweep it under the rug .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Joint None Topic-Comment NN
+Leaf:  N Elaborate Moreover , violent crime has increased by over 2 % .
+Leaf:  S span Even though this is considered a low increase ,
+Leaf:  N Contrast why are n't we focusing on having a DECREASE
+Leaf:  S span instead of just accepting a lower increase ?
+Inner:  N Contrast None Contrast NS
+Inner:  S span None Contrast SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Evaluation Also , that bus crash sounds so scary ,
+Leaf:  S span I 'm glad no one was seriously injured .
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Inner:  Root None None Joint NN
+[('Of course Donald Trump would try to downplay the state of the African American community .', None, None, None, 1), ('It is sad and disturbing that murder rates have risen so much , over 10 percent in one year .', None, None, None, 1), ('And most of the victims are african american men .', None, None, None, 1), ('This is a criss .', None, None, None, 1), ('Leave it to Donald', None, None, None, 0), ('to try to sweep it under the rug .', None, None, None, 1), ('Moreover , violent crime has increased by over 2 % .', None, None, None, 1), ('Even though this is considered a low increase ,', None, None, None, 0), ("why are n't we focusing on having a DECREASE", None, None, None, 0), ('instead of just accepting a lower increase ?', None, None, None, 1), ('Also , that bus crash sounds so scary ,', None, None, None, 0), ("I 'm glad no one was seriously injured .", None, None, None, 1)]

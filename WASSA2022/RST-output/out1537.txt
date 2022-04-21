@@ -1,0 +1,19 @@
+=====================> [[('Did you hear about this sexual harassment scandal', None, None, None, 0), ('involving the National Parks Service ?', None, None, None, 1), ('I guess', None, None, None, 0), ('there really is no industry', None, None, None, 0), ('that is immune to this misbehavior .', None, None, None, 1), ('Incidents have been documenting', None, None, None, 0), ('going back decades', None, None, None, 0), ('but nothing was done about it .', None, None, None, 1), ("It 's really outrageous what people in power can get away with .", None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about this sexual harassment scandal
+Leaf:  S span involving the National Parks Service ?
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Elaborate there really is no industry
+Leaf:  S span that is immune to this misbehavior .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Incidents have been documenting
+Leaf:  S span going back decades
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but nothing was done about it .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's really outrageous what people in power can get away with .
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('Did you hear about this sexual harassment scandal', None, None, None, 0), ('involving the National Parks Service ?', None, None, None, 1), ('I guess', None, None, None, 0), ('there really is no industry', None, None, None, 0), ('that is immune to this misbehavior .', None, None, None, 1), ('Incidents have been documenting', None, None, None, 0), ('going back decades', None, None, None, 0), ('but nothing was done about it .', None, None, None, 1), ("It 's really outrageous what people in power can get away with .", None, None, None, 1)]

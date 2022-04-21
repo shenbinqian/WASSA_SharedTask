@@ -1,0 +1,17 @@
+=====================> [[('This is just more of the western world', None, None, None, 0), ('becoming cold and inhospitable .', None, None, None, 1), ('Britain and France are both implicated in the troubles in these countries from their years as colonialists .', None, None, None, 1), ('Turning their back on these people is a mark of shame for them .', None, None, None, 1), ("It 's despicable to let these people live in squalor", None, None, None, 0), ('and then to call it a jungle ,', None, None, None, 0), ("as if this is ' wild ' is kind of sick .", None, None, None, 1), ('The wild would have more respect and be more amenable to these people .', None, None, None, 1)]]
+Leaf:  N Elaborate This is just more of the western world
+Leaf:  S span becoming cold and inhospitable .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Britain and France are both implicated in the troubles in these countries from their years as colonialists .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Evaluation Turning their back on these people is a mark of shame for them .
+Leaf:  N Temporal It 's despicable to let these people live in squalor
+Leaf:  N Temporal and then to call it a jungle ,
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span as if this is ' wild ' is kind of sick .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The wild would have more respect and be more amenable to these people .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This is just more of the western world', None, None, None, 0), ('becoming cold and inhospitable .', None, None, None, 1), ('Britain and France are both implicated in the troubles in these countries from their years as colonialists .', None, None, None, 1), ('Turning their back on these people is a mark of shame for them .', None, None, None, 1), ("It 's despicable to let these people live in squalor", None, None, None, 0), ('and then to call it a jungle ,', None, None, None, 0), ("as if this is ' wild ' is kind of sick .", None, None, None, 1), ('The wild would have more respect and be more amenable to these people .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Hey , did you read this article ?', None, None, None, 1), ('I feel really bad for all who are dealing with these extreme weather crisis .', None, None, None, 1), ('Fires , floods , extreme heat is all getting out of hand', None, None, None, 0), ('and I am praying for everyone', None, None, None, 0), ('who has bee', None, None, None, 0), ('and will be harmed .', None, None, None, 1), ('I pray for a solution .', None, None, None, 1), ('There has to be something', None, None, None, 0), ('that can be done about this , right ?', None, None, None, 1)]]
+Leaf:  N Summary Hey , did you read this article ?
+Leaf:  N Elaborate I feel really bad for all who are dealing with these extreme weather crisis .
+Leaf:  S span Fires , floods , extreme heat is all getting out of hand
+Leaf:  N Elaborate and I am praying for everyone
+Leaf:  N Joint who has bee
+Leaf:  N Joint and will be harmed .
+Inner:  S span None Joint NN
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate I pray for a solution .
+Leaf:  N Elaborate There has to be something
+Leaf:  S span that can be done about this , right ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Hey , did you read this article ?', None, None, None, 1), ('I feel really bad for all who are dealing with these extreme weather crisis .', None, None, None, 1), ('Fires , floods , extreme heat is all getting out of hand', None, None, None, 0), ('and I am praying for everyone', None, None, None, 0), ('who has bee', None, None, None, 0), ('and will be harmed .', None, None, None, 1), ('I pray for a solution .', None, None, None, 1), ('There has to be something', None, None, None, 0), ('that can be done about this , right ?', None, None, None, 1)]

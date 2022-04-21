@@ -1,0 +1,35 @@
+=====================> [[('A guy', None, None, None, 0), ('named Collins was charged with stealing nude celebrity photos and videos .', None, None, None, 1), ('While his behavior is clearly unacceptable ,', None, None, None, 0), ('one thing', None, None, None, 0), ('to note', None, None, None, 0), ('is the article is calling this a hack .', None, None, None, 1), ('Hacking and nothing is safe , not you , not yours , not your loved ones , is kind of a way', None, None, None, 0), ('to make people afraid', None, None, None, 0), ('and keep reading . In reality , this guy just kinda sent an email to these celebrities', None, None, None, 0), ('and said', None, None, None, 0), ('hey i need your password', None, None, None, 0), ('this is google from google ,', None, None, None, 0), ('hurry its an emergency', None, None, None, 0), ('and they fell for it .', None, None, None, 1), ("I feel bad for them , we 've all been tricked at least once in our lives by something on the internet ,", None, None, None, 0), ("but it is n't like this guy cracked the security of google", None, None, None, 0), ("and we 're all doomed .", None, None, None, 1)]]
+Leaf:  N Elaborate A guy
+Leaf:  S span named Collins was charged with stealing nude celebrity photos and videos .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span While his behavior is clearly unacceptable ,
+Leaf:  N Elaborate one thing
+Leaf:  S span to note
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is the article is calling this a hack .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate Hacking and nothing is safe , not you , not yours , not your loved ones , is kind of a way
+Leaf:  N Joint to make people afraid
+Leaf:  N Joint and keep reading . In reality , this guy just kinda sent an email to these celebrities
+Inner:  N Joint None Joint NN
+Leaf:  S span and said
+Leaf:  N Attribution hey i need your password
+Inner:  N Joint None Attribution SN
+Leaf:  N Evaluation this is google from google ,
+Leaf:  N Evaluation hurry its an emergency
+Inner:  N Joint None Evaluation NN
+Inner:  N Cause None Joint NN
+Leaf:  S span and they fell for it .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Contrast I feel bad for them , we 've all been tricked at least once in our lives by something on the internet ,
+Leaf:  S span but it is n't like this guy cracked the security of google
+Leaf:  N Cause and we 're all doomed .
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('A guy', None, None, None, 0), ('named Collins was charged with stealing nude celebrity photos and videos .', None, None, None, 1), ('While his behavior is clearly unacceptable ,', None, None, None, 0), ('one thing', None, None, None, 0), ('to note', None, None, None, 0), ('is the article is calling this a hack .', None, None, None, 1), ('Hacking and nothing is safe , not you , not yours , not your loved ones , is kind of a way', None, None, None, 0), ('to make people afraid', None, None, None, 0), ('and keep reading . In reality , this guy just kinda sent an email to these celebrities', None, None, None, 0), ('and said', None, None, None, 0), ('hey i need your password', None, None, None, 0), ('this is google from google ,', None, None, None, 0), ('hurry its an emergency', None, None, None, 0), ('and they fell for it .', None, None, None, 1), ("I feel bad for them , we 've all been tricked at least once in our lives by something on the internet ,", None, None, None, 0), ("but it is n't like this guy cracked the security of google", None, None, None, 0), ("and we 're all doomed .", None, None, None, 1)]

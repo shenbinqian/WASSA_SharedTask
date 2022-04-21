@@ -1,0 +1,15 @@
+=====================> [[('It seems like Paris is getting to be a very dangerous place .', None, None, None, 1), ('I know', None, None, None, 0), ('who Kardashian is ,', None, None, None, 0), ('but I have never heard of this Sherawat .', None, None, None, 1), ('It sounds like she is par for the course in Hollywood , just another Obama and Hillary supporter .', None, None, None, 1), ('But still , its terrible to be tear gassed and beaten ,', None, None, None, 0), ('and I feel sorry for her .', None, None, None, 1)]]
+Leaf:  N Elaborate It seems like Paris is getting to be a very dangerous place .
+Leaf:  S span I know
+Leaf:  N Attribution who Kardashian is ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but I have never heard of this Sherawat .
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span It sounds like she is par for the course in Hollywood , just another Obama and Hillary supporter .
+Leaf:  N Evaluation But still , its terrible to be tear gassed and beaten ,
+Leaf:  S span and I feel sorry for her .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It seems like Paris is getting to be a very dangerous place .', None, None, None, 1), ('I know', None, None, None, 0), ('who Kardashian is ,', None, None, None, 0), ('but I have never heard of this Sherawat .', None, None, None, 1), ('It sounds like she is par for the course in Hollywood , just another Obama and Hillary supporter .', None, None, None, 1), ('But still , its terrible to be tear gassed and beaten ,', None, None, None, 0), ('and I feel sorry for her .', None, None, None, 1)]

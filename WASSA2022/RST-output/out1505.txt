@@ -1,0 +1,23 @@
+=====================> [[('rember', None, None, None, 0), ('when Kim Kardashian was attacked in Paris ?', None, None, None, 1), ('I just read another famous person , Mallika Sherawat was tear gassed', None, None, None, 0), ('and beaten :(', None, None, None, 0), ('It is so sad', None, None, None, 0), ('you can not feel safe anywhere !', None, None, None, 1), ('I am glad she is outspoken', None, None, None, 0), ('and is bringing awareness to this whole ordeal .', None, None, None, 1), ('I feel so bad for all these people', None, None, None, 0), ('just minding their own business', None, None, None, 0), ('and being attacked .', None, None, None, 1)]]
+Leaf:  N Background rember
+Leaf:  S span when Kim Kardashian was attacked in Paris ?
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint I just read another famous person , Mallika Sherawat was tear gassed
+Leaf:  N Joint and beaten :(
+Inner:  N Evaluation None Joint NN
+Leaf:  N Cause It is so sad
+Leaf:  S span you can not feel safe anywhere !
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I am glad she is outspoken
+Leaf:  N Joint and is bringing awareness to this whole ordeal .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I feel so bad for all these people
+Leaf:  N Temporal just minding their own business
+Leaf:  N Temporal and being attacked .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('rember', None, None, None, 0), ('when Kim Kardashian was attacked in Paris ?', None, None, None, 1), ('I just read another famous person , Mallika Sherawat was tear gassed', None, None, None, 0), ('and beaten :(', None, None, None, 0), ('It is so sad', None, None, None, 0), ('you can not feel safe anywhere !', None, None, None, 1), ('I am glad she is outspoken', None, None, None, 0), ('and is bringing awareness to this whole ordeal .', None, None, None, 1), ('I feel so bad for all these people', None, None, None, 0), ('just minding their own business', None, None, None, 0), ('and being attacked .', None, None, None, 1)]

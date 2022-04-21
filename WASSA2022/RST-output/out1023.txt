@@ -1,0 +1,23 @@
+=====================> [[("It 's a little bit troubling", None, None, None, 0), ('that these teachers would be forced to leave', None, None, None, 0), ('because of political tension .', None, None, None, 1), ("It 's not right", None, None, None, 0), ('that they would lose their jobs and their homes .', None, None, None, 1), ('There should be another way', None, None, None, 0), ('to resolve this issue .', None, None, None, 1), ("It 's good that people are protesting this", None, None, None, 0), ('and they should be .', None, None, None, 1), ('Teachers play such a huge role', None, None, None, 0), ('and it will not be good for the students to be in the middle of this .', None, None, None, 1)]]
+Leaf:  S span It 's a little bit troubling
+Leaf:  N Cause that these teachers would be forced to leave
+Leaf:  S span because of political tension .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It 's not right
+Leaf:  S span that they would lose their jobs and their homes .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate There should be another way
+Leaf:  S span to resolve this issue .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It 's good that people are protesting this
+Leaf:  S span and they should be .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Teachers play such a huge role
+Leaf:  N Joint and it will not be good for the students to be in the middle of this .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("It 's a little bit troubling", None, None, None, 0), ('that these teachers would be forced to leave', None, None, None, 0), ('because of political tension .', None, None, None, 1), ("It 's not right", None, None, None, 0), ('that they would lose their jobs and their homes .', None, None, None, 1), ('There should be another way', None, None, None, 0), ('to resolve this issue .', None, None, None, 1), ("It 's good that people are protesting this", None, None, None, 0), ('and they should be .', None, None, None, 1), ('Teachers play such a huge role', None, None, None, 0), ('and it will not be good for the students to be in the middle of this .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[("I feel bad for these sisters ' family .", None, None, None, 1), ('Until we find out more from the autopsy report', None, None, None, 0), ('though ,', None, None, None, 0), ("we probably should n't jump to conclusions .", None, None, None, 1), ("I do n't know much", None, None, None, 0), ('about what could cause pulmonary edema ,', None, None, None, 0), ('but maybe it was due to something', None, None, None, 0), ('they both ate ,', None, None, None, 0), ('or an infection', None, None, None, 0), ('that they both came down with , or something unrelated to foul play .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel bad for these sisters ' family .
+Leaf:  N Attribution Until we find out more from the autopsy report
+Leaf:  S span though ,
+Inner:  S span None Attribution NS
+Leaf:  N Condition we probably should n't jump to conclusions .
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I do n't know much
+Leaf:  N Topic-Comment about what could cause pulmonary edema ,
+Leaf:  N Elaborate but maybe it was due to something
+Leaf:  S span they both ate ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate or an infection
+Leaf:  S span that they both came down with , or something unrelated to foul play .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Topic-Comment None Same-Unit NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I feel bad for these sisters ' family .", None, None, None, 1), ('Until we find out more from the autopsy report', None, None, None, 0), ('though ,', None, None, None, 0), ("we probably should n't jump to conclusions .", None, None, None, 1), ("I do n't know much", None, None, None, 0), ('about what could cause pulmonary edema ,', None, None, None, 0), ('but maybe it was due to something', None, None, None, 0), ('they both ate ,', None, None, None, 0), ('or an infection', None, None, None, 0), ('that they both came down with , or something unrelated to foul play .', None, None, None, 1)]

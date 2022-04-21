@@ -1,0 +1,21 @@
+=====================> [[('Reading the article ,', None, None, None, 0), ('I was disgusted', None, None, None, 0), ('knowing', None, None, None, 0), ('that a father had not only killed himself', None, None, None, 0), ('but took away the lives of his two sons as well .', None, None, None, 1), ('The only reason', None, None, None, 0), ('why that man even killed himself', None, None, None, 0), ('was that the police saw him', None, None, None, 0), ('killing his two children .', None, None, None, 1), ("People in this world today should n't lose their lives due to a crazy/selfish elder .", None, None, None, 1)]]
+Leaf:  S span Reading the article ,
+Leaf:  N Temporal I was disgusted
+Inner:  N Manner-Means None Temporal SN
+Leaf:  S span knowing
+Leaf:  N Joint that a father had not only killed himself
+Leaf:  N Joint but took away the lives of his two sons as well .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Explanation The only reason
+Leaf:  S span why that man even killed himself
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Elaborate was that the police saw him
+Leaf:  S span killing his two children .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span People in this world today should n't lose their lives due to a crazy/selfish elder .
+Inner:  Root None None Evaluation NS
+[('Reading the article ,', None, None, None, 0), ('I was disgusted', None, None, None, 0), ('knowing', None, None, None, 0), ('that a father had not only killed himself', None, None, None, 0), ('but took away the lives of his two sons as well .', None, None, None, 1), ('The only reason', None, None, None, 0), ('why that man even killed himself', None, None, None, 0), ('was that the police saw him', None, None, None, 0), ('killing his two children .', None, None, None, 1), ("People in this world today should n't lose their lives due to a crazy/selfish elder .", None, None, None, 1)]

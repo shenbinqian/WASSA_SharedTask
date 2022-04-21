@@ -1,0 +1,21 @@
+=====================> [[('I have never heard of any of the people', None, None, None, 0), ('mentioned in this article .', None, None, None, 1), ('I did not even know', None, None, None, 0), ('that there is a monarchy in Thailand .', None, None, None, 1), ('It sounds like the king', None, None, None, 0), ('that died recently', None, None, None, 0), ('was very well liked by the Thai people .', None, None, None, 1), ('Anyway , I hope', None, None, None, 0), ('that this lady heals quickly from her illness', None, None, None, 0), ('and that she has a prompt recovery .', None, None, None, 1)]]
+Leaf:  N Elaborate I have never heard of any of the people
+Leaf:  S span mentioned in this article .
+Inner:  N Joint None Elaborate NS
+Leaf:  S span I did not even know
+Leaf:  N Attribution that there is a monarchy in Thailand .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It sounds like the king
+Leaf:  S span that died recently
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was very well liked by the Thai people .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Anyway , I hope
+Leaf:  N Joint that this lady heals quickly from her illness
+Leaf:  N Joint and that she has a prompt recovery .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I have never heard of any of the people', None, None, None, 0), ('mentioned in this article .', None, None, None, 1), ('I did not even know', None, None, None, 0), ('that there is a monarchy in Thailand .', None, None, None, 1), ('It sounds like the king', None, None, None, 0), ('that died recently', None, None, None, 0), ('was very well liked by the Thai people .', None, None, None, 1), ('Anyway , I hope', None, None, None, 0), ('that this lady heals quickly from her illness', None, None, None, 0), ('and that she has a prompt recovery .', None, None, None, 1)]

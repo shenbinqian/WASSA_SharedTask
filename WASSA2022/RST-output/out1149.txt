@@ -1,0 +1,27 @@
+=====================> [[('This article was quite interesting to me .', None, None, None, 1), ('It talked about the invention of a new male contraceptive .', None, None, None, 1), ('It talks about the potential side effects', None, None, None, 0), ('that steer men away', None, None, None, 0), ('from using the contraceptive .', None, None, None, 1), ('The writer of the article mocks men for avoiding these contraceptives', None, None, None, 0), ('when female contraceptives have way more side effects to them .', None, None, None, 1), ('I personally disagree with the writer - if male contraceptives were invented before female contraceptives ,', None, None, None, 0), ('I believe', None, None, None, 0), ('that males would have no problem', None, None, None, 0), ('using them', None, None, None, 0), ('despite the side effects .', None, None, None, 1), ('What are your thoughts ?', None, None, None, 1)]]
+Leaf:  N Elaborate This article was quite interesting to me .
+Leaf:  N Joint It talked about the invention of a new male contraceptive .
+Leaf:  N Elaborate It talks about the potential side effects
+Leaf:  N Elaborate that steer men away
+Leaf:  S span from using the contraceptive .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background The writer of the article mocks men for avoiding these contraceptives
+Leaf:  S span when female contraceptives have way more side effects to them .
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I personally disagree with the writer - if male contraceptives were invented before female contraceptives ,
+Leaf:  S span I believe
+Leaf:  N Elaborate that males would have no problem
+Leaf:  S span using them
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span despite the side effects .
+Inner:  N Attribution None Contrast NS
+Inner:  N Condition None Attribution SN
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span What are your thoughts ?
+Inner:  Root None None Evaluation NS
+[('This article was quite interesting to me .', None, None, None, 1), ('It talked about the invention of a new male contraceptive .', None, None, None, 1), ('It talks about the potential side effects', None, None, None, 0), ('that steer men away', None, None, None, 0), ('from using the contraceptive .', None, None, None, 1), ('The writer of the article mocks men for avoiding these contraceptives', None, None, None, 0), ('when female contraceptives have way more side effects to them .', None, None, None, 1), ('I personally disagree with the writer - if male contraceptives were invented before female contraceptives ,', None, None, None, 0), ('I believe', None, None, None, 0), ('that males would have no problem', None, None, None, 0), ('using them', None, None, None, 0), ('despite the side effects .', None, None, None, 1), ('What are your thoughts ?', None, None, None, 1)]

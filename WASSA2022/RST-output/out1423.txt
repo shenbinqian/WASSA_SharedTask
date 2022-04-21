@@ -1,0 +1,33 @@
+=====================> [[("I 'm no parent", None, None, None, 0), ('and I completely believe', None, None, None, 0), ('Donald Trump is a horrible man .', None, None, None, 1), ('With that', None, None, None, 0), ('being said ,', None, None, None, 0), ("I do n't think", None, None, None, 0), ('it is correct to shun your child from having a different belief as you .', None, None, None, 1), ('Children should be able to freely be able to open up a discussion with their parents and analyze their opposing views', None, None, None, 0), ('without worrying', None, None, None, 0), ('if they will receive any type of punishment .', None, None, None, 1), ('I love jokes and pulling pranks ,', None, None, None, 0), ('but to do that to your own child and then to publicly embarrass them ...', None, None, None, 1), ("well that does n't seem funny at all to me .", None, None, None, 1), ('It worries me', None, None, None, 0), ('that the child will from now on tiptoe around certain topics for fear', None, None, None, 0), ('of upsetting their parent .', None, None, None, 1)]]
+Leaf:  N Joint I 'm no parent
+Leaf:  S span and I completely believe
+Leaf:  N Attribution Donald Trump is a horrible man .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate With that
+Leaf:  S span being said ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution it is correct to shun your child from having a different belief as you .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Attribution NS
+Leaf:  N Contrast Children should be able to freely be able to open up a discussion with their parents and analyze their opposing views
+Leaf:  S span without worrying
+Leaf:  N Attribution if they will receive any type of punishment .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Contrast I love jokes and pulling pranks ,
+Leaf:  N Contrast but to do that to your own child and then to publicly embarrass them ...
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span well that does n't seem funny at all to me .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It worries me
+Leaf:  N Elaborate that the child will from now on tiptoe around certain topics for fear
+Leaf:  S span of upsetting their parent .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I 'm no parent", None, None, None, 0), ('and I completely believe', None, None, None, 0), ('Donald Trump is a horrible man .', None, None, None, 1), ('With that', None, None, None, 0), ('being said ,', None, None, None, 0), ("I do n't think", None, None, None, 0), ('it is correct to shun your child from having a different belief as you .', None, None, None, 1), ('Children should be able to freely be able to open up a discussion with their parents and analyze their opposing views', None, None, None, 0), ('without worrying', None, None, None, 0), ('if they will receive any type of punishment .', None, None, None, 1), ('I love jokes and pulling pranks ,', None, None, None, 0), ('but to do that to your own child and then to publicly embarrass them ...', None, None, None, 1), ("well that does n't seem funny at all to me .", None, None, None, 1), ('It worries me', None, None, None, 0), ('that the child will from now on tiptoe around certain topics for fear', None, None, None, 0), ('of upsetting their parent .', None, None, None, 1)]

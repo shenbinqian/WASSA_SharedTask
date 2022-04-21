@@ -1,0 +1,19 @@
+=====================> [[('The coal mines in China should be shut down', None, None, None, 0), ('until every last one of them is inspected', None, None, None, 0), ('and deemed safe for operation .', None, None, None, 1), ('33 miners lost their lives due to incompetence .', None, None, None, 1), ('Those poor families', None, None, None, 0), ('who have to deal with losing a loved one in such a horrible way .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what they must be feeling .', None, None, None, 1), ('This is such a tragedy .', None, None, None, 1)]]
+Leaf:  N Condition The coal mines in China should be shut down
+Leaf:  N Joint until every last one of them is inspected
+Leaf:  N Joint and deemed safe for operation .
+Inner:  S span None Joint NN
+Inner:  N Cause None Condition NS
+Leaf:  S span 33 miners lost their lives due to incompetence .
+Inner:  N Summary None Cause NS
+Leaf:  N Elaborate Those poor families
+Leaf:  S span who have to deal with losing a loved one in such a horrible way .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution what they must be feeling .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is such a tragedy .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('The coal mines in China should be shut down', None, None, None, 0), ('until every last one of them is inspected', None, None, None, 0), ('and deemed safe for operation .', None, None, None, 1), ('33 miners lost their lives due to incompetence .', None, None, None, 1), ('Those poor families', None, None, None, 0), ('who have to deal with losing a loved one in such a horrible way .', None, None, None, 1), ("I ca n't imagine", None, None, None, 0), ('what they must be feeling .', None, None, None, 1), ('This is such a tragedy .', None, None, None, 1)]

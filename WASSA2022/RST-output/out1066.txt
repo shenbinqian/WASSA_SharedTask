@@ -1,0 +1,29 @@
+=====================> [[('I am not sure what to think .', None, None, None, 1), ('I would be happy to be alive .', None, None, None, 1), ('I would like to know', None, None, None, 0), ('if they knew', None, None, None, 0), ('what the sea would be like', None, None, None, 0), ('as the sea is VERY unpredictable', None, None, None, 0), ('and I doubt', None, None, None, 0), ('they wanted to kill themselves too .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's a tragedy", None, None, None, 0), ('and no one is at fault .', None, None, None, 1), ('It is just one of those things', None, None, None, 0), ('that happens .', None, None, None, 1), ('Some things and tragedies are unforeseeable .', None, None, None, 1)]]
+Leaf:  N Evaluation I am not sure what to think .
+Leaf:  N Comparison I would be happy to be alive .
+Leaf:  S span I would like to know
+Leaf:  S span if they knew
+Leaf:  N Attribution what the sea would be like
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint as the sea is VERY unpredictable
+Leaf:  S span and I doubt
+Leaf:  N Attribution they wanted to kill themselves too .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Explanation NS
+Inner:  N Comparison None Attribution SN
+Inner:  S span None Comparison NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Joint it 's a tragedy
+Leaf:  N Joint and no one is at fault .
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate It is just one of those things
+Leaf:  S span that happens .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Some things and tragedies are unforeseeable .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I am not sure what to think .', None, None, None, 1), ('I would be happy to be alive .', None, None, None, 1), ('I would like to know', None, None, None, 0), ('if they knew', None, None, None, 0), ('what the sea would be like', None, None, None, 0), ('as the sea is VERY unpredictable', None, None, None, 0), ('and I doubt', None, None, None, 0), ('they wanted to kill themselves too .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's a tragedy", None, None, None, 0), ('and no one is at fault .', None, None, None, 1), ('It is just one of those things', None, None, None, 0), ('that happens .', None, None, None, 1), ('Some things and tragedies are unforeseeable .', None, None, None, 1)]

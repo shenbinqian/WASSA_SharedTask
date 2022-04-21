@@ -1,0 +1,25 @@
+=====================> [[('So many priests', None, None, None, 0), ('murdered in Mexico in the last 10 years .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('that I would have the courage', None, None, None, 0), ('to protest anything', None, None, None, 0), ('if my land was controlled by drug cartels ,', None, None, None, 0), ('who surely do not care about anyone else other than themselves .', None, None, None, 1), ('It takes courage to be an activist ,', None, None, None, 0), ('but I think', None, None, None, 0), ('I could do more good', None, None, None, 0), ('by staying alive', None, None, None, 0), ('and picking my fights wisely .', None, None, None, 1)]]
+Leaf:  N Elaborate So many priests
+Leaf:  S span murdered in Mexico in the last 10 years .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't know
+Leaf:  N Elaborate that I would have the courage
+Leaf:  N Condition to protest anything
+Leaf:  N Elaborate if my land was controlled by drug cartels ,
+Leaf:  S span who surely do not care about anyone else other than themselves .
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Contrast It takes courage to be an activist ,
+Leaf:  S span but I think
+Leaf:  N Manner-Means I could do more good
+Leaf:  N Joint by staying alive
+Leaf:  N Joint and picking my fights wisely .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Manner-Means NS
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So many priests', None, None, None, 0), ('murdered in Mexico in the last 10 years .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('that I would have the courage', None, None, None, 0), ('to protest anything', None, None, None, 0), ('if my land was controlled by drug cartels ,', None, None, None, 0), ('who surely do not care about anyone else other than themselves .', None, None, None, 1), ('It takes courage to be an activist ,', None, None, None, 0), ('but I think', None, None, None, 0), ('I could do more good', None, None, None, 0), ('by staying alive', None, None, None, 0), ('and picking my fights wisely .', None, None, None, 1)]

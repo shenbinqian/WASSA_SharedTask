@@ -1,0 +1,19 @@
+=====================> [[('India just confirmed its participation in the Paris Climate Accord .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's great that the larger countries of the world are willing to step in", None, None, None, 0), ('and say', None, None, None, 0), ('that things need to change .', None, None, None, 1), ("I also really like that they made the announcement on Gandhi 's birthday .", None, None, None, 1), ('I think', None, None, None, 0), ("that 's a nice and respectful way", None, None, None, 0), ('to honor his legacy .', None, None, None, 1)]]
+Leaf:  N Evaluation India just confirmed its participation in the Paris Climate Accord .
+Leaf:  S span I think
+Leaf:  N Joint it 's great that the larger countries of the world are willing to step in
+Leaf:  S span and say
+Leaf:  N Attribution that things need to change .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Explanation I also really like that they made the announcement on Gandhi 's birthday .
+Leaf:  S span I think
+Leaf:  N Elaborate that 's a nice and respectful way
+Leaf:  S span to honor his legacy .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('India just confirmed its participation in the Paris Climate Accord .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's great that the larger countries of the world are willing to step in", None, None, None, 0), ('and say', None, None, None, 0), ('that things need to change .', None, None, None, 1), ("I also really like that they made the announcement on Gandhi 's birthday .", None, None, None, 1), ('I think', None, None, None, 0), ("that 's a nice and respectful way", None, None, None, 0), ('to honor his legacy .', None, None, None, 1)]

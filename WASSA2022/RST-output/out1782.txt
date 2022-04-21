@@ -1,0 +1,17 @@
+=====================> [[('This sort of story is showing up far too much in the news anymore .', None, None, None, 1), ('It shows a deepening divide of racial tensions in America ,', None, None, None, 0), ('which is something', None, None, None, 0), ('I thought', None, None, None, 0), ('we had finally put behind us .', None, None, None, 1), ('That being said , I mean that the racial tension is coming from BOTH sides , not just one side or the other .', None, None, None, 1), ('BOTH sides need to be held accountable for their actions and the divide', None, None, None, 0), ('they are creating in this country .', None, None, None, 1)]]
+Leaf:  N Elaborate This sort of story is showing up far too much in the news anymore .
+Leaf:  N Elaborate It shows a deepening divide of racial tensions in America ,
+Leaf:  N Attribution which is something
+Leaf:  S span I thought
+Leaf:  N Attribution we had finally put behind us .
+Inner:  S span None Attribution SN
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation That being said , I mean that the racial tension is coming from BOTH sides , not just one side or the other .
+Leaf:  N Elaborate BOTH sides need to be held accountable for their actions and the divide
+Leaf:  S span they are creating in this country .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This sort of story is showing up far too much in the news anymore .', None, None, None, 1), ('It shows a deepening divide of racial tensions in America ,', None, None, None, 0), ('which is something', None, None, None, 0), ('I thought', None, None, None, 0), ('we had finally put behind us .', None, None, None, 1), ('That being said , I mean that the racial tension is coming from BOTH sides , not just one side or the other .', None, None, None, 1), ('BOTH sides need to be held accountable for their actions and the divide', None, None, None, 0), ('they are creating in this country .', None, None, None, 1)]

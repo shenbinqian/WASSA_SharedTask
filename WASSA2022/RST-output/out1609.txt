@@ -1,0 +1,27 @@
+=====================> [[('There are all these people', None, None, None, 0), ('protesting on both sides of this issue', None, None, None, 0), ('but where were many of these people at the voting booths ??', None, None, None, 1), ('If everyone', None, None, None, 0), ('who is so against Trump', None, None, None, 0), ('came out', None, None, None, 0), ('and voted', None, None, None, 0), ("maybe we would n't be in this situation in the first place !!", None, None, None, 1), ('And all the people', None, None, None, 0), ('who voted for third party candidates', None, None, None, 0), ('know', None, None, None, 0), ('that you contributed to this as well', None, None, None, 0), ('because you threw away your vote !', None, None, None, 1)]]
+Leaf:  N Elaborate There are all these people
+Leaf:  S span protesting on both sides of this issue
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but where were many of these people at the voting booths ??
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Elaborate If everyone
+Leaf:  S span who is so against Trump
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint came out
+Leaf:  N Joint and voted
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Leaf:  N Condition maybe we would n't be in this situation in the first place !!
+Inner:  N Joint None Condition SN
+Leaf:  N Elaborate And all the people
+Leaf:  S span who voted for third party candidates
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit know
+Inner:  S span None Same-Unit NN
+Leaf:  N Cause that you contributed to this as well
+Leaf:  S span because you threw away your vote !
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('There are all these people', None, None, None, 0), ('protesting on both sides of this issue', None, None, None, 0), ('but where were many of these people at the voting booths ??', None, None, None, 1), ('If everyone', None, None, None, 0), ('who is so against Trump', None, None, None, 0), ('came out', None, None, None, 0), ('and voted', None, None, None, 0), ("maybe we would n't be in this situation in the first place !!", None, None, None, 1), ('And all the people', None, None, None, 0), ('who voted for third party candidates', None, None, None, 0), ('know', None, None, None, 0), ('that you contributed to this as well', None, None, None, 0), ('because you threw away your vote !', None, None, None, 1)]

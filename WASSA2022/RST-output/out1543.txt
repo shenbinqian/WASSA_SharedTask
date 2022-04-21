@@ -1,0 +1,25 @@
+=====================> [[('We live in a world', None, None, None, 0), ('someone can not only be arrested for their thoughts ,', None, None, None, 0), ('but can be seen as a target for violence from monsters .', None, None, None, 1), ('From the shooter , to the local government , these actions should be condemned on all fronts .', None, None, None, 1), ('The government was wrong to arrest the deceased ,', None, None, None, 0), ('and the murderer was of course wrong for shooting him to death . I am saddened', None, None, None, 0), ('that someone lost his life', None, None, None, 0), ('because of his charge of a charged message .', None, None, None, 1), ('While I do feel glad', None, None, None, 0), ('that apparent justice will be served in this case , this just goes to show you', None, None, None, 0), ('how violent some people can become', None, None, None, 0), ('when you toss religious ideals into the mix .', None, None, None, 1)]]
+Leaf:  N Elaborate We live in a world
+Leaf:  N Joint someone can not only be arrested for their thoughts ,
+Leaf:  N Joint but can be seen as a target for violence from monsters .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation From the shooter , to the local government , these actions should be condemned on all fronts .
+Leaf:  N Joint The government was wrong to arrest the deceased ,
+Leaf:  S span and the murderer was of course wrong for shooting him to death . I am saddened
+Leaf:  N Cause that someone lost his life
+Leaf:  S span because of his charge of a charged message .
+Inner:  N Attribution None Cause NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span While I do feel glad
+Leaf:  N Attribution that apparent justice will be served in this case , this just goes to show you
+Inner:  S span None Attribution SN
+Leaf:  N Background how violent some people can become
+Leaf:  S span when you toss religious ideals into the mix .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('We live in a world', None, None, None, 0), ('someone can not only be arrested for their thoughts ,', None, None, None, 0), ('but can be seen as a target for violence from monsters .', None, None, None, 1), ('From the shooter , to the local government , these actions should be condemned on all fronts .', None, None, None, 1), ('The government was wrong to arrest the deceased ,', None, None, None, 0), ('and the murderer was of course wrong for shooting him to death . I am saddened', None, None, None, 0), ('that someone lost his life', None, None, None, 0), ('because of his charge of a charged message .', None, None, None, 1), ('While I do feel glad', None, None, None, 0), ('that apparent justice will be served in this case , this just goes to show you', None, None, None, 0), ('how violent some people can become', None, None, None, 0), ('when you toss religious ideals into the mix .', None, None, None, 1)]

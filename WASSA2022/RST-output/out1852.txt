@@ -1,0 +1,25 @@
+=====================> [[('There are several strange factors', None, None, None, 0), ('surrounding the tragic and fatal event .', None, None, None, 1), ('First , why was there not a sign or caution tape', None, None, None, 0), ('to block off the broken elevator ?', None, None, None, 1), ('How was the mother able to walk into it', None, None, None, 0), ('without knowing', None, None, None, 0), ('that it was broken ?', None, None, None, 1), ("The other tenant 's reports about the condition of the elevators in the past are also alarming .", None, None, None, 1), ('Why was this problem not addressed long ago by the landlord ?', None, None, None, 1), ('It should not take such a horrible event to occur for people to recognize', None, None, None, 0), ('that there is a problem with the building and the way', None, None, None, 0), ('technicians are doing inspections .', None, None, None, 1)]]
+Leaf:  N Elaborate There are several strange factors
+Leaf:  S span surrounding the tragic and fatal event .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate First , why was there not a sign or caution tape
+Leaf:  S span to block off the broken elevator ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Manner-Means How was the mother able to walk into it
+Leaf:  S span without knowing
+Leaf:  N Attribution that it was broken ?
+Inner:  S span None Attribution SN
+Inner:  N Joint None Manner-Means NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint The other tenant 's reports about the condition of the elevators in the past are also alarming .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Why was this problem not addressed long ago by the landlord ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It should not take such a horrible event to occur for people to recognize
+Leaf:  N Elaborate that there is a problem with the building and the way
+Leaf:  S span technicians are doing inspections .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('There are several strange factors', None, None, None, 0), ('surrounding the tragic and fatal event .', None, None, None, 1), ('First , why was there not a sign or caution tape', None, None, None, 0), ('to block off the broken elevator ?', None, None, None, 1), ('How was the mother able to walk into it', None, None, None, 0), ('without knowing', None, None, None, 0), ('that it was broken ?', None, None, None, 1), ("The other tenant 's reports about the condition of the elevators in the past are also alarming .", None, None, None, 1), ('Why was this problem not addressed long ago by the landlord ?', None, None, None, 1), ('It should not take such a horrible event to occur for people to recognize', None, None, None, 0), ('that there is a problem with the building and the way', None, None, None, 0), ('technicians are doing inspections .', None, None, None, 1)]

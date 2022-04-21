@@ -1,0 +1,21 @@
+=====================> [[("I do n't know much about the issues in Syria and other countries in the Middle East ,", None, None, None, 0), ("but I 'm not a fan of war or our place in these international conflicts .", None, None, None, 1), ('The United States has had military influence in the Middle East for way too long ,', None, None, None, 0), ('and we were deceived by President Obama at the time', None, None, None, 0), ('he started office .', None, None, None, 1), ('He stated', None, None, None, 0), ('he would pull all troops out ,', None, None, None, 0), ('but that never really happened .', None, None, None, 1), ('The troops may have decreased ,', None, None, None, 0), ('but we have a strong presence there still .', None, None, None, 1)]]
+Leaf:  N Contrast I do n't know much about the issues in Syria and other countries in the Middle East ,
+Leaf:  N Contrast but I 'm not a fan of war or our place in these international conflicts .
+Inner:  N Explanation None Contrast NN
+Leaf:  S span The United States has had military influence in the Middle East for way too long ,
+Leaf:  N Elaborate and we were deceived by President Obama at the time
+Leaf:  S span he started office .
+Inner:  N Cause None Elaborate NS
+Inner:  N Elaborate None Cause SN
+Leaf:  S span He stated
+Leaf:  N Attribution he would pull all troops out ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but that never really happened .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The troops may have decreased ,
+Leaf:  N Contrast but we have a strong presence there still .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[("I do n't know much about the issues in Syria and other countries in the Middle East ,", None, None, None, 0), ("but I 'm not a fan of war or our place in these international conflicts .", None, None, None, 1), ('The United States has had military influence in the Middle East for way too long ,', None, None, None, 0), ('and we were deceived by President Obama at the time', None, None, None, 0), ('he started office .', None, None, None, 1), ('He stated', None, None, None, 0), ('he would pull all troops out ,', None, None, None, 0), ('but that never really happened .', None, None, None, 1), ('The troops may have decreased ,', None, None, None, 0), ('but we have a strong presence there still .', None, None, None, 1)]

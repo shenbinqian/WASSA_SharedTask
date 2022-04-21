@@ -1,0 +1,27 @@
+=====================> [[('Did you hear what is happening in Aleppo ?', None, None, None, 1), ('Residents are being texted', None, None, None, 0), ('( apparently from their government )', None, None, None, 0), ('to evacuate their homes in preparation of the city being bombed !', None, None, None, 1), ('It ’s just terrible what those people have to endure .', None, None, None, 1), ('I feel so bad for them . Their country is already so war torn ,', None, None, None, 0), ('and they are almost out of food .', None, None, None, 1), ('2 pounds of meat costs $ 40 .', None, None, None, 1), ('I ca n’t', None, None, None, 0), ('even begin to imagine what these people are going through .', None, None, None, 1), ('If it we here', None, None, None, 0), (', happening to our families ,', None, None, None, 0), ('I would be so scared .', None, None, None, 1)]]
+Leaf:  N Summary Did you hear what is happening in Aleppo ?
+Leaf:  N Elaborate Residents are being texted
+Leaf:  N Enablement ( apparently from their government )
+Leaf:  S span to evacuate their homes in preparation of the city being bombed !
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It ’s just terrible what those people have to endure .
+Leaf:  N Joint I feel so bad for them . Their country is already so war torn ,
+Leaf:  N Joint and they are almost out of food .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span 2 pounds of meat costs $ 40 .
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Leaf:  N Same-Unit I ca n’t
+Leaf:  N Same-Unit even begin to imagine what these people are going through .
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Elaborate If it we here
+Leaf:  S span , happening to our families ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition I would be so scared .
+Inner:  S span None Condition SN
+Inner:  S span None Cause NS
+Inner:  S span None Summary NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Did you hear what is happening in Aleppo ?', None, None, None, 1), ('Residents are being texted', None, None, None, 0), ('( apparently from their government )', None, None, None, 0), ('to evacuate their homes in preparation of the city being bombed !', None, None, None, 1), ('It ’s just terrible what those people have to endure .', None, None, None, 1), ('I feel so bad for them . Their country is already so war torn ,', None, None, None, 0), ('and they are almost out of food .', None, None, None, 1), ('2 pounds of meat costs $ 40 .', None, None, None, 1), ('I ca n’t', None, None, None, 0), ('even begin to imagine what these people are going through .', None, None, None, 1), ('If it we here', None, None, None, 0), (', happening to our families ,', None, None, None, 0), ('I would be so scared .', None, None, None, 1)]

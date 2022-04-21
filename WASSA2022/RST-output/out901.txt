@@ -1,0 +1,37 @@
+=====================> [[('I think', None, None, None, 0), ('this world is full of hate', None, None, None, 0), ("and i do n't understand it .", None, None, None, 1), ('Why do they hate us ?', None, None, None, 1), ("Why are they killing innocent people?And Donald trump is n't going to make anything better .", None, None, None, 1), ('He shows', None, None, None, 0), ('people hate and we might have even more terrosist coming to America .', None, None, None, 1), ('America should show people how to love . America acts like the victim', None, None, None, 0), ('but we have fault as well .', None, None, None, 1), ('There is no country', None, None, None, 0), ('that is right or wrong', None, None, None, 0), ('we are all human', None, None, None, 0), ('and we are all imperfect .', None, None, None, 1), ('The only king', None, None, None, 0), ('we should listen to', None, None, None, 0), ('is God .', None, None, None, 1), ('A lot of these presidents and kings of our countries think there god .', None, None, None, 1), ('We should humble ourselves and just love . Put ourselves in other peoples shoes .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Joint this world is full of hate
+Leaf:  N Joint and i do n't understand it .
+Inner:  N Attribution None Joint NN
+Inner:  N Summary None Attribution SN
+Leaf:  N Joint Why do they hate us ?
+Leaf:  N Joint Why are they killing innocent people?And Donald trump is n't going to make anything better .
+Inner:  N Summary None Joint NN
+Leaf:  S span He shows
+Leaf:  N Attribution people hate and we might have even more terrosist coming to America .
+Inner:  S span None Attribution SN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Contrast America should show people how to love . America acts like the victim
+Leaf:  S span but we have fault as well .
+Inner:  S span None Contrast NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate There is no country
+Leaf:  S span that is right or wrong
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint we are all human
+Leaf:  N Joint and we are all imperfect .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate The only king
+Leaf:  S span we should listen to
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is God .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate A lot of these presidents and kings of our countries think there god .
+Leaf:  S span We should humble ourselves and just love . Put ourselves in other peoples shoes .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('this world is full of hate', None, None, None, 0), ("and i do n't understand it .", None, None, None, 1), ('Why do they hate us ?', None, None, None, 1), ("Why are they killing innocent people?And Donald trump is n't going to make anything better .", None, None, None, 1), ('He shows', None, None, None, 0), ('people hate and we might have even more terrosist coming to America .', None, None, None, 1), ('America should show people how to love . America acts like the victim', None, None, None, 0), ('but we have fault as well .', None, None, None, 1), ('There is no country', None, None, None, 0), ('that is right or wrong', None, None, None, 0), ('we are all human', None, None, None, 0), ('and we are all imperfect .', None, None, None, 1), ('The only king', None, None, None, 0), ('we should listen to', None, None, None, 0), ('is God .', None, None, None, 1), ('A lot of these presidents and kings of our countries think there god .', None, None, None, 1), ('We should humble ourselves and just love . Put ourselves in other peoples shoes .', None, None, None, 1)]

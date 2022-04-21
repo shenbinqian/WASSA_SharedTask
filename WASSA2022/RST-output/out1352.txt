@@ -1,0 +1,31 @@
+=====================> [[('Did you hear about this kid', None, None, None, 0), ('who lost his leg', None, None, None, 0), ('because a teacher body slammed him ?', None, None, None, 1), ("Obviously I do n't know what exactly happened", None, None, None, 0), ('but from the news report', None, None, None, 0), ('he was acting up', None, None, None, 0), ('and the teacher decided to use physical restraint . Supposedly in this county of Georgia teachers can use physical restraint on students', None, None, None, 0), ('if they are disobedient and a threat to students and others .', None, None, None, 1), ('I think', None, None, None, 0), ('its safe to say', None, None, None, 0), ('there was fault on all sides .', None, None, None, 1), ('The kid should of behaved himself ,', None, None, None, 0), ("the teacher should n't probably should n't of been as excessive", None, None, None, 0), ('and the school should of handle the whole situation better .', None, None, None, 1), ('What do you think ?', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about this kid
+Leaf:  N Cause who lost his leg
+Leaf:  S span because a teacher body slammed him ?
+Inner:  S span None Cause NS
+Inner:  N Summary None Elaborate NS
+Leaf:  S span Obviously I do n't know what exactly happened
+Leaf:  S span but from the news report
+Leaf:  N Attribution he was acting up
+Inner:  N Cause None Attribution SN
+Leaf:  N Condition and the teacher decided to use physical restraint . Supposedly in this county of Georgia teachers can use physical restraint on students
+Leaf:  S span if they are disobedient and a threat to students and others .
+Inner:  N Cause None Condition NS
+Inner:  N Contrast None Cause NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I think
+Leaf:  S span its safe to say
+Leaf:  N Attribution there was fault on all sides .
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint The kid should of behaved himself ,
+Leaf:  N Joint the teacher should n't probably should n't of been as excessive
+Leaf:  N Joint and the school should of handle the whole situation better .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span What do you think ?
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Did you hear about this kid', None, None, None, 0), ('who lost his leg', None, None, None, 0), ('because a teacher body slammed him ?', None, None, None, 1), ("Obviously I do n't know what exactly happened", None, None, None, 0), ('but from the news report', None, None, None, 0), ('he was acting up', None, None, None, 0), ('and the teacher decided to use physical restraint . Supposedly in this county of Georgia teachers can use physical restraint on students', None, None, None, 0), ('if they are disobedient and a threat to students and others .', None, None, None, 1), ('I think', None, None, None, 0), ('its safe to say', None, None, None, 0), ('there was fault on all sides .', None, None, None, 1), ('The kid should of behaved himself ,', None, None, None, 0), ("the teacher should n't probably should n't of been as excessive", None, None, None, 0), ('and the school should of handle the whole situation better .', None, None, None, 1), ('What do you think ?', None, None, None, 1)]

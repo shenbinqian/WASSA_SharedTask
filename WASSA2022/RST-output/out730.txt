@@ -1,0 +1,25 @@
+=====================> [[('As it turns out ,', None, None, None, 0), ('male models do not make as much as their female counterparts .', None, None, None, 1), ('I was not aware', None, None, None, 0), ('this was the case .', None, None, None, 1), ('The reasoning seems to be that male models have a longer career ,', None, None, None, 0), ('whereas women are considered going downward after thirty .', None, None, None, 1), ('The gap in pay between them is quite high . Some people are doing their best to split the wages more fairly ,', None, None, None, 0), ('but it appears to be the default to pay women more in this industry .', None, None, None, 1), ('I think', None, None, None, 0), ('more men are paying attention to their grooming habits .', None, None, None, 1), ('I hope', None, None, None, 0), ('that men will earn more fair wages in the future .', None, None, None, 1)]]
+Leaf:  S span As it turns out ,
+Leaf:  N Background male models do not make as much as their female counterparts .
+Inner:  N Elaborate None Background SN
+Leaf:  S span I was not aware
+Leaf:  N Attribution this was the case .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The reasoning seems to be that male models have a longer career ,
+Leaf:  N Contrast whereas women are considered going downward after thirty .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The gap in pay between them is quite high . Some people are doing their best to split the wages more fairly ,
+Leaf:  N Contrast but it appears to be the default to pay women more in this industry .
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span I think
+Leaf:  N Attribution more men are paying attention to their grooming habits .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution that men will earn more fair wages in the future .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('As it turns out ,', None, None, None, 0), ('male models do not make as much as their female counterparts .', None, None, None, 1), ('I was not aware', None, None, None, 0), ('this was the case .', None, None, None, 1), ('The reasoning seems to be that male models have a longer career ,', None, None, None, 0), ('whereas women are considered going downward after thirty .', None, None, None, 1), ('The gap in pay between them is quite high . Some people are doing their best to split the wages more fairly ,', None, None, None, 0), ('but it appears to be the default to pay women more in this industry .', None, None, None, 1), ('I think', None, None, None, 0), ('more men are paying attention to their grooming habits .', None, None, None, 1), ('I hope', None, None, None, 0), ('that men will earn more fair wages in the future .', None, None, None, 1)]

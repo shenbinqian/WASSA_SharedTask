@@ -1,0 +1,21 @@
+=====================> [[('I feel bad for the teachers', None, None, None, 0), ('but there are so many teachers in this country', None, None, None, 0), ('that I would like to see expelled .', None, None, None, 1), ('It is amazing how much power Turkey has .', None, None, None, 1), ('I do not really understand this power', None, None, None, 0), ('but it must be difficult to pack up your life so quickly .', None, None, None, 1), ("I ca n't imagine having to do that .", None, None, None, 1), ('How does anyone start fresh', None, None, None, 0), ('when they were expelled .', None, None, None, 1), ('You would always feel like it is going to happen again .', None, None, None, 1)]]
+Leaf:  N Contrast I feel bad for the teachers
+Leaf:  N Elaborate but there are so many teachers in this country
+Leaf:  S span that I would like to see expelled .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Elaborate It is amazing how much power Turkey has .
+Leaf:  N Contrast I do not really understand this power
+Leaf:  S span but it must be difficult to pack up your life so quickly .
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span I ca n't imagine having to do that .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background How does anyone start fresh
+Leaf:  S span when they were expelled .
+Inner:  N Evaluation None Background NS
+Leaf:  S span You would always feel like it is going to happen again .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I feel bad for the teachers', None, None, None, 0), ('but there are so many teachers in this country', None, None, None, 0), ('that I would like to see expelled .', None, None, None, 1), ('It is amazing how much power Turkey has .', None, None, None, 1), ('I do not really understand this power', None, None, None, 0), ('but it must be difficult to pack up your life so quickly .', None, None, None, 1), ("I ca n't imagine having to do that .", None, None, None, 1), ('How does anyone start fresh', None, None, None, 0), ('when they were expelled .', None, None, None, 1), ('You would always feel like it is going to happen again .', None, None, None, 1)]

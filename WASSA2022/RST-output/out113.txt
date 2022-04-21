@@ -1,0 +1,21 @@
+=====================> [[('Hey friend did you check out this article .', None, None, None, 1), ('We should do our best to protect ourselves and our loved ones from Zika .', None, None, None, 1), ('I know', None, None, None, 0), ('that', None, None, None, 0), ('when my wife was pregnant', None, None, None, 0), ('I paid close attention to the news', None, None, None, 0), ('in order to be up to date with developments .', None, None, None, 1), ('It is really sad to see children being born with microphely .', None, None, None, 1), ('I really hope', None, None, None, 0), ('something will be done .', None, None, None, 1)]]
+Leaf:  N Evaluation Hey friend did you check out this article .
+Leaf:  N Elaborate We should do our best to protect ourselves and our loved ones from Zika .
+Leaf:  S span I know
+Leaf:  N Same-Unit that
+Leaf:  N Same-Unit when my wife was pregnant
+Leaf:  N Enablement I paid close attention to the news
+Leaf:  S span in order to be up to date with developments .
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation It is really sad to see children being born with microphely .
+Leaf:  S span I really hope
+Leaf:  N Attribution something will be done .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Hey friend did you check out this article .', None, None, None, 1), ('We should do our best to protect ourselves and our loved ones from Zika .', None, None, None, 1), ('I know', None, None, None, 0), ('that', None, None, None, 0), ('when my wife was pregnant', None, None, None, 0), ('I paid close attention to the news', None, None, None, 0), ('in order to be up to date with developments .', None, None, None, 1), ('It is really sad to see children being born with microphely .', None, None, None, 1), ('I really hope', None, None, None, 0), ('something will be done .', None, None, None, 1)]

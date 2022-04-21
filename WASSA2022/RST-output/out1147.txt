@@ -1,0 +1,27 @@
+=====================> [[('I recently discovered a few articles', None, None, None, 0), ('that I believed to be quite interesting .', None, None, None, 1), ('The first article talks about how people argue', None, None, None, 0), ('that smoking should be banned in public places', None, None, None, 0), ('so that children would not imitate them .', None, None, None, 1), ("I personally do n't have an opinion on this matter ;", None, None, None, 0), ("I do n't have children", None, None, None, 0), ("and I 'm not a smoke either . The second article disturbed me a great deal . It talks about the work of a food inspector", None, None, None, 0), ('and it surprised me', None, None, None, 0), ('how dirty some stores can be .', None, None, None, 1), ('It really makes me wonder', None, None, None, 0), ('if I should continue going to that place near my house', None, None, None, 0), ('that does not have a perfect score .', None, None, None, 1)]]
+Leaf:  N Elaborate I recently discovered a few articles
+Leaf:  S span that I believed to be quite interesting .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The first article talks about how people argue
+Leaf:  N Enablement that smoking should be banned in public places
+Leaf:  S span so that children would not imitate them .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I personally do n't have an opinion on this matter ;
+Leaf:  N Joint I do n't have children
+Leaf:  N Joint and I 'm not a smoke either . The second article disturbed me a great deal . It talks about the work of a food inspector
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and it surprised me
+Leaf:  N Attribution how dirty some stores can be .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span It really makes me wonder
+Leaf:  N Elaborate if I should continue going to that place near my house
+Leaf:  S span that does not have a perfect score .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I recently discovered a few articles', None, None, None, 0), ('that I believed to be quite interesting .', None, None, None, 1), ('The first article talks about how people argue', None, None, None, 0), ('that smoking should be banned in public places', None, None, None, 0), ('so that children would not imitate them .', None, None, None, 1), ("I personally do n't have an opinion on this matter ;", None, None, None, 0), ("I do n't have children", None, None, None, 0), ("and I 'm not a smoke either . The second article disturbed me a great deal . It talks about the work of a food inspector", None, None, None, 0), ('and it surprised me', None, None, None, 0), ('how dirty some stores can be .', None, None, None, 1), ('It really makes me wonder', None, None, None, 0), ('if I should continue going to that place near my house', None, None, None, 0), ('that does not have a perfect score .', None, None, None, 1)]

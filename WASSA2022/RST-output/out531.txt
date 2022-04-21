@@ -1,0 +1,35 @@
+=====================> [[('I saw this news item about a shooting in North Philly .', None, None, None, 1), ('Is this near where you live ?', None, None, None, 1), ('Damn , I am so sick of gun violence .', None, None, None, 1), ('Will it ever end ? Every day , it seems to be something new . Here in Detroit , we see it all the time', None, None, None, 0), ('and I know', None, None, None, 0), ("you 're in a similar situation in Philadelphia . The article does n't give any details about the victims or anything like that .", None, None, None, 1), ("It almost dehumanizes people , do n't you think ?", None, None, None, 1), ("I mean , these victims were somebody 's relatives .", None, None, None, 1), ('Hopefully more details will come out in future articles .', None, None, None, 1), ('The news media cares more', None, None, None, 0), ('about being the first', None, None, None, 0), ('to report a story', None, None, None, 0), ('instead of sticking around', None, None, None, 0), ('to find out the details .', None, None, None, 1), ('I know', None, None, None, 0), ('I am rambling here .', None, None, None, 1), ('But all this gun violence is too much .', None, None, None, 1)]]
+Leaf:  N Elaborate I saw this news item about a shooting in North Philly .
+Leaf:  S span Is this near where you live ?
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Evaluation Damn , I am so sick of gun violence .
+Leaf:  N Joint Will it ever end ? Every day , it seems to be something new . Here in Detroit , we see it all the time
+Leaf:  S span and I know
+Leaf:  N Attribution you 're in a similar situation in Philadelphia . The article does n't give any details about the victims or anything like that .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate It almost dehumanizes people , do n't you think ?
+Leaf:  S span I mean , these victims were somebody 's relatives .
+Inner:  N Joint None Elaborate NS
+Inner:  N Comparison None Joint NN
+Leaf:  N Comparison Hopefully more details will come out in future articles .
+Inner:  N Elaborate None Comparison NN
+Leaf:  S span The news media cares more
+Leaf:  N Elaborate about being the first
+Leaf:  S span to report a story
+Inner:  N Elaborate None Elaborate NS
+Inner:  N Contrast None Elaborate SN
+Leaf:  N Enablement instead of sticking around
+Leaf:  S span to find out the details .
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know
+Leaf:  N Attribution I am rambling here .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span But all this gun violence is too much .
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('I saw this news item about a shooting in North Philly .', None, None, None, 1), ('Is this near where you live ?', None, None, None, 1), ('Damn , I am so sick of gun violence .', None, None, None, 1), ('Will it ever end ? Every day , it seems to be something new . Here in Detroit , we see it all the time', None, None, None, 0), ('and I know', None, None, None, 0), ("you 're in a similar situation in Philadelphia . The article does n't give any details about the victims or anything like that .", None, None, None, 1), ("It almost dehumanizes people , do n't you think ?", None, None, None, 1), ("I mean , these victims were somebody 's relatives .", None, None, None, 1), ('Hopefully more details will come out in future articles .', None, None, None, 1), ('The news media cares more', None, None, None, 0), ('about being the first', None, None, None, 0), ('to report a story', None, None, None, 0), ('instead of sticking around', None, None, None, 0), ('to find out the details .', None, None, None, 1), ('I know', None, None, None, 0), ('I am rambling here .', None, None, None, 1), ('But all this gun violence is too much .', None, None, None, 1)]

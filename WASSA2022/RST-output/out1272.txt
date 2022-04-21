@@ -1,0 +1,39 @@
+=====================> [[('Maybe they should evaluate him', None, None, None, 0), ('and figure out', None, None, None, 0), ('why he did', None, None, None, 0), ('what he did', None, None, None, 0), ('so', None, None, None, 0), ('that', None, None, None, 0), ('when he gets released ,', None, None, None, 0), ("he 's not tempted to do it again .", None, None, None, 1), ("The story really did n't tell why he did it", None, None, None, 0), ('or if he was mentally challenged or anything ,', None, None, None, 0), ('it just says', None, None, None, 0), ('that he injured the bird .', None, None, None, 1), ('The bird is a sad case', None, None, None, 0), ('of what a zoo is .', None, None, None, 1), ('Those animals should be in the wild ,', None, None, None, 0), ('and not cooped up for people', None, None, None, 0), ('to ooh', None, None, None, 0), ('and aah', None, None, None, 0), ('at them in a park', None, None, None, 0)]]
+Leaf:  N Joint Maybe they should evaluate him
+Leaf:  S span and figure out
+Leaf:  N Summary why he did
+Leaf:  S span what he did
+Inner:  N Attribution None Summary NS
+Inner:  N Joint None Attribution SN
+Inner:  N Cause None Joint NN
+Leaf:  S span so
+Inner:  N Cause None Cause NS
+Leaf:  N Same-Unit that
+Leaf:  S span when he gets released ,
+Leaf:  N Background he 's not tempted to do it again .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Joint The story really did n't tell why he did it
+Leaf:  N Joint or if he was mentally challenged or anything ,
+Inner:  S span None Joint NN
+Leaf:  S span it just says
+Leaf:  N Attribution that he injured the bird .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The bird is a sad case
+Leaf:  S span of what a zoo is .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Those animals should be in the wild ,
+Leaf:  N Elaborate and not cooped up for people
+Leaf:  N Joint to ooh
+Leaf:  N Elaborate and aah
+Leaf:  S span at them in a park
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Maybe they should evaluate him', None, None, None, 0), ('and figure out', None, None, None, 0), ('why he did', None, None, None, 0), ('what he did', None, None, None, 0), ('so', None, None, None, 0), ('that', None, None, None, 0), ('when he gets released ,', None, None, None, 0), ("he 's not tempted to do it again .", None, None, None, 1), ("The story really did n't tell why he did it", None, None, None, 0), ('or if he was mentally challenged or anything ,', None, None, None, 0), ('it just says', None, None, None, 0), ('that he injured the bird .', None, None, None, 1), ('The bird is a sad case', None, None, None, 0), ('of what a zoo is .', None, None, None, 1), ('Those animals should be in the wild ,', None, None, None, 0), ('and not cooped up for people', None, None, None, 0), ('to ooh', None, None, None, 0), ('and aah', None, None, None, 0), ('at them in a park', None, None, None, 0)]

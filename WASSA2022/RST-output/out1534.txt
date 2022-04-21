@@ -1,0 +1,15 @@
+=====================> [[('Friends and family', None, None, None, 0), ('- we need to pray for those people in Taiwan .', None, None, None, 1), ('They have just been hit by yet antoher hurricane .', None, None, None, 1), ('This has left their country in quite the run down state .', None, None, None, 1), ('People are heavily effected in this country', None, None, None, 0), ('and need our thoughts and prayers .', None, None, None, 1), ('We also need to pray for China due to the hurricane heading there next .', None, None, None, 1)]]
+Leaf:  N Same-Unit Friends and family
+Leaf:  N Same-Unit - we need to pray for those people in Taiwan .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Cause They have just been hit by yet antoher hurricane .
+Leaf:  S span This has left their country in quite the run down state .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span People are heavily effected in this country
+Leaf:  N Cause and need our thoughts and prayers .
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span We also need to pray for China due to the hurricane heading there next .
+Inner:  Root None None Evaluation NS
+[('Friends and family', None, None, None, 0), ('- we need to pray for those people in Taiwan .', None, None, None, 1), ('They have just been hit by yet antoher hurricane .', None, None, None, 1), ('This has left their country in quite the run down state .', None, None, None, 1), ('People are heavily effected in this country', None, None, None, 0), ('and need our thoughts and prayers .', None, None, None, 1), ('We also need to pray for China due to the hurricane heading there next .', None, None, None, 1)]

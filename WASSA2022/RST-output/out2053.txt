@@ -1,0 +1,15 @@
+=====================> [[('Once again , I read a silly celebrity article today .', None, None, None, 1), ('Why do I even waste my time on them ?', None, None, None, 1), ("I really do n't care about the Jenner 's or the Kardashian 's or their weird sleeping issues", None, None, None, 0), ('that they have in their million dollar beds in their million dollar homes .', None, None, None, 1), ("It 's a good thing they have all that money", None, None, None, 0), ('to go ahead', None, None, None, 0), ('and have a doctor diagnose them with that sleep issue .', None, None, None, 1)]]
+Leaf:  N Elaborate Once again , I read a silly celebrity article today .
+Leaf:  N Explanation Why do I even waste my time on them ?
+Leaf:  N Elaborate I really do n't care about the Jenner 's or the Kardashian 's or their weird sleeping issues
+Leaf:  S span that they have in their million dollar beds in their million dollar homes .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement It 's a good thing they have all that money
+Leaf:  N Temporal to go ahead
+Leaf:  N Temporal and have a doctor diagnose them with that sleep issue .
+Inner:  S span None Temporal NN
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Once again , I read a silly celebrity article today .', None, None, None, 1), ('Why do I even waste my time on them ?', None, None, None, 1), ("I really do n't care about the Jenner 's or the Kardashian 's or their weird sleeping issues", None, None, None, 0), ('that they have in their million dollar beds in their million dollar homes .', None, None, None, 1), ("It 's a good thing they have all that money", None, None, None, 0), ('to go ahead', None, None, None, 0), ('and have a doctor diagnose them with that sleep issue .', None, None, None, 1)]

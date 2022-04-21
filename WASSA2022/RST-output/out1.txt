@@ -1,0 +1,21 @@
+=====================> [[('it is really diheartening to read about these immigrants from this article', None, None, None, 0), ('who drowned .', None, None, None, 1), ('it makes me feel anxious and upset', None, None, None, 0), ('how the whole ordeal happened .', None, None, None, 1), ('it is a terrible occurrence', None, None, None, 0), ('that this had to happen at the mediterranean sea . thankfully there were some survivors .', None, None, None, 1), ('the fact', None, None, None, 0), ('that babies were lost', None, None, None, 0), ('makes it that much more emotional', None, None, None, 0), ('to read all of this', None, None, None, 0)]]
+Leaf:  N Elaborate it is really diheartening to read about these immigrants from this article
+Leaf:  S span who drowned .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate it makes me feel anxious and upset
+Leaf:  S span how the whole ordeal happened .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate it is a terrible occurrence
+Leaf:  S span that this had to happen at the mediterranean sea . thankfully there were some survivors .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate the fact
+Leaf:  S span that babies were lost
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate makes it that much more emotional
+Leaf:  S span to read all of this
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('it is really diheartening to read about these immigrants from this article', None, None, None, 0), ('who drowned .', None, None, None, 1), ('it makes me feel anxious and upset', None, None, None, 0), ('how the whole ordeal happened .', None, None, None, 1), ('it is a terrible occurrence', None, None, None, 0), ('that this had to happen at the mediterranean sea . thankfully there were some survivors .', None, None, None, 1), ('the fact', None, None, None, 0), ('that babies were lost', None, None, None, 0), ('makes it that much more emotional', None, None, None, 0), ('to read all of this', None, None, None, 0)]

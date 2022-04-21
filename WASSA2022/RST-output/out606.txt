@@ -1,0 +1,23 @@
+=====================> [[('Avoid reading this article .', None, None, None, 1), ("It 's so fucking long for saying so little .", None, None, None, 1), ('The author feels the need', None, None, None, 0), ('to go on and on about irrelevant details', None, None, None, 0), ('and it comes off as the ramblings of a skito out on the street corner .', None, None, None, 1), ("It 's the same nonsense", None, None, None, 0), ('the media pushes about those poor kids ,', None, None, None, 0), ("but does n't delve into how none of this shit would have happened", None, None, None, 0), ('if people were responsible', None, None, None, 0), ("and did n't make shit choices", None, None, None, 0), ('that are obviously bad .', None, None, None, 1)]]
+Leaf:  N Evaluation Avoid reading this article .
+Leaf:  N Elaborate It 's so fucking long for saying so little .
+Leaf:  N Elaborate The author feels the need
+Leaf:  S span to go on and on about irrelevant details
+Inner:  S span None Elaborate NS
+Leaf:  N Cause and it comes off as the ramblings of a skito out on the street corner .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Elaborate It 's the same nonsense
+Leaf:  S span the media pushes about those poor kids ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Condition but does n't delve into how none of this shit would have happened
+Leaf:  N Joint if people were responsible
+Leaf:  N Elaborate and did n't make shit choices
+Leaf:  S span that are obviously bad .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Avoid reading this article .', None, None, None, 1), ("It 's so fucking long for saying so little .", None, None, None, 1), ('The author feels the need', None, None, None, 0), ('to go on and on about irrelevant details', None, None, None, 0), ('and it comes off as the ramblings of a skito out on the street corner .', None, None, None, 1), ("It 's the same nonsense", None, None, None, 0), ('the media pushes about those poor kids ,', None, None, None, 0), ("but does n't delve into how none of this shit would have happened", None, None, None, 0), ('if people were responsible', None, None, None, 0), ("and did n't make shit choices", None, None, None, 0), ('that are obviously bad .', None, None, None, 1)]

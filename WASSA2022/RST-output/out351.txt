@@ -1,0 +1,13 @@
+=====================> [[('Well nothing about this article was suprising to me .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("it was n't to you either .", None, None, None, 1), ("We 've talked before about how much politicians like to brag ,", None, None, None, 0), ('but there \'s very little to back up the whole " America is the greatest country in the world " thing .', None, None, None, 1), ('Interesting that South Korea has the most patents per people though .', None, None, None, 1)]]
+Leaf:  N Evaluation Well nothing about this article was suprising to me .
+Leaf:  S span I 'm sure
+Leaf:  N Attribution it was n't to you either .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Contrast We 've talked before about how much politicians like to brag ,
+Leaf:  N Elaborate but there 's very little to back up the whole " America is the greatest country in the world " thing .
+Leaf:  S span Interesting that South Korea has the most patents per people though .
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('Well nothing about this article was suprising to me .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("it was n't to you either .", None, None, None, 1), ("We 've talked before about how much politicians like to brag ,", None, None, None, 0), ('but there \'s very little to back up the whole " America is the greatest country in the world " thing .', None, None, None, 1), ('Interesting that South Korea has the most patents per people though .', None, None, None, 1)]

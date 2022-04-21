@@ -1,0 +1,31 @@
+=====================> [[('I can not believe', None, None, None, 0), ('that this happened .', None, None, None, 1), ('I feel so bad for her !', None, None, None, 1), ('Can you believe', None, None, None, 0), ('she received threats on twitter ?', None, None, None, 1), ('It is cyber bullying for sure .', None, None, None, 1), ('I cannt imagine this happening to me ,', None, None, None, 0), ('how scary !', None, None, None, 1), ('I am so sad', None, None, None, 0), ('that she had to cancel her account', None, None, None, 0), ('because of crazy people .', None, None, None, 1), ('Ughhh !', None, None, None, 1), ('I hope', None, None, None, 0), ('that these bullies are caught', None, None, None, 0), ('and she can go back to her account .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Attribution that this happened .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation I feel so bad for her !
+Leaf:  S span Can you believe
+Leaf:  N Attribution she received threats on twitter ?
+Inner:  S span None Attribution SN
+Inner:  N Summary None Evaluation NS
+Leaf:  N Elaborate It is cyber bullying for sure .
+Leaf:  N Evaluation I cannt imagine this happening to me ,
+Leaf:  S span how scary !
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am so sad
+Leaf:  N Cause that she had to cancel her account
+Leaf:  S span because of crazy people .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Ughhh !
+Leaf:  S span I hope
+Leaf:  S span that these bullies are caught
+Leaf:  N Condition and she can go back to her account .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I can not believe', None, None, None, 0), ('that this happened .', None, None, None, 1), ('I feel so bad for her !', None, None, None, 1), ('Can you believe', None, None, None, 0), ('she received threats on twitter ?', None, None, None, 1), ('It is cyber bullying for sure .', None, None, None, 1), ('I cannt imagine this happening to me ,', None, None, None, 0), ('how scary !', None, None, None, 1), ('I am so sad', None, None, None, 0), ('that she had to cancel her account', None, None, None, 0), ('because of crazy people .', None, None, None, 1), ('Ughhh !', None, None, None, 1), ('I hope', None, None, None, 0), ('that these bullies are caught', None, None, None, 0), ('and she can go back to her account .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('Reading about children', None, None, None, 0), ('killing themselves', None, None, None, 0), ('is very upsetting .', None, None, None, 1), ('It is nice to read that less children are dying in car accidents , though .', None, None, None, 1), ('I wonder', None, None, None, 0), ("if it 's because of safer cars , car seat laws or what ?", None, None, None, 1), ('But the suicide thing is so very sad . I have three kids', None, None, None, 0), ("and ca n't imagine", None, None, None, 0), ('if this happened to one of them .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what has caused this uptick in teen suicides ? Maybe the rise of social media ?', None, None, None, 1), ("Maybe the financial crisis of 2008 did n't help ,", None, None, None, 0), ('causing problems with adults in the home .', None, None, None, 1), ("It 's been a very stressful time ever since then for a lot of families .", None, None, None, 1)]]
+Leaf:  N Elaborate Reading about children
+Leaf:  S span killing themselves
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is very upsetting .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It is nice to read that less children are dying in car accidents , though .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Attribution if it 's because of safer cars , car seat laws or what ?
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint But the suicide thing is so very sad . I have three kids
+Leaf:  S span and ca n't imagine
+Leaf:  N Attribution if this happened to one of them .
+Inner:  N Joint None Attribution SN
+Inner:  N Topic-Comment None Joint NN
+Leaf:  S span I wonder
+Leaf:  N Joint what has caused this uptick in teen suicides ? Maybe the rise of social media ?
+Leaf:  N Joint Maybe the financial crisis of 2008 did n't help ,
+Leaf:  N Joint causing problems with adults in the home .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Condition It 's been a very stressful time ever since then for a lot of families .
+Inner:  S span None Condition SN
+Inner:  S span None Topic-Comment NS
+Inner:  Root None None Elaborate NS
+[('Reading about children', None, None, None, 0), ('killing themselves', None, None, None, 0), ('is very upsetting .', None, None, None, 1), ('It is nice to read that less children are dying in car accidents , though .', None, None, None, 1), ('I wonder', None, None, None, 0), ("if it 's because of safer cars , car seat laws or what ?", None, None, None, 1), ('But the suicide thing is so very sad . I have three kids', None, None, None, 0), ("and ca n't imagine", None, None, None, 0), ('if this happened to one of them .', None, None, None, 1), ('I wonder', None, None, None, 0), ('what has caused this uptick in teen suicides ? Maybe the rise of social media ?', None, None, None, 1), ("Maybe the financial crisis of 2008 did n't help ,", None, None, None, 0), ('causing problems with adults in the home .', None, None, None, 1), ("It 's been a very stressful time ever since then for a lot of families .", None, None, None, 1)]

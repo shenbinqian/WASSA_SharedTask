@@ -1,0 +1,19 @@
+=====================> [[('It may make me sound horrible ,', None, None, None, 0), ("but I 'm torn on this .", None, None, None, 1), ("No one should have to suffer like that for the crime of theft , it 's barbaric ,", None, None, None, 0), ('but if it really was a twenty-something', None, None, None, 0), ('that was part of an armed gang ,', None, None, None, 0), ("I 'm slightly less sympathetic about their victims", None, None, None, 0), ('retaliating .', None, None, None, 1), ('If it was a child ,', None, None, None, 0), ('however , this is insanity and just horrifying .', None, None, None, 1)]]
+Leaf:  S span It may make me sound horrible ,
+Leaf:  N Contrast but I 'm torn on this .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Contrast No one should have to suffer like that for the crime of theft , it 's barbaric ,
+Leaf:  N Elaborate but if it really was a twenty-something
+Leaf:  S span that was part of an armed gang ,
+Inner:  S span None Elaborate NS
+Leaf:  N Cause I 'm slightly less sympathetic about their victims
+Leaf:  S span retaliating .
+Inner:  N Condition None Cause NS
+Inner:  N Evaluation None Condition SN
+Leaf:  S span If it was a child ,
+Leaf:  N Condition however , this is insanity and just horrifying .
+Inner:  S span None Condition SN
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('It may make me sound horrible ,', None, None, None, 0), ("but I 'm torn on this .", None, None, None, 1), ("No one should have to suffer like that for the crime of theft , it 's barbaric ,", None, None, None, 0), ('but if it really was a twenty-something', None, None, None, 0), ('that was part of an armed gang ,', None, None, None, 0), ("I 'm slightly less sympathetic about their victims", None, None, None, 0), ('retaliating .', None, None, None, 1), ('If it was a child ,', None, None, None, 0), ('however , this is insanity and just horrifying .', None, None, None, 1)]

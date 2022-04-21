@@ -1,0 +1,29 @@
+=====================> [[('It is really sad this country is still having major issues with prejudice and inequality .', None, None, None, 1), ('Being a minority myself ,', None, None, None, 0), ('I feel for the Muslims and others', None, None, None, 0), ('who faced terrible treatment', None, None, None, 0), ('just because of their heritage .', None, None, None, 1), ('I hope', None, None, None, 0), ("you do n't have to experience these terrible things", None, None, None, 0), ('as they have .', None, None, None, 1), ('I would be really careful', None, None, None, 0), ('who you talk to', None, None, None, 0), ('just to be on the safe side .', None, None, None, 1), ('It is an unpredictable world', None, None, None, 0), ('we live in', None, None, None, 0), ('today sadly .', None, None, None, 1)]]
+Leaf:  N Explanation It is really sad this country is still having major issues with prejudice and inequality .
+Leaf:  S span Being a minority myself ,
+Leaf:  N Elaborate I feel for the Muslims and others
+Leaf:  N Cause who faced terrible treatment
+Leaf:  S span just because of their heritage .
+Inner:  S span None Cause NS
+Inner:  N Background None Elaborate NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span I hope
+Leaf:  N Comparison you do n't have to experience these terrible things
+Leaf:  S span as they have .
+Inner:  N Attribution None Comparison NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I would be really careful
+Leaf:  N Enablement who you talk to
+Leaf:  S span just to be on the safe side .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate It is an unpredictable world
+Leaf:  S span we live in
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit today sadly .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('It is really sad this country is still having major issues with prejudice and inequality .', None, None, None, 1), ('Being a minority myself ,', None, None, None, 0), ('I feel for the Muslims and others', None, None, None, 0), ('who faced terrible treatment', None, None, None, 0), ('just because of their heritage .', None, None, None, 1), ('I hope', None, None, None, 0), ("you do n't have to experience these terrible things", None, None, None, 0), ('as they have .', None, None, None, 1), ('I would be really careful', None, None, None, 0), ('who you talk to', None, None, None, 0), ('just to be on the safe side .', None, None, None, 1), ('It is an unpredictable world', None, None, None, 0), ('we live in', None, None, None, 0), ('today sadly .', None, None, None, 1)]

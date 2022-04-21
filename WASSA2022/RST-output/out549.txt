@@ -1,0 +1,45 @@
+=====================> [[('If people are concerned about others', None, None, None, 0), ('to', None, None, None, 0), ('where they feel fear .', None, None, None, 1), ('They need to leave the situation entirely .', None, None, None, 1), ('No working things out , no seeing what happens .', None, None, None, 1), ('If you feel threatened , LEAVE ! The problem is most people think', None, None, None, 0), ("they ca n't just drop everything .", None, None, None, 1), ("But it 's mostly because they either do n't know how ,", None, None, None, 0), ("or do n't want to live any other lesser lifestyle", None, None, None, 0), ('than they are accustomed to . Kids run away all the time from home with no skills , or means', None, None, None, 0), ('to get by .', None, None, None, 1), ('Many of them end up making it out ok .', None, None, None, 1), ("Some do n't , but it 's usually due to making the wrong choices .", None, None, None, 1), ('Taking the easy way out .', None, None, None, 1), ('We are free to make our own choices ,', None, None, None, 0), ('and live the life', None, None, None, 0), ('we can live .', None, None, None, 1), ('So why would any one ever put up with feeling threatened ,', None, None, None, 0), ('when they can just leave ,', None, None, None, 0), ('and disappear .', None, None, None, 1), ('Even if you have no where to go ,', None, None, None, 0), ('you can always die .', None, None, None, 1)]]
+Leaf:  N Enablement If people are concerned about others
+Leaf:  N Enablement to
+Leaf:  S span where they feel fear .
+Inner:  S span None Enablement NS
+Inner:  N Cause None Enablement NS
+Leaf:  S span They need to leave the situation entirely .
+Inner:  N Summary None Cause NS
+Leaf:  N Evaluation No working things out , no seeing what happens .
+Leaf:  S span If you feel threatened , LEAVE ! The problem is most people think
+Leaf:  N Attribution they ca n't just drop everything .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint But it 's mostly because they either do n't know how ,
+Leaf:  N Elaborate or do n't want to live any other lesser lifestyle
+Leaf:  N Elaborate than they are accustomed to . Kids run away all the time from home with no skills , or means
+Leaf:  S span to get by .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Cause None Explanation NS
+Leaf:  N Contrast Many of them end up making it out ok .
+Leaf:  N Contrast Some do n't , but it 's usually due to making the wrong choices .
+Inner:  S span None Contrast NN
+Inner:  N Joint None Cause NS
+Leaf:  N Elaborate Taking the easy way out .
+Leaf:  N Joint We are free to make our own choices ,
+Leaf:  N Elaborate and live the life
+Leaf:  S span we can live .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Background So why would any one ever put up with feeling threatened ,
+Leaf:  N Joint when they can just leave ,
+Leaf:  N Joint and disappear .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Background NS
+Leaf:  S span Even if you have no where to go ,
+Leaf:  N Contrast you can always die .
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Joint None Topic-Comment NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('If people are concerned about others', None, None, None, 0), ('to', None, None, None, 0), ('where they feel fear .', None, None, None, 1), ('They need to leave the situation entirely .', None, None, None, 1), ('No working things out , no seeing what happens .', None, None, None, 1), ('If you feel threatened , LEAVE ! The problem is most people think', None, None, None, 0), ("they ca n't just drop everything .", None, None, None, 1), ("But it 's mostly because they either do n't know how ,", None, None, None, 0), ("or do n't want to live any other lesser lifestyle", None, None, None, 0), ('than they are accustomed to . Kids run away all the time from home with no skills , or means', None, None, None, 0), ('to get by .', None, None, None, 1), ('Many of them end up making it out ok .', None, None, None, 1), ("Some do n't , but it 's usually due to making the wrong choices .", None, None, None, 1), ('Taking the easy way out .', None, None, None, 1), ('We are free to make our own choices ,', None, None, None, 0), ('and live the life', None, None, None, 0), ('we can live .', None, None, None, 1), ('So why would any one ever put up with feeling threatened ,', None, None, None, 0), ('when they can just leave ,', None, None, None, 0), ('and disappear .', None, None, None, 1), ('Even if you have no where to go ,', None, None, None, 0), ('you can always die .', None, None, None, 1)]

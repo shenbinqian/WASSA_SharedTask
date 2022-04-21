@@ -1,0 +1,41 @@
+=====================> [[('The indonisian government is not doing enough', None, None, None, 0), ('to protect some forest land .', None, None, None, 1), ('The orangantans', None, None, None, 0), ('who number seven fifty to seventeen fifty will be completly wiped out', None, None, None, 0), ('if the company', None, None, None, 0), ('that is clearing this land', None, None, None, 0), ('is allowed to continue .', None, None, None, 1), ('What can we do to form a protest or let the government know that this is not right.Can you help me with some ideas ?', None, None, None, 1), ('Maybe we email the indonesian government first or attempt to call them .', None, None, None, 1), ('After that maybe we can plan to picket or have a demonstration at the capitol building', None, None, None, 0), ('voicing our concerns .', None, None, None, 1), ('Do you feel the same about this that I do ?', None, None, None, 1), ('if you dont I will get someone', None, None, None, 0), ('else to help me', None, None, None, 0), ('or I will go it alone . I just feel so strongly', None, None, None, 0), ('that something productive needs to be done and fast .', None, None, None, 1), ('If we drag our feet', None, None, None, 0), ('they will have this land', None, None, None, 0), ('cleared', None, None, None, 0), ('before we can blink an eye .', None, None, None, 1)]]
+Leaf:  N Enablement The indonisian government is not doing enough
+Leaf:  S span to protect some forest land .
+Inner:  N Joint None Enablement NS
+Leaf:  N Elaborate The orangantans
+Leaf:  S span who number seven fifty to seventeen fifty will be completly wiped out
+Inner:  N Condition None Elaborate NS
+Leaf:  N Elaborate if the company
+Leaf:  S span that is clearing this land
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is allowed to continue .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Condition NS
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Topic-Comment What can we do to form a protest or let the government know that this is not right.Can you help me with some ideas ?
+Leaf:  N Temporal Maybe we email the indonesian government first or attempt to call them .
+Leaf:  N Enablement After that maybe we can plan to picket or have a demonstration at the capitol building
+Leaf:  S span voicing our concerns .
+Inner:  N Temporal None Enablement NS
+Inner:  N Topic-Comment None Temporal NN
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  N Evaluation Do you feel the same about this that I do ?
+Leaf:  N Elaborate if you dont I will get someone
+Leaf:  S span else to help me
+Inner:  N Joint None Elaborate NS
+Leaf:  S span or I will go it alone . I just feel so strongly
+Leaf:  N Attribution that something productive needs to be done and fast .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span If we drag our feet
+Leaf:  N Elaborate they will have this land
+Leaf:  S span cleared
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before we can blink an eye .
+Inner:  N Condition None Temporal NS
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('The indonisian government is not doing enough', None, None, None, 0), ('to protect some forest land .', None, None, None, 1), ('The orangantans', None, None, None, 0), ('who number seven fifty to seventeen fifty will be completly wiped out', None, None, None, 0), ('if the company', None, None, None, 0), ('that is clearing this land', None, None, None, 0), ('is allowed to continue .', None, None, None, 1), ('What can we do to form a protest or let the government know that this is not right.Can you help me with some ideas ?', None, None, None, 1), ('Maybe we email the indonesian government first or attempt to call them .', None, None, None, 1), ('After that maybe we can plan to picket or have a demonstration at the capitol building', None, None, None, 0), ('voicing our concerns .', None, None, None, 1), ('Do you feel the same about this that I do ?', None, None, None, 1), ('if you dont I will get someone', None, None, None, 0), ('else to help me', None, None, None, 0), ('or I will go it alone . I just feel so strongly', None, None, None, 0), ('that something productive needs to be done and fast .', None, None, None, 1), ('If we drag our feet', None, None, None, 0), ('they will have this land', None, None, None, 0), ('cleared', None, None, None, 0), ('before we can blink an eye .', None, None, None, 1)]

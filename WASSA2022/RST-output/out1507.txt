@@ -1,0 +1,21 @@
+=====================> [[('Hello there .', None, None, None, 1), ('So I just read this disturbing story about a teacher', None, None, None, 0), ('who is involved in child pornography .', None, None, None, 1), ('He is now going to face courts for such a disgusting habit .', None, None, None, 1), ('I think', None, None, None, 0), ('this teacher should really be punished exemplarily', None, None, None, 0), ('so that even those', None, None, None, 0), ('who were thinking of doing it', None, None, None, 0), ('can take notice .', None, None, None, 1), ('This is totally unacceptable in our education system', None, None, None, 0)]]
+Leaf:  N Textual-Organization Hello there .
+Leaf:  N Elaborate So I just read this disturbing story about a teacher
+Leaf:  S span who is involved in child pornography .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span He is now going to face courts for such a disgusting habit .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I think
+Leaf:  N Enablement this teacher should really be punished exemplarily
+Leaf:  N Elaborate so that even those
+Leaf:  S span who were thinking of doing it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can take notice .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span This is totally unacceptable in our education system
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Hello there .', None, None, None, 1), ('So I just read this disturbing story about a teacher', None, None, None, 0), ('who is involved in child pornography .', None, None, None, 1), ('He is now going to face courts for such a disgusting habit .', None, None, None, 1), ('I think', None, None, None, 0), ('this teacher should really be punished exemplarily', None, None, None, 0), ('so that even those', None, None, None, 0), ('who were thinking of doing it', None, None, None, 0), ('can take notice .', None, None, None, 1), ('This is totally unacceptable in our education system', None, None, None, 0)]

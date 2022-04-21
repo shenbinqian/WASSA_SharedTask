@@ -1,0 +1,41 @@
+=====================> [[('I think', None, None, None, 0), ('that global warming is definitely a very real thing', None, None, None, 0), ('that is occurring today', None, None, None, 0), ('and I feel like it is sad that there are still people', None, None, None, 0), ('who try to deny the fact', None, None, None, 0), ('that it is a very real thing .', None, None, None, 1), ('Sometimes I feel like the people', None, None, None, 0), ('that disagree with scientists and real evidence that global warming is very obvious today', None, None, None, 0), ('is just very ignorant and live in a bubble', None, None, None, 0), ('where they think', None, None, None, 0), ('that everything is fine in the world', None, None, None, 0), ('and everyone is at peace . There are so many reasons', None, None, None, 0), ('why we should be using fewer resources', None, None, None, 0), ('as it is constantly destroying our environment', None, None, None, 0), ('and it is unfortunate that there are people', None, None, None, 0), ('who just continue to deplete our resources', None, None, None, 0), ('without a care in the world .', None, None, None, 1), ("Maybe the effects wo n't be felt as much in our generation", None, None, None, 0), ('but I am sure', None, None, None, 0), ('that the effects will be felt by those others after us sadly .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate that global warming is definitely a very real thing
+Leaf:  S span that is occurring today
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and I feel like it is sad that there are still people
+Leaf:  N Elaborate who try to deny the fact
+Leaf:  S span that it is a very real thing .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate Sometimes I feel like the people
+Leaf:  S span that disagree with scientists and real evidence that global warming is very obvious today
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is just very ignorant and live in a bubble
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span where they think
+Leaf:  N Joint that everything is fine in the world
+Leaf:  N Elaborate and everyone is at peace . There are so many reasons
+Leaf:  N Cause why we should be using fewer resources
+Leaf:  N Cause as it is constantly destroying our environment
+Inner:  S span None Cause NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and it is unfortunate that there are people
+Leaf:  N Manner-Means who just continue to deplete our resources
+Leaf:  S span without a care in the world .
+Inner:  S span None Manner-Means NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Maybe the effects wo n't be felt as much in our generation
+Leaf:  S span but I am sure
+Leaf:  N Attribution that the effects will be felt by those others after us sadly .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('that global warming is definitely a very real thing', None, None, None, 0), ('that is occurring today', None, None, None, 0), ('and I feel like it is sad that there are still people', None, None, None, 0), ('who try to deny the fact', None, None, None, 0), ('that it is a very real thing .', None, None, None, 1), ('Sometimes I feel like the people', None, None, None, 0), ('that disagree with scientists and real evidence that global warming is very obvious today', None, None, None, 0), ('is just very ignorant and live in a bubble', None, None, None, 0), ('where they think', None, None, None, 0), ('that everything is fine in the world', None, None, None, 0), ('and everyone is at peace . There are so many reasons', None, None, None, 0), ('why we should be using fewer resources', None, None, None, 0), ('as it is constantly destroying our environment', None, None, None, 0), ('and it is unfortunate that there are people', None, None, None, 0), ('who just continue to deplete our resources', None, None, None, 0), ('without a care in the world .', None, None, None, 1), ("Maybe the effects wo n't be felt as much in our generation", None, None, None, 0), ('but I am sure', None, None, None, 0), ('that the effects will be felt by those others after us sadly .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('We should cherish all the works', None, None, None, 0), ('that the police force offers to us each and every day .', None, None, None, 1), ('While we sleep at night ,', None, None, None, 0), ('police officers patrol up and down our streets', None, None, None, 0), ('and neighborhoods', None, None, None, 0), ('making sure', None, None, None, 0), ('that we are safe and sound .', None, None, None, 1), ('We may fear police officers', None, None, None, 0), ('when we see them', None, None, None, 0), ('but fear not because they serve the country as our law and enforcement .', None, None, None, 1)]]
+Leaf:  N Elaborate We should cherish all the works
+Leaf:  S span that the police force offers to us each and every day .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span While we sleep at night ,
+Leaf:  N Joint police officers patrol up and down our streets
+Leaf:  N Enablement and neighborhoods
+Leaf:  S span making sure
+Leaf:  N Attribution that we are safe and sound .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Enablement NS
+Inner:  N Temporal None Joint NN
+Inner:  N Evaluation None Temporal SN
+Leaf:  N Background We may fear police officers
+Leaf:  S span when we see them
+Inner:  S span None Background NS
+Leaf:  N Contrast but fear not because they serve the country as our law and enforcement .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('We should cherish all the works', None, None, None, 0), ('that the police force offers to us each and every day .', None, None, None, 1), ('While we sleep at night ,', None, None, None, 0), ('police officers patrol up and down our streets', None, None, None, 0), ('and neighborhoods', None, None, None, 0), ('making sure', None, None, None, 0), ('that we are safe and sound .', None, None, None, 1), ('We may fear police officers', None, None, None, 0), ('when we see them', None, None, None, 0), ('but fear not because they serve the country as our law and enforcement .', None, None, None, 1)]

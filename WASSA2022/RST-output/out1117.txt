@@ -1,0 +1,17 @@
+=====================> [[('The situation in Syria is really shocking .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('about how the regime in power together with Russia is bombing schools and relief caravans .', None, None, None, 1), ('They deny it', None, None, None, 0), ('and Russia and China vote against sanctions at the UN .', None, None, None, 1), ("It 's hard to understand what could be behind this outrage . Fortunately , there is Human Rights Watch which has done extensive and careful documentation of the most recent school bombing ,", None, None, None, 0), ('and there is some effort', None, None, None, 0), ('to get individual acts treated as war crimes through UN channels .', None, None, None, 1)]]
+Leaf:  N Explanation The situation in Syria is really shocking .
+Leaf:  N Elaborate I just read an article
+Leaf:  S span about how the regime in power together with Russia is bombing schools and relief caravans .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Joint They deny it
+Leaf:  N Joint and Russia and China vote against sanctions at the UN .
+Inner:  N Topic-Comment None Joint NN
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Joint It 's hard to understand what could be behind this outrage . Fortunately , there is Human Rights Watch which has done extensive and careful documentation of the most recent school bombing ,
+Leaf:  N Elaborate and there is some effort
+Leaf:  S span to get individual acts treated as war crimes through UN channels .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('The situation in Syria is really shocking .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('about how the regime in power together with Russia is bombing schools and relief caravans .', None, None, None, 1), ('They deny it', None, None, None, 0), ('and Russia and China vote against sanctions at the UN .', None, None, None, 1), ("It 's hard to understand what could be behind this outrage . Fortunately , there is Human Rights Watch which has done extensive and careful documentation of the most recent school bombing ,", None, None, None, 0), ('and there is some effort', None, None, None, 0), ('to get individual acts treated as war crimes through UN channels .', None, None, None, 1)]

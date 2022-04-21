@@ -1,0 +1,19 @@
+=====================> [[('How could someone treat such an intelligent creature so horribly .', None, None, None, 1), ("You 'd think", None, None, None, 0), ('by now people would figure out', None, None, None, 0), ("that we do n't have any superior right to health and happiness over other animals on Earth .", None, None, None, 1), ("You 'd think", None, None, None, 0), ('people would be too ashamed of the CHANCE', None, None, None, 0), ('of getting caught acting like this', None, None, None, 0), ('to actually have the audacity', None, None, None, 0), ('to treat another living creature so despicably .', None, None, None, 1)]]
+Leaf:  N Evaluation How could someone treat such an intelligent creature so horribly .
+Leaf:  S span You 'd think
+Leaf:  S span by now people would figure out
+Leaf:  N Attribution that we do n't have any superior right to health and happiness over other animals on Earth .
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  S span You 'd think
+Leaf:  N Elaborate people would be too ashamed of the CHANCE
+Leaf:  S span of getting caught acting like this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate to actually have the audacity
+Leaf:  S span to treat another living creature so despicably .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('How could someone treat such an intelligent creature so horribly .', None, None, None, 1), ("You 'd think", None, None, None, 0), ('by now people would figure out', None, None, None, 0), ("that we do n't have any superior right to health and happiness over other animals on Earth .", None, None, None, 1), ("You 'd think", None, None, None, 0), ('people would be too ashamed of the CHANCE', None, None, None, 0), ('of getting caught acting like this', None, None, None, 0), ('to actually have the audacity', None, None, None, 0), ('to treat another living creature so despicably .', None, None, None, 1)]

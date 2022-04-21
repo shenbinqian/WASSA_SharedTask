@@ -1,0 +1,25 @@
+=====================> [[('I would find it hard to believe', None, None, None, 0), ('that the students are still alive', None, None, None, 0), ('if they were handed over to the drug cartel .', None, None, None, 1), ('If these students were on a trip to hijack vehicles ,', None, None, None, 0), ('then law enforcement should not use their time and resources', None, None, None, 0), ('to search for them , especially after 2 years . Their time should be spent on non-criminals . But', None, None, None, 0), ('if they believe', None, None, None, 0), ('the police are the ones', None, None, None, 0), ('who handed them over to a drug cartel ,', None, None, None, 0), ('then they should probably look into that', None, None, None, 0), ('then using these same people', None, None, None, 0), ('to locate them .', None, None, None, 1)]]
+Leaf:  S span I would find it hard to believe
+Leaf:  N Attribution that the students are still alive
+Inner:  N Condition None Attribution SN
+Leaf:  S span if they were handed over to the drug cartel .
+Inner:  N Explanation None Condition NS
+Leaf:  S span If these students were on a trip to hijack vehicles ,
+Leaf:  N Enablement then law enforcement should not use their time and resources
+Leaf:  S span to search for them , especially after 2 years . Their time should be spent on non-criminals . But
+Inner:  N Condition None Enablement NS
+Inner:  N Same-Unit None Condition SN
+Leaf:  S span if they believe
+Leaf:  N Elaborate the police are the ones
+Leaf:  S span who handed them over to a drug cartel ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Manner-Means then they should probably look into that
+Leaf:  N Enablement then using these same people
+Leaf:  S span to locate them .
+Inner:  S span None Enablement NS
+Inner:  N Condition None Manner-Means NS
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Explanation NS
+[('I would find it hard to believe', None, None, None, 0), ('that the students are still alive', None, None, None, 0), ('if they were handed over to the drug cartel .', None, None, None, 1), ('If these students were on a trip to hijack vehicles ,', None, None, None, 0), ('then law enforcement should not use their time and resources', None, None, None, 0), ('to search for them , especially after 2 years . Their time should be spent on non-criminals . But', None, None, None, 0), ('if they believe', None, None, None, 0), ('the police are the ones', None, None, None, 0), ('who handed them over to a drug cartel ,', None, None, None, 0), ('then they should probably look into that', None, None, None, 0), ('then using these same people', None, None, None, 0), ('to locate them .', None, None, None, 1)]

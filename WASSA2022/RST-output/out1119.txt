@@ -1,0 +1,23 @@
+=====================> [[('Trump and Putin talk about Syria in pacific terms', None, None, None, 0), ('but then Russian warships bomb Aleppo ,', None, None, None, 0), ('the bombing said', None, None, None, 0), ('to be for " show . "', None, None, None, 0), ('A show', None, None, None, 0), ('that is destroying the city and its people .', None, None, None, 1), ('This is really outrageous . At least we are getting some reporting about it ,', None, None, None, 0), ("even though it 's just frustrating", None, None, None, 0), ("since we ca n't really do anything ,", None, None, None, 0), ('and Trump is looking the other way .', None, None, None, 1), ('The Syrian problems seem likely to drag down the world for years to come .', None, None, None, 1)]]
+Leaf:  N Contrast Trump and Putin talk about Syria in pacific terms
+Leaf:  N Elaborate but then Russian warships bomb Aleppo ,
+Leaf:  S span the bombing said
+Leaf:  N Attribution to be for " show . "
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate A show
+Leaf:  S span that is destroying the city and its people .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Contrast This is really outrageous . At least we are getting some reporting about it ,
+Leaf:  N Background even though it 's just frustrating
+Leaf:  S span since we ca n't really do anything ,
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit and Trump is looking the other way .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The Syrian problems seem likely to drag down the world for years to come .
+Inner:  Root None None Evaluation NS
+[('Trump and Putin talk about Syria in pacific terms', None, None, None, 0), ('but then Russian warships bomb Aleppo ,', None, None, None, 0), ('the bombing said', None, None, None, 0), ('to be for " show . "', None, None, None, 0), ('A show', None, None, None, 0), ('that is destroying the city and its people .', None, None, None, 1), ('This is really outrageous . At least we are getting some reporting about it ,', None, None, None, 0), ("even though it 's just frustrating", None, None, None, 0), ("since we ca n't really do anything ,", None, None, None, 0), ('and Trump is looking the other way .', None, None, None, 1), ('The Syrian problems seem likely to drag down the world for years to come .', None, None, None, 1)]

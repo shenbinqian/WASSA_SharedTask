@@ -1,0 +1,33 @@
+=====================> [[('It is a sad world', None, None, None, 0), ('when lives are threatened daily .', None, None, None, 1), ("let 's remember when we here in America were fighting each other during the civil war .", None, None, None, 1), ('war is hell', None, None, None, 0), ('whether you are on the " right " side or the " wrong " side .', None, None, None, 1), ('Both sides invariably lose something .', None, None, None, 1), ('Does it make sense to have war ? Is it a human condition', None, None, None, 0), ('that we will never be able to contain ? I know these are open ended questions', None, None, None, 0), ('but are we like the herds of animals', None, None, None, 0), ('that migrate', None, None, None, 0), ("and take over others ' territories", None, None, None, 0), ('when food and water are needed .', None, None, None, 1), ('I believe', None, None, None, 0), ('we can be better', None, None, None, 0), ('by accepting our differences', None, None, None, 0), ('and finding common ground for the welfare of all .', None, None, None, 1)]]
+Leaf:  N Background It is a sad world
+Leaf:  S span when lives are threatened daily .
+Inner:  N Textual-Organization None Background NS
+Leaf:  N Textual-Organization let 's remember when we here in America were fighting each other during the civil war .
+Leaf:  N Contrast war is hell
+Leaf:  S span whether you are on the " right " side or the " wrong " side .
+Inner:  N Explanation None Contrast NS
+Leaf:  S span Both sides invariably lose something .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Does it make sense to have war ? Is it a human condition
+Leaf:  S span that we will never be able to contain ? I know these are open ended questions
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but are we like the herds of animals
+Leaf:  N Joint that migrate
+Leaf:  N Background and take over others ' territories
+Leaf:  S span when food and water are needed .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span I believe
+Leaf:  N Manner-Means we can be better
+Leaf:  N Joint by accepting our differences
+Leaf:  N Joint and finding common ground for the welfare of all .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Topic-Comment None Attribution SN
+Inner:  N Textual-Organization None Topic-Comment NN
+Inner:  N Textual-Organization None Textual-Organization NN
+Inner:  Root None None Textual-Organization NN
+[('It is a sad world', None, None, None, 0), ('when lives are threatened daily .', None, None, None, 1), ("let 's remember when we here in America were fighting each other during the civil war .", None, None, None, 1), ('war is hell', None, None, None, 0), ('whether you are on the " right " side or the " wrong " side .', None, None, None, 1), ('Both sides invariably lose something .', None, None, None, 1), ('Does it make sense to have war ? Is it a human condition', None, None, None, 0), ('that we will never be able to contain ? I know these are open ended questions', None, None, None, 0), ('but are we like the herds of animals', None, None, None, 0), ('that migrate', None, None, None, 0), ("and take over others ' territories", None, None, None, 0), ('when food and water are needed .', None, None, None, 1), ('I believe', None, None, None, 0), ('we can be better', None, None, None, 0), ('by accepting our differences', None, None, None, 0), ('and finding common ground for the welfare of all .', None, None, None, 1)]

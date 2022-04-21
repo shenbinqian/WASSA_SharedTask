@@ -1,0 +1,39 @@
+=====================> [[('Ya know a lot of people hate the Jews .', None, None, None, 1), ('Yet we both know lots of Jews', None, None, None, 0), ('and I like most of them .', None, None, None, 1), ("To me it does n't really matter", None, None, None, 0), ('as I never even thought about someone', None, None, None, 0), ('being a Jew', None, None, None, 0), ('until I got older . People are people .', None, None, None, 1), ('Jews are smart .', None, None, None, 1), ('Jews have always been smart at least for generations .', None, None, None, 1), ('Smart people make money', None, None, None, 0), ("and are good at business . Just the way it goes . Jew , Jew Jew , I 'm sick of all of the Jew hate . OTOH people have a legitimate concern", None, None, None, 0), ('to fear', None, None, None, 0), ('that Trump', None, None, None, 0), ('being elected', None, None, None, 0), ('will cause problems', None, None, None, 0), ('like WW2 did . After all Jews tend to be Republican and likely donated a ton of money to Trump', None, None, None, 0), ('and they are more powerful today', None, None, None, 0), ('than they ever were .', None, None, None, 1), ("Still whatever , it does n't affect us .", None, None, None, 1)]]
+Leaf:  N Contrast Ya know a lot of people hate the Jews .
+Leaf:  N Joint Yet we both know lots of Jews
+Leaf:  N Joint and I like most of them .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation To me it does n't really matter
+Leaf:  N Elaborate as I never even thought about someone
+Leaf:  S span being a Jew
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span until I got older . People are people .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Jews are smart .
+Leaf:  N Joint Jews have always been smart at least for generations .
+Leaf:  N Joint Smart people make money
+Leaf:  N Elaborate and are good at business . Just the way it goes . Jew , Jew Jew , I 'm sick of all of the Jew hate . OTOH people have a legitimate concern
+Leaf:  N Elaborate to fear
+Leaf:  N Same-Unit that Trump
+Leaf:  N Same-Unit being elected
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Comparison will cause problems
+Leaf:  S span like WW2 did . After all Jews tend to be Republican and likely donated a ton of money to Trump
+Inner:  N Same-Unit None Comparison NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Comparison and they are more powerful today
+Leaf:  S span than they ever were .
+Inner:  N Cause None Comparison NS
+Inner:  N Joint None Cause SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span Still whatever , it does n't affect us .
+Inner:  Root None None Evaluation NS
+[('Ya know a lot of people hate the Jews .', None, None, None, 1), ('Yet we both know lots of Jews', None, None, None, 0), ('and I like most of them .', None, None, None, 1), ("To me it does n't really matter", None, None, None, 0), ('as I never even thought about someone', None, None, None, 0), ('being a Jew', None, None, None, 0), ('until I got older . People are people .', None, None, None, 1), ('Jews are smart .', None, None, None, 1), ('Jews have always been smart at least for generations .', None, None, None, 1), ('Smart people make money', None, None, None, 0), ("and are good at business . Just the way it goes . Jew , Jew Jew , I 'm sick of all of the Jew hate . OTOH people have a legitimate concern", None, None, None, 0), ('to fear', None, None, None, 0), ('that Trump', None, None, None, 0), ('being elected', None, None, None, 0), ('will cause problems', None, None, None, 0), ('like WW2 did . After all Jews tend to be Republican and likely donated a ton of money to Trump', None, None, None, 0), ('and they are more powerful today', None, None, None, 0), ('than they ever were .', None, None, None, 1), ("Still whatever , it does n't affect us .", None, None, None, 1)]

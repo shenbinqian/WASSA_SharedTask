@@ -1,0 +1,25 @@
+=====================> [[('I kind of felt a little angry', None, None, None, 0), ('reading this article .', None, None, None, 1), ('I felt', None, None, None, 0), ('as thought', None, None, None, 0), ('this may have been something', None, None, None, 0), ('that was preventable with better infrastructure in place or procedures', None, None, None, 0), ('to check water supplies for such bacteria .', None, None, None, 1), ('Many people lost their lives', None, None, None, 0), ('or ended up ,', None, None, None, 0), ('maybe it was passed through their family .', None, None, None, 1), ('It would be horrible to lose someone', None, None, None, 0), ('that you care about like this .', None, None, None, 1)]]
+Leaf:  N Background I kind of felt a little angry
+Leaf:  S span reading this article .
+Inner:  N Background None Background NS
+Leaf:  N Same-Unit I felt
+Leaf:  N Elaborate as thought
+Leaf:  N Elaborate this may have been something
+Leaf:  N Elaborate that was preventable with better infrastructure in place or procedures
+Leaf:  S span to check water supplies for such bacteria .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint Many people lost their lives
+Leaf:  N Elaborate or ended up ,
+Leaf:  S span maybe it was passed through their family .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It would be horrible to lose someone
+Leaf:  S span that you care about like this .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I kind of felt a little angry', None, None, None, 0), ('reading this article .', None, None, None, 1), ('I felt', None, None, None, 0), ('as thought', None, None, None, 0), ('this may have been something', None, None, None, 0), ('that was preventable with better infrastructure in place or procedures', None, None, None, 0), ('to check water supplies for such bacteria .', None, None, None, 1), ('Many people lost their lives', None, None, None, 0), ('or ended up ,', None, None, None, 0), ('maybe it was passed through their family .', None, None, None, 1), ('It would be horrible to lose someone', None, None, None, 0), ('that you care about like this .', None, None, None, 1)]

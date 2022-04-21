@@ -1,0 +1,43 @@
+=====================> [[('We had a squirrel', None, None, None, 0), ('that entered our building', None, None, None, 0), ('and it ’s in our activity room', None, None, None, 0), ('and it ’s jumping on people', None, None, None, 0), ('and biting them', None, None, None, 0), ('and scratching them , ”', None, None, None, 0), ('a woman told the dispatcher ,', None, None, None, 0), ('according to audio from the Volusia County Sheriff ’s Office .', None, None, None, 1), ('“ So we need help . ” During the call , people in the background cried for help .', None, None, None, 1), ('“ I feel lightheaded , ”', None, None, None, 0), ('one person said . “ I do n’t feel good . ” “ Okay , does anybody there need an ambulance', None, None, None, 0), ('to take them to the hospital ? ” the 911 dispatcher said . “ I do n’t know', None, None, None, 0), ('if we need to go in an ambulance', None, None, None, 0), ('but we need some care for people here , ”', None, None, None, 0), ('the staff member told him .', None, None, None, 1), ('“ It ’s still in there', None, None, None, 0), ('and the people are bleeding . ” “ Is everybody out of the room ? ”', None, None, None, 0), ('the dispatcher said .', None, None, None, 1), ('The caller asked others :', None, None, None, 0), ('“ Is anyone left in the activity room ? Is the activity room empty ? ”', None, None, None, 0), ('“ There is another person', None, None, None, 0)]]
+Leaf:  N Elaborate We had a squirrel
+Leaf:  S span that entered our building
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and it ’s in our activity room
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Joint and it ’s jumping on people
+Leaf:  N Joint and biting them
+Leaf:  N Joint and scratching them , ”
+Inner:  N Joint None Joint NN
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Leaf:  N Attribution a woman told the dispatcher ,
+Leaf:  S span according to audio from the Volusia County Sheriff ’s Office .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Summary “ So we need help . ” During the call , people in the background cried for help .
+Leaf:  N Attribution “ I feel lightheaded , ”
+Leaf:  N Enablement one person said . “ I do n’t feel good . ” “ Okay , does anybody there need an ambulance
+Leaf:  S span to take them to the hospital ? ” the 911 dispatcher said . “ I do n’t know
+Leaf:  N Attribution if we need to go in an ambulance
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Leaf:  N Contrast but we need some care for people here , ”
+Inner:  S span None Contrast SN
+Inner:  N Attribution None Attribution NS
+Leaf:  S span the staff member told him .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Summary NS
+Leaf:  N Joint “ It ’s still in there
+Leaf:  N Joint and the people are bleeding . ” “ Is everybody out of the room ? ”
+Inner:  N Attribution None Joint NN
+Leaf:  S span the dispatcher said .
+Inner:  S span None Attribution NS
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span The caller asked others :
+Leaf:  N Joint “ Is anyone left in the activity room ? Is the activity room empty ? ”
+Leaf:  N Joint “ There is another person
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Cause NS
+[('We had a squirrel', None, None, None, 0), ('that entered our building', None, None, None, 0), ('and it ’s in our activity room', None, None, None, 0), ('and it ’s jumping on people', None, None, None, 0), ('and biting them', None, None, None, 0), ('and scratching them , ”', None, None, None, 0), ('a woman told the dispatcher ,', None, None, None, 0), ('according to audio from the Volusia County Sheriff ’s Office .', None, None, None, 1), ('“ So we need help . ” During the call , people in the background cried for help .', None, None, None, 1), ('“ I feel lightheaded , ”', None, None, None, 0), ('one person said . “ I do n’t feel good . ” “ Okay , does anybody there need an ambulance', None, None, None, 0), ('to take them to the hospital ? ” the 911 dispatcher said . “ I do n’t know', None, None, None, 0), ('if we need to go in an ambulance', None, None, None, 0), ('but we need some care for people here , ”', None, None, None, 0), ('the staff member told him .', None, None, None, 1), ('“ It ’s still in there', None, None, None, 0), ('and the people are bleeding . ” “ Is everybody out of the room ? ”', None, None, None, 0), ('the dispatcher said .', None, None, None, 1), ('The caller asked others :', None, None, None, 0), ('“ Is anyone left in the activity room ? Is the activity room empty ? ”', None, None, None, 0), ('“ There is another person', None, None, None, 0)]

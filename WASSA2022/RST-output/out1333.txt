@@ -1,0 +1,35 @@
+=====================> [[('I just read a story about the tragic deaths', None, None, None, 0), ('that occurred as a result of the terrorist group in 2015 in Paris .', None, None, None, 1), ("It was gruesome to hear one man 's account of the story .", None, None, None, 1), ('He said', None, None, None, 0), ('the shootings went on for 3 hours ,', None, None, None, 0), ('and', None, None, None, 0), ('when stopped ,', None, None, None, 0), ('it was only so they could load more ammunition', None, None, None, 0), ('and fire more .', None, None, None, 1), ("I could n't help", None, None, None, 0), ('but think about the people out in the crowd', None, None, None, 0), ("who where hit and killed . It 's disturbing just imagining that scene and the terror .", None, None, None, 1), ('And then one man , George Salines , got a call', None, None, None, 0), ('no one would want .', None, None, None, 1), ('That his daughter was among the 130 killed .', None, None, None, 1), ('The loss has affected his whole life ,', None, None, None, 0), ('he left his job and everything . In one moment , anyone can be affected by severe tragedy .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a story about the tragic deaths
+Leaf:  S span that occurred as a result of the terrorist group in 2015 in Paris .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It was gruesome to hear one man 's account of the story .
+Leaf:  S span He said
+Leaf:  N Temporal the shootings went on for 3 hours ,
+Leaf:  N Same-Unit and
+Leaf:  S span when stopped ,
+Leaf:  N Joint it was only so they could load more ammunition
+Leaf:  N Joint and fire more .
+Inner:  N Background None Joint NN
+Inner:  N Same-Unit None Background SN
+Inner:  N Temporal None Same-Unit NN
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I could n't help
+Leaf:  N Elaborate but think about the people out in the crowd
+Leaf:  S span who where hit and killed . It 's disturbing just imagining that scene and the terror .
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate And then one man , George Salines , got a call
+Leaf:  S span no one would want .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span That his daughter was among the 130 killed .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The loss has affected his whole life ,
+Leaf:  S span he left his job and everything . In one moment , anyone can be affected by severe tragedy .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read a story about the tragic deaths', None, None, None, 0), ('that occurred as a result of the terrorist group in 2015 in Paris .', None, None, None, 1), ("It was gruesome to hear one man 's account of the story .", None, None, None, 1), ('He said', None, None, None, 0), ('the shootings went on for 3 hours ,', None, None, None, 0), ('and', None, None, None, 0), ('when stopped ,', None, None, None, 0), ('it was only so they could load more ammunition', None, None, None, 0), ('and fire more .', None, None, None, 1), ("I could n't help", None, None, None, 0), ('but think about the people out in the crowd', None, None, None, 0), ("who where hit and killed . It 's disturbing just imagining that scene and the terror .", None, None, None, 1), ('And then one man , George Salines , got a call', None, None, None, 0), ('no one would want .', None, None, None, 1), ('That his daughter was among the 130 killed .', None, None, None, 1), ('The loss has affected his whole life ,', None, None, None, 0), ('he left his job and everything . In one moment , anyone can be affected by severe tragedy .', None, None, None, 1)]

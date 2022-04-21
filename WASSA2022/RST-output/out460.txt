@@ -1,0 +1,21 @@
+=====================> [[('Oh my goodness , did you read this article ?', None, None, None, 1), ('It was heart-wrenching', None, None, None, 0), ('... I felt so sad', None, None, None, 0), ('while reading it', None, None, None, 0), ('and my heart breaks for the mother of these babies .', None, None, None, 1), ('There is no way', None, None, None, 0), ('that a parent should ever , ever have to lose a child , muchless two children at the same time .', None, None, None, 1), ('So horrifying and sad !', None, None, None, 1), ('Something has to be done about all of this .', None, None, None, 1), ('They deserve justice !!', None, None, None, 1)]]
+Leaf:  N Evaluation Oh my goodness , did you read this article ?
+Leaf:  N Explanation It was heart-wrenching
+Leaf:  N Temporal ... I felt so sad
+Leaf:  S span while reading it
+Inner:  N Joint None Temporal NS
+Leaf:  N Joint and my heart breaks for the mother of these babies .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate There is no way
+Leaf:  S span that a parent should ever , ever have to lose a child , muchless two children at the same time .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span So horrifying and sad !
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Evaluation Something has to be done about all of this .
+Leaf:  S span They deserve justice !!
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('Oh my goodness , did you read this article ?', None, None, None, 1), ('It was heart-wrenching', None, None, None, 0), ('... I felt so sad', None, None, None, 0), ('while reading it', None, None, None, 0), ('and my heart breaks for the mother of these babies .', None, None, None, 1), ('There is no way', None, None, None, 0), ('that a parent should ever , ever have to lose a child , muchless two children at the same time .', None, None, None, 1), ('So horrifying and sad !', None, None, None, 1), ('Something has to be done about all of this .', None, None, None, 1), ('They deserve justice !!', None, None, None, 1)]

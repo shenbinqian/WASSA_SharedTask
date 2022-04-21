@@ -1,0 +1,21 @@
+=====================> [[('The man', None, None, None, 0), ('that did this', None, None, None, 0), ('needs to be absolutely punished by execution .', None, None, None, 1), ('I am not even talking about a regular syringe execution', None, None, None, 0), ('this man needs a whole team of shooters like the old days .', None, None, None, 1), ('In no way should we condone this behavior', None, None, None, 0), ('by only giving the man a life sentence .', None, None, None, 1), ('He still lives !', None, None, None, 1), ("Let 's make him suffer", None, None, None, 0), ('like she did !', None, None, None, 1)]]
+Leaf:  N Elaborate The man
+Leaf:  S span that did this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit needs to be absolutely punished by execution .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Summary I am not even talking about a regular syringe execution
+Leaf:  S span this man needs a whole team of shooters like the old days .
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Manner-Means In no way should we condone this behavior
+Leaf:  S span by only giving the man a life sentence .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  S span He still lives !
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Comparison Let 's make him suffer
+Leaf:  S span like she did !
+Inner:  S span None Comparison NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('The man', None, None, None, 0), ('that did this', None, None, None, 0), ('needs to be absolutely punished by execution .', None, None, None, 1), ('I am not even talking about a regular syringe execution', None, None, None, 0), ('this man needs a whole team of shooters like the old days .', None, None, None, 1), ('In no way should we condone this behavior', None, None, None, 0), ('by only giving the man a life sentence .', None, None, None, 1), ('He still lives !', None, None, None, 1), ("Let 's make him suffer", None, None, None, 0), ('like she did !', None, None, None, 1)]

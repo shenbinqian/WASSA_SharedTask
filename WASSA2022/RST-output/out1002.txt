@@ -1,0 +1,21 @@
+=====================> [[('Tigers are truly majestic creatures ,', None, None, None, 0), ("and it 's a shame that their numbers are decreasing .", None, None, None, 1), ('India can not fight this battle on its own .', None, None, None, 1), ('The poachers sell to international buyers ,', None, None, None, 0), ('so the governments of other countries should step in', None, None, None, 0), ('and help the Indian people combat these poachers .', None, None, None, 1), ('There should be a negative stigma', None, None, None, 0), ('on using any products', None, None, None, 0), ('made with tiger parts', None, None, None, 0), ('so that people would feel ashamed to contribute to this sordid smuggling trade .', None, None, None, 1)]]
+Leaf:  N Joint Tigers are truly majestic creatures ,
+Leaf:  N Joint and it 's a shame that their numbers are decreasing .
+Inner:  N Explanation None Joint NN
+Leaf:  N Explanation India can not fight this battle on its own .
+Leaf:  S span The poachers sell to international buyers ,
+Leaf:  N Joint so the governments of other countries should step in
+Leaf:  N Joint and help the Indian people combat these poachers .
+Inner:  N Explanation None Joint NN
+Inner:  N Evaluation None Explanation SN
+Leaf:  N Elaborate There should be a negative stigma
+Leaf:  N Elaborate on using any products
+Leaf:  S span made with tiger parts
+Inner:  N Cause None Elaborate NS
+Leaf:  S span so that people would feel ashamed to contribute to this sordid smuggling trade .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('Tigers are truly majestic creatures ,', None, None, None, 0), ("and it 's a shame that their numbers are decreasing .", None, None, None, 1), ('India can not fight this battle on its own .', None, None, None, 1), ('The poachers sell to international buyers ,', None, None, None, 0), ('so the governments of other countries should step in', None, None, None, 0), ('and help the Indian people combat these poachers .', None, None, None, 1), ('There should be a negative stigma', None, None, None, 0), ('on using any products', None, None, None, 0), ('made with tiger parts', None, None, None, 0), ('so that people would feel ashamed to contribute to this sordid smuggling trade .', None, None, None, 1)]

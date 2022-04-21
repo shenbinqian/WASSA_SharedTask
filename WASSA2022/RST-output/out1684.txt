@@ -1,0 +1,27 @@
+=====================> [[('I just read an article about 500 people', None, None, None, 0), ('being killed in an earthquake .', None, None, None, 1), ('I feel so blessed', None, None, None, 0), ('that I live in a state', None, None, None, 0), ('where I do n’t fear earthquakes , or severe tornado warnings , flash floods or major disasters .', None, None, None, 1), ('Of course Vermont has had our issues and weather events', None, None, None, 0), ('that caused damage ,', None, None, None, 0), ('however we ’re not in a region of the world', None, None, None, 0), ('where we fear for our lives at certain months of the year .', None, None, None, 1), ('I could not imagine being terrified for my children , property , and family', None, None, None, 0), ('like some of these families are .', None, None, None, 1), ('Living through an experience like that , must leave behind emotional scars', None, None, None, 0), ('while growing up .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about 500 people
+Leaf:  S span being killed in an earthquake .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I feel so blessed
+Leaf:  N Elaborate that I live in a state
+Leaf:  S span where I do n’t fear earthquakes , or severe tornado warnings , flash floods or major disasters .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Of course Vermont has had our issues and weather events
+Leaf:  S span that caused damage ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate however we ’re not in a region of the world
+Leaf:  S span where we fear for our lives at certain months of the year .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Comparison I could not imagine being terrified for my children , property , and family
+Leaf:  S span like some of these families are .
+Inner:  S span None Comparison NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal Living through an experience like that , must leave behind emotional scars
+Leaf:  S span while growing up .
+Inner:  S span None Temporal NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about 500 people', None, None, None, 0), ('being killed in an earthquake .', None, None, None, 1), ('I feel so blessed', None, None, None, 0), ('that I live in a state', None, None, None, 0), ('where I do n’t fear earthquakes , or severe tornado warnings , flash floods or major disasters .', None, None, None, 1), ('Of course Vermont has had our issues and weather events', None, None, None, 0), ('that caused damage ,', None, None, None, 0), ('however we ’re not in a region of the world', None, None, None, 0), ('where we fear for our lives at certain months of the year .', None, None, None, 1), ('I could not imagine being terrified for my children , property , and family', None, None, None, 0), ('like some of these families are .', None, None, None, 1), ('Living through an experience like that , must leave behind emotional scars', None, None, None, 0), ('while growing up .', None, None, None, 1)]

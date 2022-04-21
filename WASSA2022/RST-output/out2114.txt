@@ -1,0 +1,23 @@
+=====================> [[('An amusement park should be a place of fun .', None, None, None, 1), ('Millions go to them yearly', None, None, None, 0), ('and given that number tragedies are rare .', None, None, None, 1), ('That is not the type of ride', None, None, None, 0), ('that I would expect to have a risk', None, None, None, 0), ('and i wonder', None, None, None, 0), ('if the park was negligent in any way .', None, None, None, 1), ('I can not imagine', None, None, None, 0), ('what it would be like to lose a loved one', None, None, None, 0), ('on what was suppose dot be a day of fun', None, None, None, 0), ('and feel sympathy for the families', None, None, None, 0)]]
+Leaf:  N Explanation An amusement park should be a place of fun .
+Leaf:  N Cause Millions go to them yearly
+Leaf:  N Cause and given that number tragedies are rare .
+Inner:  S span None Cause NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate That is not the type of ride
+Leaf:  S span that I would expect to have a risk
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and i wonder
+Leaf:  N Attribution if the park was negligent in any way .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I can not imagine
+Leaf:  N Same-Unit what it would be like to lose a loved one
+Leaf:  N Same-Unit on what was suppose dot be a day of fun
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and feel sympathy for the families
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('An amusement park should be a place of fun .', None, None, None, 1), ('Millions go to them yearly', None, None, None, 0), ('and given that number tragedies are rare .', None, None, None, 1), ('That is not the type of ride', None, None, None, 0), ('that I would expect to have a risk', None, None, None, 0), ('and i wonder', None, None, None, 0), ('if the park was negligent in any way .', None, None, None, 1), ('I can not imagine', None, None, None, 0), ('what it would be like to lose a loved one', None, None, None, 0), ('on what was suppose dot be a day of fun', None, None, None, 0), ('and feel sympathy for the families', None, None, None, 0)]

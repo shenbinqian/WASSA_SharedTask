@@ -1,0 +1,19 @@
+=====================> [[('I just read an article about some chowder-head', None, None, None, 0), ('who used a hammer and a pick ax', None, None, None, 0), ("to destroy Donald Trump 's star on the Hollywood walk of fame .", None, None, None, 1), ('Wow , what a great protest .', None, None, None, 1), ('You sure showed him . Good job . Lol , can you believe this garbage ?', None, None, None, 1), ('Who has such a hollow and pathetic life', None, None, None, 0), ("that they do n't have anything better to do with their time", None, None, None, 0), ('than commit petty vandalism', None, None, None, 0), ('because they dislike some politician ? What a dingus .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about some chowder-head
+Leaf:  N Enablement who used a hammer and a pick ax
+Leaf:  S span to destroy Donald Trump 's star on the Hollywood walk of fame .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Wow , what a great protest .
+Leaf:  S span You sure showed him . Good job . Lol , can you believe this garbage ?
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Cause Who has such a hollow and pathetic life
+Leaf:  N Manner-Means that they do n't have anything better to do with their time
+Leaf:  N Cause than commit petty vandalism
+Leaf:  S span because they dislike some politician ? What a dingus .
+Inner:  S span None Cause NS
+Inner:  S span None Manner-Means NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about some chowder-head', None, None, None, 0), ('who used a hammer and a pick ax', None, None, None, 0), ("to destroy Donald Trump 's star on the Hollywood walk of fame .", None, None, None, 1), ('Wow , what a great protest .', None, None, None, 1), ('You sure showed him . Good job . Lol , can you believe this garbage ?', None, None, None, 1), ('Who has such a hollow and pathetic life', None, None, None, 0), ("that they do n't have anything better to do with their time", None, None, None, 0), ('than commit petty vandalism', None, None, None, 0), ('because they dislike some politician ? What a dingus .', None, None, None, 1)]

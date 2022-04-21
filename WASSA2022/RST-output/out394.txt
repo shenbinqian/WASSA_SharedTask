@@ -1,0 +1,23 @@
+=====================> [[('These numbers leave little room', None, None, None, 0), ('to think', None, None, None, 0), ('that climate change is not happening .', None, None, None, 1), ('As you know , I firmly believe in the importance of environmental protections', None, None, None, 0), ('and think', None, None, None, 0), ('climate change is a problem .', None, None, None, 1), ('However , articles like this only add to the problem .', None, None, None, 1), ('These numbers are shocking on the surface', None, None, None, 0), ('but could easily be explained by natural fluctuations year to year .', None, None, None, 1), ('I wish', None, None, None, 0), ('they would focus on balanced science instead .', None, None, None, 1)]]
+Leaf:  N Elaborate These numbers leave little room
+Leaf:  S span to think
+Leaf:  N Attribution that climate change is not happening .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint As you know , I firmly believe in the importance of environmental protections
+Leaf:  S span and think
+Leaf:  N Attribution climate change is a problem .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  N Explanation However , articles like this only add to the problem .
+Leaf:  S span These numbers are shocking on the surface
+Leaf:  N Contrast but could easily be explained by natural fluctuations year to year .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I wish
+Leaf:  N Attribution they would focus on balanced science instead .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('These numbers leave little room', None, None, None, 0), ('to think', None, None, None, 0), ('that climate change is not happening .', None, None, None, 1), ('As you know , I firmly believe in the importance of environmental protections', None, None, None, 0), ('and think', None, None, None, 0), ('climate change is a problem .', None, None, None, 1), ('However , articles like this only add to the problem .', None, None, None, 1), ('These numbers are shocking on the surface', None, None, None, 0), ('but could easily be explained by natural fluctuations year to year .', None, None, None, 1), ('I wish', None, None, None, 0), ('they would focus on balanced science instead .', None, None, None, 1)]

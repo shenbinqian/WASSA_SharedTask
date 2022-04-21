@@ -1,0 +1,31 @@
+=====================> [[('i think', None, None, None, 0), ('that mr mayweather should have to pay that money back', None, None, None, 0), ('if he still has the neckless', None, None, None, 0), ('or give the neckless back to the store with a price tag', None, None, None, 0), ('like that', None, None, None, 0), ('the company could really need that money 1.4 million', None, None, None, 0), ('is alot of money for a company', None, None, None, 0), ('not to get .', None, None, None, 1), ('also we know', None, None, None, 0), ('that he has the money', None, None, None, 0), ('to pay for the neckless', None, None, None, 0), ('so im not sure', None, None, None, 0), ('why he doesnt just pay the rest of the balance', None, None, None, 0), ('and not have to go to court', None, None, None, 0), ('and pay all those fees .', None, None, None, 1)]]
+Leaf:  S span i think
+Leaf:  N Condition that mr mayweather should have to pay that money back
+Leaf:  S span if he still has the neckless
+Inner:  N Condition None Condition NS
+Leaf:  N Elaborate or give the neckless back to the store with a price tag
+Leaf:  N Elaborate like that
+Leaf:  S span the company could really need that money 1.4 million
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is alot of money for a company
+Leaf:  S span not to get .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Condition None Same-Unit NN
+Inner:  N Attribution None Condition NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span also we know
+Leaf:  N Elaborate that he has the money
+Leaf:  S span to pay for the neckless
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Background so im not sure
+Inner:  S span None Background SN
+Leaf:  N Joint why he doesnt just pay the rest of the balance
+Leaf:  N Joint and not have to go to court
+Leaf:  N Joint and pay all those fees .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('i think', None, None, None, 0), ('that mr mayweather should have to pay that money back', None, None, None, 0), ('if he still has the neckless', None, None, None, 0), ('or give the neckless back to the store with a price tag', None, None, None, 0), ('like that', None, None, None, 0), ('the company could really need that money 1.4 million', None, None, None, 0), ('is alot of money for a company', None, None, None, 0), ('not to get .', None, None, None, 1), ('also we know', None, None, None, 0), ('that he has the money', None, None, None, 0), ('to pay for the neckless', None, None, None, 0), ('so im not sure', None, None, None, 0), ('why he doesnt just pay the rest of the balance', None, None, None, 0), ('and not have to go to court', None, None, None, 0), ('and pay all those fees .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('The article talked about a person', None, None, None, 0), ('who took matters into their own hands', None, None, None, 0), ('where after their card was declined at Starbucks ,', None, None, None, 0), ('he went back', None, None, None, 0), ('and ended up shooting a customer', None, None, None, 0), ('that was inside .', None, None, None, 1), ('This is the PRIME example', None, None, None, 0), ('of where there should be a serious look at our gun laws .', None, None, None, 1), ('Sure there is that second amendment', None, None, None, 0), ('that allows for the right to bear arms', None, None, None, 0), ('but look at how much our society has changed .', None, None, None, 1), ('Should that not be taken into account', None, None, None, 0), ('when thinking about the possibility', None, None, None, 0), ('that maybe not everyone should actually have that right ?', None, None, None, 1), ("It 's really sad how much our society has devolved into this constant chaos of shootings , violence , and terror .", None, None, None, 1)]]
+Leaf:  N Elaborate The article talked about a person
+Leaf:  S span who took matters into their own hands
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  N Temporal where after their card was declined at Starbucks ,
+Leaf:  N Temporal he went back
+Leaf:  N Elaborate and ended up shooting a customer
+Leaf:  S span that was inside .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Temporal None Temporal NN
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate This is the PRIME example
+Leaf:  S span of where there should be a serious look at our gun laws .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Sure there is that second amendment
+Leaf:  S span that allows for the right to bear arms
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but look at how much our society has changed .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Condition Should that not be taken into account
+Leaf:  N Elaborate when thinking about the possibility
+Leaf:  S span that maybe not everyone should actually have that right ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's really sad how much our society has devolved into this constant chaos of shootings , violence , and terror .
+Inner:  Root None None Evaluation NS
+[('The article talked about a person', None, None, None, 0), ('who took matters into their own hands', None, None, None, 0), ('where after their card was declined at Starbucks ,', None, None, None, 0), ('he went back', None, None, None, 0), ('and ended up shooting a customer', None, None, None, 0), ('that was inside .', None, None, None, 1), ('This is the PRIME example', None, None, None, 0), ('of where there should be a serious look at our gun laws .', None, None, None, 1), ('Sure there is that second amendment', None, None, None, 0), ('that allows for the right to bear arms', None, None, None, 0), ('but look at how much our society has changed .', None, None, None, 1), ('Should that not be taken into account', None, None, None, 0), ('when thinking about the possibility', None, None, None, 0), ('that maybe not everyone should actually have that right ?', None, None, None, 1), ("It 's really sad how much our society has devolved into this constant chaos of shootings , violence , and terror .", None, None, None, 1)]

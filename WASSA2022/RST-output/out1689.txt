@@ -1,0 +1,35 @@
+=====================> [[('The good news is we live in a place', None, None, None, 0), ('that does not have much air pollution .', None, None, None, 1), ('The bad news is that people', None, None, None, 0), ('that have lung cancer', None, None, None, 0), ('that is exposed to air pollution', None, None, None, 0), ('may have a shorter survival time .', None, None, None, 1), ('Air pollution kills thousands of people each year .', None, None, None, 1), ('Researchers claim', None, None, None, 0), ('that the median survival for people', None, None, None, 0), ('diagnosed with early stages of lung cancer', None, None, None, 0), ('is expected to live 3 times shorter amount of time than those', None, None, None, 0), ('that do not . Of course , we all should stay away from cigarette smoke', None, None, None, 0), ('but it is unfortunate that we have air pollution .', None, None, None, 1), ('They can figure out a way', None, None, None, 0), ('to get to the moon', None, None, None, 0), ('but can not seem to figure out a way', None, None, None, 0), ('to clean our air .', None, None, None, 1)]]
+Leaf:  N Elaborate The good news is we live in a place
+Leaf:  S span that does not have much air pollution .
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate The bad news is that people
+Leaf:  N Elaborate that have lung cancer
+Leaf:  S span that is exposed to air pollution
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit may have a shorter survival time .
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Explanation None Contrast NN
+Leaf:  S span Air pollution kills thousands of people each year .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Researchers claim
+Leaf:  N Elaborate that the median survival for people
+Leaf:  S span diagnosed with early stages of lung cancer
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is expected to live 3 times shorter amount of time than those
+Leaf:  S span that do not . Of course , we all should stay away from cigarette smoke
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span but it is unfortunate that we have air pollution .
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They can figure out a way
+Leaf:  S span to get to the moon
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but can not seem to figure out a way
+Leaf:  S span to clean our air .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('The good news is we live in a place', None, None, None, 0), ('that does not have much air pollution .', None, None, None, 1), ('The bad news is that people', None, None, None, 0), ('that have lung cancer', None, None, None, 0), ('that is exposed to air pollution', None, None, None, 0), ('may have a shorter survival time .', None, None, None, 1), ('Air pollution kills thousands of people each year .', None, None, None, 1), ('Researchers claim', None, None, None, 0), ('that the median survival for people', None, None, None, 0), ('diagnosed with early stages of lung cancer', None, None, None, 0), ('is expected to live 3 times shorter amount of time than those', None, None, None, 0), ('that do not . Of course , we all should stay away from cigarette smoke', None, None, None, 0), ('but it is unfortunate that we have air pollution .', None, None, None, 1), ('They can figure out a way', None, None, None, 0), ('to get to the moon', None, None, None, 0), ('but can not seem to figure out a way', None, None, None, 0), ('to clean our air .', None, None, None, 1)]

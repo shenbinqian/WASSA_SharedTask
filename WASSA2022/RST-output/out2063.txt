@@ -1,0 +1,11 @@
+=====================> [[("The US needs to stay out of other countries ' affairs .", None, None, None, 1), ('Syria especially should have been left alone .', None, None, None, 1), ("The Syrian conflict was the catalyst of the so-called ' migrant ' crisis", None, None, None, 0), ("that really allowed the destruction of European peoples ' borders .", None, None, None, 1), ('The worst people in the world are flooding into the greatest countries .', None, None, None, 1)]]
+Leaf:  N Elaborate The US needs to stay out of other countries ' affairs .
+Leaf:  S span Syria especially should have been left alone .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The Syrian conflict was the catalyst of the so-called ' migrant ' crisis
+Leaf:  S span that really allowed the destruction of European peoples ' borders .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span The worst people in the world are flooding into the greatest countries .
+Inner:  Root None None Cause NS
+[("The US needs to stay out of other countries ' affairs .", None, None, None, 1), ('Syria especially should have been left alone .', None, None, None, 1), ("The Syrian conflict was the catalyst of the so-called ' migrant ' crisis", None, None, None, 0), ("that really allowed the destruction of European peoples ' borders .", None, None, None, 1), ('The worst people in the world are flooding into the greatest countries .', None, None, None, 1)]

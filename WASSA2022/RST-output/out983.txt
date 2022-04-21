@@ -1,0 +1,25 @@
+=====================> [[('Micheal Moore was right about this .', None, None, None, 1), ('Trump could and did win .', None, None, None, 1), ('The more we dismissed him', None, None, None, 0), ('the stronger', None, None, None, 0), ('he got .', None, None, None, 1), ("I ca n't stand his attitude and his lack of compassion .", None, None, None, 1), ('But I can understand how he won . Voters were fed up with the traditional lifetime politicians .', None, None, None, 1), ('I think', None, None, None, 0), ('Hillary lost the election more', None, None, None, 0), ("than Trump won it . A lot of people did n't trust her", None, None, None, 0), ('and wanted a change .', None, None, None, 1), ('Now good or bad we have change .', None, None, None, 1)]]
+Leaf:  N Elaborate Micheal Moore was right about this .
+Leaf:  S span Trump could and did win .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The more we dismissed him
+Leaf:  N Comparison the stronger
+Leaf:  S span he got .
+Inner:  N Temporal None Comparison NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I ca n't stand his attitude and his lack of compassion .
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast But I can understand how he won . Voters were fed up with the traditional lifetime politicians .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I think
+Leaf:  N Comparison Hillary lost the election more
+Leaf:  N Joint than Trump won it . A lot of people did n't trust her
+Leaf:  N Joint and wanted a change .
+Inner:  N Comparison None Joint NN
+Inner:  N Attribution None Comparison NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Now good or bad we have change .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Micheal Moore was right about this .', None, None, None, 1), ('Trump could and did win .', None, None, None, 1), ('The more we dismissed him', None, None, None, 0), ('the stronger', None, None, None, 0), ('he got .', None, None, None, 1), ("I ca n't stand his attitude and his lack of compassion .", None, None, None, 1), ('But I can understand how he won . Voters were fed up with the traditional lifetime politicians .', None, None, None, 1), ('I think', None, None, None, 0), ('Hillary lost the election more', None, None, None, 0), ("than Trump won it . A lot of people did n't trust her", None, None, None, 0), ('and wanted a change .', None, None, None, 1), ('Now good or bad we have change .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('I just read this story about these two idiot divers .', None, None, None, 1), ("It 's such a pointless and selfish hobby .", None, None, None, 1), ('Oooh , I get to see a dark cave .', None, None, None, 1), ("That 's what 's drones are for .", None, None, None, 1), ("They 've ruined their families lives", None, None, None, 0), ('because they wanted to look at a dark cave underwater .', None, None, None, 1), ('It makes me so angry', None, None, None, 0), ('that people could be so selfish and hurtful .', None, None, None, 1)]]
+Leaf:  N Evaluation I just read this story about these two idiot divers .
+Leaf:  S span It 's such a pointless and selfish hobby .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Oooh , I get to see a dark cave .
+Leaf:  S span That 's what 's drones are for .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause They 've ruined their families lives
+Leaf:  S span because they wanted to look at a dark cave underwater .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It makes me so angry
+Leaf:  N Attribution that people could be so selfish and hurtful .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read this story about these two idiot divers .', None, None, None, 1), ("It 's such a pointless and selfish hobby .", None, None, None, 1), ('Oooh , I get to see a dark cave .', None, None, None, 1), ("That 's what 's drones are for .", None, None, None, 1), ("They 've ruined their families lives", None, None, None, 0), ('because they wanted to look at a dark cave underwater .', None, None, None, 1), ('It makes me so angry', None, None, None, 0), ('that people could be so selfish and hurtful .', None, None, None, 1)]

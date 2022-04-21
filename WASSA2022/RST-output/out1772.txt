@@ -1,0 +1,25 @@
+=====================> [[('I just read an article', None, None, None, 0), ('blaming Donald Trump and his campaign for hate crimes against Muslims', None, None, None, 0), ('rising .', None, None, None, 1), ('It was your typical propaganda', None, None, None, 0), ('that the media pushes on you', None, None, None, 0), ('-', None, None, None, 0), ('you know ,', None, None, None, 0), ('fear mongering mixed with unsubstantiated nonsense .', None, None, None, 1), ('It mentioned the supposed " Muslim ban "', None, None, None, 0), ('that Trump was responsible for .', None, None, None, 1), ('At that point , I lost interest in the article', None, None, None, 0), ('as it was 100 % clear what the agenda was .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  N Elaborate blaming Donald Trump and his campaign for hate crimes against Muslims
+Leaf:  S span rising .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It was your typical propaganda
+Leaf:  S span that the media pushes on you
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate -
+Leaf:  S span you know ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit fear mongering mixed with unsubstantiated nonsense .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It mentioned the supposed " Muslim ban "
+Leaf:  S span that Trump was responsible for .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Explanation At that point , I lost interest in the article
+Leaf:  S span as it was 100 % clear what the agenda was .
+Inner:  S span None Explanation NS
+Inner:  Root None None Cause NS
+[('I just read an article', None, None, None, 0), ('blaming Donald Trump and his campaign for hate crimes against Muslims', None, None, None, 0), ('rising .', None, None, None, 1), ('It was your typical propaganda', None, None, None, 0), ('that the media pushes on you', None, None, None, 0), ('-', None, None, None, 0), ('you know ,', None, None, None, 0), ('fear mongering mixed with unsubstantiated nonsense .', None, None, None, 1), ('It mentioned the supposed " Muslim ban "', None, None, None, 0), ('that Trump was responsible for .', None, None, None, 1), ('At that point , I lost interest in the article', None, None, None, 0), ('as it was 100 % clear what the agenda was .', None, None, None, 1)]

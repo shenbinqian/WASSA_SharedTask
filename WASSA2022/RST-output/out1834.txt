@@ -1,0 +1,15 @@
+=====================> [[('This article is fascinating', None, None, None, 0), ('- takes the concept of global warming', None, None, None, 0), ('and directly ties it with the impact on weather events .', None, None, None, 1), ('These events show a vast contrast between both extremely hot weather and also extreme amounts of precipitation', None, None, None, 0), ('when compared across historical items .', None, None, None, 1), ('Showing', None, None, None, 0), ('it is not just a regionally focused weather pattern , but in fact across the country that is the most troubling .', None, None, None, 1)]]
+Leaf:  N Explanation This article is fascinating
+Leaf:  N Joint - takes the concept of global warming
+Leaf:  N Joint and directly ties it with the impact on weather events .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Comparison These events show a vast contrast between both extremely hot weather and also extreme amounts of precipitation
+Leaf:  S span when compared across historical items .
+Inner:  S span None Comparison NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Showing
+Leaf:  N Attribution it is not just a regionally focused weather pattern , but in fact across the country that is the most troubling .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('This article is fascinating', None, None, None, 0), ('- takes the concept of global warming', None, None, None, 0), ('and directly ties it with the impact on weather events .', None, None, None, 1), ('These events show a vast contrast between both extremely hot weather and also extreme amounts of precipitation', None, None, None, 0), ('when compared across historical items .', None, None, None, 1), ('Showing', None, None, None, 0), ('it is not just a regionally focused weather pattern , but in fact across the country that is the most troubling .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Police officers are getting out of control nowadays .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("that there has n't been more action", None, None, None, 0), ('taken against this officer', None, None, None, 0), ('who blatantly punched a woman in the face', None, None, None, 0), ('without provocation ,', None, None, None, 0), ('especially since the entire incident was caught on tape .', None, None, None, 1), ('It makes no sense to me', None, None, None, 0), ("that this officer has n't been charged with assault in this case .", None, None, None, 1)]]
+Leaf:  N Explanation Police officers are getting out of control nowadays .
+Leaf:  S span I ca n't believe
+Leaf:  N Elaborate that there has n't been more action
+Leaf:  N Elaborate taken against this officer
+Leaf:  N Manner-Means who blatantly punched a woman in the face
+Leaf:  S span without provocation ,
+Inner:  N Background None Manner-Means NS
+Leaf:  S span especially since the entire incident was caught on tape .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It makes no sense to me
+Leaf:  N Attribution that this officer has n't been charged with assault in this case .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Police officers are getting out of control nowadays .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ("that there has n't been more action", None, None, None, 0), ('taken against this officer', None, None, None, 0), ('who blatantly punched a woman in the face', None, None, None, 0), ('without provocation ,', None, None, None, 0), ('especially since the entire incident was caught on tape .', None, None, None, 1), ('It makes no sense to me', None, None, None, 0), ("that this officer has n't been charged with assault in this case .", None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Hey , Did you just see the shooting at the airport ?', None, None, None, 1), ('It really is sad', None, None, None, 0), ('and makes it really hard for me to feel comfortable going out and about with others .', None, None, None, 1), ('Why do shootings seem to happen when in large crowds ? Whatever happen to the outlaw old wild west', None, None, None, 0), ('where the only ones', None, None, None, 0), ("that could have been in harm 's way", None, None, None, 0), ('are the to targets .', None, None, None, 1), ('I feel really bad for both parties', None, None, None, 0), ('but I am curious what was the reason behind the shooting', None, None, None, 0)]]
+Leaf:  N Evaluation Hey , Did you just see the shooting at the airport ?
+Leaf:  N Joint It really is sad
+Leaf:  N Joint and makes it really hard for me to feel comfortable going out and about with others .
+Inner:  N Explanation None Joint NN
+Leaf:  N Elaborate Why do shootings seem to happen when in large crowds ? Whatever happen to the outlaw old wild west
+Leaf:  N Elaborate where the only ones
+Leaf:  S span that could have been in harm 's way
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are the to targets .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast I feel really bad for both parties
+Leaf:  N Contrast but I am curious what was the reason behind the shooting
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Hey , Did you just see the shooting at the airport ?', None, None, None, 1), ('It really is sad', None, None, None, 0), ('and makes it really hard for me to feel comfortable going out and about with others .', None, None, None, 1), ('Why do shootings seem to happen when in large crowds ? Whatever happen to the outlaw old wild west', None, None, None, 0), ('where the only ones', None, None, None, 0), ("that could have been in harm 's way", None, None, None, 0), ('are the to targets .', None, None, None, 1), ('I feel really bad for both parties', None, None, None, 0), ('but I am curious what was the reason behind the shooting', None, None, None, 0)]

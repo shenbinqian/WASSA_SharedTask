@@ -1,0 +1,15 @@
+=====================> [[("It 's nice that these cases are critiqued so thoroughly", None, None, None, 0), ('as once an execution has started ,', None, None, None, 0), ("there 's no going back .", None, None, None, 1), ('It sounds like he shot his relative for sure though .', None, None, None, 1), ("Even though he maybe did n't kill the husband of the woman", None, None, None, 0), ('he had an affair with ,', None, None, None, 0), ('one murder should potentially be enough for the death penalty .', None, None, None, 1)]]
+Leaf:  N Explanation It 's nice that these cases are critiqued so thoroughly
+Leaf:  S span as once an execution has started ,
+Leaf:  N Background there 's no going back .
+Inner:  S span None Background SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span It sounds like he shot his relative for sure though .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Even though he maybe did n't kill the husband of the woman
+Leaf:  S span he had an affair with ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast one murder should potentially be enough for the death penalty .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[("It 's nice that these cases are critiqued so thoroughly", None, None, None, 0), ('as once an execution has started ,', None, None, None, 0), ("there 's no going back .", None, None, None, 1), ('It sounds like he shot his relative for sure though .', None, None, None, 1), ("Even though he maybe did n't kill the husband of the woman", None, None, None, 0), ('he had an affair with ,', None, None, None, 0), ('one murder should potentially be enough for the death penalty .', None, None, None, 1)]

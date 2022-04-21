@@ -1,0 +1,35 @@
+=====================> [[('Sometimes I worry a little ,', None, None, None, 0), ("when I 'm out in public ,", None, None, None, 0), ('about a mass-shooting ( or even some crazy with a vehicle', None, None, None, 0), ('running people over )', None, None, None, 0), ('happening .', None, None, None, 1), ('But , on the other side of the coin , the chances are pretty slim of that happening .', None, None, None, 1), ('Plus ,', None, None, None, 0), ('if you think about it ,', None, None, None, 0), ('the worst thing that happens ,', None, None, None, 0), ('if that were to occur ,', None, None, None, 0), ('is that I die', None, None, None, 0), ('and then nothing is my problem anymore .', None, None, None, 1), ("I 'm in no rush to die ,", None, None, None, 0), ('but', None, None, None, 0), ('if it happens ,', None, None, None, 0), ('it happens .', None, None, None, 1), ("It 's an inevitability .", None, None, None, 1)]]
+Leaf:  N Background Sometimes I worry a little ,
+Leaf:  S span when I 'm out in public ,
+Inner:  N Same-Unit None Background NS
+Leaf:  N Elaborate about a mass-shooting ( or even some crazy with a vehicle
+Leaf:  S span running people over )
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span happening .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span But , on the other side of the coin , the chances are pretty slim of that happening .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Same-Unit Plus ,
+Leaf:  S span if you think about it ,
+Leaf:  N Same-Unit the worst thing that happens ,
+Leaf:  N Same-Unit if that were to occur ,
+Inner:  S span None Same-Unit NN
+Leaf:  N Temporal is that I die
+Leaf:  N Temporal and then nothing is my problem anymore .
+Inner:  N Condition None Temporal NN
+Inner:  N Condition None Condition SN
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I 'm in no rush to die ,
+Leaf:  N Same-Unit but
+Leaf:  S span if it happens ,
+Leaf:  N Condition it happens .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span It 's an inevitability .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Sometimes I worry a little ,', None, None, None, 0), ("when I 'm out in public ,", None, None, None, 0), ('about a mass-shooting ( or even some crazy with a vehicle', None, None, None, 0), ('running people over )', None, None, None, 0), ('happening .', None, None, None, 1), ('But , on the other side of the coin , the chances are pretty slim of that happening .', None, None, None, 1), ('Plus ,', None, None, None, 0), ('if you think about it ,', None, None, None, 0), ('the worst thing that happens ,', None, None, None, 0), ('if that were to occur ,', None, None, None, 0), ('is that I die', None, None, None, 0), ('and then nothing is my problem anymore .', None, None, None, 1), ("I 'm in no rush to die ,", None, None, None, 0), ('but', None, None, None, 0), ('if it happens ,', None, None, None, 0), ('it happens .', None, None, None, 1), ("It 's an inevitability .", None, None, None, 1)]

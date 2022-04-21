@@ -1,0 +1,23 @@
+=====================> [[('I just read an article about an infant orangutan ,', None, None, None, 0), ('that was so sad .', None, None, None, 1), ('There had been several orangutans', None, None, None, 0), ('rescued from an illegal dealer .', None, None, None, 1), ('They were taken to a rescue center . The infant orangutan all of a sudden collapsed in her cage .', None, None, None, 1), ('She has meningitis', None, None, None, 0), ('which can be deadly for her . She is getting amazing care at this center though ,', None, None, None, 0), ('so I sure hope', None, None, None, 0), ('she pulls through .', None, None, None, 1), ('I have no extra money right now', None, None, None, 0), ('but you can donate to this organization !', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about an infant orangutan ,
+Leaf:  S span that was so sad .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There had been several orangutans
+Leaf:  S span rescued from an illegal dealer .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They were taken to a rescue center . The infant orangutan all of a sudden collapsed in her cage .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate She has meningitis
+Leaf:  S span which can be deadly for her . She is getting amazing care at this center though ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span so I sure hope
+Leaf:  N Attribution she pulls through .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I have no extra money right now
+Leaf:  N Contrast but you can donate to this organization !
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I just read an article about an infant orangutan ,', None, None, None, 0), ('that was so sad .', None, None, None, 1), ('There had been several orangutans', None, None, None, 0), ('rescued from an illegal dealer .', None, None, None, 1), ('They were taken to a rescue center . The infant orangutan all of a sudden collapsed in her cage .', None, None, None, 1), ('She has meningitis', None, None, None, 0), ('which can be deadly for her . She is getting amazing care at this center though ,', None, None, None, 0), ('so I sure hope', None, None, None, 0), ('she pulls through .', None, None, None, 1), ('I have no extra money right now', None, None, None, 0), ('but you can donate to this organization !', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('Clearly , this was an opinion piece .', None, None, None, 1), ('It is upsetting that so many try to pass off an opinion piece as a news article these days .', None, None, None, 1), ('That is exactly what fake news is .', None, None, None, 1), ("The writer was n't even trying to hide it .", None, None, None, 1), ('She included " hhhhhhmmmmmmm , hhhmmmm , hhhmmmm " as part of her article .', None, None, None, 1), ('LMFAO .', None, None, None, 1), ('That is when there was not longer any reason', None, None, None, 0), ('to take it seriously anymore . Sure , some of the info in there may be accurate ,', None, None, None, 0), ('but the bias overwhelms all .', None, None, None, 1)]]
+Leaf:  N Evaluation Clearly , this was an opinion piece .
+Leaf:  N Evaluation It is upsetting that so many try to pass off an opinion piece as a news article these days .
+Leaf:  S span That is exactly what fake news is .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation The writer was n't even trying to hide it .
+Leaf:  S span She included " hhhhhhmmmmmmm , hhhmmmm , hhhmmmm " as part of her article .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span LMFAO .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate That is when there was not longer any reason
+Leaf:  S span to take it seriously anymore . Sure , some of the info in there may be accurate ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but the bias overwhelms all .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Clearly , this was an opinion piece .', None, None, None, 1), ('It is upsetting that so many try to pass off an opinion piece as a news article these days .', None, None, None, 1), ('That is exactly what fake news is .', None, None, None, 1), ("The writer was n't even trying to hide it .", None, None, None, 1), ('She included " hhhhhhmmmmmmm , hhhmmmm , hhhmmmm " as part of her article .', None, None, None, 1), ('LMFAO .', None, None, None, 1), ('That is when there was not longer any reason', None, None, None, 0), ('to take it seriously anymore . Sure , some of the info in there may be accurate ,', None, None, None, 0), ('but the bias overwhelms all .', None, None, None, 1)]

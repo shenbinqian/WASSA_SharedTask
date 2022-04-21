@@ -1,0 +1,31 @@
+=====================> [[('I feel', None, None, None, 0), ('that we are prioritizing efforts', None, None, None, 0), ('of saving the planet in the wrong way .', None, None, None, 1), ('We want to ban this or that ,', None, None, None, 0), ("and that 's great and all . However , we are missing the bigger picture .", None, None, None, 1), ('We need to focus on building a world', None, None, None, 0), ('that co exists with nature ,', None, None, None, 0), ('instead of just saving little bits of it here and there .', None, None, None, 1), ('While some strive to save this or that , there are a million other things', None, None, None, 0), ('destroying it further .', None, None, None, 1), ('We need to end the destruction of our global ecosystem ,', None, None, None, 0), ('and not pick and choose species', None, None, None, 0), ('to save .', None, None, None, 1), ('Other wise there will be nothing left ,', None, None, None, 0), ('and those efforts would have been in vein .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Elaborate that we are prioritizing efforts
+Leaf:  S span of saving the planet in the wrong way .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation We want to ban this or that ,
+Leaf:  S span and that 's great and all . However , we are missing the bigger picture .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We need to focus on building a world
+Leaf:  S span that co exists with nature ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span instead of just saving little bits of it here and there .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate While some strive to save this or that , there are a million other things
+Leaf:  S span destroying it further .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast We need to end the destruction of our global ecosystem ,
+Leaf:  N Elaborate and not pick and choose species
+Leaf:  S span to save .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Evaluation Other wise there will be nothing left ,
+Leaf:  S span and those efforts would have been in vein .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I feel', None, None, None, 0), ('that we are prioritizing efforts', None, None, None, 0), ('of saving the planet in the wrong way .', None, None, None, 1), ('We want to ban this or that ,', None, None, None, 0), ("and that 's great and all . However , we are missing the bigger picture .", None, None, None, 1), ('We need to focus on building a world', None, None, None, 0), ('that co exists with nature ,', None, None, None, 0), ('instead of just saving little bits of it here and there .', None, None, None, 1), ('While some strive to save this or that , there are a million other things', None, None, None, 0), ('destroying it further .', None, None, None, 1), ('We need to end the destruction of our global ecosystem ,', None, None, None, 0), ('and not pick and choose species', None, None, None, 0), ('to save .', None, None, None, 1), ('Other wise there will be nothing left ,', None, None, None, 0), ('and those efforts would have been in vein .', None, None, None, 1)]

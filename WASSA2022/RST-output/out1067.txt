@@ -1,0 +1,23 @@
+=====================> [[('It feels like this is a bit of a lie', None, None, None, 0), ('and them', None, None, None, 0), ('just trying to fear monger', None, None, None, 0), ("and use GMO 's .", None, None, None, 1), ('Grass and other things will survive . .', None, None, None, 1), ('global warming simply means that we have too much pollution', None, None, None, 0), ('and it affects EVERYTHING .', None, None, None, 1), ('REDUCE POLLUTION and chemicals', None, None, None, 0), ("and we wo n't have such an issue .", None, None, None, 1), ('This article is simply scientists', None, None, None, 0), ('trying to make us sicker with more chemicals .', None, None, None, 1)]]
+Leaf:  N Joint It feels like this is a bit of a lie
+Leaf:  N Elaborate and them
+Leaf:  N Joint just trying to fear monger
+Leaf:  N Joint and use GMO 's .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Grass and other things will survive . .
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Joint global warming simply means that we have too much pollution
+Leaf:  N Joint and it affects EVERYTHING .
+Inner:  N Contrast None Joint NN
+Inner:  N Textual-Organization None Contrast NN
+Leaf:  S span REDUCE POLLUTION and chemicals
+Leaf:  N Condition and we wo n't have such an issue .
+Inner:  N Summary None Condition SN
+Leaf:  N Elaborate This article is simply scientists
+Leaf:  S span trying to make us sicker with more chemicals .
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Summary NS
+Inner:  Root None None Textual-Organization NN
+[('It feels like this is a bit of a lie', None, None, None, 0), ('and them', None, None, None, 0), ('just trying to fear monger', None, None, None, 0), ("and use GMO 's .", None, None, None, 1), ('Grass and other things will survive . .', None, None, None, 1), ('global warming simply means that we have too much pollution', None, None, None, 0), ('and it affects EVERYTHING .', None, None, None, 1), ('REDUCE POLLUTION and chemicals', None, None, None, 0), ("and we wo n't have such an issue .", None, None, None, 1), ('This article is simply scientists', None, None, None, 0), ('trying to make us sicker with more chemicals .', None, None, None, 1)]

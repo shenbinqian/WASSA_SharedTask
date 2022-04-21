@@ -1,0 +1,21 @@
+=====================> [[('Hi Mo , remember', None, None, None, 0), ('when we scuba dived in Hawaii', None, None, None, 0), ('to look at the reefs up close', None, None, None, 0), ('and how blown away we were of how such a structure is home to thousands of different little creatures and species .', None, None, None, 1), ('Well , this article is now saying', None, None, None, 0), ('that its slowly dying', None, None, None, 0), ('and theres not much we can do about it .', None, None, None, 1), ('This breaks my heart', None, None, None, 0), ('and I thought', None, None, None, 0), ("I 'd share this with you .", None, None, None, 1)]]
+Leaf:  N Temporal Hi Mo , remember
+Leaf:  N Same-Unit when we scuba dived in Hawaii
+Leaf:  N Same-Unit to look at the reefs up close
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Temporal NS
+Leaf:  N Joint and how blown away we were of how such a structure is home to thousands of different little creatures and species .
+Inner:  S span None Joint NN
+Leaf:  S span Well , this article is now saying
+Leaf:  N Joint that its slowly dying
+Leaf:  N Joint and theres not much we can do about it .
+Inner:  N Attribution None Joint NN
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  N Cause This breaks my heart
+Leaf:  S span and I thought
+Leaf:  N Attribution I 'd share this with you .
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('Hi Mo , remember', None, None, None, 0), ('when we scuba dived in Hawaii', None, None, None, 0), ('to look at the reefs up close', None, None, None, 0), ('and how blown away we were of how such a structure is home to thousands of different little creatures and species .', None, None, None, 1), ('Well , this article is now saying', None, None, None, 0), ('that its slowly dying', None, None, None, 0), ('and theres not much we can do about it .', None, None, None, 1), ('This breaks my heart', None, None, None, 0), ('and I thought', None, None, None, 0), ("I 'd share this with you .", None, None, None, 1)]

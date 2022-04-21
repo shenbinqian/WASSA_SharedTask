@@ -1,0 +1,21 @@
+=====================> [[('We need to help save the frogs', None, None, None, 0), ('by making clean places for them to habitat .', None, None, None, 1), ('It seems that we have caused some of the problem', None, None, None, 0), ('and need to take responsibility for this . Frogs are an important part of our environment', None, None, None, 0), ('and we need to ensure', None, None, None, 0), ('that they are took care of .', None, None, None, 1), ('I think', None, None, None, 0), ('we need to focus on helping them survive something', None, None, None, 0), ('we as humans', None, None, None, 0), ('caused .', None, None, None, 1)]]
+Leaf:  N Manner-Means We need to help save the frogs
+Leaf:  S span by making clean places for them to habitat .
+Inner:  N Explanation None Manner-Means NS
+Leaf:  S span It seems that we have caused some of the problem
+Leaf:  N Contrast and need to take responsibility for this . Frogs are an important part of our environment
+Inner:  N Joint None Contrast SN
+Leaf:  S span and we need to ensure
+Leaf:  N Attribution that they are took care of .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I think
+Leaf:  N Elaborate we need to focus on helping them survive something
+Leaf:  N Comparison we as humans
+Leaf:  N Comparison caused .
+Inner:  S span None Comparison NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('We need to help save the frogs', None, None, None, 0), ('by making clean places for them to habitat .', None, None, None, 1), ('It seems that we have caused some of the problem', None, None, None, 0), ('and need to take responsibility for this . Frogs are an important part of our environment', None, None, None, 0), ('and we need to ensure', None, None, None, 0), ('that they are took care of .', None, None, None, 1), ('I think', None, None, None, 0), ('we need to focus on helping them survive something', None, None, None, 0), ('we as humans', None, None, None, 0), ('caused .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Nicolas Maduro is the current leader of Venezuela', None, None, None, 0), ('and it has led to major issues and divide in the country .', None, None, None, 1), ('The country is pretty much tyrannical at this point', None, None, None, 0), ("and the government is over-reaching into everyone 's lives .", None, None, None, 1), ('Reading about the protests and issues', None, None, None, 0), ('going on', None, None, None, 0), ('makes me feel grateful', None, None, None, 0), ('to be out of that country .', None, None, None, 1), ('I really hope', None, None, None, 0), ('the people can oust him', None, None, None, 0), ('and replace it with a better government .', None, None, None, 1)]]
+Leaf:  N Cause Nicolas Maduro is the current leader of Venezuela
+Leaf:  S span and it has led to major issues and divide in the country .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Joint The country is pretty much tyrannical at this point
+Leaf:  N Joint and the government is over-reaching into everyone 's lives .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate Reading about the protests and issues
+Leaf:  S span going on
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span makes me feel grateful
+Leaf:  N Attribution to be out of that country .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I really hope
+Leaf:  N Temporal the people can oust him
+Leaf:  N Temporal and replace it with a better government .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Nicolas Maduro is the current leader of Venezuela', None, None, None, 0), ('and it has led to major issues and divide in the country .', None, None, None, 1), ('The country is pretty much tyrannical at this point', None, None, None, 0), ("and the government is over-reaching into everyone 's lives .", None, None, None, 1), ('Reading about the protests and issues', None, None, None, 0), ('going on', None, None, None, 0), ('makes me feel grateful', None, None, None, 0), ('to be out of that country .', None, None, None, 1), ('I really hope', None, None, None, 0), ('the people can oust him', None, None, None, 0), ('and replace it with a better government .', None, None, None, 1)]

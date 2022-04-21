@@ -1,0 +1,31 @@
+=====================> [[('Hey just wanted to share this article with you', None, None, None, 0), ('and let you know some thoughts/feelings about it .', None, None, None, 1), ('I know', None, None, None, 0), ('that we have talked before about the importance of vaccinations ,', None, None, None, 0), ('and if it is safe for kids to get them .', None, None, None, 1), ('I think', None, None, None, 0), ('this story really made me think about that', None, None, None, 0), ('and brought fourth some really interesting facts and data', None, None, None, 0), ('that make you see', None, None, None, 0), ('how it is changing and hurting different parts of the world .', None, None, None, 1), ('I feel', None, None, None, 0), ('that kids should receive these vaccinations', None, None, None, 0), ('as they are a easy way', None, None, None, 0), ('to help and protect people all over the world', None, None, None, 0), ('rather than taking a risk .', None, None, None, 1)]]
+Leaf:  N Enablement Hey just wanted to share this article with you
+Leaf:  S span and let you know some thoughts/feelings about it .
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span I know
+Leaf:  N Elaborate that we have talked before about the importance of vaccinations ,
+Leaf:  S span and if it is safe for kids to get them .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint this story really made me think about that
+Leaf:  N Elaborate and brought fourth some really interesting facts and data
+Leaf:  S span that make you see
+Leaf:  N Attribution how it is changing and hurting different parts of the world .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I feel
+Leaf:  N Explanation that kids should receive these vaccinations
+Leaf:  N Elaborate as they are a easy way
+Leaf:  N Contrast to help and protect people all over the world
+Leaf:  N Contrast rather than taking a risk .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey just wanted to share this article with you', None, None, None, 0), ('and let you know some thoughts/feelings about it .', None, None, None, 1), ('I know', None, None, None, 0), ('that we have talked before about the importance of vaccinations ,', None, None, None, 0), ('and if it is safe for kids to get them .', None, None, None, 1), ('I think', None, None, None, 0), ('this story really made me think about that', None, None, None, 0), ('and brought fourth some really interesting facts and data', None, None, None, 0), ('that make you see', None, None, None, 0), ('how it is changing and hurting different parts of the world .', None, None, None, 1), ('I feel', None, None, None, 0), ('that kids should receive these vaccinations', None, None, None, 0), ('as they are a easy way', None, None, None, 0), ('to help and protect people all over the world', None, None, None, 0), ('rather than taking a risk .', None, None, None, 1)]

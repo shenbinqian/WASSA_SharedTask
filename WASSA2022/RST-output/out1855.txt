@@ -1,0 +1,31 @@
+=====================> [[('It saddens me to think about a young rino', None, None, None, 0), ('passing away .', None, None, None, 1), ('I can not help but question the circumstances', None, None, None, 0), ('surrounding its death .', None, None, None, 1), ('My heart goes out to the person', None, None, None, 0), ('who worked hard', None, None, None, 0), ('to try to save its life and is grieving over the loss of that hard battle . As a wildlife rehabilitator I know the struggle all too well .', None, None, None, 1), ('I understand', None, None, None, 0), ('how it feels to forgo sleep and food', None, None, None, 0), ('because you are working', None, None, None, 0), ('to save an animal .', None, None, None, 1), ('It is painful .', None, None, None, 1), ('But', None, None, None, 0), ('if you can save even one ,', None, None, None, 0), ('it will make it all worth it in the end .', None, None, None, 1)]]
+Leaf:  N Elaborate It saddens me to think about a young rino
+Leaf:  S span passing away .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I can not help but question the circumstances
+Leaf:  S span surrounding its death .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate My heart goes out to the person
+Leaf:  N Enablement who worked hard
+Leaf:  S span to try to save its life and is grieving over the loss of that hard battle . As a wildlife rehabilitator I know the struggle all too well .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I understand
+Leaf:  N Explanation how it feels to forgo sleep and food
+Leaf:  N Enablement because you are working
+Leaf:  S span to save an animal .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is painful .
+Leaf:  N Same-Unit But
+Leaf:  S span if you can save even one ,
+Leaf:  N Condition it will make it all worth it in the end .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('It saddens me to think about a young rino', None, None, None, 0), ('passing away .', None, None, None, 1), ('I can not help but question the circumstances', None, None, None, 0), ('surrounding its death .', None, None, None, 1), ('My heart goes out to the person', None, None, None, 0), ('who worked hard', None, None, None, 0), ('to try to save its life and is grieving over the loss of that hard battle . As a wildlife rehabilitator I know the struggle all too well .', None, None, None, 1), ('I understand', None, None, None, 0), ('how it feels to forgo sleep and food', None, None, None, 0), ('because you are working', None, None, None, 0), ('to save an animal .', None, None, None, 1), ('It is painful .', None, None, None, 1), ('But', None, None, None, 0), ('if you can save even one ,', None, None, None, 0), ('it will make it all worth it in the end .', None, None, None, 1)]

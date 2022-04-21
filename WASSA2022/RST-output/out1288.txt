@@ -1,0 +1,19 @@
+=====================> [[('I feel so bad for Val , he is battling this disease', None, None, None, 0), ('and people are dwelling on the fact', None, None, None, 0), ('he may die soon .', None, None, None, 1), ('I think', None, None, None, 0), ('Douglas cares for Val , however , he should not make public comments', None, None, None, 0), ("regarding Val 's condition ,", None, None, None, 0), ('that is very intrusive to Val ,', None, None, None, 0), ('and I feel anger towards Michael', None, None, None, 0), ("for being so rude and invading towards Val 's condition .", None, None, None, 1)]]
+Leaf:  N Temporal I feel so bad for Val , he is battling this disease
+Leaf:  N Elaborate and people are dwelling on the fact
+Leaf:  S span he may die soon .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I think
+Leaf:  N Elaborate Douglas cares for Val , however , he should not make public comments
+Leaf:  S span regarding Val 's condition ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that is very intrusive to Val ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Explanation and I feel anger towards Michael
+Leaf:  S span for being so rude and invading towards Val 's condition .
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I feel so bad for Val , he is battling this disease', None, None, None, 0), ('and people are dwelling on the fact', None, None, None, 0), ('he may die soon .', None, None, None, 1), ('I think', None, None, None, 0), ('Douglas cares for Val , however , he should not make public comments', None, None, None, 0), ("regarding Val 's condition ,", None, None, None, 0), ('that is very intrusive to Val ,', None, None, None, 0), ('and I feel anger towards Michael', None, None, None, 0), ("for being so rude and invading towards Val 's condition .", None, None, None, 1)]

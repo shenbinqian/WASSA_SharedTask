@@ -1,0 +1,21 @@
+=====================> [[("I do n't know", None, None, None, 0), ("what more it 's gon na take for meat eaters to finally get it through their heads", None, None, None, 0), ('that we consume way too much meat .', None, None, None, 1), ('If someone says', None, None, None, 0), ('" plant based " anywhere near them', None, None, None, 0), ('they seem to automatically reject it .', None, None, None, 1), ('Agriculture is the main contributor to the destruction of the earth .', None, None, None, 1), ("It 's not like people are preaching everyone go vegan ,", None, None, None, 0), ('but drastically reducing your intake of meat would help the planet by a huge margin .', None, None, None, 1), ("For whatever reason , they just ca n't seem to rationalize that simple sentiment .", None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  S span what more it 's gon na take for meat eaters to finally get it through their heads
+Leaf:  N Attribution that we consume way too much meat .
+Inner:  N Attribution None Attribution SN
+Inner:  N Summary None Attribution SN
+Leaf:  S span If someone says
+Leaf:  N Attribution " plant based " anywhere near them
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit they seem to automatically reject it .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Evaluation Agriculture is the main contributor to the destruction of the earth .
+Leaf:  S span It 's not like people are preaching everyone go vegan ,
+Leaf:  N Contrast but drastically reducing your intake of meat would help the planet by a huge margin .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span For whatever reason , they just ca n't seem to rationalize that simple sentiment .
+Inner:  Root None None Explanation NS
+[("I do n't know", None, None, None, 0), ("what more it 's gon na take for meat eaters to finally get it through their heads", None, None, None, 0), ('that we consume way too much meat .', None, None, None, 1), ('If someone says', None, None, None, 0), ('" plant based " anywhere near them', None, None, None, 0), ('they seem to automatically reject it .', None, None, None, 1), ('Agriculture is the main contributor to the destruction of the earth .', None, None, None, 1), ("It 's not like people are preaching everyone go vegan ,", None, None, None, 0), ('but drastically reducing your intake of meat would help the planet by a huge margin .', None, None, None, 1), ("For whatever reason , they just ca n't seem to rationalize that simple sentiment .", None, None, None, 1)]

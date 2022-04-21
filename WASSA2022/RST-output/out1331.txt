@@ -1,0 +1,23 @@
+=====================> [[('I am really shocked by our current healthcare system .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('that informed me', None, None, None, 0), ('that something as simple of hand washing can prevent hundreds of deaths and disability for US infants .', None, None, None, 1), ("Why is n't this common knowledge .", None, None, None, 1), ('I am really disappointed .', None, None, None, 1), ('It may not be a majority of children', None, None, None, 0), ('who are at-risk or afflicted ,', None, None, None, 0), ('but for the few children', None, None, None, 0), ('who are ,', None, None, None, 0), ('this information would have been everything .', None, None, None, 1)]]
+Leaf:  N Explanation I am really shocked by our current healthcare system .
+Leaf:  N Elaborate I just read an article
+Leaf:  S span that informed me
+Leaf:  N Attribution that something as simple of hand washing can prevent hundreds of deaths and disability for US infants .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Why is n't this common knowledge .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation I am really disappointed .
+Leaf:  N Elaborate It may not be a majority of children
+Leaf:  S span who are at-risk or afflicted ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but for the few children
+Leaf:  S span who are ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition this information would have been everything .
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I am really shocked by our current healthcare system .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('that informed me', None, None, None, 0), ('that something as simple of hand washing can prevent hundreds of deaths and disability for US infants .', None, None, None, 1), ("Why is n't this common knowledge .", None, None, None, 1), ('I am really disappointed .', None, None, None, 1), ('It may not be a majority of children', None, None, None, 0), ('who are at-risk or afflicted ,', None, None, None, 0), ('but for the few children', None, None, None, 0), ('who are ,', None, None, None, 0), ('this information would have been everything .', None, None, None, 1)]

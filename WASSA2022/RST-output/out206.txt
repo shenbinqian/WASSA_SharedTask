@@ -1,0 +1,29 @@
+=====================> [[('I just read another story about American soldiers deaths at the hands of terrorists .', None, None, None, 1), ('What upsets me the most', None, None, None, 0), ('about reading it', None, None, None, 0), ('is thinking about their families .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they had children', None, None, None, 0), ('that will have to grow up', None, None, None, 0), ('without them .', None, None, None, 1), ("I think about wives and their parents and how those peoples ' lives have now changed forever .", None, None, None, 1), ('I think', None, None, None, 0), ('about how upset I would be', None, None, None, 0), ('if my son grew up', None, None, None, 0), ('to join the military .', None, None, None, 1), ('I would be a mess .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read another story about American soldiers deaths at the hands of terrorists .
+Leaf:  S span What upsets me the most
+Leaf:  N Attribution about reading it
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit is thinking about their families .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I wonder
+Leaf:  N Elaborate if they had children
+Leaf:  N Background that will have to grow up
+Leaf:  S span without them .
+Inner:  S span None Background NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint I think about wives and their parents and how those peoples ' lives have now changed forever .
+Leaf:  S span I think
+Leaf:  N Condition about how upset I would be
+Leaf:  N Enablement if my son grew up
+Leaf:  S span to join the military .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Condition NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span I would be a mess .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I just read another story about American soldiers deaths at the hands of terrorists .', None, None, None, 1), ('What upsets me the most', None, None, None, 0), ('about reading it', None, None, None, 0), ('is thinking about their families .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if they had children', None, None, None, 0), ('that will have to grow up', None, None, None, 0), ('without them .', None, None, None, 1), ("I think about wives and their parents and how those peoples ' lives have now changed forever .", None, None, None, 1), ('I think', None, None, None, 0), ('about how upset I would be', None, None, None, 0), ('if my son grew up', None, None, None, 0), ('to join the military .', None, None, None, 1), ('I would be a mess .', None, None, None, 1)]

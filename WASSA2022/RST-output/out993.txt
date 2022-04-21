@@ -1,0 +1,21 @@
+=====================> [[('Well , I dont really feel much about this either way .', None, None, None, 1), ('I feel badly for the family of the victim ,', None, None, None, 0), ("I 'm sure", None, None, None, 0), ('they are devastated ,', None, None, None, 0), ("but it 's not surprising something like this would happen ,", None, None, None, 0), ('given the type of things', None, None, None, 0), ('he wrote ,', None, None, None, 0), ('and the climate in the country', None, None, None, 0), ('in which they lived .', None, None, None, 1), ('My thoughts of out to the family .', None, None, None, 1)]]
+Leaf:  N Explanation Well , I dont really feel much about this either way .
+Leaf:  N Elaborate I feel badly for the family of the victim ,
+Leaf:  S span I 'm sure
+Leaf:  N Attribution they are devastated ,
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Background but it 's not surprising something like this would happen ,
+Leaf:  N Elaborate given the type of things
+Leaf:  S span he wrote ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the climate in the country
+Leaf:  S span in which they lived .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span My thoughts of out to the family .
+Inner:  Root None None Elaborate NS
+[('Well , I dont really feel much about this either way .', None, None, None, 1), ('I feel badly for the family of the victim ,', None, None, None, 0), ("I 'm sure", None, None, None, 0), ('they are devastated ,', None, None, None, 0), ("but it 's not surprising something like this would happen ,", None, None, None, 0), ('given the type of things', None, None, None, 0), ('he wrote ,', None, None, None, 0), ('and the climate in the country', None, None, None, 0), ('in which they lived .', None, None, None, 1), ('My thoughts of out to the family .', None, None, None, 1)]

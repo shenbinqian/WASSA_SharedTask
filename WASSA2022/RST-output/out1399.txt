@@ -1,0 +1,19 @@
+=====================> [[('Thinking about the refugee situation around the globe is so disheartening .', None, None, None, 1), ('There are so many people', None, None, None, 0), ('who are only trying to survive', None, None, None, 0), ('who can not find support anywhere .', None, None, None, 1), ('Those of us in countries with resources really need to start pushing out legislators', None, None, None, 0), ('to accept and support these people ,', None, None, None, 0), ('especially when their situations are the result of our own policies .', None, None, None, 1), ('Humans need to look out for each other far more', None, None, None, 0), ('-- we should value every life the same , no matter the country of its origin .', None, None, None, 1)]]
+Leaf:  N Explanation Thinking about the refugee situation around the globe is so disheartening .
+Leaf:  N Elaborate There are so many people
+Leaf:  S span who are only trying to survive
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span who can not find support anywhere .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement Those of us in countries with resources really need to start pushing out legislators
+Leaf:  N Background to accept and support these people ,
+Leaf:  S span especially when their situations are the result of our own policies .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Evaluation Humans need to look out for each other far more
+Leaf:  S span -- we should value every life the same , no matter the country of its origin .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Thinking about the refugee situation around the globe is so disheartening .', None, None, None, 1), ('There are so many people', None, None, None, 0), ('who are only trying to survive', None, None, None, 0), ('who can not find support anywhere .', None, None, None, 1), ('Those of us in countries with resources really need to start pushing out legislators', None, None, None, 0), ('to accept and support these people ,', None, None, None, 0), ('especially when their situations are the result of our own policies .', None, None, None, 1), ('Humans need to look out for each other far more', None, None, None, 0), ('-- we should value every life the same , no matter the country of its origin .', None, None, None, 1)]

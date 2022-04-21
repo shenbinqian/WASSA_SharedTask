@@ -1,0 +1,35 @@
+=====================> [[('After reading this article ,', None, None, None, 0), ('I had to write you', None, None, None, 0), ('and share it with you .', None, None, None, 1), ("You see , we are n't just crazy parents", None, None, None, 0), ('telling our children to slow down every chance', None, None, None, 0), ('we get .', None, None, None, 1), ('These young men were out doing something', None, None, None, 0), ('they absolutely loved', None, None, None, 0), ('and doing it with their closest friends ,', None, None, None, 0), ("and now they do n't have the opportunity", None, None, None, 0), ('to grow old', None, None, None, 0), ('and continue to enjoy many more things', None, None, None, 0), ('to come .', None, None, None, 1), ('They were so young', None, None, None, 0), ('and had their whole lives ahead of them .', None, None, None, 1), ("I ca n't imagine how their families are feeling right now .", None, None, None, 1), ('Hug your little ones a little tighter tonight .', None, None, None, 1)]]
+Leaf:  S span After reading this article ,
+Leaf:  N Temporal I had to write you
+Leaf:  N Temporal and share it with you .
+Inner:  N Background None Temporal NN
+Inner:  N Evaluation None Background SN
+Leaf:  N Elaborate You see , we are n't just crazy parents
+Leaf:  N Elaborate telling our children to slow down every chance
+Leaf:  S span we get .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate These young men were out doing something
+Leaf:  S span they absolutely loved
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and doing it with their closest friends ,
+Inner:  S span None Joint NN
+Leaf:  N Elaborate and now they do n't have the opportunity
+Leaf:  N Joint to grow old
+Leaf:  N Elaborate and continue to enjoy many more things
+Leaf:  S span to come .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint They were so young
+Leaf:  N Joint and had their whole lives ahead of them .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I ca n't imagine how their families are feeling right now .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Hug your little ones a little tighter tonight .
+Inner:  Root None None Elaborate NS
+[('After reading this article ,', None, None, None, 0), ('I had to write you', None, None, None, 0), ('and share it with you .', None, None, None, 1), ("You see , we are n't just crazy parents", None, None, None, 0), ('telling our children to slow down every chance', None, None, None, 0), ('we get .', None, None, None, 1), ('These young men were out doing something', None, None, None, 0), ('they absolutely loved', None, None, None, 0), ('and doing it with their closest friends ,', None, None, None, 0), ("and now they do n't have the opportunity", None, None, None, 0), ('to grow old', None, None, None, 0), ('and continue to enjoy many more things', None, None, None, 0), ('to come .', None, None, None, 1), ('They were so young', None, None, None, 0), ('and had their whole lives ahead of them .', None, None, None, 1), ("I ca n't imagine how their families are feeling right now .", None, None, None, 1), ('Hug your little ones a little tighter tonight .', None, None, None, 1)]

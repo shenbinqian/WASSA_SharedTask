@@ -1,0 +1,21 @@
+=====================> [[("I 've heard of necrotizing fasciitis before .", None, None, None, 1), ("It 's really fucking scary to think that just from a tiny little cut", None, None, None, 0), ('you could get a disease', None, None, None, 0), ('that has a high likelihood of killing you .', None, None, None, 1), ("There 's also a similar bacteria", None, None, None, 0), ('called naegleria fowlerii', None, None, None, 0), ('that can get into your body from water', None, None, None, 0), ('going up your nostrils', None, None, None, 0), ('and it basically eats your brain .', None, None, None, 1), ('Nature is fucking metal .', None, None, None, 1)]]
+Leaf:  N Evaluation I 've heard of necrotizing fasciitis before .
+Leaf:  S span It 's really fucking scary to think that just from a tiny little cut
+Leaf:  N Elaborate you could get a disease
+Leaf:  S span that has a high likelihood of killing you .
+Inner:  N Manner-Means None Elaborate NS
+Inner:  S span None Manner-Means SN
+Inner:  N Joint None Evaluation NS
+Leaf:  N Elaborate There 's also a similar bacteria
+Leaf:  S span called naegleria fowlerii
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate that can get into your body from water
+Leaf:  S span going up your nostrils
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal and it basically eats your brain .
+Inner:  S span None Temporal NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Nature is fucking metal .
+Inner:  Root None None Evaluation NS
+[("I 've heard of necrotizing fasciitis before .", None, None, None, 1), ("It 's really fucking scary to think that just from a tiny little cut", None, None, None, 0), ('you could get a disease', None, None, None, 0), ('that has a high likelihood of killing you .', None, None, None, 1), ("There 's also a similar bacteria", None, None, None, 0), ('called naegleria fowlerii', None, None, None, 0), ('that can get into your body from water', None, None, None, 0), ('going up your nostrils', None, None, None, 0), ('and it basically eats your brain .', None, None, None, 1), ('Nature is fucking metal .', None, None, None, 1)]

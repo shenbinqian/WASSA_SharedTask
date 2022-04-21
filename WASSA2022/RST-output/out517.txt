@@ -1,0 +1,23 @@
+=====================> [[('Did you finally see what happened to that sicko', None, None, None, 0), ('that stole all of those nude photos from those celebrities ?', None, None, None, 1), ('Those poor people got tricked into getting their photos stolen', None, None, None, 0), ('and this man went and was showing them to everyone .', None, None, None, 1), ('He finally was convicted of this', None, None, None, 0), ("and it serves him right . What an idiot . Just remember you do n't ever take any photos like this", None, None, None, 0), ('and never upload them', None, None, None, 0), ('even if you did .', None, None, None, 1), ('Keep this stuff private and off of the internet .', None, None, None, 1), ('I sure am glad', None, None, None, 0), ('this guy finally got what was coming to him .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you finally see what happened to that sicko
+Leaf:  S span that stole all of those nude photos from those celebrities ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Those poor people got tricked into getting their photos stolen
+Leaf:  N Cause and this man went and was showing them to everyone .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Evaluation He finally was convicted of this
+Leaf:  N Joint and it serves him right . What an idiot . Just remember you do n't ever take any photos like this
+Leaf:  N Condition and never upload them
+Leaf:  S span even if you did .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Keep this stuff private and off of the internet .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I sure am glad
+Leaf:  N Attribution this guy finally got what was coming to him .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Did you finally see what happened to that sicko', None, None, None, 0), ('that stole all of those nude photos from those celebrities ?', None, None, None, 1), ('Those poor people got tricked into getting their photos stolen', None, None, None, 0), ('and this man went and was showing them to everyone .', None, None, None, 1), ('He finally was convicted of this', None, None, None, 0), ("and it serves him right . What an idiot . Just remember you do n't ever take any photos like this", None, None, None, 0), ('and never upload them', None, None, None, 0), ('even if you did .', None, None, None, 1), ('Keep this stuff private and off of the internet .', None, None, None, 1), ('I sure am glad', None, None, None, 0), ('this guy finally got what was coming to him .', None, None, None, 1)]

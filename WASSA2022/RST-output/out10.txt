@@ -1,0 +1,19 @@
+=====================> [[('it seems a horny male college student has finally taken up the courage', None, None, None, 0), ('not to pursue love ,', None, None, None, 0), ('but to rape his potential lover , what a disgusting act and moral corruption , the amount of emotional trauma', None, None, None, 0), ('done to the female victim', None, None, None, 0), ('is permanent', None, None, None, 0), ('and she would never feel safe again ,', None, None, None, 0), ('I hope', None, None, None, 0), ('he gets to sentence to jail long enough', None, None, None, 0), ('he thought through', None, None, None, 0)]]
+Leaf:  N Elaborate it seems a horny male college student has finally taken up the courage
+Leaf:  S span not to pursue love ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but to rape his potential lover , what a disgusting act and moral corruption , the amount of emotional trauma
+Leaf:  S span done to the female victim
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is permanent
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and she would never feel safe again ,
+Inner:  N Background None Joint NN
+Inner:  N Elaborate None Background SN
+Leaf:  S span I hope
+Leaf:  N Attribution he gets to sentence to jail long enough
+Leaf:  S span he thought through
+Inner:  N Attribution None Attribution NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('it seems a horny male college student has finally taken up the courage', None, None, None, 0), ('not to pursue love ,', None, None, None, 0), ('but to rape his potential lover , what a disgusting act and moral corruption , the amount of emotional trauma', None, None, None, 0), ('done to the female victim', None, None, None, 0), ('is permanent', None, None, None, 0), ('and she would never feel safe again ,', None, None, None, 0), ('I hope', None, None, None, 0), ('he gets to sentence to jail long enough', None, None, None, 0), ('he thought through', None, None, None, 0)]

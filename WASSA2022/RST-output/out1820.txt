@@ -1,0 +1,23 @@
+=====================> [[('Is it too much to ask for a judge', None, None, None, 0), ('that follows the Constitution ?', None, None, None, 1), ('Check this article out', None, None, None, 0), ('and see', None, None, None, 0), ('if you agree .', None, None, None, 1), ('Focusing on fringe issues is not going to unite us .', None, None, None, 1), ('I wish we could move past this', None, None, None, 0), ("and leave people 's personal beliefs out of it", None, None, None, 0), ('and focus only on the law .', None, None, None, 1), ('that would be nice for a change ,', None, None, None, 0), ("woudl n't it ?", None, None, None, 1)]]
+Leaf:  N Elaborate Is it too much to ask for a judge
+Leaf:  S span that follows the Constitution ?
+Inner:  N Summary None Elaborate NS
+Leaf:  N Joint Check this article out
+Leaf:  S span and see
+Leaf:  N Attribution if you agree .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation Focusing on fringe issues is not going to unite us .
+Leaf:  N Joint I wish we could move past this
+Leaf:  N Joint and leave people 's personal beliefs out of it
+Leaf:  N Joint and focus only on the law .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation that would be nice for a change ,
+Leaf:  S span woudl n't it ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Is it too much to ask for a judge', None, None, None, 0), ('that follows the Constitution ?', None, None, None, 1), ('Check this article out', None, None, None, 0), ('and see', None, None, None, 0), ('if you agree .', None, None, None, 1), ('Focusing on fringe issues is not going to unite us .', None, None, None, 1), ('I wish we could move past this', None, None, None, 0), ("and leave people 's personal beliefs out of it", None, None, None, 0), ('and focus only on the law .', None, None, None, 1), ('that would be nice for a change ,', None, None, None, 0), ("woudl n't it ?", None, None, None, 1)]

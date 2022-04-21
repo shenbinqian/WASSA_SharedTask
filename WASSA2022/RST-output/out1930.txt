@@ -1,0 +1,17 @@
+=====================> [[('The control over gun should be increased .', None, None, None, 1), ('I always feel sad', None, None, None, 0), ('when shootings take place', None, None, None, 0), ('and there is loss of life .', None, None, None, 1), ('We should strive to ensure proper security of life and property .', None, None, None, 1), ('The government should strive to protect us', None, None, None, 0), ('and ensure the security of Americans .', None, None, None, 1), ('The harassment of Muslims should also be reduced .', None, None, None, 1)]]
+Leaf:  N Explanation The control over gun should be increased .
+Leaf:  N Background I always feel sad
+Leaf:  N Joint when shootings take place
+Leaf:  N Joint and there is loss of life .
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint We should strive to ensure proper security of life and property .
+Leaf:  N Joint The government should strive to protect us
+Leaf:  N Joint and ensure the security of Americans .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint The harassment of Muslims should also be reduced .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The control over gun should be increased .', None, None, None, 1), ('I always feel sad', None, None, None, 0), ('when shootings take place', None, None, None, 0), ('and there is loss of life .', None, None, None, 1), ('We should strive to ensure proper security of life and property .', None, None, None, 1), ('The government should strive to protect us', None, None, None, 0), ('and ensure the security of Americans .', None, None, None, 1), ('The harassment of Muslims should also be reduced .', None, None, None, 1)]

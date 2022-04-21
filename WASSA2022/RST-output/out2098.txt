@@ -1,0 +1,27 @@
+=====================> [[('I am glad', None, None, None, 0), ('that they found the missing hiker', None, None, None, 0), ('and it is heartwarming', None, None, None, 0), ('that everything turned out for the best', None, None, None, 0), ('and he was found alive .', None, None, None, 1), ('It was truly amazing that he survived all that time', None, None, None, 0), ('without food or shelter .', None, None, None, 1), ('It goes to show', None, None, None, 0), ('that you should go looking for somebody missing', None, None, None, 0), ('no matter how long it takes', None, None, None, 0), ('because they might still be out there .', None, None, None, 1), ('It is an amazing story', None, None, None, 0), ('that will inspire and bring hope to the world .', None, None, None, 1)]]
+Leaf:  S span I am glad
+Leaf:  N Attribution that they found the missing hiker
+Inner:  N Joint None Attribution SN
+Leaf:  S span and it is heartwarming
+Leaf:  N Joint that everything turned out for the best
+Leaf:  N Joint and he was found alive .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Manner-Means It was truly amazing that he survived all that time
+Leaf:  S span without food or shelter .
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span It goes to show
+Leaf:  N Contrast that you should go looking for somebody missing
+Leaf:  N Explanation no matter how long it takes
+Leaf:  S span because they might still be out there .
+Inner:  S span None Explanation NS
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is an amazing story
+Leaf:  S span that will inspire and bring hope to the world .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I am glad', None, None, None, 0), ('that they found the missing hiker', None, None, None, 0), ('and it is heartwarming', None, None, None, 0), ('that everything turned out for the best', None, None, None, 0), ('and he was found alive .', None, None, None, 1), ('It was truly amazing that he survived all that time', None, None, None, 0), ('without food or shelter .', None, None, None, 1), ('It goes to show', None, None, None, 0), ('that you should go looking for somebody missing', None, None, None, 0), ('no matter how long it takes', None, None, None, 0), ('because they might still be out there .', None, None, None, 1), ('It is an amazing story', None, None, None, 0), ('that will inspire and bring hope to the world .', None, None, None, 1)]

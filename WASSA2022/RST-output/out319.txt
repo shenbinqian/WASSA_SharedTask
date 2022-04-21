@@ -1,0 +1,27 @@
+=====================> [[('Hello friend , This article scared me .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('how high suicide rates have become in teens .', None, None, None, 1), ('I understand', None, None, None, 0), ('that young teens are more inclined to act impulsively .', None, None, None, 1), ('One bad day at school can triger a suicide attempt ,', None, None, None, 0), ("that 's crazy !", None, None, None, 1), ('Schools should do a much better job', None, None, None, 0), ('protecting children from bullying .', None, None, None, 1), ('I know', None, None, None, 0), ("that 's impossible to eradicate it ,", None, None, None, 0), ('but it schools and parents take the issue seriously enough ,', None, None, None, 0), ('we could at least reduce the number of suicides .', None, None, None, 1)]]
+Leaf:  N Explanation Hello friend , This article scared me .
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution how high suicide rates have become in teens .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I understand
+Leaf:  N Attribution that young teens are more inclined to act impulsively .
+Inner:  N Summary None Attribution SN
+Leaf:  N Evaluation One bad day at school can triger a suicide attempt ,
+Leaf:  S span that 's crazy !
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Schools should do a much better job
+Leaf:  S span protecting children from bullying .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know
+Leaf:  N Attribution that 's impossible to eradicate it ,
+Inner:  S span None Attribution SN
+Leaf:  S span but it schools and parents take the issue seriously enough ,
+Leaf:  N Condition we could at least reduce the number of suicides .
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Hello friend , This article scared me .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('how high suicide rates have become in teens .', None, None, None, 1), ('I understand', None, None, None, 0), ('that young teens are more inclined to act impulsively .', None, None, None, 1), ('One bad day at school can triger a suicide attempt ,', None, None, None, 0), ("that 's crazy !", None, None, None, 1), ('Schools should do a much better job', None, None, None, 0), ('protecting children from bullying .', None, None, None, 1), ('I know', None, None, None, 0), ("that 's impossible to eradicate it ,", None, None, None, 0), ('but it schools and parents take the issue seriously enough ,', None, None, None, 0), ('we could at least reduce the number of suicides .', None, None, None, 1)]

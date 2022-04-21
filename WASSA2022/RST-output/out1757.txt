@@ -1,0 +1,15 @@
+=====================> [[("It 's always sad to hear someone losing their lives , especially during a terrible crash such as Yu Xu ,", None, None, None, 0), ('who was the first woman', None, None, None, 0), ('to fly a Chinese fighter jet .', None, None, None, 1), ("It 's even worse that it happened during a training mission , and not a real mission .", None, None, None, 1), ('I hope', None, None, None, 0), ('her family can find peace', None, None, None, 0), ('and that she can be remembered for her positivity and caring towards others .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's always sad to hear someone losing their lives , especially during a terrible crash such as Yu Xu ,
+Leaf:  N Elaborate who was the first woman
+Leaf:  S span to fly a Chinese fighter jet .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's even worse that it happened during a training mission , and not a real mission .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Joint her family can find peace
+Leaf:  N Joint and that she can be remembered for her positivity and caring towards others .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[("It 's always sad to hear someone losing their lives , especially during a terrible crash such as Yu Xu ,", None, None, None, 0), ('who was the first woman', None, None, None, 0), ('to fly a Chinese fighter jet .', None, None, None, 1), ("It 's even worse that it happened during a training mission , and not a real mission .", None, None, None, 1), ('I hope', None, None, None, 0), ('her family can find peace', None, None, None, 0), ('and that she can be remembered for her positivity and caring towards others .', None, None, None, 1)]

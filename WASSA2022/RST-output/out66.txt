@@ -1,0 +1,27 @@
+=====================> [[('This story about the shooting at the airport is absolutely breaking my heart .', None, None, None, 1), ('There is no reason', None, None, None, 0), ('for these violent gun actions to continue to go on .', None, None, None, 1), ('Can you imagine if this had been our dad or other friend or family member ?', None, None, None, 1), ('I can not imagine what the victims family is going through right now . The poor people in the airport must have been in a frenzy .', None, None, None, 1), ('It had to have been scary to not know what was going on . Especially before everyone knew', None, None, None, 0), ('the gunman was dead . This one cowards acts caused so much turmoil and upheaval for so many people . Can you imagine all of the money', None, None, None, 0), ('that was wasted', None, None, None, 0), ('because of his stupid choices .', None, None, None, 1), ('Between flights being cancelled , rearranged , police officers time .', None, None, None, 1), ('I wish we could understand', None, None, None, 0), ('what he was thinking', None, None, None, 0), ('and why he did this mess .', None, None, None, 1)]]
+Leaf:  N Summary This story about the shooting at the airport is absolutely breaking my heart .
+Leaf:  N Elaborate There is no reason
+Leaf:  S span for these violent gun actions to continue to go on .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Joint Can you imagine if this had been our dad or other friend or family member ?
+Leaf:  N Joint I can not imagine what the victims family is going through right now . The poor people in the airport must have been in a frenzy .
+Leaf:  S span It had to have been scary to not know what was going on . Especially before everyone knew
+Leaf:  N Elaborate the gunman was dead . This one cowards acts caused so much turmoil and upheaval for so many people . Can you imagine all of the money
+Leaf:  N Cause that was wasted
+Leaf:  S span because of his stupid choices .
+Inner:  S span None Cause NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation Between flights being cancelled , rearranged , police officers time .
+Leaf:  S span I wish we could understand
+Leaf:  N Joint what he was thinking
+Leaf:  N Joint and why he did this mess .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  Root None None Summary NS
+[('This story about the shooting at the airport is absolutely breaking my heart .', None, None, None, 1), ('There is no reason', None, None, None, 0), ('for these violent gun actions to continue to go on .', None, None, None, 1), ('Can you imagine if this had been our dad or other friend or family member ?', None, None, None, 1), ('I can not imagine what the victims family is going through right now . The poor people in the airport must have been in a frenzy .', None, None, None, 1), ('It had to have been scary to not know what was going on . Especially before everyone knew', None, None, None, 0), ('the gunman was dead . This one cowards acts caused so much turmoil and upheaval for so many people . Can you imagine all of the money', None, None, None, 0), ('that was wasted', None, None, None, 0), ('because of his stupid choices .', None, None, None, 1), ('Between flights being cancelled , rearranged , police officers time .', None, None, None, 1), ('I wish we could understand', None, None, None, 0), ('what he was thinking', None, None, None, 0), ('and why he did this mess .', None, None, None, 1)]

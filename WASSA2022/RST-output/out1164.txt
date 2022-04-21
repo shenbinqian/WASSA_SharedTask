@@ -1,0 +1,31 @@
+=====================> [[('Hello Friend how are you ?', None, None, None, 1), ('How are your children behaving ?', None, None, None, 1), ('I do not understand much about politics', None, None, None, 0), ('but now the President of this country and that of Ruisa joined forces', None, None, None, 0), ('when fighting against Syria .', None, None, None, 1), ('They called Syria as the first threat', None, None, None, 0), ('and classified it as terrorists .', None, None, None, 1), ('I really do not understand what is the reason for so much hearing and what was the initial problem . I know that there are many good people in Syria ,', None, None, None, 0), ('so it makes me think', None, None, None, 0), ('that many people died', None, None, None, 0), ('when the President of Russia bombed Syria .', None, None, None, 1), ('Many good people die .', None, None, None, 1), ('I consider that the war does not solve anything ,', None, None, None, 0), ('it has not done it before', None, None, None, 0), ('and neither will it now .', None, None, None, 1)]]
+Leaf:  N Joint Hello Friend how are you ?
+Leaf:  N Joint How are your children behaving ?
+Inner:  N Summary None Joint NN
+Leaf:  S span I do not understand much about politics
+Leaf:  N Background but now the President of this country and that of Ruisa joined forces
+Leaf:  S span when fighting against Syria .
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint They called Syria as the first threat
+Leaf:  N Joint and classified it as terrorists .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I really do not understand what is the reason for so much hearing and what was the initial problem . I know that there are many good people in Syria ,
+Leaf:  S span so it makes me think
+Leaf:  N Background that many people died
+Leaf:  S span when the President of Russia bombed Syria .
+Inner:  N Attribution None Background NS
+Inner:  N Cause None Attribution SN
+Inner:  N Elaborate None Cause SN
+Leaf:  S span Many good people die .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I consider that the war does not solve anything ,
+Leaf:  N Joint it has not done it before
+Leaf:  N Joint and neither will it now .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Hello Friend how are you ?', None, None, None, 1), ('How are your children behaving ?', None, None, None, 1), ('I do not understand much about politics', None, None, None, 0), ('but now the President of this country and that of Ruisa joined forces', None, None, None, 0), ('when fighting against Syria .', None, None, None, 1), ('They called Syria as the first threat', None, None, None, 0), ('and classified it as terrorists .', None, None, None, 1), ('I really do not understand what is the reason for so much hearing and what was the initial problem . I know that there are many good people in Syria ,', None, None, None, 0), ('so it makes me think', None, None, None, 0), ('that many people died', None, None, None, 0), ('when the President of Russia bombed Syria .', None, None, None, 1), ('Many good people die .', None, None, None, 1), ('I consider that the war does not solve anything ,', None, None, None, 0), ('it has not done it before', None, None, None, 0), ('and neither will it now .', None, None, None, 1)]

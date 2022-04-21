@@ -1,0 +1,15 @@
+=====================> [[('These are problems', None, None, None, 0), ('that US solider had to deal with for many year .', None, None, None, 1), ('Hell , you could even go back much , much further', None, None, None, 0), ('if you want to .', None, None, None, 1), ('War is hell ,', None, None, None, 0), ("and it can -- and often does -- do a ringer to your psyche and overall mental health . That 's why we as a society need to pump more resources into mental health", None, None, None, 0), ('as we do physical health .', None, None, None, 1)]]
+Leaf:  N Elaborate These are problems
+Leaf:  S span that US solider had to deal with for many year .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition Hell , you could even go back much , much further
+Leaf:  S span if you want to .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint War is hell ,
+Leaf:  N Comparison and it can -- and often does -- do a ringer to your psyche and overall mental health . That 's why we as a society need to pump more resources into mental health
+Leaf:  N Comparison as we do physical health .
+Inner:  N Joint None Comparison NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('These are problems', None, None, None, 0), ('that US solider had to deal with for many year .', None, None, None, 1), ('Hell , you could even go back much , much further', None, None, None, 0), ('if you want to .', None, None, None, 1), ('War is hell ,', None, None, None, 0), ("and it can -- and often does -- do a ringer to your psyche and overall mental health . That 's why we as a society need to pump more resources into mental health", None, None, None, 0), ('as we do physical health .', None, None, None, 1)]

@@ -1,0 +1,45 @@
+=====================> [[('Global warming is real .', None, None, None, 1), ('The effects', None, None, None, 0), ('that is having on the polar bears', None, None, None, 0), ('will soon have the same effects on us .', None, None, None, 1), ('The research is showing', None, None, None, 0), ('that the bears are having shorter seasons of breeding and hunting .', None, None, None, 1), ('The ice is melting at a constant rate ,', None, None, None, 0), ('but there is already a 7 to 9 day shift on the b time', None, None, None, 0), ('that they spend on the ice .', None, None, None, 1), ('They do most of their hunting on the ice', None, None, None, 0), ('and that how to meet their mates ,', None, None, None, 0), ('so it is very important to them . It may not seem important to you yet ,', None, None, None, 0), ('but as the Ice melts', None, None, None, 0), ('it will not only hurt the bears', None, None, None, 0), ('it will hurt you too .', None, None, None, 1), ('Rising sea level will hurt people like you', None, None, None, 0), ('that live in coastal areas .', None, None, None, 1), ('I hope you change your mind', None, None, None, 0), ('on how you feel about global warming and the melting of the ice .', None, None, None, 1), ('Our actions may have an affect on the polar bears', None, None, None, 0), ('and I believe', None, None, None, 0), ('we should think about it .', None, None, None, 1)]]
+Leaf:  N Elaborate Global warming is real .
+Leaf:  N Elaborate The effects
+Leaf:  S span that is having on the polar bears
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will soon have the same effects on us .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The research is showing
+Leaf:  N Attribution that the bears are having shorter seasons of breeding and hunting .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The ice is melting at a constant rate ,
+Leaf:  N Elaborate but there is already a 7 to 9 day shift on the b time
+Leaf:  S span that they spend on the ice .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They do most of their hunting on the ice
+Leaf:  N Joint and that how to meet their mates ,
+Inner:  N Evaluation None Joint NN
+Leaf:  S span so it is very important to them . It may not seem important to you yet ,
+Leaf:  S span but as the Ice melts
+Leaf:  N Joint it will not only hurt the bears
+Leaf:  N Joint it will hurt you too .
+Inner:  N Manner-Means None Joint NN
+Inner:  N Contrast None Manner-Means SN
+Inner:  S span None Contrast SN
+Inner:  N Joint None Evaluation NS
+Leaf:  N Elaborate Rising sea level will hurt people like you
+Leaf:  S span that live in coastal areas .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I hope you change your mind
+Leaf:  S span on how you feel about global warming and the melting of the ice .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Our actions may have an affect on the polar bears
+Leaf:  S span and I believe
+Leaf:  N Attribution we should think about it .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Global warming is real .', None, None, None, 1), ('The effects', None, None, None, 0), ('that is having on the polar bears', None, None, None, 0), ('will soon have the same effects on us .', None, None, None, 1), ('The research is showing', None, None, None, 0), ('that the bears are having shorter seasons of breeding and hunting .', None, None, None, 1), ('The ice is melting at a constant rate ,', None, None, None, 0), ('but there is already a 7 to 9 day shift on the b time', None, None, None, 0), ('that they spend on the ice .', None, None, None, 1), ('They do most of their hunting on the ice', None, None, None, 0), ('and that how to meet their mates ,', None, None, None, 0), ('so it is very important to them . It may not seem important to you yet ,', None, None, None, 0), ('but as the Ice melts', None, None, None, 0), ('it will not only hurt the bears', None, None, None, 0), ('it will hurt you too .', None, None, None, 1), ('Rising sea level will hurt people like you', None, None, None, 0), ('that live in coastal areas .', None, None, None, 1), ('I hope you change your mind', None, None, None, 0), ('on how you feel about global warming and the melting of the ice .', None, None, None, 1), ('Our actions may have an affect on the polar bears', None, None, None, 0), ('and I believe', None, None, None, 0), ('we should think about it .', None, None, None, 1)]

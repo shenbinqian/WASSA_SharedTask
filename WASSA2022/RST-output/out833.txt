@@ -1,0 +1,21 @@
+=====================> [[('How horrible !', None, None, None, 1), ("I do n't care what crime anyone has committed ,", None, None, None, 0), ('beating a person', None, None, None, 0), ('and then setting them on fire is detestable !', None, None, None, 1), ('I hope and pray', None, None, None, 0), ('that the authorities will be able to find out', None, None, None, 0), ('where this video originated from', None, None, None, 0), ('and bring the perpetrators to justice !', None, None, None, 1), ('It makes me sick', None, None, None, 0), ('that a human being could do that to another human !', None, None, None, 1)]]
+Leaf:  N Summary How horrible !
+Leaf:  S span I do n't care what crime anyone has committed ,
+Leaf:  N Temporal beating a person
+Leaf:  N Temporal and then setting them on fire is detestable !
+Inner:  N Evaluation None Temporal NN
+Inner:  N Evaluation None Evaluation SN
+Leaf:  S span I hope and pray
+Leaf:  S span that the authorities will be able to find out
+Leaf:  N Attribution where this video originated from
+Inner:  N Temporal None Attribution SN
+Leaf:  N Temporal and bring the perpetrators to justice !
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Cause It makes me sick
+Leaf:  S span that a human being could do that to another human !
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('How horrible !', None, None, None, 1), ("I do n't care what crime anyone has committed ,", None, None, None, 0), ('beating a person', None, None, None, 0), ('and then setting them on fire is detestable !', None, None, None, 1), ('I hope and pray', None, None, None, 0), ('that the authorities will be able to find out', None, None, None, 0), ('where this video originated from', None, None, None, 0), ('and bring the perpetrators to justice !', None, None, None, 1), ('It makes me sick', None, None, None, 0), ('that a human being could do that to another human !', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('I just read an article about women', None, None, None, 0), ("encouraging other women to get IUD 's", None, None, None, 0), ('before Trump took office .', None, None, None, 1), ('They were worried', None, None, None, 0), ("that trump in office will restrict women 's access to affordable birth control .", None, None, None, 1), ('They think', None, None, None, 0), ('because the IUD can last for so long', None, None, None, 0), ('that women should get them in soon .', None, None, None, 1), ("I do n't think", None, None, None, 0), ("these women need to be out getting IUD 's ,", None, None, None, 0), ('there are other ways', None, None, None, 0), ('to prevent pregnancy .', None, None, None, 1), ('If they are really concerned ,', None, None, None, 0), ('condoms work well .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about women
+Leaf:  N Temporal encouraging other women to get IUD 's
+Leaf:  S span before Trump took office .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They were worried
+Leaf:  N Attribution that trump in office will restrict women 's access to affordable birth control .
+Inner:  N Cause None Attribution SN
+Leaf:  S span They think
+Leaf:  S span because the IUD can last for so long
+Leaf:  N Condition that women should get them in soon .
+Inner:  N Attribution None Condition SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do n't think
+Leaf:  N Attribution these women need to be out getting IUD 's ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate there are other ways
+Leaf:  S span to prevent pregnancy .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If they are really concerned ,
+Leaf:  N Condition condoms work well .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about women', None, None, None, 0), ("encouraging other women to get IUD 's", None, None, None, 0), ('before Trump took office .', None, None, None, 1), ('They were worried', None, None, None, 0), ("that trump in office will restrict women 's access to affordable birth control .", None, None, None, 1), ('They think', None, None, None, 0), ('because the IUD can last for so long', None, None, None, 0), ('that women should get them in soon .', None, None, None, 1), ("I do n't think", None, None, None, 0), ("these women need to be out getting IUD 's ,", None, None, None, 0), ('there are other ways', None, None, None, 0), ('to prevent pregnancy .', None, None, None, 1), ('If they are really concerned ,', None, None, None, 0), ('condoms work well .', None, None, None, 1)]

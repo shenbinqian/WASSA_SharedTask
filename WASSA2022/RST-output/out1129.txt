@@ -1,0 +1,19 @@
+=====================> [[('It is so hard to think', None, None, None, 0), ('that you are not safe anywhere in the world ,', None, None, None, 0), ('you expect to be able to go out into the world', None, None, None, 0), ('and enjoy yourself', None, None, None, 0), ('without having to worry about someone', None, None, None, 0), ('hurting you are those around you .', None, None, None, 1), ('That is not a concern', None, None, None, 0), ('anyone should have to face ,', None, None, None, 0), ('but it seems to be becoming more of an issue day by day .', None, None, None, 1)]]
+Leaf:  S span It is so hard to think
+Leaf:  N Attribution that you are not safe anywhere in the world ,
+Inner:  N Cause None Attribution SN
+Leaf:  N Joint you expect to be able to go out into the world
+Leaf:  N Manner-Means and enjoy yourself
+Leaf:  N Elaborate without having to worry about someone
+Leaf:  S span hurting you are those around you .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate That is not a concern
+Leaf:  S span anyone should have to face ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but it seems to be becoming more of an issue day by day .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('It is so hard to think', None, None, None, 0), ('that you are not safe anywhere in the world ,', None, None, None, 0), ('you expect to be able to go out into the world', None, None, None, 0), ('and enjoy yourself', None, None, None, 0), ('without having to worry about someone', None, None, None, 0), ('hurting you are those around you .', None, None, None, 1), ('That is not a concern', None, None, None, 0), ('anyone should have to face ,', None, None, None, 0), ('but it seems to be becoming more of an issue day by day .', None, None, None, 1)]

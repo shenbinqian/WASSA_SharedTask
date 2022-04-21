@@ -1,0 +1,25 @@
+=====================> [[('I just recently read an article about the drought out in the West .', None, None, None, 1), ('I had heard about the lack of water supply in California', None, None, None, 0), ("but I had n't heard anything at all about the suffering in Nevada also .", None, None, None, 1), ('It seems that lots of Nevadians , especially the Native Americans', None, None, None, 0), ('who own land there', None, None, None, 0), ('are in trouble from the lack of water .', None, None, None, 1), ('With everything dying ,', None, None, None, 0), ('it is difficult for them to keep animals alive .', None, None, None, 1), ('Is it also causing problems in families .', None, None, None, 1), ('Who would think', None, None, None, 0), ('that lack of water would be the cause of violence , abuse , and neglect .', None, None, None, 1), ('Such a sad article .', None, None, None, 1)]]
+Leaf:  N Elaborate I just recently read an article about the drought out in the West .
+Leaf:  N Contrast I had heard about the lack of water supply in California
+Leaf:  N Contrast but I had n't heard anything at all about the suffering in Nevada also .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It seems that lots of Nevadians , especially the Native Americans
+Leaf:  S span who own land there
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are in trouble from the lack of water .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span With everything dying ,
+Leaf:  N Cause it is difficult for them to keep animals alive .
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Is it also causing problems in families .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Who would think
+Leaf:  N Attribution that lack of water would be the cause of violence , abuse , and neglect .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Such a sad article .
+Inner:  Root None None Evaluation NS
+[('I just recently read an article about the drought out in the West .', None, None, None, 1), ('I had heard about the lack of water supply in California', None, None, None, 0), ("but I had n't heard anything at all about the suffering in Nevada also .", None, None, None, 1), ('It seems that lots of Nevadians , especially the Native Americans', None, None, None, 0), ('who own land there', None, None, None, 0), ('are in trouble from the lack of water .', None, None, None, 1), ('With everything dying ,', None, None, None, 0), ('it is difficult for them to keep animals alive .', None, None, None, 1), ('Is it also causing problems in families .', None, None, None, 1), ('Who would think', None, None, None, 0), ('that lack of water would be the cause of violence , abuse , and neglect .', None, None, None, 1), ('Such a sad article .', None, None, None, 1)]

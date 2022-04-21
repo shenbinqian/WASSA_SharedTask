@@ -1,0 +1,19 @@
+=====================> [[('did you hear about that Indian girl from Kashmir', None, None, None, 0), ('who got blinded by the government with pellet guns', None, None, None, 0), ('that have sharp edges .', None, None, None, 1), ("She was n't doing anything", None, None, None, 0), ('but standing by a window .', None, None, None, 1), ('These corrupt governments are so evil .', None, None, None, 1), ('Kashmir is being fought over', None, None, None, 0), ('and innocent people are being killed and hurt .', None, None, None, 1), ('It really is disgusting what these governments are doing .', None, None, None, 1)]]
+Leaf:  N Elaborate did you hear about that Indian girl from Kashmir
+Leaf:  N Elaborate who got blinded by the government with pellet guns
+Leaf:  S span that have sharp edges .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit She was n't doing anything
+Leaf:  N Same-Unit but standing by a window .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation These corrupt governments are so evil .
+Leaf:  N Joint Kashmir is being fought over
+Leaf:  N Joint and innocent people are being killed and hurt .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It really is disgusting what these governments are doing .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('did you hear about that Indian girl from Kashmir', None, None, None, 0), ('who got blinded by the government with pellet guns', None, None, None, 0), ('that have sharp edges .', None, None, None, 1), ("She was n't doing anything", None, None, None, 0), ('but standing by a window .', None, None, None, 1), ('These corrupt governments are so evil .', None, None, None, 1), ('Kashmir is being fought over', None, None, None, 0), ('and innocent people are being killed and hurt .', None, None, None, 1), ('It really is disgusting what these governments are doing .', None, None, None, 1)]

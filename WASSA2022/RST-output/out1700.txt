@@ -1,0 +1,19 @@
+=====================> [[('This is just something better to know .', None, None, None, 1), ('I am not a person', None, None, None, 0), ('who really alert about what is going on around .', None, None, None, 1), ('I never heard about this .', None, None, None, 1), ('I do not really have any comments .', None, None, None, 1), ('Just want today', None, None, None, 0), ('that it is good to find a way to save money .', None, None, None, 1), ('If you could ,', None, None, None, 0), ("you can transfer this article 's to whose who will find them useful .", None, None, None, 1)]]
+Leaf:  N Explanation This is just something better to know .
+Leaf:  N Elaborate I am not a person
+Leaf:  S span who really alert about what is going on around .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint I never heard about this .
+Leaf:  N Joint I do not really have any comments .
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span Just want today
+Leaf:  N Attribution that it is good to find a way to save money .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If you could ,
+Leaf:  N Condition you can transfer this article 's to whose who will find them useful .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is just something better to know .', None, None, None, 1), ('I am not a person', None, None, None, 0), ('who really alert about what is going on around .', None, None, None, 1), ('I never heard about this .', None, None, None, 1), ('I do not really have any comments .', None, None, None, 1), ('Just want today', None, None, None, 0), ('that it is good to find a way to save money .', None, None, None, 1), ('If you could ,', None, None, None, 0), ("you can transfer this article 's to whose who will find them useful .", None, None, None, 1)]

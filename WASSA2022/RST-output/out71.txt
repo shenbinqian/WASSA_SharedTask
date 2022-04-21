@@ -1,0 +1,25 @@
+=====================> [[('So apparently sea ice is becoming less and less', None, None, None, 0), ('which is a concern four our environment', None, None, None, 0), ('and all', None, None, None, 0), ('I can think of', None, None, None, 0), ('is how it will affect the animals in the ocean .', None, None, None, 1), ('This can not be good for the ecosystem .', None, None, None, 1), ('Or is it ? In contrast to the article , i remember', None, None, None, 0), ('seeing a whale die', None, None, None, 0), ('because the ice was so thick', None, None, None, 0), ('and they were trapped .', None, None, None, 1), ('Perhaps neither are good ,', None, None, None, 0), ('but how do we fix this ?', None, None, None, 1)]]
+Leaf:  N Evaluation So apparently sea ice is becoming less and less
+Leaf:  S span which is a concern four our environment
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate and all
+Leaf:  S span I can think of
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is how it will affect the animals in the ocean .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This can not be good for the ecosystem .
+Leaf:  S span Or is it ? In contrast to the article , i remember
+Leaf:  N Attribution seeing a whale die
+Inner:  N Cause None Attribution SN
+Leaf:  N Joint because the ice was so thick
+Leaf:  N Joint and they were trapped .
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Perhaps neither are good ,
+Leaf:  N Contrast but how do we fix this ?
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('So apparently sea ice is becoming less and less', None, None, None, 0), ('which is a concern four our environment', None, None, None, 0), ('and all', None, None, None, 0), ('I can think of', None, None, None, 0), ('is how it will affect the animals in the ocean .', None, None, None, 1), ('This can not be good for the ecosystem .', None, None, None, 1), ('Or is it ? In contrast to the article , i remember', None, None, None, 0), ('seeing a whale die', None, None, None, 0), ('because the ice was so thick', None, None, None, 0), ('and they were trapped .', None, None, None, 1), ('Perhaps neither are good ,', None, None, None, 0), ('but how do we fix this ?', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('So today i read about Vaughn , an actor', None, None, None, 0), ("I did n't really know his name", None, None, None, 0), ('but have watched or heard most of the shows', None, None, None, 0), ('and movies', None, None, None, 0), ('he has been in .', None, None, None, 1), ('Today , i heard ,', None, None, None, 0), ('he died at age 83 due to lukemia .', None, None, None, 1), ('IT is very sad to lose such a well respected actor .', None, None, None, 1), ('I guess', None, None, None, 0), ('his parents divorced at a young age', None, None, None, 0), ('but both gave him the genes', None, None, None, 0), ('to act .', None, None, None, 1)]]
+Leaf:  N Elaborate So today i read about Vaughn , an actor
+Leaf:  S span I did n't really know his name
+Leaf:  N Elaborate but have watched or heard most of the shows
+Leaf:  N Elaborate and movies
+Leaf:  S span he has been in .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Today , i heard ,
+Leaf:  N Attribution he died at age 83 due to lukemia .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation IT is very sad to lose such a well respected actor .
+Leaf:  S span I guess
+Leaf:  S span his parents divorced at a young age
+Leaf:  N Elaborate but both gave him the genes
+Leaf:  S span to act .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('So today i read about Vaughn , an actor', None, None, None, 0), ("I did n't really know his name", None, None, None, 0), ('but have watched or heard most of the shows', None, None, None, 0), ('and movies', None, None, None, 0), ('he has been in .', None, None, None, 1), ('Today , i heard ,', None, None, None, 0), ('he died at age 83 due to lukemia .', None, None, None, 1), ('IT is very sad to lose such a well respected actor .', None, None, None, 1), ('I guess', None, None, None, 0), ('his parents divorced at a young age', None, None, None, 0), ('but both gave him the genes', None, None, None, 0), ('to act .', None, None, None, 1)]

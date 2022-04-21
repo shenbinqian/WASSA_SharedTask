@@ -1,0 +1,23 @@
+=====================> [[("Hey , I 'm sending you something", None, None, None, 0), ('you might find of interest .', None, None, None, 1), ('I heard about this really interesting study', None, None, None, 0), ('regarding the relationship between mothers and middle school aged children .', None, None, None, 1), ('I have to say', None, None, None, 0), ('the findings rang true to me', None, None, None, 0), ('and brought back a lot of memories .', None, None, None, 1), ('Middle school was a miserable time for me', None, None, None, 0), ('as I struggled with some classes', None, None, None, 0), ('and often felt either depressed or angry for no particular reason .', None, None, None, 1), ('I remember feeling constantly stressed over both academics and the challenges of middle school social life with maintaining friendships , cliques , dating etc .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I 'm sending you something
+Leaf:  S span you might find of interest .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I heard about this really interesting study
+Leaf:  S span regarding the relationship between mothers and middle school aged children .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I have to say
+Leaf:  N Joint the findings rang true to me
+Leaf:  N Joint and brought back a lot of memories .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Middle school was a miserable time for me
+Leaf:  N Joint as I struggled with some classes
+Leaf:  N Joint and often felt either depressed or angry for no particular reason .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I remember feeling constantly stressed over both academics and the challenges of middle school social life with maintaining friendships , cliques , dating etc .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("Hey , I 'm sending you something", None, None, None, 0), ('you might find of interest .', None, None, None, 1), ('I heard about this really interesting study', None, None, None, 0), ('regarding the relationship between mothers and middle school aged children .', None, None, None, 1), ('I have to say', None, None, None, 0), ('the findings rang true to me', None, None, None, 0), ('and brought back a lot of memories .', None, None, None, 1), ('Middle school was a miserable time for me', None, None, None, 0), ('as I struggled with some classes', None, None, None, 0), ('and often felt either depressed or angry for no particular reason .', None, None, None, 1), ('I remember feeling constantly stressed over both academics and the challenges of middle school social life with maintaining friendships , cliques , dating etc .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I agree', None, None, None, 0), ('that this election is stressful .', None, None, None, 1), ('There seems to be a lot of tension between parties .', None, None, None, 1), ('People are worried', None, None, None, 0), ('about what could happen', None, None, None, 0), ('if Trump wins .', None, None, None, 1), ('I think', None, None, None, 0), ('all of the racists will come out of the woodwork .', None, None, None, 1), ('People wo n’t be comfortable .', None, None, None, 1), ('As a minority , I think', None, None, None, 0), ('things will feel different .', None, None, None, 1), ('People are n’t scared', None, None, None, 0), ('to post when behind a wall on social media .', None, None, None, 1)]]
+Leaf:  S span I agree
+Leaf:  N Attribution that this election is stressful .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint There seems to be a lot of tension between parties .
+Leaf:  S span People are worried
+Leaf:  N Condition about what could happen
+Leaf:  S span if Trump wins .
+Inner:  N Attribution None Condition NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution all of the racists will come out of the woodwork .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation People wo n’t be comfortable .
+Leaf:  S span As a minority , I think
+Leaf:  N Attribution things will feel different .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Explanation NS
+Leaf:  N Enablement People are n’t scared
+Leaf:  S span to post when behind a wall on social media .
+Inner:  N Topic-Change None Enablement NS
+Inner:  Root None None Topic-Change NN
+[('I agree', None, None, None, 0), ('that this election is stressful .', None, None, None, 1), ('There seems to be a lot of tension between parties .', None, None, None, 1), ('People are worried', None, None, None, 0), ('about what could happen', None, None, None, 0), ('if Trump wins .', None, None, None, 1), ('I think', None, None, None, 0), ('all of the racists will come out of the woodwork .', None, None, None, 1), ('People wo n’t be comfortable .', None, None, None, 1), ('As a minority , I think', None, None, None, 0), ('things will feel different .', None, None, None, 1), ('People are n’t scared', None, None, None, 0), ('to post when behind a wall on social media .', None, None, None, 1)]

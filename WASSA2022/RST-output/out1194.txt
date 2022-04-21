@@ -1,0 +1,25 @@
+=====================> [[('What I learned about nature is that they can not be predicted .', None, None, None, 1), ('Nature can look beautiful in one instance', None, None, None, 0), ('and can kill you in the next .', None, None, None, 1), ('Take a look at this shark incident .', None, None, None, 1), ('poor guy was play a game with some buddies', None, None, None, 0), ('and lost his life for no reason .', None, None, None, 1), ('Today you are here', None, None, None, 0), ('and tomorrow you are gone .', None, None, None, 1), ('Try to live as long', None, None, None, 0), ('as you possibly can', None, None, None, 0), ('before some shit comes along', None, None, None, 0), ('and tries to take it away .', None, None, None, 1)]]
+Leaf:  N Manner-Means What I learned about nature is that they can not be predicted .
+Leaf:  N Joint Nature can look beautiful in one instance
+Leaf:  N Joint and can kill you in the next .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate Take a look at this shark incident .
+Leaf:  N Joint poor guy was play a game with some buddies
+Leaf:  N Joint and lost his life for no reason .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Joint Today you are here
+Leaf:  N Joint and tomorrow you are gone .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast NN
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Comparison Try to live as long
+Leaf:  S span as you possibly can
+Inner:  S span None Comparison NS
+Leaf:  N Temporal before some shit comes along
+Leaf:  N Temporal and tries to take it away .
+Inner:  N Condition None Temporal NN
+Inner:  N Topic-Change None Condition SN
+Inner:  Root None None Topic-Change NN
+[('What I learned about nature is that they can not be predicted .', None, None, None, 1), ('Nature can look beautiful in one instance', None, None, None, 0), ('and can kill you in the next .', None, None, None, 1), ('Take a look at this shark incident .', None, None, None, 1), ('poor guy was play a game with some buddies', None, None, None, 0), ('and lost his life for no reason .', None, None, None, 1), ('Today you are here', None, None, None, 0), ('and tomorrow you are gone .', None, None, None, 1), ('Try to live as long', None, None, None, 0), ('as you possibly can', None, None, None, 0), ('before some shit comes along', None, None, None, 0), ('and tries to take it away .', None, None, None, 1)]

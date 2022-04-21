@@ -1,0 +1,25 @@
+=====================> [[('So I just read another article', None, None, None, 0), ('where a teacher compared President Trump to Adolph Hitler .', None, None, None, 1), ('And the teacher had the nerve', None, None, None, 0), ('to say', None, None, None, 0), ('that his lesson plans are always " factually based " .', None, None, None, 1), ('The last time', None, None, None, 0), ('I checked ,', None, None, None, 0), ('Donald Trump has not interred 15 million Jews to concentration camps', None, None, None, 0), ('where he has killed them .', None, None, None, 1), ('Typical liberal Democrat with so much hyperbole .', None, None, None, 1), ('Teachers need to stick to teaching the facts', None, None, None, 0), ('and not interjecting their opinions into their lessons .', None, None, None, 1)]]
+Leaf:  N Elaborate So I just read another article
+Leaf:  S span where a teacher compared President Trump to Adolph Hitler .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate And the teacher had the nerve
+Leaf:  S span to say
+Leaf:  N Attribution that his lesson plans are always " factually based " .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The last time
+Leaf:  S span I checked ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate Donald Trump has not interred 15 million Jews to concentration camps
+Leaf:  S span where he has killed them .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Typical liberal Democrat with so much hyperbole .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Teachers need to stick to teaching the facts
+Leaf:  N Joint and not interjecting their opinions into their lessons .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('So I just read another article', None, None, None, 0), ('where a teacher compared President Trump to Adolph Hitler .', None, None, None, 1), ('And the teacher had the nerve', None, None, None, 0), ('to say', None, None, None, 0), ('that his lesson plans are always " factually based " .', None, None, None, 1), ('The last time', None, None, None, 0), ('I checked ,', None, None, None, 0), ('Donald Trump has not interred 15 million Jews to concentration camps', None, None, None, 0), ('where he has killed them .', None, None, None, 1), ('Typical liberal Democrat with so much hyperbole .', None, None, None, 1), ('Teachers need to stick to teaching the facts', None, None, None, 0), ('and not interjecting their opinions into their lessons .', None, None, None, 1)]

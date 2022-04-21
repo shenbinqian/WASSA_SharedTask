@@ -1,0 +1,25 @@
+=====================> [[('I think', None, None, None, 0), ("it 's so rude", None, None, None, 0), ('when people mock government officials', None, None, None, 0), ('and get so full of them selves over politics .', None, None, None, 1), ('It really just burns me up', None, None, None, 0), ("that people ca n't get along in regards to it .", None, None, None, 1), ('I hate reading about politics in general', None, None, None, 0), ('and it is even worse', None, None, None, 0), ('when you have to read about grown adults bickering', None, None, None, 0), ('and arguing over it all .', None, None, None, 1), ('Joe Walsh and Diana Duckworth both are very immature .', None, None, None, 1), ('What do you think ?', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Background it 's so rude
+Leaf:  N Joint when people mock government officials
+Leaf:  N Joint and get so full of them selves over politics .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It really just burns me up
+Leaf:  S span that people ca n't get along in regards to it .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I hate reading about politics in general
+Leaf:  N Background and it is even worse
+Leaf:  N Joint when you have to read about grown adults bickering
+Leaf:  N Joint and arguing over it all .
+Inner:  S span None Joint NN
+Inner:  N Joint None Background NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation Joe Walsh and Diana Duckworth both are very immature .
+Leaf:  S span What do you think ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ("it 's so rude", None, None, None, 0), ('when people mock government officials', None, None, None, 0), ('and get so full of them selves over politics .', None, None, None, 1), ('It really just burns me up', None, None, None, 0), ("that people ca n't get along in regards to it .", None, None, None, 1), ('I hate reading about politics in general', None, None, None, 0), ('and it is even worse', None, None, None, 0), ('when you have to read about grown adults bickering', None, None, None, 0), ('and arguing over it all .', None, None, None, 1), ('Joe Walsh and Diana Duckworth both are very immature .', None, None, None, 1), ('What do you think ?', None, None, None, 1)]

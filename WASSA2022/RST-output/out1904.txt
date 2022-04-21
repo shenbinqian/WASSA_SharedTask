@@ -1,0 +1,23 @@
+=====================> [[('Yet another example of the horror', None, None, None, 0), ('brought about by the election of Trump .', None, None, None, 1), ('Going after undocumented students should be unacceptable ,', None, None, None, 0), ('yet now that is being expanded', None, None, None, 0), ('to include teachers as well ? Will be sending both students and teachers to the " concentration camps " at the border', None, None, None, 0), ('where they can be abused ,', None, None, None, 0), ('ignored ,', None, None, None, 0), ('left to die ?', None, None, None, 1), ('When will we wake up as a country', None, None, None, 0), ('to defend those', None, None, None, 0), ('attacked by the Trump government ?', None, None, None, 1)]]
+Leaf:  N Elaborate Yet another example of the horror
+Leaf:  S span brought about by the election of Trump .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Going after undocumented students should be unacceptable ,
+Leaf:  N Enablement yet now that is being expanded
+Leaf:  S span to include teachers as well ? Will be sending both students and teachers to the " concentration camps " at the border
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Joint where they can be abused ,
+Leaf:  N Joint ignored ,
+Leaf:  N Joint left to die ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Topic-Change None Contrast SN
+Leaf:  N Elaborate When will we wake up as a country
+Leaf:  N Elaborate to defend those
+Leaf:  S span attacked by the Trump government ?
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  S span None Topic-Change NN
+Inner:  Root None None Elaborate NS
+[('Yet another example of the horror', None, None, None, 0), ('brought about by the election of Trump .', None, None, None, 1), ('Going after undocumented students should be unacceptable ,', None, None, None, 0), ('yet now that is being expanded', None, None, None, 0), ('to include teachers as well ? Will be sending both students and teachers to the " concentration camps " at the border', None, None, None, 0), ('where they can be abused ,', None, None, None, 0), ('ignored ,', None, None, None, 0), ('left to die ?', None, None, None, 1), ('When will we wake up as a country', None, None, None, 0), ('to defend those', None, None, None, 0), ('attacked by the Trump government ?', None, None, None, 1)]

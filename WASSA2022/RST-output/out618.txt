@@ -1,0 +1,29 @@
+=====================> [[('Putting make up on a train ,', None, None, None, 0), ('is that just paint ?', None, None, None, 1), ('Ha ha .', None, None, None, 1), ("I do n't want to make too big a deal about this", None, None, None, 0), ('because it is a different culture', None, None, None, 0), ('and it would be difficult to get the full gist', None, None, None, 0), ('without knowing too much about it .', None, None, None, 1), ("With that said , it 's is pretty worrisome , in this country as well , how much people are telling everyone", None, None, None, 0), ("what they should and should n't be doing .", None, None, None, 1), ('Live and let live is still the best way', None, None, None, 0), ('to go about things', None, None, None, 0), ('and comparing putting on make up on a train', None, None, None, 0), ('to pooping on the train', None, None, None, 0), ('is pretty ridiculous by any standard .', None, None, None, 1)]]
+Leaf:  N Evaluation Putting make up on a train ,
+Leaf:  S span is that just paint ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Ha ha .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation I do n't want to make too big a deal about this
+Leaf:  N Joint because it is a different culture
+Leaf:  N Background and it would be difficult to get the full gist
+Leaf:  S span without knowing too much about it .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span With that said , it 's is pretty worrisome , in this country as well , how much people are telling everyone
+Leaf:  N Attribution what they should and should n't be doing .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Live and let live is still the best way
+Leaf:  S span to go about things
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Enablement and comparing putting on make up on a train
+Leaf:  S span to pooping on the train
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit is pretty ridiculous by any standard .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('Putting make up on a train ,', None, None, None, 0), ('is that just paint ?', None, None, None, 1), ('Ha ha .', None, None, None, 1), ("I do n't want to make too big a deal about this", None, None, None, 0), ('because it is a different culture', None, None, None, 0), ('and it would be difficult to get the full gist', None, None, None, 0), ('without knowing too much about it .', None, None, None, 1), ("With that said , it 's is pretty worrisome , in this country as well , how much people are telling everyone", None, None, None, 0), ("what they should and should n't be doing .", None, None, None, 1), ('Live and let live is still the best way', None, None, None, 0), ('to go about things', None, None, None, 0), ('and comparing putting on make up on a train', None, None, None, 0), ('to pooping on the train', None, None, None, 0), ('is pretty ridiculous by any standard .', None, None, None, 1)]

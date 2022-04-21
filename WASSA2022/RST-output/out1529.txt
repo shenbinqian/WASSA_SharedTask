@@ -1,0 +1,21 @@
+=====================> [[('the war on terror', None, None, None, 0), ('that began with the initial war of America on Afghanistan for the purpose', None, None, None, 0), ('of eliminating Talibaan', None, None, None, 0), ('and restoring order and democracy there', None, None, None, 0), ('but this war has continue for quite some time', None, None, None, 0), ('and has turned the country in ruined .', None, None, None, 1), ('i think', None, None, None, 0), ('its about time', None, None, None, 0), ('we leave that country for good', None, None, None, 0), ('and let them live there life', None, None, None, 0)]]
+Leaf:  N Elaborate the war on terror
+Leaf:  N Elaborate that began with the initial war of America on Afghanistan for the purpose
+Leaf:  S span of eliminating Talibaan
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and restoring order and democracy there
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint but this war has continue for quite some time
+Leaf:  N Joint and has turned the country in ruined .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span i think
+Leaf:  S span its about time
+Leaf:  N Joint we leave that country for good
+Leaf:  N Joint and let them live there life
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('the war on terror', None, None, None, 0), ('that began with the initial war of America on Afghanistan for the purpose', None, None, None, 0), ('of eliminating Talibaan', None, None, None, 0), ('and restoring order and democracy there', None, None, None, 0), ('but this war has continue for quite some time', None, None, None, 0), ('and has turned the country in ruined .', None, None, None, 1), ('i think', None, None, None, 0), ('its about time', None, None, None, 0), ('we leave that country for good', None, None, None, 0), ('and let them live there life', None, None, None, 0)]

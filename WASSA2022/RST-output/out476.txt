@@ -1,0 +1,21 @@
+=====================> [[('There has been unrest over the disputed region of Kshmir between Packistan and India .', None, None, None, 1), ('It looks as though there were 13 civilians', None, None, None, 0), ('killed during this latest skirmish .', None, None, None, 1), ("It 's pathetic to see so many innocent people being killed for no reason over this disputed land .", None, None, None, 1), ('Already there have been two wars fought between these two countries .', None, None, None, 1), ('I hope', None, None, None, 0), ('they can reach a peaceful settlemnt', None, None, None, 0), ('but since this has been ongoing for over 70 years', None, None, None, 0), ('I highly doubt', None, None, None, 0), ('that this will actually happen .', None, None, None, 1)]]
+Leaf:  N Summary There has been unrest over the disputed region of Kshmir between Packistan and India .
+Leaf:  N Elaborate It looks as though there were 13 civilians
+Leaf:  S span killed during this latest skirmish .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's pathetic to see so many innocent people being killed for no reason over this disputed land .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span Already there have been two wars fought between these two countries .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution they can reach a peaceful settlemnt
+Inner:  S span None Attribution SN
+Leaf:  S span but since this has been ongoing for over 70 years
+Leaf:  S span I highly doubt
+Leaf:  N Attribution that this will actually happen .
+Inner:  N Background None Attribution SN
+Inner:  N Contrast None Background SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('There has been unrest over the disputed region of Kshmir between Packistan and India .', None, None, None, 1), ('It looks as though there were 13 civilians', None, None, None, 0), ('killed during this latest skirmish .', None, None, None, 1), ("It 's pathetic to see so many innocent people being killed for no reason over this disputed land .", None, None, None, 1), ('Already there have been two wars fought between these two countries .', None, None, None, 1), ('I hope', None, None, None, 0), ('they can reach a peaceful settlemnt', None, None, None, 0), ('but since this has been ongoing for over 70 years', None, None, None, 0), ('I highly doubt', None, None, None, 0), ('that this will actually happen .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('This article', None, None, None, 0), ('I just read', None, None, None, 0), ('is incredibly intellectually dishonest .', None, None, None, 1), ('The notion', None, None, None, 0), ('that women were somehow exiled from talking points and inclusion in the Trump campaign is actually nauseating .', None, None, None, 1), ('This kind of narrative is truly what the modern liberal exists upon .', None, None, None, 1), ("It 's disgusting . I 'm not a Trump fan ,", None, None, None, 0), ('but mark my words ,', None, None, None, 0), ('this kind of crap will be the reason', None, None, None, 0), ('why he wins in 2020 .', None, None, None, 1)]]
+Leaf:  N Elaborate This article
+Leaf:  S span I just read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is incredibly intellectually dishonest .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The notion
+Leaf:  S span that women were somehow exiled from talking points and inclusion in the Trump campaign is actually nauseating .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This kind of narrative is truly what the modern liberal exists upon .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's disgusting . I 'm not a Trump fan ,
+Leaf:  S span but mark my words ,
+Leaf:  N Cause this kind of crap will be the reason
+Leaf:  N Cause why he wins in 2020 .
+Inner:  N Evaluation None Cause NN
+Inner:  N Contrast None Evaluation SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This article', None, None, None, 0), ('I just read', None, None, None, 0), ('is incredibly intellectually dishonest .', None, None, None, 1), ('The notion', None, None, None, 0), ('that women were somehow exiled from talking points and inclusion in the Trump campaign is actually nauseating .', None, None, None, 1), ('This kind of narrative is truly what the modern liberal exists upon .', None, None, None, 1), ("It 's disgusting . I 'm not a Trump fan ,", None, None, None, 0), ('but mark my words ,', None, None, None, 0), ('this kind of crap will be the reason', None, None, None, 0), ('why he wins in 2020 .', None, None, None, 1)]

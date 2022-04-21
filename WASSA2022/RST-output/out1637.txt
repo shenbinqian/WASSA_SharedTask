@@ -1,0 +1,19 @@
+=====================> [[('So sad !', None, None, None, 1), ('The middle east just keeps getting worse .', None, None, None, 1), ('I hate what ’s happening to these people ,', None, None, None, 0), ('but I ’m not sure how to solve it .', None, None, None, 1), ('I wish there was a simple , easy fix .', None, None, None, 1), ('However , it seems like every time', None, None, None, 0), ('we try to fix something', None, None, None, 0), ('it just gets worse .', None, None, None, 1), ('It ’s such a complex situation with no easy answer . Unfortunately , I do n’t see it being solved any time soon .', None, None, None, 1)]]
+Leaf:  N Summary So sad !
+Leaf:  N Evaluation The middle east just keeps getting worse .
+Leaf:  N Contrast I hate what ’s happening to these people ,
+Leaf:  N Contrast but I ’m not sure how to solve it .
+Inner:  N Contrast None Contrast NN
+Leaf:  S span I wish there was a simple , easy fix .
+Leaf:  N Elaborate However , it seems like every time
+Leaf:  S span we try to fix something
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit it just gets worse .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span It ’s such a complex situation with no easy answer . Unfortunately , I do n’t see it being solved any time soon .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('So sad !', None, None, None, 1), ('The middle east just keeps getting worse .', None, None, None, 1), ('I hate what ’s happening to these people ,', None, None, None, 0), ('but I ’m not sure how to solve it .', None, None, None, 1), ('I wish there was a simple , easy fix .', None, None, None, 1), ('However , it seems like every time', None, None, None, 0), ('we try to fix something', None, None, None, 0), ('it just gets worse .', None, None, None, 1), ('It ’s such a complex situation with no easy answer . Unfortunately , I do n’t see it being solved any time soon .', None, None, None, 1)]

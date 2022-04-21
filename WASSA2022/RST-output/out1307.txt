@@ -1,0 +1,35 @@
+=====================> [[('This is surprising news .', None, None, None, 1), ('First , how the news always make us believe', None, None, None, 0), ('that', None, None, None, 0), ('when a cop dies ,', None, None, None, 0), ('is because of a black person', None, None, None, 0), ('( or someone', None, None, None, 0), ('who is not white ) ,', None, None, None, 0), ('making race a big thing again .', None, None, None, 1), ('Number two , I am not saying', None, None, None, 0), ('that is good that people are dead ,', None, None, None, 0), ('but instead , I am saying', None, None, None, 0), ('that not a lot of them are dead .', None, None, None, 1), ('And for those', None, None, None, 0), ('who are not dead ,', None, None, None, 0), ('we should think about them ,', None, None, None, 0), ('provide them with better guide , counseling and stuff like that ,', None, None, None, 0), ('they go through traumatic events at work', None, None, None, 0)]]
+Leaf:  N Elaborate This is surprising news .
+Leaf:  S span First , how the news always make us believe
+Leaf:  N Same-Unit that
+Leaf:  N Same-Unit when a cop dies ,
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Elaborate is because of a black person
+Leaf:  N Elaborate ( or someone
+Leaf:  S span who is not white ) ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Cause None Attribution SN
+Leaf:  S span making race a big thing again .
+Inner:  N Joint None Cause NS
+Leaf:  S span Number two , I am not saying
+Leaf:  N Attribution that is good that people are dead ,
+Inner:  S span None Attribution SN
+Leaf:  S span but instead , I am saying
+Leaf:  N Attribution that not a lot of them are dead .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate And for those
+Leaf:  S span who are not dead ,
+Inner:  S span None Elaborate NS
+Leaf:  N Joint we should think about them ,
+Leaf:  N Joint provide them with better guide , counseling and stuff like that ,
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  N Background None Elaborate NS
+Leaf:  S span they go through traumatic events at work
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('This is surprising news .', None, None, None, 1), ('First , how the news always make us believe', None, None, None, 0), ('that', None, None, None, 0), ('when a cop dies ,', None, None, None, 0), ('is because of a black person', None, None, None, 0), ('( or someone', None, None, None, 0), ('who is not white ) ,', None, None, None, 0), ('making race a big thing again .', None, None, None, 1), ('Number two , I am not saying', None, None, None, 0), ('that is good that people are dead ,', None, None, None, 0), ('but instead , I am saying', None, None, None, 0), ('that not a lot of them are dead .', None, None, None, 1), ('And for those', None, None, None, 0), ('who are not dead ,', None, None, None, 0), ('we should think about them ,', None, None, None, 0), ('provide them with better guide , counseling and stuff like that ,', None, None, None, 0), ('they go through traumatic events at work', None, None, None, 0)]

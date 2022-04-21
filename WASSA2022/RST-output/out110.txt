@@ -1,0 +1,25 @@
+=====================> [[('Oh hey , check it out .', None, None, None, 1), ('Another article about the same thing', None, None, None, 0), ("that 's been repeated over and over again ,", None, None, None, 0), ("but it 's not really changing anything .", None, None, None, 1), ('I am just sending it to you', None, None, None, 0), ("because I 'm an idiot", None, None, None, 0), ("that does n't care", None, None, None, 0), ('about what you think .', None, None, None, 1), ('It just goes on and on about meat production', None, None, None, 0), ("and how that 's harming the environment .", None, None, None, 1), ("I ca n't wait for lab grown meat to be the standard ,", None, None, None, 0), ("but that 's not really in this . So , read away about cow farts .", None, None, None, 1)]]
+Leaf:  N Joint Oh hey , check it out .
+Leaf:  N Elaborate Another article about the same thing
+Leaf:  S span that 's been repeated over and over again ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but it 's not really changing anything .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Explanation I am just sending it to you
+Leaf:  N Elaborate because I 'm an idiot
+Leaf:  N Elaborate that does n't care
+Leaf:  S span about what you think .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint It just goes on and on about meat production
+Leaf:  N Joint and how that 's harming the environment .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I ca n't wait for lab grown meat to be the standard ,
+Leaf:  N Contrast but that 's not really in this . So , read away about cow farts .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  Root None None Joint NN
+[('Oh hey , check it out .', None, None, None, 1), ('Another article about the same thing', None, None, None, 0), ("that 's been repeated over and over again ,", None, None, None, 0), ("but it 's not really changing anything .", None, None, None, 1), ('I am just sending it to you', None, None, None, 0), ("because I 'm an idiot", None, None, None, 0), ("that does n't care", None, None, None, 0), ('about what you think .', None, None, None, 1), ('It just goes on and on about meat production', None, None, None, 0), ("and how that 's harming the environment .", None, None, None, 1), ("I ca n't wait for lab grown meat to be the standard ,", None, None, None, 0), ("but that 's not really in this . So , read away about cow farts .", None, None, None, 1)]

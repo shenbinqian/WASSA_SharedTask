@@ -1,0 +1,17 @@
+=====================> [[('The article i read about the Venezuela zoo', None, None, None, 0), ('where the animals', None, None, None, 0), ('starving due to food shortage .', None, None, None, 1), ('the country economical condition go down', None, None, None, 0), ('and rise the prices of food .', None, None, None, 1), ("The country ca n't manage to import food due to bad economical siyuation .", None, None, None, 1), ('Animals on the Caricuao Zoo staffers have been feeding carnivorous lions and tigers diets of mango and pumpkin .', None, None, None, 1), ('Elephant eats tropical food instead of hey .', None, None, None, 1)]]
+Leaf:  N Elaborate The article i read about the Venezuela zoo
+Leaf:  N Elaborate where the animals
+Leaf:  S span starving due to food shortage .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint the country economical condition go down
+Leaf:  N Joint and rise the prices of food .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint The country ca n't manage to import food due to bad economical siyuation .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Animals on the Caricuao Zoo staffers have been feeding carnivorous lions and tigers diets of mango and pumpkin .
+Leaf:  S span Elephant eats tropical food instead of hey .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The article i read about the Venezuela zoo', None, None, None, 0), ('where the animals', None, None, None, 0), ('starving due to food shortage .', None, None, None, 1), ('the country economical condition go down', None, None, None, 0), ('and rise the prices of food .', None, None, None, 1), ("The country ca n't manage to import food due to bad economical siyuation .", None, None, None, 1), ('Animals on the Caricuao Zoo staffers have been feeding carnivorous lions and tigers diets of mango and pumpkin .', None, None, None, 1), ('Elephant eats tropical food instead of hey .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I have very little sympathy for Turkey ,', None, None, None, 0), ("it 's a country", None, None, None, 0), ('that has been playing every sides of the field', None, None, None, 0), ('it can for a long time .', None, None, None, 1), ('It is so split ,', None, None, None, 0), ('because of this .', None, None, None, 1), ('I feel for the people ,', None, None, None, 0), ("and that 's why there are so many split groups ,", None, None, None, 0), ('not counting outside terrorist groups', None, None, None, 0), ('trying to gain influence in the area .', None, None, None, 1), ('I feel nothing for the country , only the people .', None, None, None, 1)]]
+Leaf:  N Explanation I have very little sympathy for Turkey ,
+Leaf:  N Elaborate it 's a country
+Leaf:  N Enablement that has been playing every sides of the field
+Leaf:  S span it can for a long time .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Explanation NS
+Leaf:  N Cause It is so split ,
+Leaf:  S span because of this .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Cause I feel for the people ,
+Leaf:  N Elaborate and that 's why there are so many split groups ,
+Leaf:  N Elaborate not counting outside terrorist groups
+Leaf:  S span trying to gain influence in the area .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Inner:  N Elaborate None Cause NN
+Leaf:  S span I feel nothing for the country , only the people .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I have very little sympathy for Turkey ,', None, None, None, 0), ("it 's a country", None, None, None, 0), ('that has been playing every sides of the field', None, None, None, 0), ('it can for a long time .', None, None, None, 1), ('It is so split ,', None, None, None, 0), ('because of this .', None, None, None, 1), ('I feel for the people ,', None, None, None, 0), ("and that 's why there are so many split groups ,", None, None, None, 0), ('not counting outside terrorist groups', None, None, None, 0), ('trying to gain influence in the area .', None, None, None, 1), ('I feel nothing for the country , only the people .', None, None, None, 1)]

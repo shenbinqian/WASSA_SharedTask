@@ -1,0 +1,13 @@
+=====================> [[('I just read an article about someone', None, None, None, 0), ("jumping a fence and into someone 's yard", None, None, None, 0), ('before stabbing several of the homeowners security guards .', None, None, None, 1), ('Just reminds me of how decrepit society has become .', None, None, None, 1), ("It 's as if we 've lost all touch with morality and compassion towards one another", None, None, None, 0), ('and such crimes are a grim reminder of the reality .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about someone
+Leaf:  N Temporal jumping a fence and into someone 's yard
+Leaf:  S span before stabbing several of the homeowners security guards .
+Inner:  S span None Temporal NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Summary Just reminds me of how decrepit society has become .
+Leaf:  N Evaluation It 's as if we 've lost all touch with morality and compassion towards one another
+Leaf:  S span and such crimes are a grim reminder of the reality .
+Inner:  S span None Evaluation NS
+Inner:  S span None Summary NS
+Inner:  Root None None Cause NS
+[('I just read an article about someone', None, None, None, 0), ("jumping a fence and into someone 's yard", None, None, None, 0), ('before stabbing several of the homeowners security guards .', None, None, None, 1), ('Just reminds me of how decrepit society has become .', None, None, None, 1), ("It 's as if we 've lost all touch with morality and compassion towards one another", None, None, None, 0), ('and such crimes are a grim reminder of the reality .', None, None, None, 1)]

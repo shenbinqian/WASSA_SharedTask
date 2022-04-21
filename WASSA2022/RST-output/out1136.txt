@@ -1,0 +1,33 @@
+=====================> [[('I wanted to write a bit to you', None, None, None, 0), ('regarding an article', None, None, None, 0), ('I just read about the Confederate Flag .', None, None, None, 1), ('Initially my feelings are a bit sadden', None, None, None, 0), ('by all the news and attention this situation is creating .', None, None, None, 1), ('I myself on the one hand would sympathize with those', None, None, None, 0), ('who are in support of the flag ,', None, None, None, 0), ('like putting myself in their shoes . In matters of free choice , if it is their choice', None, None, None, 0), ('to want to display the flag ,', None, None, None, 0), ('I support their right of free choice . I am also in sympathy with those', None, None, None, 0), ('that may find offense of the Confederate Flag .', None, None, None, 1), ("It may in fact open up old wounds , and bring back hurtful memories . However I fully support our President 's view .", None, None, None, 1), ('President and Mr. Donald Trump feels', None, None, None, 0), ('that the Confederate Flag should be placed in a museum .', None, None, None, 1), ('That course of action is an intelligent response , for both sides of the issue .', None, None, None, 1), ('I agree .', None, None, None, 1)]]
+Leaf:  N Background I wanted to write a bit to you
+Leaf:  N Elaborate regarding an article
+Leaf:  S span I just read about the Confederate Flag .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Background Initially my feelings are a bit sadden
+Leaf:  S span by all the news and attention this situation is creating .
+Inner:  N Explanation None Background NS
+Leaf:  N Elaborate I myself on the one hand would sympathize with those
+Leaf:  S span who are in support of the flag ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate like putting myself in their shoes . In matters of free choice , if it is their choice
+Leaf:  S span to want to display the flag ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Elaborate I support their right of free choice . I am also in sympathy with those
+Leaf:  S span that may find offense of the Confederate Flag .
+Inner:  N Condition None Elaborate NS
+Inner:  N Evaluation None Condition SN
+Leaf:  S span It may in fact open up old wounds , and bring back hurtful memories . However I fully support our President 's view .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span President and Mr. Donald Trump feels
+Leaf:  N Attribution that the Confederate Flag should be placed in a museum .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span That course of action is an intelligent response , for both sides of the issue .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I agree .
+Inner:  Root None None Evaluation NS
+[('I wanted to write a bit to you', None, None, None, 0), ('regarding an article', None, None, None, 0), ('I just read about the Confederate Flag .', None, None, None, 1), ('Initially my feelings are a bit sadden', None, None, None, 0), ('by all the news and attention this situation is creating .', None, None, None, 1), ('I myself on the one hand would sympathize with those', None, None, None, 0), ('who are in support of the flag ,', None, None, None, 0), ('like putting myself in their shoes . In matters of free choice , if it is their choice', None, None, None, 0), ('to want to display the flag ,', None, None, None, 0), ('I support their right of free choice . I am also in sympathy with those', None, None, None, 0), ('that may find offense of the Confederate Flag .', None, None, None, 1), ("It may in fact open up old wounds , and bring back hurtful memories . However I fully support our President 's view .", None, None, None, 1), ('President and Mr. Donald Trump feels', None, None, None, 0), ('that the Confederate Flag should be placed in a museum .', None, None, None, 1), ('That course of action is an intelligent response , for both sides of the issue .', None, None, None, 1), ('I agree .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('What a terrible tragedy !', None, None, None, 1), ('Accidents like this hit families so hard', None, None, None, 0), ('...', None, None, None, 1), ('and losing both a father and son this way !', None, None, None, 1), ('The poor family must be just beside themselves .', None, None, None, 1), ('It seems too ,', None, None, None, 0), ('if one looks at the circumstances ,', None, None, None, 0), ('that they were close', None, None, None, 0), ('and enjoyed doing things together .', None, None, None, 1), ('How very sad . The rest of the family must be just shaken to the core .', None, None, None, 1), ('Hopefully they are a tight knit group with support systems .', None, None, None, 1), ('I hate to hear about anyone in accidents ,', None, None, None, 0), ('but this sort of thing is just too sad .', None, None, None, 1)]]
+Leaf:  N Explanation What a terrible tragedy !
+Leaf:  N Cause Accidents like this hit families so hard
+Leaf:  S span ...
+Inner:  N Cause None Cause NS
+Leaf:  S span and losing both a father and son this way !
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation The poor family must be just beside themselves .
+Leaf:  N Same-Unit It seems too ,
+Leaf:  S span if one looks at the circumstances ,
+Leaf:  N Joint that they were close
+Leaf:  N Joint and enjoyed doing things together .
+Inner:  N Attribution None Joint NN
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span How very sad . The rest of the family must be just shaken to the core .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Hopefully they are a tight knit group with support systems .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation I hate to hear about anyone in accidents ,
+Leaf:  S span but this sort of thing is just too sad .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('What a terrible tragedy !', None, None, None, 1), ('Accidents like this hit families so hard', None, None, None, 0), ('...', None, None, None, 1), ('and losing both a father and son this way !', None, None, None, 1), ('The poor family must be just beside themselves .', None, None, None, 1), ('It seems too ,', None, None, None, 0), ('if one looks at the circumstances ,', None, None, None, 0), ('that they were close', None, None, None, 0), ('and enjoyed doing things together .', None, None, None, 1), ('How very sad . The rest of the family must be just shaken to the core .', None, None, None, 1), ('Hopefully they are a tight knit group with support systems .', None, None, None, 1), ('I hate to hear about anyone in accidents ,', None, None, None, 0), ('but this sort of thing is just too sad .', None, None, None, 1)]

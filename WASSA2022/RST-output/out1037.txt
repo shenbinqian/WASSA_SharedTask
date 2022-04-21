@@ -1,0 +1,21 @@
+=====================> [[('Trump is a fool .', None, None, None, 1), ('Climate change is real', None, None, None, 0), ("and it 's starting to effect us directly .", None, None, None, 1), ('I wonder', None, None, None, 0), ("when he 'll realize", None, None, None, 0), ('we have to do something .', None, None, None, 1), ('How much does it take ? Maybe his golf curse has to catch fire just like the forests .', None, None, None, 1), ("This does n't only effect us but the whole world and the life on it .", None, None, None, 1), ('United States needs to take action', None, None, None, 0), ("before it 's too late .", None, None, None, 1)]]
+Leaf:  N Explanation Trump is a fool .
+Leaf:  N Joint Climate change is real
+Leaf:  N Joint and it 's starting to effect us directly .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I wonder
+Leaf:  S span when he 'll realize
+Leaf:  N Attribution we have to do something .
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint How much does it take ? Maybe his golf curse has to catch fire just like the forests .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This does n't only effect us but the whole world and the life on it .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Attribution United States needs to take action
+Leaf:  S span before it 's too late .
+Inner:  S span None Attribution NS
+Inner:  Root None None Evaluation NS
+[('Trump is a fool .', None, None, None, 1), ('Climate change is real', None, None, None, 0), ("and it 's starting to effect us directly .", None, None, None, 1), ('I wonder', None, None, None, 0), ("when he 'll realize", None, None, None, 0), ('we have to do something .', None, None, None, 1), ('How much does it take ? Maybe his golf curse has to catch fire just like the forests .', None, None, None, 1), ("This does n't only effect us but the whole world and the life on it .", None, None, None, 1), ('United States needs to take action', None, None, None, 0), ("before it 's too late .", None, None, None, 1)]

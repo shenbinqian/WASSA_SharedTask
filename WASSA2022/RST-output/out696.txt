@@ -1,0 +1,25 @@
+=====================> [[('Hey , Billie bob Thorton says', None, None, None, 0), ('Angelina Jolie was never good enough for him .', None, None, None, 1), ('He is older', None, None, None, 0), ('but she was younger ,', None, None, None, 0), ('I guess', None, None, None, 0), ('he had no control over her at all .', None, None, None, 1), ('He stats', None, None, None, 0), ('that Angelina had a high stakes and fast lifestyle ,', None, None, None, 0), ('even made him wear viles of blood around their necks .', None, None, None, 1), ('I guess', None, None, None, 0), ('her saw her as coo koo and a tad bit crazy or or something .', None, None, None, 1), ('Maybe he had to get away from her hectic lifestyle .', None, None, None, 1)]]
+Leaf:  S span Hey , Billie bob Thorton says
+Leaf:  N Attribution Angelina Jolie was never good enough for him .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast He is older
+Leaf:  N Contrast but she was younger ,
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Same-Unit I guess
+Leaf:  N Same-Unit he had no control over her at all .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span He stats
+Leaf:  N Cause that Angelina had a high stakes and fast lifestyle ,
+Leaf:  S span even made him wear viles of blood around their necks .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I guess
+Leaf:  N Attribution her saw her as coo koo and a tad bit crazy or or something .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Maybe he had to get away from her hectic lifestyle .
+Inner:  Root None None Evaluation NS
+[('Hey , Billie bob Thorton says', None, None, None, 0), ('Angelina Jolie was never good enough for him .', None, None, None, 1), ('He is older', None, None, None, 0), ('but she was younger ,', None, None, None, 0), ('I guess', None, None, None, 0), ('he had no control over her at all .', None, None, None, 1), ('He stats', None, None, None, 0), ('that Angelina had a high stakes and fast lifestyle ,', None, None, None, 0), ('even made him wear viles of blood around their necks .', None, None, None, 1), ('I guess', None, None, None, 0), ('her saw her as coo koo and a tad bit crazy or or something .', None, None, None, 1), ('Maybe he had to get away from her hectic lifestyle .', None, None, None, 1)]

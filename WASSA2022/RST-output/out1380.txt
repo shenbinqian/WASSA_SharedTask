@@ -1,0 +1,27 @@
+=====================> [[('I hate it', None, None, None, 0), ('when these terrorist attacks happen on innocent people', None, None, None, 0), ('who are just living their lives .', None, None, None, 1), ("I do n't know how open societies can completely eliminate them ?", None, None, None, 1), ("You ca n't put the terrorist stigma on everyone of a certain religion", None, None, None, 0), ("and you ca n't close off your society .", None, None, None, 1), ("There 's always going to be religious zealots and crazy people", None, None, None, 0), ('who feel violence is the only way', None, None, None, 0), ('to get their ideas across ,', None, None, None, 0), ('but we just have to keep fighting them', None, None, None, 0), ('and trying our best', None, None, None, 0), ('to prevent an attack', None, None, None, 0), ('when possible .', None, None, None, 1)]]
+Leaf:  N Background I hate it
+Leaf:  N Elaborate when these terrorist attacks happen on innocent people
+Leaf:  S span who are just living their lives .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Leaf:  N Joint I do n't know how open societies can completely eliminate them ?
+Inner:  N Joint None Joint NN
+Leaf:  N Joint You ca n't put the terrorist stigma on everyone of a certain religion
+Leaf:  N Joint and you ca n't close off your society .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate There 's always going to be religious zealots and crazy people
+Leaf:  N Elaborate who feel violence is the only way
+Leaf:  S span to get their ideas across ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Joint but we just have to keep fighting them
+Leaf:  N Elaborate and trying our best
+Leaf:  S span to prevent an attack
+Inner:  N Condition None Elaborate NS
+Leaf:  S span when possible .
+Inner:  N Joint None Condition NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I hate it', None, None, None, 0), ('when these terrorist attacks happen on innocent people', None, None, None, 0), ('who are just living their lives .', None, None, None, 1), ("I do n't know how open societies can completely eliminate them ?", None, None, None, 1), ("You ca n't put the terrorist stigma on everyone of a certain religion", None, None, None, 0), ("and you ca n't close off your society .", None, None, None, 1), ("There 's always going to be religious zealots and crazy people", None, None, None, 0), ('who feel violence is the only way', None, None, None, 0), ('to get their ideas across ,', None, None, None, 0), ('but we just have to keep fighting them', None, None, None, 0), ('and trying our best', None, None, None, 0), ('to prevent an attack', None, None, None, 0), ('when possible .', None, None, None, 1)]

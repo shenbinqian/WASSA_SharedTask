@@ -1,0 +1,21 @@
+=====================> [[('I just read an article about numerous female athletes', None, None, None, 0), ('that of taking the world by storm .', None, None, None, 1), ('I love hearing about female athletes ,', None, None, None, 0), ('however it was frustrating to read an article with so many typos , miss spellings , errors and words', None, None, None, 0), ('that did n’t make sense', None, None, None, 0), ('put together .', None, None, None, 1), ('The article was clearly not proof read', None, None, None, 0), ('before being published', None, None, None, 0), ('where I read it .', None, None, None, 1), ('For such an important topic , proofreading would have been easy .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about numerous female athletes
+Leaf:  S span that of taking the world by storm .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I love hearing about female athletes ,
+Leaf:  N Elaborate however it was frustrating to read an article with so many typos , miss spellings , errors and words
+Leaf:  N Elaborate that did n’t make sense
+Leaf:  S span put together .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Temporal The article was clearly not proof read
+Leaf:  S span before being published
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span where I read it .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span For such an important topic , proofreading would have been easy .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about numerous female athletes', None, None, None, 0), ('that of taking the world by storm .', None, None, None, 1), ('I love hearing about female athletes ,', None, None, None, 0), ('however it was frustrating to read an article with so many typos , miss spellings , errors and words', None, None, None, 0), ('that did n’t make sense', None, None, None, 0), ('put together .', None, None, None, 1), ('The article was clearly not proof read', None, None, None, 0), ('before being published', None, None, None, 0), ('where I read it .', None, None, None, 1), ('For such an important topic , proofreading would have been easy .', None, None, None, 1)]

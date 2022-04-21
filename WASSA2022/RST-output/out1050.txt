@@ -1,0 +1,21 @@
+=====================> [[('It is disturbing that one person ’s views', None, None, None, 0), ('( such as President of the USA )', None, None, None, 0), ('can be so disruptive to people ’s lives .', None, None, None, 1), ('The situation with the immigrants from Mexico and the idea', None, None, None, 0), ('of building a southern border wall', None, None, None, 0), ('is upsetting to me .', None, None, None, 1), ('President Trump policy and views are disruptive to the whole economy of Mexico ,', None, None, None, 0), ('causes political tension and instability ,', None, None, None, 0), ('not to mention the extreme uncertainty in the lives of Mexican immigrants in USA ,', None, None, None, 0), ('who already have hard lives here .', None, None, None, 1)]]
+Leaf:  N Elaborate It is disturbing that one person ’s views
+Leaf:  S span ( such as President of the USA )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can be so disruptive to people ’s lives .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The situation with the immigrants from Mexico and the idea
+Leaf:  S span of building a southern border wall
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is upsetting to me .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint President Trump policy and views are disruptive to the whole economy of Mexico ,
+Leaf:  N Joint causes political tension and instability ,
+Leaf:  N Elaborate not to mention the extreme uncertainty in the lives of Mexican immigrants in USA ,
+Leaf:  S span who already have hard lives here .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('It is disturbing that one person ’s views', None, None, None, 0), ('( such as President of the USA )', None, None, None, 0), ('can be so disruptive to people ’s lives .', None, None, None, 1), ('The situation with the immigrants from Mexico and the idea', None, None, None, 0), ('of building a southern border wall', None, None, None, 0), ('is upsetting to me .', None, None, None, 1), ('President Trump policy and views are disruptive to the whole economy of Mexico ,', None, None, None, 0), ('causes political tension and instability ,', None, None, None, 0), ('not to mention the extreme uncertainty in the lives of Mexican immigrants in USA ,', None, None, None, 0), ('who already have hard lives here .', None, None, None, 1)]

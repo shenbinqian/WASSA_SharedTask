@@ -1,0 +1,21 @@
+=====================> [[('Hey , did you read this article ?', None, None, None, 1), ('South Korea always seems to have something', None, None, None, 0), ('going on .', None, None, None, 1), ('26 were hospitalized', None, None, None, 0), ('and 29 were treated at the scene .', None, None, None, 1), ('It seems like more and more often this kind of thing is happening .', None, None, None, 1), ('There has to be a better way', None, None, None, 0), ('of getting points across', None, None, None, 0), ('without injuries .', None, None, None, 1), ("It 's crazy and really unnecessary to cause harm for this .", None, None, None, 1)]]
+Leaf:  N Summary Hey , did you read this article ?
+Leaf:  N Elaborate South Korea always seems to have something
+Leaf:  S span going on .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint 26 were hospitalized
+Leaf:  N Joint and 29 were treated at the scene .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It seems like more and more often this kind of thing is happening .
+Leaf:  N Elaborate There has to be a better way
+Leaf:  N Manner-Means of getting points across
+Leaf:  S span without injuries .
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's crazy and really unnecessary to cause harm for this .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Hey , did you read this article ?', None, None, None, 1), ('South Korea always seems to have something', None, None, None, 0), ('going on .', None, None, None, 1), ('26 were hospitalized', None, None, None, 0), ('and 29 were treated at the scene .', None, None, None, 1), ('It seems like more and more often this kind of thing is happening .', None, None, None, 1), ('There has to be a better way', None, None, None, 0), ('of getting points across', None, None, None, 0), ('without injuries .', None, None, None, 1), ("It 's crazy and really unnecessary to cause harm for this .", None, None, None, 1)]

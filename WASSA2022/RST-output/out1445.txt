@@ -1,0 +1,27 @@
+=====================> [[('It should be easily doable', None, None, None, 0), ('to help others', None, None, None, 0), ('but idk why no one even tries anymore .', None, None, None, 1), ('It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable', None, None, None, 0), ('to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable', None, None, None, 0), ('to help others', None, None, None, 0), ('but idk why no one even tries', None, None, None, 0), ('anymore.It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore .', None, None, None, 1)]]
+Leaf:  N Elaborate It should be easily doable
+Leaf:  S span to help others
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span but idk why no one even tries anymore .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Contrast It should be easily doable to help others
+Leaf:  N Contrast but idk why no one even tries anymore.It should be easily doable to help others
+Leaf:  S span but idk why no one even tries anymore.It should be easily doable to help others
+Inner:  N Contrast None Contrast NS
+Leaf:  N Elaborate but idk why no one even tries anymore.It should be easily doable
+Leaf:  S span to help others
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but idk why no one even tries anymore.It should be easily doable
+Leaf:  S span to help others
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast but idk why no one even tries
+Leaf:  S span anymore.It should be easily doable to help others
+Inner:  N Contrast None Contrast NS
+Leaf:  S span but idk why no one even tries anymore .
+Inner:  S span None Contrast NS
+Inner:  S span None Contrast NS
+Inner:  S span None Contrast NS
+Inner:  S span None Contrast NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('It should be easily doable', None, None, None, 0), ('to help others', None, None, None, 0), ('but idk why no one even tries anymore .', None, None, None, 1), ('It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable', None, None, None, 0), ('to help others', None, None, None, 0), ('but idk why no one even tries anymore.It should be easily doable', None, None, None, 0), ('to help others', None, None, None, 0), ('but idk why no one even tries', None, None, None, 0), ('anymore.It should be easily doable to help others', None, None, None, 0), ('but idk why no one even tries anymore .', None, None, None, 1)]

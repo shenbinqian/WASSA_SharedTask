@@ -1,0 +1,33 @@
+=====================> [[('So I just had to read this article for a survey .', None, None, None, 1), ('It was completely unformatted , an enormous text-wall essay list .', None, None, None, 1), ('I made it all the way through though .', None, None, None, 1), ("I 'm not really into sports ,", None, None, None, 0), ('which the article focused on ,', None, None, None, 0), ('but the article did talk about a bunch of prominent women in sports and their accomplishments .', None, None, None, 1), ('It was a little hard to follow', None, None, None, 0), ("because I 'm not really familiar with a lot of sports terminology or what accomplishments are big deals .", None, None, None, 1), ('I think', None, None, None, 0), ("people generally care more about men 's performances ,", None, None, None, 0), ("but it 's good that women can be recognized for their accomplishments in sports too .", None, None, None, 1), ('There was one bit about a woman', None, None, None, 0), ('who got some popularity', None, None, None, 0), ('over what the writer called a " raunchy " photo shoot .', None, None, None, 1), ('I think', None, None, None, 0), ("that 's kinda weird that something like that was even included in an article with feminist tone .", None, None, None, 1)]]
+Leaf:  N Elaborate So I just had to read this article for a survey .
+Leaf:  N Contrast It was completely unformatted , an enormous text-wall essay list .
+Leaf:  S span I made it all the way through though .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I 'm not really into sports ,
+Leaf:  S span which the article focused on ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but the article did talk about a bunch of prominent women in sports and their accomplishments .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Explanation It was a little hard to follow
+Leaf:  S span because I 'm not really familiar with a lot of sports terminology or what accomplishments are big deals .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I think
+Leaf:  N Evaluation people generally care more about men 's performances ,
+Leaf:  S span but it 's good that women can be recognized for their accomplishments in sports too .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate There was one bit about a woman
+Leaf:  N Explanation who got some popularity
+Leaf:  S span over what the writer called a " raunchy " photo shoot .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution that 's kinda weird that something like that was even included in an article with feminist tone .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('So I just had to read this article for a survey .', None, None, None, 1), ('It was completely unformatted , an enormous text-wall essay list .', None, None, None, 1), ('I made it all the way through though .', None, None, None, 1), ("I 'm not really into sports ,", None, None, None, 0), ('which the article focused on ,', None, None, None, 0), ('but the article did talk about a bunch of prominent women in sports and their accomplishments .', None, None, None, 1), ('It was a little hard to follow', None, None, None, 0), ("because I 'm not really familiar with a lot of sports terminology or what accomplishments are big deals .", None, None, None, 1), ('I think', None, None, None, 0), ("people generally care more about men 's performances ,", None, None, None, 0), ("but it 's good that women can be recognized for their accomplishments in sports too .", None, None, None, 1), ('There was one bit about a woman', None, None, None, 0), ('who got some popularity', None, None, None, 0), ('over what the writer called a " raunchy " photo shoot .', None, None, None, 1), ('I think', None, None, None, 0), ("that 's kinda weird that something like that was even included in an article with feminist tone .", None, None, None, 1)]

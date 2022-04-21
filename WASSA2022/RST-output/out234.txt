@@ -1,0 +1,29 @@
+=====================> [[('I am torn', None, None, None, 0), ('when it comes to this one .', None, None, None, 1), ('I feel bad', None, None, None, 0), ('because that is a horrible way', None, None, None, 0), ('to die', None, None, None, 0), ('and his sister definitely did not need to see that .', None, None, None, 1), ('But I also do not understand', None, None, None, 0), ('why they would be so careless', None, None, None, 0), ('and wander off on a trail', None, None, None, 0), ('where it is clearly marked', None, None, None, 0), ('that they shouldnt be leaving .', None, None, None, 1), ('If they would have paid more attention', None, None, None, 0), ('and didnt carelessly not listen to rules', None, None, None, 0), ('than this situation could have been avoided .', None, None, None, 1)]]
+Leaf:  N Background I am torn
+Leaf:  S span when it comes to this one .
+Inner:  N Explanation None Background NS
+Leaf:  N Explanation I feel bad
+Leaf:  N Elaborate because that is a horrible way
+Leaf:  S span to die
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and his sister definitely did not need to see that .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Leaf:  S span But I also do not understand
+Leaf:  N Joint why they would be so careless
+Leaf:  N Elaborate and wander off on a trail
+Leaf:  S span where it is clearly marked
+Leaf:  N Attribution that they shouldnt be leaving .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint If they would have paid more attention
+Leaf:  N Joint and didnt carelessly not listen to rules
+Inner:  S span None Joint NN
+Leaf:  N Condition than this situation could have been avoided .
+Inner:  S span None Condition SN
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('I am torn', None, None, None, 0), ('when it comes to this one .', None, None, None, 1), ('I feel bad', None, None, None, 0), ('because that is a horrible way', None, None, None, 0), ('to die', None, None, None, 0), ('and his sister definitely did not need to see that .', None, None, None, 1), ('But I also do not understand', None, None, None, 0), ('why they would be so careless', None, None, None, 0), ('and wander off on a trail', None, None, None, 0), ('where it is clearly marked', None, None, None, 0), ('that they shouldnt be leaving .', None, None, None, 1), ('If they would have paid more attention', None, None, None, 0), ('and didnt carelessly not listen to rules', None, None, None, 0), ('than this situation could have been avoided .', None, None, None, 1)]

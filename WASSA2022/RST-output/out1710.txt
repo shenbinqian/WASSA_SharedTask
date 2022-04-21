@@ -1,0 +1,11 @@
+=====================> [[('The political divide in this country has only gotten worse over the years .', None, None, None, 1), ('Trump in particular has allow a rather nasty aspect of American society to rise to the surface', None, None, None, 0), ('and be open about their nastiness .', None, None, None, 1), ('This means that people on opposite political spectrum can not see eye-to-eye at all .', None, None, None, 1), ('This makes compromise even worse and less likely to succeed .', None, None, None, 1)]]
+Leaf:  N Elaborate The political divide in this country has only gotten worse over the years .
+Leaf:  N Joint Trump in particular has allow a rather nasty aspect of American society to rise to the surface
+Leaf:  N Joint and be open about their nastiness .
+Inner:  N Cause None Joint NN
+Leaf:  N Cause This means that people on opposite political spectrum can not see eye-to-eye at all .
+Leaf:  S span This makes compromise even worse and less likely to succeed .
+Inner:  S span None Cause NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('The political divide in this country has only gotten worse over the years .', None, None, None, 1), ('Trump in particular has allow a rather nasty aspect of American society to rise to the surface', None, None, None, 0), ('and be open about their nastiness .', None, None, None, 1), ('This means that people on opposite political spectrum can not see eye-to-eye at all .', None, None, None, 1), ('This makes compromise even worse and less likely to succeed .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[("I 'm sorry ....", None, None, None, 1), ("I do n't mean to laugh ...", None, None, None, 1), ('but .....', None, None, None, 1), ('this was TOO MUCH .', None, None, None, 1), ('I hate to admit', None, None, None, 0), ('that I found it a little bit funny ,', None, None, None, 0), ('but at the same time , I feel sorry', None, None, None, 0), ('that this man was this ignorant', None, None, None, 0), ('to do this to himself .', None, None, None, 1), ("Now he 's going to have to go through so much more stuff ,", None, None, None, 0), ('when in all likeliness , a simple urine test probably would have been performed', None, None, None, 0), ('to find a solution to the issue', None, None, None, 0), ('to begin with .', None, None, None, 1)]]
+Leaf:  N Joint I 'm sorry ....
+Leaf:  N Joint I do n't mean to laugh ...
+Inner:  N Contrast None Joint NN
+Leaf:  S span but .....
+Leaf:  N Evaluation this was TOO MUCH .
+Inner:  N Contrast None Evaluation SN
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span I hate to admit
+Leaf:  N Attribution that I found it a little bit funny ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but at the same time , I feel sorry
+Leaf:  N Cause that this man was this ignorant
+Leaf:  S span to do this to himself .
+Inner:  N Attribution None Cause NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  N Cause None Evaluation NS
+Leaf:  S span Now he 's going to have to go through so much more stuff ,
+Leaf:  N Enablement when in all likeliness , a simple urine test probably would have been performed
+Leaf:  N Elaborate to find a solution to the issue
+Leaf:  S span to begin with .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Enablement NS
+Inner:  S span None Explanation SN
+Inner:  Root None None Cause NS
+[("I 'm sorry ....", None, None, None, 1), ("I do n't mean to laugh ...", None, None, None, 1), ('but .....', None, None, None, 1), ('this was TOO MUCH .', None, None, None, 1), ('I hate to admit', None, None, None, 0), ('that I found it a little bit funny ,', None, None, None, 0), ('but at the same time , I feel sorry', None, None, None, 0), ('that this man was this ignorant', None, None, None, 0), ('to do this to himself .', None, None, None, 1), ("Now he 's going to have to go through so much more stuff ,", None, None, None, 0), ('when in all likeliness , a simple urine test probably would have been performed', None, None, None, 0), ('to find a solution to the issue', None, None, None, 0), ('to begin with .', None, None, None, 1)]

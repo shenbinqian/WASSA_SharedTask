@@ -1,0 +1,33 @@
+=====================> [[('Renewable energy is something', None, None, None, 0), ('that is very important .', None, None, None, 1), ('I am extremely loyal to the idea of renewable energy', None, None, None, 0), ('and need to develop a capacity', None, None, None, 0), ('to sustain my energy use .', None, None, None, 1), ('I am often the one', None, None, None, 0), ('to turn lights out', None, None, None, 0), ('unplug things ,', None, None, None, 0), ('and etc. when I leave a room .', None, None, None, 1), ('I hate to have high energy costs', None, None, None, 0), ('when there is also a great amount of natural sunlight', None, None, None, 0), ('to be used .', None, None, None, 1), ('If you have a huge bay window in your bedroom for example just use that', None, None, None, 0), ('to read', None, None, None, 0), ('or do whatever activity', None, None, None, 0), ('you would like to do .', None, None, None, 1)]]
+Leaf:  N Elaborate Renewable energy is something
+Leaf:  S span that is very important .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I am extremely loyal to the idea of renewable energy
+Leaf:  N Elaborate and need to develop a capacity
+Leaf:  S span to sustain my energy use .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate I am often the one
+Leaf:  N Joint to turn lights out
+Leaf:  N Joint unplug things ,
+Leaf:  N Joint and etc. when I leave a room .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Background I hate to have high energy costs
+Leaf:  N Elaborate when there is also a great amount of natural sunlight
+Leaf:  S span to be used .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Background NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Enablement If you have a huge bay window in your bedroom for example just use that
+Leaf:  N Joint to read
+Leaf:  N Elaborate or do whatever activity
+Leaf:  S span you would like to do .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Renewable energy is something', None, None, None, 0), ('that is very important .', None, None, None, 1), ('I am extremely loyal to the idea of renewable energy', None, None, None, 0), ('and need to develop a capacity', None, None, None, 0), ('to sustain my energy use .', None, None, None, 1), ('I am often the one', None, None, None, 0), ('to turn lights out', None, None, None, 0), ('unplug things ,', None, None, None, 0), ('and etc. when I leave a room .', None, None, None, 1), ('I hate to have high energy costs', None, None, None, 0), ('when there is also a great amount of natural sunlight', None, None, None, 0), ('to be used .', None, None, None, 1), ('If you have a huge bay window in your bedroom for example just use that', None, None, None, 0), ('to read', None, None, None, 0), ('or do whatever activity', None, None, None, 0), ('you would like to do .', None, None, None, 1)]

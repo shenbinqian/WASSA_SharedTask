@@ -1,0 +1,23 @@
+=====================> [[("Hello , I feel very bad about Yu 's death ,", None, None, None, 0), ('she was so young and already a very accomplished person .', None, None, None, 1), ('I do believe', None, None, None, 0), ('she was very aware', None, None, None, 0), ('that her flying career had inherent risks', None, None, None, 0), ('that could ultimately cause her death .', None, None, None, 1), ('It angers and saddens me', None, None, None, 0), ('that people would undermine her role a female fighter pilot', None, None, None, 0), ('by making rude remarks', None, None, None, 0), ('stating', None, None, None, 0), ('there are other more accomplished women flyers .', None, None, None, 1)]]
+Leaf:  N Explanation Hello , I feel very bad about Yu 's death ,
+Leaf:  S span she was so young and already a very accomplished person .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I do believe
+Leaf:  S span she was very aware
+Leaf:  N Elaborate that her flying career had inherent risks
+Leaf:  S span that could ultimately cause her death .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It angers and saddens me
+Leaf:  N Manner-Means that people would undermine her role a female fighter pilot
+Leaf:  N Elaborate by making rude remarks
+Leaf:  S span stating
+Leaf:  N Attribution there are other more accomplished women flyers .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Manner-Means NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[("Hello , I feel very bad about Yu 's death ,", None, None, None, 0), ('she was so young and already a very accomplished person .', None, None, None, 1), ('I do believe', None, None, None, 0), ('she was very aware', None, None, None, 0), ('that her flying career had inherent risks', None, None, None, 0), ('that could ultimately cause her death .', None, None, None, 1), ('It angers and saddens me', None, None, None, 0), ('that people would undermine her role a female fighter pilot', None, None, None, 0), ('by making rude remarks', None, None, None, 0), ('stating', None, None, None, 0), ('there are other more accomplished women flyers .', None, None, None, 1)]

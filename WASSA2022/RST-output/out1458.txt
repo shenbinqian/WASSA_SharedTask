@@ -1,0 +1,29 @@
+=====================> [[("I personally do n't agree with science", None, None, None, 0), ("making these kinds of decisions . Maybe , just maybe , a higher power did n't want these people to reproduce ?", None, None, None, 1), ('How do we know', None, None, None, 0), ("that these methods do n't permanently change something in the DNA", None, None, None, 0), ('that helps guarantee', None, None, None, 0), ('that a serial killer is born four of five generations down the line .', None, None, None, 1), ('How do we know ?', None, None, None, 1), ('There have been no studies .', None, None, None, 1), ('I would guess by this article that', None, None, None, 0), ('since boys', None, None, None, 0), ('that are born', None, None, None, 0), ('using this method', None, None, None, 0), ('also have low sperm counts ,', None, None, None, 0), ('that something , or someone , somewhere , is trying to tell them something .', None, None, None, 1)]]
+Leaf:  N Elaborate I personally do n't agree with science
+Leaf:  S span making these kinds of decisions . Maybe , just maybe , a higher power did n't want these people to reproduce ?
+Inner:  N Summary None Elaborate NS
+Leaf:  S span How do we know
+Leaf:  N Elaborate that these methods do n't permanently change something in the DNA
+Leaf:  S span that helps guarantee
+Leaf:  N Attribution that a serial killer is born four of five generations down the line .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span How do we know ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There have been no studies .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Same-Unit I would guess by this article that
+Leaf:  N Elaborate since boys
+Leaf:  N Manner-Means that are born
+Leaf:  S span using this method
+Inner:  N Same-Unit None Manner-Means NS
+Leaf:  N Same-Unit also have low sperm counts ,
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Leaf:  N Condition that something , or someone , somewhere , is trying to tell them something .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[("I personally do n't agree with science", None, None, None, 0), ("making these kinds of decisions . Maybe , just maybe , a higher power did n't want these people to reproduce ?", None, None, None, 1), ('How do we know', None, None, None, 0), ("that these methods do n't permanently change something in the DNA", None, None, None, 0), ('that helps guarantee', None, None, None, 0), ('that a serial killer is born four of five generations down the line .', None, None, None, 1), ('How do we know ?', None, None, None, 1), ('There have been no studies .', None, None, None, 1), ('I would guess by this article that', None, None, None, 0), ('since boys', None, None, None, 0), ('that are born', None, None, None, 0), ('using this method', None, None, None, 0), ('also have low sperm counts ,', None, None, None, 0), ('that something , or someone , somewhere , is trying to tell them something .', None, None, None, 1)]

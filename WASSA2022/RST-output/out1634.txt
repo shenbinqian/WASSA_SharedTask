@@ -1,0 +1,19 @@
+=====================> [[('So two sisters were on vacation', None, None, None, 0), ('and both died .', None, None, None, 1), ('Apparently fluid in the lungs', None, None, None, 0), ('but one had fluid in the brain or something like that . So sad for the family .', None, None, None, 1), ('The government', None, None, None, 0), ('where they were at', None, None, None, 0), ('is not giving the family much info', None, None, None, 0), ('if any at all .', None, None, None, 1), ('It is just weird how two sisters both died at the same place and by fluid in the lungs or brain .', None, None, None, 1)]]
+Leaf:  N Temporal So two sisters were on vacation
+Leaf:  N Temporal and both died .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Contrast Apparently fluid in the lungs
+Leaf:  N Contrast but one had fluid in the brain or something like that . So sad for the family .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The government
+Leaf:  S span where they were at
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is not giving the family much info
+Leaf:  S span if any at all .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is just weird how two sisters both died at the same place and by fluid in the lungs or brain .
+Inner:  Root None None Evaluation NS
+[('So two sisters were on vacation', None, None, None, 0), ('and both died .', None, None, None, 1), ('Apparently fluid in the lungs', None, None, None, 0), ('but one had fluid in the brain or something like that . So sad for the family .', None, None, None, 1), ('The government', None, None, None, 0), ('where they were at', None, None, None, 0), ('is not giving the family much info', None, None, None, 0), ('if any at all .', None, None, None, 1), ('It is just weird how two sisters both died at the same place and by fluid in the lungs or brain .', None, None, None, 1)]

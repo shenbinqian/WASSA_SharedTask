@@ -1,0 +1,19 @@
+=====================> [[('I just read an article', None, None, None, 0), ('on how many civilians are killed by airstrikes by NATO forces .', None, None, None, 1), ('This is a major issue', None, None, None, 0), ('because the mainstream media never report these stories .', None, None, None, 1), ('The media only paints NATO as the good guys and never in a bad light .', None, None, None, 1), ('They can commit acts', None, None, None, 0), ('that can be deemed a war crime', None, None, None, 0), ('but as long as they are the authority', None, None, None, 0), ('they do not need to be accounted for .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span on how many civilians are killed by airstrikes by NATO forces .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause This is a major issue
+Leaf:  S span because the mainstream media never report these stories .
+Inner:  N Joint None Cause NS
+Leaf:  N Joint The media only paints NATO as the good guys and never in a bad light .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate They can commit acts
+Leaf:  S span that can be deemed a war crime
+Inner:  S span None Elaborate NS
+Leaf:  S span but as long as they are the authority
+Leaf:  N Condition they do not need to be accounted for .
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read an article', None, None, None, 0), ('on how many civilians are killed by airstrikes by NATO forces .', None, None, None, 1), ('This is a major issue', None, None, None, 0), ('because the mainstream media never report these stories .', None, None, None, 1), ('The media only paints NATO as the good guys and never in a bad light .', None, None, None, 1), ('They can commit acts', None, None, None, 0), ('that can be deemed a war crime', None, None, None, 0), ('but as long as they are the authority', None, None, None, 0), ('they do not need to be accounted for .', None, None, None, 1)]

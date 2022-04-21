@@ -1,0 +1,33 @@
+=====================> [[('Ugh , I just read an article about our disgusting president and the way', None, None, None, 0), ('women are reacting to these rumors , allegations and truths', None, None, None, 0), ('made about this man and his inexcusable treatment of women in the past .', None, None, None, 1), ("And , that 's just it ,", None, None, None, 0), ('who is stupid enough', None, None, None, 0), ('to think', None, None, None, 0), ('his behavior is only in the past and is not still occurring today behind closed doors !?', None, None, None, 1), ('I am sure', None, None, None, 0), ('it is only a matter of time before that also comes out . The more and more I read about him ,', None, None, None, 0), ('the more and more', None, None, None, 0), ('disturbed I am to have him as a president', None, None, None, 0), ('and wish I did not live in a country', None, None, None, 0), ('where that animal is calling the shots .', None, None, None, 1), ('The article was talking about women , especially Republican women ,', None, None, None, 0), ('starting to pull away from their candidate', None, None, None, 0), ('and losing their warm and fuzzy feelings towards Trump . About time !', None, None, None, 1)]]
+Leaf:  N Elaborate Ugh , I just read an article about our disgusting president and the way
+Leaf:  N Elaborate women are reacting to these rumors , allegations and truths
+Leaf:  S span made about this man and his inexcusable treatment of women in the past .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate And , that 's just it ,
+Leaf:  S span who is stupid enough
+Leaf:  S span to think
+Leaf:  N Attribution his behavior is only in the past and is not still occurring today behind closed doors !?
+Inner:  N Enablement None Attribution SN
+Inner:  S span None Enablement SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am sure
+Leaf:  N Attribution it is only a matter of time before that also comes out . The more and more I read about him ,
+Inner:  N Temporal None Attribution SN
+Leaf:  N Comparison the more and more
+Leaf:  S span disturbed I am to have him as a president
+Inner:  S span None Comparison NS
+Inner:  N Joint None Temporal NS
+Leaf:  N Elaborate and wish I did not live in a country
+Leaf:  S span where that animal is calling the shots .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The article was talking about women , especially Republican women ,
+Leaf:  N Joint starting to pull away from their candidate
+Leaf:  N Joint and losing their warm and fuzzy feelings towards Trump . About time !
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Ugh , I just read an article about our disgusting president and the way', None, None, None, 0), ('women are reacting to these rumors , allegations and truths', None, None, None, 0), ('made about this man and his inexcusable treatment of women in the past .', None, None, None, 1), ("And , that 's just it ,", None, None, None, 0), ('who is stupid enough', None, None, None, 0), ('to think', None, None, None, 0), ('his behavior is only in the past and is not still occurring today behind closed doors !?', None, None, None, 1), ('I am sure', None, None, None, 0), ('it is only a matter of time before that also comes out . The more and more I read about him ,', None, None, None, 0), ('the more and more', None, None, None, 0), ('disturbed I am to have him as a president', None, None, None, 0), ('and wish I did not live in a country', None, None, None, 0), ('where that animal is calling the shots .', None, None, None, 1), ('The article was talking about women , especially Republican women ,', None, None, None, 0), ('starting to pull away from their candidate', None, None, None, 0), ('and losing their warm and fuzzy feelings towards Trump . About time !', None, None, None, 1)]

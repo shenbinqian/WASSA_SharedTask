@@ -1,0 +1,29 @@
+=====================> [[('Dude , there is some pretty messed up stuff', None, None, None, 0), ('going on .', None, None, None, 1), ('I feel', None, None, None, 0), ('like every time', None, None, None, 0), ('I turn on the news', None, None, None, 0), ('or open a newspaper', None, None, None, 0), ('I am reading about pedophilia', None, None, None, 0), ('going on all over the world .', None, None, None, 1), ('I feel', None, None, None, 0), ('like it is much more common', None, None, None, 0), ('than anyone realizes', None, None, None, 0), ('and that at any given moment , I could be walking past someone', None, None, None, 0), ('who is sexually attracted to children .', None, None, None, 1), ('It is crazy to think about and really scary .', None, None, None, 1)]]
+Leaf:  N Elaborate Dude , there is some pretty messed up stuff
+Leaf:  S span going on .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I feel
+Leaf:  N Elaborate like every time
+Leaf:  N Joint I turn on the news
+Leaf:  N Joint or open a newspaper
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate I am reading about pedophilia
+Leaf:  S span going on all over the world .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I feel
+Leaf:  N Comparison like it is much more common
+Leaf:  S span than anyone realizes
+Inner:  N Joint None Comparison NS
+Leaf:  N Elaborate and that at any given moment , I could be walking past someone
+Leaf:  S span who is sexually attracted to children .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is crazy to think about and really scary .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Dude , there is some pretty messed up stuff', None, None, None, 0), ('going on .', None, None, None, 1), ('I feel', None, None, None, 0), ('like every time', None, None, None, 0), ('I turn on the news', None, None, None, 0), ('or open a newspaper', None, None, None, 0), ('I am reading about pedophilia', None, None, None, 0), ('going on all over the world .', None, None, None, 1), ('I feel', None, None, None, 0), ('like it is much more common', None, None, None, 0), ('than anyone realizes', None, None, None, 0), ('and that at any given moment , I could be walking past someone', None, None, None, 0), ('who is sexually attracted to children .', None, None, None, 1), ('It is crazy to think about and really scary .', None, None, None, 1)]

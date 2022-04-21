@@ -1,0 +1,31 @@
+=====================> [[('I know', None, None, None, 0), ('this article is super wordy ,', None, None, None, 0), ('but it is an interesting read ,', None, None, None, 0), ('if you have a chance', None, None, None, 0), ('ad you are bored , make sure you read it .', None, None, None, 1), ('It is about how Democrats will move forward in the next few years', None, None, None, 0), ('to get legoslation moving .', None, None, None, 1), ('It has been hard with Trump in the White House for the whole country ,', None, None, None, 0), ('but imagine being a democrat', None, None, None, 0), ('right now', None, None, None, 0), ('trying to push legislation', None, None, None, 0), ('that your constituents are asking about ?', None, None, None, 1), ('What a time', None, None, None, 0), ('to be alive !', None, None, None, 1), ('We should all just try to make the country a lot better right now !', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Attribution this article is super wordy ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span but it is an interesting read ,
+Inner:  N Joint None Evaluation NS
+Leaf:  N Enablement if you have a chance
+Leaf:  S span ad you are bored , make sure you read it .
+Inner:  N Joint None Enablement NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Enablement It is about how Democrats will move forward in the next few years
+Leaf:  S span to get legoslation moving .
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span It has been hard with Trump in the White House for the whole country ,
+Leaf:  N Background but imagine being a democrat
+Leaf:  S span right now
+Inner:  N Enablement None Background NS
+Leaf:  N Elaborate trying to push legislation
+Leaf:  S span that your constituents are asking about ?
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Enablement NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate What a time
+Leaf:  S span to be alive !
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span We should all just try to make the country a lot better right now !
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I know', None, None, None, 0), ('this article is super wordy ,', None, None, None, 0), ('but it is an interesting read ,', None, None, None, 0), ('if you have a chance', None, None, None, 0), ('ad you are bored , make sure you read it .', None, None, None, 1), ('It is about how Democrats will move forward in the next few years', None, None, None, 0), ('to get legoslation moving .', None, None, None, 1), ('It has been hard with Trump in the White House for the whole country ,', None, None, None, 0), ('but imagine being a democrat', None, None, None, 0), ('right now', None, None, None, 0), ('trying to push legislation', None, None, None, 0), ('that your constituents are asking about ?', None, None, None, 1), ('What a time', None, None, None, 0), ('to be alive !', None, None, None, 1), ('We should all just try to make the country a lot better right now !', None, None, None, 1)]

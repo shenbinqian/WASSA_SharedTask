@@ -1,0 +1,23 @@
+=====================> [[('I never knew', None, None, None, 0), ('there was a link between depression and birth control pills .', None, None, None, 1), ('I thought', None, None, None, 0), ('it would do the opposite', None, None, None, 0), ('because it allows women to have a full sex like', None, None, None, 0), ('without worrying about pregnancy ,', None, None, None, 0), ('so they and their partners can feel more relaxed and open to exploring their sexuality .', None, None, None, 1), ('But', None, None, None, 0), ('now that i read the article', None, None, None, 0), ('I can see the link between hormone fluctuations and mood disorders', None, None, None, 0), ('since the two effect each other .', None, None, None, 1)]]
+Leaf:  S span I never knew
+Leaf:  N Attribution there was a link between depression and birth control pills .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I thought
+Leaf:  N Explanation it would do the opposite
+Leaf:  N Background because it allows women to have a full sex like
+Leaf:  S span without worrying about pregnancy ,
+Inner:  N Enablement None Background NS
+Leaf:  S span so they and their partners can feel more relaxed and open to exploring their sexuality .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Explanation NS
+Leaf:  N Same-Unit But
+Leaf:  S span now that i read the article
+Leaf:  N Explanation I can see the link between hormone fluctuations and mood disorders
+Leaf:  S span since the two effect each other .
+Inner:  N Condition None Explanation NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  Root None None Contrast NN
+[('I never knew', None, None, None, 0), ('there was a link between depression and birth control pills .', None, None, None, 1), ('I thought', None, None, None, 0), ('it would do the opposite', None, None, None, 0), ('because it allows women to have a full sex like', None, None, None, 0), ('without worrying about pregnancy ,', None, None, None, 0), ('so they and their partners can feel more relaxed and open to exploring their sexuality .', None, None, None, 1), ('But', None, None, None, 0), ('now that i read the article', None, None, None, 0), ('I can see the link between hormone fluctuations and mood disorders', None, None, None, 0), ('since the two effect each other .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('What they did to that poor boy is absolutely terrible .', None, None, None, 1), ('He was likely just starving', None, None, None, 0), ('and needed some food .', None, None, None, 1), ('Beating and burning someone is a completely out of line punishment for simply stealing some food .', None, None, None, 1), ('I really hope', None, None, None, 0), ('those', None, None, None, 0), ('who did this', None, None, None, 0), ('are just as severely punished', None, None, None, 0), ('as they punished that poor boy .', None, None, None, 1), ('I hope', None, None, None, 0), ('they enjoy being beaten and burnt .', None, None, None, 1)]]
+Leaf:  N Elaborate What they did to that poor boy is absolutely terrible .
+Leaf:  N Joint He was likely just starving
+Leaf:  N Joint and needed some food .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Beating and burning someone is a completely out of line punishment for simply stealing some food .
+Leaf:  S span I really hope
+Leaf:  N Elaborate those
+Leaf:  S span who did this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are just as severely punished
+Inner:  N Comparison None Same-Unit NN
+Leaf:  S span as they punished that poor boy .
+Inner:  N Attribution None Comparison NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution they enjoy being beaten and burnt .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('What they did to that poor boy is absolutely terrible .', None, None, None, 1), ('He was likely just starving', None, None, None, 0), ('and needed some food .', None, None, None, 1), ('Beating and burning someone is a completely out of line punishment for simply stealing some food .', None, None, None, 1), ('I really hope', None, None, None, 0), ('those', None, None, None, 0), ('who did this', None, None, None, 0), ('are just as severely punished', None, None, None, 0), ('as they punished that poor boy .', None, None, None, 1), ('I hope', None, None, None, 0), ('they enjoy being beaten and burnt .', None, None, None, 1)]

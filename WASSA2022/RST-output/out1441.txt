@@ -1,0 +1,41 @@
+=====================> [[("I 'm glad", None, None, None, 0), ("I do n't wear contacts ,", None, None, None, 0), ("because I 'm so lazy with them", None, None, None, 0), ('that I would likely become infected', None, None, None, 0), ('and that would be horrible for my already terrible eyes . I read an article', None, None, None, 0), ('that said', None, None, None, 0), ('that people', None, None, None, 0), ('who leave their contacts in while they sleep', None, None, None, 0), ('are more likely to get an eye infection', None, None, None, 0), ('that can cause blindness .', None, None, None, 1), ('Makes me wish I could fix my vision to perfection again .', None, None, None, 1), ('I hate that I have terrible eyesight', None, None, None, 0), ("and have to rely on primitive glasses or risky contacts . It 's not fair and I am very upset about it . Does anyone want to donate their eyes to me ?", None, None, None, 1), ('I promise', None, None, None, 0), ('I will take good care of them .', None, None, None, 1), ('If only I could grow new eyes or get badass bionic cyborg eyes', None, None, None, 0), ('that can shoot lasers ,', None, None, None, 0), ('then i could defeat the bacteria', None, None, None, 0), ("and be a hero to the human race . Well that 's all silly pipedreams .", None, None, None, 1), ('I just have to deal withit', None, None, None, 0)]]
+Leaf:  S span I 'm glad
+Leaf:  N Explanation I do n't wear contacts ,
+Leaf:  S span because I 'm so lazy with them
+Leaf:  N Joint that I would likely become infected
+Leaf:  N Joint and that would be horrible for my already terrible eyes . I read an article
+Inner:  N Cause None Joint NN
+Inner:  N Elaborate None Cause SN
+Leaf:  S span that said
+Leaf:  N Elaborate that people
+Leaf:  S span who leave their contacts in while they sleep
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate are more likely to get an eye infection
+Leaf:  S span that can cause blindness .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Explanation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation Makes me wish I could fix my vision to perfection again .
+Leaf:  N Joint I hate that I have terrible eyesight
+Leaf:  N Joint and have to rely on primitive glasses or risky contacts . It 's not fair and I am very upset about it . Does anyone want to donate their eyes to me ?
+Inner:  N Topic-Comment None Joint NN
+Leaf:  S span I promise
+Leaf:  N Attribution I will take good care of them .
+Inner:  N Topic-Comment None Attribution SN
+Inner:  S span None Topic-Comment NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate If only I could grow new eyes or get badass bionic cyborg eyes
+Leaf:  S span that can shoot lasers ,
+Inner:  S span None Elaborate NS
+Leaf:  N Temporal then i could defeat the bacteria
+Leaf:  N Temporal and be a hero to the human race . Well that 's all silly pipedreams .
+Inner:  N Condition None Temporal NN
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I just have to deal withit
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I 'm glad", None, None, None, 0), ("I do n't wear contacts ,", None, None, None, 0), ("because I 'm so lazy with them", None, None, None, 0), ('that I would likely become infected', None, None, None, 0), ('and that would be horrible for my already terrible eyes . I read an article', None, None, None, 0), ('that said', None, None, None, 0), ('that people', None, None, None, 0), ('who leave their contacts in while they sleep', None, None, None, 0), ('are more likely to get an eye infection', None, None, None, 0), ('that can cause blindness .', None, None, None, 1), ('Makes me wish I could fix my vision to perfection again .', None, None, None, 1), ('I hate that I have terrible eyesight', None, None, None, 0), ("and have to rely on primitive glasses or risky contacts . It 's not fair and I am very upset about it . Does anyone want to donate their eyes to me ?", None, None, None, 1), ('I promise', None, None, None, 0), ('I will take good care of them .', None, None, None, 1), ('If only I could grow new eyes or get badass bionic cyborg eyes', None, None, None, 0), ('that can shoot lasers ,', None, None, None, 0), ('then i could defeat the bacteria', None, None, None, 0), ("and be a hero to the human race . Well that 's all silly pipedreams .", None, None, None, 1), ('I just have to deal withit', None, None, None, 0)]

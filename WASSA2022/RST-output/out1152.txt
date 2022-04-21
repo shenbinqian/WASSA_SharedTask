@@ -1,0 +1,25 @@
+=====================> [[('Did you hear about the shipwreck in Egypt ?', None, None, None, 1), ('Unfortunately it looks like fifty five people have died .', None, None, None, 1), ("It 's such a sad story .", None, None, None, 1), ('I feel so bad for the families', None, None, None, 0), ('and that has to be a odd feeling for the 150 or so that survived .', None, None, None, 1), ('So many people swam', None, None, None, 0), ('to save their lives .', None, None, None, 1), ('I would never be able to do that !', None, None, None, 1), ('There were also children on the boat ,', None, None, None, 0), ('so that is incredibly sad .', None, None, None, 1), ('I hate that people died', None, None, None, 0), ('and had no chance of survival .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Did you hear about the shipwreck in Egypt ?
+Leaf:  N Evaluation Unfortunately it looks like fifty five people have died .
+Leaf:  S span It 's such a sad story .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I feel so bad for the families
+Leaf:  N Joint and that has to be a odd feeling for the 150 or so that survived .
+Inner:  N Explanation None Joint NN
+Leaf:  N Enablement So many people swam
+Leaf:  S span to save their lives .
+Inner:  N Comparison None Enablement NS
+Leaf:  N Comparison I would never be able to do that !
+Inner:  N Joint None Comparison NN
+Leaf:  N Evaluation There were also children on the boat ,
+Leaf:  S span so that is incredibly sad .
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint I hate that people died
+Leaf:  N Joint and had no chance of survival .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Did you hear about the shipwreck in Egypt ?', None, None, None, 1), ('Unfortunately it looks like fifty five people have died .', None, None, None, 1), ("It 's such a sad story .", None, None, None, 1), ('I feel so bad for the families', None, None, None, 0), ('and that has to be a odd feeling for the 150 or so that survived .', None, None, None, 1), ('So many people swam', None, None, None, 0), ('to save their lives .', None, None, None, 1), ('I would never be able to do that !', None, None, None, 1), ('There were also children on the boat ,', None, None, None, 0), ('so that is incredibly sad .', None, None, None, 1), ('I hate that people died', None, None, None, 0), ('and had no chance of survival .', None, None, None, 1)]

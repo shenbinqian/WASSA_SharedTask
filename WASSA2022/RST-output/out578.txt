@@ -1,0 +1,25 @@
+=====================> [[('Kisii is a real tragedy .', None, None, None, 1), ('Many people are dead ,', None, None, None, 0), ('and more people are severely injured .', None, None, None, 1), ('The drilling is likely what caused it ,', None, None, None, 0), ('and the developer should be held responsible .', None, None, None, 1), ('He has caused much pain and suffering .', None, None, None, 1), ('Kenyans deserve better ,', None, None, None, 0), ('and', None, None, None, 0), ("since he did n't listen to NCA warnings ,", None, None, None, 0), ('he should pay for what he did . The other buildings in the area should be thoroughly tested', None, None, None, 0), ('to see if anything can be done', None, None, None, 0), ('to prevent this .', None, None, None, 1)]]
+Leaf:  N Elaborate Kisii is a real tragedy .
+Leaf:  N Joint Many people are dead ,
+Leaf:  N Joint and more people are severely injured .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation The drilling is likely what caused it ,
+Leaf:  N Evaluation and the developer should be held responsible .
+Inner:  N Elaborate None Evaluation NN
+Leaf:  S span He has caused much pain and suffering .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Kenyans deserve better ,
+Leaf:  N Same-Unit and
+Leaf:  S span since he did n't listen to NCA warnings ,
+Leaf:  N Enablement he should pay for what he did . The other buildings in the area should be thoroughly tested
+Leaf:  N Enablement to see if anything can be done
+Leaf:  S span to prevent this .
+Inner:  S span None Enablement NS
+Inner:  N Background None Enablement NS
+Inner:  N Same-Unit None Background SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Kisii is a real tragedy .', None, None, None, 1), ('Many people are dead ,', None, None, None, 0), ('and more people are severely injured .', None, None, None, 1), ('The drilling is likely what caused it ,', None, None, None, 0), ('and the developer should be held responsible .', None, None, None, 1), ('He has caused much pain and suffering .', None, None, None, 1), ('Kenyans deserve better ,', None, None, None, 0), ('and', None, None, None, 0), ("since he did n't listen to NCA warnings ,", None, None, None, 0), ('he should pay for what he did . The other buildings in the area should be thoroughly tested', None, None, None, 0), ('to see if anything can be done', None, None, None, 0), ('to prevent this .', None, None, None, 1)]

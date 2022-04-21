@@ -1,0 +1,25 @@
+=====================> [[('I just finished reading an article on about a species of frogs', None, None, None, 0), ('that went extinct .', None, None, None, 1), ("I 'm not so worried about the frog .", None, None, None, 1), ('I think', None, None, None, 0), ('there is a natural order of things', None, None, None, 0), ('and someones a species dies off .', None, None, None, 1), ('It did make me think about humans .', None, None, None, 1), ('It made me think', None, None, None, 0), ('about how we preserve our on environments', None, None, None, 0), ('and if we are doing it in a way', None, None, None, 0), ('that will make is sustainable for us .', None, None, None, 1), ('Or will we be extinct some day as well .', None, None, None, 1)]]
+Leaf:  N Elaborate I just finished reading an article on about a species of frogs
+Leaf:  S span that went extinct .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I 'm not so worried about the frog .
+Leaf:  S span I think
+Leaf:  N Joint there is a natural order of things
+Leaf:  N Joint and someones a species dies off .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Comparison None Explanation NS
+Leaf:  N Joint It did make me think about humans .
+Leaf:  N Elaborate It made me think
+Leaf:  N Joint about how we preserve our on environments
+Leaf:  N Elaborate and if we are doing it in a way
+Leaf:  S span that will make is sustainable for us .
+Inner:  N Condition None Elaborate NS
+Leaf:  N Condition Or will we be extinct some day as well .
+Inner:  N Joint None Condition NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Comparison None Joint NN
+Inner:  S span None Comparison NN
+Inner:  Root None None Elaborate NS
+[('I just finished reading an article on about a species of frogs', None, None, None, 0), ('that went extinct .', None, None, None, 1), ("I 'm not so worried about the frog .", None, None, None, 1), ('I think', None, None, None, 0), ('there is a natural order of things', None, None, None, 0), ('and someones a species dies off .', None, None, None, 1), ('It did make me think about humans .', None, None, None, 1), ('It made me think', None, None, None, 0), ('about how we preserve our on environments', None, None, None, 0), ('and if we are doing it in a way', None, None, None, 0), ('that will make is sustainable for us .', None, None, None, 1), ('Or will we be extinct some day as well .', None, None, None, 1)]

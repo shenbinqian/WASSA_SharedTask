@@ -1,0 +1,27 @@
+=====================> [[('There was some anti jewish graffitti in my community after trumps election too .', None, None, None, 1), ('I think', None, None, None, 0), ('these jewish feeling were feeling like a lot of us after trumps election ,', None, None, None, 0), ("like America was n't a safe place", None, None, None, 0), ('to be anymore .', None, None, None, 1), ("He opened it up to racism , sexism , and bigotry . Not that those were n't already there ,", None, None, None, 0), ('but he made it seem like those were okay .', None, None, None, 1), ('I felt like that as a woman ,', None, None, None, 0), ('and I talked to other women', None, None, None, 0), ('who did too , like you .', None, None, None, 1), ('It felt like these people felt ,', None, None, None, 0), ('like suddenly it was okay to harrass women ,', None, None, None, 0), ('because the president does it too .', None, None, None, 1)]]
+Leaf:  N Elaborate There was some anti jewish graffitti in my community after trumps election too .
+Leaf:  S span I think
+Leaf:  N Joint these jewish feeling were feeling like a lot of us after trumps election ,
+Leaf:  N Elaborate like America was n't a safe place
+Leaf:  S span to be anymore .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He opened it up to racism , sexism , and bigotry . Not that those were n't already there ,
+Leaf:  N Contrast but he made it seem like those were okay .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint I felt like that as a woman ,
+Leaf:  N Elaborate and I talked to other women
+Leaf:  S span who did too , like you .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate It felt like these people felt ,
+Leaf:  N Explanation like suddenly it was okay to harrass women ,
+Leaf:  S span because the president does it too .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There was some anti jewish graffitti in my community after trumps election too .', None, None, None, 1), ('I think', None, None, None, 0), ('these jewish feeling were feeling like a lot of us after trumps election ,', None, None, None, 0), ("like America was n't a safe place", None, None, None, 0), ('to be anymore .', None, None, None, 1), ("He opened it up to racism , sexism , and bigotry . Not that those were n't already there ,", None, None, None, 0), ('but he made it seem like those were okay .', None, None, None, 1), ('I felt like that as a woman ,', None, None, None, 0), ('and I talked to other women', None, None, None, 0), ('who did too , like you .', None, None, None, 1), ('It felt like these people felt ,', None, None, None, 0), ('like suddenly it was okay to harrass women ,', None, None, None, 0), ('because the president does it too .', None, None, None, 1)]

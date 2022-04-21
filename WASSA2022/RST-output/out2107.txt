@@ -1,0 +1,21 @@
+=====================> [[('You hear about the forest fires', None, None, None, 0), ('raging around the Appalchians of all places ?', None, None, None, 1), ('When I first heard about it', None, None, None, 0), ('before I knew', None, None, None, 0), ('where it was I just rolled my eyes', None, None, None, 0), ('and was like " oh what a surprise ,', None, None, None, 0), ('california is on fire again ,', None, None, None, 0), ('someone call the news ... "', None, None, None, 0), ("but nope it 's the South-East of the US .", None, None, None, 1), ('Global warming is a myth amirite ?', None, None, None, 1)]]
+Leaf:  N Elaborate You hear about the forest fires
+Leaf:  S span raging around the Appalchians of all places ?
+Inner:  N Cause None Elaborate NS
+Leaf:  N Temporal When I first heard about it
+Leaf:  S span before I knew
+Leaf:  N Attribution where it was I just rolled my eyes
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and was like " oh what a surprise ,
+Inner:  N Elaborate None Joint NN
+Leaf:  S span california is on fire again ,
+Inner:  N Temporal None Elaborate NS
+Inner:  N Same-Unit None Temporal NN
+Leaf:  N Attribution someone call the news ... "
+Leaf:  S span but nope it 's the South-East of the US .
+Inner:  N Same-Unit None Attribution NS
+Inner:  S span None Same-Unit NN
+Inner:  N Textual-Organization None Cause NS
+Leaf:  N Textual-Organization Global warming is a myth amirite ?
+Inner:  Root None None Textual-Organization NN
+[('You hear about the forest fires', None, None, None, 0), ('raging around the Appalchians of all places ?', None, None, None, 1), ('When I first heard about it', None, None, None, 0), ('before I knew', None, None, None, 0), ('where it was I just rolled my eyes', None, None, None, 0), ('and was like " oh what a surprise ,', None, None, None, 0), ('california is on fire again ,', None, None, None, 0), ('someone call the news ... "', None, None, None, 0), ("but nope it 's the South-East of the US .", None, None, None, 1), ('Global warming is a myth amirite ?', None, None, None, 1)]

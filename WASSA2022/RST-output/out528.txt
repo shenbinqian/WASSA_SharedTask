@@ -1,0 +1,21 @@
+=====================> [[("Let 's be real for a second", None, None, None, 0), ('- politics is and always has been a cruel and nasty game .', None, None, None, 1), ('These politicians throw insults at each other for months', None, None, None, 0), ('in order to win .', None, None, None, 1), ("That 's what competition portrays itself as in politics .", None, None, None, 1), ('For this woman to suddenly become offended', None, None, None, 0), ('when she has thrown around plenty of insults herself', None, None, None, 0), ('is not just hypocritical ,', None, None, None, 0), ('but also shows a lot of weakness on her part .', None, None, None, 1), ("I do n't like her policies anyways !", None, None, None, 1)]]
+Leaf:  S span Let 's be real for a second
+Leaf:  N Evaluation - politics is and always has been a cruel and nasty game .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Enablement These politicians throw insults at each other for months
+Leaf:  S span in order to win .
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span That 's what competition portrays itself as in politics .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Background For this woman to suddenly become offended
+Leaf:  S span when she has thrown around plenty of insults herself
+Inner:  N Same-Unit None Background NS
+Leaf:  N Joint is not just hypocritical ,
+Leaf:  N Joint but also shows a lot of weakness on her part .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't like her policies anyways !
+Inner:  S span None Elaborate NS
+Inner:  Root None None Cause NS
+[("Let 's be real for a second", None, None, None, 0), ('- politics is and always has been a cruel and nasty game .', None, None, None, 1), ('These politicians throw insults at each other for months', None, None, None, 0), ('in order to win .', None, None, None, 1), ("That 's what competition portrays itself as in politics .", None, None, None, 1), ('For this woman to suddenly become offended', None, None, None, 0), ('when she has thrown around plenty of insults herself', None, None, None, 0), ('is not just hypocritical ,', None, None, None, 0), ('but also shows a lot of weakness on her part .', None, None, None, 1), ("I do n't like her policies anyways !", None, None, None, 1)]

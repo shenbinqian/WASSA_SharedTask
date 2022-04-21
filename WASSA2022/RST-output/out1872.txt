@@ -1,0 +1,21 @@
+=====================> [[('Global warming is going to be having an effect on the coffee trade .', None, None, None, 1), ('As global warming continues to get worse', None, None, None, 0), ('there is going to be less land', None, None, None, 0), ('that is able to produce coffee .', None, None, None, 1), ('This is going to be bad for the many people', None, None, None, 0), ('who making their living', None, None, None, 0), ('producing coffee .', None, None, None, 1), ('It is estimated that 125 million people make their living this way .', None, None, None, 1), ('This is going to be bad for these people', None, None, None, 0), ('who are already struggling .', None, None, None, 1)]]
+Leaf:  N Explanation Global warming is going to be having an effect on the coffee trade .
+Leaf:  S span As global warming continues to get worse
+Leaf:  N Elaborate there is going to be less land
+Leaf:  S span that is able to produce coffee .
+Inner:  N Condition None Elaborate NS
+Inner:  N Evaluation None Condition SN
+Leaf:  N Elaborate This is going to be bad for the many people
+Leaf:  N Manner-Means who making their living
+Leaf:  S span producing coffee .
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It is estimated that 125 million people make their living this way .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This is going to be bad for these people
+Leaf:  S span who are already struggling .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Global warming is going to be having an effect on the coffee trade .', None, None, None, 1), ('As global warming continues to get worse', None, None, None, 0), ('there is going to be less land', None, None, None, 0), ('that is able to produce coffee .', None, None, None, 1), ('This is going to be bad for the many people', None, None, None, 0), ('who making their living', None, None, None, 0), ('producing coffee .', None, None, None, 1), ('It is estimated that 125 million people make their living this way .', None, None, None, 1), ('This is going to be bad for these people', None, None, None, 0), ('who are already struggling .', None, None, None, 1)]

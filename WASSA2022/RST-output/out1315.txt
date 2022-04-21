@@ -1,0 +1,17 @@
+=====================> [[('Wildfires in the western area of North Carolina , in the Appalachian mountains , can get so large', None, None, None, 0), ('they can be seen from space .', None, None, None, 1), ('In fact , some of the wildfires in neighboring southern states can produce enough smoke', None, None, None, 0), ('to cover areas of South Carolina .', None, None, None, 1), ('Despite not actually having a fire there ,', None, None, None, 0), ('the smoke can get so thick', None, None, None, 0), ('that it takes heavy rain', None, None, None, 0), ('to make it dissipate .', None, None, None, 1)]]
+Leaf:  N Cause Wildfires in the western area of North Carolina , in the Appalachian mountains , can get so large
+Leaf:  S span they can be seen from space .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Cause In fact , some of the wildfires in neighboring southern states can produce enough smoke
+Leaf:  S span to cover areas of South Carolina .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Despite not actually having a fire there ,
+Leaf:  N Cause the smoke can get so thick
+Leaf:  N Enablement that it takes heavy rain
+Leaf:  S span to make it dissipate .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Wildfires in the western area of North Carolina , in the Appalachian mountains , can get so large', None, None, None, 0), ('they can be seen from space .', None, None, None, 1), ('In fact , some of the wildfires in neighboring southern states can produce enough smoke', None, None, None, 0), ('to cover areas of South Carolina .', None, None, None, 1), ('Despite not actually having a fire there ,', None, None, None, 0), ('the smoke can get so thick', None, None, None, 0), ('that it takes heavy rain', None, None, None, 0), ('to make it dissipate .', None, None, None, 1)]

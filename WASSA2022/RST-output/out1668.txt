@@ -1,0 +1,35 @@
+=====================> [[('It aggravates me', None, None, None, 0), ('that in our modern society leaders are condemned', None, None, None, 0), ('before they even have an opportunity', None, None, None, 0), ('to lead .', None, None, None, 1), ('It will happen forevermore into the future', None, None, None, 0), ('no matter who wins elections from here on out .', None, None, None, 1), ('The issue is not opposition so much', None, None, None, 0), ('as it is the ability', None, None, None, 0), ('to organize against someone anymore .', None, None, None, 1), ('Using the internet , it is quite easy to gather a group of thousands and perhaps even hundreds of thousands', None, None, None, 0), ('to combat against something vile or unwarranted .', None, None, None, 1), ("The problem is Trump was n't even given a chance .", None, None, None, 1), ('Now that things have played out ,', None, None, None, 0), ('perhaps some of those people were right about their hatred or grievances', None, None, None, 0), ('but its entirely unfair to subject any president of our country to this', None, None, None, 0), ('before they have even been given the chance', None, None, None, 0), ('to lead .', None, None, None, 1)]]
+Leaf:  S span It aggravates me
+Leaf:  N Background that in our modern society leaders are condemned
+Leaf:  N Elaborate before they even have an opportunity
+Leaf:  S span to lead .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Condition It will happen forevermore into the future
+Leaf:  S span no matter who wins elections from here on out .
+Inner:  N Explanation None Condition NS
+Leaf:  N Joint The issue is not opposition so much
+Leaf:  N Elaborate as it is the ability
+Leaf:  S span to organize against someone anymore .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Enablement Using the internet , it is quite easy to gather a group of thousands and perhaps even hundreds of thousands
+Leaf:  S span to combat against something vile or unwarranted .
+Inner:  S span None Enablement NS
+Leaf:  N Explanation The problem is Trump was n't even given a chance .
+Leaf:  S span Now that things have played out ,
+Leaf:  N Condition perhaps some of those people were right about their hatred or grievances
+Inner:  S span None Condition SN
+Leaf:  N Condition but its entirely unfair to subject any president of our country to this
+Leaf:  N Elaborate before they have even been given the chance
+Leaf:  S span to lead .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Condition NS
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('It aggravates me', None, None, None, 0), ('that in our modern society leaders are condemned', None, None, None, 0), ('before they even have an opportunity', None, None, None, 0), ('to lead .', None, None, None, 1), ('It will happen forevermore into the future', None, None, None, 0), ('no matter who wins elections from here on out .', None, None, None, 1), ('The issue is not opposition so much', None, None, None, 0), ('as it is the ability', None, None, None, 0), ('to organize against someone anymore .', None, None, None, 1), ('Using the internet , it is quite easy to gather a group of thousands and perhaps even hundreds of thousands', None, None, None, 0), ('to combat against something vile or unwarranted .', None, None, None, 1), ("The problem is Trump was n't even given a chance .", None, None, None, 1), ('Now that things have played out ,', None, None, None, 0), ('perhaps some of those people were right about their hatred or grievances', None, None, None, 0), ('but its entirely unfair to subject any president of our country to this', None, None, None, 0), ('before they have even been given the chance', None, None, None, 0), ('to lead .', None, None, None, 1)]

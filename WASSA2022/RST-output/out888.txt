@@ -1,0 +1,27 @@
+=====================> [[('What wo n’t people post ?', None, None, None, 1), ('Some mom posted a picture on Instagram of her 2-day-old C-Section scar', None, None, None, 0), ('to remind people', None, None, None, 0), ('that it ’s no picnic .', None, None, None, 1), ('I guess it ’s an unsolicited public service message of sorts . She had some sort of tumor', None, None, None, 0), ('that made it necessary . She had the baby', None, None, None, 0), ('and that ’s the god news . Surprisingly , she got about 1200 “ likes ” in total . I found myself wanting to out of sympathy . Who needs birth control with this kind of publicity ?', None, None, None, 1), ('She says', None, None, None, 0), ('she loves her scar .', None, None, None, 1), ('Go figure …', None, None, None, 0), ('All in all , I think', None, None, None, 0), ('she ’s happy', None, None, None, 0), ('it ’s over .', None, None, None, 1)]]
+Leaf:  N Summary What wo n’t people post ?
+Leaf:  N Enablement Some mom posted a picture on Instagram of her 2-day-old C-Section scar
+Leaf:  S span to remind people
+Leaf:  N Attribution that it ’s no picnic .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Elaborate I guess it ’s an unsolicited public service message of sorts . She had some sort of tumor
+Leaf:  S span that made it necessary . She had the baby
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and that ’s the god news . Surprisingly , she got about 1200 “ likes ” in total . I found myself wanting to out of sympathy . Who needs birth control with this kind of publicity ?
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span She says
+Leaf:  N Attribution she loves her scar .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Go figure …
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span All in all , I think
+Leaf:  S span she ’s happy
+Leaf:  N Attribution it ’s over .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('What wo n’t people post ?', None, None, None, 1), ('Some mom posted a picture on Instagram of her 2-day-old C-Section scar', None, None, None, 0), ('to remind people', None, None, None, 0), ('that it ’s no picnic .', None, None, None, 1), ('I guess it ’s an unsolicited public service message of sorts . She had some sort of tumor', None, None, None, 0), ('that made it necessary . She had the baby', None, None, None, 0), ('and that ’s the god news . Surprisingly , she got about 1200 “ likes ” in total . I found myself wanting to out of sympathy . Who needs birth control with this kind of publicity ?', None, None, None, 1), ('She says', None, None, None, 0), ('she loves her scar .', None, None, None, 1), ('Go figure …', None, None, None, 0), ('All in all , I think', None, None, None, 0), ('she ’s happy', None, None, None, 0), ('it ’s over .', None, None, None, 1)]

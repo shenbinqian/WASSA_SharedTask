@@ -1,0 +1,29 @@
+=====================> [[('Just read an article about the situation in Haiti a month after the hurricane .', None, None, None, 1), ('Relief is being distributed better', None, None, None, 0), ('than after the last hurricane', None, None, None, 0), ('since the capital city was less affected', None, None, None, 0), ('and learnings from the previous situation were used', None, None, None, 0), ('to make some improvements .', None, None, None, 1), ('But getting food and water purification tablets distributed , and fairly , is a big problem .', None, None, None, 1), ('People are crazed with hunger', None, None, None, 0), ('and become violent ,', None, None, None, 0), ('or give in to despair .', None, None, None, 1), ('Cholera is revving up .', None, None, None, 1), ('These are the immediate problems , but shelter , long-term rebuilding , voting in the upcoming election ,', None, None, None, 0), ('and other issues lurk too .', None, None, None, 1), ('Somehow we have to figure out better relief efforts for natural disasters .', None, None, None, 1)]]
+Leaf:  N Elaborate Just read an article about the situation in Haiti a month after the hurricane .
+Leaf:  N Comparison Relief is being distributed better
+Leaf:  N Explanation than after the last hurricane
+Leaf:  N Joint since the capital city was less affected
+Leaf:  N Enablement and learnings from the previous situation were used
+Leaf:  S span to make some improvements .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Contrast None Comparison NS
+Leaf:  N Explanation But getting food and water purification tablets distributed , and fairly , is a big problem .
+Leaf:  N Joint People are crazed with hunger
+Leaf:  N Condition and become violent ,
+Leaf:  N Condition or give in to despair .
+Inner:  N Joint None Condition NN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Cholera is revving up .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint These are the immediate problems , but shelter , long-term rebuilding , voting in the upcoming election ,
+Leaf:  N Joint and other issues lurk too .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Leaf:  N Background Somehow we have to figure out better relief efforts for natural disasters .
+Inner:  Root None None Background SN
+[('Just read an article about the situation in Haiti a month after the hurricane .', None, None, None, 1), ('Relief is being distributed better', None, None, None, 0), ('than after the last hurricane', None, None, None, 0), ('since the capital city was less affected', None, None, None, 0), ('and learnings from the previous situation were used', None, None, None, 0), ('to make some improvements .', None, None, None, 1), ('But getting food and water purification tablets distributed , and fairly , is a big problem .', None, None, None, 1), ('People are crazed with hunger', None, None, None, 0), ('and become violent ,', None, None, None, 0), ('or give in to despair .', None, None, None, 1), ('Cholera is revving up .', None, None, None, 1), ('These are the immediate problems , but shelter , long-term rebuilding , voting in the upcoming election ,', None, None, None, 0), ('and other issues lurk too .', None, None, None, 1), ('Somehow we have to figure out better relief efforts for natural disasters .', None, None, None, 1)]

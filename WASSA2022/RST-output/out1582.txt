@@ -1,0 +1,31 @@
+=====================> [[("I 'm sorry", None, None, None, 0), ('to hear what happened to the people in the pulse shooting .', None, None, None, 1), ('It is not justified to use violence against anyone', None, None, None, 0), ('who has not initiated violence towards you .', None, None, None, 1), ('That being said I understand', None, None, None, 0), ('why the authorities would want to ban people', None, None, None, 0), ('who practice risky lifestyles', None, None, None, 0), ('from donating blood .', None, None, None, 1), ('The last thing we want is to have a blood supply', None, None, None, 0), ("that 's contaminated with diseases", None, None, None, 0), ('because of the practices of people', None, None, None, 0), ('who engage in risky lifestyle choices and also sinful ones as well .', None, None, None, 1), ('No violence should never be the answer to people no matter what their lifestyle ,', None, None, None, 0), ('But one should never condone something', None, None, None, 0), ('that is bad for society in the long run .', None, None, None, 1)]]
+Leaf:  S span I 'm sorry
+Leaf:  N Attribution to hear what happened to the people in the pulse shooting .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It is not justified to use violence against anyone
+Leaf:  S span who has not initiated violence towards you .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span That being said I understand
+Leaf:  N Elaborate why the authorities would want to ban people
+Leaf:  S span who practice risky lifestyles
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit from donating blood .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The last thing we want is to have a blood supply
+Leaf:  S span that 's contaminated with diseases
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate because of the practices of people
+Leaf:  S span who engage in risky lifestyle choices and also sinful ones as well .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast No violence should never be the answer to people no matter what their lifestyle ,
+Leaf:  N Elaborate But one should never condone something
+Leaf:  S span that is bad for society in the long run .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[("I 'm sorry", None, None, None, 0), ('to hear what happened to the people in the pulse shooting .', None, None, None, 1), ('It is not justified to use violence against anyone', None, None, None, 0), ('who has not initiated violence towards you .', None, None, None, 1), ('That being said I understand', None, None, None, 0), ('why the authorities would want to ban people', None, None, None, 0), ('who practice risky lifestyles', None, None, None, 0), ('from donating blood .', None, None, None, 1), ('The last thing we want is to have a blood supply', None, None, None, 0), ("that 's contaminated with diseases", None, None, None, 0), ('because of the practices of people', None, None, None, 0), ('who engage in risky lifestyle choices and also sinful ones as well .', None, None, None, 1), ('No violence should never be the answer to people no matter what their lifestyle ,', None, None, None, 0), ('But one should never condone something', None, None, None, 0), ('that is bad for society in the long run .', None, None, None, 1)]

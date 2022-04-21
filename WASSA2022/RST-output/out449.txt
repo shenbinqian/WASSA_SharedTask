@@ -1,0 +1,25 @@
+=====================> [[('Remember', None, None, None, 0), ('when I told you', None, None, None, 0), ('I had ringing in my ear', None, None, None, 0), ('sometimes ?', None, None, None, 1), ('This article seems to parallel what I was talking about .', None, None, None, 1), ('Can you look into this further ? I really trust your viewpoint on this .', None, None, None, 1), ('I am going to ask my doctor about this later on this week .', None, None, None, 1), ('I do not want this to get worse .', None, None, None, 1), ('Maybe you can advise on a good doctor', None, None, None, 0), ('I can see', None, None, None, 0), ('regarding this ?', None, None, None, 1), ('I am just really worried about it . Thanks again man !', None, None, None, 1)]]
+Leaf:  N Attribution Remember
+Leaf:  S span when I told you
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit I had ringing in my ear
+Leaf:  N Same-Unit sometimes ?
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span This article seems to parallel what I was talking about .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Can you look into this further ? I really trust your viewpoint on this .
+Inner:  S span None Evaluation NS
+Leaf:  N Explanation I am going to ask my doctor about this later on this week .
+Leaf:  S span I do not want this to get worse .
+Leaf:  N Elaborate Maybe you can advise on a good doctor
+Leaf:  N Attribution I can see
+Leaf:  S span regarding this ?
+Inner:  S span None Attribution NS
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  N Background None Explanation NS
+Inner:  N Evaluation None Background SN
+Leaf:  S span I am just really worried about it . Thanks again man !
+Inner:  Root None None Evaluation NS
+[('Remember', None, None, None, 0), ('when I told you', None, None, None, 0), ('I had ringing in my ear', None, None, None, 0), ('sometimes ?', None, None, None, 1), ('This article seems to parallel what I was talking about .', None, None, None, 1), ('Can you look into this further ? I really trust your viewpoint on this .', None, None, None, 1), ('I am going to ask my doctor about this later on this week .', None, None, None, 1), ('I do not want this to get worse .', None, None, None, 1), ('Maybe you can advise on a good doctor', None, None, None, 0), ('I can see', None, None, None, 0), ('regarding this ?', None, None, None, 1), ('I am just really worried about it . Thanks again man !', None, None, None, 1)]

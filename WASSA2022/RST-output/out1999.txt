@@ -1,0 +1,21 @@
+=====================> [[('The article seems fishy .', None, None, None, 1), ('Overall it also sounds a bit like a cover up story like those in Forensic Files .', None, None, None, 1), ('I think', None, None, None, 0), ('there is more to the story', None, None, None, 0), ('that should have been released ,', None, None, None, 0), ('but', None, None, None, 0), ('because the person was an officer', None, None, None, 0), ('they would rather leave the situation as quiet as possible .', None, None, None, 1), ('It does seem very strange to randomly shoot your own son or even have such a weapon handy', None, None, None, 0), ('if he had mental issues .', None, None, None, 1)]]
+Leaf:  N Joint The article seems fishy .
+Leaf:  N Evaluation Overall it also sounds a bit like a cover up story like those in Forensic Files .
+Leaf:  S span I think
+Leaf:  N Elaborate there is more to the story
+Leaf:  S span that should have been released ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Same-Unit but
+Leaf:  S span because the person was an officer
+Leaf:  N Background they would rather leave the situation as quiet as possible .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Condition It does seem very strange to randomly shoot your own son or even have such a weapon handy
+Leaf:  S span if he had mental issues .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  Root None None Joint NN
+[('The article seems fishy .', None, None, None, 1), ('Overall it also sounds a bit like a cover up story like those in Forensic Files .', None, None, None, 1), ('I think', None, None, None, 0), ('there is more to the story', None, None, None, 0), ('that should have been released ,', None, None, None, 0), ('but', None, None, None, 0), ('because the person was an officer', None, None, None, 0), ('they would rather leave the situation as quiet as possible .', None, None, None, 1), ('It does seem very strange to randomly shoot your own son or even have such a weapon handy', None, None, None, 0), ('if he had mental issues .', None, None, None, 1)]

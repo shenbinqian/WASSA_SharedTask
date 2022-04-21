@@ -1,0 +1,27 @@
+=====================> [[('SO I just read an article about goldfish .', None, None, None, 1), ('You may be thinking " Why would anyone do that " .', None, None, None, 1), ('Well here is the crazy part apparently in Australia people', None, None, None, 0), ('who tossed their goldfish', None, None, None, 0), ('that they no longer wanted into a river .', None, None, None, 1), ('The goldfish have multiplied significantly', None, None, None, 0), ('and are now everywhere . They do tons of damage to the local fish and algae populations .', None, None, None, 1), ('What is eben crazier is that it is not just in Australia but in the U.S and other countries too . So I officially am against having goldfish as pets', None, None, None, 0), ('and am going to warn everyone', None, None, None, 0), ('I know', None, None, None, 0), ('that', None, None, None, 0), ('unless they want to destroy their local rivers', None, None, None, 0), ('they should never throw goldfish in their or flush them down the toilet .', None, None, None, 1)]]
+Leaf:  N Topic-Comment SO I just read an article about goldfish .
+Leaf:  S span You may be thinking " Why would anyone do that " .
+Inner:  N Topic-Comment None Topic-Comment NS
+Leaf:  N Elaborate Well here is the crazy part apparently in Australia people
+Leaf:  N Elaborate who tossed their goldfish
+Leaf:  S span that they no longer wanted into a river .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The goldfish have multiplied significantly
+Leaf:  N Joint and are now everywhere . They do tons of damage to the local fish and algae populations .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint What is eben crazier is that it is not just in Australia but in the U.S and other countries too . So I officially am against having goldfish as pets
+Leaf:  N Elaborate and am going to warn everyone
+Leaf:  S span I know
+Leaf:  N Attribution that
+Inner:  N Same-Unit None Attribution SN
+Leaf:  S span unless they want to destroy their local rivers
+Leaf:  N Condition they should never throw goldfish in their or flush them down the toilet .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('SO I just read an article about goldfish .', None, None, None, 1), ('You may be thinking " Why would anyone do that " .', None, None, None, 1), ('Well here is the crazy part apparently in Australia people', None, None, None, 0), ('who tossed their goldfish', None, None, None, 0), ('that they no longer wanted into a river .', None, None, None, 1), ('The goldfish have multiplied significantly', None, None, None, 0), ('and are now everywhere . They do tons of damage to the local fish and algae populations .', None, None, None, 1), ('What is eben crazier is that it is not just in Australia but in the U.S and other countries too . So I officially am against having goldfish as pets', None, None, None, 0), ('and am going to warn everyone', None, None, None, 0), ('I know', None, None, None, 0), ('that', None, None, None, 0), ('unless they want to destroy their local rivers', None, None, None, 0), ('they should never throw goldfish in their or flush them down the toilet .', None, None, None, 1)]

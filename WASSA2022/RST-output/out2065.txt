@@ -1,0 +1,21 @@
+=====================> [[('The woman deserved to get murdered .', None, None, None, 1), ("It 's unlikely that she was really abused .", None, None, None, 1), ('She probably just wanted more attention', None, None, None, 0), ('while the husband was busy working constantly', None, None, None, 0), ('to provide for the family .', None, None, None, 1), ('She did absolutely nothing .', None, None, None, 1), ('He was providing for the family', None, None, None, 0), ('because he loved them', None, None, None, 0), ('and she was going to leave .', None, None, None, 1), ('He was rightfully furious .', None, None, None, 1)]]
+Leaf:  N Summary The woman deserved to get murdered .
+Leaf:  S span It 's unlikely that she was really abused .
+Inner:  N Joint None Summary NS
+Leaf:  N Temporal She probably just wanted more attention
+Leaf:  N Enablement while the husband was busy working constantly
+Leaf:  S span to provide for the family .
+Inner:  S span None Enablement NS
+Inner:  S span None Temporal NS
+Leaf:  N Elaborate She did absolutely nothing .
+Leaf:  N Explanation He was providing for the family
+Leaf:  S span because he loved them
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Same-Unit and she was going to leave .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Joint None Evaluation SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span He was rightfully furious .
+Inner:  Root None None Evaluation NS
+[('The woman deserved to get murdered .', None, None, None, 1), ("It 's unlikely that she was really abused .", None, None, None, 1), ('She probably just wanted more attention', None, None, None, 0), ('while the husband was busy working constantly', None, None, None, 0), ('to provide for the family .', None, None, None, 1), ('She did absolutely nothing .', None, None, None, 1), ('He was providing for the family', None, None, None, 0), ('because he loved them', None, None, None, 0), ('and she was going to leave .', None, None, None, 1), ('He was rightfully furious .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[("I 'm glad", None, None, None, 0), ('Germany is trying to help a lot of refugees', None, None, None, 0), ('when other countries', None, None, None, 0), ('( ahem the US )', None, None, None, 0), ('are trying to get out of helping people .', None, None, None, 1), ('However', None, None, None, 0), ("if they 're going to have that reputation", None, None, None, 0), ('they need to be prepared to deal with the number of individuals', None, None, None, 0), ('who will try to come .', None, None, None, 1), ('It feels like so many of the problems', None, None, None, 0), ('these refugees are running from', None, None, None, 0), ('have been created at some point due to US/European colonization and intervention ,', None, None, None, 0), ("so I 'm glad", None, None, None, 0), ("they 're at least trying .", None, None, None, 1)]]
+Leaf:  S span I 'm glad
+Leaf:  N Temporal Germany is trying to help a lot of refugees
+Leaf:  N Elaborate when other countries
+Leaf:  S span ( ahem the US )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are trying to get out of helping people .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Temporal NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Same-Unit However
+Leaf:  S span if they 're going to have that reputation
+Leaf:  N Elaborate they need to be prepared to deal with the number of individuals
+Leaf:  S span who will try to come .
+Inner:  N Condition None Elaborate NS
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate It feels like so many of the problems
+Leaf:  S span these refugees are running from
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have been created at some point due to US/European colonization and intervention ,
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span so I 'm glad
+Leaf:  N Attribution they 're at least trying .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("I 'm glad", None, None, None, 0), ('Germany is trying to help a lot of refugees', None, None, None, 0), ('when other countries', None, None, None, 0), ('( ahem the US )', None, None, None, 0), ('are trying to get out of helping people .', None, None, None, 1), ('However', None, None, None, 0), ("if they 're going to have that reputation", None, None, None, 0), ('they need to be prepared to deal with the number of individuals', None, None, None, 0), ('who will try to come .', None, None, None, 1), ('It feels like so many of the problems', None, None, None, 0), ('these refugees are running from', None, None, None, 0), ('have been created at some point due to US/European colonization and intervention ,', None, None, None, 0), ("so I 'm glad", None, None, None, 0), ("they 're at least trying .", None, None, None, 1)]

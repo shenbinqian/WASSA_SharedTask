@@ -1,0 +1,21 @@
+=====================> [[('Here we go again ,', None, None, None, 0), ('talking about political figures', None, None, None, 0), ('forging and waging war for the popular vote .', None, None, None, 1), ('They switch sides', None, None, None, 0), ('and change their point of view so much', None, None, None, 0), ('that it is easy to say', None, None, None, 0), ("they do n't care about the common person , only their chair in office .", None, None, None, 1), ('I think', None, None, None, 0), ('that the parties have merged into one , one mass all out war', None, None, None, 0), ('to get into office .', None, None, None, 1)]]
+Leaf:  N Elaborate Here we go again ,
+Leaf:  N Elaborate talking about political figures
+Leaf:  S span forging and waging war for the popular vote .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They switch sides
+Leaf:  N Joint and change their point of view so much
+Inner:  N Cause None Joint NN
+Leaf:  S span that it is easy to say
+Leaf:  N Attribution they do n't care about the common person , only their chair in office .
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Enablement that the parties have merged into one , one mass all out war
+Leaf:  S span to get into office .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Here we go again ,', None, None, None, 0), ('talking about political figures', None, None, None, 0), ('forging and waging war for the popular vote .', None, None, None, 1), ('They switch sides', None, None, None, 0), ('and change their point of view so much', None, None, None, 0), ('that it is easy to say', None, None, None, 0), ("they do n't care about the common person , only their chair in office .", None, None, None, 1), ('I think', None, None, None, 0), ('that the parties have merged into one , one mass all out war', None, None, None, 0), ('to get into office .', None, None, None, 1)]

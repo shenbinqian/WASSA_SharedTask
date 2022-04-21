@@ -1,0 +1,35 @@
+=====================> [[('Hey I just read this article about more craziness ISIS is doing ?', None, None, None, 1), ('Sometimes the articles have so many names of places', None, None, None, 0), ("I do n't recognize", None, None, None, 0), ("and ca n't pronounce that I get a little off track of the point of the article .", None, None, None, 1), ('I gues those terrorists are using people as human shields', None, None, None, 0), ('to keep and take control or surroundings areas .', None, None, None, 1), ('They know this is against UN policy ,', None, None, None, 0), ('but I doubt', None, None, None, 0), ('they care .', None, None, None, 1), ('There is always something going on in the Middle East ,', None, None, None, 0), ('it seems nothing gets better for the people just trying to live .', None, None, None, 1), ('I feel like something should be done', None, None, None, 0), ('to improve the situation ,', None, None, None, 0), ("but it 's been bad", None, None, None, 0), ('since I was a kid', None, None, None, 0), ('and I doubt', None, None, None, 0), ("it 'll get better .", None, None, None, 1)]]
+Leaf:  N Summary Hey I just read this article about more craziness ISIS is doing ?
+Leaf:  N Cause Sometimes the articles have so many names of places
+Leaf:  N Joint I do n't recognize
+Leaf:  N Joint and ca n't pronounce that I get a little off track of the point of the article .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Enablement I gues those terrorists are using people as human shields
+Leaf:  S span to keep and take control or surroundings areas .
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span They know this is against UN policy ,
+Leaf:  S span but I doubt
+Leaf:  N Attribution they care .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Summary NS
+Leaf:  S span There is always something going on in the Middle East ,
+Leaf:  N Background it seems nothing gets better for the people just trying to live .
+Inner:  N Evaluation None Background SN
+Leaf:  N Enablement I feel like something should be done
+Leaf:  S span to improve the situation ,
+Inner:  S span None Enablement NS
+Leaf:  N Temporal but it 's been bad
+Leaf:  S span since I was a kid
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span and I doubt
+Leaf:  N Attribution it 'll get better .
+Inner:  N Evaluation None Attribution SN
+Inner:  N Contrast None Evaluation NN
+Inner:  S span None Contrast SN
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[('Hey I just read this article about more craziness ISIS is doing ?', None, None, None, 1), ('Sometimes the articles have so many names of places', None, None, None, 0), ("I do n't recognize", None, None, None, 0), ("and ca n't pronounce that I get a little off track of the point of the article .", None, None, None, 1), ('I gues those terrorists are using people as human shields', None, None, None, 0), ('to keep and take control or surroundings areas .', None, None, None, 1), ('They know this is against UN policy ,', None, None, None, 0), ('but I doubt', None, None, None, 0), ('they care .', None, None, None, 1), ('There is always something going on in the Middle East ,', None, None, None, 0), ('it seems nothing gets better for the people just trying to live .', None, None, None, 1), ('I feel like something should be done', None, None, None, 0), ('to improve the situation ,', None, None, None, 0), ("but it 's been bad", None, None, None, 0), ('since I was a kid', None, None, None, 0), ('and I doubt', None, None, None, 0), ("it 'll get better .", None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('The situation within India seems like such big proof', None, None, None, 0), ('that things can not get better', None, None, None, 0), ('without first getting worse in a way .', None, None, None, 1), ('The new movements', None, None, None, 0), ('to abolish black money', None, None, None, 0), ('is reall causing chaos over there .', None, None, None, 1), ('Just aboloshing three types of currency has hurt them so much .', None, None, None, 1), ('Could you imagine', None, None, None, 0), ('if one day the 10 and 20 dollar bills were no longer acceptable', None, None, None, 0), ('would be complete chaos .', None, None, None, 1)]]
+Leaf:  N Elaborate The situation within India seems like such big proof
+Leaf:  N Background that things can not get better
+Leaf:  S span without first getting worse in a way .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The new movements
+Leaf:  S span to abolish black money
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is reall causing chaos over there .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span Just aboloshing three types of currency has hurt them so much .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Could you imagine
+Leaf:  S span if one day the 10 and 20 dollar bills were no longer acceptable
+Leaf:  N Condition would be complete chaos .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The situation within India seems like such big proof', None, None, None, 0), ('that things can not get better', None, None, None, 0), ('without first getting worse in a way .', None, None, None, 1), ('The new movements', None, None, None, 0), ('to abolish black money', None, None, None, 0), ('is reall causing chaos over there .', None, None, None, 1), ('Just aboloshing three types of currency has hurt them so much .', None, None, None, 1), ('Could you imagine', None, None, None, 0), ('if one day the 10 and 20 dollar bills were no longer acceptable', None, None, None, 0), ('would be complete chaos .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('Reading this article makes me feel sad for many reason .', None, None, None, 1), ('I myself have no idea', None, None, None, 0), ('why those countries are always at war', None, None, None, 0), ('and why so many people are loosing their lives .', None, None, None, 1), ('It also makes me sad to imagine myself in a situation', None, None, None, 0), ('where I am constantly in fear of my life .', None, None, None, 1), ('With so many being lost', None, None, None, 0), ('already it makes me sad to think about these things continually happening .', None, None, None, 1)]]
+Leaf:  N Elaborate Reading this article makes me feel sad for many reason .
+Leaf:  S span I myself have no idea
+Leaf:  N Joint why those countries are always at war
+Leaf:  N Joint and why so many people are loosing their lives .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate It also makes me sad to imagine myself in a situation
+Leaf:  S span where I am constantly in fear of my life .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span With so many being lost
+Leaf:  N Background already it makes me sad to think about these things continually happening .
+Inner:  S span None Background SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Reading this article makes me feel sad for many reason .', None, None, None, 1), ('I myself have no idea', None, None, None, 0), ('why those countries are always at war', None, None, None, 0), ('and why so many people are loosing their lives .', None, None, None, 1), ('It also makes me sad to imagine myself in a situation', None, None, None, 0), ('where I am constantly in fear of my life .', None, None, None, 1), ('With so many being lost', None, None, None, 0), ('already it makes me sad to think about these things continually happening .', None, None, None, 1)]

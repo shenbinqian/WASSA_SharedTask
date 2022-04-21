@@ -1,0 +1,21 @@
+=====================> [[('The way', None, None, None, 0), ('that the United Kingdom is treating its refugees within the camps is nothing short of barbaric .', None, None, None, 1), ('It is actually so sad seeing these people', None, None, None, 0), ('who ran from war', None, None, None, 0), ('get to countries', None, None, None, 0), ('just to be unwanted', None, None, None, 0), ('and hoarded up into camps .', None, None, None, 1), ('The children within the Calais camp in particular are just being neglected and abused', None, None, None, 0), ('and are lacking so many things', None, None, None, 0), ('required for growth', None, None, None, 0)]]
+Leaf:  N Elaborate The way
+Leaf:  S span that the United Kingdom is treating its refugees within the camps is nothing short of barbaric .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is actually so sad seeing these people
+Leaf:  S span who ran from war
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit get to countries
+Inner:  N Enablement None Same-Unit NN
+Leaf:  N Joint just to be unwanted
+Leaf:  N Joint and hoarded up into camps .
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint The children within the Calais camp in particular are just being neglected and abused
+Leaf:  N Elaborate and are lacking so many things
+Leaf:  S span required for growth
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('The way', None, None, None, 0), ('that the United Kingdom is treating its refugees within the camps is nothing short of barbaric .', None, None, None, 1), ('It is actually so sad seeing these people', None, None, None, 0), ('who ran from war', None, None, None, 0), ('get to countries', None, None, None, 0), ('just to be unwanted', None, None, None, 0), ('and hoarded up into camps .', None, None, None, 1), ('The children within the Calais camp in particular are just being neglected and abused', None, None, None, 0), ('and are lacking so many things', None, None, None, 0), ('required for growth', None, None, None, 0)]

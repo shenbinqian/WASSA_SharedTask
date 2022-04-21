@@ -1,0 +1,27 @@
+=====================> [[('Did you hear the story about the orangutan', None, None, None, 0), ('named Diana ?', None, None, None, 1), ('She was illegally captured with , I think , three others .', None, None, None, 1), ('These animals are becoming extinct .', None, None, None, 1), ('The good news is , though ,', None, None, None, 0), ('that she was saved .', None, None, None, 1), ('When she was found she was blind and partially paralyzed ,', None, None, None, 0), ('due to meningitis ,', None, None, None, 0), ('I sure', None, None, None, 0), ("because she was n't being taken care of .", None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people can treat these beautiful animals so poorly .', None, None, None, 1), ('It really make me sad .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear the story about the orangutan
+Leaf:  S span named Diana ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She was illegally captured with , I think , three others .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span These animals are becoming extinct .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate The good news is , though ,
+Leaf:  S span that she was saved .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause When she was found she was blind and partially paralyzed ,
+Leaf:  S span due to meningitis ,
+Inner:  N Evaluation None Cause NS
+Leaf:  N Cause I sure
+Leaf:  S span because she was n't being taken care of .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I do n't understand
+Leaf:  N Attribution how people can treat these beautiful animals so poorly .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It really make me sad .
+Inner:  Root None None Evaluation NS
+[('Did you hear the story about the orangutan', None, None, None, 0), ('named Diana ?', None, None, None, 1), ('She was illegally captured with , I think , three others .', None, None, None, 1), ('These animals are becoming extinct .', None, None, None, 1), ('The good news is , though ,', None, None, None, 0), ('that she was saved .', None, None, None, 1), ('When she was found she was blind and partially paralyzed ,', None, None, None, 0), ('due to meningitis ,', None, None, None, 0), ('I sure', None, None, None, 0), ("because she was n't being taken care of .", None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people can treat these beautiful animals so poorly .', None, None, None, 1), ('It really make me sad .', None, None, None, 1)]

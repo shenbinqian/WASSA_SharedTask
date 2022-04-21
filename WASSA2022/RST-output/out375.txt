@@ -1,0 +1,21 @@
+=====================> [[('Can you believe', None, None, None, 0), ('this happened ? Ughh .', None, None, None, 1), ('How scary !', None, None, None, 1), ('I realize', None, None, None, 0), ('that people can be angry with each other ,', None, None, None, 0), ('but pushing someone in front of a train ??? It is amazing to me that people are so out of control', None, None, None, 0), ("that they ca n't even handle a verbal dispute with someone .", None, None, None, 1), ('Its easy , just walk away !', None, None, None, 1), ('I guess', None, None, None, 0), ('I should stay away from the train platform', None, None, None, 0)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution this happened ? Ughh .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span How scary !
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I realize
+Leaf:  N Attribution that people can be angry with each other ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Cause but pushing someone in front of a train ??? It is amazing to me that people are so out of control
+Leaf:  S span that they ca n't even handle a verbal dispute with someone .
+Inner:  N Contrast None Cause NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Contrast Its easy , just walk away !
+Leaf:  S span I guess
+Leaf:  N Attribution I should stay away from the train platform
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Can you believe', None, None, None, 0), ('this happened ? Ughh .', None, None, None, 1), ('How scary !', None, None, None, 1), ('I realize', None, None, None, 0), ('that people can be angry with each other ,', None, None, None, 0), ('but pushing someone in front of a train ??? It is amazing to me that people are so out of control', None, None, None, 0), ("that they ca n't even handle a verbal dispute with someone .", None, None, None, 1), ('Its easy , just walk away !', None, None, None, 1), ('I guess', None, None, None, 0), ('I should stay away from the train platform', None, None, None, 0)]

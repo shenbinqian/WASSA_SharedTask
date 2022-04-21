@@ -1,0 +1,23 @@
+=====================> [[('Did you read this article ?', None, None, None, 1), ('it is awful .', None, None, None, 1), ('Every time', None, None, None, 0), ('i hear about a murder suicide type situation', None, None, None, 0), ('I wonder', None, None, None, 0), ('where someone could have intervened , some doctor , some professional , some family member ,', None, None, None, 0), ('who could have have done something', None, None, None, 0), ('to step in', None, None, None, 0), ('so that these people could be alive today ?', None, None, None, 1), ('It will drive you crazy', None, None, None, 0), ('if you keep thinking about it .', None, None, None, 1)]]
+Leaf:  N Evaluation Did you read this article ?
+Leaf:  N Explanation it is awful .
+Leaf:  N Elaborate Every time
+Leaf:  S span i hear about a murder suicide type situation
+Inner:  S span None Elaborate NS
+Leaf:  N Background I wonder
+Inner:  S span None Background SN
+Leaf:  N Elaborate where someone could have intervened , some doctor , some professional , some family member ,
+Leaf:  N Enablement who could have have done something
+Leaf:  S span to step in
+Inner:  N Enablement None Enablement NS
+Leaf:  S span so that these people could be alive today ?
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition It will drive you crazy
+Leaf:  S span if you keep thinking about it .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Did you read this article ?', None, None, None, 1), ('it is awful .', None, None, None, 1), ('Every time', None, None, None, 0), ('i hear about a murder suicide type situation', None, None, None, 0), ('I wonder', None, None, None, 0), ('where someone could have intervened , some doctor , some professional , some family member ,', None, None, None, 0), ('who could have have done something', None, None, None, 0), ('to step in', None, None, None, 0), ('so that these people could be alive today ?', None, None, None, 1), ('It will drive you crazy', None, None, None, 0), ('if you keep thinking about it .', None, None, None, 1)]

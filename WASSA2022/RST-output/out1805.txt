@@ -1,0 +1,23 @@
+=====================> [[('How to deal with that burning question', None, None, None, 0), ('of what is murder before birth', None, None, None, 0), ("and what is n't ? Is it murder", None, None, None, 0), ('because it was against your will ?', None, None, None, 1), ('Maybe that is how it should be determined', None, None, None, 0), ('if you walk into an abortion clinic', None, None, None, 0), ("you 're willingly killing the fetus", None, None, None, 0), ('versus someone', None, None, None, 0), ('shooting you', None, None, None, 0), ('and your fetus is now unwillingly dead', None, None, None, 0), ("because it was n't your choice ?", None, None, None, 1)]]
+Leaf:  N Elaborate How to deal with that burning question
+Leaf:  S span of what is murder before birth
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause and what is n't ? Is it murder
+Leaf:  S span because it was against your will ?
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate Maybe that is how it should be determined
+Leaf:  S span if you walk into an abortion clinic
+Leaf:  N Condition you 're willingly killing the fetus
+Inner:  N Comparison None Condition SN
+Leaf:  N Elaborate versus someone
+Leaf:  N Joint shooting you
+Leaf:  N Cause and your fetus is now unwillingly dead
+Leaf:  S span because it was n't your choice ?
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Comparison None Elaborate NS
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('How to deal with that burning question', None, None, None, 0), ('of what is murder before birth', None, None, None, 0), ("and what is n't ? Is it murder", None, None, None, 0), ('because it was against your will ?', None, None, None, 1), ('Maybe that is how it should be determined', None, None, None, 0), ('if you walk into an abortion clinic', None, None, None, 0), ("you 're willingly killing the fetus", None, None, None, 0), ('versus someone', None, None, None, 0), ('shooting you', None, None, None, 0), ('and your fetus is now unwillingly dead', None, None, None, 0), ("because it was n't your choice ?", None, None, None, 1)]

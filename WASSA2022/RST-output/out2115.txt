@@ -1,0 +1,29 @@
+=====================> [[('This article is dated', None, None, None, 0), ('because most illegal immigrants are coming from central amercia', None, None, None, 0), ('and the new Mexican president is more cooperative .', None, None, None, 1), ('I do not advocate Trumps personality and some of his actions', None, None, None, 0), ('but ignoring illegal immigration and pushing for open borders is dangerous mostly to the innocent people', None, None, None, 0), ('coming in', None, None, None, 0), ('either being decived or under duress from various criminals .', None, None, None, 1), ('Allowing open borders is turning a blind eye to drug trafficking and sex trafficking .', None, None, None, 1), ('Although my opinion may not be popular to some , I still feel avsolute compassion and empathy for the truly innocent men , women and children in these caravan', None, None, None, 0), ('and feel', None, None, None, 0), ('that the legal immigration process should be made easier', None, None, None, 0), ('in order', None, None, None, 0), ('to help them not feel', None, None, None, 0), ('like they have to resort to help from criminals', None, None, None, 0)]]
+Leaf:  N Cause This article is dated
+Leaf:  N Joint because most illegal immigrants are coming from central amercia
+Leaf:  N Joint and the new Mexican president is more cooperative .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I do not advocate Trumps personality and some of his actions
+Leaf:  N Elaborate but ignoring illegal immigration and pushing for open borders is dangerous mostly to the innocent people
+Leaf:  N Same-Unit coming in
+Leaf:  N Same-Unit either being decived or under duress from various criminals .
+Inner:  S span None Same-Unit NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Explanation None Contrast SN
+Leaf:  S span Allowing open borders is turning a blind eye to drug trafficking and sex trafficking .
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Although my opinion may not be popular to some , I still feel avsolute compassion and empathy for the truly innocent men , women and children in these caravan
+Leaf:  S span and feel
+Leaf:  N Enablement that the legal immigration process should be made easier
+Leaf:  S span in order
+Inner:  N Enablement None Enablement NS
+Leaf:  N Enablement to help them not feel
+Leaf:  S span like they have to resort to help from criminals
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This article is dated', None, None, None, 0), ('because most illegal immigrants are coming from central amercia', None, None, None, 0), ('and the new Mexican president is more cooperative .', None, None, None, 1), ('I do not advocate Trumps personality and some of his actions', None, None, None, 0), ('but ignoring illegal immigration and pushing for open borders is dangerous mostly to the innocent people', None, None, None, 0), ('coming in', None, None, None, 0), ('either being decived or under duress from various criminals .', None, None, None, 1), ('Allowing open borders is turning a blind eye to drug trafficking and sex trafficking .', None, None, None, 1), ('Although my opinion may not be popular to some , I still feel avsolute compassion and empathy for the truly innocent men , women and children in these caravan', None, None, None, 0), ('and feel', None, None, None, 0), ('that the legal immigration process should be made easier', None, None, None, 0), ('in order', None, None, None, 0), ('to help them not feel', None, None, None, 0), ('like they have to resort to help from criminals', None, None, None, 0)]

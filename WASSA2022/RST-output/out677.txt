@@ -1,0 +1,23 @@
+=====================> [[('Colonialism is a ugly part of American history ,', None, None, None, 0), ("but it 's one", None, None, None, 0), ("that we should n't forget .", None, None, None, 1), ("We ca n't undo the damage", None, None, None, 0), ("that we 've done ,", None, None, None, 0), ('but we can teach future generations our mistakes ,', None, None, None, 0), ('and hope', None, None, None, 0), ('that they do not repeat them .', None, None, None, 1), ('A formal apology is the very least', None, None, None, 0), ('the Canadian government can do ,', None, None, None, 0), ('and it is admirable .', None, None, None, 1)]]
+Leaf:  N Elaborate Colonialism is a ugly part of American history ,
+Leaf:  N Elaborate but it 's one
+Leaf:  S span that we should n't forget .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We ca n't undo the damage
+Leaf:  S span that we 've done ,
+Inner:  S span None Elaborate NS
+Leaf:  N Joint but we can teach future generations our mistakes ,
+Leaf:  S span and hope
+Leaf:  N Attribution that they do not repeat them .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate A formal apology is the very least
+Leaf:  S span the Canadian government can do ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and it is admirable .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Colonialism is a ugly part of American history ,', None, None, None, 0), ("but it 's one", None, None, None, 0), ("that we should n't forget .", None, None, None, 1), ("We ca n't undo the damage", None, None, None, 0), ("that we 've done ,", None, None, None, 0), ('but we can teach future generations our mistakes ,', None, None, None, 0), ('and hope', None, None, None, 0), ('that they do not repeat them .', None, None, None, 1), ('A formal apology is the very least', None, None, None, 0), ('the Canadian government can do ,', None, None, None, 0), ('and it is admirable .', None, None, None, 1)]

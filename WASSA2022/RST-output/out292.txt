@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('the wraparound glasses are a great idea .', None, None, None, 1), ("I do n't care", None, None, None, 0), ('how ridiculous they look .', None, None, None, 1), ('If I had to choose', None, None, None, 0), ('whether or not my kid was worried about fashion or protecting his eyes ,', None, None, None, 0), ('eye protection would win every time .', None, None, None, 1), ('Ugh , can you imagine the possibility', None, None, None, 0), ('of losing your eyesight , or possibly even the whole eye ,', None, None, None, 0), ("just because you did n't want to look silly ?", None, None, None, 1), ('Nope , wraparound glasses all the way !', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution the wraparound glasses are a great idea .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do n't care
+Leaf:  N Attribution how ridiculous they look .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span If I had to choose
+Leaf:  N Attribution whether or not my kid was worried about fashion or protecting his eyes ,
+Inner:  S span None Attribution SN
+Leaf:  N Condition eye protection would win every time .
+Inner:  N Evaluation None Condition SN
+Leaf:  N Elaborate Ugh , can you imagine the possibility
+Leaf:  S span of losing your eyesight , or possibly even the whole eye ,
+Inner:  N Background None Elaborate NS
+Leaf:  S span just because you did n't want to look silly ?
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Nope , wraparound glasses all the way !
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('the wraparound glasses are a great idea .', None, None, None, 1), ("I do n't care", None, None, None, 0), ('how ridiculous they look .', None, None, None, 1), ('If I had to choose', None, None, None, 0), ('whether or not my kid was worried about fashion or protecting his eyes ,', None, None, None, 0), ('eye protection would win every time .', None, None, None, 1), ('Ugh , can you imagine the possibility', None, None, None, 0), ('of losing your eyesight , or possibly even the whole eye ,', None, None, None, 0), ("just because you did n't want to look silly ?", None, None, None, 1), ('Nope , wraparound glasses all the way !', None, None, None, 1)]

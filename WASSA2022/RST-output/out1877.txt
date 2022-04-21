@@ -1,0 +1,15 @@
+=====================> [[('Can you believe', None, None, None, 0), ('the Canadian government did something some terrible .', None, None, None, 1), ('I would never expect Canada to have something so bad on there record ,', None, None, None, 0), ('especially given there reputation .', None, None, None, 1), ('Those families deserve justice', None, None, None, 0), ('and any living relatives deserve reparations from the government .', None, None, None, 1), ('This will at least be some justice .', None, None, None, 1)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution the Canadian government did something some terrible .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background I would never expect Canada to have something so bad on there record ,
+Leaf:  S span especially given there reputation .
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint Those families deserve justice
+Leaf:  N Joint and any living relatives deserve reparations from the government .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This will at least be some justice .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Can you believe', None, None, None, 0), ('the Canadian government did something some terrible .', None, None, None, 1), ('I would never expect Canada to have something so bad on there record ,', None, None, None, 0), ('especially given there reputation .', None, None, None, 1), ('Those families deserve justice', None, None, None, 0), ('and any living relatives deserve reparations from the government .', None, None, None, 1), ('This will at least be some justice .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('Hello Friend .', None, None, None, 1), ('I am really very surprised at all the things', None, None, None, 0), ('that have happened', None, None, None, 0), ('and continue and continue to happen in the world .', None, None, None, 1), ('Now the big problem', None, None, None, 0), ('we are facing in this part of the United States of America', None, None, None, 0), ('is a new outbreak or virus .', None, None, None, 1), ('The specialists in the field of health still do not know', None, None, None, 0), ('what this problem is due to and how to stop it .', None, None, None, 1), ('Here I write part of what I have learned on the subject .', None, None, None, 1), ('This started in November', None, None, None, 0), ('and the symptoms are fever , a lot of chills , and difficulty', None, None, None, 0), ('to breathe', None, None, None, 0)]]
+Leaf:  N Elaborate Hello Friend .
+Leaf:  N Elaborate I am really very surprised at all the things
+Leaf:  N Joint that have happened
+Leaf:  N Joint and continue and continue to happen in the world .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Now the big problem
+Leaf:  S span we are facing in this part of the United States of America
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a new outbreak or virus .
+Inner:  S span None Same-Unit NN
+Leaf:  S span The specialists in the field of health still do not know
+Leaf:  N Attribution what this problem is due to and how to stop it .
+Inner:  N Background None Attribution SN
+Inner:  N Elaborate None Background SN
+Leaf:  S span Here I write part of what I have learned on the subject .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This started in November
+Leaf:  N Elaborate and the symptoms are fever , a lot of chills , and difficulty
+Leaf:  S span to breathe
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hello Friend .', None, None, None, 1), ('I am really very surprised at all the things', None, None, None, 0), ('that have happened', None, None, None, 0), ('and continue and continue to happen in the world .', None, None, None, 1), ('Now the big problem', None, None, None, 0), ('we are facing in this part of the United States of America', None, None, None, 0), ('is a new outbreak or virus .', None, None, None, 1), ('The specialists in the field of health still do not know', None, None, None, 0), ('what this problem is due to and how to stop it .', None, None, None, 1), ('Here I write part of what I have learned on the subject .', None, None, None, 1), ('This started in November', None, None, None, 0), ('and the symptoms are fever , a lot of chills , and difficulty', None, None, None, 0), ('to breathe', None, None, None, 0)]

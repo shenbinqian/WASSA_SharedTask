@@ -1,0 +1,41 @@
+=====================> [[('While I obviously think', None, None, None, 0), ('that it is sad that an animal is dead', None, None, None, 0), ('since I love animals ,', None, None, None, 0), ('what I mostly feel reading this story is aggravation .', None, None, None, 1), ('It really annoys and worries me that people insist', None, None, None, 0), ('climate change is a political issue', None, None, None, 0), ('when we can see its effects everywhere , including in the form of the current extinction crisis .', None, None, None, 1), ('I know', None, None, None, 0), ('that this particular one was due to a fungus ,', None, None, None, 0), ('but it is part of a trend', None, None, None, 0), ('and might be related ,', None, None, None, 0), ('so that is what this makes me think of .', None, None, None, 1), ('I always feel frustrated and worried about the future', None, None, None, 0), ('whenever I am reminded', None, None, None, 0), ('that extinctions like this and other problems are just going to keep happening', None, None, None, 0), ('because conservatives refuse to acknowledge', None, None, None, 0), ('that the problem even exists .', None, None, None, 1), ('It could be fixed ,', None, None, None, 0), ("but probably wo n't be ,", None, None, None, 0), ('and that irritates me .', None, None, None, 1)]]
+Leaf:  S span While I obviously think
+Leaf:  N Explanation that it is sad that an animal is dead
+Leaf:  S span since I love animals ,
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Leaf:  N Contrast what I mostly feel reading this story is aggravation .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span It really annoys and worries me that people insist
+Leaf:  N Attribution climate change is a political issue
+Inner:  N Background None Attribution SN
+Leaf:  S span when we can see its effects everywhere , including in the form of the current extinction crisis .
+Inner:  N Background None Background NS
+Leaf:  S span I know
+Leaf:  N Attribution that this particular one was due to a fungus ,
+Inner:  S span None Attribution SN
+Leaf:  N Joint but it is part of a trend
+Leaf:  N Joint and might be related ,
+Inner:  N Evaluation None Joint NN
+Leaf:  S span so that is what this makes me think of .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition I always feel frustrated and worried about the future
+Leaf:  S span whenever I am reminded
+Leaf:  N Cause that extinctions like this and other problems are just going to keep happening
+Leaf:  S span because conservatives refuse to acknowledge
+Leaf:  N Attribution that the problem even exists .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Condition NS
+Leaf:  N Contrast It could be fixed ,
+Leaf:  N Contrast but probably wo n't be ,
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span and that irritates me .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('While I obviously think', None, None, None, 0), ('that it is sad that an animal is dead', None, None, None, 0), ('since I love animals ,', None, None, None, 0), ('what I mostly feel reading this story is aggravation .', None, None, None, 1), ('It really annoys and worries me that people insist', None, None, None, 0), ('climate change is a political issue', None, None, None, 0), ('when we can see its effects everywhere , including in the form of the current extinction crisis .', None, None, None, 1), ('I know', None, None, None, 0), ('that this particular one was due to a fungus ,', None, None, None, 0), ('but it is part of a trend', None, None, None, 0), ('and might be related ,', None, None, None, 0), ('so that is what this makes me think of .', None, None, None, 1), ('I always feel frustrated and worried about the future', None, None, None, 0), ('whenever I am reminded', None, None, None, 0), ('that extinctions like this and other problems are just going to keep happening', None, None, None, 0), ('because conservatives refuse to acknowledge', None, None, None, 0), ('that the problem even exists .', None, None, None, 1), ('It could be fixed ,', None, None, None, 0), ("but probably wo n't be ,", None, None, None, 0), ('and that irritates me .', None, None, None, 1)]

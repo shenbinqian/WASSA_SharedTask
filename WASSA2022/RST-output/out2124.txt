@@ -1,0 +1,15 @@
+=====================> [[('This is deplorable .', None, None, None, 1), ('I get how upsetting it is to have your card declined ,', None, None, None, 0), ("but it 's obviously no one 's fault but the bank and or the person", None, None, None, 0), ('whose card it is .', None, None, None, 1), ('The suspect must be totally unraveled in this case .', None, None, None, 1), ('It seems like he or she has some rage issues and hopefully a good amount of time behind bars .', None, None, None, 1), ('Who brings a gun to starbucks anyway ?', None, None, None, 1)]]
+Leaf:  N Elaborate This is deplorable .
+Leaf:  S span I get how upsetting it is to have your card declined ,
+Leaf:  N Elaborate but it 's obviously no one 's fault but the bank and or the person
+Leaf:  S span whose card it is .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The suspect must be totally unraveled in this case .
+Leaf:  S span It seems like he or she has some rage issues and hopefully a good amount of time behind bars .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Who brings a gun to starbucks anyway ?
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is deplorable .', None, None, None, 1), ('I get how upsetting it is to have your card declined ,', None, None, None, 0), ("but it 's obviously no one 's fault but the bank and or the person", None, None, None, 0), ('whose card it is .', None, None, None, 1), ('The suspect must be totally unraveled in this case .', None, None, None, 1), ('It seems like he or she has some rage issues and hopefully a good amount of time behind bars .', None, None, None, 1), ('Who brings a gun to starbucks anyway ?', None, None, None, 1)]

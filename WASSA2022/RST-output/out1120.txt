@@ -1,0 +1,27 @@
+=====================> [[('The medical profession is clueless', None, None, None, 0), ('according to three articles', None, None, None, 0), ('I just read .', None, None, None, 1), ('They have no idea', None, None, None, 0), ('how to treat obese or transgender people , among others ,', None, None, None, 0), ('and doctors routinely act', None, None, None, 0), ("based on biases and stereotypes . For example , scales are n't calibrated or constructed", None, None, None, 0), ('to weigh obese people', None, None, None, 0), ("and medication dosage often does n't take weight into account .", None, None, None, 1), ('Doctors just tell patients to lose weight', None, None, None, 0), ('and rush them out of the office . Not that the rest of us are protected from medical protocols', None, None, None, 0), ('that are outdated and sometimes harmful , either .', None, None, None, 1), ('What to do ?', None, None, None, 1)]]
+Leaf:  N Attribution The medical profession is clueless
+Leaf:  N Elaborate according to three articles
+Leaf:  S span I just read .
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Attribution NS
+Leaf:  S span They have no idea
+Leaf:  N Attribution how to treat obese or transgender people , among others ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Manner-Means and doctors routinely act
+Leaf:  N Enablement based on biases and stereotypes . For example , scales are n't calibrated or constructed
+Leaf:  S span to weigh obese people
+Inner:  S span None Enablement NS
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Joint and medication dosage often does n't take weight into account .
+Inner:  N Joint None Joint NN
+Inner:  N Cause None Joint NN
+Leaf:  N Joint Doctors just tell patients to lose weight
+Leaf:  N Elaborate and rush them out of the office . Not that the rest of us are protected from medical protocols
+Leaf:  S span that are outdated and sometimes harmful , either .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span What to do ?
+Inner:  Root None None Evaluation NS
+[('The medical profession is clueless', None, None, None, 0), ('according to three articles', None, None, None, 0), ('I just read .', None, None, None, 1), ('They have no idea', None, None, None, 0), ('how to treat obese or transgender people , among others ,', None, None, None, 0), ('and doctors routinely act', None, None, None, 0), ("based on biases and stereotypes . For example , scales are n't calibrated or constructed", None, None, None, 0), ('to weigh obese people', None, None, None, 0), ("and medication dosage often does n't take weight into account .", None, None, None, 1), ('Doctors just tell patients to lose weight', None, None, None, 0), ('and rush them out of the office . Not that the rest of us are protected from medical protocols', None, None, None, 0), ('that are outdated and sometimes harmful , either .', None, None, None, 1), ('What to do ?', None, None, None, 1)]

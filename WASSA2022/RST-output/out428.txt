@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('that it would a great thing if all students could get connected to the internet .', None, None, None, 1), ('The internet will provide them ways', None, None, None, 0), ('to learn more', None, None, None, 0), ('and it will help them further their education as well .', None, None, None, 1), ('I think', None, None, None, 0), ("that President Obama 's plan for the internet should have really worked better", None, None, None, 0), ('to so that all students can have an opportunity', None, None, None, 0), ('to use computers anytime', None, None, None, 0), ('that they want to .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution that it would a great thing if all students could get connected to the internet .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The internet will provide them ways
+Leaf:  N Joint to learn more
+Leaf:  N Joint and it will help them further their education as well .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I think
+Leaf:  N Enablement that President Obama 's plan for the internet should have really worked better
+Leaf:  N Elaborate to so that all students can have an opportunity
+Leaf:  N Elaborate to use computers anytime
+Leaf:  S span that they want to .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('that it would a great thing if all students could get connected to the internet .', None, None, None, 1), ('The internet will provide them ways', None, None, None, 0), ('to learn more', None, None, None, 0), ('and it will help them further their education as well .', None, None, None, 1), ('I think', None, None, None, 0), ("that President Obama 's plan for the internet should have really worked better", None, None, None, 0), ('to so that all students can have an opportunity', None, None, None, 0), ('to use computers anytime', None, None, None, 0), ('that they want to .', None, None, None, 1)]

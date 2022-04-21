@@ -1,0 +1,23 @@
+=====================> [[('This is the kind of stuff', None, None, None, 0), ('that happens all over', None, None, None, 0), ('and is always underreported', None, None, None, 0), ('because the perpetrators of such sexual harassment and assaults are protected by their power in society and other powerful people .', None, None, None, 1), ('It was long just an unspoken or open secret', None, None, None, 0), ('that everyone basically knew ,', None, None, None, 0), ("but it 's good that it 's finally coming to light with people willing to speak up , especially the victims .", None, None, None, 1), ("If they did n't speak up ,", None, None, None, 0), ('people would go on thinking', None, None, None, 0), ('that this kind of stuff only happens in TV and movies .', None, None, None, 1), ('Art imitates life , and vice versa .', None, None, None, 1)]]
+Leaf:  N Elaborate This is the kind of stuff
+Leaf:  N Joint that happens all over
+Leaf:  N Explanation and is always underreported
+Leaf:  S span because the perpetrators of such sexual harassment and assaults are protected by their power in society and other powerful people .
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It was long just an unspoken or open secret
+Leaf:  S span that everyone basically knew ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but it 's good that it 's finally coming to light with people willing to speak up , especially the victims .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span If they did n't speak up ,
+Leaf:  S span people would go on thinking
+Leaf:  N Attribution that this kind of stuff only happens in TV and movies .
+Inner:  N Condition None Attribution SN
+Inner:  N Explanation None Condition SN
+Leaf:  S span Art imitates life , and vice versa .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is the kind of stuff', None, None, None, 0), ('that happens all over', None, None, None, 0), ('and is always underreported', None, None, None, 0), ('because the perpetrators of such sexual harassment and assaults are protected by their power in society and other powerful people .', None, None, None, 1), ('It was long just an unspoken or open secret', None, None, None, 0), ('that everyone basically knew ,', None, None, None, 0), ("but it 's good that it 's finally coming to light with people willing to speak up , especially the victims .", None, None, None, 1), ("If they did n't speak up ,", None, None, None, 0), ('people would go on thinking', None, None, None, 0), ('that this kind of stuff only happens in TV and movies .', None, None, None, 1), ('Art imitates life , and vice versa .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Remember that story', None, None, None, 0), ('that I told you about my neighbor Paul from my old neighborhood', None, None, None, 0), ('and how he had served in IRAQ', None, None, None, 0), ('and had come home', None, None, None, 0), ('and had PTSD ?', None, None, None, 1), ('I found this article', None, None, None, 0), ('that explains it pretty good', None, None, None, 0), ('and think', None, None, None, 0), ('you might be interested in reading it', None, None, None, 0), ('to deal with the new coworker', None, None, None, 0), ('that you have', None, None, None, 0), ('that has similar issues .', None, None, None, 1)]]
+Leaf:  N Elaborate Remember that story
+Leaf:  S span that I told you about my neighbor Paul from my old neighborhood
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal and how he had served in IRAQ
+Leaf:  N Evaluation and had come home
+Leaf:  N Evaluation and had PTSD ?
+Inner:  N Temporal None Evaluation NN
+Inner:  S span None Temporal NN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate I found this article
+Leaf:  S span that explains it pretty good
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and think
+Leaf:  N Enablement you might be interested in reading it
+Leaf:  N Elaborate to deal with the new coworker
+Leaf:  N Elaborate that you have
+Leaf:  S span that has similar issues .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  N Topic-Comment None Joint NN
+Inner:  Root None None Topic-Comment NN
+[('Remember that story', None, None, None, 0), ('that I told you about my neighbor Paul from my old neighborhood', None, None, None, 0), ('and how he had served in IRAQ', None, None, None, 0), ('and had come home', None, None, None, 0), ('and had PTSD ?', None, None, None, 1), ('I found this article', None, None, None, 0), ('that explains it pretty good', None, None, None, 0), ('and think', None, None, None, 0), ('you might be interested in reading it', None, None, None, 0), ('to deal with the new coworker', None, None, None, 0), ('that you have', None, None, None, 0), ('that has similar issues .', None, None, None, 1)]

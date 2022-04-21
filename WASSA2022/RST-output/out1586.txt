@@ -1,0 +1,29 @@
+=====================> [[('I read an article', None, None, None, 0), ('about making the ivory trade legal ,', None, None, None, 0), ('and it said', None, None, None, 0), ('it could cause the extinction of elephants .', None, None, None, 1), ('I find it extremely disturbing ,', None, None, None, 0), ("since I ca n't imagine elephants being extinct .", None, None, None, 1), ('It makes me really angry that poachers are able to kill so many elephants ,', None, None, None, 0), ('and that', None, None, None, 0), ("even if it 's legal to trade ivory ,", None, None, None, 0), ('the demand is still really high .', None, None, None, 1), ('I think', None, None, None, 0), ('finding a substitute for ivory is a better choice .', None, None, None, 1), ('No one actually needs ivory ,', None, None, None, 0), ('and keeping it illegal seems like a better idea .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article
+Leaf:  S span about making the ivory trade legal ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span and it said
+Leaf:  N Attribution it could cause the extinction of elephants .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Explanation I find it extremely disturbing ,
+Leaf:  S span since I ca n't imagine elephants being extinct .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It makes me really angry that poachers are able to kill so many elephants ,
+Leaf:  N Same-Unit and that
+Leaf:  S span even if it 's legal to trade ivory ,
+Leaf:  N Contrast the demand is still really high .
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Elaborate finding a substitute for ivory is a better choice .
+Leaf:  N Joint No one actually needs ivory ,
+Leaf:  N Joint and keeping it illegal seems like a better idea .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I read an article', None, None, None, 0), ('about making the ivory trade legal ,', None, None, None, 0), ('and it said', None, None, None, 0), ('it could cause the extinction of elephants .', None, None, None, 1), ('I find it extremely disturbing ,', None, None, None, 0), ("since I ca n't imagine elephants being extinct .", None, None, None, 1), ('It makes me really angry that poachers are able to kill so many elephants ,', None, None, None, 0), ('and that', None, None, None, 0), ("even if it 's legal to trade ivory ,", None, None, None, 0), ('the demand is still really high .', None, None, None, 1), ('I think', None, None, None, 0), ('finding a substitute for ivory is a better choice .', None, None, None, 1), ('No one actually needs ivory ,', None, None, None, 0), ('and keeping it illegal seems like a better idea .', None, None, None, 1)]

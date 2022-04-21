@@ -1,0 +1,19 @@
+=====================> [[('what horror this news . in poor little boy of just 2 years of age he fell through the window of his apartment on the 11th floor of a building .', None, None, None, 1), ('The mother relates', None, None, None, 0), ('that I go to sleep with her older brother', None, None, None, 0), ('and this one hour later I climb to the window', None, None, None, 0), ('that apparently was open', None, None, None, 0), ('and rushed into the void', None, None, None, 0), ('crashing with the asphalt of the parking lot .', None, None, None, 1), ('A neighbor found the scene', None, None, None, 0), ('and desperate for horror called 911 .', None, None, None, 1)]]
+Leaf:  N Elaborate what horror this news . in poor little boy of just 2 years of age he fell through the window of his apartment on the 11th floor of a building .
+Leaf:  S span The mother relates
+Leaf:  N Attribution that I go to sleep with her older brother
+Inner:  N Temporal None Attribution SN
+Leaf:  N Elaborate and this one hour later I climb to the window
+Leaf:  S span that apparently was open
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Cause and rushed into the void
+Leaf:  S span crashing with the asphalt of the parking lot .
+Inner:  N Temporal None Cause NS
+Inner:  N Temporal None Temporal NN
+Inner:  S span None Temporal NN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause A neighbor found the scene
+Leaf:  S span and desperate for horror called 911 .
+Inner:  S span None Cause NS
+Inner:  Root None None Cause NS
+[('what horror this news . in poor little boy of just 2 years of age he fell through the window of his apartment on the 11th floor of a building .', None, None, None, 1), ('The mother relates', None, None, None, 0), ('that I go to sleep with her older brother', None, None, None, 0), ('and this one hour later I climb to the window', None, None, None, 0), ('that apparently was open', None, None, None, 0), ('and rushed into the void', None, None, None, 0), ('crashing with the asphalt of the parking lot .', None, None, None, 1), ('A neighbor found the scene', None, None, None, 0), ('and desperate for horror called 911 .', None, None, None, 1)]

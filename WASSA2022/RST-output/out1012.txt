@@ -1,0 +1,43 @@
+=====================> [[('Wow !', None, None, None, 1), ('I just read this article about a young boy in China', None, None, None, 0), ('who fell in to a well', None, None, None, 0), ('and was found dead 4 days later . It was SO sad to read this !', None, None, None, 1), ('It stated', None, None, None, 0), ('that boy was helping his dad harvest food', None, None, None, 0), ('when he fell in this well', None, None, None, 0), ('that was only 1 foot wide and that no adults could fit in it to go down and rescue him ! Can you even imagine what that father must have been feeling', None, None, None, 0), ('knowing', None, None, None, 0), ('that his little boy fell in this well', None, None, None, 0), ('while helping him', None, None, None, 0), ('and he could not get down there to help him !', None, None, None, 1), ('I just imagine how heartbreaking this whole situation must have been for the family and for the rescuers', None, None, None, 0), ('who spent days', None, None, None, 0), ('trying everything', None, None, None, 0), ('they could', None, None, None, 0), ('to get to him', None, None, None, 0), ('and potentially help him . As a mom , it just makes me sick to think', None, None, None, 0), ('that I could be in a situation like that', None, None, None, 0), ('and do nothing', None, None, None, 0), ('to help one of my babies !', None, None, None, 1)]]
+Leaf:  N Textual-Organization Wow !
+Leaf:  N Elaborate I just read this article about a young boy in China
+Leaf:  N Temporal who fell in to a well
+Leaf:  N Temporal and was found dead 4 days later . It was SO sad to read this !
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It stated
+Leaf:  S span that boy was helping his dad harvest food
+Leaf:  N Elaborate when he fell in this well
+Leaf:  S span that was only 1 foot wide and that no adults could fit in it to go down and rescue him ! Can you even imagine what that father must have been feeling
+Inner:  N Background None Elaborate NS
+Leaf:  S span knowing
+Leaf:  N Temporal that his little boy fell in this well
+Leaf:  N Temporal while helping him
+Leaf:  N Temporal and he could not get down there to help him !
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  N Temporal None Background NS
+Inner:  N Attribution None Temporal SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I just imagine how heartbreaking this whole situation must have been for the family and for the rescuers
+Leaf:  N Manner-Means who spent days
+Leaf:  S span trying everything
+Leaf:  N Attribution they could
+Inner:  S span None Attribution SN
+Inner:  N Enablement None Manner-Means NS
+Leaf:  N Temporal to get to him
+Leaf:  N Temporal and potentially help him . As a mom , it just makes me sick to think
+Inner:  S span None Temporal NN
+Leaf:  N Temporal that I could be in a situation like that
+Leaf:  N Enablement and do nothing
+Leaf:  S span to help one of my babies !
+Inner:  N Temporal None Enablement NS
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Wow !', None, None, None, 1), ('I just read this article about a young boy in China', None, None, None, 0), ('who fell in to a well', None, None, None, 0), ('and was found dead 4 days later . It was SO sad to read this !', None, None, None, 1), ('It stated', None, None, None, 0), ('that boy was helping his dad harvest food', None, None, None, 0), ('when he fell in this well', None, None, None, 0), ('that was only 1 foot wide and that no adults could fit in it to go down and rescue him ! Can you even imagine what that father must have been feeling', None, None, None, 0), ('knowing', None, None, None, 0), ('that his little boy fell in this well', None, None, None, 0), ('while helping him', None, None, None, 0), ('and he could not get down there to help him !', None, None, None, 1), ('I just imagine how heartbreaking this whole situation must have been for the family and for the rescuers', None, None, None, 0), ('who spent days', None, None, None, 0), ('trying everything', None, None, None, 0), ('they could', None, None, None, 0), ('to get to him', None, None, None, 0), ('and potentially help him . As a mom , it just makes me sick to think', None, None, None, 0), ('that I could be in a situation like that', None, None, None, 0), ('and do nothing', None, None, None, 0), ('to help one of my babies !', None, None, None, 1)]

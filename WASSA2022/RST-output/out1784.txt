@@ -1,0 +1,29 @@
+=====================> [[('What an alarming statistic !', None, None, None, 1), ('I had no idea', None, None, None, 0), ('that such things even existed !', None, None, None, 1), ("While it 's true that this seems to be much more of a problem in Russia than in the US ,", None, None, None, 0), ("since it 's on the internet", None, None, None, 0), ('it is still something', None, None, None, 0), ('that could potentially be accessed by our kids !', None, None, None, 1), ('Teenagers have enough', None, None, None, 0), ('to deal with', None, None, None, 0), ('without having to worry about being prodded into doing something horrible like committing suicide by these online idiots !', None, None, None, 1), ('I remember being a teenager', None, None, None, 0), ('and how hard it was ,', None, None, None, 0), ("but I did n't have to deal with this !", None, None, None, 1), ('This is completely awful !', None, None, None, 1)]]
+Leaf:  N Elaborate What an alarming statistic !
+Leaf:  S span I had no idea
+Leaf:  N Attribution that such things even existed !
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span While it 's true that this seems to be much more of a problem in Russia than in the US ,
+Leaf:  S span since it 's on the internet
+Leaf:  N Elaborate it is still something
+Leaf:  S span that could potentially be accessed by our kids !
+Inner:  N Contrast None Elaborate NS
+Inner:  N Contrast None Contrast SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate Teenagers have enough
+Leaf:  N Background to deal with
+Leaf:  S span without having to worry about being prodded into doing something horrible like committing suicide by these online idiots !
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I remember being a teenager
+Leaf:  N Evaluation and how hard it was ,
+Leaf:  S span but I did n't have to deal with this !
+Inner:  N Elaborate None Evaluation NS
+Inner:  S span None Elaborate SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is completely awful !
+Inner:  Root None None Evaluation NS
+[('What an alarming statistic !', None, None, None, 1), ('I had no idea', None, None, None, 0), ('that such things even existed !', None, None, None, 1), ("While it 's true that this seems to be much more of a problem in Russia than in the US ,", None, None, None, 0), ("since it 's on the internet", None, None, None, 0), ('it is still something', None, None, None, 0), ('that could potentially be accessed by our kids !', None, None, None, 1), ('Teenagers have enough', None, None, None, 0), ('to deal with', None, None, None, 0), ('without having to worry about being prodded into doing something horrible like committing suicide by these online idiots !', None, None, None, 1), ('I remember being a teenager', None, None, None, 0), ('and how hard it was ,', None, None, None, 0), ("but I did n't have to deal with this !", None, None, None, 1), ('This is completely awful !', None, None, None, 1)]

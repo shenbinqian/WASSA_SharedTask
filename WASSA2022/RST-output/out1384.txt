@@ -1,0 +1,23 @@
+=====================> [[("I just do n't understand Russia .", None, None, None, 1), ('I mean they seem to be a country', None, None, None, 0), ('that is civilized , right ?', None, None, None, 1), ('How is it that they so openly support terrorism ?', None, None, None, 1), ("I just do n't understand", None, None, None, 0), ('how they stand with Syria', None, None, None, 0), ('and are OK with all of the horrible things that are happening there .', None, None, None, 1), ('I think', None, None, None, 0), ('if Russia actually stood up', None, None, None, 0), ('for what is right ,', None, None, None, 0), ('the world would be a much better place .', None, None, None, 1)]]
+Leaf:  N Explanation I just do n't understand Russia .
+Leaf:  N Elaborate I mean they seem to be a country
+Leaf:  S span that is civilized , right ?
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint How is it that they so openly support terrorism ?
+Inner:  N Joint None Joint NN
+Leaf:  S span I just do n't understand
+Leaf:  N Joint how they stand with Syria
+Leaf:  N Joint and are OK with all of the horrible things that are happening there .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  N Elaborate if Russia actually stood up
+Leaf:  S span for what is right ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition the world would be a much better place .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("I just do n't understand Russia .", None, None, None, 1), ('I mean they seem to be a country', None, None, None, 0), ('that is civilized , right ?', None, None, None, 1), ('How is it that they so openly support terrorism ?', None, None, None, 1), ("I just do n't understand", None, None, None, 0), ('how they stand with Syria', None, None, None, 0), ('and are OK with all of the horrible things that are happening there .', None, None, None, 1), ('I think', None, None, None, 0), ('if Russia actually stood up', None, None, None, 0), ('for what is right ,', None, None, None, 0), ('the world would be a much better place .', None, None, None, 1)]

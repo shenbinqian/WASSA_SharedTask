@@ -1,0 +1,25 @@
+=====================> [[('People are up in arms over Trump not believing in climate change .', None, None, None, 1), ('Withdrawing from the Paris treaty supposedly will contribute to global warming ,', None, None, None, 0), ('along with doing away with the clean air act', None, None, None, 0), ('Obama passed', None, None, None, 0), ('while in office .', None, None, None, 1), ("There 's so much involved with climate change", None, None, None, 0), ('its hard', None, None, None, 0), ('to tell', None, None, None, 0), ('what is fact .', None, None, None, 1), ('States are taking measures into their own hands', None, None, None, 0), ('to the extent', None, None, None, 0), ('they can I guess .', None, None, None, 1)]]
+Leaf:  N Explanation People are up in arms over Trump not believing in climate change .
+Leaf:  N Joint Withdrawing from the Paris treaty supposedly will contribute to global warming ,
+Leaf:  N Elaborate along with doing away with the clean air act
+Leaf:  N Temporal Obama passed
+Leaf:  S span while in office .
+Inner:  S span None Temporal NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Summary None Explanation NS
+Leaf:  S span There 's so much involved with climate change
+Leaf:  S span its hard
+Leaf:  S span to tell
+Leaf:  N Attribution what is fact .
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Inner:  N Topic-Comment None Explanation SN
+Leaf:  N Enablement States are taking measures into their own hands
+Leaf:  N Elaborate to the extent
+Leaf:  S span they can I guess .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Enablement NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('People are up in arms over Trump not believing in climate change .', None, None, None, 1), ('Withdrawing from the Paris treaty supposedly will contribute to global warming ,', None, None, None, 0), ('along with doing away with the clean air act', None, None, None, 0), ('Obama passed', None, None, None, 0), ('while in office .', None, None, None, 1), ("There 's so much involved with climate change", None, None, None, 0), ('its hard', None, None, None, 0), ('to tell', None, None, None, 0), ('what is fact .', None, None, None, 1), ('States are taking measures into their own hands', None, None, None, 0), ('to the extent', None, None, None, 0), ('they can I guess .', None, None, None, 1)]

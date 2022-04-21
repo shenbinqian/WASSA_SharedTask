@@ -1,0 +1,23 @@
+=====================> [[('hey my best friend Joseph , how have you been ?', None, None, None, 1), ('Do you believe', None, None, None, 0), ('this ? There were thousands of females', None, None, None, 0), ('that left work in Iceland', None, None, None, 0), ('and went to Austurvollur square in the Icelandic capital of Reykjavik', None, None, None, 0), ('to protest ,', None, None, None, 0), ('there is discrimination against women', None, None, None, 0), ('cause they get paid way less', None, None, None, 0), ('then men do .', None, None, None, 1), ('Sucks we are still living a society', None, None, None, 0), ('where woman are not created or treated fairly .', None, None, None, 1)]]
+Leaf:  N Elaborate hey my best friend Joseph , how have you been ?
+Leaf:  S span Do you believe
+Leaf:  N Elaborate this ? There were thousands of females
+Leaf:  S span that left work in Iceland
+Inner:  N Joint None Elaborate NS
+Leaf:  N Enablement and went to Austurvollur square in the Icelandic capital of Reykjavik
+Leaf:  S span to protest ,
+Inner:  N Joint None Enablement NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Cause there is discrimination against women
+Leaf:  N Comparison cause they get paid way less
+Leaf:  S span then men do .
+Inner:  S span None Comparison NS
+Inner:  N Evaluation None Cause NS
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Sucks we are still living a society
+Leaf:  S span where woman are not created or treated fairly .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('hey my best friend Joseph , how have you been ?', None, None, None, 1), ('Do you believe', None, None, None, 0), ('this ? There were thousands of females', None, None, None, 0), ('that left work in Iceland', None, None, None, 0), ('and went to Austurvollur square in the Icelandic capital of Reykjavik', None, None, None, 0), ('to protest ,', None, None, None, 0), ('there is discrimination against women', None, None, None, 0), ('cause they get paid way less', None, None, None, 0), ('then men do .', None, None, None, 1), ('Sucks we are still living a society', None, None, None, 0), ('where woman are not created or treated fairly .', None, None, None, 1)]

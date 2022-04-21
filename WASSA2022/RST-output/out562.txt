@@ -1,0 +1,19 @@
+=====================> [[('The problem of poaching has become such an epidemic guides in South Africa', None, None, None, 0), ('who use', None, None, None, 0), ("to take hunters on big game safari 's", None, None, None, 0), ('are now becoming a different kind of hunter themselves .', None, None, None, 1), ("They 've taken up arms in the war on poaching", None, None, None, 0), ('due to the fact', None, None, None, 0), ('it is an outrageous epidemic at this point .', None, None, None, 1), ('Animals like the rhino are on the brink of extinction', None, None, None, 0), ("and poachers do n't care .", None, None, None, 1)]]
+Leaf:  N Elaborate The problem of poaching has become such an epidemic guides in South Africa
+Leaf:  N Enablement who use
+Leaf:  S span to take hunters on big game safari 's
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are now becoming a different kind of hunter themselves .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Explanation They 've taken up arms in the war on poaching
+Leaf:  N Elaborate due to the fact
+Leaf:  S span it is an outrageous epidemic at this point .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Temporal Animals like the rhino are on the brink of extinction
+Leaf:  N Temporal and poachers do n't care .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The problem of poaching has become such an epidemic guides in South Africa', None, None, None, 0), ('who use', None, None, None, 0), ("to take hunters on big game safari 's", None, None, None, 0), ('are now becoming a different kind of hunter themselves .', None, None, None, 1), ("They 've taken up arms in the war on poaching", None, None, None, 0), ('due to the fact', None, None, None, 0), ('it is an outrageous epidemic at this point .', None, None, None, 1), ('Animals like the rhino are on the brink of extinction', None, None, None, 0), ("and poachers do n't care .", None, None, None, 1)]

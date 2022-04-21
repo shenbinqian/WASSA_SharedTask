@@ -1,0 +1,19 @@
+=====================> [[('This article about the Philippines mayor is very alarming .', None, None, None, 1), ('It is a shame', None, None, None, 0), ('that so many people resort to corruption and bad deeds .', None, None, None, 1), ('It is also unfortunate', None, None, None, 0), ('that it had to end in casualties .', None, None, None, 1), ('People should really evaluate their behavior', None, None, None, 0), ('and how it impacts others .', None, None, None, 1), ('I would not want to go traveling there', None, None, None, 0), ('if this is how they behave !', None, None, None, 1)]]
+Leaf:  N Elaborate This article about the Philippines mayor is very alarming .
+Leaf:  S span It is a shame
+Leaf:  N Attribution that so many people resort to corruption and bad deeds .
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate It is also unfortunate
+Leaf:  S span that it had to end in casualties .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint People should really evaluate their behavior
+Leaf:  N Joint and how it impacts others .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Background I would not want to go traveling there
+Leaf:  S span if this is how they behave !
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This article about the Philippines mayor is very alarming .', None, None, None, 1), ('It is a shame', None, None, None, 0), ('that so many people resort to corruption and bad deeds .', None, None, None, 1), ('It is also unfortunate', None, None, None, 0), ('that it had to end in casualties .', None, None, None, 1), ('People should really evaluate their behavior', None, None, None, 0), ('and how it impacts others .', None, None, None, 1), ('I would not want to go traveling there', None, None, None, 0), ('if this is how they behave !', None, None, None, 1)]

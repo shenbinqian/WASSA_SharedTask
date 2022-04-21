@@ -1,0 +1,31 @@
+=====================> [[('Just came across an article', None, None, None, 0), ('that involves shootings', None, None, None, 0), ('and people being killed .', None, None, None, 1), ("The story is about a white person in his 50 's", None, None, None, 0), ('if I am not mistaking', None, None, None, 0), ('that was bothered by the loud music that was playing in a Durango by some black teenagers at a gas station in Florida .', None, None, None, 1), ('There was an argument', None, None, None, 0), ('regarding the music and some exchange of words .', None, None, None, 1), ('The white guy shot the 17 year old black kid 6 times . He was convicted for life with the possibility of parole after 2 years .', None, None, None, 1), ('He was denied .', None, None, None, 1), ('These situations are complicated', None, None, None, 0), ('and they are happening quite often lately .', None, None, None, 1), ('There should be a limit on many things ,', None, None, None, 0), ('and one of them should be the guns .', None, None, None, 1), ('There should be a stricter gun control .', None, None, None, 1)]]
+Leaf:  N Elaborate Just came across an article
+Leaf:  N Joint that involves shootings
+Leaf:  N Joint and people being killed .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Condition The story is about a white person in his 50 's
+Leaf:  S span if I am not mistaking
+Leaf:  N Attribution that was bothered by the loud music that was playing in a Durango by some black teenagers at a gas station in Florida .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Condition NS
+Leaf:  N Elaborate There was an argument
+Leaf:  S span regarding the music and some exchange of words .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The white guy shot the 17 year old black kid 6 times . He was convicted for life with the possibility of parole after 2 years .
+Leaf:  S span He was denied .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Joint These situations are complicated
+Leaf:  N Joint and they are happening quite often lately .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate There should be a limit on many things ,
+Leaf:  S span and one of them should be the guns .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint There should be a stricter gun control .
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Evaluation NS
+Inner:  Root None None Topic-Change NN
+[('Just came across an article', None, None, None, 0), ('that involves shootings', None, None, None, 0), ('and people being killed .', None, None, None, 1), ("The story is about a white person in his 50 's", None, None, None, 0), ('if I am not mistaking', None, None, None, 0), ('that was bothered by the loud music that was playing in a Durango by some black teenagers at a gas station in Florida .', None, None, None, 1), ('There was an argument', None, None, None, 0), ('regarding the music and some exchange of words .', None, None, None, 1), ('The white guy shot the 17 year old black kid 6 times . He was convicted for life with the possibility of parole after 2 years .', None, None, None, 1), ('He was denied .', None, None, None, 1), ('These situations are complicated', None, None, None, 0), ('and they are happening quite often lately .', None, None, None, 1), ('There should be a limit on many things ,', None, None, None, 0), ('and one of them should be the guns .', None, None, None, 1), ('There should be a stricter gun control .', None, None, None, 1)]

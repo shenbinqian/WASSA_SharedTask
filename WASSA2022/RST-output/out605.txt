@@ -1,0 +1,19 @@
+=====================> [[('The only solution for the " wage gap " is the total abolishment of capitalism and all governments .', None, None, None, 1), ('There will be no more wage gap', None, None, None, 0), ('when there is no money !', None, None, None, 1), ('By instituting Anarcho-Communism ,', None, None, None, 0), ('all people can be given what they need', None, None, None, 0), ('without a worry', None, None, None, 0), ('of who is getting more or less .', None, None, None, 1), ('Capitalism is evil', None, None, None, 0), ('and must be destroyed !', None, None, None, 1)]]
+Leaf:  N Explanation The only solution for the " wage gap " is the total abolishment of capitalism and all governments .
+Leaf:  N Background There will be no more wage gap
+Leaf:  S span when there is no money !
+Inner:  S span None Background NS
+Inner:  N Summary None Explanation NS
+Leaf:  S span By instituting Anarcho-Communism ,
+Leaf:  N Enablement all people can be given what they need
+Leaf:  N Elaborate without a worry
+Leaf:  S span of who is getting more or less .
+Inner:  S span None Elaborate NS
+Inner:  N Manner-Means None Enablement NS
+Inner:  S span None Manner-Means SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint Capitalism is evil
+Leaf:  N Joint and must be destroyed !
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The only solution for the " wage gap " is the total abolishment of capitalism and all governments .', None, None, None, 1), ('There will be no more wage gap', None, None, None, 0), ('when there is no money !', None, None, None, 1), ('By instituting Anarcho-Communism ,', None, None, None, 0), ('all people can be given what they need', None, None, None, 0), ('without a worry', None, None, None, 0), ('of who is getting more or less .', None, None, None, 1), ('Capitalism is evil', None, None, None, 0), ('and must be destroyed !', None, None, None, 1)]

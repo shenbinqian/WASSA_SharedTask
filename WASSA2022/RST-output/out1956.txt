@@ -1,0 +1,25 @@
+=====================> [[('This situation is just alarming and disgusting .', None, None, None, 1), ('People', None, None, None, 0), ('being murdered for the acquisition of power , money , or whatever ,', None, None, None, 0), ('is horrifying .', None, None, None, 1), ('Children should never be a casualty of war ,', None, None, None, 0), ('nor should any other innocent human beings .', None, None, None, 1), ('This disturbs me so greatly', None, None, None, 0), ("that it 's difficult to even get it out of my mind .", None, None, None, 1), ('Why ? Why do humans do this ?', None, None, None, 1), ('What makes people so mentally disturbed', None, None, None, 0), ('to think', None, None, None, 0), ('that this is ever okay ?', None, None, None, 1)]]
+Leaf:  N Elaborate This situation is just alarming and disgusting .
+Leaf:  N Elaborate People
+Leaf:  S span being murdered for the acquisition of power , money , or whatever ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is horrifying .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint Children should never be a casualty of war ,
+Leaf:  N Joint nor should any other innocent human beings .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause This disturbs me so greatly
+Leaf:  S span that it 's difficult to even get it out of my mind .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Why ? Why do humans do this ?
+Leaf:  N Cause What makes people so mentally disturbed
+Leaf:  S span to think
+Leaf:  N Attribution that this is ever okay ?
+Inner:  S span None Attribution SN
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This situation is just alarming and disgusting .', None, None, None, 1), ('People', None, None, None, 0), ('being murdered for the acquisition of power , money , or whatever ,', None, None, None, 0), ('is horrifying .', None, None, None, 1), ('Children should never be a casualty of war ,', None, None, None, 0), ('nor should any other innocent human beings .', None, None, None, 1), ('This disturbs me so greatly', None, None, None, 0), ("that it 's difficult to even get it out of my mind .", None, None, None, 1), ('Why ? Why do humans do this ?', None, None, None, 1), ('What makes people so mentally disturbed', None, None, None, 0), ('to think', None, None, None, 0), ('that this is ever okay ?', None, None, None, 1)]

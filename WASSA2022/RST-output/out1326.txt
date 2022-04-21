@@ -1,0 +1,35 @@
+=====================> [[('Hi friend , I saw this article the other day ,', None, None, None, 0), ("and I 'm really upset by the behavior of the poachers .", None, None, None, 1), ('They had absolutely no reason', None, None, None, 0), ('to attack this guy .', None, None, None, 1), ('I would like to see the villagers fairly punished for their terrible behavior .', None, None, None, 1), ('Can you give me a hand', None, None, None, 0), ('and pass this along to everybody on your friends list ?', None, None, None, 1), ('I know', None, None, None, 0), ("it is n't much ,", None, None, None, 0), ('but I think', None, None, None, 0), ('that', None, None, None, 0), ('if we work really hard together ,', None, None, None, 0), ('we might be able to get enough support', None, None, None, 0), ('to make sure', None, None, None, 0), ('that the poachers are punished .', None, None, None, 1), ('At any rate , we should at least try to raise the money', None, None, None, 0), ('to help this injured guy .', None, None, None, 1)]]
+Leaf:  N Joint Hi friend , I saw this article the other day ,
+Leaf:  N Joint and I 'm really upset by the behavior of the poachers .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate They had absolutely no reason
+Leaf:  S span to attack this guy .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I would like to see the villagers fairly punished for their terrible behavior .
+Inner:  N Cause None Evaluation NS
+Leaf:  N Joint Can you give me a hand
+Leaf:  N Joint and pass this along to everybody on your friends list ?
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Cause NS
+Leaf:  S span I know
+Leaf:  N Attribution it is n't much ,
+Inner:  S span None Attribution SN
+Leaf:  S span but I think
+Leaf:  N Same-Unit that
+Leaf:  S span if we work really hard together ,
+Leaf:  N Enablement we might be able to get enough support
+Leaf:  S span to make sure
+Leaf:  N Attribution that the poachers are punished .
+Inner:  S span None Attribution SN
+Inner:  N Condition None Enablement NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate At any rate , we should at least try to raise the money
+Leaf:  S span to help this injured guy .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Hi friend , I saw this article the other day ,', None, None, None, 0), ("and I 'm really upset by the behavior of the poachers .", None, None, None, 1), ('They had absolutely no reason', None, None, None, 0), ('to attack this guy .', None, None, None, 1), ('I would like to see the villagers fairly punished for their terrible behavior .', None, None, None, 1), ('Can you give me a hand', None, None, None, 0), ('and pass this along to everybody on your friends list ?', None, None, None, 1), ('I know', None, None, None, 0), ("it is n't much ,", None, None, None, 0), ('but I think', None, None, None, 0), ('that', None, None, None, 0), ('if we work really hard together ,', None, None, None, 0), ('we might be able to get enough support', None, None, None, 0), ('to make sure', None, None, None, 0), ('that the poachers are punished .', None, None, None, 1), ('At any rate , we should at least try to raise the money', None, None, None, 0), ('to help this injured guy .', None, None, None, 1)]

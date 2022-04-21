@@ -1,0 +1,29 @@
+=====================> [[('i think', None, None, None, 0), ('we all need to do a better job', None, None, None, 0), ('of taking care of are forest and water ways', None, None, None, 0), ('because we rely on these', None, None, None, 0), ('to surive', None, None, None, 0), ('and if we are killing animals', None, None, None, 0), ('and fish the wrong way', None, None, None, 0), ('and they start to go away', None, None, None, 0), ('it could have a big impact on us', None, None, None, 0), ('and by that time it could be to late to do anything about it .', None, None, None, 1), ('so we need to put laws in', None, None, None, 0), ('that will help the animals', None, None, None, 0), ('but also help allow us to fish for them the right way', None, None, None, 0), ('not by taking a shortcut', None, None, None, 0)]]
+Leaf:  S span i think
+Leaf:  N Elaborate we all need to do a better job
+Leaf:  S span of taking care of are forest and water ways
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Enablement because we rely on these
+Leaf:  S span to surive
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Joint and if we are killing animals
+Leaf:  N Temporal and fish the wrong way
+Leaf:  N Temporal and they start to go away
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Leaf:  N Joint it could have a big impact on us
+Leaf:  N Joint and by that time it could be to late to do anything about it .
+Inner:  N Condition None Joint NN
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Elaborate so we need to put laws in
+Leaf:  N Joint that will help the animals
+Leaf:  N Manner-Means but also help allow us to fish for them the right way
+Leaf:  S span not by taking a shortcut
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('i think', None, None, None, 0), ('we all need to do a better job', None, None, None, 0), ('of taking care of are forest and water ways', None, None, None, 0), ('because we rely on these', None, None, None, 0), ('to surive', None, None, None, 0), ('and if we are killing animals', None, None, None, 0), ('and fish the wrong way', None, None, None, 0), ('and they start to go away', None, None, None, 0), ('it could have a big impact on us', None, None, None, 0), ('and by that time it could be to late to do anything about it .', None, None, None, 1), ('so we need to put laws in', None, None, None, 0), ('that will help the animals', None, None, None, 0), ('but also help allow us to fish for them the right way', None, None, None, 0), ('not by taking a shortcut', None, None, None, 0)]

@@ -1,0 +1,21 @@
+=====================> [[("I really do n't know what to make of this .", None, None, None, 1), ('IF it was a national jeweler or a well known brand ,', None, None, None, 0), ('I think', None, None, None, 0), ('that I would immediately assume', None, None, None, 0), ('the celebrity refuses to pay . However , this is an unidentified business from a city', None, None, None, 0), ('that ,', None, None, None, 0), ('to be fair ,', None, None, None, 0), ('has a bit of a reputation', None, None, None, 0), ('for being full of degenerates', None, None, None, 0), ('who are trying to make a comeup', None, None, None, 0)]]
+Leaf:  N Explanation I really do n't know what to make of this .
+Leaf:  S span IF it was a national jeweler or a well known brand ,
+Leaf:  S span I think
+Leaf:  S span that I would immediately assume
+Leaf:  N Attribution the celebrity refuses to pay . However , this is an unidentified business from a city
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Same-Unit that ,
+Leaf:  N Same-Unit to be fair ,
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Elaborate has a bit of a reputation
+Leaf:  N Elaborate for being full of degenerates
+Leaf:  S span who are trying to make a comeup
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Inner:  Root None None Explanation NS
+[("I really do n't know what to make of this .", None, None, None, 1), ('IF it was a national jeweler or a well known brand ,', None, None, None, 0), ('I think', None, None, None, 0), ('that I would immediately assume', None, None, None, 0), ('the celebrity refuses to pay . However , this is an unidentified business from a city', None, None, None, 0), ('that ,', None, None, None, 0), ('to be fair ,', None, None, None, 0), ('has a bit of a reputation', None, None, None, 0), ('for being full of degenerates', None, None, None, 0), ('who are trying to make a comeup', None, None, None, 0)]

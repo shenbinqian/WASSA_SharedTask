@@ -1,0 +1,25 @@
+=====================> [[('Wow , it is pretty sad to see a happy family be devestated by a preventable cause .', None, None, None, 1), ('I send my prayers out', None, None, None, 0), ('to whomever', None, None, None, 0), ('was in immediate relations with the family .', None, None, None, 1), ('This makes me be more grateful for everyday life', None, None, None, 0), ("because i really do n't know", None, None, None, 0), ('when my last day will be .', None, None, None, 1), ('I hope', None, None, None, 0), ('the fire department workers are emotionally well ,', None, None, None, 0), ('because i know', None, None, None, 0), ('it can be distressful', None, None, None, 0), ('to see these thinga happen', None, None, None, 0)]]
+Leaf:  N Topic-Comment Wow , it is pretty sad to see a happy family be devestated by a preventable cause .
+Leaf:  N Enablement I send my prayers out
+Leaf:  S span to whomever
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit was in immediate relations with the family .
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Explanation This makes me be more grateful for everyday life
+Leaf:  S span because i really do n't know
+Leaf:  N Attribution when my last day will be .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Joint None Cause NS
+Leaf:  S span I hope
+Leaf:  N Attribution the fire department workers are emotionally well ,
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because i know
+Leaf:  N Explanation it can be distressful
+Leaf:  S span to see these thinga happen
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Explanation NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  Root None None Topic-Comment NN
+[('Wow , it is pretty sad to see a happy family be devestated by a preventable cause .', None, None, None, 1), ('I send my prayers out', None, None, None, 0), ('to whomever', None, None, None, 0), ('was in immediate relations with the family .', None, None, None, 1), ('This makes me be more grateful for everyday life', None, None, None, 0), ("because i really do n't know", None, None, None, 0), ('when my last day will be .', None, None, None, 1), ('I hope', None, None, None, 0), ('the fire department workers are emotionally well ,', None, None, None, 0), ('because i know', None, None, None, 0), ('it can be distressful', None, None, None, 0), ('to see these thinga happen', None, None, None, 0)]

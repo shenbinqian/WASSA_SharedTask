@@ -1,0 +1,17 @@
+=====================> [[('I am all for this .', None, None, None, 1), ('I have no specific qualms with working animals , per se ,', None, None, None, 0), ('but they need to be taken care of .', None, None, None, 1), ('Personally , in a real world version of this , I think', None, None, None, 0), ("that the individuals responsible for the elephant 's care should be jailed . Again , just my personal opinion . Thankfully , this is one of the things", None, None, None, 0), ('that really is changing for the better .', None, None, None, 1), ('There are fewer and fewer working animals', None, None, None, 0), ('as time goes by .', None, None, None, 1)]]
+Leaf:  N Elaborate I am all for this .
+Leaf:  S span I have no specific qualms with working animals , per se ,
+Leaf:  N Contrast but they need to be taken care of .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Personally , in a real world version of this , I think
+Leaf:  N Elaborate that the individuals responsible for the elephant 's care should be jailed . Again , just my personal opinion . Thankfully , this is one of the things
+Leaf:  S span that really is changing for the better .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Temporal There are fewer and fewer working animals
+Leaf:  S span as time goes by .
+Inner:  S span None Temporal NS
+Inner:  Root None None Explanation NS
+[('I am all for this .', None, None, None, 1), ('I have no specific qualms with working animals , per se ,', None, None, None, 0), ('but they need to be taken care of .', None, None, None, 1), ('Personally , in a real world version of this , I think', None, None, None, 0), ("that the individuals responsible for the elephant 's care should be jailed . Again , just my personal opinion . Thankfully , this is one of the things", None, None, None, 0), ('that really is changing for the better .', None, None, None, 1), ('There are fewer and fewer working animals', None, None, None, 0), ('as time goes by .', None, None, None, 1)]

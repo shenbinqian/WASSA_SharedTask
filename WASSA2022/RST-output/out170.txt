@@ -1,0 +1,19 @@
+=====================> [[('She lost my sympathy really quick .', None, None, None, 1), ('Seems like she likes attention .', None, None, None, 1), ('This does make me look at Paris differently .', None, None, None, 1), ('These all seem like inside jobs .', None, None, None, 1), ('I would be safe there .', None, None, None, 1), ("But , I still do n't plan on visiting . Not a fan of people", None, None, None, 0), ('endorsing candidates in countries', None, None, None, 0), ('that they can not vote .', None, None, None, 1), ('Seems like an ego thing .', None, None, None, 1)]]
+Leaf:  N Elaborate She lost my sympathy really quick .
+Leaf:  N Evaluation Seems like she likes attention .
+Leaf:  N Evaluation This does make me look at Paris differently .
+Leaf:  N Evaluation These all seem like inside jobs .
+Leaf:  S span I would be safe there .
+Leaf:  N Elaborate But , I still do n't plan on visiting . Not a fan of people
+Leaf:  N Elaborate endorsing candidates in countries
+Leaf:  S span that they can not vote .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Seems like an ego thing .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('She lost my sympathy really quick .', None, None, None, 1), ('Seems like she likes attention .', None, None, None, 1), ('This does make me look at Paris differently .', None, None, None, 1), ('These all seem like inside jobs .', None, None, None, 1), ('I would be safe there .', None, None, None, 1), ("But , I still do n't plan on visiting . Not a fan of people", None, None, None, 0), ('endorsing candidates in countries', None, None, None, 0), ('that they can not vote .', None, None, None, 1), ('Seems like an ego thing .', None, None, None, 1)]

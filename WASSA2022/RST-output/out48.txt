@@ -1,0 +1,23 @@
+=====================> [[("That 's incredibly disgusting .", None, None, None, 1), ('I feel', None, None, None, 0), ('like it should count as a hate crime ,', None, None, None, 0), ('and everyone on that boat', None, None, None, 0), ('who had anything', None, None, None, 0), ('to do with that incident', None, None, None, 0), ('should be brought before a judge', None, None, None, 0), ('and made to answer for their involvement .', None, None, None, 1), ('I really hope', None, None, None, 0), ('the LGBT community organizes some kind of boycott ;', None, None, None, 0), ('Royal Caribbean should be made to feel financial pain for their negligence', None, None, None, 0)]]
+Leaf:  N Evaluation That 's incredibly disgusting .
+Leaf:  S span I feel
+Leaf:  N Attribution like it should count as a hate crime ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate and everyone on that boat
+Leaf:  N Elaborate who had anything
+Leaf:  S span to do with that incident
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint should be brought before a judge
+Leaf:  N Joint and made to answer for their involvement .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I really hope
+Leaf:  N Attribution the LGBT community organizes some kind of boycott ;
+Inner:  N Cause None Attribution SN
+Leaf:  S span Royal Caribbean should be made to feel financial pain for their negligence
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("That 's incredibly disgusting .", None, None, None, 1), ('I feel', None, None, None, 0), ('like it should count as a hate crime ,', None, None, None, 0), ('and everyone on that boat', None, None, None, 0), ('who had anything', None, None, None, 0), ('to do with that incident', None, None, None, 0), ('should be brought before a judge', None, None, None, 0), ('and made to answer for their involvement .', None, None, None, 1), ('I really hope', None, None, None, 0), ('the LGBT community organizes some kind of boycott ;', None, None, None, 0), ('Royal Caribbean should be made to feel financial pain for their negligence', None, None, None, 0)]

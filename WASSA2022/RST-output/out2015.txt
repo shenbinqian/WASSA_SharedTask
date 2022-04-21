@@ -1,0 +1,19 @@
+=====================> [[('I hate', None, None, None, 0), ('that refugees can flee from one crisis', None, None, None, 0), ('and find themselves in another one .', None, None, None, 1), ('It sounds like this is a good thing', None, None, None, 0), ('to close ,', None, None, None, 0), ('but I worry', None, None, None, 0), ('what will happen to those poor people next .', None, None, None, 1), ('It sounds like there was a lot of oversight and a lot of people with good intentions but bad execution .', None, None, None, 1), ("I hope there 's some hope for refugees all over the world .", None, None, None, 1)]]
+Leaf:  S span I hate
+Leaf:  N Temporal that refugees can flee from one crisis
+Leaf:  N Temporal and find themselves in another one .
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It sounds like this is a good thing
+Leaf:  S span to close ,
+Inner:  S span None Elaborate NS
+Leaf:  S span but I worry
+Leaf:  N Attribution what will happen to those poor people next .
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation It sounds like there was a lot of oversight and a lot of people with good intentions but bad execution .
+Leaf:  S span I hope there 's some hope for refugees all over the world .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I hate', None, None, None, 0), ('that refugees can flee from one crisis', None, None, None, 0), ('and find themselves in another one .', None, None, None, 1), ('It sounds like this is a good thing', None, None, None, 0), ('to close ,', None, None, None, 0), ('but I worry', None, None, None, 0), ('what will happen to those poor people next .', None, None, None, 1), ('It sounds like there was a lot of oversight and a lot of people with good intentions but bad execution .', None, None, None, 1), ("I hope there 's some hope for refugees all over the world .", None, None, None, 1)]

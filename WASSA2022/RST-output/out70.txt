@@ -1,0 +1,25 @@
+=====================> [[('Poor woman !', None, None, None, 1), ('I hope', None, None, None, 0), ('that she is able to recover .', None, None, None, 1), ('I hate to hear of anyone being in an accident .', None, None, None, 1), ('I see', None, None, None, 0), ('that there were three cars involved .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if she was the other one critically injured .', None, None, None, 1), ('I guess', None, None, None, 0), ('if there were were at least three people involved', None, None, None, 0), ('and only one was seriously injured ,', None, None, None, 0), ("those are n't the worst odds .", None, None, None, 1)]]
+Leaf:  N Elaborate Poor woman !
+Leaf:  S span I hope
+Leaf:  N Attribution that she is able to recover .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I hate to hear of anyone being in an accident .
+Leaf:  S span I see
+Leaf:  N Attribution that there were three cars involved .
+Inner:  N Cause None Attribution SN
+Leaf:  S span I wonder
+Leaf:  N Attribution if she was the other one critically injured .
+Inner:  N Cause None Attribution SN
+Inner:  N Evaluation None Cause NN
+Leaf:  S span I guess
+Leaf:  N Joint if there were were at least three people involved
+Leaf:  N Joint and only one was seriously injured ,
+Inner:  S span None Joint NN
+Leaf:  N Condition those are n't the worst odds .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Poor woman !', None, None, None, 1), ('I hope', None, None, None, 0), ('that she is able to recover .', None, None, None, 1), ('I hate to hear of anyone being in an accident .', None, None, None, 1), ('I see', None, None, None, 0), ('that there were three cars involved .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if she was the other one critically injured .', None, None, None, 1), ('I guess', None, None, None, 0), ('if there were were at least three people involved', None, None, None, 0), ('and only one was seriously injured ,', None, None, None, 0), ("those are n't the worst odds .", None, None, None, 1)]

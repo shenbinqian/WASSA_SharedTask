@@ -1,0 +1,27 @@
+=====================> [[('See ?', None, None, None, 1), ('This is why sometimes I rather ignore the news .', None, None, None, 1), ('Shootings over there , people dead over here , drugs , etc .', None, None, None, 1), ('It makes me sick the kind of world', None, None, None, 0), ('we live in .', None, None, None, 1), ('Hundreds of deaths', None, None, None, 0), ('just because they thought', None, None, None, 0), ('these people were related to drug dealing ?', None, None, None, 1), ('I mean , did they even had some kind of proof ?', None, None, None, 1), ('Why shoot to kill ?', None, None, None, 1), ('Why not stick to the laws', None, None, None, 0), ('and put them in jail', None, None, None, 0), ('if they were found guilty ?', None, None, None, 1)]]
+Leaf:  N Evaluation See ?
+Leaf:  N Elaborate This is why sometimes I rather ignore the news .
+Leaf:  N Explanation Shootings over there , people dead over here , drugs , etc .
+Leaf:  N Elaborate It makes me sick the kind of world
+Leaf:  S span we live in .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause Hundreds of deaths
+Leaf:  S span just because they thought
+Leaf:  N Attribution these people were related to drug dealing ?
+Inner:  S span None Attribution SN
+Inner:  N Summary None Cause NS
+Leaf:  N Joint I mean , did they even had some kind of proof ?
+Leaf:  N Joint Why shoot to kill ?
+Leaf:  N Joint Why not stick to the laws
+Leaf:  N Joint and put them in jail
+Inner:  N Condition None Joint NN
+Leaf:  S span if they were found guilty ?
+Inner:  N Joint None Condition NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('See ?', None, None, None, 1), ('This is why sometimes I rather ignore the news .', None, None, None, 1), ('Shootings over there , people dead over here , drugs , etc .', None, None, None, 1), ('It makes me sick the kind of world', None, None, None, 0), ('we live in .', None, None, None, 1), ('Hundreds of deaths', None, None, None, 0), ('just because they thought', None, None, None, 0), ('these people were related to drug dealing ?', None, None, None, 1), ('I mean , did they even had some kind of proof ?', None, None, None, 1), ('Why shoot to kill ?', None, None, None, 1), ('Why not stick to the laws', None, None, None, 0), ('and put them in jail', None, None, None, 0), ('if they were found guilty ?', None, None, None, 1)]

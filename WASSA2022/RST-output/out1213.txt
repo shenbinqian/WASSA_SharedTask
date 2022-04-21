@@ -1,0 +1,19 @@
+=====================> [[('I read an article about this man', None, None, None, 0), ('who contracted a flesh-eating bacteria', None, None, None, 0), ('and almost died from it ,', None, None, None, 0), ("unfortunately it did n't tell me", None, None, None, 0), ('where or how he contracted the flesh eating bacteria .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('I would know in time', None, None, None, 0), ('that I had a flesh eating bacteria , scary right !?!', None, None, None, 1), ('Have you ever known anyone or heard of anyone Contracting a flesh eating bacteria ?', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about this man
+Leaf:  N Cause who contracted a flesh-eating bacteria
+Leaf:  S span and almost died from it ,
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span unfortunately it did n't tell me
+Leaf:  N Attribution where or how he contracted the flesh eating bacteria .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm not sure
+Leaf:  S span I would know in time
+Leaf:  N Attribution that I had a flesh eating bacteria , scary right !?!
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Have you ever known anyone or heard of anyone Contracting a flesh eating bacteria ?
+Inner:  Root None None Evaluation NS
+[('I read an article about this man', None, None, None, 0), ('who contracted a flesh-eating bacteria', None, None, None, 0), ('and almost died from it ,', None, None, None, 0), ("unfortunately it did n't tell me", None, None, None, 0), ('where or how he contracted the flesh eating bacteria .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('I would know in time', None, None, None, 0), ('that I had a flesh eating bacteria , scary right !?!', None, None, None, 1), ('Have you ever known anyone or heard of anyone Contracting a flesh eating bacteria ?', None, None, None, 1)]

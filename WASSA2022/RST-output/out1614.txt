@@ -1,0 +1,19 @@
+=====================> [[("It 's terrifying to think", None, None, None, 0), ('that suicide is becoming more common in younger and younger children .', None, None, None, 1), ('I can believe', None, None, None, 0), ('that it happens with teenagers ,', None, None, None, 0), ("but it 's starting to become more common in children and preteens too .", None, None, None, 1), ("I ca n't imagine the anguish", None, None, None, 0), ('you would feel', None, None, None, 0), ('to lose a young child to suicide .', None, None, None, 1), ("I ca n't imagine how you would move on from that .", None, None, None, 1)]]
+Leaf:  S span It 's terrifying to think
+Leaf:  N Attribution that suicide is becoming more common in younger and younger children .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I can believe
+Leaf:  N Attribution that it happens with teenagers ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it 's starting to become more common in children and preteens too .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I ca n't imagine the anguish
+Leaf:  N Elaborate you would feel
+Leaf:  S span to lose a young child to suicide .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint I ca n't imagine how you would move on from that .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("It 's terrifying to think", None, None, None, 0), ('that suicide is becoming more common in younger and younger children .', None, None, None, 1), ('I can believe', None, None, None, 0), ('that it happens with teenagers ,', None, None, None, 0), ("but it 's starting to become more common in children and preteens too .", None, None, None, 1), ("I ca n't imagine the anguish", None, None, None, 0), ('you would feel', None, None, None, 0), ('to lose a young child to suicide .', None, None, None, 1), ("I ca n't imagine how you would move on from that .", None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[("It 's a shame that there are so many refugees in the world", None, None, None, 0), ('but when does it stop becoming my responsibility .', None, None, None, 1), ('I understand', None, None, None, 0), ('that conditions around the world are not ideal for everyone . However ,', None, None, None, 0), ('if we just let everyone start coming here', None, None, None, 0), ('who has a problem in the world', None, None, None, 0), ('we begin to lose a sense', None, None, None, 0), ('of who we are', None, None, None, 0), ('and what made us have the country', None, None, None, 0), ('that is stable .', None, None, None, 1), ("I do n't want to sacrifice my nation completely over the fact", None, None, None, 0), ("that I 'm sorry", None, None, None, 0), ('the place', None, None, None, 0), ('you live', None, None, None, 0), ('sucks', None, None, None, 0), ('and is run by morons .', None, None, None, 1)]]
+Leaf:  N Contrast It 's a shame that there are so many refugees in the world
+Leaf:  S span but when does it stop becoming my responsibility .
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span I understand
+Leaf:  N Attribution that conditions around the world are not ideal for everyone . However ,
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Elaborate if we just let everyone start coming here
+Leaf:  S span who has a problem in the world
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate we begin to lose a sense
+Leaf:  N Joint of who we are
+Leaf:  N Elaborate and what made us have the country
+Leaf:  S span that is stable .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Condition None Elaborate NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate I do n't want to sacrifice my nation completely over the fact
+Leaf:  S span that I 'm sorry
+Leaf:  N Elaborate the place
+Leaf:  S span you live
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint sucks
+Leaf:  N Joint and is run by morons .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("It 's a shame that there are so many refugees in the world", None, None, None, 0), ('but when does it stop becoming my responsibility .', None, None, None, 1), ('I understand', None, None, None, 0), ('that conditions around the world are not ideal for everyone . However ,', None, None, None, 0), ('if we just let everyone start coming here', None, None, None, 0), ('who has a problem in the world', None, None, None, 0), ('we begin to lose a sense', None, None, None, 0), ('of who we are', None, None, None, 0), ('and what made us have the country', None, None, None, 0), ('that is stable .', None, None, None, 1), ("I do n't want to sacrifice my nation completely over the fact", None, None, None, 0), ("that I 'm sorry", None, None, None, 0), ('the place', None, None, None, 0), ('you live', None, None, None, 0), ('sucks', None, None, None, 0), ('and is run by morons .', None, None, None, 1)]

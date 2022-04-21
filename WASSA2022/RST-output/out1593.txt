@@ -1,0 +1,29 @@
+=====================> [[('Hey check this out ,', None, None, None, 0), ('you are a big Leonard Cohen fan', None, None, None, 0), ('right ?', None, None, None, 1), ('This is sad ,', None, None, None, 0), ('but this is life .', None, None, None, 1), ('I often think about the deaths of old people ,', None, None, None, 0), ('should we be sad ?', None, None, None, 1), ('should we celebrate their life ?', None, None, None, 1), ('What is the appropriate emotion', None, None, None, 0), ('to experience at this point .', None, None, None, 1), ('I know', None, None, None, 0), ('I was sad', None, None, None, 0), ('when my two grand fathers died ,', None, None, None, 0), ('but that is personal .', None, None, None, 1)]]
+Leaf:  N Evaluation Hey check this out ,
+Leaf:  S span you are a big Leonard Cohen fan
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span right ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation This is sad ,
+Leaf:  S span but this is life .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  S span I often think about the deaths of old people ,
+Leaf:  N Joint should we be sad ?
+Leaf:  N Joint should we celebrate their life ?
+Leaf:  N Elaborate What is the appropriate emotion
+Leaf:  S span to experience at this point .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Background None Joint NN
+Inner:  N Elaborate None Background SN
+Leaf:  S span I know
+Leaf:  N Background I was sad
+Leaf:  S span when my two grand fathers died ,
+Inner:  N Contrast None Background NS
+Leaf:  S span but that is personal .
+Inner:  N Attribution None Contrast NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('Hey check this out ,', None, None, None, 0), ('you are a big Leonard Cohen fan', None, None, None, 0), ('right ?', None, None, None, 1), ('This is sad ,', None, None, None, 0), ('but this is life .', None, None, None, 1), ('I often think about the deaths of old people ,', None, None, None, 0), ('should we be sad ?', None, None, None, 1), ('should we celebrate their life ?', None, None, None, 1), ('What is the appropriate emotion', None, None, None, 0), ('to experience at this point .', None, None, None, 1), ('I know', None, None, None, 0), ('I was sad', None, None, None, 0), ('when my two grand fathers died ,', None, None, None, 0), ('but that is personal .', None, None, None, 1)]

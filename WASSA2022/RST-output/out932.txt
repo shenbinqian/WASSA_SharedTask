@@ -1,0 +1,23 @@
+=====================> [[('Ugh .', None, None, None, 1), ("That 's rough .", None, None, None, 1), ('I feel so bad for that little girl', None, None, None, 0), ('and she deserves to live in a world', None, None, None, 0), ('where justice is made ,', None, None, None, 0), ('but that eye-for-an-eye type justice is so medieval .', None, None, None, 1), ('The guy obviously deserves a very harsh punishment ,', None, None, None, 0), ('but this is barbaric .', None, None, None, 1), ('This is the difference between revenge and justice .', None, None, None, 1), ('A 20-year prison sentence makes so much more sense', None, None, None, 0), ('than blinding .', None, None, None, 1)]]
+Leaf:  N Evaluation Ugh .
+Leaf:  S span That 's rough .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I feel so bad for that little girl
+Leaf:  N Elaborate and she deserves to live in a world
+Leaf:  S span where justice is made ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Contrast but that eye-for-an-eye type justice is so medieval .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Contrast The guy obviously deserves a very harsh punishment ,
+Leaf:  N Contrast but this is barbaric .
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span This is the difference between revenge and justice .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Comparison A 20-year prison sentence makes so much more sense
+Leaf:  N Comparison than blinding .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Ugh .', None, None, None, 1), ("That 's rough .", None, None, None, 1), ('I feel so bad for that little girl', None, None, None, 0), ('and she deserves to live in a world', None, None, None, 0), ('where justice is made ,', None, None, None, 0), ('but that eye-for-an-eye type justice is so medieval .', None, None, None, 1), ('The guy obviously deserves a very harsh punishment ,', None, None, None, 0), ('but this is barbaric .', None, None, None, 1), ('This is the difference between revenge and justice .', None, None, None, 1), ('A 20-year prison sentence makes so much more sense', None, None, None, 0), ('than blinding .', None, None, None, 1)]

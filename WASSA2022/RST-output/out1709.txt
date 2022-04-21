@@ -1,0 +1,19 @@
+=====================> [[('The war in Syria is one', None, None, None, 0), ('in which the US needs to get out of .', None, None, None, 1), ('We have no reason to be involved there ,', None, None, None, 0), ('and staying involved will just risk the war expanding', None, None, None, 0), ('and making the region worse off .', None, None, None, 1), ('We need to get out , like , yesterday .', None, None, None, 1), ('Also , we are wasting billions on this', None, None, None, 0), ('that could be used for universal healthcare', None, None, None, 0), ('and increasing the minimum wage .', None, None, None, 1)]]
+Leaf:  N Elaborate The war in Syria is one
+Leaf:  S span in which the US needs to get out of .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint We have no reason to be involved there ,
+Leaf:  N Joint and staying involved will just risk the war expanding
+Leaf:  N Joint and making the region worse off .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span We need to get out , like , yesterday .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Also , we are wasting billions on this
+Leaf:  N Joint that could be used for universal healthcare
+Leaf:  N Joint and increasing the minimum wage .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The war in Syria is one', None, None, None, 0), ('in which the US needs to get out of .', None, None, None, 1), ('We have no reason to be involved there ,', None, None, None, 0), ('and staying involved will just risk the war expanding', None, None, None, 0), ('and making the region worse off .', None, None, None, 1), ('We need to get out , like , yesterday .', None, None, None, 1), ('Also , we are wasting billions on this', None, None, None, 0), ('that could be used for universal healthcare', None, None, None, 0), ('and increasing the minimum wage .', None, None, None, 1)]

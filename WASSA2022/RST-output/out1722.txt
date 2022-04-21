@@ -1,0 +1,21 @@
+=====================> [[('A mother pushed a stroller onto an elevator', None, None, None, 0), ('that was not there .', None, None, None, 1), ('The baby dies of injuries', None, None, None, 0), ('and the mother was hurt .', None, None, None, 1), ('The building had over 100 elevator violations', None, None, None, 0), ('but did not stay on top of things', None, None, None, 0), ('to make sure', None, None, None, 0), ('the elevators were working properly .', None, None, None, 1), ('The building neglience caused an infants death .', None, None, None, 1), ('I cant imagine going through something like that , that poor mother .', None, None, None, 1)]]
+Leaf:  N Elaborate A mother pushed a stroller onto an elevator
+Leaf:  S span that was not there .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The baby dies of injuries
+Leaf:  S span and the mother was hurt .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The building had over 100 elevator violations
+Leaf:  N Enablement but did not stay on top of things
+Leaf:  S span to make sure
+Leaf:  N Attribution the elevators were working properly .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Enablement NS
+Inner:  N Cause None Contrast NN
+Leaf:  S span The building neglience caused an infants death .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I cant imagine going through something like that , that poor mother .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('A mother pushed a stroller onto an elevator', None, None, None, 0), ('that was not there .', None, None, None, 1), ('The baby dies of injuries', None, None, None, 0), ('and the mother was hurt .', None, None, None, 1), ('The building had over 100 elevator violations', None, None, None, 0), ('but did not stay on top of things', None, None, None, 0), ('to make sure', None, None, None, 0), ('the elevators were working properly .', None, None, None, 1), ('The building neglience caused an infants death .', None, None, None, 1), ('I cant imagine going through something like that , that poor mother .', None, None, None, 1)]

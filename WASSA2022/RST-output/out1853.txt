@@ -1,0 +1,33 @@
+=====================> [[('I can sympathize', None, None, None, 0), ('with what these parents must be feeling .', None, None, None, 1), ('Not because I have raised a pre-teen ,', None, None, None, 0), ('but because I can vividly remember that time in my life .', None, None, None, 1), ('Middle school is hard , ugly , and scary .', None, None, None, 1), ('I remember', None, None, None, 0), ('being bullied by girls', None, None, None, 0), ('that I idolized .', None, None, None, 1), ('I was fortunate to have a mother', None, None, None, 0), ('who was very caring and easy to talk to .', None, None, None, 1), ('She sympathized with me', None, None, None, 0), ('without making me feel like a small child', None, None, None, 0), ('who needed my parents to win my battles for me .', None, None, None, 1), ('She would say', None, None, None, 0), ('" That \'s awful , honey .', None, None, None, 1), ('Now , what are you going to do about it ? "', None, None, None, 0)]]
+Leaf:  S span I can sympathize
+Leaf:  N Attribution with what these parents must be feeling .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Not because I have raised a pre-teen ,
+Leaf:  N Joint but because I can vividly remember that time in my life .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Middle school is hard , ugly , and scary .
+Leaf:  N Elaborate I remember
+Leaf:  N Elaborate being bullied by girls
+Leaf:  S span that I idolized .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I was fortunate to have a mother
+Leaf:  S span who was very caring and easy to talk to .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast She sympathized with me
+Leaf:  N Elaborate without making me feel like a small child
+Leaf:  S span who needed my parents to win my battles for me .
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She would say
+Leaf:  N Condition " That 's awful , honey .
+Leaf:  N Condition Now , what are you going to do about it ? "
+Inner:  N Attribution None Condition NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I can sympathize', None, None, None, 0), ('with what these parents must be feeling .', None, None, None, 1), ('Not because I have raised a pre-teen ,', None, None, None, 0), ('but because I can vividly remember that time in my life .', None, None, None, 1), ('Middle school is hard , ugly , and scary .', None, None, None, 1), ('I remember', None, None, None, 0), ('being bullied by girls', None, None, None, 0), ('that I idolized .', None, None, None, 1), ('I was fortunate to have a mother', None, None, None, 0), ('who was very caring and easy to talk to .', None, None, None, 1), ('She sympathized with me', None, None, None, 0), ('without making me feel like a small child', None, None, None, 0), ('who needed my parents to win my battles for me .', None, None, None, 1), ('She would say', None, None, None, 0), ('" That \'s awful , honey .', None, None, None, 1), ('Now , what are you going to do about it ? "', None, None, None, 0)]

@@ -1,0 +1,17 @@
+=====================> [[('This is such a sad situation for both the people and the elephants', None, None, None, 0), ('affected by all the coal mining .', None, None, None, 1), ('The world really needs to move forward', None, None, None, 0), ('to try to replace using coal as a means of energy ,', None, None, None, 0), ('and replace it with something', None, None, None, 0), ('that is less harmful to humans , animals and the environment .', None, None, None, 1), ("It 's not fair , especially to the animals ,", None, None, None, 0), ("since they do n't really benefit from the coal mining .", None, None, None, 1)]]
+Leaf:  N Elaborate This is such a sad situation for both the people and the elephants
+Leaf:  S span affected by all the coal mining .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Enablement The world really needs to move forward
+Leaf:  N Joint to try to replace using coal as a means of energy ,
+Leaf:  N Elaborate and replace it with something
+Leaf:  S span that is less harmful to humans , animals and the environment .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Explanation It 's not fair , especially to the animals ,
+Leaf:  S span since they do n't really benefit from the coal mining .
+Inner:  S span None Explanation NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('This is such a sad situation for both the people and the elephants', None, None, None, 0), ('affected by all the coal mining .', None, None, None, 1), ('The world really needs to move forward', None, None, None, 0), ('to try to replace using coal as a means of energy ,', None, None, None, 0), ('and replace it with something', None, None, None, 0), ('that is less harmful to humans , animals and the environment .', None, None, None, 1), ("It 's not fair , especially to the animals ,", None, None, None, 0), ("since they do n't really benefit from the coal mining .", None, None, None, 1)]

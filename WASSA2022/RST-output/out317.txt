@@ -1,0 +1,23 @@
+=====================> [[("Hello friend , It 's sad that thousands of hectares of tropical forests in Latin America have been changed from their natural habitat", None, None, None, 0), ('to grow bananas .', None, None, None, 1), ('The rise of different types of diseases', None, None, None, 0), ('that focus on banana tress', None, None, None, 0), ('is alarming .', None, None, None, 1), ('I hope', None, None, None, 0), ('we can find a cure for these diseases', None, None, None, 0), ("before it 's too late .", None, None, None, 1), ('I did not realize', None, None, None, 0), ('bananas were a genetic accident .', None, None, None, 1), ('Lucky for us !', None, None, None, 1)]]
+Leaf:  N Elaborate Hello friend , It 's sad that thousands of hectares of tropical forests in Latin America have been changed from their natural habitat
+Leaf:  S span to grow bananas .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The rise of different types of diseases
+Leaf:  S span that focus on banana tress
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is alarming .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I hope
+Leaf:  N Temporal we can find a cure for these diseases
+Leaf:  S span before it 's too late .
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Background None Elaborate NS
+Leaf:  S span I did not realize
+Leaf:  N Attribution bananas were a genetic accident .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Background NS
+Leaf:  S span Lucky for us !
+Inner:  Root None None Evaluation NS
+[("Hello friend , It 's sad that thousands of hectares of tropical forests in Latin America have been changed from their natural habitat", None, None, None, 0), ('to grow bananas .', None, None, None, 1), ('The rise of different types of diseases', None, None, None, 0), ('that focus on banana tress', None, None, None, 0), ('is alarming .', None, None, None, 1), ('I hope', None, None, None, 0), ('we can find a cure for these diseases', None, None, None, 0), ("before it 's too late .", None, None, None, 1), ('I did not realize', None, None, None, 0), ('bananas were a genetic accident .', None, None, None, 1), ('Lucky for us !', None, None, None, 1)]

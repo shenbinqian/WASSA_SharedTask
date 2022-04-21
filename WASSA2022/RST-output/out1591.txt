@@ -1,0 +1,19 @@
+=====================> [[('You should check out this article .', None, None, None, 1), ('As I was reading', None, None, None, 0), ('I was happy', None, None, None, 0), ('that the injuries were not worse', None, None, None, 0), ('tha n they were .', None, None, None, 1), ('Could you imagine being in any sort of situation like this ?', None, None, None, 1), ('It makes me feel bad for people with children ,', None, None, None, 0), ('could you imagine letting you r children leave every day', None, None, None, 0), ('and not knowing what could happen to them ?', None, None, None, 1)]]
+Leaf:  N Elaborate You should check out this article .
+Leaf:  S span As I was reading
+Leaf:  S span I was happy
+Leaf:  N Evaluation that the injuries were not worse
+Leaf:  S span tha n they were .
+Inner:  N Attribution None Evaluation NS
+Inner:  N Temporal None Attribution SN
+Inner:  N Evaluation None Temporal SN
+Leaf:  N Evaluation Could you imagine being in any sort of situation like this ?
+Leaf:  N Evaluation It makes me feel bad for people with children ,
+Leaf:  N Temporal could you imagine letting you r children leave every day
+Leaf:  S span and not knowing what could happen to them ?
+Inner:  S span None Temporal NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('You should check out this article .', None, None, None, 1), ('As I was reading', None, None, None, 0), ('I was happy', None, None, None, 0), ('that the injuries were not worse', None, None, None, 0), ('tha n they were .', None, None, None, 1), ('Could you imagine being in any sort of situation like this ?', None, None, None, 1), ('It makes me feel bad for people with children ,', None, None, None, 0), ('could you imagine letting you r children leave every day', None, None, None, 0), ('and not knowing what could happen to them ?', None, None, None, 1)]

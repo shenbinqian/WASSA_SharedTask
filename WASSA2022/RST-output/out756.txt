@@ -1,0 +1,33 @@
+=====================> [[('Hey D , I read this article about this boy', None, None, None, 0), ('who was abused', None, None, None, 0), ('and went through stuff with his family .', None, None, None, 1), ('I feel', None, None, None, 0), ('like I can really relate to him ,', None, None, None, 0), ('having a mother', None, None, None, 0), ('who had their own addictions .', None, None, None, 1), ('I always knew', None, None, None, 0), ('people like him always come out on top', None, None, None, 0), ('because he went through so much', None, None, None, 0), ('to get the success', None, None, None, 0), ('that he is having today .', None, None, None, 1), ('I wanted to show this to you', None, None, None, 0), ("so that you do n't give up either ,", None, None, None, 0), ('no matter how hard the circumstances are .', None, None, None, 1), ('Love , A.', None, None, None, 1)]]
+Leaf:  N Elaborate Hey D , I read this article about this boy
+Leaf:  N Joint who was abused
+Leaf:  N Joint and went through stuff with his family .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I feel
+Leaf:  N Attribution like I can really relate to him ,
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate having a mother
+Leaf:  S span who had their own addictions .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I always knew
+Leaf:  N Attribution people like him always come out on top
+Inner:  N Explanation None Attribution SN
+Leaf:  N Enablement because he went through so much
+Leaf:  N Elaborate to get the success
+Leaf:  S span that he is having today .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement I wanted to show this to you
+Leaf:  N Contrast so that you do n't give up either ,
+Leaf:  S span no matter how hard the circumstances are .
+Inner:  S span None Contrast NS
+Inner:  S span None Enablement NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Textual-Organization Love , A.
+Inner:  Root None None Textual-Organization NN
+[('Hey D , I read this article about this boy', None, None, None, 0), ('who was abused', None, None, None, 0), ('and went through stuff with his family .', None, None, None, 1), ('I feel', None, None, None, 0), ('like I can really relate to him ,', None, None, None, 0), ('having a mother', None, None, None, 0), ('who had their own addictions .', None, None, None, 1), ('I always knew', None, None, None, 0), ('people like him always come out on top', None, None, None, 0), ('because he went through so much', None, None, None, 0), ('to get the success', None, None, None, 0), ('that he is having today .', None, None, None, 1), ('I wanted to show this to you', None, None, None, 0), ("so that you do n't give up either ,", None, None, None, 0), ('no matter how hard the circumstances are .', None, None, None, 1), ('Love , A.', None, None, None, 1)]

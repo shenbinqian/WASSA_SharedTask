@@ -1,0 +1,25 @@
+=====================> [[('If you are wearing contacts', None, None, None, 0), ('for your vision', None, None, None, 0), ('to improve', None, None, None, 0), ('then you should be sure to take them out', None, None, None, 0), ('when sleeping .', None, None, None, 1), ('You can get some bacteria in your eye', None, None, None, 0), ('that will accumulate', None, None, None, 0), ('and might cause problems', None, None, None, 0), ('if you do not do this .', None, None, None, 1), ('I forgot', None, None, None, 0), ('what the thing was called', None, None, None, 0), ('but it might even cause the contact user to become blinded .', None, None, None, 1)]]
+Leaf:  N Enablement If you are wearing contacts
+Leaf:  N Enablement for your vision
+Leaf:  S span to improve
+Inner:  S span None Enablement NS
+Inner:  S span None Enablement NS
+Leaf:  N Temporal then you should be sure to take them out
+Leaf:  S span when sleeping .
+Inner:  N Condition None Temporal NS
+Inner:  N Explanation None Condition SN
+Leaf:  N Elaborate You can get some bacteria in your eye
+Leaf:  N Joint that will accumulate
+Leaf:  N Joint and might cause problems
+Inner:  N Condition None Joint NN
+Leaf:  S span if you do not do this .
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I forgot
+Leaf:  N Attribution what the thing was called
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it might even cause the contact user to become blinded .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('If you are wearing contacts', None, None, None, 0), ('for your vision', None, None, None, 0), ('to improve', None, None, None, 0), ('then you should be sure to take them out', None, None, None, 0), ('when sleeping .', None, None, None, 1), ('You can get some bacteria in your eye', None, None, None, 0), ('that will accumulate', None, None, None, 0), ('and might cause problems', None, None, None, 0), ('if you do not do this .', None, None, None, 1), ('I forgot', None, None, None, 0), ('what the thing was called', None, None, None, 0), ('but it might even cause the contact user to become blinded .', None, None, None, 1)]

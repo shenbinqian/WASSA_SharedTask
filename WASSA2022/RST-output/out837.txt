@@ -1,0 +1,33 @@
+=====================> [[('Why were 43 students highjacking buses ?', None, None, None, 1), ("That was n't taught in my school .", None, None, None, 1), ('Bus high-jacking 101 . They seriously failed .', None, None, None, 1), ('I am rather doubting', None, None, None, 0), ('that is true though .', None, None, None, 1), ('If the police are willing to give " criminals " over to the drug cartels ,', None, None, None, 0), ("I 'm pretty sure they are n't above lying about it . One of my coworkers has n't visited her family", None, None, None, 0), ('in years', None, None, None, 0), ('because their state has become so crime ridden', None, None, None, 0), ("they wo n't let her come home .", None, None, None, 1), ('They say', None, None, None, 0), ("it is n't safe for her . How stupid sad is that ? And God forbid they try to come here", None, None, None, 0), ('to escape that mess .', None, None, None, 1), ('Right wing crazies do not have any compassion for people', None, None, None, 0), ('just trying to live ,', None, None, None, 0), ('it seems .', None, None, None, 1)]]
+Leaf:  N Elaborate Why were 43 students highjacking buses ?
+Leaf:  S span That was n't taught in my school .
+Inner:  N Joint None Elaborate NS
+Leaf:  S span Bus high-jacking 101 . They seriously failed .
+Leaf:  S span I am rather doubting
+Leaf:  N Attribution that is true though .
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span If the police are willing to give " criminals " over to the drug cartels ,
+Leaf:  N Temporal I 'm pretty sure they are n't above lying about it . One of my coworkers has n't visited her family
+Leaf:  S span in years
+Inner:  N Explanation None Temporal NS
+Leaf:  N Cause because their state has become so crime ridden
+Leaf:  N Cause they wo n't let her come home .
+Inner:  S span None Cause NN
+Inner:  N Explanation None Explanation NS
+Leaf:  S span They say
+Leaf:  N Enablement it is n't safe for her . How stupid sad is that ? And God forbid they try to come here
+Leaf:  S span to escape that mess .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Condition None Explanation NS
+Inner:  N Explanation None Condition SN
+Leaf:  N Elaborate Right wing crazies do not have any compassion for people
+Leaf:  S span just trying to live ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span it seems .
+Inner:  S span None Attribution NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Why were 43 students highjacking buses ?', None, None, None, 1), ("That was n't taught in my school .", None, None, None, 1), ('Bus high-jacking 101 . They seriously failed .', None, None, None, 1), ('I am rather doubting', None, None, None, 0), ('that is true though .', None, None, None, 1), ('If the police are willing to give " criminals " over to the drug cartels ,', None, None, None, 0), ("I 'm pretty sure they are n't above lying about it . One of my coworkers has n't visited her family", None, None, None, 0), ('in years', None, None, None, 0), ('because their state has become so crime ridden', None, None, None, 0), ("they wo n't let her come home .", None, None, None, 1), ('They say', None, None, None, 0), ("it is n't safe for her . How stupid sad is that ? And God forbid they try to come here", None, None, None, 0), ('to escape that mess .', None, None, None, 1), ('Right wing crazies do not have any compassion for people', None, None, None, 0), ('just trying to live ,', None, None, None, 0), ('it seems .', None, None, None, 1)]

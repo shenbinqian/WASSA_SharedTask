@@ -1,0 +1,31 @@
+=====================> [[('Not a surprise to see the United States falling further down in the global rankings in yet another category .', None, None, None, 1), ('I think', None, None, None, 0), ('by the time', None, None, None, 0), ('our next Presidential election comes around', None, None, None, 0), ('we will be no longer be considered a destination country but anyone in the know .', None, None, None, 1), ("I do n't see", None, None, None, 0), ("why this particular stat is n't a matter of culture though . I have n't met many women", None, None, None, 0), ('who expressed an interest in STEM', None, None, None, 0), ("and most of them did n't even want to talk to people", None, None, None, 0), ('who were into it', None, None, None, 0), ('when I was in college .', None, None, None, 1), ('Now women might be more interested', None, None, None, 0), ("but it still is n't going to be anything", None, None, None, 0), ('approaching equal', None, None, None, 0), ("because the culture does n't work that way .", None, None, None, 1)]]
+Leaf:  N Elaborate Not a surprise to see the United States falling further down in the global rankings in yet another category .
+Leaf:  S span I think
+Leaf:  N Elaborate by the time
+Leaf:  S span our next Presidential election comes around
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit we will be no longer be considered a destination country but anyone in the know .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't see
+Leaf:  N Elaborate why this particular stat is n't a matter of culture though . I have n't met many women
+Leaf:  S span who expressed an interest in STEM
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and most of them did n't even want to talk to people
+Leaf:  S span who were into it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit when I was in college .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Attribution None Joint NN
+Inner:  N Comparison None Attribution SN
+Leaf:  N Contrast Now women might be more interested
+Leaf:  N Elaborate but it still is n't going to be anything
+Leaf:  S span approaching equal
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because the culture does n't work that way .
+Inner:  N Contrast None Explanation NS
+Inner:  N Comparison None Contrast NN
+Inner:  S span None Comparison NN
+Inner:  Root None None Elaborate NS
+[('Not a surprise to see the United States falling further down in the global rankings in yet another category .', None, None, None, 1), ('I think', None, None, None, 0), ('by the time', None, None, None, 0), ('our next Presidential election comes around', None, None, None, 0), ('we will be no longer be considered a destination country but anyone in the know .', None, None, None, 1), ("I do n't see", None, None, None, 0), ("why this particular stat is n't a matter of culture though . I have n't met many women", None, None, None, 0), ('who expressed an interest in STEM', None, None, None, 0), ("and most of them did n't even want to talk to people", None, None, None, 0), ('who were into it', None, None, None, 0), ('when I was in college .', None, None, None, 1), ('Now women might be more interested', None, None, None, 0), ("but it still is n't going to be anything", None, None, None, 0), ('approaching equal', None, None, None, 0), ("because the culture does n't work that way .", None, None, None, 1)]

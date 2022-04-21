@@ -1,0 +1,29 @@
+=====================> [[('Just wanting to let you know about a news story', None, None, None, 0), ('I came across .', None, None, None, 1), ('It is about an elephant ,', None, None, None, 0), ('named Nosey .', None, None, None, 1), ('He is been owned by a guy', None, None, None, 0), ('and held in chains .', None, None, None, 1), ('He used Nosey to perform for public entertainment in circuses and forced for most of her life to give rides to adults and children across the United States .', None, None, None, 1), ('Oh ,', None, None, None, 0), ('and she has been in solitary for almost 30 years ,', None, None, None, 0), ('that is a lifetime .', None, None, None, 1), ('Being captive for such a long period caused major stress to her health as well as to her psychological well being .', None, None, None, 1), ('The owner has been cited numerous times', None, None, None, 0), ('but in the same time his license was still approved for renewal each year .', None, None, None, 1), ('There should be awareness for this abuse to stop .', None, None, None, 1)]]
+Leaf:  N Elaborate Just wanting to let you know about a news story
+Leaf:  S span I came across .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It is about an elephant ,
+Leaf:  S span named Nosey .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal He is been owned by a guy
+Leaf:  N Temporal and held in chains .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He used Nosey to perform for public entertainment in circuses and forced for most of her life to give rides to adults and children across the United States .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit Oh ,
+Leaf:  N Evaluation and she has been in solitary for almost 30 years ,
+Leaf:  S span that is a lifetime .
+Inner:  N Same-Unit None Evaluation NS
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span Being captive for such a long period caused major stress to her health as well as to her psychological well being .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The owner has been cited numerous times
+Leaf:  N Contrast but in the same time his license was still approved for renewal each year .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span There should be awareness for this abuse to stop .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Just wanting to let you know about a news story', None, None, None, 0), ('I came across .', None, None, None, 1), ('It is about an elephant ,', None, None, None, 0), ('named Nosey .', None, None, None, 1), ('He is been owned by a guy', None, None, None, 0), ('and held in chains .', None, None, None, 1), ('He used Nosey to perform for public entertainment in circuses and forced for most of her life to give rides to adults and children across the United States .', None, None, None, 1), ('Oh ,', None, None, None, 0), ('and she has been in solitary for almost 30 years ,', None, None, None, 0), ('that is a lifetime .', None, None, None, 1), ('Being captive for such a long period caused major stress to her health as well as to her psychological well being .', None, None, None, 1), ('The owner has been cited numerous times', None, None, None, 0), ('but in the same time his license was still approved for renewal each year .', None, None, None, 1), ('There should be awareness for this abuse to stop .', None, None, None, 1)]

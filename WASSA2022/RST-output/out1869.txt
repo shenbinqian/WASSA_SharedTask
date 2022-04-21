@@ -1,0 +1,21 @@
+=====================> [[('After reading the article ,', None, None, None, 0), ('i was definitely a bit worried and alarmed .', None, None, None, 1), ('The main reason is because i am always very causitous', None, None, None, 0), ('when it comes to sickness and stuff like this .', None, None, None, 1), ('I feel', None, None, None, 0), ('like i really have to watch out for myself', None, None, None, 0), ('after reading this article .', None, None, None, 1), ("Other than that , i was n't extremely terrified from the article .", None, None, None, 1), ('I was just more alarmed', None, None, None, 0), ('i would say .', None, None, None, 1)]]
+Leaf:  S span After reading the article ,
+Leaf:  N Background i was definitely a bit worried and alarmed .
+Inner:  N Explanation None Background SN
+Leaf:  N Background The main reason is because i am always very causitous
+Leaf:  S span when it comes to sickness and stuff like this .
+Inner:  N Evaluation None Background NS
+Leaf:  S span I feel
+Leaf:  N Background like i really have to watch out for myself
+Leaf:  S span after reading this article .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Contrast Other than that , i was n't extremely terrified from the article .
+Leaf:  N Attribution I was just more alarmed
+Leaf:  S span i would say .
+Inner:  S span None Attribution NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('After reading the article ,', None, None, None, 0), ('i was definitely a bit worried and alarmed .', None, None, None, 1), ('The main reason is because i am always very causitous', None, None, None, 0), ('when it comes to sickness and stuff like this .', None, None, None, 1), ('I feel', None, None, None, 0), ('like i really have to watch out for myself', None, None, None, 0), ('after reading this article .', None, None, None, 1), ("Other than that , i was n't extremely terrified from the article .", None, None, None, 1), ('I was just more alarmed', None, None, None, 0), ('i would say .', None, None, None, 1)]

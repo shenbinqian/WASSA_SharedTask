@@ -1,0 +1,25 @@
+=====================> [[('This story is just sad', None, None, None, 0), ('and I just feel like there should be something', None, None, None, 0), ('that we can do', None, None, None, 0), ('to prevent killings of wild animals', None, None, None, 0), ('just because they own the earth as well', None, None, None, 0), ('as we do .', None, None, None, 1), ('Just because humans are expanding', None, None, None, 0), ('and advancing in technology', None, None, None, 0), ('it does not mean that we kill', None, None, None, 0), ('and we hunt everything', None, None, None, 0), ('that we see .', None, None, None, 1), ('It is heartbreaking .', None, None, None, 1)]]
+Leaf:  N Joint This story is just sad
+Leaf:  N Elaborate and I just feel like there should be something
+Leaf:  S span that we can do
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Explanation to prevent killings of wild animals
+Leaf:  N Comparison just because they own the earth as well
+Leaf:  N Comparison as we do .
+Inner:  S span None Comparison NN
+Inner:  N Same-Unit None Explanation NS
+Inner:  N Joint None Same-Unit NN
+Inner:  N Summary None Joint NN
+Leaf:  N Joint Just because humans are expanding
+Leaf:  N Joint and advancing in technology
+Inner:  S span None Joint NN
+Leaf:  N Joint it does not mean that we kill
+Leaf:  N Elaborate and we hunt everything
+Leaf:  S span that we see .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span It is heartbreaking .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This story is just sad', None, None, None, 0), ('and I just feel like there should be something', None, None, None, 0), ('that we can do', None, None, None, 0), ('to prevent killings of wild animals', None, None, None, 0), ('just because they own the earth as well', None, None, None, 0), ('as we do .', None, None, None, 1), ('Just because humans are expanding', None, None, None, 0), ('and advancing in technology', None, None, None, 0), ('it does not mean that we kill', None, None, None, 0), ('and we hunt everything', None, None, None, 0), ('that we see .', None, None, None, 1), ('It is heartbreaking .', None, None, None, 1)]

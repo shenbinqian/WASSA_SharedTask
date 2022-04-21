@@ -1,0 +1,29 @@
+=====================> [[('The driven into exile last year ,', None, None, None, 0), ('and he is now based in the southern port city of Aden .', None, None, None, 1), ('Saudi Arabia ’s Sunni Muslim monarchy entered the war', None, None, None, 0), ('in large part because of concerns of Iranian influence in the region .', None, None, None, 1), ('That Shiite theocracy is widely perceived to be backing the Shiite rebels .', None, None, None, 1), ('The airstrikes in come on the same day i rejected a new U.N. peace proposal', None, None, None, 0), ('that would have sidelined him and given the prominent roles in a new government . More than 10,000 people have died in the conflict , many of them civilians', None, None, None, 0), ('who were killed by Saudi-led coalition bombings ,', None, None, None, 0), ('according to the United Nations .', None, None, None, 1), ('that you have read the first article ,', None, None, None, 0), ('please write a message to a friend or friends about your feelings and thoughts', None, None, None, 0), ('regarding the article', None, None, None, 0), ('you just read .', None, None, None, 1), ('This could be a private message to a friendS .', None, None, None, 1)]]
+Leaf:  N Temporal The driven into exile last year ,
+Leaf:  N Temporal and he is now based in the southern port city of Aden .
+Inner:  N Topic-Change None Temporal NN
+Leaf:  N Cause Saudi Arabia ’s Sunni Muslim monarchy entered the war
+Leaf:  S span in large part because of concerns of Iranian influence in the region .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span That Shiite theocracy is widely perceived to be backing the Shiite rebels .
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate The airstrikes in come on the same day i rejected a new U.N. peace proposal
+Leaf:  N Elaborate that would have sidelined him and given the prominent roles in a new government . More than 10,000 people have died in the conflict , many of them civilians
+Leaf:  S span who were killed by Saudi-led coalition bombings ,
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span according to the United Nations .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span that you have read the first article ,
+Leaf:  N Elaborate please write a message to a friend or friends about your feelings and thoughts
+Leaf:  N Elaborate regarding the article
+Leaf:  S span you just read .
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span This could be a private message to a friendS .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  N Topic-Change None Topic-Change NN
+Inner:  Root None None Topic-Change NN
+[('The driven into exile last year ,', None, None, None, 0), ('and he is now based in the southern port city of Aden .', None, None, None, 1), ('Saudi Arabia ’s Sunni Muslim monarchy entered the war', None, None, None, 0), ('in large part because of concerns of Iranian influence in the region .', None, None, None, 1), ('That Shiite theocracy is widely perceived to be backing the Shiite rebels .', None, None, None, 1), ('The airstrikes in come on the same day i rejected a new U.N. peace proposal', None, None, None, 0), ('that would have sidelined him and given the prominent roles in a new government . More than 10,000 people have died in the conflict , many of them civilians', None, None, None, 0), ('who were killed by Saudi-led coalition bombings ,', None, None, None, 0), ('according to the United Nations .', None, None, None, 1), ('that you have read the first article ,', None, None, None, 0), ('please write a message to a friend or friends about your feelings and thoughts', None, None, None, 0), ('regarding the article', None, None, None, 0), ('you just read .', None, None, None, 1), ('This could be a private message to a friendS .', None, None, None, 1)]

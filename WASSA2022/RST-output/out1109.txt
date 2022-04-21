@@ -1,0 +1,19 @@
+=====================> [[('Even though I am not in favor of the conservative party ,', None, None, None, 0), ('I still do not understand', None, None, None, 0), ('why the Jewish people would be struggling', None, None, None, 0), ('to understand " Trump \'s electron " .', None, None, None, 1), ('It is not a one party election', None, None, None, 0), ('so at some point or another the Democratic or the Republican party will be in the white house .', None, None, None, 1), ('There will always be naysayers on either side .', None, None, None, 1), ('Everyone everywhere do need prayers', None, None, None, 0), ('and I do appreciate the prayers from the Jewish community .', None, None, None, 1)]]
+Leaf:  S span Even though I am not in favor of the conservative party ,
+Leaf:  S span I still do not understand
+Leaf:  N Enablement why the Jewish people would be struggling
+Leaf:  S span to understand " Trump 's electron " .
+Inner:  N Attribution None Enablement NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  S span It is not a one party election
+Leaf:  N Cause so at some point or another the Democratic or the Republican party will be in the white house .
+Inner:  N Evaluation None Cause SN
+Leaf:  S span There will always be naysayers on either side .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Everyone everywhere do need prayers
+Leaf:  N Joint and I do appreciate the prayers from the Jewish community .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Even though I am not in favor of the conservative party ,', None, None, None, 0), ('I still do not understand', None, None, None, 0), ('why the Jewish people would be struggling', None, None, None, 0), ('to understand " Trump \'s electron " .', None, None, None, 1), ('It is not a one party election', None, None, None, 0), ('so at some point or another the Democratic or the Republican party will be in the white house .', None, None, None, 1), ('There will always be naysayers on either side .', None, None, None, 1), ('Everyone everywhere do need prayers', None, None, None, 0), ('and I do appreciate the prayers from the Jewish community .', None, None, None, 1)]

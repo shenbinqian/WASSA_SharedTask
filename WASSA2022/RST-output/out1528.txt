@@ -1,0 +1,19 @@
+=====================> [[('it is not new story', None, None, None, 0), ('that civilian were killed in American based operation in Afghanistan', None, None, None, 0), ('and these things happened in wars all the time .', None, None, None, 1), ('there is no way', None, None, None, 0), ('to fight a war', None, None, None, 0), ('without unnecessary human casualty', None, None, None, 0), ('but with proper planning and intelligent this factor can be reduce to a great extend', None, None, None, 0), ('i think', None, None, None, 0), ('but it harder than it look', None, None, None, 0)]]
+Leaf:  N Elaborate it is not new story
+Leaf:  S span that civilian were killed in American based operation in Afghanistan
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and these things happened in wars all the time .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate there is no way
+Leaf:  S span to fight a war
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span without unnecessary human casualty
+Inner:  N Attribution None Manner-Means NS
+Leaf:  N Attribution but with proper planning and intelligent this factor can be reduce to a great extend
+Leaf:  N Attribution i think
+Leaf:  S span but it harder than it look
+Inner:  S span None Attribution NS
+Inner:  S span None Attribution NS
+Inner:  S span None Attribution NS
+Inner:  Root None None Summary NS
+[('it is not new story', None, None, None, 0), ('that civilian were killed in American based operation in Afghanistan', None, None, None, 0), ('and these things happened in wars all the time .', None, None, None, 1), ('there is no way', None, None, None, 0), ('to fight a war', None, None, None, 0), ('without unnecessary human casualty', None, None, None, 0), ('but with proper planning and intelligent this factor can be reduce to a great extend', None, None, None, 0), ('i think', None, None, None, 0), ('but it harder than it look', None, None, None, 0)]

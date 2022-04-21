@@ -1,0 +1,27 @@
+=====================> [[('Why do people hurt harmless animals ?', None, None, None, 1), ("It does n't make sense to me honestly .", None, None, None, 1), ('I look into the eyes of an animal', None, None, None, 0), ("and I ca n't help thinking", None, None, None, 0), ("that they do n't fully understand", None, None, None, 0), ('why we would hurt them either .', None, None, None, 1), ("I think it 's so cruel that people do this to animals", None, None, None, 0), ('because they trust us', None, None, None, 0), ('to keep them safe', None, None, None, 0), ("it does n't matter if they 're wild or not .", None, None, None, 1), ('This poor elephant', None, None, None, 0), ('that was chained up , and beaten ,', None, None, None, 0), ('and made to do tricks just for our amusement .', None, None, None, 1)]]
+Leaf:  N Evaluation Why do people hurt harmless animals ?
+Leaf:  S span It does n't make sense to me honestly .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Temporal I look into the eyes of an animal
+Leaf:  S span and I ca n't help thinking
+Leaf:  S span that they do n't fully understand
+Leaf:  N Attribution why we would hurt them either .
+Inner:  N Attribution None Attribution SN
+Inner:  N Temporal None Attribution SN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Explanation I think it 's so cruel that people do this to animals
+Leaf:  N Enablement because they trust us
+Leaf:  S span to keep them safe
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Leaf:  N Explanation it does n't matter if they 're wild or not .
+Inner:  S span None Explanation SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate This poor elephant
+Leaf:  N Temporal that was chained up , and beaten ,
+Leaf:  N Temporal and made to do tricks just for our amusement .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Why do people hurt harmless animals ?', None, None, None, 1), ("It does n't make sense to me honestly .", None, None, None, 1), ('I look into the eyes of an animal', None, None, None, 0), ("and I ca n't help thinking", None, None, None, 0), ("that they do n't fully understand", None, None, None, 0), ('why we would hurt them either .', None, None, None, 1), ("I think it 's so cruel that people do this to animals", None, None, None, 0), ('because they trust us', None, None, None, 0), ('to keep them safe', None, None, None, 0), ("it does n't matter if they 're wild or not .", None, None, None, 1), ('This poor elephant', None, None, None, 0), ('that was chained up , and beaten ,', None, None, None, 0), ('and made to do tricks just for our amusement .', None, None, None, 1)]

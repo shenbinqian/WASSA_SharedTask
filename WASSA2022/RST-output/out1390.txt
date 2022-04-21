@@ -1,0 +1,23 @@
+=====================> [[("I do n't see", None, None, None, 0), ('how things are still happening like this in this point in time .', None, None, None, 1), ('We can not let this continue .', None, None, None, 1), ('It really makes me sad', None, None, None, 0), ('and fell fortunate', None, None, None, 0), ('for what I have .', None, None, None, 1), ('It is insane that people still act like this .', None, None, None, 1), ('Maybe we should send some help over there', None, None, None, 0), ('but it might not be a good idea', None, None, None, 0), ('to get involved', None, None, None, 0), ('and could cause worse problems .', None, None, None, 1)]]
+Leaf:  S span I do n't see
+Leaf:  N Attribution how things are still happening like this in this point in time .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span We can not let this continue .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It really makes me sad
+Leaf:  N Evaluation and fell fortunate
+Leaf:  S span for what I have .
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation It is insane that people still act like this .
+Leaf:  N Contrast Maybe we should send some help over there
+Leaf:  N Elaborate but it might not be a good idea
+Leaf:  N Cause to get involved
+Leaf:  N Cause and could cause worse problems .
+Inner:  S span None Cause NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't see", None, None, None, 0), ('how things are still happening like this in this point in time .', None, None, None, 1), ('We can not let this continue .', None, None, None, 1), ('It really makes me sad', None, None, None, 0), ('and fell fortunate', None, None, None, 0), ('for what I have .', None, None, None, 1), ('It is insane that people still act like this .', None, None, None, 1), ('Maybe we should send some help over there', None, None, None, 0), ('but it might not be a good idea', None, None, None, 0), ('to get involved', None, None, None, 0), ('and could cause worse problems .', None, None, None, 1)]

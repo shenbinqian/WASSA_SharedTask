@@ -1,0 +1,13 @@
+=====================> [[('I feel very sad for the family of people', None, None, None, 0), ('who have lost their loved ones , especially family members', None, None, None, 0), ('that were so very deeply involved with the community', None, None, None, 0), ('and have touched so many hearts of the people around them as well .', None, None, None, 1), ('I am sure', None, None, None, 0), ('that for a long time , memories and special moments will be told with heart felt warmth for many generations .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel very sad for the family of people
+Leaf:  N Elaborate who have lost their loved ones , especially family members
+Leaf:  N Joint that were so very deeply involved with the community
+Leaf:  N Joint and have touched so many hearts of the people around them as well .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am sure
+Leaf:  N Attribution that for a long time , memories and special moments will be told with heart felt warmth for many generations .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I feel very sad for the family of people', None, None, None, 0), ('who have lost their loved ones , especially family members', None, None, None, 0), ('that were so very deeply involved with the community', None, None, None, 0), ('and have touched so many hearts of the people around them as well .', None, None, None, 1), ('I am sure', None, None, None, 0), ('that for a long time , memories and special moments will be told with heart felt warmth for many generations .', None, None, None, 1)]

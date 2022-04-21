@@ -1,0 +1,29 @@
+=====================> [[('Hey , this is one reason', None, None, None, 0), ("I do n't get on rides at amusement parks anymore .", None, None, None, 1), ('They are not reliable', None, None, None, 0), ('and they freak me out', None, None, None, 0), ('thinking', None, None, None, 0), ('that they are going to break .', None, None, None, 1), ('I got stuck on a roller coaster one time', None, None, None, 0), ('and I hated it .', None, None, None, 1), ('I was scared out of my mind .', None, None, None, 1), ('That was the last time', None, None, None, 0), ("I ever got on a ride . I 'm not putting myself though that again", None, None, None, 0), ('no matter how fun', None, None, None, 0), ('the rides used to be .', None, None, None, 1), ('That must have been a horrible death for those people .', None, None, None, 1)]]
+Leaf:  N Explanation Hey , this is one reason
+Leaf:  S span I do n't get on rides at amusement parks anymore .
+Inner:  N Explanation None Explanation NS
+Leaf:  N Joint They are not reliable
+Leaf:  N Background and they freak me out
+Leaf:  S span thinking
+Leaf:  N Attribution that they are going to break .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Temporal I got stuck on a roller coaster one time
+Leaf:  N Temporal and I hated it .
+Inner:  N Summary None Temporal NN
+Leaf:  S span I was scared out of my mind .
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate That was the last time
+Leaf:  S span I ever got on a ride . I 'm not putting myself though that again
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate no matter how fun
+Leaf:  S span the rides used to be .
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span That must have been a horrible death for those people .
+Inner:  Root None None Evaluation NS
+[('Hey , this is one reason', None, None, None, 0), ("I do n't get on rides at amusement parks anymore .", None, None, None, 1), ('They are not reliable', None, None, None, 0), ('and they freak me out', None, None, None, 0), ('thinking', None, None, None, 0), ('that they are going to break .', None, None, None, 1), ('I got stuck on a roller coaster one time', None, None, None, 0), ('and I hated it .', None, None, None, 1), ('I was scared out of my mind .', None, None, None, 1), ('That was the last time', None, None, None, 0), ("I ever got on a ride . I 'm not putting myself though that again", None, None, None, 0), ('no matter how fun', None, None, None, 0), ('the rides used to be .', None, None, None, 1), ('That must have been a horrible death for those people .', None, None, None, 1)]

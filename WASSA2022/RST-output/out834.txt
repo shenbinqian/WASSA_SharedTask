@@ -1,0 +1,19 @@
+=====================> [[('It makes me sad to think of this man', None, None, None, 0), ('who was mentally unstable', None, None, None, 0), ('attacking people .', None, None, None, 1), ('I wonder', None, None, None, 0), ('sometimes how many attacks are attributed to terrorists', None, None, None, 0), ('when in reality the people might just be mentally ill .', None, None, None, 1), ('I wish we had a better system', None, None, None, 0), ('for treating mental illness in our country', None, None, None, 0), ('instead of locking people away .', None, None, None, 1)]]
+Leaf:  N Elaborate It makes me sad to think of this man
+Leaf:  S span who was mentally unstable
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit attacking people .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I wonder
+Leaf:  N Contrast sometimes how many attacks are attributed to terrorists
+Leaf:  S span when in reality the people might just be mentally ill .
+Inner:  N Attribution None Contrast NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate I wish we had a better system
+Leaf:  N Comparison for treating mental illness in our country
+Leaf:  N Comparison instead of locking people away .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('It makes me sad to think of this man', None, None, None, 0), ('who was mentally unstable', None, None, None, 0), ('attacking people .', None, None, None, 1), ('I wonder', None, None, None, 0), ('sometimes how many attacks are attributed to terrorists', None, None, None, 0), ('when in reality the people might just be mentally ill .', None, None, None, 1), ('I wish we had a better system', None, None, None, 0), ('for treating mental illness in our country', None, None, None, 0), ('instead of locking people away .', None, None, None, 1)]

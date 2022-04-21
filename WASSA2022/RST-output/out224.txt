@@ -1,0 +1,43 @@
+=====================> [[('The article says', None, None, None, 0), ('that-Shannen Doherty Shares Her Cancer Story With Chelsea Handler In Emotional , Tear-Filled Interview —', None, None, None, 0), ('Shannen Doherty recalled', None, None, None, 0), ('what it ’s like to be diagnosed with cancer in an emotional new interview with Chelsea Handler .', None, None, None, 1), ('During the sit-down ,', None, None, None, 0), ('set to air on Handler ’s Netflix show , Chelsea ,', None, None, None, 0), ('the actress holds back tears', None, None, None, 0), ('while revealing', None, None, None, 0), ('what she ’s learned through her health crisis .', None, None, None, 1), ('“ I think', None, None, None, 0), ('what ’s beautiful and hard and interesting about cancer is that it tears you down', None, None, None, 0), ('and builds you ,', None, None, None, 0), ('and tears you down', None, None, None, 0), ('and builds you , ” the Beverly Hills ,', None, None, None, 0), ('90210alum says in the clip . “ It remakes you so many different times .', None, None, None, 1), ('The person', None, None, None, 0), ('I thought', None, None, None, 0), ('I was', None, None, None, 0), ('supposed to be or was going to be or who I thought I was', None, None, None, 0), ('six months ago is now somebody completely different .', None, None, None, 1), ('I realize ,', None, None, None, 0)]]
+Leaf:  S span The article says
+Leaf:  N Attribution that-Shannen Doherty Shares Her Cancer Story With Chelsea Handler In Emotional , Tear-Filled Interview —
+Inner:  N Same-Unit None Attribution SN
+Leaf:  S span Shannen Doherty recalled
+Leaf:  N Attribution what it ’s like to be diagnosed with cancer in an emotional new interview with Chelsea Handler .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate During the sit-down ,
+Leaf:  S span set to air on Handler ’s Netflix show , Chelsea ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit the actress holds back tears
+Inner:  N Background None Same-Unit NN
+Leaf:  S span while revealing
+Leaf:  N Attribution what she ’s learned through her health crisis .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span “ I think
+Leaf:  N Joint what ’s beautiful and hard and interesting about cancer is that it tears you down
+Leaf:  N Joint and builds you ,
+Leaf:  N Joint and tears you down
+Leaf:  N Joint and builds you , ” the Beverly Hills ,
+Inner:  N Elaborate None Joint NN
+Leaf:  S span 90210alum says in the clip . “ It remakes you so many different times .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate The person
+Leaf:  S span I thought
+Leaf:  N Same-Unit I was
+Leaf:  N Same-Unit supposed to be or was going to be or who I thought I was
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit six months ago is now somebody completely different .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Summary NS
+Inner:  N Background None Elaborate NS
+Leaf:  S span I realize ,
+Inner:  Root None None Background NS
+[('The article says', None, None, None, 0), ('that-Shannen Doherty Shares Her Cancer Story With Chelsea Handler In Emotional , Tear-Filled Interview —', None, None, None, 0), ('Shannen Doherty recalled', None, None, None, 0), ('what it ’s like to be diagnosed with cancer in an emotional new interview with Chelsea Handler .', None, None, None, 1), ('During the sit-down ,', None, None, None, 0), ('set to air on Handler ’s Netflix show , Chelsea ,', None, None, None, 0), ('the actress holds back tears', None, None, None, 0), ('while revealing', None, None, None, 0), ('what she ’s learned through her health crisis .', None, None, None, 1), ('“ I think', None, None, None, 0), ('what ’s beautiful and hard and interesting about cancer is that it tears you down', None, None, None, 0), ('and builds you ,', None, None, None, 0), ('and tears you down', None, None, None, 0), ('and builds you , ” the Beverly Hills ,', None, None, None, 0), ('90210alum says in the clip . “ It remakes you so many different times .', None, None, None, 1), ('The person', None, None, None, 0), ('I thought', None, None, None, 0), ('I was', None, None, None, 0), ('supposed to be or was going to be or who I thought I was', None, None, None, 0), ('six months ago is now somebody completely different .', None, None, None, 1), ('I realize ,', None, None, None, 0)]

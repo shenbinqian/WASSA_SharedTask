@@ -1,0 +1,17 @@
+=====================> [[("It 's such a shame that so much violence takes place over there each year .", None, None, None, 1), ("You 'd think all the different factions would finally agree to disagree", None, None, None, 0), ('and move on', None, None, None, 0), ('but instead they just seem to want to keep killing .', None, None, None, 1), ('I understand', None, None, None, 0), ('why since so many different groups want to destroy the other side', None, None, None, 0), ('leaving smaller nations like Yemen to have to defend themselves', None, None, None, 0), ('since the other factions seem to be unable to leave in peace .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's such a shame that so much violence takes place over there each year .
+Leaf:  N Joint You 'd think all the different factions would finally agree to disagree
+Leaf:  N Joint and move on
+Inner:  S span None Joint NN
+Leaf:  N Contrast but instead they just seem to want to keep killing .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I understand
+Leaf:  N Cause why since so many different groups want to destroy the other side
+Leaf:  S span leaving smaller nations like Yemen to have to defend themselves
+Inner:  N Background None Cause NS
+Leaf:  S span since the other factions seem to be unable to leave in peace .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[("It 's such a shame that so much violence takes place over there each year .", None, None, None, 1), ("You 'd think all the different factions would finally agree to disagree", None, None, None, 0), ('and move on', None, None, None, 0), ('but instead they just seem to want to keep killing .', None, None, None, 1), ('I understand', None, None, None, 0), ('why since so many different groups want to destroy the other side', None, None, None, 0), ('leaving smaller nations like Yemen to have to defend themselves', None, None, None, 0), ('since the other factions seem to be unable to leave in peace .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[("Just read an article about a celebrity 's parents divorcing ,", None, None, None, 0), ('which definitely sucks ,', None, None, None, 0), ("since that 's always been something", None, None, None, 0), ("I 've feared", None, None, None, 0), ('would happen with my parents .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('the writer of the article understands the emotional weight of the situation , though ,', None, None, None, 0), ('since they only seem to care about the fact', None, None, None, 0), ('that the dad', None, None, None, 0), ('that filed for divorce', None, None, None, 0), ('is good looking .', None, None, None, 1)]]
+Leaf:  N Elaborate Just read an article about a celebrity 's parents divorcing ,
+Leaf:  N Explanation which definitely sucks ,
+Leaf:  N Elaborate since that 's always been something
+Leaf:  S span I 've feared
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would happen with my parents .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution the writer of the article understands the emotional weight of the situation , though ,
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate since they only seem to care about the fact
+Leaf:  N Elaborate that the dad
+Leaf:  S span that filed for divorce
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is good looking .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[("Just read an article about a celebrity 's parents divorcing ,", None, None, None, 0), ('which definitely sucks ,', None, None, None, 0), ("since that 's always been something", None, None, None, 0), ("I 've feared", None, None, None, 0), ('would happen with my parents .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('the writer of the article understands the emotional weight of the situation , though ,', None, None, None, 0), ('since they only seem to care about the fact', None, None, None, 0), ('that the dad', None, None, None, 0), ('that filed for divorce', None, None, None, 0), ('is good looking .', None, None, None, 1)]

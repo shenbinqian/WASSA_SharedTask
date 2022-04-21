@@ -1,0 +1,23 @@
+=====================> [[('So apparently even turtles are poised to suffer from our careless destruction of the planet vis a vis degradation to habitats due to climate change .', None, None, None, 1), ('Though it seems like they will be able to withstand the changes in temperature ,', None, None, None, 0), ('it is not at all clear what will be the outcome of the potentially lost habitats', None, None, None, 0), ('they live in', None, None, None, 0), ('due to climate change .', None, None, None, 1), ('These guys have been around longer', None, None, None, 0), ('than we have ,', None, None, None, 0), ('as a species .', None, None, None, 1), ("It 's really sad to think", None, None, None, 0), ('that we would be responsible for endangering them even further', None, None, None, 0), ('than we already have .', None, None, None, 1)]]
+Leaf:  N Elaborate So apparently even turtles are poised to suffer from our careless destruction of the planet vis a vis degradation to habitats due to climate change .
+Leaf:  S span Though it seems like they will be able to withstand the changes in temperature ,
+Leaf:  N Elaborate it is not at all clear what will be the outcome of the potentially lost habitats
+Leaf:  N Cause they live in
+Leaf:  S span due to climate change .
+Inner:  S span None Cause NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Comparison These guys have been around longer
+Leaf:  S span than we have ,
+Inner:  N Same-Unit None Comparison NS
+Leaf:  N Same-Unit as a species .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span It 's really sad to think
+Leaf:  N Comparison that we would be responsible for endangering them even further
+Leaf:  S span than we already have .
+Inner:  N Attribution None Comparison NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('So apparently even turtles are poised to suffer from our careless destruction of the planet vis a vis degradation to habitats due to climate change .', None, None, None, 1), ('Though it seems like they will be able to withstand the changes in temperature ,', None, None, None, 0), ('it is not at all clear what will be the outcome of the potentially lost habitats', None, None, None, 0), ('they live in', None, None, None, 0), ('due to climate change .', None, None, None, 1), ('These guys have been around longer', None, None, None, 0), ('than we have ,', None, None, None, 0), ('as a species .', None, None, None, 1), ("It 's really sad to think", None, None, None, 0), ('that we would be responsible for endangering them even further', None, None, None, 0), ('than we already have .', None, None, None, 1)]

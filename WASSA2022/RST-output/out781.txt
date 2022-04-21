@@ -1,0 +1,21 @@
+=====================> [[('Wow , I feel really bad for the parishioners of the church', None, None, None, 0), ('that got burned down .', None, None, None, 1), ('At least nobody was injured .', None, None, None, 1), ("On the one hand , it 's crazy that people would do this ,", None, None, None, 0), ("but on the other hand , I 'm not exactly surprised .", None, None, None, 1), ('Trump has been inciting racial hatred', None, None, None, 0), ('and tearing down standards of decent behaviour since before the beginning of his campaign .', None, None, None, 1), ("Let 's hope", None, None, None, 0), ('he loses in November', None, None, None, 0), ('and we can file this away as a disgraceful moment in American history , nothing more .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , I feel really bad for the parishioners of the church
+Leaf:  S span that got burned down .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span At least nobody was injured .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast On the one hand , it 's crazy that people would do this ,
+Leaf:  N Contrast but on the other hand , I 'm not exactly surprised .
+Inner:  S span None Contrast NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Trump has been inciting racial hatred
+Leaf:  N Joint and tearing down standards of decent behaviour since before the beginning of his campaign .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Let 's hope
+Leaf:  N Temporal he loses in November
+Leaf:  N Temporal and we can file this away as a disgraceful moment in American history , nothing more .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Wow , I feel really bad for the parishioners of the church', None, None, None, 0), ('that got burned down .', None, None, None, 1), ('At least nobody was injured .', None, None, None, 1), ("On the one hand , it 's crazy that people would do this ,", None, None, None, 0), ("but on the other hand , I 'm not exactly surprised .", None, None, None, 1), ('Trump has been inciting racial hatred', None, None, None, 0), ('and tearing down standards of decent behaviour since before the beginning of his campaign .', None, None, None, 1), ("Let 's hope", None, None, None, 0), ('he loses in November', None, None, None, 0), ('and we can file this away as a disgraceful moment in American history , nothing more .', None, None, None, 1)]

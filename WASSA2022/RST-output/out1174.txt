@@ -1,0 +1,29 @@
+=====================> [[('So sad .', None, None, None, 1), ('Why is it that the social media giants can quickly shut down conservative speech ,', None, None, None, 0), ('but can not get a handle on these " suicide groups "', None, None, None, 0), ('? Mental health needs to be taken more seriously in this country or any country .', None, None, None, 1), ('With mental health', None, None, None, 0), ('not covered by a lot of insurance policies ,', None, None, None, 0), ('suicide and depression will continue to be problems .', None, None, None, 1), ('I feel for these kids .', None, None, None, 1), ('I know', None, None, None, 0), ('what it feels like to feel depressed and hopeless .', None, None, None, 1), ('But anyone', None, None, None, 0), ('that preys on kids in these conditions', None, None, None, 0), ('needs to go to jail .', None, None, None, 1), ('It infuriates me .', None, None, None, 1)]]
+Leaf:  N Evaluation So sad .
+Leaf:  N Joint Why is it that the social media giants can quickly shut down conservative speech ,
+Leaf:  N Joint but can not get a handle on these " suicide groups "
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Explanation ? Mental health needs to be taken more seriously in this country or any country .
+Leaf:  N Elaborate With mental health
+Leaf:  S span not covered by a lot of insurance policies ,
+Inner:  S span None Elaborate NS
+Leaf:  N Cause suicide and depression will continue to be problems .
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I feel for these kids .
+Leaf:  N Elaborate I know
+Leaf:  S span what it feels like to feel depressed and hopeless .
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate But anyone
+Leaf:  S span that preys on kids in these conditions
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit needs to go to jail .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It infuriates me .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Evaluation NS
+[('So sad .', None, None, None, 1), ('Why is it that the social media giants can quickly shut down conservative speech ,', None, None, None, 0), ('but can not get a handle on these " suicide groups "', None, None, None, 0), ('? Mental health needs to be taken more seriously in this country or any country .', None, None, None, 1), ('With mental health', None, None, None, 0), ('not covered by a lot of insurance policies ,', None, None, None, 0), ('suicide and depression will continue to be problems .', None, None, None, 1), ('I feel for these kids .', None, None, None, 1), ('I know', None, None, None, 0), ('what it feels like to feel depressed and hopeless .', None, None, None, 1), ('But anyone', None, None, None, 0), ('that preys on kids in these conditions', None, None, None, 0), ('needs to go to jail .', None, None, None, 1), ('It infuriates me .', None, None, None, 1)]

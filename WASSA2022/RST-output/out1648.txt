@@ -1,0 +1,23 @@
+=====================> [[('The whole situation with Dr. Luke and Kesha got way out of hand .', None, None, None, 1), ('I feel so bad for Kesha', None, None, None, 0), ('because she simply became a victim of the music industry', None, None, None, 0), ('and lost her voice in the process .', None, None, None, 1), ('Dr. Luke should be ashamed of himself for treating Kesha so badly', None, None, None, 0), ('and trying to make her into something', None, None, None, 0), ("that she was n't .", None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that she got the help', None, None, None, 0), ('that she needed', None, None, None, 0), ('and is making strides toward her own recovery .', None, None, None, 1)]]
+Leaf:  N Elaborate The whole situation with Dr. Luke and Kesha got way out of hand .
+Leaf:  N Explanation I feel so bad for Kesha
+Leaf:  N Joint because she simply became a victim of the music industry
+Leaf:  N Joint and lost her voice in the process .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Dr. Luke should be ashamed of himself for treating Kesha so badly
+Leaf:  N Elaborate and trying to make her into something
+Leaf:  S span that she was n't .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  S span I 'm glad
+Leaf:  N Elaborate that she got the help
+Leaf:  S span that she needed
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and is making strides toward her own recovery .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The whole situation with Dr. Luke and Kesha got way out of hand .', None, None, None, 1), ('I feel so bad for Kesha', None, None, None, 0), ('because she simply became a victim of the music industry', None, None, None, 0), ('and lost her voice in the process .', None, None, None, 1), ('Dr. Luke should be ashamed of himself for treating Kesha so badly', None, None, None, 0), ('and trying to make her into something', None, None, None, 0), ("that she was n't .", None, None, None, 1), ("I 'm glad", None, None, None, 0), ('that she got the help', None, None, None, 0), ('that she needed', None, None, None, 0), ('and is making strides toward her own recovery .', None, None, None, 1)]

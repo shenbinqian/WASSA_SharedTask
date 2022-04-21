@@ -1,0 +1,29 @@
+=====================> [[('This is old news , really .', None, None, None, 1), ('We all know', None, None, None, 0), ('Trump won', None, None, None, 0), ('... and no one really saw it coming .', None, None, None, 1), ('No one thought', None, None, None, 0), ('he could win , every step of the way', None, None, None, 0), ('... and yet he did .', None, None, None, 1), ("He 's in office", None, None, None, 0), ("... he 's messing things up", None, None, None, 0), ('... whatever .', None, None, None, 1), ('We can only hope', None, None, None, 0), ('Mueller does something and/or', None, None, None, 0), ('that someone else wins in 2020 .', None, None, None, 1), ("I 'm tired of hearing about it .", None, None, None, 1)]]
+Leaf:  N Elaborate This is old news , really .
+Leaf:  S span We all know
+Leaf:  N Contrast Trump won
+Leaf:  S span ... and no one really saw it coming .
+Inner:  N Attribution None Contrast NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span No one thought
+Leaf:  N Attribution he could win , every step of the way
+Inner:  N Contrast None Attribution SN
+Leaf:  S span ... and yet he did .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint He 's in office
+Leaf:  N Joint ... he 's messing things up
+Inner:  N Evaluation None Joint NN
+Leaf:  S span ... whatever .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span We can only hope
+Leaf:  S span Mueller does something and/or
+Leaf:  N Condition that someone else wins in 2020 .
+Inner:  N Attribution None Condition SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'm tired of hearing about it .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is old news , really .', None, None, None, 1), ('We all know', None, None, None, 0), ('Trump won', None, None, None, 0), ('... and no one really saw it coming .', None, None, None, 1), ('No one thought', None, None, None, 0), ('he could win , every step of the way', None, None, None, 0), ('... and yet he did .', None, None, None, 1), ("He 's in office", None, None, None, 0), ("... he 's messing things up", None, None, None, 0), ('... whatever .', None, None, None, 1), ('We can only hope', None, None, None, 0), ('Mueller does something and/or', None, None, None, 0), ('that someone else wins in 2020 .', None, None, None, 1), ("I 'm tired of hearing about it .", None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('It is horrible that things like this are still happening in the gulf of mexico', None, None, None, 0), ('and espesically since it is a priest .', None, None, None, 1), ('The cartels are doing horrible things', None, None, None, 0), ('that need to be controlled .', None, None, None, 1), ('It seems like the Mexican government can not do anything about it .', None, None, None, 1), ('Maybe there are some members in the government', None, None, None, 0), ('creating the problem', None, None, None, 0)]]
+Leaf:  N Enablement It is horrible that things like this are still happening in the gulf of mexico
+Leaf:  S span and espesically since it is a priest .
+Inner:  N Summary None Enablement NS
+Leaf:  N Elaborate The cartels are doing horrible things
+Leaf:  S span that need to be controlled .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Cause It seems like the Mexican government can not do anything about it .
+Inner:  N Topic-Comment None Cause NN
+Leaf:  N Elaborate Maybe there are some members in the government
+Leaf:  S span creating the problem
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('It is horrible that things like this are still happening in the gulf of mexico', None, None, None, 0), ('and espesically since it is a priest .', None, None, None, 1), ('The cartels are doing horrible things', None, None, None, 0), ('that need to be controlled .', None, None, None, 1), ('It seems like the Mexican government can not do anything about it .', None, None, None, 1), ('Maybe there are some members in the government', None, None, None, 0), ('creating the problem', None, None, None, 0)]

@@ -1,0 +1,21 @@
+=====================> [[('I just read an article about suicide ,', None, None, None, 0), ('it was really sad .', None, None, None, 1), ('It started off talking about a 12 year old girl', None, None, None, 0), ('who was interested in suicide groups online .', None, None, None, 1), ('One day she went to school , or so her mother thoght . The mother recieved a phone call from the channel A&E', None, None, None, 0), ('notifiing her', None, None, None, 0), ('that her daughter had took her own life .', None, None, None, 1), ('The article went on to say', None, None, None, 0), ('how Russia was third in the world in suicides .', None, None, None, 1), ('It was a really sad article .', None, None, None, 1)]]
+Leaf:  S span I just read an article about suicide ,
+Leaf:  N Evaluation it was really sad .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Elaborate It started off talking about a 12 year old girl
+Leaf:  S span who was interested in suicide groups online .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate One day she went to school , or so her mother thoght . The mother recieved a phone call from the channel A&E
+Leaf:  S span notifiing her
+Leaf:  N Attribution that her daughter had took her own life .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  S span The article went on to say
+Leaf:  N Attribution how Russia was third in the world in suicides .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It was a really sad article .
+Inner:  Root None None Evaluation NS
+[('I just read an article about suicide ,', None, None, None, 0), ('it was really sad .', None, None, None, 1), ('It started off talking about a 12 year old girl', None, None, None, 0), ('who was interested in suicide groups online .', None, None, None, 1), ('One day she went to school , or so her mother thoght . The mother recieved a phone call from the channel A&E', None, None, None, 0), ('notifiing her', None, None, None, 0), ('that her daughter had took her own life .', None, None, None, 1), ('The article went on to say', None, None, None, 0), ('how Russia was third in the world in suicides .', None, None, None, 1), ('It was a really sad article .', None, None, None, 1)]

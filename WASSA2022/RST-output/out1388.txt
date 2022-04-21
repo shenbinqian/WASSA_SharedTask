@@ -1,0 +1,23 @@
+=====================> [[('I feel sad yet again to here about more crimes against the native americans .', None, None, None, 1), ('The pipeline is disgusting', None, None, None, 0), ('and will no doubt result in leaks', None, None, None, 0), ('that contaminate water .', None, None, None, 1), ('It is good that people are protesting', None, None, None, 0), ("but I do n't feel", None, None, None, 0), ('it will end up working .', None, None, None, 1), ('There is oil there', None, None, None, 0), ('and they will kill people', None, None, None, 0), ('if they need to', None, None, None, 0), ('just like they do in every other country .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel sad yet again to here about more crimes against the native americans .
+Leaf:  N Joint The pipeline is disgusting
+Leaf:  N Elaborate and will no doubt result in leaks
+Leaf:  S span that contaminate water .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It is good that people are protesting
+Leaf:  S span but I do n't feel
+Leaf:  N Attribution it will end up working .
+Inner:  N Contrast None Attribution SN
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint There is oil there
+Leaf:  N Condition and they will kill people
+Leaf:  S span if they need to
+Inner:  N Comparison None Condition NS
+Leaf:  S span just like they do in every other country .
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I feel sad yet again to here about more crimes against the native americans .', None, None, None, 1), ('The pipeline is disgusting', None, None, None, 0), ('and will no doubt result in leaks', None, None, None, 0), ('that contaminate water .', None, None, None, 1), ('It is good that people are protesting', None, None, None, 0), ("but I do n't feel", None, None, None, 0), ('it will end up working .', None, None, None, 1), ('There is oil there', None, None, None, 0), ('and they will kill people', None, None, None, 0), ('if they need to', None, None, None, 0), ('just like they do in every other country .', None, None, None, 1)]

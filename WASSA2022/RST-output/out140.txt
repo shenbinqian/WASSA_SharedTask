@@ -1,0 +1,19 @@
+=====================> [[('This is so unfortunate for the family of this father and son .', None, None, None, 1), ('They were probably just trying to have a nice together ,', None, None, None, 0), ('but did not research the area well enough', None, None, None, 0), ('or did not pay proper attention .', None, None, None, 1), ('There are so many things', None, None, None, 0), ('that could go wrong ,', None, None, None, 0), ('and in this case , they all seemed to have gone wrong .', None, None, None, 1), ('I feel bad for them .', None, None, None, 1), ('The world can be pretty unforgiving .', None, None, None, 1)]]
+Leaf:  N Elaborate This is so unfortunate for the family of this father and son .
+Leaf:  N Joint They were probably just trying to have a nice together ,
+Leaf:  N Joint but did not research the area well enough
+Leaf:  N Joint or did not pay proper attention .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate There are so many things
+Leaf:  S span that could go wrong ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and in this case , they all seemed to have gone wrong .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I feel bad for them .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The world can be pretty unforgiving .
+Inner:  Root None None Evaluation NS
+[('This is so unfortunate for the family of this father and son .', None, None, None, 1), ('They were probably just trying to have a nice together ,', None, None, None, 0), ('but did not research the area well enough', None, None, None, 0), ('or did not pay proper attention .', None, None, None, 1), ('There are so many things', None, None, None, 0), ('that could go wrong ,', None, None, None, 0), ('and in this case , they all seemed to have gone wrong .', None, None, None, 1), ('I feel bad for them .', None, None, None, 1), ('The world can be pretty unforgiving .', None, None, None, 1)]

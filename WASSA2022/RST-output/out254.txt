@@ -1,0 +1,23 @@
+=====================> [[('I read an article about the gender gap in the world today .', None, None, None, 1), ('Sadly the US has moved down in the list behind all of the major European countries .', None, None, None, 1), ('I guess', None, None, None, 0), ('the number of women', None, None, None, 0), ('working in senior positions', None, None, None, 0), ('is shrinking .', None, None, None, 1), ('There is also a decline of women in the labor force .', None, None, None, 1), ('But there is evidence', None, None, None, 0), ('that the education gender gap is shrinking ,', None, None, None, 0), ('so there are more women educated .', None, None, None, 1), ('It just seems that more women are choosing not to work .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article about the gender gap in the world today .
+Leaf:  N Evaluation Sadly the US has moved down in the list behind all of the major European countries .
+Leaf:  S span I guess
+Leaf:  N Elaborate the number of women
+Leaf:  S span working in senior positions
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is shrinking .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint There is also a decline of women in the labor force .
+Inner:  S span None Joint NN
+Leaf:  N Elaborate But there is evidence
+Leaf:  N Enablement that the education gender gap is shrinking ,
+Leaf:  S span so there are more women educated .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It just seems that more women are choosing not to work .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I read an article about the gender gap in the world today .', None, None, None, 1), ('Sadly the US has moved down in the list behind all of the major European countries .', None, None, None, 1), ('I guess', None, None, None, 0), ('the number of women', None, None, None, 0), ('working in senior positions', None, None, None, 0), ('is shrinking .', None, None, None, 1), ('There is also a decline of women in the labor force .', None, None, None, 1), ('But there is evidence', None, None, None, 0), ('that the education gender gap is shrinking ,', None, None, None, 0), ('so there are more women educated .', None, None, None, 1), ('It just seems that more women are choosing not to work .', None, None, None, 1)]

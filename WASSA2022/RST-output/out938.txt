@@ -1,0 +1,27 @@
+=====================> [[("I really do n't know anything about Keisha .", None, None, None, 1), ('The only thing', None, None, None, 0), ('I know', None, None, None, 0), ('is her music .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('how the music business works .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('if this is true .', None, None, None, 1), ('It seems like if she really wanted to she could have taken more control .', None, None, None, 1), ('It was her choice', None, None, None, 0), ('whether or not she ate or not .', None, None, None, 1), ('She let them take control .', None, None, None, 1), ('there is always a choice .', None, None, None, 1)]]
+Leaf:  N Elaborate I really do n't know anything about Keisha .
+Leaf:  N Elaborate The only thing
+Leaf:  S span I know
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is her music .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't know
+Leaf:  N Attribution how the music business works .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I do n't know
+Leaf:  N Attribution if this is true .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It seems like if she really wanted to she could have taken more control .
+Leaf:  N Elaborate It was her choice
+Leaf:  S span whether or not she ate or not .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She let them take control .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span there is always a choice .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I really do n't know anything about Keisha .", None, None, None, 1), ('The only thing', None, None, None, 0), ('I know', None, None, None, 0), ('is her music .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('how the music business works .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('if this is true .', None, None, None, 1), ('It seems like if she really wanted to she could have taken more control .', None, None, None, 1), ('It was her choice', None, None, None, 0), ('whether or not she ate or not .', None, None, None, 1), ('She let them take control .', None, None, None, 1), ('there is always a choice .', None, None, None, 1)]

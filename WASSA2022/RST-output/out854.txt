@@ -1,0 +1,23 @@
+=====================> [[('Have I conveyed my misanthropy fully yet .', None, None, None, 1), ('Read this for a laugh .', None, None, None, 1), ('This is what journalists are doing .', None, None, None, 1), ('We have an orange monkey', None, None, None, 0), ('destroying our nation', None, None, None, 0), ('and people spend time', None, None, None, 0), ('writing about something as meaningless as this .', None, None, None, 1), ('A guy died . Terribly sorry . Happens thousands and thousands times a day .', None, None, None, 1), ('Because this guy was an idiot', None, None, None, 0), ('it gets written up', None, None, None, 0), ('to feed the idiotic interests of the sheep .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Have I conveyed my misanthropy fully yet .
+Leaf:  N Summary Read this for a laugh .
+Leaf:  S span This is what journalists are doing .
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate We have an orange monkey
+Leaf:  S span destroying our nation
+Inner:  N Joint None Elaborate NS
+Leaf:  N Manner-Means and people spend time
+Leaf:  S span writing about something as meaningless as this .
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate A guy died . Terribly sorry . Happens thousands and thousands times a day .
+Leaf:  S span Because this guy was an idiot
+Leaf:  N Enablement it gets written up
+Leaf:  S span to feed the idiotic interests of the sheep .
+Inner:  N Background None Enablement NS
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Have I conveyed my misanthropy fully yet .', None, None, None, 1), ('Read this for a laugh .', None, None, None, 1), ('This is what journalists are doing .', None, None, None, 1), ('We have an orange monkey', None, None, None, 0), ('destroying our nation', None, None, None, 0), ('and people spend time', None, None, None, 0), ('writing about something as meaningless as this .', None, None, None, 1), ('A guy died . Terribly sorry . Happens thousands and thousands times a day .', None, None, None, 1), ('Because this guy was an idiot', None, None, None, 0), ('it gets written up', None, None, None, 0), ('to feed the idiotic interests of the sheep .', None, None, None, 1)]

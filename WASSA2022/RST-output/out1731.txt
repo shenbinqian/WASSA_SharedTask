@@ -1,0 +1,39 @@
+=====================> [[('This story', None, None, None, 0), ('I have read', None, None, None, 0), ('was heart breaking !', None, None, None, 1), ('Two men were shot , one twice in the stomach and the other shot in the back .', None, None, None, 1), ('Sadly no weapons were recovered', None, None, None, 0), ('and no arrests were made', None, None, None, 0), ('causing me to worry', None, None, None, 0), ('the person', None, None, None, 0), ('that did this', None, None, None, 0), ('is free .', None, None, None, 1), ('This upsets me worried for myself and others ,', None, None, None, 0), ('hoping to protect the community from the criminal gun man still at large . The two men were taken to the hospital , hoping for a speedy recovery for them and comfort for their families after this tragic incident !', None, None, None, 1), ('The terrible time they must all be going through now . Worrying and stressing over this unthinkable situation .', None, None, None, 1), ('I sure do hope', None, None, None, 0), ('the person responsible is found and arrested quickly ,', None, None, None, 0), ('to keep our community safe from additional attacks and to to get him the help', None, None, None, 0), ('he needs .', None, None, None, 1), ('Not to mention time in prison .', None, None, None, 1), ('Certainly right', None, None, None, 0)]]
+Leaf:  N Elaborate This story
+Leaf:  S span I have read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was heart breaking !
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate Two men were shot , one twice in the stomach and the other shot in the back .
+Leaf:  N Joint Sadly no weapons were recovered
+Leaf:  N Joint and no arrests were made
+Inner:  N Cause None Joint NN
+Leaf:  S span causing me to worry
+Leaf:  N Elaborate the person
+Leaf:  S span that did this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is free .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate This upsets me worried for myself and others ,
+Leaf:  S span hoping to protect the community from the criminal gun man still at large . The two men were taken to the hospital , hoping for a speedy recovery for them and comfort for their families after this tragic incident !
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation The terrible time they must all be going through now . Worrying and stressing over this unthinkable situation .
+Leaf:  S span I sure do hope
+Leaf:  N Enablement the person responsible is found and arrested quickly ,
+Leaf:  N Elaborate to keep our community safe from additional attacks and to to get him the help
+Leaf:  S span he needs .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation Not to mention time in prison .
+Leaf:  S span Certainly right
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This story', None, None, None, 0), ('I have read', None, None, None, 0), ('was heart breaking !', None, None, None, 1), ('Two men were shot , one twice in the stomach and the other shot in the back .', None, None, None, 1), ('Sadly no weapons were recovered', None, None, None, 0), ('and no arrests were made', None, None, None, 0), ('causing me to worry', None, None, None, 0), ('the person', None, None, None, 0), ('that did this', None, None, None, 0), ('is free .', None, None, None, 1), ('This upsets me worried for myself and others ,', None, None, None, 0), ('hoping to protect the community from the criminal gun man still at large . The two men were taken to the hospital , hoping for a speedy recovery for them and comfort for their families after this tragic incident !', None, None, None, 1), ('The terrible time they must all be going through now . Worrying and stressing over this unthinkable situation .', None, None, None, 1), ('I sure do hope', None, None, None, 0), ('the person responsible is found and arrested quickly ,', None, None, None, 0), ('to keep our community safe from additional attacks and to to get him the help', None, None, None, 0), ('he needs .', None, None, None, 1), ('Not to mention time in prison .', None, None, None, 1), ('Certainly right', None, None, None, 0)]

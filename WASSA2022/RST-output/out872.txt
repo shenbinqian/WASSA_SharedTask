@@ -1,0 +1,19 @@
+=====================> [[('How sick is this .', None, None, None, 1), ('A visitor at Busch Gardens in Florida attacked a flamingo .', None, None, None, 1), ('Park staff had to euthanize the bird', None, None, None, 0), ('because of its injuries .', None, None, None, 1), ('It seems the flamingo did some sort of unique dance', None, None, None, 0), ('and had become quite well known for it .', None, None, None, 1), ('The guy is being held on bond ,', None, None, None, 0), ('charged with animal cruelty .', None, None, None, 1), ('They ought to throw the book at him .', None, None, None, 1)]]
+Leaf:  N Summary How sick is this .
+Leaf:  N Cause A visitor at Busch Gardens in Florida attacked a flamingo .
+Leaf:  N Explanation Park staff had to euthanize the bird
+Leaf:  S span because of its injuries .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint It seems the flamingo did some sort of unique dance
+Leaf:  N Joint and had become quite well known for it .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Joint The guy is being held on bond ,
+Leaf:  N Joint charged with animal cruelty .
+Inner:  N Condition None Joint NN
+Leaf:  S span They ought to throw the book at him .
+Inner:  S span None Condition NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('How sick is this .', None, None, None, 1), ('A visitor at Busch Gardens in Florida attacked a flamingo .', None, None, None, 1), ('Park staff had to euthanize the bird', None, None, None, 0), ('because of its injuries .', None, None, None, 1), ('It seems the flamingo did some sort of unique dance', None, None, None, 0), ('and had become quite well known for it .', None, None, None, 1), ('The guy is being held on bond ,', None, None, None, 0), ('charged with animal cruelty .', None, None, None, 1), ('They ought to throw the book at him .', None, None, None, 1)]

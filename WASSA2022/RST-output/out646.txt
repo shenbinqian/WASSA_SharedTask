@@ -1,0 +1,21 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('that there has to be so much violence and bad in the world .', None, None, None, 1), ('The part of this article that really got to me was that the Muslim women were being raped', None, None, None, 0), ('and that doctors and nurses', None, None, None, 0), ('who wanted to help', None, None, None, 0), ('the people there were being treated rudely .', None, None, None, 1), ('It would be awful to have to live under these kinds of conditions .', None, None, None, 1), ('It would be awful to have the prices of food go up', None, None, None, 0), ('because of blockades and other reasons .', None, None, None, 1), ('It would be stressful and scary .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution that there has to be so much violence and bad in the world .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint The part of this article that really got to me was that the Muslim women were being raped
+Leaf:  N Elaborate and that doctors and nurses
+Leaf:  S span who wanted to help
+Leaf:  N Attribution the people there were being treated rudely .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It would be awful to have to live under these kinds of conditions .
+Leaf:  N Cause It would be awful to have the prices of food go up
+Leaf:  S span because of blockades and other reasons .
+Inner:  N Joint None Cause NS
+Leaf:  N Joint It would be stressful and scary .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I ca n't believe", None, None, None, 0), ('that there has to be so much violence and bad in the world .', None, None, None, 1), ('The part of this article that really got to me was that the Muslim women were being raped', None, None, None, 0), ('and that doctors and nurses', None, None, None, 0), ('who wanted to help', None, None, None, 0), ('the people there were being treated rudely .', None, None, None, 1), ('It would be awful to have to live under these kinds of conditions .', None, None, None, 1), ('It would be awful to have the prices of food go up', None, None, None, 0), ('because of blockades and other reasons .', None, None, None, 1), ('It would be stressful and scary .', None, None, None, 1)]

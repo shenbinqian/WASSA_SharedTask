@@ -1,0 +1,29 @@
+=====================> [[('I ’m glad', None, None, None, 0), ('that I do n’t work at Well ’s Fargo .', None, None, None, 1), ('To think', None, None, None, 0), ('that they would push their employees to the brink of suicide', None, None, None, 0), ('and having mental health issues is totally ridiculous . And all in the name of the almighty dollar .', None, None, None, 1), ('I wish companies cared more for their employees , than their bottom line .', None, None, None, 1), ('I have worked for a company for over 30 years and in the early years , the company cared about its employees .', None, None, None, 1), ('They treated us like family . The last ten or fifteen years have been so difficult . They could care less about their loyal employees . They treat us like dirt .', None, None, None, 1), ('All they care about is how much money they can make ,', None, None, None, 0), ('never caring about how much stress they are putting on their workers .', None, None, None, 1), ('There has got to be a better way .', None, None, None, 1), ('I ’m so glad', None, None, None, 0), ('I will be retiring in another year or so . I do n’t think', None, None, None, 0), ('I could st', None, None, None, 0)]]
+Leaf:  S span I ’m glad
+Leaf:  N Attribution that I do n’t work at Well ’s Fargo .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span To think
+Leaf:  N Joint that they would push their employees to the brink of suicide
+Leaf:  N Joint and having mental health issues is totally ridiculous . And all in the name of the almighty dollar .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation I wish companies cared more for their employees , than their bottom line .
+Leaf:  N Joint I have worked for a company for over 30 years and in the early years , the company cared about its employees .
+Leaf:  N Joint They treated us like family . The last ten or fifteen years have been so difficult . They could care less about their loyal employees . They treat us like dirt .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Manner-Means All they care about is how much money they can make ,
+Leaf:  S span never caring about how much stress they are putting on their workers .
+Inner:  S span None Manner-Means NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate There has got to be a better way .
+Leaf:  S span I ’m so glad
+Leaf:  S span I will be retiring in another year or so . I do n’t think
+Leaf:  N Attribution I could st
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I ’m glad', None, None, None, 0), ('that I do n’t work at Well ’s Fargo .', None, None, None, 1), ('To think', None, None, None, 0), ('that they would push their employees to the brink of suicide', None, None, None, 0), ('and having mental health issues is totally ridiculous . And all in the name of the almighty dollar .', None, None, None, 1), ('I wish companies cared more for their employees , than their bottom line .', None, None, None, 1), ('I have worked for a company for over 30 years and in the early years , the company cared about its employees .', None, None, None, 1), ('They treated us like family . The last ten or fifteen years have been so difficult . They could care less about their loyal employees . They treat us like dirt .', None, None, None, 1), ('All they care about is how much money they can make ,', None, None, None, 0), ('never caring about how much stress they are putting on their workers .', None, None, None, 1), ('There has got to be a better way .', None, None, None, 1), ('I ’m so glad', None, None, None, 0), ('I will be retiring in another year or so . I do n’t think', None, None, None, 0), ('I could st', None, None, None, 0)]

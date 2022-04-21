@@ -1,0 +1,29 @@
+=====================> [[('Its crazy !', None, None, None, 1), ("Over One million children could n't go to school", None, None, None, 0), ('because the smog was so thick !', None, None, None, 1), ('they said', None, None, None, 0), ('its like smoking 40 cigerattes a day .', None, None, None, 1), ('That you feel like you are being choked', None, None, None, 0), ('when you walk outside .', None, None, None, 1), ('Could you even imagine ?', None, None, None, 1), ('Parents taking their kids to the docs', None, None, None, 0), ('and them', None, None, None, 0), ('saying', None, None, None, 0), ('get out of the city for a few days', None, None, None, 0), ('and they will be ok .', None, None, None, 1), ("That 's just crazy to me . so sad .", None, None, None, 1)]]
+Leaf:  N Explanation Its crazy !
+Leaf:  N Cause Over One million children could n't go to school
+Leaf:  S span because the smog was so thick !
+Inner:  N Summary None Cause NS
+Leaf:  S span they said
+Leaf:  N Attribution its like smoking 40 cigerattes a day .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Temporal That you feel like you are being choked
+Leaf:  S span when you walk outside .
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Elaborate Could you even imagine ?
+Leaf:  N Temporal Parents taking their kids to the docs
+Leaf:  N Elaborate and them
+Leaf:  S span saying
+Leaf:  S span get out of the city for a few days
+Leaf:  N Condition and they will be ok .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span That 's just crazy to me . so sad .
+Inner:  Root None None Evaluation NS
+[('Its crazy !', None, None, None, 1), ("Over One million children could n't go to school", None, None, None, 0), ('because the smog was so thick !', None, None, None, 1), ('they said', None, None, None, 0), ('its like smoking 40 cigerattes a day .', None, None, None, 1), ('That you feel like you are being choked', None, None, None, 0), ('when you walk outside .', None, None, None, 1), ('Could you even imagine ?', None, None, None, 1), ('Parents taking their kids to the docs', None, None, None, 0), ('and them', None, None, None, 0), ('saying', None, None, None, 0), ('get out of the city for a few days', None, None, None, 0), ('and they will be ok .', None, None, None, 1), ("That 's just crazy to me . so sad .", None, None, None, 1)]

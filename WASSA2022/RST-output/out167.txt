@@ -1,0 +1,19 @@
+=====================> [[('This will not end well .', None, None, None, 1), ('People have to improve their own country .', None, None, None, 1), ('Taking a shortcut', None, None, None, 0), ('by moving to a better country', None, None, None, 0), ('will just result in the host country suffering .', None, None, None, 1), ('The best citizens will work hard', None, None, None, 0), ('to improve their country .', None, None, None, 1), ('They will not give up and leave . Lots of blood was shed in many of the countries', None, None, None, 0), ('that migrants seek to live in .', None, None, None, 1)]]
+Leaf:  N Explanation This will not end well .
+Leaf:  S span People have to improve their own country .
+Inner:  N Summary None Explanation NS
+Leaf:  N Manner-Means Taking a shortcut
+Leaf:  S span by moving to a better country
+Inner:  N Same-Unit None Manner-Means NS
+Leaf:  N Same-Unit will just result in the host country suffering .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Enablement The best citizens will work hard
+Leaf:  S span to improve their country .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate They will not give up and leave . Lots of blood was shed in many of the countries
+Leaf:  S span that migrants seek to live in .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This will not end well .', None, None, None, 1), ('People have to improve their own country .', None, None, None, 1), ('Taking a shortcut', None, None, None, 0), ('by moving to a better country', None, None, None, 0), ('will just result in the host country suffering .', None, None, None, 1), ('The best citizens will work hard', None, None, None, 0), ('to improve their country .', None, None, None, 1), ('They will not give up and leave . Lots of blood was shed in many of the countries', None, None, None, 0), ('that migrants seek to live in .', None, None, None, 1)]

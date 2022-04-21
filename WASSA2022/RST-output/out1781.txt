@@ -1,0 +1,33 @@
+=====================> [[('Interesting article ,', None, None, None, 0), ('and I can see both sides of the issue .', None, None, None, 1), ("On one hand , it is true that it 's incredibly , incredibly hard for people to immigrate to America .", None, None, None, 1), ('The old saying', None, None, None, 0), ('that you " need money', None, None, None, 0), ('to make money "', None, None, None, 0), ('is true in the sense', None, None, None, 0), ('that', None, None, None, 0), ('if you show up on our shores with nothing at all ,', None, None, None, 0), ("it 's going to be awfully hard to make anything of yourself .", None, None, None, 1), ('That being said ,', None, None, None, 0), ('the American dream has always been one', None, None, None, 0), ('of pulling yourself up by the bootstraps', None, None, None, 0), ('and being a self-made-man .', None, None, None, 1), ('You need to be able to do things on your own', None, None, None, 0), ('and most of the most successful people on Earth came from abject poverty .', None, None, None, 1)]]
+Leaf:  N Joint Interesting article ,
+Leaf:  N Joint and I can see both sides of the issue .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Explanation On one hand , it is true that it 's incredibly , incredibly hard for people to immigrate to America .
+Leaf:  N Elaborate The old saying
+Leaf:  N Enablement that you " need money
+Leaf:  S span to make money "
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is true in the sense
+Leaf:  N Same-Unit that
+Leaf:  S span if you show up on our shores with nothing at all ,
+Leaf:  N Condition it 's going to be awfully hard to make anything of yourself .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span That being said ,
+Leaf:  N Elaborate the American dream has always been one
+Leaf:  N Temporal of pulling yourself up by the bootstraps
+Leaf:  N Temporal and being a self-made-man .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation You need to be able to do things on your own
+Leaf:  S span and most of the most successful people on Earth came from abject poverty .
+Inner:  S span None Explanation NS
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('Interesting article ,', None, None, None, 0), ('and I can see both sides of the issue .', None, None, None, 1), ("On one hand , it is true that it 's incredibly , incredibly hard for people to immigrate to America .", None, None, None, 1), ('The old saying', None, None, None, 0), ('that you " need money', None, None, None, 0), ('to make money "', None, None, None, 0), ('is true in the sense', None, None, None, 0), ('that', None, None, None, 0), ('if you show up on our shores with nothing at all ,', None, None, None, 0), ("it 's going to be awfully hard to make anything of yourself .", None, None, None, 1), ('That being said ,', None, None, None, 0), ('the American dream has always been one', None, None, None, 0), ('of pulling yourself up by the bootstraps', None, None, None, 0), ('and being a self-made-man .', None, None, None, 1), ('You need to be able to do things on your own', None, None, None, 0), ('and most of the most successful people on Earth came from abject poverty .', None, None, None, 1)]

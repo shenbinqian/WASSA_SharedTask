@@ -1,0 +1,21 @@
+=====================> [[("I had n't heard about this", None, None, None, 0), ('and I find it surprising .', None, None, None, 1), ('I initially thought of the ecological factor', None, None, None, 0), ("so it 's a good thing", None, None, None, 0), ('that it was contained .', None, None, None, 1), ("It 's worrisome that people are struggling to find gas anywhere .", None, None, None, 1), ('I imagine', None, None, None, 0), ("those areas do n't have good options for public transportation or anything .", None, None, None, 1), ('Maybe it will push people to get smart cars', None, None, None, 0), ('or ride bikes .', None, None, None, 1)]]
+Leaf:  N Evaluation I had n't heard about this
+Leaf:  S span and I find it surprising .
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span I initially thought of the ecological factor
+Leaf:  N Elaborate so it 's a good thing
+Leaf:  S span that it was contained .
+Inner:  N Evaluation None Elaborate NS
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation It 's worrisome that people are struggling to find gas anywhere .
+Leaf:  S span I imagine
+Leaf:  N Attribution those areas do n't have good options for public transportation or anything .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint Maybe it will push people to get smart cars
+Leaf:  N Joint or ride bikes .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("I had n't heard about this", None, None, None, 0), ('and I find it surprising .', None, None, None, 1), ('I initially thought of the ecological factor', None, None, None, 0), ("so it 's a good thing", None, None, None, 0), ('that it was contained .', None, None, None, 1), ("It 's worrisome that people are struggling to find gas anywhere .", None, None, None, 1), ('I imagine', None, None, None, 0), ("those areas do n't have good options for public transportation or anything .", None, None, None, 1), ('Maybe it will push people to get smart cars', None, None, None, 0), ('or ride bikes .', None, None, None, 1)]

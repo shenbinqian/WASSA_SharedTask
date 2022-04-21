@@ -1,0 +1,19 @@
+=====================> [[('I just read an article', None, None, None, 0), ("about how animals all over the world in zoo 's are starving for various reasons .", None, None, None, 1), ('it is pretty sad to see that people take these wild animals', None, None, None, 0), ('to show off', None, None, None, 0), ("then ca n't afford to pay for their food ,", None, None, None, 0), ('starving them sometimes to death . Poor animals . Hope', None, None, None, 0), ('that they can resolve this soon', None, None, None, 0), ('so no more animals have to suffer .', None, None, None, 1), ('Hope the people in those areas are alright as well .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span about how animals all over the world in zoo 's are starving for various reasons .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement it is pretty sad to see that people take these wild animals
+Leaf:  S span to show off
+Inner:  N Temporal None Enablement NS
+Leaf:  N Temporal then ca n't afford to pay for their food ,
+Inner:  N Cause None Temporal NN
+Leaf:  S span starving them sometimes to death . Poor animals . Hope
+Leaf:  N Cause that they can resolve this soon
+Leaf:  S span so no more animals have to suffer .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span Hope the people in those areas are alright as well .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read an article', None, None, None, 0), ("about how animals all over the world in zoo 's are starving for various reasons .", None, None, None, 1), ('it is pretty sad to see that people take these wild animals', None, None, None, 0), ('to show off', None, None, None, 0), ("then ca n't afford to pay for their food ,", None, None, None, 0), ('starving them sometimes to death . Poor animals . Hope', None, None, None, 0), ('that they can resolve this soon', None, None, None, 0), ('so no more animals have to suffer .', None, None, None, 1), ('Hope the people in those areas are alright as well .', None, None, None, 1)]

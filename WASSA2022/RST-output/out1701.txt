@@ -1,0 +1,19 @@
+=====================> [[("I really do n't care about the article", None, None, None, 0), ('I just read .', None, None, None, 1), ("It did n't make me feel any sort of emotions ,", None, None, None, 0), ("but I 'm forced to fill in this box .", None, None, None, 1), ('Is boredom an emotion ?', None, None, None, 1), ('I felt that', None, None, None, 0), ('while reading that massive wall of text .', None, None, None, 1), ("Stuff like the economy and businesses is n't anything worth feeling emotion over .", None, None, None, 1), ("It 's also not even really worth worrying about when it 's not something you can actually do anything about yourself .", None, None, None, 1)]]
+Leaf:  N Elaborate I really do n't care about the article
+Leaf:  S span I just read .
+Inner:  N Summary None Elaborate NS
+Leaf:  S span It did n't make me feel any sort of emotions ,
+Leaf:  N Contrast but I 'm forced to fill in this box .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Summary NS
+Leaf:  N Elaborate Is boredom an emotion ?
+Leaf:  N Temporal I felt that
+Leaf:  S span while reading that massive wall of text .
+Inner:  N Joint None Temporal NS
+Leaf:  N Joint Stuff like the economy and businesses is n't anything worth feeling emotion over .
+Leaf:  N Joint It 's also not even really worth worrying about when it 's not something you can actually do anything about yourself .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I really do n't care about the article", None, None, None, 0), ('I just read .', None, None, None, 1), ("It did n't make me feel any sort of emotions ,", None, None, None, 0), ("but I 'm forced to fill in this box .", None, None, None, 1), ('Is boredom an emotion ?', None, None, None, 1), ('I felt that', None, None, None, 0), ('while reading that massive wall of text .', None, None, None, 1), ("Stuff like the economy and businesses is n't anything worth feeling emotion over .", None, None, None, 1), ("It 's also not even really worth worrying about when it 's not something you can actually do anything about yourself .", None, None, None, 1)]

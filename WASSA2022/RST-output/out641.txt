@@ -1,0 +1,33 @@
+=====================> [[('I just read this article about a wolf', None, None, None, 0), ('being killed', None, None, None, 0), ('after traveling 700 miles by a government agent .', None, None, None, 1), ("I do n't understand it !", None, None, None, 1), ('There was no reason for it .', None, None, None, 1), ("It had n't attacked or disturbed anyone", None, None, None, 0), ('so what was the point of it all ? I feel like anymore people just kill animals', None, None, None, 0), ('to kill .', None, None, None, 1), ('This is why one day so these animals will be extinct .', None, None, None, 1), ('I think', None, None, None, 0), ('that it should be against the law', None, None, None, 0), ('to kill any animal', None, None, None, 0), ("that has n't put you in danger in and way !", None, None, None, 1), ('This is not ok !', None, None, None, 1), ('This needs to stop !', None, None, None, 1), ('I am disgusted by it all !', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about a wolf
+Leaf:  N Background being killed
+Leaf:  S span after traveling 700 miles by a government agent .
+Inner:  S span None Background NS
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  N Summary I do n't understand it !
+Leaf:  N Elaborate There was no reason for it .
+Leaf:  S span It had n't attacked or disturbed anyone
+Leaf:  N Enablement so what was the point of it all ? I feel like anymore people just kill animals
+Leaf:  S span to kill .
+Inner:  N Comparison None Enablement NS
+Inner:  S span None Comparison SN
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Summary NS
+Leaf:  S span This is why one day so these animals will be extinct .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span I think
+Leaf:  N Elaborate that it should be against the law
+Leaf:  N Elaborate to kill any animal
+Leaf:  S span that has n't put you in danger in and way !
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation This is not ok !
+Leaf:  S span This needs to stop !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am disgusted by it all !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read this article about a wolf', None, None, None, 0), ('being killed', None, None, None, 0), ('after traveling 700 miles by a government agent .', None, None, None, 1), ("I do n't understand it !", None, None, None, 1), ('There was no reason for it .', None, None, None, 1), ("It had n't attacked or disturbed anyone", None, None, None, 0), ('so what was the point of it all ? I feel like anymore people just kill animals', None, None, None, 0), ('to kill .', None, None, None, 1), ('This is why one day so these animals will be extinct .', None, None, None, 1), ('I think', None, None, None, 0), ('that it should be against the law', None, None, None, 0), ('to kill any animal', None, None, None, 0), ("that has n't put you in danger in and way !", None, None, None, 1), ('This is not ok !', None, None, None, 1), ('This needs to stop !', None, None, None, 1), ('I am disgusted by it all !', None, None, None, 1)]

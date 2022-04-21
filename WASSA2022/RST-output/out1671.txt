@@ -1,0 +1,27 @@
+=====================> [[('I know', None, None, None, 0), ('that you are an animal lover', None, None, None, 0), ('like I am .', None, None, None, 1), ('It really bothers me that individuals open up zoos', None, None, None, 0), ("and do n't really care about the animals .", None, None, None, 1), ('It is wonderful that an organization was available', None, None, None, 0), ('to take these animals out of the zoo near the Gaza Strip .', None, None, None, 1), ('I will not be going to any zoos anytime soon . How about you ? Animals need to be free ,', None, None, None, 0), ('not stared at', None, None, None, 0), ('and yelled at by little children .', None, None, None, 1), ('They deserve space .', None, None, None, 1), ('For now on when someone asks me to go to a zoo ,', None, None, None, 0), ('my answer is nooooo !', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Comparison that you are an animal lover
+Leaf:  S span like I am .
+Inner:  N Attribution None Comparison NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It really bothers me that individuals open up zoos
+Leaf:  N Joint and do n't really care about the animals .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It is wonderful that an organization was available
+Leaf:  S span to take these animals out of the zoo near the Gaza Strip .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint I will not be going to any zoos anytime soon . How about you ? Animals need to be free ,
+Leaf:  N Joint not stared at
+Leaf:  N Joint and yelled at by little children .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span They deserve space .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span For now on when someone asks me to go to a zoo ,
+Leaf:  N Background my answer is nooooo !
+Inner:  S span None Background SN
+Inner:  Root None None Evaluation NS
+[('I know', None, None, None, 0), ('that you are an animal lover', None, None, None, 0), ('like I am .', None, None, None, 1), ('It really bothers me that individuals open up zoos', None, None, None, 0), ("and do n't really care about the animals .", None, None, None, 1), ('It is wonderful that an organization was available', None, None, None, 0), ('to take these animals out of the zoo near the Gaza Strip .', None, None, None, 1), ('I will not be going to any zoos anytime soon . How about you ? Animals need to be free ,', None, None, None, 0), ('not stared at', None, None, None, 0), ('and yelled at by little children .', None, None, None, 1), ('They deserve space .', None, None, None, 1), ('For now on when someone asks me to go to a zoo ,', None, None, None, 0), ('my answer is nooooo !', None, None, None, 1)]

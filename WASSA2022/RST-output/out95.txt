@@ -1,0 +1,31 @@
+=====================> [[('Read this article ,', None, None, None, 0), ('this happened in Georgia', None, None, None, 0), ('where I live', None, None, None, 0), ('so I saw massive amounts of news coverage related to this case .', None, None, None, 1), ('I personally believe', None, None, None, 0), ('that the guy is guilty , there are too many things', None, None, None, 0), ('that he did', None, None, None, 0), ('and said', None, None, None, 0), ('that did not add up.It seems that he wanted to get rid of his kid', None, None, None, 0), ('and leave his wife', None, None, None, 0), ('and live his free lifestyle .', None, None, None, 1), ('I do not see any possible way', None, None, None, 0), ('that he did not know', None, None, None, 0), ('that the kid was in the car .', None, None, None, 1), ('That poor kid !', None, None, None, 1)]]
+Leaf:  N Same-Unit Read this article ,
+Leaf:  N Elaborate this happened in Georgia
+Leaf:  S span where I live
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit so I saw massive amounts of news coverage related to this case .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I personally believe
+Leaf:  N Elaborate that the guy is guilty , there are too many things
+Leaf:  N Joint that he did
+Leaf:  N Elaborate and said
+Leaf:  N Joint that did not add up.It seems that he wanted to get rid of his kid
+Leaf:  N Joint and leave his wife
+Leaf:  N Joint and live his free lifestyle .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I do not see any possible way
+Leaf:  S span that he did not know
+Leaf:  N Attribution that the kid was in the car .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span That poor kid !
+Inner:  Root None None Evaluation NS
+[('Read this article ,', None, None, None, 0), ('this happened in Georgia', None, None, None, 0), ('where I live', None, None, None, 0), ('so I saw massive amounts of news coverage related to this case .', None, None, None, 1), ('I personally believe', None, None, None, 0), ('that the guy is guilty , there are too many things', None, None, None, 0), ('that he did', None, None, None, 0), ('and said', None, None, None, 0), ('that did not add up.It seems that he wanted to get rid of his kid', None, None, None, 0), ('and leave his wife', None, None, None, 0), ('and live his free lifestyle .', None, None, None, 1), ('I do not see any possible way', None, None, None, 0), ('that he did not know', None, None, None, 0), ('that the kid was in the car .', None, None, None, 1), ('That poor kid !', None, None, None, 1)]

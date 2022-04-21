@@ -1,0 +1,19 @@
+=====================> [[("It 's so sad to see that world hunger is still such a large issue in other countries ,", None, None, None, 0), ('especially when it seems like so much of our food goes to waste .', None, None, None, 1), ('Children passing out in the streets', None, None, None, 0), ('simply because they have no food', None, None, None, 0), ('to eat', None, None, None, 0), ('is heartbreaking .', None, None, None, 1), ('No one should have to suffer', None, None, None, 0), ("simply because they ca n't afford food .", None, None, None, 1), ('There needs to be another option .', None, None, None, 1)]]
+Leaf:  N Background It 's so sad to see that world hunger is still such a large issue in other countries ,
+Leaf:  S span especially when it seems like so much of our food goes to waste .
+Inner:  N Explanation None Background NS
+Leaf:  N Cause Children passing out in the streets
+Leaf:  N Elaborate simply because they have no food
+Leaf:  S span to eat
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Cause NS
+Leaf:  N Same-Unit is heartbreaking .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Cause No one should have to suffer
+Leaf:  S span simply because they ca n't afford food .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Explanation NS
+Leaf:  N Contrast There needs to be another option .
+Inner:  Root None None Contrast NN
+[("It 's so sad to see that world hunger is still such a large issue in other countries ,", None, None, None, 0), ('especially when it seems like so much of our food goes to waste .', None, None, None, 1), ('Children passing out in the streets', None, None, None, 0), ('simply because they have no food', None, None, None, 0), ('to eat', None, None, None, 0), ('is heartbreaking .', None, None, None, 1), ('No one should have to suffer', None, None, None, 0), ("simply because they ca n't afford food .", None, None, None, 1), ('There needs to be another option .', None, None, None, 1)]

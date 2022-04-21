@@ -1,0 +1,27 @@
+=====================> [[('A little animal', None, None, None, 0), ('called the vaquita is an endangered species .', None, None, None, 1), ('Efforts are being made', None, None, None, 0), ('to save the species', None, None, None, 0), ('but many conservation groups do not think', None, None, None, 0), ('these efforts will be successful .', None, None, None, 1), ('They call it " quick fix " intervention .', None, None, None, 1), ('Usually ,', None, None, None, 0), ('when efforts are made', None, None, None, 0), ('to conserve a species ,', None, None, None, 0), ('the efforts are unsuccessful .', None, None, None, 1), ('Apparently these animals are small porpoises', None, None, None, 0), ('which get trapped in nets .', None, None, None, 1)]]
+Leaf:  N Elaborate A little animal
+Leaf:  S span called the vaquita is an endangered species .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Efforts are being made
+Leaf:  S span to save the species
+Inner:  S span None Elaborate NS
+Leaf:  S span but many conservation groups do not think
+Leaf:  N Attribution these efforts will be successful .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span They call it " quick fix " intervention .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit Usually ,
+Leaf:  N Elaborate when efforts are made
+Leaf:  S span to conserve a species ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background the efforts are unsuccessful .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Apparently these animals are small porpoises
+Leaf:  S span which get trapped in nets .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('A little animal', None, None, None, 0), ('called the vaquita is an endangered species .', None, None, None, 1), ('Efforts are being made', None, None, None, 0), ('to save the species', None, None, None, 0), ('but many conservation groups do not think', None, None, None, 0), ('these efforts will be successful .', None, None, None, 1), ('They call it " quick fix " intervention .', None, None, None, 1), ('Usually ,', None, None, None, 0), ('when efforts are made', None, None, None, 0), ('to conserve a species ,', None, None, None, 0), ('the efforts are unsuccessful .', None, None, None, 1), ('Apparently these animals are small porpoises', None, None, None, 0), ('which get trapped in nets .', None, None, None, 1)]

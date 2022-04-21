@@ -1,0 +1,35 @@
+=====================> [[('Why do people think', None, None, None, 0), ('they can just illegally enter a country ?', None, None, None, 1), ('The article sounds so sympathetic and bias .', None, None, None, 1), ('Why do people act', None, None, None, 0), ('like coming here illegally', None, None, None, 0), ('is not breaking a law ?', None, None, None, 1), ('" They have n\'t broken any laws ! "', None, None, None, 0), ('Yes , they have . You break the law when you enter illegally ! What the fuck ! And you got Liberal scholars defending immigrants , repeating that nonsense of , " They do n\'t break any laws ! " What the fuck ? As a Mexican , I am appalled by other Mexicans', None, None, None, 0), ('defending this nonsense', None, None, None, 0), ('and seeing Mexico encourage this illegal immigration shit .', None, None, None, 1), ('Mexico needs to fix itself', None, None, None, 0), ('so that it can house people', None, None, None, 0), ("that wo n't want to run away from it .", None, None, None, 1), ('Fuck Mexico , they have ruined a lot of lives', None, None, None, 0), ('and they are not held responsible .', None, None, None, 1), ('Quit being politically correct about Mexico .', None, None, None, 1), ('Hold them accountable .', None, None, None, 1)]]
+Leaf:  S span Why do people think
+Leaf:  N Attribution they can just illegally enter a country ?
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Summary The article sounds so sympathetic and bias .
+Leaf:  N Elaborate Why do people act
+Leaf:  S span like coming here illegally
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is not breaking a law ?
+Inner:  N Summary None Same-Unit NN
+Leaf:  S span " They have n't broken any laws ! "
+Leaf:  N Elaborate Yes , they have . You break the law when you enter illegally ! What the fuck ! And you got Liberal scholars defending immigrants , repeating that nonsense of , " They do n't break any laws ! " What the fuck ? As a Mexican , I am appalled by other Mexicans
+Leaf:  N Joint defending this nonsense
+Leaf:  N Joint and seeing Mexico encourage this illegal immigration shit .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Enablement Mexico needs to fix itself
+Leaf:  N Elaborate so that it can house people
+Leaf:  S span that wo n't want to run away from it .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Cause Fuck Mexico , they have ruined a lot of lives
+Leaf:  N Cause and they are not held responsible .
+Inner:  S span None Cause NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Topic-Comment Quit being politically correct about Mexico .
+Leaf:  N Topic-Comment Hold them accountable .
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Why do people think', None, None, None, 0), ('they can just illegally enter a country ?', None, None, None, 1), ('The article sounds so sympathetic and bias .', None, None, None, 1), ('Why do people act', None, None, None, 0), ('like coming here illegally', None, None, None, 0), ('is not breaking a law ?', None, None, None, 1), ('" They have n\'t broken any laws ! "', None, None, None, 0), ('Yes , they have . You break the law when you enter illegally ! What the fuck ! And you got Liberal scholars defending immigrants , repeating that nonsense of , " They do n\'t break any laws ! " What the fuck ? As a Mexican , I am appalled by other Mexicans', None, None, None, 0), ('defending this nonsense', None, None, None, 0), ('and seeing Mexico encourage this illegal immigration shit .', None, None, None, 1), ('Mexico needs to fix itself', None, None, None, 0), ('so that it can house people', None, None, None, 0), ("that wo n't want to run away from it .", None, None, None, 1), ('Fuck Mexico , they have ruined a lot of lives', None, None, None, 0), ('and they are not held responsible .', None, None, None, 1), ('Quit being politically correct about Mexico .', None, None, None, 1), ('Hold them accountable .', None, None, None, 1)]

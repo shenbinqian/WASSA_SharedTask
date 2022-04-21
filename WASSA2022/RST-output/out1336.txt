@@ -1,0 +1,47 @@
+=====================> [[('I think', None, None, None, 0), ('this article is really inspirational .', None, None, None, 1), ("I did n't realize", None, None, None, 0), ('how much food', None, None, None, 0), ('we waste', None, None, None, 0), ('and how inefficient we are in this respect .', None, None, None, 1), ('I would like to change the way the world behave', None, None, None, 0), ('but this would be a big undertaking', None, None, None, 0), ('and I think', None, None, None, 0), ('it may be too big .', None, None, None, 1), ('There are small and big things', None, None, None, 0), ('that we can do with our daily meals and meal planning', None, None, None, 0), ('that can help with this problem of food waste', None, None, None, 0), ('but I think', None, None, None, 0), ('it will take more time and money to implement it .', None, None, None, 1), ('And im not sure what percentage it will get us towards 0 % waste .', None, None, None, 1), ('If it gets us less than 1 % more efficiency', None, None, None, 0), ('in how we use food ,', None, None, None, 0), ('than it may not be worth the effort ,', None, None, None, 0), ('and we may need to look at other ideas .', None, None, None, 1), ('Combating food waste could also lead to an increase', None, None, None, 0), ('it food poisoning', None, None, None, 0), ('since questionable foods in our refrigerator are thrown away as a precaution .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution this article is really inspirational .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I did n't realize
+Leaf:  N Elaborate how much food
+Leaf:  S span we waste
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and how inefficient we are in this respect .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I would like to change the way the world behave
+Leaf:  N Joint but this would be a big undertaking
+Leaf:  S span and I think
+Leaf:  N Attribution it may be too big .
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate There are small and big things
+Leaf:  S span that we can do with our daily meals and meal planning
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that can help with this problem of food waste
+Inner:  S span None Elaborate NS
+Leaf:  S span but I think
+Leaf:  N Attribution it will take more time and money to implement it .
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint And im not sure what percentage it will get us towards 0 % waste .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate If it gets us less than 1 % more efficiency
+Leaf:  S span in how we use food ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition than it may not be worth the effort ,
+Inner:  N Evaluation None Condition SN
+Leaf:  S span and we may need to look at other ideas .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Combating food waste could also lead to an increase
+Leaf:  S span it food poisoning
+Inner:  N Cause None Elaborate NS
+Leaf:  S span since questionable foods in our refrigerator are thrown away as a precaution .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I think', None, None, None, 0), ('this article is really inspirational .', None, None, None, 1), ("I did n't realize", None, None, None, 0), ('how much food', None, None, None, 0), ('we waste', None, None, None, 0), ('and how inefficient we are in this respect .', None, None, None, 1), ('I would like to change the way the world behave', None, None, None, 0), ('but this would be a big undertaking', None, None, None, 0), ('and I think', None, None, None, 0), ('it may be too big .', None, None, None, 1), ('There are small and big things', None, None, None, 0), ('that we can do with our daily meals and meal planning', None, None, None, 0), ('that can help with this problem of food waste', None, None, None, 0), ('but I think', None, None, None, 0), ('it will take more time and money to implement it .', None, None, None, 1), ('And im not sure what percentage it will get us towards 0 % waste .', None, None, None, 1), ('If it gets us less than 1 % more efficiency', None, None, None, 0), ('in how we use food ,', None, None, None, 0), ('than it may not be worth the effort ,', None, None, None, 0), ('and we may need to look at other ideas .', None, None, None, 1), ('Combating food waste could also lead to an increase', None, None, None, 0), ('it food poisoning', None, None, None, 0), ('since questionable foods in our refrigerator are thrown away as a precaution .', None, None, None, 1)]

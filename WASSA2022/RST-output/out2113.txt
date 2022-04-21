@@ -1,0 +1,31 @@
+=====================> [[('As a beleiver , I feel bad or fellow Christians', None, None, None, 0), ('being persecuted .', None, None, None, 1), ('The sermon on forgiveness caries weight ,', None, None, None, 0), ('but forgiveness does not means absence of consequences', None, None, None, 0), ('or that a person should not be cautious .', None, None, None, 1), ('I feel', None, None, None, 0), ('that the ones', None, None, None, 0), ('choosing to leave', None, None, None, 0), ('are doing the right things for them', None, None, None, 0), ('and that it should not be automatically implied', None, None, None, 0), ('that they are not forgiving .', None, None, None, 1), ('I hope', None, None, None, 0), ('that whatever choice is made', None, None, None, 0), ('that it leads to a peacful life', None, None, None, 0), ('without persecution .', None, None, None, 1)]]
+Leaf:  N Elaborate As a beleiver , I feel bad or fellow Christians
+Leaf:  S span being persecuted .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The sermon on forgiveness caries weight ,
+Leaf:  N Joint but forgiveness does not means absence of consequences
+Leaf:  N Joint or that a person should not be cautious .
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span I feel
+Leaf:  N Elaborate that the ones
+Leaf:  S span choosing to leave
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are doing the right things for them
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span and that it should not be automatically implied
+Leaf:  N Attribution that they are not forgiving .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I hope
+Leaf:  S span that whatever choice is made
+Leaf:  N Manner-Means that it leads to a peacful life
+Leaf:  S span without persecution .
+Inner:  N Condition None Manner-Means NS
+Inner:  N Attribution None Condition SN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('As a beleiver , I feel bad or fellow Christians', None, None, None, 0), ('being persecuted .', None, None, None, 1), ('The sermon on forgiveness caries weight ,', None, None, None, 0), ('but forgiveness does not means absence of consequences', None, None, None, 0), ('or that a person should not be cautious .', None, None, None, 1), ('I feel', None, None, None, 0), ('that the ones', None, None, None, 0), ('choosing to leave', None, None, None, 0), ('are doing the right things for them', None, None, None, 0), ('and that it should not be automatically implied', None, None, None, 0), ('that they are not forgiving .', None, None, None, 1), ('I hope', None, None, None, 0), ('that whatever choice is made', None, None, None, 0), ('that it leads to a peacful life', None, None, None, 0), ('without persecution .', None, None, None, 1)]

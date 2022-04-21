@@ -1,0 +1,27 @@
+=====================> [[('hello friend , how have you been lately ,', None, None, None, 0), ('I am somewhat depressed by an article', None, None, None, 0), ('that I read recently ,', None, None, None, 0), ('that helped me a lot ,', None, None, None, 0), ('that I realized', None, None, None, 0), ('that the article had a problem', None, None, None, 0), ('that interested me more ,', None, None, None, 0), ('because of the events that were happening in this , for example :', None, None, None, 0), ('He did not vaccinate or treat his cattle due to illness ;', None, None, None, 0), ('he does not use cowboys', None, None, None, 0), ('to control them', None, None, None, 0), ('and cope ;', None, None, None, 0), ('does not manage or control the reproduction', None, None, None, 0)]]
+Leaf:  N Elaborate hello friend , how have you been lately ,
+Leaf:  N Elaborate I am somewhat depressed by an article
+Leaf:  S span that I read recently ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that helped me a lot ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that I realized
+Leaf:  N Elaborate that the article had a problem
+Leaf:  S span that interested me more ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span because of the events that were happening in this , for example :
+Inner:  N Elaborate None Cause NS
+Leaf:  N Joint He did not vaccinate or treat his cattle due to illness ;
+Leaf:  N Enablement he does not use cowboys
+Leaf:  N Joint to control them
+Leaf:  N Joint and cope ;
+Inner:  S span None Joint NN
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint does not manage or control the reproduction
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('hello friend , how have you been lately ,', None, None, None, 0), ('I am somewhat depressed by an article', None, None, None, 0), ('that I read recently ,', None, None, None, 0), ('that helped me a lot ,', None, None, None, 0), ('that I realized', None, None, None, 0), ('that the article had a problem', None, None, None, 0), ('that interested me more ,', None, None, None, 0), ('because of the events that were happening in this , for example :', None, None, None, 0), ('He did not vaccinate or treat his cattle due to illness ;', None, None, None, 0), ('he does not use cowboys', None, None, None, 0), ('to control them', None, None, None, 0), ('and cope ;', None, None, None, 0), ('does not manage or control the reproduction', None, None, None, 0)]

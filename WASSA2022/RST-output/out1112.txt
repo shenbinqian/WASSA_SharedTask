@@ -1,0 +1,17 @@
+=====================> [[('I blame this on the neo-liberal policies of Barack Obama .', None, None, None, 1), ('He made a lot of hope', None, None, None, 0), ('and change promises', None, None, None, 0), ('and delivered nothing .', None, None, None, 1), ("After 8 years peoples lives have n't gotten better .", None, None, None, 1), ('Having a choice between Donald Trump and Hillary Clinton is ridiculous .', None, None, None, 1), ('The mainstream media carries a lot of this blame as well', None, None, None, 0), ('for not informing the public about issues and only reporting sensationalism garbage .', None, None, None, 1)]]
+Leaf:  N Elaborate I blame this on the neo-liberal policies of Barack Obama .
+Leaf:  N Joint He made a lot of hope
+Leaf:  N Joint and change promises
+Leaf:  N Joint and delivered nothing .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Background None Elaborate NS
+Leaf:  S span After 8 years peoples lives have n't gotten better .
+Inner:  N Evaluation None Background NS
+Leaf:  S span Having a choice between Donald Trump and Hillary Clinton is ridiculous .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation The mainstream media carries a lot of this blame as well
+Leaf:  S span for not informing the public about issues and only reporting sensationalism garbage .
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I blame this on the neo-liberal policies of Barack Obama .', None, None, None, 1), ('He made a lot of hope', None, None, None, 0), ('and change promises', None, None, None, 0), ('and delivered nothing .', None, None, None, 1), ("After 8 years peoples lives have n't gotten better .", None, None, None, 1), ('Having a choice between Donald Trump and Hillary Clinton is ridiculous .', None, None, None, 1), ('The mainstream media carries a lot of this blame as well', None, None, None, 0), ('for not informing the public about issues and only reporting sensationalism garbage .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Hey !', None, None, None, 1), ('Did you see Harambe is back in the news again ?', None, None, None, 1), ('They are blaming the park again', None, None, None, 0), ('for " not being up to code "', None, None, None, 0), ('when they were and never have been out of code .', None, None, None, 1), ('That accident was exactly that an accident .', None, None, None, 1), ('It clearly says on signs at almost every zoo , do not hang over', None, None, None, 0), ('and not to climb the fences .', None, None, None, 1), ('The child may have been told by the parents not to but thats why they are called accidents .', None, None, None, 1), ('because children do not listen .', None, None, None, 1), ('Sadily it cost Harambe his life .', None, None, None, 1)]]
+Leaf:  N Summary Hey !
+Leaf:  S span Did you see Harambe is back in the news again ?
+Inner:  N Elaborate None Summary NS
+Leaf:  N Explanation They are blaming the park again
+Leaf:  N Comparison for " not being up to code "
+Leaf:  S span when they were and never have been out of code .
+Inner:  S span None Comparison NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate That accident was exactly that an accident .
+Leaf:  N Joint It clearly says on signs at almost every zoo , do not hang over
+Leaf:  N Joint and not to climb the fences .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause The child may have been told by the parents not to but thats why they are called accidents .
+Leaf:  S span because children do not listen .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Sadily it cost Harambe his life .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey !', None, None, None, 1), ('Did you see Harambe is back in the news again ?', None, None, None, 1), ('They are blaming the park again', None, None, None, 0), ('for " not being up to code "', None, None, None, 0), ('when they were and never have been out of code .', None, None, None, 1), ('That accident was exactly that an accident .', None, None, None, 1), ('It clearly says on signs at almost every zoo , do not hang over', None, None, None, 0), ('and not to climb the fences .', None, None, None, 1), ('The child may have been told by the parents not to but thats why they are called accidents .', None, None, None, 1), ('because children do not listen .', None, None, None, 1), ('Sadily it cost Harambe his life .', None, None, None, 1)]

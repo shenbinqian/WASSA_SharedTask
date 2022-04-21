@@ -1,0 +1,29 @@
+=====================> [[('I think', None, None, None, 0), ("it is crazy that these employees were put through this at Well 's Fargo .", None, None, None, 1), ('I have never worked at a bank before ,', None, None, None, 0), ('but being told to reach a quota , even by the means', None, None, None, 0), ('of doing illegal tasks', None, None, None, 0), ("to accomplish what they needed to do . I ca n't imagine coming into working everyday", None, None, None, 0), ('and wondering', None, None, None, 0), ('if I was going to be considered a good or a bad employee .', None, None, None, 1), ('It would infuriate me to have earned a bonus', None, None, None, 0), ('and then be told I can not have it', None, None, None, 0), ('because I am being developed as an employee .', None, None, None, 1), ('I am glad', None, None, None, 0), ('they decided to make the change .', None, None, None, 1), ('It sounds better for their employees .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it is crazy that these employees were put through this at Well 's Fargo .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I have never worked at a bank before ,
+Leaf:  N Elaborate but being told to reach a quota , even by the means
+Leaf:  N Enablement of doing illegal tasks
+Leaf:  S span to accomplish what they needed to do . I ca n't imagine coming into working everyday
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and wondering
+Inner:  S span None Joint NN
+Leaf:  N Attribution if I was going to be considered a good or a bad employee .
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  N Temporal It would infuriate me to have earned a bonus
+Leaf:  N Explanation and then be told I can not have it
+Leaf:  S span because I am being developed as an employee .
+Inner:  N Temporal None Explanation NS
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am glad
+Leaf:  N Attribution they decided to make the change .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It sounds better for their employees .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I think', None, None, None, 0), ("it is crazy that these employees were put through this at Well 's Fargo .", None, None, None, 1), ('I have never worked at a bank before ,', None, None, None, 0), ('but being told to reach a quota , even by the means', None, None, None, 0), ('of doing illegal tasks', None, None, None, 0), ("to accomplish what they needed to do . I ca n't imagine coming into working everyday", None, None, None, 0), ('and wondering', None, None, None, 0), ('if I was going to be considered a good or a bad employee .', None, None, None, 1), ('It would infuriate me to have earned a bonus', None, None, None, 0), ('and then be told I can not have it', None, None, None, 0), ('because I am being developed as an employee .', None, None, None, 1), ('I am glad', None, None, None, 0), ('they decided to make the change .', None, None, None, 1), ('It sounds better for their employees .', None, None, None, 1)]

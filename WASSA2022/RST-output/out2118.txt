@@ -1,0 +1,35 @@
+=====================> [[('This article makes me feel melancholy and wistful .', None, None, None, 1), ('I like Val Kilmer and a lot of his movies .', None, None, None, 1), ("I 'd be sad", None, None, None, 0), ('if he died ,', None, None, None, 0), ("even though he does n't really have anything to do with me", None, None, None, 0), ("and it 's sort of silly to grieve a celebrity 's death . But I guess", None, None, None, 0), ('his movies represent some of my youth ,', None, None, None, 0), ("so his identity represents some of my own as well . I 'm a little confused", None, None, None, 0), ('why he seems to be denying statements about his failing health ,', None, None, None, 0), ("as if it 's important to make people think", None, None, None, 0), ("he 's healthy .", None, None, None, 1), ("I do n't understand it either way .", None, None, None, 1), ('Why not just keep it private either way ? But whatever .', None, None, None, 1), ('I like Val', None, None, None, 0), ('and will be somewhat sad', None, None, None, 0), ('when he dies ,', None, None, None, 0), ("whether it 's sooner or later .", None, None, None, 1)]]
+Leaf:  N Explanation This article makes me feel melancholy and wistful .
+Leaf:  S span I like Val Kilmer and a lot of his movies .
+Leaf:  N Condition I 'd be sad
+Leaf:  S span if he died ,
+Inner:  N Contrast None Condition NS
+Leaf:  N Joint even though he does n't really have anything to do with me
+Leaf:  N Joint and it 's sort of silly to grieve a celebrity 's death . But I guess
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Leaf:  N Cause his movies represent some of my youth ,
+Leaf:  S span so his identity represents some of my own as well . I 'm a little confused
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Leaf:  N Background why he seems to be denying statements about his failing health ,
+Leaf:  S span as if it 's important to make people think
+Leaf:  N Attribution he 's healthy .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Evaluation I do n't understand it either way .
+Leaf:  S span Why not just keep it private either way ? But whatever .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I like Val
+Leaf:  N Contrast and will be somewhat sad
+Leaf:  S span when he dies ,
+Inner:  N Contrast None Contrast NS
+Leaf:  S span whether it 's sooner or later .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This article makes me feel melancholy and wistful .', None, None, None, 1), ('I like Val Kilmer and a lot of his movies .', None, None, None, 1), ("I 'd be sad", None, None, None, 0), ('if he died ,', None, None, None, 0), ("even though he does n't really have anything to do with me", None, None, None, 0), ("and it 's sort of silly to grieve a celebrity 's death . But I guess", None, None, None, 0), ('his movies represent some of my youth ,', None, None, None, 0), ("so his identity represents some of my own as well . I 'm a little confused", None, None, None, 0), ('why he seems to be denying statements about his failing health ,', None, None, None, 0), ("as if it 's important to make people think", None, None, None, 0), ("he 's healthy .", None, None, None, 1), ("I do n't understand it either way .", None, None, None, 1), ('Why not just keep it private either way ? But whatever .', None, None, None, 1), ('I like Val', None, None, None, 0), ('and will be somewhat sad', None, None, None, 0), ('when he dies ,', None, None, None, 0), ("whether it 's sooner or later .", None, None, None, 1)]

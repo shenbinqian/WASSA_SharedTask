@@ -1,0 +1,19 @@
+=====================> [[('this is a very tricky story ,', None, None, None, 0), ('Cook a 20-year-old business major with no criminal history , has seemingly been charged , tried , and convicted .', None, None, None, 1), ('there is a lot of evidence', None, None, None, 0), ('coming out', None, None, None, 0), ('to accuse him of sexual harassment and rape', None, None, None, 0), ('but he denies', None, None, None, 0), ('and calls it consensual acts of sex .', None, None, None, 1), ('His lawyer has asked', None, None, None, 0), ('that cook is not crucified on what is being said but by facts .', None, None, None, 1)]]
+Leaf:  N Topic-Comment this is a very tricky story ,
+Leaf:  N Elaborate Cook a 20-year-old business major with no criminal history , has seemingly been charged , tried , and convicted .
+Leaf:  N Elaborate there is a lot of evidence
+Leaf:  N Enablement coming out
+Leaf:  S span to accuse him of sexual harassment and rape
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Leaf:  N Joint but he denies
+Leaf:  N Joint and calls it consensual acts of sex .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span His lawyer has asked
+Leaf:  N Attribution that cook is not crucified on what is being said but by facts .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('this is a very tricky story ,', None, None, None, 0), ('Cook a 20-year-old business major with no criminal history , has seemingly been charged , tried , and convicted .', None, None, None, 1), ('there is a lot of evidence', None, None, None, 0), ('coming out', None, None, None, 0), ('to accuse him of sexual harassment and rape', None, None, None, 0), ('but he denies', None, None, None, 0), ('and calls it consensual acts of sex .', None, None, None, 1), ('His lawyer has asked', None, None, None, 0), ('that cook is not crucified on what is being said but by facts .', None, None, None, 1)]

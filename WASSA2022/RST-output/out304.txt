@@ -1,0 +1,23 @@
+=====================> [[('You should read this article on climate change .', None, None, None, 1), ("It 's incredibly fascinating .", None, None, None, 1), ('Climate change is happening', None, None, None, 0), ("and it 's really scary .", None, None, None, 1), ('Humans are causing it .', None, None, None, 1), ('It will soon be a major problem for us all .', None, None, None, 1), ('It affects all life on earth , not just people .', None, None, None, 1), ('Biodiversity has been affected', None, None, None, 0), ('and has gone down .', None, None, None, 1), ('Temperatures are changing for the worse .', None, None, None, 1), ("It 's simply awful .", None, None, None, 1)]]
+Leaf:  N Elaborate You should read this article on climate change .
+Leaf:  S span It 's incredibly fascinating .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Climate change is happening
+Leaf:  N Joint and it 's really scary .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Humans are causing it .
+Leaf:  N Cause It will soon be a major problem for us all .
+Inner:  S span None Cause SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It affects all life on earth , not just people .
+Leaf:  N Joint Biodiversity has been affected
+Leaf:  N Joint and has gone down .
+Inner:  N Joint None Joint NN
+Leaf:  N Evaluation Temperatures are changing for the worse .
+Leaf:  S span It 's simply awful .
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('You should read this article on climate change .', None, None, None, 1), ("It 's incredibly fascinating .", None, None, None, 1), ('Climate change is happening', None, None, None, 0), ("and it 's really scary .", None, None, None, 1), ('Humans are causing it .', None, None, None, 1), ('It will soon be a major problem for us all .', None, None, None, 1), ('It affects all life on earth , not just people .', None, None, None, 1), ('Biodiversity has been affected', None, None, None, 0), ('and has gone down .', None, None, None, 1), ('Temperatures are changing for the worse .', None, None, None, 1), ("It 's simply awful .", None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Wow .', None, None, None, 1), ('That is really sad !!!!!!!!!!!!!!', None, None, None, 1), ('I wonder', None, None, None, 0), ('why his friend would kill him .', None, None, None, 1), ('Must not have been friends after all , huh ?????? I wonder', None, None, None, 0), ('how long the body had been there', None, None, None, 0), ('before he was found . Money was probably the motive', None, None, None, 0), ('since it usually is .', None, None, None, 1), ('He probably got over on him somehow', None, None, None, 0), ('and dude got his revenge . Oh well .......', None, None, None, 1)]]
+Leaf:  N Evaluation Wow .
+Leaf:  S span That is really sad !!!!!!!!!!!!!!
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Attribution why his friend would kill him .
+Inner:  N Summary None Attribution SN
+Leaf:  S span Must not have been friends after all , huh ?????? I wonder
+Inner:  N Elaborate None Summary NS
+Leaf:  N Temporal how long the body had been there
+Leaf:  N Background before he was found . Money was probably the motive
+Leaf:  S span since it usually is .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Temporal He probably got over on him somehow
+Leaf:  N Temporal and dude got his revenge . Oh well .......
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Wow .', None, None, None, 1), ('That is really sad !!!!!!!!!!!!!!', None, None, None, 1), ('I wonder', None, None, None, 0), ('why his friend would kill him .', None, None, None, 1), ('Must not have been friends after all , huh ?????? I wonder', None, None, None, 0), ('how long the body had been there', None, None, None, 0), ('before he was found . Money was probably the motive', None, None, None, 0), ('since it usually is .', None, None, None, 1), ('He probably got over on him somehow', None, None, None, 0), ('and dude got his revenge . Oh well .......', None, None, None, 1)]

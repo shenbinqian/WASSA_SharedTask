@@ -1,0 +1,17 @@
+=====================> [[('Global warming is an issue', None, None, None, 0), ('that has been brewing for some time', None, None, None, 0), ('and seems to be getting torn in all directions', None, None, None, 0), ('as it is not a grey issue but a black and white issue', None, None, None, 0), ('meaning it is either happening', None, None, None, 0), ('or it is not .', None, None, None, 1), ('It is hard to see which side has the more valid argument over the other', None, None, None, 0), ('since everyone involved is so passionate about their side of it all .', None, None, None, 1)]]
+Leaf:  N Elaborate Global warming is an issue
+Leaf:  N Joint that has been brewing for some time
+Leaf:  N Joint and seems to be getting torn in all directions
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate as it is not a grey issue but a black and white issue
+Leaf:  N Joint meaning it is either happening
+Leaf:  N Joint or it is not .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation It is hard to see which side has the more valid argument over the other
+Leaf:  S span since everyone involved is so passionate about their side of it all .
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Global warming is an issue', None, None, None, 0), ('that has been brewing for some time', None, None, None, 0), ('and seems to be getting torn in all directions', None, None, None, 0), ('as it is not a grey issue but a black and white issue', None, None, None, 0), ('meaning it is either happening', None, None, None, 0), ('or it is not .', None, None, None, 1), ('It is hard to see which side has the more valid argument over the other', None, None, None, 0), ('since everyone involved is so passionate about their side of it all .', None, None, None, 1)]

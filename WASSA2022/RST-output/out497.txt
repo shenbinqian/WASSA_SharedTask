@@ -1,0 +1,25 @@
+=====================> [[('This is sort of scary .', None, None, None, 1), ('I think', None, None, None, 0), ('it could have something to do with water contamination .', None, None, None, 1), ('There are so many types of bacteria .', None, None, None, 1), ('There are also so many different types of pesticides', None, None, None, 0), ('used in farming .', None, None, None, 1), ('I do think', None, None, None, 0), ("it 's strange that this happened in a small area ,", None, None, None, 0), ('which again , would lead me to think contamination of the ground or water . I wonder about the reference to the cattle ,', None, None, None, 0), ('thinking', None, None, None, 0), ('that might have something to do with it .', None, None, None, 1), ('Scary stuff !', None, None, None, 1)]]
+Leaf:  N Explanation This is sort of scary .
+Leaf:  S span I think
+Leaf:  N Attribution it could have something to do with water contamination .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint There are so many types of bacteria .
+Leaf:  N Elaborate There are also so many different types of pesticides
+Leaf:  S span used in farming .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I do think
+Leaf:  N Evaluation it 's strange that this happened in a small area ,
+Leaf:  S span which again , would lead me to think contamination of the ground or water . I wonder about the reference to the cattle ,
+Inner:  N Background None Evaluation NS
+Leaf:  S span thinking
+Leaf:  N Attribution that might have something to do with it .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Scary stuff !
+Inner:  Root None None Evaluation NS
+[('This is sort of scary .', None, None, None, 1), ('I think', None, None, None, 0), ('it could have something to do with water contamination .', None, None, None, 1), ('There are so many types of bacteria .', None, None, None, 1), ('There are also so many different types of pesticides', None, None, None, 0), ('used in farming .', None, None, None, 1), ('I do think', None, None, None, 0), ("it 's strange that this happened in a small area ,", None, None, None, 0), ('which again , would lead me to think contamination of the ground or water . I wonder about the reference to the cattle ,', None, None, None, 0), ('thinking', None, None, None, 0), ('that might have something to do with it .', None, None, None, 1), ('Scary stuff !', None, None, None, 1)]

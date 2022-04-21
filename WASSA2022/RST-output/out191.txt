@@ -1,0 +1,45 @@
+=====================> [[('Details and information about the past is used', None, None, None, 0), ('to make decisions ,', None, None, None, 0), ('as past experiences of feelings influence current decision-making ,', None, None, None, 0), ('how people will feel in the future ,', None, None, None, 0), ('and if they want to feel that way again .', None, None, None, 1), ('Gilbert and Wilson conducted a study', None, None, None, 0), ('to show', None, None, None, 0), ('how pleased a person would feel', None, None, None, 0), ('if they purchased flowers for themselves for no specific reason', None, None, None, 0), ('( birthday , anniversary , or promotion etc. )', None, None, None, 0), ('and how long they thought', None, None, None, 0), ('that feeling would last . People who had no experience', None, None, None, 0), ('of purchasing flowers for themselves', None, None, None, 0), ('and those', None, None, None, 0), ('who had experienced buying flowers for themselves', None, None, None, 0), ('were tested .', None, None, None, 1), ('Results showed', None, None, None, 0), ('that those', None, None, None, 0), ('who had purchased flowers in the past for themselves', None, None, None, 0), ('felt happier', None, None, None, 0), ('and that feeling lasted longer for them than for a person', None, None, None, 0), ('who had never experienced purchasing flowers for themselves', None, None, None, 0)]]
+Leaf:  N Enablement Details and information about the past is used
+Leaf:  S span to make decisions ,
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint as past experiences of feelings influence current decision-making ,
+Inner:  N Joint None Joint NN
+Leaf:  N Joint how people will feel in the future ,
+Leaf:  N Joint and if they want to feel that way again .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Enablement Gilbert and Wilson conducted a study
+Leaf:  S span to show
+Leaf:  N Condition how pleased a person would feel
+Leaf:  N Elaborate if they purchased flowers for themselves for no specific reason
+Leaf:  S span ( birthday , anniversary , or promotion etc. )
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Condition NS
+Leaf:  S span and how long they thought
+Leaf:  N Elaborate that feeling would last . People who had no experience
+Leaf:  S span of purchasing flowers for themselves
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Elaborate and those
+Leaf:  S span who had experienced buying flowers for themselves
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit were tested .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span Results showed
+Leaf:  N Elaborate that those
+Leaf:  S span who had purchased flowers in the past for themselves
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit felt happier
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and that feeling lasted longer for them than for a person
+Leaf:  S span who had never experienced purchasing flowers for themselves
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Details and information about the past is used', None, None, None, 0), ('to make decisions ,', None, None, None, 0), ('as past experiences of feelings influence current decision-making ,', None, None, None, 0), ('how people will feel in the future ,', None, None, None, 0), ('and if they want to feel that way again .', None, None, None, 1), ('Gilbert and Wilson conducted a study', None, None, None, 0), ('to show', None, None, None, 0), ('how pleased a person would feel', None, None, None, 0), ('if they purchased flowers for themselves for no specific reason', None, None, None, 0), ('( birthday , anniversary , or promotion etc. )', None, None, None, 0), ('and how long they thought', None, None, None, 0), ('that feeling would last . People who had no experience', None, None, None, 0), ('of purchasing flowers for themselves', None, None, None, 0), ('and those', None, None, None, 0), ('who had experienced buying flowers for themselves', None, None, None, 0), ('were tested .', None, None, None, 1), ('Results showed', None, None, None, 0), ('that those', None, None, None, 0), ('who had purchased flowers in the past for themselves', None, None, None, 0), ('felt happier', None, None, None, 0), ('and that feeling lasted longer for them than for a person', None, None, None, 0), ('who had never experienced purchasing flowers for themselves', None, None, None, 0)]

@@ -1,0 +1,29 @@
+=====================> [[('I am not sure', None, None, None, 0), ('what to think of this article', None, None, None, 0), ('as I have probably a different opinion', None, None, None, 0), ('than most would .', None, None, None, 1), ("First of all why would n't she report this at the time", None, None, None, 0), ('it happened ,', None, None, None, 0), ('instead of waiting years and years later', None, None, None, 0), ('to come forward ?', None, None, None, 1), ("I get the whole he 's a powerful person", None, None, None, 0), ('and nobody would believe her part ,', None, None, None, 0), ("but who 's really going to believe her", None, None, None, 0), ('years later', None, None, None, 0), ('and why would she come out with it now and not before ? What change ? Why is she willing to exploit this man years later', None, None, None, 0), ("but was n't able to do it years before ?", None, None, None, 1)]]
+Leaf:  S span I am not sure
+Leaf:  N Attribution what to think of this article
+Inner:  N Background None Attribution SN
+Leaf:  N Comparison as I have probably a different opinion
+Leaf:  S span than most would .
+Inner:  S span None Comparison NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate First of all why would n't she report this at the time
+Leaf:  S span it happened ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Enablement instead of waiting years and years later
+Leaf:  S span to come forward ?
+Inner:  S span None Enablement NS
+Inner:  N Joint None Contrast NS
+Leaf:  N Joint I get the whole he 's a powerful person
+Leaf:  N Joint and nobody would believe her part ,
+Inner:  S span None Joint NN
+Leaf:  N Same-Unit but who 's really going to believe her
+Leaf:  N Same-Unit years later
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Contrast and why would she come out with it now and not before ? What change ? Why is she willing to exploit this man years later
+Leaf:  S span but was n't able to do it years before ?
+Inner:  N Joint None Contrast NS
+Inner:  N Contrast None Joint NN
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I am not sure', None, None, None, 0), ('what to think of this article', None, None, None, 0), ('as I have probably a different opinion', None, None, None, 0), ('than most would .', None, None, None, 1), ("First of all why would n't she report this at the time", None, None, None, 0), ('it happened ,', None, None, None, 0), ('instead of waiting years and years later', None, None, None, 0), ('to come forward ?', None, None, None, 1), ("I get the whole he 's a powerful person", None, None, None, 0), ('and nobody would believe her part ,', None, None, None, 0), ("but who 's really going to believe her", None, None, None, 0), ('years later', None, None, None, 0), ('and why would she come out with it now and not before ? What change ? Why is she willing to exploit this man years later', None, None, None, 0), ("but was n't able to do it years before ?", None, None, None, 1)]

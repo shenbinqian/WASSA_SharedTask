@@ -1,0 +1,23 @@
+=====================> [[("We 're really screwed about climate change ,", None, None, None, 0), ("are n't we ?", None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('that there are real people', None, None, None, 0), ('that make up a sizable part of our population', None, None, None, 0), ('that are this stupid .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('our president is this stupid .', None, None, None, 1), ("I would n't be sad", None, None, None, 0), ('if every conservative just dropped dead .', None, None, None, 1), ('The world would be a better place .', None, None, None, 1)]]
+Leaf:  N Attribution We 're really screwed about climate change ,
+Leaf:  S span are n't we ?
+Inner:  N Summary None Attribution NS
+Leaf:  S span I ca n't believe
+Leaf:  N Elaborate that there are real people
+Leaf:  S span that make up a sizable part of our population
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit that are this stupid .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution our president is this stupid .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I would n't be sad
+Leaf:  N Attribution if every conservative just dropped dead .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span The world would be a better place .
+Inner:  N Joint None Evaluation NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[("We 're really screwed about climate change ,", None, None, None, 0), ("are n't we ?", None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('that there are real people', None, None, None, 0), ('that make up a sizable part of our population', None, None, None, 0), ('that are this stupid .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('our president is this stupid .', None, None, None, 1), ("I would n't be sad", None, None, None, 0), ('if every conservative just dropped dead .', None, None, None, 1), ('The world would be a better place .', None, None, None, 1)]

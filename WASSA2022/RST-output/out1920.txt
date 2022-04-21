@@ -1,0 +1,21 @@
+=====================> [[("Well , that 's the thing .", None, None, None, 1), ('I can identify with things', None, None, None, 0), ('just not working out .', None, None, None, 1), ("It 's a lot like this project .", None, None, None, 1), ('A requester asks for an obnoxious amount of work', None, None, None, 0), ('and couples it with a short timer on the task .', None, None, None, 1), ('Then they want the work for free and good feedback .', None, None, None, 1), ('Do they get it ?', None, None, None, 1), ('Do they get good work for free ?', None, None, None, 1), ('I du n no . It feels like a scam and a waste of my time and theirs .', None, None, None, 1)]]
+Leaf:  N Elaborate Well , that 's the thing .
+Leaf:  N Elaborate I can identify with things
+Leaf:  S span just not working out .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It 's a lot like this project .
+Leaf:  N Joint A requester asks for an obnoxious amount of work
+Leaf:  N Joint and couples it with a short timer on the task .
+Inner:  N Temporal None Joint NN
+Leaf:  N Temporal Then they want the work for free and good feedback .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Joint Do they get it ?
+Leaf:  N Joint Do they get good work for free ?
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Textual-Organization I du n no . It feels like a scam and a waste of my time and theirs .
+Inner:  Root None None Textual-Organization NN
+[("Well , that 's the thing .", None, None, None, 1), ('I can identify with things', None, None, None, 0), ('just not working out .', None, None, None, 1), ("It 's a lot like this project .", None, None, None, 1), ('A requester asks for an obnoxious amount of work', None, None, None, 0), ('and couples it with a short timer on the task .', None, None, None, 1), ('Then they want the work for free and good feedback .', None, None, None, 1), ('Do they get it ?', None, None, None, 1), ('Do they get good work for free ?', None, None, None, 1), ('I du n no . It feels like a scam and a waste of my time and theirs .', None, None, None, 1)]

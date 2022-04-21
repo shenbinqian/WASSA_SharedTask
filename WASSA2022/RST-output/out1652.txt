@@ -1,0 +1,23 @@
+=====================> [[('I feel very sorry for their entire family', None, None, None, 0), ('regarding the divorce .', None, None, None, 1), ('Even though the daughters are now adults', None, None, None, 0), ("that does n't mean they are n't negatively affected .", None, None, None, 1), ('Twenty-seven years is a long time', None, None, None, 0), ('to be married ,', None, None, None, 0), ('and I think', None, None, None, 0), ('this translates to a long period of healing for the parents . Its not a good situation .', None, None, None, 1), ("I also wonder about the impact of the divorce on the daughters ' image of the security of marriage for their own lives .", None, None, None, 1), ('It seems that the parents did try for a long time .', None, None, None, 1), ('I wish them well .', None, None, None, 1)]]
+Leaf:  N Background I feel very sorry for their entire family
+Leaf:  S span regarding the divorce .
+Inner:  N Explanation None Background NS
+Leaf:  S span Even though the daughters are now adults
+Leaf:  N Contrast that does n't mean they are n't negatively affected .
+Inner:  S span None Contrast SN
+Inner:  N Explanation None Explanation NS
+Leaf:  N Elaborate Twenty-seven years is a long time
+Leaf:  S span to be married ,
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and I think
+Leaf:  N Attribution this translates to a long period of healing for the parents . Its not a good situation .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Joint I also wonder about the impact of the divorce on the daughters ' image of the security of marriage for their own lives .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It seems that the parents did try for a long time .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wish them well .
+Inner:  Root None None Evaluation NS
+[('I feel very sorry for their entire family', None, None, None, 0), ('regarding the divorce .', None, None, None, 1), ('Even though the daughters are now adults', None, None, None, 0), ("that does n't mean they are n't negatively affected .", None, None, None, 1), ('Twenty-seven years is a long time', None, None, None, 0), ('to be married ,', None, None, None, 0), ('and I think', None, None, None, 0), ('this translates to a long period of healing for the parents . Its not a good situation .', None, None, None, 1), ("I also wonder about the impact of the divorce on the daughters ' image of the security of marriage for their own lives .", None, None, None, 1), ('It seems that the parents did try for a long time .', None, None, None, 1), ('I wish them well .', None, None, None, 1)]

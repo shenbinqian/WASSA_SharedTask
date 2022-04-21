@@ -1,0 +1,27 @@
+=====================> [[("It 's really disturbing we have a president", None, None, None, 0), ('that enables all these terrible behaviors', None, None, None, 0), ('we are witnessing', None, None, None, 0), ('unfold before us .', None, None, None, 1), ('I am happy there movements like #Metoo exist', None, None, None, 0), ('to show people', None, None, None, 0), ("that we will not tolerate these kinds of acts . It 's like these people never had mothers or sisters .", None, None, None, 1), ('The way', None, None, None, 0), ('they act', None, None, None, 0), ('is beyond comprehension', None, None, None, 0), ('and I hope', None, None, None, 0), ('the media keeps exposing people', None, None, None, 0), ('who have bad intentions .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's really disturbing we have a president
+Leaf:  N Elaborate that enables all these terrible behaviors
+Leaf:  S span we are witnessing
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit unfold before us .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement I am happy there movements like #Metoo exist
+Leaf:  S span to show people
+Leaf:  N Attribution that we will not tolerate these kinds of acts . It 's like these people never had mothers or sisters .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate The way
+Leaf:  S span they act
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is beyond comprehension
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span and I hope
+Leaf:  N Elaborate the media keeps exposing people
+Leaf:  S span who have bad intentions .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's really disturbing we have a president", None, None, None, 0), ('that enables all these terrible behaviors', None, None, None, 0), ('we are witnessing', None, None, None, 0), ('unfold before us .', None, None, None, 1), ('I am happy there movements like #Metoo exist', None, None, None, 0), ('to show people', None, None, None, 0), ("that we will not tolerate these kinds of acts . It 's like these people never had mothers or sisters .", None, None, None, 1), ('The way', None, None, None, 0), ('they act', None, None, None, 0), ('is beyond comprehension', None, None, None, 0), ('and I hope', None, None, None, 0), ('the media keeps exposing people', None, None, None, 0), ('who have bad intentions .', None, None, None, 1)]

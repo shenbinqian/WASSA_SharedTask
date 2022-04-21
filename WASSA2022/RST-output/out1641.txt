@@ -1,0 +1,41 @@
+=====================> [[('I just read a horrible article online', None, None, None, 0), ('about 10 people', None, None, None, 0), ('getting hurt', None, None, None, 0), ('after a huge fire started in an apartment complex in Arizona .', None, None, None, 1), ('That is so horrible', None, None, None, 0), ('I really feel bad for them .', None, None, None, 1), ('The say', None, None, None, 0), ('that eight of the people had minor injuries', None, None, None, 0), ('so that is good', None, None, None, 0), ('that it was only minor . Unfortunately one person had to be taken to the hospital', None, None, None, 0), ('but they are in stable condition so that is good news . Apparently two people outside of the apartment were also hurt by the fire some how .', None, None, None, 1), ('I think', None, None, None, 0), ('they were able to get the fire under control pretty easily', None, None, None, 0), ('though cause it only lasted around 10 minutes .', None, None, None, 1), ('They had to have the gas company come', None, None, None, 0), ('and shut off the gas', None, None, None, 0), ('and apparently they are investigating', None, None, None, 0), ('what could have caused the fire in the first place .', None, None, None, 1), ('That reminds me of the fire', None, None, None, 0), ('that happened at my neighbors house .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a horrible article online
+Leaf:  N Elaborate about 10 people
+Leaf:  N Background getting hurt
+Leaf:  S span after a huge fire started in an apartment complex in Arizona .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation That is so horrible
+Leaf:  S span I really feel bad for them .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The say
+Leaf:  N Evaluation that eight of the people had minor injuries
+Leaf:  N Elaborate so that is good
+Leaf:  S span that it was only minor . Unfortunately one person had to be taken to the hospital
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but they are in stable condition so that is good news . Apparently two people outside of the apartment were also hurt by the fire some how .
+Inner:  S span None Contrast SN
+Inner:  N Attribution None Evaluation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I think
+Leaf:  N Contrast they were able to get the fire under control pretty easily
+Leaf:  S span though cause it only lasted around 10 minutes .
+Inner:  N Attribution None Contrast NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Joint They had to have the gas company come
+Leaf:  N Joint and shut off the gas
+Inner:  N Temporal None Joint NN
+Leaf:  S span and apparently they are investigating
+Leaf:  N Attribution what could have caused the fire in the first place .
+Inner:  N Temporal None Attribution SN
+Inner:  S span None Temporal NN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate That reminds me of the fire
+Leaf:  S span that happened at my neighbors house .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read a horrible article online', None, None, None, 0), ('about 10 people', None, None, None, 0), ('getting hurt', None, None, None, 0), ('after a huge fire started in an apartment complex in Arizona .', None, None, None, 1), ('That is so horrible', None, None, None, 0), ('I really feel bad for them .', None, None, None, 1), ('The say', None, None, None, 0), ('that eight of the people had minor injuries', None, None, None, 0), ('so that is good', None, None, None, 0), ('that it was only minor . Unfortunately one person had to be taken to the hospital', None, None, None, 0), ('but they are in stable condition so that is good news . Apparently two people outside of the apartment were also hurt by the fire some how .', None, None, None, 1), ('I think', None, None, None, 0), ('they were able to get the fire under control pretty easily', None, None, None, 0), ('though cause it only lasted around 10 minutes .', None, None, None, 1), ('They had to have the gas company come', None, None, None, 0), ('and shut off the gas', None, None, None, 0), ('and apparently they are investigating', None, None, None, 0), ('what could have caused the fire in the first place .', None, None, None, 1), ('That reminds me of the fire', None, None, None, 0), ('that happened at my neighbors house .', None, None, None, 1)]

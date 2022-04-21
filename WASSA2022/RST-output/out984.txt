@@ -1,0 +1,19 @@
+=====================> [[('Another example of the Government disregard for the Indian people', None, None, None, 0), ('who lived here', None, None, None, 0), ('before we ever arrived .', None, None, None, 1), ('Sad in this day and age they are just trying to protect their land .', None, None, None, 1), ('Stop the potential for environmental damage to the land', None, None, None, 0), ('where they have lived for thousands of years .', None, None, None, 1), ("Do n't we learn anything from history .", None, None, None, 1), ('How can they shot and harm these people', None, None, None, 0), ('just protecting their land and way of life .', None, None, None, 1)]]
+Leaf:  N Elaborate Another example of the Government disregard for the Indian people
+Leaf:  S span who lived here
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before we ever arrived .
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Joint Sad in this day and age they are just trying to protect their land .
+Leaf:  N Elaborate Stop the potential for environmental damage to the land
+Leaf:  S span where they have lived for thousands of years .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate Do n't we learn anything from history .
+Leaf:  N Elaborate How can they shot and harm these people
+Leaf:  S span just protecting their land and way of life .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Another example of the Government disregard for the Indian people', None, None, None, 0), ('who lived here', None, None, None, 0), ('before we ever arrived .', None, None, None, 1), ('Sad in this day and age they are just trying to protect their land .', None, None, None, 1), ('Stop the potential for environmental damage to the land', None, None, None, 0), ('where they have lived for thousands of years .', None, None, None, 1), ("Do n't we learn anything from history .", None, None, None, 1), ('How can they shot and harm these people', None, None, None, 0), ('just protecting their land and way of life .', None, None, None, 1)]

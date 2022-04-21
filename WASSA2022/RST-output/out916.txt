@@ -1,0 +1,27 @@
+=====================> [[('I wish', None, None, None, 0), ('more people would donate food', None, None, None, 0), ("that 's still good", None, None, None, 0), ('instead of throwing it away .', None, None, None, 1), ("There 's so many people", None, None, None, 0), ('who gladly take anything', None, None, None, 0), ('to eat', None, None, None, 0), ("and there 's people", None, None, None, 0), ('just throwing out perfectly good food .', None, None, None, 1), ('There should be some way', None, None, None, 0), ('to easily take food', None, None, None, 0), ('or even have someone come pick it up', None, None, None, 0), ('and then the food can go to needy starving people .', None, None, None, 1)]]
+Leaf:  S span I wish
+Leaf:  N Elaborate more people would donate food
+Leaf:  S span that 's still good
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast instead of throwing it away .
+Inner:  N Attribution None Contrast NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate There 's so many people
+Leaf:  N Enablement who gladly take anything
+Leaf:  S span to eat
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and there 's people
+Leaf:  S span just throwing out perfectly good food .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate There should be some way
+Leaf:  N Joint to easily take food
+Leaf:  N Joint or even have someone come pick it up
+Inner:  N Temporal None Joint NN
+Leaf:  N Temporal and then the food can go to needy starving people .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I wish', None, None, None, 0), ('more people would donate food', None, None, None, 0), ("that 's still good", None, None, None, 0), ('instead of throwing it away .', None, None, None, 1), ("There 's so many people", None, None, None, 0), ('who gladly take anything', None, None, None, 0), ('to eat', None, None, None, 0), ("and there 's people", None, None, None, 0), ('just throwing out perfectly good food .', None, None, None, 1), ('There should be some way', None, None, None, 0), ('to easily take food', None, None, None, 0), ('or even have someone come pick it up', None, None, None, 0), ('and then the food can go to needy starving people .', None, None, None, 1)]

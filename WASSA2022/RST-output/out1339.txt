@@ -1,0 +1,31 @@
+=====================> [[('Thats really heartbreaking', None, None, None, 0), ('to read the story about the man', None, None, None, 0), ('who lost his family in a car crash .', None, None, None, 1), ('I think people', None, None, None, 0), ('who street race are acting very dangerously for now reason', None, None, None, 0), ('and it is usually very stupid young males who do this .', None, None, None, 1), ('I dont know what sense', None, None, None, 0), ('to make', None, None, None, 0), ('out of this', None, None, None, 0), ('since the woman and her children did not seem to do anything', None, None, None, 0), ('to deserve this .', None, None, None, 1), ('Maybe it takes stories like this', None, None, None, 0), ('to make us realize', None, None, None, 0), ('how p', None, None, None, 0), ('[ precious life is and how careful we must be', None, None, None, 0)]]
+Leaf:  N Explanation Thats really heartbreaking
+Leaf:  N Elaborate to read the story about the man
+Leaf:  S span who lost his family in a car crash .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate I think people
+Leaf:  S span who street race are acting very dangerously for now reason
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and it is usually very stupid young males who do this .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate I dont know what sense
+Leaf:  N Comparison to make
+Leaf:  S span out of this
+Inner:  S span None Comparison NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Enablement since the woman and her children did not seem to do anything
+Leaf:  S span to deserve this .
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement Maybe it takes stories like this
+Leaf:  S span to make us realize
+Leaf:  N Evaluation how p
+Leaf:  S span [ precious life is and how careful we must be
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Thats really heartbreaking', None, None, None, 0), ('to read the story about the man', None, None, None, 0), ('who lost his family in a car crash .', None, None, None, 1), ('I think people', None, None, None, 0), ('who street race are acting very dangerously for now reason', None, None, None, 0), ('and it is usually very stupid young males who do this .', None, None, None, 1), ('I dont know what sense', None, None, None, 0), ('to make', None, None, None, 0), ('out of this', None, None, None, 0), ('since the woman and her children did not seem to do anything', None, None, None, 0), ('to deserve this .', None, None, None, 1), ('Maybe it takes stories like this', None, None, None, 0), ('to make us realize', None, None, None, 0), ('how p', None, None, None, 0), ('[ precious life is and how careful we must be', None, None, None, 0)]

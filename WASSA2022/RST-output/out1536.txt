@@ -1,0 +1,25 @@
+=====================> [[('I heard about a rock climber', None, None, None, 0), ('who died in Vietnam', None, None, None, 0), ("trying to scale it 's highest mountain .", None, None, None, 1), ('I remember', None, None, None, 0), ("we 've talked about going on vacation there .", None, None, None, 1), ('Sadly it was a young guy , 22 , not much younger than us .', None, None, None, 1), ("It 's a really tragic story", None, None, None, 0), ('because he was on the trip with his girlfriend', None, None, None, 0), ('and', None, None, None, 0), ('when it went off on his own', None, None, None, 0), ('he became lost .', None, None, None, 1), ('In his final moments they were actually in contact through texting .', None, None, None, 1)]]
+Leaf:  N Elaborate I heard about a rock climber
+Leaf:  S span who died in Vietnam
+Inner:  N Cause None Elaborate NS
+Leaf:  S span trying to scale it 's highest mountain .
+Inner:  N Cause None Cause NS
+Leaf:  S span I remember
+Leaf:  N Attribution we 've talked about going on vacation there .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Cause NS
+Leaf:  N Evaluation Sadly it was a young guy , 22 , not much younger than us .
+Leaf:  N Explanation It 's a really tragic story
+Leaf:  N Joint because he was on the trip with his girlfriend
+Leaf:  N Same-Unit and
+Leaf:  S span when it went off on his own
+Leaf:  N Background he became lost .
+Inner:  N Same-Unit None Background SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span In his final moments they were actually in contact through texting .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I heard about a rock climber', None, None, None, 0), ('who died in Vietnam', None, None, None, 0), ("trying to scale it 's highest mountain .", None, None, None, 1), ('I remember', None, None, None, 0), ("we 've talked about going on vacation there .", None, None, None, 1), ('Sadly it was a young guy , 22 , not much younger than us .', None, None, None, 1), ("It 's a really tragic story", None, None, None, 0), ('because he was on the trip with his girlfriend', None, None, None, 0), ('and', None, None, None, 0), ('when it went off on his own', None, None, None, 0), ('he became lost .', None, None, None, 1), ('In his final moments they were actually in contact through texting .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('no matter what your heritage ,', None, None, None, 0), ('you should be able to serve your country .', None, None, None, 1), ("her thai heritage should n't preclude her", None, None, None, 0), ("and should n't have been an issue in this debate .", None, None, None, 1), ('tammy duckworth and her family should be congratulated on the services', None, None, None, 0), ('they have provided to this country .', None, None, None, 1), ('any type of racism should not be allowed in a debate', None, None, None, 0)]]
+Leaf:  S span no matter what your heritage ,
+Leaf:  N Condition you should be able to serve your country .
+Inner:  N Elaborate None Condition SN
+Leaf:  N Joint her thai heritage should n't preclude her
+Leaf:  N Joint and should n't have been an issue in this debate .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate tammy duckworth and her family should be congratulated on the services
+Leaf:  S span they have provided to this country .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span any type of racism should not be allowed in a debate
+Inner:  Root None None Evaluation NS
+[('no matter what your heritage ,', None, None, None, 0), ('you should be able to serve your country .', None, None, None, 1), ("her thai heritage should n't preclude her", None, None, None, 0), ("and should n't have been an issue in this debate .", None, None, None, 1), ('tammy duckworth and her family should be congratulated on the services', None, None, None, 0), ('they have provided to this country .', None, None, None, 1), ('any type of racism should not be allowed in a debate', None, None, None, 0)]

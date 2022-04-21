@@ -1,0 +1,33 @@
+=====================> [[('Boring .', None, None, None, 1), ("I do n't care , again ,", None, None, None, 0), ("because it does n't impact me or anyone", None, None, None, 0), ('I know directly .', None, None, None, 1), ('These people should move .', None, None, None, 1), ("I sure as hell would n't stay there .", None, None, None, 1), ('I do find it hilarious that this is happening in California ,', None, None, None, 0), ('where they seem so concerned about every possible social issue under the sun ,', None, None, None, 0), ('especially taking care of people', None, None, None, 0), ('who are here illegally ,', None, None, None, 0), ('yet there are parts of the state', None, None, None, 0), ("where actual citizens ca n't drink the water", None, None, None, 0), ("like they 're living in a third world nation .", None, None, None, 1), ("Then again , given Commiefornia 's stated desire", None, None, None, 0), ('to secede ,', None, None, None, 0), ('they might get to live their third world dream .', None, None, None, 1)]]
+Leaf:  N Topic-Comment Boring .
+Leaf:  N Explanation I do n't care , again ,
+Leaf:  N Elaborate because it does n't impact me or anyone
+Leaf:  S span I know directly .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation These people should move .
+Leaf:  S span I sure as hell would n't stay there .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I do find it hilarious that this is happening in California ,
+Leaf:  N Elaborate where they seem so concerned about every possible social issue under the sun ,
+Leaf:  N Elaborate especially taking care of people
+Leaf:  S span who are here illegally ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate yet there are parts of the state
+Leaf:  S span where actual citizens ca n't drink the water
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span like they 're living in a third world nation .
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Elaborate Then again , given Commiefornia 's stated desire
+Leaf:  S span to secede ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition they might get to live their third world dream .
+Inner:  S span None Condition SN
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[('Boring .', None, None, None, 1), ("I do n't care , again ,", None, None, None, 0), ("because it does n't impact me or anyone", None, None, None, 0), ('I know directly .', None, None, None, 1), ('These people should move .', None, None, None, 1), ("I sure as hell would n't stay there .", None, None, None, 1), ('I do find it hilarious that this is happening in California ,', None, None, None, 0), ('where they seem so concerned about every possible social issue under the sun ,', None, None, None, 0), ('especially taking care of people', None, None, None, 0), ('who are here illegally ,', None, None, None, 0), ('yet there are parts of the state', None, None, None, 0), ("where actual citizens ca n't drink the water", None, None, None, 0), ("like they 're living in a third world nation .", None, None, None, 1), ("Then again , given Commiefornia 's stated desire", None, None, None, 0), ('to secede ,', None, None, None, 0), ('they might get to live their third world dream .', None, None, None, 1)]

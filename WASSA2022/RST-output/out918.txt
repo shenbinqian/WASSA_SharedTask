@@ -1,0 +1,29 @@
+=====================> [[("I 'm glad", None, None, None, 0), ('that she let her customers know right away ,', None, None, None, 0), ("that was very responsible of her . There 's so many scammers out there", None, None, None, 0), ('and people', None, None, None, 0), ('who try to rip people off', None, None, None, 0), ('you can never be too careful .', None, None, None, 1), ("I 'm always real careful", None, None, None, 0), ('when I order anything on the internet', None, None, None, 0), ('checking reviews', None, None, None, 0), ('and everything', None, None, None, 0), ("because I 've been ripped off before .", None, None, None, 1), ('I ordered a handbag', None, None, None, 0), ("and it was n't anything", None, None, None, 0), ('like it was perceived to be online .', None, None, None, 1)]]
+Leaf:  S span I 'm glad
+Leaf:  N Attribution that she let her customers know right away ,
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint that was very responsible of her . There 's so many scammers out there
+Leaf:  N Elaborate and people
+Leaf:  S span who try to rip people off
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation you can never be too careful .
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Background I 'm always real careful
+Leaf:  S span when I order anything on the internet
+Inner:  N Manner-Means None Background NS
+Leaf:  N Joint checking reviews
+Leaf:  N Cause and everything
+Leaf:  S span because I 've been ripped off before .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  S span I ordered a handbag
+Leaf:  N Evaluation and it was n't anything
+Leaf:  S span like it was perceived to be online .
+Inner:  N Background None Evaluation NS
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I 'm glad", None, None, None, 0), ('that she let her customers know right away ,', None, None, None, 0), ("that was very responsible of her . There 's so many scammers out there", None, None, None, 0), ('and people', None, None, None, 0), ('who try to rip people off', None, None, None, 0), ('you can never be too careful .', None, None, None, 1), ("I 'm always real careful", None, None, None, 0), ('when I order anything on the internet', None, None, None, 0), ('checking reviews', None, None, None, 0), ('and everything', None, None, None, 0), ("because I 've been ripped off before .", None, None, None, 1), ('I ordered a handbag', None, None, None, 0), ("and it was n't anything", None, None, None, 0), ('like it was perceived to be online .', None, None, None, 1)]

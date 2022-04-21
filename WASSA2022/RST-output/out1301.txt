@@ -1,0 +1,23 @@
+=====================> [[('It can be a hard experience', None, None, None, 0), ('to go through ,', None, None, None, 0), ('but I feel', None, None, None, 0), ('that this was a good article about the conditions of Haiti .', None, None, None, 1), ("It 's not in a very good state", None, None, None, 0), ('and has gone through some tough trials .', None, None, None, 1), ('The people are in need of support , supplies , resources , hope , and cooperation .', None, None, None, 1), ('The writing was very descriptive of what has happened', None, None, None, 0), ('and may come in the future .', None, None, None, 1), ('I think', None, None, None, 0), ("you 'd find this interesting to read .", None, None, None, 1)]]
+Leaf:  N Elaborate It can be a hard experience
+Leaf:  S span to go through ,
+Inner:  S span None Elaborate NS
+Leaf:  S span but I feel
+Leaf:  N Attribution that this was a good article about the conditions of Haiti .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint It 's not in a very good state
+Leaf:  N Joint and has gone through some tough trials .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span The people are in need of support , supplies , resources , hope , and cooperation .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The writing was very descriptive of what has happened
+Leaf:  N Joint and may come in the future .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I think
+Leaf:  N Attribution you 'd find this interesting to read .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It can be a hard experience', None, None, None, 0), ('to go through ,', None, None, None, 0), ('but I feel', None, None, None, 0), ('that this was a good article about the conditions of Haiti .', None, None, None, 1), ("It 's not in a very good state", None, None, None, 0), ('and has gone through some tough trials .', None, None, None, 1), ('The people are in need of support , supplies , resources , hope , and cooperation .', None, None, None, 1), ('The writing was very descriptive of what has happened', None, None, None, 0), ('and may come in the future .', None, None, None, 1), ('I think', None, None, None, 0), ("you 'd find this interesting to read .", None, None, None, 1)]

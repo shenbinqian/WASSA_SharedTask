@@ -1,0 +1,25 @@
+=====================> [[('there are many red quireels in great britain', None, None, None, 0), ('and are causing leprosy arounf the city a girlo', None, None, None, 0), ('who was near the age', None, None, None, 0), ('found in squirrel these have been in scotland and great britian and even in some cases also in but not ecluding them at all', None, None, None, 0), ('- russia .', None, None, None, 1), ('this is a plagment and a serious incident', None, None, None, 0), ('as you can read', None, None, None, 0), ('many peolpe should be concered about this', None, None, None, 0), ('and might turn a bline eye to it', None, None, None, 0), ('but something should be done about this', None, None, None, 0), ('and people should try to find a cure of some sort', None, None, None, 0), ('for this', None, None, None, 0)]]
+Leaf:  N Joint there are many red quireels in great britain
+Leaf:  N Elaborate and are causing leprosy arounf the city a girlo
+Leaf:  N Elaborate who was near the age
+Leaf:  S span found in squirrel these have been in scotland and great britian and even in some cases also in but not ecluding them at all
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit - russia .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Attribution this is a plagment and a serious incident
+Leaf:  S span as you can read
+Inner:  S span None Attribution NS
+Leaf:  S span many peolpe should be concered about this
+Leaf:  N Cause and might turn a bline eye to it
+Inner:  N Background None Cause SN
+Inner:  S span None Background SN
+Leaf:  N Joint but something should be done about this
+Leaf:  N Elaborate and people should try to find a cure of some sort
+Leaf:  S span for this
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('there are many red quireels in great britain', None, None, None, 0), ('and are causing leprosy arounf the city a girlo', None, None, None, 0), ('who was near the age', None, None, None, 0), ('found in squirrel these have been in scotland and great britian and even in some cases also in but not ecluding them at all', None, None, None, 0), ('- russia .', None, None, None, 1), ('this is a plagment and a serious incident', None, None, None, 0), ('as you can read', None, None, None, 0), ('many peolpe should be concered about this', None, None, None, 0), ('and might turn a bline eye to it', None, None, None, 0), ('but something should be done about this', None, None, None, 0), ('and people should try to find a cure of some sort', None, None, None, 0), ('for this', None, None, None, 0)]

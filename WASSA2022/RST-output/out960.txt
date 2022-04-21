@@ -1,0 +1,39 @@
+=====================> [[('I have not heard of this story ,', None, None, None, 0), ('but wanted to see', None, None, None, 0), ('if you knew anything about it .', None, None, None, 1), ('I know we were talking the other day', None, None, None, 0), ('about being worried about getting stuck in a situation like this', None, None, None, 0), ('because of all the recent shootings .', None, None, None, 1), ('I think', None, None, None, 0), ('this story was a real eye opener for me ,', None, None, None, 0), ('because it shows', None, None, None, 0), ('just how easy something like this happening would be .', None, None, None, 1), ('I feel', None, None, None, 0), ('that what you said about mental health', None, None, None, 0), ('and paying more attention', None, None, None, 0), ('to the youth', None, None, None, 0), ('is really another central point to this story .', None, None, None, 1), ('This story made me think even more about owning a gun', None, None, None, 0), ('and having a open carry permit', None, None, None, 0), ('to keep safe', None, None, None, 0), ('and be able to protect my loved ones and family .', None, None, None, 1)]]
+Leaf:  S span I have not heard of this story ,
+Leaf:  S span but wanted to see
+Leaf:  N Attribution if you knew anything about it .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I know we were talking the other day
+Leaf:  N Cause about being worried about getting stuck in a situation like this
+Leaf:  S span because of all the recent shootings .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Explanation this story was a real eye opener for me ,
+Leaf:  S span because it shows
+Leaf:  N Attribution just how easy something like this happening would be .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Explanation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I feel
+Leaf:  N Joint that what you said about mental health
+Leaf:  N Elaborate and paying more attention
+Leaf:  S span to the youth
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit is really another central point to this story .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint This story made me think even more about owning a gun
+Leaf:  N Joint and having a open carry permit
+Inner:  N Enablement None Joint NN
+Leaf:  N Joint to keep safe
+Leaf:  N Joint and be able to protect my loved ones and family .
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I have not heard of this story ,', None, None, None, 0), ('but wanted to see', None, None, None, 0), ('if you knew anything about it .', None, None, None, 1), ('I know we were talking the other day', None, None, None, 0), ('about being worried about getting stuck in a situation like this', None, None, None, 0), ('because of all the recent shootings .', None, None, None, 1), ('I think', None, None, None, 0), ('this story was a real eye opener for me ,', None, None, None, 0), ('because it shows', None, None, None, 0), ('just how easy something like this happening would be .', None, None, None, 1), ('I feel', None, None, None, 0), ('that what you said about mental health', None, None, None, 0), ('and paying more attention', None, None, None, 0), ('to the youth', None, None, None, 0), ('is really another central point to this story .', None, None, None, 1), ('This story made me think even more about owning a gun', None, None, None, 0), ('and having a open carry permit', None, None, None, 0), ('to keep safe', None, None, None, 0), ('and be able to protect my loved ones and family .', None, None, None, 1)]

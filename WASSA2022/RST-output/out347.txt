@@ -1,0 +1,29 @@
+=====================> [[('I have nothing against immigration ,', None, None, None, 0), ("so long as it 's done legally .", None, None, None, 1), ('I have nothing against illegal immigrants either', None, None, None, 0), ('and often feel there should be pathways to citizenship so long as the illegal immigrant commits no wrongdoings', None, None, None, 0), ('and contributes to the success of the economy of the place', None, None, None, 0), ('they are staying in .', None, None, None, 1), ('The problem with Calais in France is that quite often , terrorists', None, None, None, 0), ('disguised', None, None, None, 0), ('as immigrants make their way in through this area', None, None, None, 0), ('and then commit acts of terror', None, None, None, 0), ('which harm French citizens .', None, None, None, 1), ('French people want to help those', None, None, None, 0), ('that have been displaced in the Middle East ,', None, None, None, 0), ('but Calais is a mess .', None, None, None, 1)]]
+Leaf:  N Condition I have nothing against immigration ,
+Leaf:  S span so long as it 's done legally .
+Inner:  N Joint None Condition NS
+Leaf:  N Joint I have nothing against illegal immigrants either
+Leaf:  N Joint and often feel there should be pathways to citizenship so long as the illegal immigrant commits no wrongdoings
+Leaf:  N Elaborate and contributes to the success of the economy of the place
+Leaf:  S span they are staying in .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate The problem with Calais in France is that quite often , terrorists
+Leaf:  N Manner-Means disguised
+Leaf:  S span as immigrants make their way in through this area
+Inner:  S span None Manner-Means NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Elaborate and then commit acts of terror
+Leaf:  S span which harm French citizens .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Elaborate French people want to help those
+Leaf:  S span that have been displaced in the Middle East ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but Calais is a mess .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I have nothing against immigration ,', None, None, None, 0), ("so long as it 's done legally .", None, None, None, 1), ('I have nothing against illegal immigrants either', None, None, None, 0), ('and often feel there should be pathways to citizenship so long as the illegal immigrant commits no wrongdoings', None, None, None, 0), ('and contributes to the success of the economy of the place', None, None, None, 0), ('they are staying in .', None, None, None, 1), ('The problem with Calais in France is that quite often , terrorists', None, None, None, 0), ('disguised', None, None, None, 0), ('as immigrants make their way in through this area', None, None, None, 0), ('and then commit acts of terror', None, None, None, 0), ('which harm French citizens .', None, None, None, 1), ('French people want to help those', None, None, None, 0), ('that have been displaced in the Middle East ,', None, None, None, 0), ('but Calais is a mess .', None, None, None, 1)]

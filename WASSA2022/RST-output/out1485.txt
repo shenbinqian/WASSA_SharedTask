@@ -1,0 +1,19 @@
+=====================> [[('Like I have said before', None, None, None, 0), ('and will say it', None, None, None, 0), ('till I am blue in the face .', None, None, None, 1), ('I hate Donald Trump .', None, None, None, 1), ('He is not progressing the United States of America forward .', None, None, None, 1), ('He says', None, None, None, 0), ('his new slogan is Keep America Great , well , buddy , you got to make it great in the first place .', None, None, None, 1), ('He is one racist , misogynistic , egotistical liar', None, None, None, 0), ('and can not wait till he leave , however way .', None, None, None, 1)]]
+Leaf:  N Joint Like I have said before
+Leaf:  N Temporal and will say it
+Leaf:  S span till I am blue in the face .
+Inner:  N Joint None Temporal NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Explanation I hate Donald Trump .
+Leaf:  N Explanation He is not progressing the United States of America forward .
+Leaf:  S span He says
+Leaf:  N Attribution his new slogan is Keep America Great , well , buddy , you got to make it great in the first place .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint He is one racist , misogynistic , egotistical liar
+Leaf:  N Joint and can not wait till he leave , however way .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Like I have said before', None, None, None, 0), ('and will say it', None, None, None, 0), ('till I am blue in the face .', None, None, None, 1), ('I hate Donald Trump .', None, None, None, 1), ('He is not progressing the United States of America forward .', None, None, None, 1), ('He says', None, None, None, 0), ('his new slogan is Keep America Great , well , buddy , you got to make it great in the first place .', None, None, None, 1), ('He is one racist , misogynistic , egotistical liar', None, None, None, 0), ('and can not wait till he leave , however way .', None, None, None, 1)]

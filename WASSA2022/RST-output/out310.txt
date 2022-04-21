@@ -1,0 +1,29 @@
+=====================> [[('“ The vast majority of battleground states have Republicans', None, None, None, 0), ('overseeing their election systems , ”', None, None, None, 0), ('Moore told POLITICO last week .', None, None, None, 1), ('“ It ’s safe to assume they ’re not rigging the process either against Donald Trump or for anyone else . ”', None, None, None, 0), ('Meanwhile , Trump ’s downward spiral has forced House Republicans to scramble', None, None, None, 0), ('to secure their once-safe majority', None, None, None, 0), ('and the difficult balancing act between Trump ’s die-hard supporters and moderate independents has begun to take its toll on vulnerable Senate candidates like New Hampshire ’s Kelly Ayotte .', None, None, None, 1), ('She trailed by 8 points in a poll', None, None, None, 0), ('released on Thursday ,', None, None, None, 0), ('after polls earlier this month showed a dead heat . For the party', None, None, None, 0), ('that put Trump forward ,', None, None, None, 0), ('the race has become less of a suspenseful thriller and more ,', None, None, None, 0), ('to use a favorite Trump term ,', None, None, None, 0), ('of a “ horror show . ”', None, None, None, 0)]]
+Leaf:  N Elaborate “ The vast majority of battleground states have Republicans
+Leaf:  S span overseeing their election systems , ”
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span Moore told POLITICO last week .
+Inner:  N Evaluation None Attribution NS
+Leaf:  S span “ It ’s safe to assume they ’re not rigging the process either against Donald Trump or for anyone else . ”
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Enablement Meanwhile , Trump ’s downward spiral has forced House Republicans to scramble
+Leaf:  S span to secure their once-safe majority
+Inner:  N Joint None Enablement NS
+Leaf:  N Elaborate and the difficult balancing act between Trump ’s die-hard supporters and moderate independents has begun to take its toll on vulnerable Senate candidates like New Hampshire ’s Kelly Ayotte .
+Leaf:  N Elaborate She trailed by 8 points in a poll
+Leaf:  S span released on Thursday ,
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Elaborate after polls earlier this month showed a dead heat . For the party
+Leaf:  S span that put Trump forward ,
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Attribution the race has become less of a suspenseful thriller and more ,
+Leaf:  S span to use a favorite Trump term ,
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit of a “ horror show . ”
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('“ The vast majority of battleground states have Republicans', None, None, None, 0), ('overseeing their election systems , ”', None, None, None, 0), ('Moore told POLITICO last week .', None, None, None, 1), ('“ It ’s safe to assume they ’re not rigging the process either against Donald Trump or for anyone else . ”', None, None, None, 0), ('Meanwhile , Trump ’s downward spiral has forced House Republicans to scramble', None, None, None, 0), ('to secure their once-safe majority', None, None, None, 0), ('and the difficult balancing act between Trump ’s die-hard supporters and moderate independents has begun to take its toll on vulnerable Senate candidates like New Hampshire ’s Kelly Ayotte .', None, None, None, 1), ('She trailed by 8 points in a poll', None, None, None, 0), ('released on Thursday ,', None, None, None, 0), ('after polls earlier this month showed a dead heat . For the party', None, None, None, 0), ('that put Trump forward ,', None, None, None, 0), ('the race has become less of a suspenseful thriller and more ,', None, None, None, 0), ('to use a favorite Trump term ,', None, None, None, 0), ('of a “ horror show . ”', None, None, None, 0)]

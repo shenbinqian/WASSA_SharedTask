@@ -1,0 +1,25 @@
+=====================> [[('I just heard about more poaching of rhinos , animals in general !', None, None, None, 1), ('This one was a black rhino very old ,', None, None, None, 0), ("but what I do n't understand", None, None, None, 0), ('is why people are so money focused', None, None, None, 0), ('and are willing to kill for it ?', None, None, None, 1), ('Out of all the ways', None, None, None, 0), ('we could be making money', None, None, None, 0), ('why is killing animals something pretty defenseless', None, None, None, 0), ('if we just leave them alone ,', None, None, None, 0), ("the main focus for money for some ? I 've never had a desire", None, None, None, 0), ('to hurt an animal', None, None, None, 0), ('for any reason , you ?', None, None, None, 1)]]
+Leaf:  N Elaborate I just heard about more poaching of rhinos , animals in general !
+Leaf:  N Elaborate This one was a black rhino very old ,
+Leaf:  S span but what I do n't understand
+Inner:  S span None Elaborate NS
+Leaf:  N Joint is why people are so money focused
+Leaf:  N Joint and are willing to kill for it ?
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Out of all the ways
+Leaf:  S span we could be making money
+Inner:  S span None Elaborate NS
+Leaf:  N Condition why is killing animals something pretty defenseless
+Leaf:  S span if we just leave them alone ,
+Inner:  N Same-Unit None Condition NS
+Leaf:  N Elaborate the main focus for money for some ? I 've never had a desire
+Leaf:  N Comparison to hurt an animal
+Leaf:  S span for any reason , you ?
+Inner:  S span None Comparison NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I just heard about more poaching of rhinos , animals in general !', None, None, None, 1), ('This one was a black rhino very old ,', None, None, None, 0), ("but what I do n't understand", None, None, None, 0), ('is why people are so money focused', None, None, None, 0), ('and are willing to kill for it ?', None, None, None, 1), ('Out of all the ways', None, None, None, 0), ('we could be making money', None, None, None, 0), ('why is killing animals something pretty defenseless', None, None, None, 0), ('if we just leave them alone ,', None, None, None, 0), ("the main focus for money for some ? I 've never had a desire", None, None, None, 0), ('to hurt an animal', None, None, None, 0), ('for any reason , you ?', None, None, None, 1)]

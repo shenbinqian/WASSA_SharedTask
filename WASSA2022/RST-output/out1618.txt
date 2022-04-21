@@ -1,0 +1,19 @@
+=====================> [[('How horrible what happened on that cruise ship .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('the crew members were allowed to blatantly be homophobic to the patrons like that .', None, None, None, 1), ('They should be sued !', None, None, None, 1), ("I 'm glad this came to light .", None, None, None, 1), ('I hope', None, None, None, 0), ('people do not patronize that business again', None, None, None, 0), ('knowing their true colors .', None, None, None, 1), ('It should not have taken a death for them to come around .', None, None, None, 1)]]
+Leaf:  N Evaluation How horrible what happened on that cruise ship .
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution the crew members were allowed to blatantly be homophobic to the patrons like that .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span They should be sued !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I 'm glad this came to light .
+Leaf:  S span I hope
+Leaf:  N Background people do not patronize that business again
+Leaf:  S span knowing their true colors .
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It should not have taken a death for them to come around .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('How horrible what happened on that cruise ship .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('the crew members were allowed to blatantly be homophobic to the patrons like that .', None, None, None, 1), ('They should be sued !', None, None, None, 1), ("I 'm glad this came to light .", None, None, None, 1), ('I hope', None, None, None, 0), ('people do not patronize that business again', None, None, None, 0), ('knowing their true colors .', None, None, None, 1), ('It should not have taken a death for them to come around .', None, None, None, 1)]

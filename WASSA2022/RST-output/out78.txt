@@ -1,0 +1,27 @@
+=====================> [[('After reading this story', None, None, None, 0), ('I think', None, None, None, 0), ('the right decision was made .', None, None, None, 1), ('It seems to me that the man had no reason', None, None, None, 0), ('to shoot at those kids', None, None, None, 0), ('just because they were playing loud music .', None, None, None, 1), ('Sure music can be annoying', None, None, None, 0), ('but no one deserves to be shot over it .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('that any changes need to be made to the stand your ground laws .', None, None, None, 1), ('This was a simple case of someone', None, None, None, 0), ('making poor choices', None, None, None, 0), ('and now needs to pay the price for their actions .', None, None, None, 1)]]
+Leaf:  S span After reading this story
+Leaf:  S span I think
+Leaf:  N Attribution the right decision was made .
+Inner:  N Temporal None Attribution SN
+Inner:  N Elaborate None Temporal SN
+Leaf:  N Elaborate It seems to me that the man had no reason
+Leaf:  N Explanation to shoot at those kids
+Leaf:  S span just because they were playing loud music .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Sure music can be annoying
+Leaf:  N Contrast but no one deserves to be shot over it .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution that any changes need to be made to the stand your ground laws .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate This was a simple case of someone
+Leaf:  N Evaluation making poor choices
+Leaf:  N Evaluation and now needs to pay the price for their actions .
+Inner:  S span None Evaluation NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('After reading this story', None, None, None, 0), ('I think', None, None, None, 0), ('the right decision was made .', None, None, None, 1), ('It seems to me that the man had no reason', None, None, None, 0), ('to shoot at those kids', None, None, None, 0), ('just because they were playing loud music .', None, None, None, 1), ('Sure music can be annoying', None, None, None, 0), ('but no one deserves to be shot over it .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('that any changes need to be made to the stand your ground laws .', None, None, None, 1), ('This was a simple case of someone', None, None, None, 0), ('making poor choices', None, None, None, 0), ('and now needs to pay the price for their actions .', None, None, None, 1)]

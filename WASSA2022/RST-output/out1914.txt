@@ -1,0 +1,23 @@
+=====================> [[('When I first started reading this article', None, None, None, 0), ('it made me mad at heroin addicts', None, None, None, 0), ('and I thought', None, None, None, 0), ('it must be these forgetful types', None, None, None, 0), ('nodding off', None, None, None, 0), ('that was causing the crisis to occur .', None, None, None, 1), ("I 'm pretty surprised", None, None, None, 0), ('that the name culprit seems to be parents', None, None, None, 0), ("that do n't control their medicine cabinets .", None, None, None, 1), ('Somehow , I think', None, None, None, 0), ('that makes me even more angry .', None, None, None, 1)]]
+Leaf:  S span When I first started reading this article
+Leaf:  N Temporal it made me mad at heroin addicts
+Inner:  N Joint None Temporal SN
+Leaf:  S span and I thought
+Leaf:  N Elaborate it must be these forgetful types
+Leaf:  N Elaborate nodding off
+Leaf:  S span that was causing the crisis to occur .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I 'm pretty surprised
+Leaf:  N Elaborate that the name culprit seems to be parents
+Leaf:  S span that do n't control their medicine cabinets .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Somehow , I think
+Leaf:  N Condition that makes me even more angry .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('When I first started reading this article', None, None, None, 0), ('it made me mad at heroin addicts', None, None, None, 0), ('and I thought', None, None, None, 0), ('it must be these forgetful types', None, None, None, 0), ('nodding off', None, None, None, 0), ('that was causing the crisis to occur .', None, None, None, 1), ("I 'm pretty surprised", None, None, None, 0), ('that the name culprit seems to be parents', None, None, None, 0), ("that do n't control their medicine cabinets .", None, None, None, 1), ('Somehow , I think', None, None, None, 0), ('that makes me even more angry .', None, None, None, 1)]

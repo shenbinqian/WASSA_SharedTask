@@ -1,0 +1,31 @@
+=====================> [[("Hey , here 's another article", None, None, None, 0), ("that I 'm sending to you for no good reason ,", None, None, None, 0), ('since neither of us are interested in this kind of thing .', None, None, None, 1), ('It looks like more people died for shitty reasons ,', None, None, None, 0), ('but maybe some are still alive .', None, None, None, 1), ('And ,', None, None, None, 0), ("if there 's anything", None, None, None, 0), ('that people love ,', None, None, None, 0), ("it 's the idea", None, None, None, 0), ('that things can be ok and / or get better . People fucking love this stuff .', None, None, None, 1), ('But , I did think', None, None, None, 0), ('that the bit', None, None, None, 0), ('about a HEN being rescued', None, None, None, 0), ('was out of place .', None, None, None, 1), ('haha . So , what do you think ?', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , here 's another article
+Leaf:  N Explanation that I 'm sending to you for no good reason ,
+Leaf:  S span since neither of us are interested in this kind of thing .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It looks like more people died for shitty reasons ,
+Leaf:  N Contrast but maybe some are still alive .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit And ,
+Leaf:  N Elaborate if there 's anything
+Leaf:  S span that people love ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate it 's the idea
+Leaf:  S span that things can be ok and / or get better . People fucking love this stuff .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span But , I did think
+Leaf:  N Elaborate that the bit
+Leaf:  S span about a HEN being rescued
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was out of place .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span haha . So , what do you think ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[("Hey , here 's another article", None, None, None, 0), ("that I 'm sending to you for no good reason ,", None, None, None, 0), ('since neither of us are interested in this kind of thing .', None, None, None, 1), ('It looks like more people died for shitty reasons ,', None, None, None, 0), ('but maybe some are still alive .', None, None, None, 1), ('And ,', None, None, None, 0), ("if there 's anything", None, None, None, 0), ('that people love ,', None, None, None, 0), ("it 's the idea", None, None, None, 0), ('that things can be ok and / or get better . People fucking love this stuff .', None, None, None, 1), ('But , I did think', None, None, None, 0), ('that the bit', None, None, None, 0), ('about a HEN being rescued', None, None, None, 0), ('was out of place .', None, None, None, 1), ('haha . So , what do you think ?', None, None, None, 1)]

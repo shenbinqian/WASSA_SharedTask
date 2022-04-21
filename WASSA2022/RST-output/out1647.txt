@@ -1,0 +1,21 @@
+=====================> [[('This article is so alarming .', None, None, None, 1), ('The fact', None, None, None, 0), ("that many Indonesians are n't safe in their own home country is very distressing .", None, None, None, 1), ("A lot of people ca n't afford to leave ,", None, None, None, 0), ("so they 're stuck", None, None, None, 0), ('risking their lives', None, None, None, 0), ('because of this haze ,', None, None, None, 0), ('which is nothing', None, None, None, 0), ('that they can do anything about .', None, None, None, 1), ('A lot of innocent people are getting a raw deal , here .', None, None, None, 1)]]
+Leaf:  N Elaborate This article is so alarming .
+Leaf:  N Elaborate The fact
+Leaf:  S span that many Indonesians are n't safe in their own home country is very distressing .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span A lot of people ca n't afford to leave ,
+Leaf:  N Manner-Means so they 're stuck
+Leaf:  N Cause risking their lives
+Leaf:  N Elaborate because of this haze ,
+Leaf:  N Elaborate which is nothing
+Leaf:  S span that they can do anything about .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Cause None Manner-Means NS
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span A lot of innocent people are getting a raw deal , here .
+Inner:  Root None None Elaborate NS
+[('This article is so alarming .', None, None, None, 1), ('The fact', None, None, None, 0), ("that many Indonesians are n't safe in their own home country is very distressing .", None, None, None, 1), ("A lot of people ca n't afford to leave ,", None, None, None, 0), ("so they 're stuck", None, None, None, 0), ('risking their lives', None, None, None, 0), ('because of this haze ,', None, None, None, 0), ('which is nothing', None, None, None, 0), ('that they can do anything about .', None, None, None, 1), ('A lot of innocent people are getting a raw deal , here .', None, None, None, 1)]

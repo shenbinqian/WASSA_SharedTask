@@ -1,0 +1,21 @@
+=====================> [[('Take a look at this story about a forest', None, None, None, 0), ('being decimated', None, None, None, 0), ('and what is happening to the monkeys there . So sad .', None, None, None, 1), ('Think you would be interested in reading it .', None, None, None, 1), ('The government is doing nothing', None, None, None, 0), ('to stop the deforestation or anything', None, None, None, 0), ('to protect the monkeys .', None, None, None, 1), ('I know', None, None, None, 0), ('that it is not local to us , but still a sad thing', None, None, None, 0), ('to read about .', None, None, None, 1)]]
+Leaf:  N Elaborate Take a look at this story about a forest
+Leaf:  S span being decimated
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and what is happening to the monkeys there . So sad .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Think you would be interested in reading it .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement The government is doing nothing
+Leaf:  N Enablement to stop the deforestation or anything
+Leaf:  S span to protect the monkeys .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span I know
+Leaf:  N Elaborate that it is not local to us , but still a sad thing
+Leaf:  S span to read about .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Take a look at this story about a forest', None, None, None, 0), ('being decimated', None, None, None, 0), ('and what is happening to the monkeys there . So sad .', None, None, None, 1), ('Think you would be interested in reading it .', None, None, None, 1), ('The government is doing nothing', None, None, None, 0), ('to stop the deforestation or anything', None, None, None, 0), ('to protect the monkeys .', None, None, None, 1), ('I know', None, None, None, 0), ('that it is not local to us , but still a sad thing', None, None, None, 0), ('to read about .', None, None, None, 1)]

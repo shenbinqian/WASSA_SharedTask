@@ -1,0 +1,33 @@
+=====================> [[('I can not believe', None, None, None, 0), ('the struggle', None, None, None, 0), ('that has to be . And for god sake , all of them are mostly arsons , well into the 70 % range .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('that at all . Seems a bit high', None, None, None, 0), ('but I guess people just have no respect for nature or other peoples lives .', None, None, None, 1), ('Having your house burn down in a wild fire has to be one of the worst things', None, None, None, 0), ('that coudl happen to someone .', None, None, None, 1), ('All your belongings , all those memories , the life', None, None, None, 0), ('you built', None, None, None, 0), ('and the family or friends', None, None, None, 0), ('you surroudned yourself with .', None, None, None, 1), ('Gone .', None, None, None, 1), ("Well hopefully not your family gone cause then you 'd really be in trouble but your hosue at least and sentimental things .", None, None, None, 1), ('I hope', None, None, None, 0), ('that never happens to you .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Elaborate the struggle
+Leaf:  S span that has to be . And for god sake , all of them are mostly arsons , well into the 70 % range .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution that at all . Seems a bit high
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I guess people just have no respect for nature or other peoples lives .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Having your house burn down in a wild fire has to be one of the worst things
+Leaf:  S span that coudl happen to someone .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate All your belongings , all those memories , the life
+Leaf:  S span you built
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the family or friends
+Leaf:  S span you surroudned yourself with .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Evaluation Gone .
+Leaf:  N Evaluation Well hopefully not your family gone cause then you 'd really be in trouble but your hosue at least and sentimental things .
+Leaf:  S span I hope
+Leaf:  N Attribution that never happens to you .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I can not believe', None, None, None, 0), ('the struggle', None, None, None, 0), ('that has to be . And for god sake , all of them are mostly arsons , well into the 70 % range .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('that at all . Seems a bit high', None, None, None, 0), ('but I guess people just have no respect for nature or other peoples lives .', None, None, None, 1), ('Having your house burn down in a wild fire has to be one of the worst things', None, None, None, 0), ('that coudl happen to someone .', None, None, None, 1), ('All your belongings , all those memories , the life', None, None, None, 0), ('you built', None, None, None, 0), ('and the family or friends', None, None, None, 0), ('you surroudned yourself with .', None, None, None, 1), ('Gone .', None, None, None, 1), ("Well hopefully not your family gone cause then you 'd really be in trouble but your hosue at least and sentimental things .", None, None, None, 1), ('I hope', None, None, None, 0), ('that never happens to you .', None, None, None, 1)]

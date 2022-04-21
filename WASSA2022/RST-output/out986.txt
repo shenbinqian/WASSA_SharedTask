@@ -1,0 +1,29 @@
+=====================> [[('Looks like American Apparel is at it again', None, None, None, 0), ('and declaring bankruptcy .', None, None, None, 1), ('Ironically they are getting bought out by a Canadian company .', None, None, None, 1), ('I feel sorry for the employees ,', None, None, None, 0), ('but its hard to feel sorry for the company', None, None, None, 0), ('since they just dont seem to get it .', None, None, None, 1), ('I think', None, None, None, 0), ('one chance is fair ,', None, None, None, 0), ('but when you have to declare bankruptcy again', None, None, None, 0), ('a year later your management doesnt seem to know', None, None, None, 0), ('what they are doing .', None, None, None, 1), ('Maybe the company', None, None, None, 0), ('that bought them', None, None, None, 0), ('will finally get it right .', None, None, None, 1)]]
+Leaf:  N Joint Looks like American Apparel is at it again
+Leaf:  N Joint and declaring bankruptcy .
+Inner:  N Cause None Joint NN
+Leaf:  S span Ironically they are getting bought out by a Canadian company .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Contrast I feel sorry for the employees ,
+Leaf:  N Explanation but its hard to feel sorry for the company
+Leaf:  S span since they just dont seem to get it .
+Inner:  N Contrast None Explanation NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span I think
+Leaf:  N Contrast one chance is fair ,
+Leaf:  S span but when you have to declare bankruptcy again
+Leaf:  S span a year later your management doesnt seem to know
+Leaf:  N Attribution what they are doing .
+Inner:  N Temporal None Attribution SN
+Inner:  N Contrast None Temporal SN
+Inner:  N Attribution None Contrast NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Maybe the company
+Leaf:  S span that bought them
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will finally get it right .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Looks like American Apparel is at it again', None, None, None, 0), ('and declaring bankruptcy .', None, None, None, 1), ('Ironically they are getting bought out by a Canadian company .', None, None, None, 1), ('I feel sorry for the employees ,', None, None, None, 0), ('but its hard to feel sorry for the company', None, None, None, 0), ('since they just dont seem to get it .', None, None, None, 1), ('I think', None, None, None, 0), ('one chance is fair ,', None, None, None, 0), ('but when you have to declare bankruptcy again', None, None, None, 0), ('a year later your management doesnt seem to know', None, None, None, 0), ('what they are doing .', None, None, None, 1), ('Maybe the company', None, None, None, 0), ('that bought them', None, None, None, 0), ('will finally get it right .', None, None, None, 1)]

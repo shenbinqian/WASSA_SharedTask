@@ -1,0 +1,23 @@
+=====================> [[('Did you hear', None, None, None, 0), ('that 1 person died', None, None, None, 0), ('and 7 more were injured in Indonesia ?', None, None, None, 1), ("It is pretty amazing how hearing about these things in other parts of the world do n't surprise me", None, None, None, 0), ('but if they happened here', None, None, None, 0), ('where we live', None, None, None, 0), ('it would be very shocking and disturbing to hear about .', None, None, None, 1), ('I bet they were motivated by religion', None, None, None, 0), ('because over there they are very strict', None, None, None, 0), ('and kill people', None, None, None, 0), ("who do n't agree with them .", None, None, None, 1)]]
+Leaf:  S span Did you hear
+Leaf:  N Joint that 1 person died
+Leaf:  N Joint and 7 more were injured in Indonesia ?
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Contrast It is pretty amazing how hearing about these things in other parts of the world do n't surprise me
+Leaf:  N Elaborate but if they happened here
+Leaf:  S span where we live
+Inner:  S span None Elaborate NS
+Leaf:  N Condition it would be very shocking and disturbing to hear about .
+Inner:  N Contrast None Condition SN
+Inner:  N Explanation None Contrast NN
+Leaf:  N Explanation I bet they were motivated by religion
+Leaf:  N Joint because over there they are very strict
+Leaf:  N Elaborate and kill people
+Leaf:  S span who do n't agree with them .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Did you hear', None, None, None, 0), ('that 1 person died', None, None, None, 0), ('and 7 more were injured in Indonesia ?', None, None, None, 1), ("It is pretty amazing how hearing about these things in other parts of the world do n't surprise me", None, None, None, 0), ('but if they happened here', None, None, None, 0), ('where we live', None, None, None, 0), ('it would be very shocking and disturbing to hear about .', None, None, None, 1), ('I bet they were motivated by religion', None, None, None, 0), ('because over there they are very strict', None, None, None, 0), ('and kill people', None, None, None, 0), ("who do n't agree with them .", None, None, None, 1)]

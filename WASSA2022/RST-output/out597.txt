@@ -1,0 +1,21 @@
+=====================> [[('I wonder', None, None, None, 0), ('if this problems exists in the U.S. as well as the UK ?', None, None, None, 1), ('This is a consideration ,', None, None, None, 0), ('since we both have garden ponds .', None, None, None, 1), ('Maybe we should learn more', None, None, None, 0), ('about how to keep our ponds more sanitary for the frogs !', None, None, None, 1), ('I have noticed alot of frogs in mine ,', None, None, None, 0), ('so this is interesting readying , anyway .', None, None, None, 1), ('This is just another way', None, None, None, 0), ('that humans interfere with the natural environment , I guess .', None, None, None, 1)]]
+Leaf:  S span I wonder
+Leaf:  N Attribution if this problems exists in the U.S. as well as the UK ?
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Explanation This is a consideration ,
+Leaf:  S span since we both have garden ponds .
+Inner:  N Comparison None Explanation NS
+Leaf:  N Elaborate Maybe we should learn more
+Leaf:  S span about how to keep our ponds more sanitary for the frogs !
+Inner:  S span None Elaborate NS
+Inner:  S span None Comparison NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Evaluation I have noticed alot of frogs in mine ,
+Leaf:  S span so this is interesting readying , anyway .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate This is just another way
+Leaf:  S span that humans interfere with the natural environment , I guess .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I wonder', None, None, None, 0), ('if this problems exists in the U.S. as well as the UK ?', None, None, None, 1), ('This is a consideration ,', None, None, None, 0), ('since we both have garden ponds .', None, None, None, 1), ('Maybe we should learn more', None, None, None, 0), ('about how to keep our ponds more sanitary for the frogs !', None, None, None, 1), ('I have noticed alot of frogs in mine ,', None, None, None, 0), ('so this is interesting readying , anyway .', None, None, None, 1), ('This is just another way', None, None, None, 0), ('that humans interfere with the natural environment , I guess .', None, None, None, 1)]

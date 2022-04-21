@@ -1,0 +1,17 @@
+=====================> [[('This is so sad .', None, None, None, 1), ('Something needs to be done for these refugees .', None, None, None, 1), ('People need to be more accepting of them .', None, None, None, 1), ("People should n't be afraid of letting them into their country ,", None, None, None, 0), ('they are just people', None, None, None, 0), ('who need help .', None, None, None, 1), ('I feel so bad for the babies , children and mothers on these boats .', None, None, None, 1), ("It 's horrifying to imagine drowning in the sea , especially from the eyes of a child .", None, None, None, 1)]]
+Leaf:  N Topic-Comment This is so sad .
+Leaf:  N Joint Something needs to be done for these refugees .
+Leaf:  N Joint People need to be more accepting of them .
+Leaf:  N Explanation People should n't be afraid of letting them into their country ,
+Leaf:  N Elaborate they are just people
+Leaf:  S span who need help .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Explanation NS
+Inner:  N Joint None Joint NN
+Inner:  N Topic-Comment None Joint NN
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Evaluation I feel so bad for the babies , children and mothers on these boats .
+Leaf:  S span It 's horrifying to imagine drowning in the sea , especially from the eyes of a child .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is so sad .', None, None, None, 1), ('Something needs to be done for these refugees .', None, None, None, 1), ('People need to be more accepting of them .', None, None, None, 1), ("People should n't be afraid of letting them into their country ,", None, None, None, 0), ('they are just people', None, None, None, 0), ('who need help .', None, None, None, 1), ('I feel so bad for the babies , children and mothers on these boats .', None, None, None, 1), ("It 's horrifying to imagine drowning in the sea , especially from the eyes of a child .", None, None, None, 1)]

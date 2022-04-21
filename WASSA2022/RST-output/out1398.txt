@@ -1,0 +1,29 @@
+=====================> [[('This is such a terrible thing', None, None, None, 0), ('to happen to so many people .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how a town can meaningfully bounce back', None, None, None, 0), ('and rebuild their lives .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('what I would do', None, None, None, 0), ('if this happened to me .', None, None, None, 1), ('Move ? Work on recreating the city ?', None, None, None, 1), ('Turn to the government for hope ?', None, None, None, 1), ('It just seems so overwhelming and impossible . I feel so grateful to have avoided such an experience .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if there is anything', None, None, None, 0), ('I can do to help .', None, None, None, 1)]]
+Leaf:  N Elaborate This is such a terrible thing
+Leaf:  S span to happen to so many people .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wonder
+Leaf:  N Joint how a town can meaningfully bounce back
+Leaf:  N Joint and rebuild their lives .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do n't know
+Leaf:  N Condition what I would do
+Leaf:  S span if this happened to me .
+Inner:  N Attribution None Condition NS
+Inner:  N Summary None Attribution SN
+Leaf:  N Joint Move ? Work on recreating the city ?
+Leaf:  N Joint Turn to the government for hope ?
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It just seems so overwhelming and impossible . I feel so grateful to have avoided such an experience .
+Leaf:  S span I wonder
+Leaf:  N Elaborate if there is anything
+Leaf:  S span I can do to help .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('This is such a terrible thing', None, None, None, 0), ('to happen to so many people .', None, None, None, 1), ('I wonder', None, None, None, 0), ('how a town can meaningfully bounce back', None, None, None, 0), ('and rebuild their lives .', None, None, None, 1), ("I do n't know", None, None, None, 0), ('what I would do', None, None, None, 0), ('if this happened to me .', None, None, None, 1), ('Move ? Work on recreating the city ?', None, None, None, 1), ('Turn to the government for hope ?', None, None, None, 1), ('It just seems so overwhelming and impossible . I feel so grateful to have avoided such an experience .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if there is anything', None, None, None, 0), ('I can do to help .', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('This is a nice little distillation of American culture .', None, None, None, 1), ('I cant criticize the entire thing enough .', None, None, None, 1), ('The shallowness of the need for fake aesthetics , the absurdity of the legal system , the shoddy products of huge corporations', None, None, None, 0), ('playing to the solipsism of American sheep .', None, None, None, 1), ("It 's just another sad piece of shit .", None, None, None, 1), ('Calgon , take me away .', None, None, None, 1)]]
+Leaf:  N Evaluation This is a nice little distillation of American culture .
+Leaf:  N Explanation I cant criticize the entire thing enough .
+Leaf:  N Elaborate The shallowness of the need for fake aesthetics , the absurdity of the legal system , the shoddy products of huge corporations
+Leaf:  S span playing to the solipsism of American sheep .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It 's just another sad piece of shit .
+Inner:  N Textual-Organization None Evaluation NS
+Leaf:  N Textual-Organization Calgon , take me away .
+Inner:  Root None None Textual-Organization NN
+[('This is a nice little distillation of American culture .', None, None, None, 1), ('I cant criticize the entire thing enough .', None, None, None, 1), ('The shallowness of the need for fake aesthetics , the absurdity of the legal system , the shoddy products of huge corporations', None, None, None, 0), ('playing to the solipsism of American sheep .', None, None, None, 1), ("It 's just another sad piece of shit .", None, None, None, 1), ('Calgon , take me away .', None, None, None, 1)]

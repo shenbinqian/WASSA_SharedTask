@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('there is enough information about the health hazards of smoking', None, None, None, 0), ('for it to be understood', None, None, None, 0), ('why it should be outlawed in most public places .', None, None, None, 1), ('It is something', None, None, None, 0), ("that should be done in the privacy of people 's homes , right", None, None, None, 0), ("? It makes sense to me . As for the rest of the information here about food safety , I do n't trust most any public food establishment .", None, None, None, 1), ("I 've seen too many nasty kitchens and bathrooms", None, None, None, 0), ('to trust a place to be clean', None, None, None, 0), ('when it counts !', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Enablement there is enough information about the health hazards of smoking
+Leaf:  S span for it to be understood
+Leaf:  N Attribution why it should be outlawed in most public places .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It is something
+Leaf:  S span that should be done in the privacy of people 's homes , right
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span ? It makes sense to me . As for the rest of the information here about food safety , I do n't trust most any public food establishment .
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span I 've seen too many nasty kitchens and bathrooms
+Leaf:  N Background to trust a place to be clean
+Leaf:  S span when it counts !
+Inner:  N Condition None Background NS
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('there is enough information about the health hazards of smoking', None, None, None, 0), ('for it to be understood', None, None, None, 0), ('why it should be outlawed in most public places .', None, None, None, 1), ('It is something', None, None, None, 0), ("that should be done in the privacy of people 's homes , right", None, None, None, 0), ("? It makes sense to me . As for the rest of the information here about food safety , I do n't trust most any public food establishment .", None, None, None, 1), ("I 've seen too many nasty kitchens and bathrooms", None, None, None, 0), ('to trust a place to be clean', None, None, None, 0), ('when it counts !', None, None, None, 1)]

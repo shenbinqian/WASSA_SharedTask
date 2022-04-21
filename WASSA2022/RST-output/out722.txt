@@ -1,0 +1,19 @@
+=====================> [[('I just read a troubling little snippet about a family', None, None, None, 0), ('who lost their home in Washington D.C .', None, None, None, 1), ("They have n't yet identified the cause of the blaze ,", None, None, None, 0), ('but a family of five ha not only been displaced ,', None, None, None, 0), ('but they also lost two cats', None, None, None, 0), ("which I 'm sure were very dear to them .", None, None, None, 1), ("I 'm glad to hear", None, None, None, 0), ('that the Red Cross has stepped in', None, None, None, 0), ('to lend aid to this needy family .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a troubling little snippet about a family
+Leaf:  S span who lost their home in Washington D.C .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They have n't yet identified the cause of the blaze ,
+Leaf:  N Joint but a family of five ha not only been displaced ,
+Leaf:  N Elaborate but they also lost two cats
+Leaf:  S span which I 'm sure were very dear to them .
+Inner:  N Joint None Elaborate NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm glad to hear
+Leaf:  N Enablement that the Red Cross has stepped in
+Leaf:  S span to lend aid to this needy family .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I just read a troubling little snippet about a family', None, None, None, 0), ('who lost their home in Washington D.C .', None, None, None, 1), ("They have n't yet identified the cause of the blaze ,", None, None, None, 0), ('but a family of five ha not only been displaced ,', None, None, None, 0), ('but they also lost two cats', None, None, None, 0), ("which I 'm sure were very dear to them .", None, None, None, 1), ("I 'm glad to hear", None, None, None, 0), ('that the Red Cross has stepped in', None, None, None, 0), ('to lend aid to this needy family .', None, None, None, 1)]

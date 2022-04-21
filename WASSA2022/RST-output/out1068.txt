@@ -1,0 +1,21 @@
+=====================> [[('I am not sure', None, None, None, 0), ('what I just read .', None, None, None, 1), ('It seems to be about some sports event', None, None, None, 0), ('which I care little about .', None, None, None, 1), ('Sports are not my favorite thing', None, None, None, 0), ("and I do n't know", None, None, None, 0), ('how anyone could lose sleep over a sports event .', None, None, None, 1), ('Much more important things in life .', None, None, None, 1), ('I also am not sure how to write such a long talk', None, None, None, 0), ('based on a very short paragraph about sports .', None, None, None, 1)]]
+Leaf:  S span I am not sure
+Leaf:  N Attribution what I just read .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It seems to be about some sports event
+Leaf:  S span which I care little about .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Sports are not my favorite thing
+Leaf:  S span and I do n't know
+Leaf:  N Attribution how anyone could lose sleep over a sports event .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Much more important things in life .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Manner-Means I also am not sure how to write such a long talk
+Leaf:  S span based on a very short paragraph about sports .
+Inner:  S span None Manner-Means NS
+Inner:  Root None None Evaluation NS
+[('I am not sure', None, None, None, 0), ('what I just read .', None, None, None, 1), ('It seems to be about some sports event', None, None, None, 0), ('which I care little about .', None, None, None, 1), ('Sports are not my favorite thing', None, None, None, 0), ("and I do n't know", None, None, None, 0), ('how anyone could lose sleep over a sports event .', None, None, None, 1), ('Much more important things in life .', None, None, None, 1), ('I also am not sure how to write such a long talk', None, None, None, 0), ('based on a very short paragraph about sports .', None, None, None, 1)]

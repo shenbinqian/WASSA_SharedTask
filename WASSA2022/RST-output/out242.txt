@@ -1,0 +1,27 @@
+=====================> [[('Some scum bag is at it again', None, None, None, 0), ('stealing naked pictures of people', None, None, None, 0), ('simply because they are celebrities', None, None, None, 0), ('and he can make money from doing it .', None, None, None, 1), ('It blows my mind', None, None, None, 0), ('the level of shit', None, None, None, 0), ('people will do in order to make a buck .', None, None, None, 1), ('It seems like people treat celebrities as if they are not people at all .', None, None, None, 1), ('People that leave negative comments on celebrity pages are taking it to a new level .', None, None, None, 1), ('People say the shittiest things to each other', None, None, None, 0), ("when they 're hiding behind their computer screen .", None, None, None, 1), ('This particular guy took it to the extreme', None, None, None, 0), ('by stealing their private photos .', None, None, None, 1)]]
+Leaf:  N Manner-Means Some scum bag is at it again
+Leaf:  N Explanation stealing naked pictures of people
+Leaf:  N Joint simply because they are celebrities
+Leaf:  N Joint and he can make money from doing it .
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  S span It blows my mind
+Leaf:  N Elaborate the level of shit
+Leaf:  S span people will do in order to make a buck .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It seems like people treat celebrities as if they are not people at all .
+Inner:  N Joint None Evaluation NS
+Leaf:  N Elaborate People that leave negative comments on celebrity pages are taking it to a new level .
+Leaf:  N Temporal People say the shittiest things to each other
+Leaf:  S span when they 're hiding behind their computer screen .
+Inner:  N Elaborate None Temporal NS
+Leaf:  N Manner-Means This particular guy took it to the extreme
+Leaf:  S span by stealing their private photos .
+Inner:  S span None Manner-Means NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Some scum bag is at it again', None, None, None, 0), ('stealing naked pictures of people', None, None, None, 0), ('simply because they are celebrities', None, None, None, 0), ('and he can make money from doing it .', None, None, None, 1), ('It blows my mind', None, None, None, 0), ('the level of shit', None, None, None, 0), ('people will do in order to make a buck .', None, None, None, 1), ('It seems like people treat celebrities as if they are not people at all .', None, None, None, 1), ('People that leave negative comments on celebrity pages are taking it to a new level .', None, None, None, 1), ('People say the shittiest things to each other', None, None, None, 0), ("when they 're hiding behind their computer screen .", None, None, None, 1), ('This particular guy took it to the extreme', None, None, None, 0), ('by stealing their private photos .', None, None, None, 1)]

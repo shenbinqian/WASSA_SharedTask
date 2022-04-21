@@ -1,0 +1,13 @@
+=====================> [[('Just another case of police brutality , not surprising at all This is a massive problem in our country , usually its the black population on the receiving end of it ,', None, None, None, 0), ('but it does effect other people as well .', None, None, None, 1), ('When is this going to stop ? Seems like it never is going to end ,', None, None, None, 0), ('its been going on since the beginning of law enforcement ,', None, None, None, 0), ('and will continue .', None, None, None, 1), ('Its shameful', None, None, None, 0)]]
+Leaf:  N Contrast Just another case of police brutality , not surprising at all This is a massive problem in our country , usually its the black population on the receiving end of it ,
+Leaf:  N Contrast but it does effect other people as well .
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Explanation When is this going to stop ? Seems like it never is going to end ,
+Leaf:  N Joint its been going on since the beginning of law enforcement ,
+Leaf:  N Joint and will continue .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Its shameful
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Just another case of police brutality , not surprising at all This is a massive problem in our country , usually its the black population on the receiving end of it ,', None, None, None, 0), ('but it does effect other people as well .', None, None, None, 1), ('When is this going to stop ? Seems like it never is going to end ,', None, None, None, 0), ('its been going on since the beginning of law enforcement ,', None, None, None, 0), ('and will continue .', None, None, None, 1), ('Its shameful', None, None, None, 0)]

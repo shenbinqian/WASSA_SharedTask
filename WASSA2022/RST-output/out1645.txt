@@ -1,0 +1,19 @@
+=====================> [[('I read', None, None, None, 0), ('that apparently a man in Georgia was accused of deliberately leaving his son in the car', None, None, None, 0), ('to die from the heat .', None, None, None, 1), ('I really hope', None, None, None, 0), ('he gets the death penalty', None, None, None, 0), ('and they leave him in a hot car', None, None, None, 0), ('just like he did to his son .', None, None, None, 1), ('The world is filled with evil people', None, None, None, 0), ('and it was really disturbing to hear this story .', None, None, None, 1)]]
+Leaf:  S span I read
+Leaf:  N Enablement that apparently a man in Georgia was accused of deliberately leaving his son in the car
+Leaf:  S span to die from the heat .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I really hope
+Leaf:  N Joint he gets the death penalty
+Leaf:  N Comparison and they leave him in a hot car
+Leaf:  S span just like he did to his son .
+Inner:  N Joint None Comparison NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation The world is filled with evil people
+Leaf:  S span and it was really disturbing to hear this story .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I read', None, None, None, 0), ('that apparently a man in Georgia was accused of deliberately leaving his son in the car', None, None, None, 0), ('to die from the heat .', None, None, None, 1), ('I really hope', None, None, None, 0), ('he gets the death penalty', None, None, None, 0), ('and they leave him in a hot car', None, None, None, 0), ('just like he did to his son .', None, None, None, 1), ('The world is filled with evil people', None, None, None, 0), ('and it was really disturbing to hear this story .', None, None, None, 1)]

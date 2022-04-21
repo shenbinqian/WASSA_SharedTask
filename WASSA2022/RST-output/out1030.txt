@@ -1,0 +1,17 @@
+=====================> [[('Well here is another story about the dangers of selfies .', None, None, None, 1), ('I \'m mystified by this " fad " of selfies .', None, None, None, 1), ('I have never even thought about taking one . But maybe thats just my age or generation .', None, None, None, 1), ('Anyhow another idiot taking a selfie got attacked by a snake . Seems like selfie taking affects the brain or at least the part of brain .', None, None, None, 1), ('I have heard about people getting in fatal car crashes', None, None, None, 0), ('while taking selfies ,', None, None, None, 0), ('and falling off a cliff ,', None, None, None, 0), ('and being fatally attacked by bears , lions , etc etc . Now a python .', None, None, None, 1)]]
+Leaf:  N Elaborate Well here is another story about the dangers of selfies .
+Leaf:  N Elaborate I 'm mystified by this " fad " of selfies .
+Leaf:  S span I have never even thought about taking one . But maybe thats just my age or generation .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Anyhow another idiot taking a selfie got attacked by a snake . Seems like selfie taking affects the brain or at least the part of brain .
+Leaf:  N Temporal I have heard about people getting in fatal car crashes
+Leaf:  S span while taking selfies ,
+Inner:  N Joint None Temporal NS
+Leaf:  N Joint and falling off a cliff ,
+Leaf:  N Joint and being fatally attacked by bears , lions , etc etc . Now a python .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Well here is another story about the dangers of selfies .', None, None, None, 1), ('I \'m mystified by this " fad " of selfies .', None, None, None, 1), ('I have never even thought about taking one . But maybe thats just my age or generation .', None, None, None, 1), ('Anyhow another idiot taking a selfie got attacked by a snake . Seems like selfie taking affects the brain or at least the part of brain .', None, None, None, 1), ('I have heard about people getting in fatal car crashes', None, None, None, 0), ('while taking selfies ,', None, None, None, 0), ('and falling off a cliff ,', None, None, None, 0), ('and being fatally attacked by bears , lions , etc etc . Now a python .', None, None, None, 1)]

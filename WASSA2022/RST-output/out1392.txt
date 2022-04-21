@@ -1,0 +1,33 @@
+=====================> [[("France Dismantles ' The Jungle ' in Calais —", None, None, None, 0), ('A small camp in Calais , France ,', None, None, None, 0), ('housing nearly 8,000 migrants', None, None, None, 0), ('hoping to cross into England ,', None, None, None, 0), ('is being evacuated', None, None, None, 0), ('and torn down', None, None, None, 0), ('in what French authorities are calling a “ humanitarian ” operation .', None, None, None, 1), ('The migrants ,', None, None, None, 0), ('fleeing their homes in Africa and the Middle East ,', None, None, None, 0), ('are being relocated from the camp', None, None, None, 0), ('known as “ the Jungle ” to centers across France .', None, None, None, 1), ('Some have decided', None, None, None, 0), ('they do not want to leave ,', None, None, None, 0), ('and protests have resulted in fires', None, None, None, 0), ('burning through tents , trailers , shacks , and makeshift shops in the camp .', None, None, None, 1), ('The dismantlement operation is expected to last for a week .', None, None, None, 1)]]
+Leaf:  N Textual-Organization France Dismantles ' The Jungle ' in Calais —
+Leaf:  N Elaborate A small camp in Calais , France ,
+Leaf:  N Elaborate housing nearly 8,000 migrants
+Leaf:  S span hoping to cross into England ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint is being evacuated
+Leaf:  N Manner-Means and torn down
+Leaf:  S span in what French authorities are calling a “ humanitarian ” operation .
+Inner:  N Joint None Manner-Means NS
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The migrants ,
+Leaf:  S span fleeing their homes in Africa and the Middle East ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate are being relocated from the camp
+Leaf:  S span known as “ the Jungle ” to centers across France .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span Some have decided
+Leaf:  N Attribution they do not want to leave ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate and protests have resulted in fires
+Leaf:  S span burning through tents , trailers , shacks , and makeshift shops in the camp .
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause SN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  N Elaborate None Textual-Organization NN
+Leaf:  S span The dismantlement operation is expected to last for a week .
+Inner:  Root None None Elaborate NS
+[("France Dismantles ' The Jungle ' in Calais —", None, None, None, 0), ('A small camp in Calais , France ,', None, None, None, 0), ('housing nearly 8,000 migrants', None, None, None, 0), ('hoping to cross into England ,', None, None, None, 0), ('is being evacuated', None, None, None, 0), ('and torn down', None, None, None, 0), ('in what French authorities are calling a “ humanitarian ” operation .', None, None, None, 1), ('The migrants ,', None, None, None, 0), ('fleeing their homes in Africa and the Middle East ,', None, None, None, 0), ('are being relocated from the camp', None, None, None, 0), ('known as “ the Jungle ” to centers across France .', None, None, None, 1), ('Some have decided', None, None, None, 0), ('they do not want to leave ,', None, None, None, 0), ('and protests have resulted in fires', None, None, None, 0), ('burning through tents , trailers , shacks , and makeshift shops in the camp .', None, None, None, 1), ('The dismantlement operation is expected to last for a week .', None, None, None, 1)]

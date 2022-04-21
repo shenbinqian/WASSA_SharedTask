@@ -1,0 +1,21 @@
+=====================> [[('So , I had to read an article about somebody', None, None, None, 0), ('named Kylie Jenner ,', None, None, None, 0), ('and evidently she has some sort of makeup line or something .', None, None, None, 1), ('Anyway , evidently she must be popular for some reason ,', None, None, None, 0), ('because people are making counterfeit cosmetics', None, None, None, 0), ('and selling them as her brand .', None, None, None, 1), ('She put out some message', None, None, None, 0), ('about how you should only buy direct from her website .', None, None, None, 1), ('I guess', None, None, None, 0), ('a sucker is born every minute .', None, None, None, 1)]]
+Leaf:  N Elaborate So , I had to read an article about somebody
+Leaf:  S span named Kylie Jenner ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and evidently she has some sort of makeup line or something .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Anyway , evidently she must be popular for some reason ,
+Leaf:  N Joint because people are making counterfeit cosmetics
+Leaf:  N Joint and selling them as her brand .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate She put out some message
+Leaf:  S span about how you should only buy direct from her website .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Attribution a sucker is born every minute .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('So , I had to read an article about somebody', None, None, None, 0), ('named Kylie Jenner ,', None, None, None, 0), ('and evidently she has some sort of makeup line or something .', None, None, None, 1), ('Anyway , evidently she must be popular for some reason ,', None, None, None, 0), ('because people are making counterfeit cosmetics', None, None, None, 0), ('and selling them as her brand .', None, None, None, 1), ('She put out some message', None, None, None, 0), ('about how you should only buy direct from her website .', None, None, None, 1), ('I guess', None, None, None, 0), ('a sucker is born every minute .', None, None, None, 1)]

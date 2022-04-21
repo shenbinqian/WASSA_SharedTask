@@ -1,0 +1,33 @@
+=====================> [[('This was a terrible tragedy', None, None, None, 0), ('gone wrong ,', None, None, None, 0), ("and honestly I do n't really know", None, None, None, 0), ('if there was something', None, None, None, 0), ('that could be done about this', None, None, None, 0), ('before the event even happened ? How did this man get into the airport with a gun ?', None, None, None, 1), ('Was it because he did not pass through security', None, None, None, 0), ('before shooting this man', None, None, None, 0), ("or because he chose not to ? I do n't think something", None, None, None, 0), ('like this should have happens and being an airport', None, None, None, 0), ("i definitely do n't think", None, None, None, 0), ('this should have happened at all', None, None, None, 0), ('assuming all the security', None, None, None, 0), ('that they do have', None, None, None, 0), ('in place', None, None, None, 0), ('how was this to happen ?', None, None, None, 1)]]
+Leaf:  N Elaborate This was a terrible tragedy
+Leaf:  S span gone wrong ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and honestly I do n't really know
+Leaf:  N Elaborate if there was something
+Leaf:  S span that could be done about this
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before the event even happened ? How did this man get into the airport with a gun ?
+Inner:  N Attribution None Temporal NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Temporal Was it because he did not pass through security
+Leaf:  N Condition before shooting this man
+Leaf:  N Elaborate or because he chose not to ? I do n't think something
+Leaf:  S span like this should have happens and being an airport
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition NN
+Inner:  N Same-Unit None Temporal NS
+Leaf:  S span i definitely do n't think
+Leaf:  N Attribution this should have happened at all
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate assuming all the security
+Leaf:  S span that they do have
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit in place
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit how was this to happen ?
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('This was a terrible tragedy', None, None, None, 0), ('gone wrong ,', None, None, None, 0), ("and honestly I do n't really know", None, None, None, 0), ('if there was something', None, None, None, 0), ('that could be done about this', None, None, None, 0), ('before the event even happened ? How did this man get into the airport with a gun ?', None, None, None, 1), ('Was it because he did not pass through security', None, None, None, 0), ('before shooting this man', None, None, None, 0), ("or because he chose not to ? I do n't think something", None, None, None, 0), ('like this should have happens and being an airport', None, None, None, 0), ("i definitely do n't think", None, None, None, 0), ('this should have happened at all', None, None, None, 0), ('assuming all the security', None, None, None, 0), ('that they do have', None, None, None, 0), ('in place', None, None, None, 0), ('how was this to happen ?', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I am writing to you in response to an article', None, None, None, 0), ('I just read about Nevada and the water supply .', None, None, None, 1), ('It is of a truth ,', None, None, None, 0), ('as the article points out', None, None, None, 0), ('that the news media primarily only follows what happens in California , and not Nevada .', None, None, None, 1), ('Which is the driest State , and in need of attention and assistance .', None, None, None, 1), ("I 'm impressed with Verna Brady , 86-year-old resident there .", None, None, None, 1), ('Who cites she would rather move forward , than behind ,', None, None, None, 0), ("that she , although an elder with many childhood memories , would rather adapt to what 's required for today , than harbor on what use to be . That 's a large statement ,", None, None, None, 0), ('because when it comes to tribes in America ,', None, None, None, 0), ('a lot do not to be displaced , or relocation ,', None, None, None, 0), ('creating emotional and psychological problems are the results .', None, None, None, 1), ('However the present state is also causing more abuse factors in the family .', None, None, None, 1)]]
+Leaf:  N Elaborate I am writing to you in response to an article
+Leaf:  S span I just read about Nevada and the water supply .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is of a truth ,
+Leaf:  S span as the article points out
+Leaf:  N Attribution that the news media primarily only follows what happens in California , and not Nevada .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Which is the driest State , and in need of attention and assistance .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I 'm impressed with Verna Brady , 86-year-old resident there .
+Leaf:  N Elaborate Who cites she would rather move forward , than behind ,
+Leaf:  N Explanation that she , although an elder with many childhood memories , would rather adapt to what 's required for today , than harbor on what use to be . That 's a large statement ,
+Leaf:  N Same-Unit because when it comes to tribes in America ,
+Leaf:  N Same-Unit a lot do not to be displaced , or relocation ,
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span creating emotional and psychological problems are the results .
+Inner:  S span None Cause NS
+Inner:  N Comparison None Explanation NS
+Leaf:  N Comparison However the present state is also causing more abuse factors in the family .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I am writing to you in response to an article', None, None, None, 0), ('I just read about Nevada and the water supply .', None, None, None, 1), ('It is of a truth ,', None, None, None, 0), ('as the article points out', None, None, None, 0), ('that the news media primarily only follows what happens in California , and not Nevada .', None, None, None, 1), ('Which is the driest State , and in need of attention and assistance .', None, None, None, 1), ("I 'm impressed with Verna Brady , 86-year-old resident there .", None, None, None, 1), ('Who cites she would rather move forward , than behind ,', None, None, None, 0), ("that she , although an elder with many childhood memories , would rather adapt to what 's required for today , than harbor on what use to be . That 's a large statement ,", None, None, None, 0), ('because when it comes to tribes in America ,', None, None, None, 0), ('a lot do not to be displaced , or relocation ,', None, None, None, 0), ('creating emotional and psychological problems are the results .', None, None, None, 1), ('However the present state is also causing more abuse factors in the family .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('Wells Fargo would do this in such a unprofessional manner .', None, None, None, 1), ('Repossessing vehicles', None, None, None, 0), ('without going through the proper procedures .', None, None, None, 1), ('Especially screwing over people', None, None, None, 0), ('who protect our country .', None, None, None, 1), ('I hope', None, None, None, 0), ('their fines were huge .', None, None, None, 1), ('They are going to have to do a lot of changing', None, None, None, 0), ('if they want to get the trust of their customers back .', None, None, None, 1), ('I for one never plan on using them .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution Wells Fargo would do this in such a unprofessional manner .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Background Repossessing vehicles
+Leaf:  S span without going through the proper procedures .
+Inner:  N Joint None Background NS
+Leaf:  N Elaborate Especially screwing over people
+Leaf:  S span who protect our country .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I hope
+Leaf:  N Attribution their fines were huge .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Condition They are going to have to do a lot of changing
+Leaf:  S span if they want to get the trust of their customers back .
+Inner:  N Evaluation None Condition NS
+Leaf:  S span I for one never plan on using them .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I ca n't believe", None, None, None, 0), ('Wells Fargo would do this in such a unprofessional manner .', None, None, None, 1), ('Repossessing vehicles', None, None, None, 0), ('without going through the proper procedures .', None, None, None, 1), ('Especially screwing over people', None, None, None, 0), ('who protect our country .', None, None, None, 1), ('I hope', None, None, None, 0), ('their fines were huge .', None, None, None, 1), ('They are going to have to do a lot of changing', None, None, None, 0), ('if they want to get the trust of their customers back .', None, None, None, 1), ('I for one never plan on using them .', None, None, None, 1)]

@@ -1,0 +1,47 @@
+=====================> [[('Did you see the article about the airline worker', None, None, None, 0), ('who was shot at work .', None, None, None, 1), ('Unbelievable that these things keep happening .', None, None, None, 1), ('The guy', None, None, None, 0), ('who did the shooting', None, None, None, 0), ('is also dead killed himself .', None, None, None, 1), ('I feel so bad for the family of the man', None, None, None, 0), ('who was killed .', None, None, None, 1), ('I guess his son plays for the Chiefs .', None, None, None, 1), ('I hope', None, None, None, 0), ('they will figure out', None, None, None, 0), ('why it happened', None, None, None, 0), ('what this guy had against the man he shot .', None, None, None, 1), ('Terrible and I thought', None, None, None, 0), ('airports had better security than to let a man with a gun get there', None, None, None, 0), ("and be able to kill someone . It 's so crazy nowadays that you are n't safe anywhere . I hope this wo n't start more aint gun talk .", None, None, None, 1), ('We both know its not the gun but the person', None, None, None, 0), ('doing the shooting .', None, None, None, 1), ('I wish', None, None, None, 0), ('we could concentrate more on mental health and not so much omg it was the gun .', None, None, None, 1), ('The gun was just the instrument not the reason', None, None, None, 0), ('the man is dead .', None, None, None, 1), ('I will be p', None, None, None, 0)]]
+Leaf:  N Elaborate Did you see the article about the airline worker
+Leaf:  S span who was shot at work .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Unbelievable that these things keep happening .
+Leaf:  N Elaborate The guy
+Leaf:  S span who did the shooting
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is also dead killed himself .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I feel so bad for the family of the man
+Leaf:  S span who was killed .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I guess his son plays for the Chiefs .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I hope
+Leaf:  S span they will figure out
+Leaf:  N Joint why it happened
+Leaf:  N Joint what this guy had against the man he shot .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Terrible and I thought
+Leaf:  N Temporal airports had better security than to let a man with a gun get there
+Leaf:  N Temporal and be able to kill someone . It 's so crazy nowadays that you are n't safe anywhere . I hope this wo n't start more aint gun talk .
+Inner:  N Attribution None Temporal NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate We both know its not the gun but the person
+Leaf:  S span doing the shooting .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Attribution we could concentrate more on mental health and not so much omg it was the gun .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The gun was just the instrument not the reason
+Leaf:  S span the man is dead .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I will be p
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Did you see the article about the airline worker', None, None, None, 0), ('who was shot at work .', None, None, None, 1), ('Unbelievable that these things keep happening .', None, None, None, 1), ('The guy', None, None, None, 0), ('who did the shooting', None, None, None, 0), ('is also dead killed himself .', None, None, None, 1), ('I feel so bad for the family of the man', None, None, None, 0), ('who was killed .', None, None, None, 1), ('I guess his son plays for the Chiefs .', None, None, None, 1), ('I hope', None, None, None, 0), ('they will figure out', None, None, None, 0), ('why it happened', None, None, None, 0), ('what this guy had against the man he shot .', None, None, None, 1), ('Terrible and I thought', None, None, None, 0), ('airports had better security than to let a man with a gun get there', None, None, None, 0), ("and be able to kill someone . It 's so crazy nowadays that you are n't safe anywhere . I hope this wo n't start more aint gun talk .", None, None, None, 1), ('We both know its not the gun but the person', None, None, None, 0), ('doing the shooting .', None, None, None, 1), ('I wish', None, None, None, 0), ('we could concentrate more on mental health and not so much omg it was the gun .', None, None, None, 1), ('The gun was just the instrument not the reason', None, None, None, 0), ('the man is dead .', None, None, None, 1), ('I will be p', None, None, None, 0)]

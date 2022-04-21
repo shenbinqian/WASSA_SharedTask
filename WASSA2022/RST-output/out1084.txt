@@ -1,0 +1,19 @@
+=====================> [[('I thank God', None, None, None, 0), ('because my sisters were born in USA instead of those countries in the middle east', None, None, None, 0), ('who still believe in male guardianship.Can you imagine a woman', None, None, None, 0), ('seeking permission fro a male figure', None, None, None, 0), ('who is a relative and sometimes a son', None, None, None, 0), ('to acquire a passport?that', None, None, None, 0), ('is so bad.I hope', None, None, None, 0), ('the activists will succeed in helping this women', None, None, None, 0), ('because this is so outrageous .', None, None, None, 1)]]
+Leaf:  N Explanation I thank God
+Leaf:  N Elaborate because my sisters were born in USA instead of those countries in the middle east
+Leaf:  S span who still believe in male guardianship.Can you imagine a woman
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate seeking permission fro a male figure
+Leaf:  S span who is a relative and sometimes a son
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to acquire a passport?that
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Explanation NS
+Leaf:  S span is so bad.I hope
+Leaf:  N Attribution the activists will succeed in helping this women
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span because this is so outrageous .
+Inner:  Root None None Explanation NS
+[('I thank God', None, None, None, 0), ('because my sisters were born in USA instead of those countries in the middle east', None, None, None, 0), ('who still believe in male guardianship.Can you imagine a woman', None, None, None, 0), ('seeking permission fro a male figure', None, None, None, 0), ('who is a relative and sometimes a son', None, None, None, 0), ('to acquire a passport?that', None, None, None, 0), ('is so bad.I hope', None, None, None, 0), ('the activists will succeed in helping this women', None, None, None, 0), ('because this is so outrageous .', None, None, None, 1)]

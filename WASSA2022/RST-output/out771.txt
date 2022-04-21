@@ -1,0 +1,27 @@
+=====================> [[('Reading about the sniper shooting the wolf was heartbreaking', None, None, None, 0), ('and anger inducing .', None, None, None, 1), ('I would have been very angry', None, None, None, 0), ('if i was the one', None, None, None, 0), ('tracking the wolf', None, None, None, 0), ('and found out', None, None, None, 0), ('the wolf', None, None, None, 0), ('i had been following', None, None, None, 0), ('had been killed by an irresponsible asshole . Wolves are a majestic animal', None, None, None, 0), ('and i believe', None, None, None, 0), ('the guy', None, None, None, 0), ('that shot the wolf', None, None, None, 0), ('should be brought up on charges', None, None, None, 0)]]
+Leaf:  N Joint Reading about the sniper shooting the wolf was heartbreaking
+Leaf:  N Joint and anger inducing .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Condition I would have been very angry
+Leaf:  N Elaborate if i was the one
+Leaf:  N Joint tracking the wolf
+Leaf:  S span and found out
+Leaf:  N Elaborate the wolf
+Leaf:  S span i had been following
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit had been killed by an irresponsible asshole . Wolves are a majestic animal
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Condition NS
+Leaf:  S span and i believe
+Leaf:  N Elaborate the guy
+Leaf:  S span that shot the wolf
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should be brought up on charges
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Reading about the sniper shooting the wolf was heartbreaking', None, None, None, 0), ('and anger inducing .', None, None, None, 1), ('I would have been very angry', None, None, None, 0), ('if i was the one', None, None, None, 0), ('tracking the wolf', None, None, None, 0), ('and found out', None, None, None, 0), ('the wolf', None, None, None, 0), ('i had been following', None, None, None, 0), ('had been killed by an irresponsible asshole . Wolves are a majestic animal', None, None, None, 0), ('and i believe', None, None, None, 0), ('the guy', None, None, None, 0), ('that shot the wolf', None, None, None, 0), ('should be brought up on charges', None, None, None, 0)]

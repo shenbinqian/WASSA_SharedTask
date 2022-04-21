@@ -1,0 +1,21 @@
+=====================> [[('Man , dont you just worry somtimes', None, None, None, 0), ('about how we got here ?', None, None, None, 1), ('Its like I always knew this country', None, None, None, 0), ('which I love so much ,', None, None, None, 0), ('was uncover still the most raciest place .', None, None, None, 1), ('The win of Trump just made it so much easier for all his ignorant like mined follows to treat people of color and some women , not at there equal , but as people', None, None, None, 0), ('who dont matter .', None, None, None, 1), ('Its sickens me', None, None, None, 0), ('to think about all they have done to people of color the most .', None, None, None, 1), ('Its like we are in 1960 again .', None, None, None, 1)]]
+Leaf:  N Elaborate Man , dont you just worry somtimes
+Leaf:  S span about how we got here ?
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Its like I always knew this country
+Leaf:  S span which I love so much ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was uncover still the most raciest place .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The win of Trump just made it so much easier for all his ignorant like mined follows to treat people of color and some women , not at there equal , but as people
+Leaf:  S span who dont matter .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background Its sickens me
+Leaf:  S span to think about all they have done to people of color the most .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Explanation NS
+Leaf:  N Topic-Change Its like we are in 1960 again .
+Inner:  Root None None Topic-Change NN
+[('Man , dont you just worry somtimes', None, None, None, 0), ('about how we got here ?', None, None, None, 1), ('Its like I always knew this country', None, None, None, 0), ('which I love so much ,', None, None, None, 0), ('was uncover still the most raciest place .', None, None, None, 1), ('The win of Trump just made it so much easier for all his ignorant like mined follows to treat people of color and some women , not at there equal , but as people', None, None, None, 0), ('who dont matter .', None, None, None, 1), ('Its sickens me', None, None, None, 0), ('to think about all they have done to people of color the most .', None, None, None, 1), ('Its like we are in 1960 again .', None, None, None, 1)]

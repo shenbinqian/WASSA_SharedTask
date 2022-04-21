@@ -1,0 +1,19 @@
+=====================> [[('Shit happens .', None, None, None, 1), ('People die for no real reason all the time .', None, None, None, 1), ('It ’s unfortunate for these people ,', None, None, None, 0), ('but they ’re not alone or special in their grief .', None, None, None, 1), ('Maybe', None, None, None, 0), ('if the ride was found to be mechanically defective', None, None, None, 0), ('they can sue', None, None, None, 0), ('and gets some money .', None, None, None, 1), ('Otherwise it ’s just another sad story out of so many others like it in the world .', None, None, None, 1)]]
+Leaf:  N Summary Shit happens .
+Leaf:  N Evaluation People die for no real reason all the time .
+Leaf:  N Contrast It ’s unfortunate for these people ,
+Leaf:  N Contrast but they ’re not alone or special in their grief .
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Same-Unit Maybe
+Leaf:  S span if the ride was found to be mechanically defective
+Leaf:  N Temporal they can sue
+Leaf:  N Temporal and gets some money .
+Inner:  N Condition None Temporal NN
+Inner:  N Same-Unit None Condition SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Otherwise it ’s just another sad story out of so many others like it in the world .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Shit happens .', None, None, None, 1), ('People die for no real reason all the time .', None, None, None, 1), ('It ’s unfortunate for these people ,', None, None, None, 0), ('but they ’re not alone or special in their grief .', None, None, None, 1), ('Maybe', None, None, None, 0), ('if the ride was found to be mechanically defective', None, None, None, 0), ('they can sue', None, None, None, 0), ('and gets some money .', None, None, None, 1), ('Otherwise it ’s just another sad story out of so many others like it in the world .', None, None, None, 1)]

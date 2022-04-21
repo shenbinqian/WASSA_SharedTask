@@ -1,0 +1,31 @@
+=====================> [[('Hey , I wanted to share this article with you', None, None, None, 0), ('that I just found .', None, None, None, 1), ('It is about the issue with junk food ads and targeting kids .', None, None, None, 1), ('We were talking about this the other day .', None, None, None, 1), ('Well apparently it will not be ending any time soon .', None, None, None, 1), ('It is a billion dollar industry', None, None, None, 0), ('and there is very little anyone can do about it .', None, None, None, 1), ('There are organizations out there', None, None, None, 0), ('that is trying to prevent this and fight against childhood obesity . The WHO organization is blaming video bloggers/vloggers', None, None, None, 0), ('who get paychecks from junk food companies .', None, None, None, 1), ('They are claiming', None, None, None, 0), ('that they are more powerful than ads .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('I believe', None, None, None, 0), ('that but it could be possible , you think ?', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I wanted to share this article with you
+Leaf:  S span that I just found .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It is about the issue with junk food ads and targeting kids .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span We were talking about this the other day .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Well apparently it will not be ending any time soon .
+Leaf:  N Joint It is a billion dollar industry
+Leaf:  N Joint and there is very little anyone can do about it .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate There are organizations out there
+Leaf:  N Elaborate that is trying to prevent this and fight against childhood obesity . The WHO organization is blaming video bloggers/vloggers
+Leaf:  S span who get paychecks from junk food companies .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They are claiming
+Leaf:  N Attribution that they are more powerful than ads .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm not sure
+Leaf:  S span I believe
+Leaf:  N Attribution that but it could be possible , you think ?
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Hey , I wanted to share this article with you', None, None, None, 0), ('that I just found .', None, None, None, 1), ('It is about the issue with junk food ads and targeting kids .', None, None, None, 1), ('We were talking about this the other day .', None, None, None, 1), ('Well apparently it will not be ending any time soon .', None, None, None, 1), ('It is a billion dollar industry', None, None, None, 0), ('and there is very little anyone can do about it .', None, None, None, 1), ('There are organizations out there', None, None, None, 0), ('that is trying to prevent this and fight against childhood obesity . The WHO organization is blaming video bloggers/vloggers', None, None, None, 0), ('who get paychecks from junk food companies .', None, None, None, 1), ('They are claiming', None, None, None, 0), ('that they are more powerful than ads .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('I believe', None, None, None, 0), ('that but it could be possible , you think ?', None, None, None, 1)]

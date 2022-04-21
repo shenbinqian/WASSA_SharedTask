@@ -1,0 +1,29 @@
+=====================> [[("That 's interesting about the buzzing possibly being created by the brain .", None, None, None, 1), ('I always thought', None, None, None, 0), ('it was created by the auditory nerve .', None, None, None, 1), ('Someone very close to me deals with tinnitus every day ,', None, None, None, 0), ('and I always thought', None, None, None, 0), ("it was odd because I 'm the one", None, None, None, 0), ('who has worked in high noise environments ,', None, None, None, 0), ("but she 's the one", None, None, None, 0), ('who suffers with it .', None, None, None, 1), ("It 's interesting", None, None, None, 0), ('because it says', None, None, None, 0), ('psychotherapy is a possible solution', None, None, None, 0), ('which would make us very happy', None, None, None, 0), ("if it 's real .", None, None, None, 1)]]
+Leaf:  N Explanation That 's interesting about the buzzing possibly being created by the brain .
+Leaf:  S span I always thought
+Leaf:  N Attribution it was created by the auditory nerve .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Someone very close to me deals with tinnitus every day ,
+Leaf:  S span and I always thought
+Leaf:  N Elaborate it was odd because I 'm the one
+Leaf:  S span who has worked in high noise environments ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Elaborate but she 's the one
+Leaf:  S span who suffers with it .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Attribution None Contrast NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation It 's interesting
+Leaf:  S span because it says
+Leaf:  N Elaborate psychotherapy is a possible solution
+Leaf:  N Condition which would make us very happy
+Leaf:  S span if it 's real .
+Inner:  S span None Condition NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("That 's interesting about the buzzing possibly being created by the brain .", None, None, None, 1), ('I always thought', None, None, None, 0), ('it was created by the auditory nerve .', None, None, None, 1), ('Someone very close to me deals with tinnitus every day ,', None, None, None, 0), ('and I always thought', None, None, None, 0), ("it was odd because I 'm the one", None, None, None, 0), ('who has worked in high noise environments ,', None, None, None, 0), ("but she 's the one", None, None, None, 0), ('who suffers with it .', None, None, None, 1), ("It 's interesting", None, None, None, 0), ('because it says', None, None, None, 0), ('psychotherapy is a possible solution', None, None, None, 0), ('which would make us very happy', None, None, None, 0), ("if it 's real .", None, None, None, 1)]

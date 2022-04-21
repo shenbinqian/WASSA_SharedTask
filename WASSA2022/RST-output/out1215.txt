@@ -1,0 +1,27 @@
+=====================> [[('Why am I so ignorant', None, None, None, 0), ('when it comes to politics .', None, None, None, 1), ('I just reread an article', None, None, None, 0), ('3 times over', None, None, None, 0), ('to try and figure out', None, None, None, 0), ('what it was talking about with Trump and jobs and discrimination and racism by the end of it all three times I felt', None, None, None, 0), ('like I had read gibberish .', None, None, None, 1), ('Is that how politics are for you or do you actually understand it .', None, None, None, 1), ("All I understand is that I do n't agree with Trump", None, None, None, 0), ("I do n't agree with his Antics I do n't agree with his policies .", None, None, None, 1), ("I 'm not sure", None, None, None, 0), ("if he 's selfish or just a moron right now .", None, None, None, 1), ('How do you feel ?', None, None, None, 1)]]
+Leaf:  N Background Why am I so ignorant
+Leaf:  S span when it comes to politics .
+Inner:  N Summary None Background NS
+Leaf:  N Temporal I just reread an article
+Leaf:  N Enablement 3 times over
+Leaf:  S span to try and figure out
+Leaf:  N Enablement what it was talking about with Trump and jobs and discrimination and racism by the end of it all three times I felt
+Leaf:  S span like I had read gibberish .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span Is that how politics are for you or do you actually understand it .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint All I understand is that I do n't agree with Trump
+Leaf:  N Joint I do n't agree with his Antics I do n't agree with his policies .
+Inner:  N Joint None Joint NN
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution if he 's selfish or just a moron right now .
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span How do you feel ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Why am I so ignorant', None, None, None, 0), ('when it comes to politics .', None, None, None, 1), ('I just reread an article', None, None, None, 0), ('3 times over', None, None, None, 0), ('to try and figure out', None, None, None, 0), ('what it was talking about with Trump and jobs and discrimination and racism by the end of it all three times I felt', None, None, None, 0), ('like I had read gibberish .', None, None, None, 1), ('Is that how politics are for you or do you actually understand it .', None, None, None, 1), ("All I understand is that I do n't agree with Trump", None, None, None, 0), ("I do n't agree with his Antics I do n't agree with his policies .", None, None, None, 1), ("I 'm not sure", None, None, None, 0), ("if he 's selfish or just a moron right now .", None, None, None, 1), ('How do you feel ?', None, None, None, 1)]

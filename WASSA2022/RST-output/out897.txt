@@ -1,0 +1,23 @@
+=====================> [[('I had no idea', None, None, None, 0), ('that caffeine powder could cause problems like that !', None, None, None, 1), ('Other than the obviousness', None, None, None, 0), ('of it being caffeine ,', None, None, None, 0), ('I wonder', None, None, None, 0), ("if it 's any worse than coffee in that way ,", None, None, None, 0), ("or if it 's just because its usually a hidden product .", None, None, None, 1), ('Also comfrey , I have definitely taken in things before ,', None, None, None, 0), ("it 's been in menstrual supplements ,", None, None, None, 0), ("I did n't know that .", None, None, None, 1), ("I feel like I 've seen green tea powder in something as well .", None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Attribution that caffeine powder could cause problems like that !
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Other than the obviousness
+Leaf:  S span of it being caffeine ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background I wonder
+Inner:  S span None Background SN
+Leaf:  N Joint if it 's any worse than coffee in that way ,
+Leaf:  N Joint or if it 's just because its usually a hidden product .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate Also comfrey , I have definitely taken in things before ,
+Leaf:  S span it 's been in menstrual supplements ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I did n't know that .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I feel like I 've seen green tea powder in something as well .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I had no idea', None, None, None, 0), ('that caffeine powder could cause problems like that !', None, None, None, 1), ('Other than the obviousness', None, None, None, 0), ('of it being caffeine ,', None, None, None, 0), ('I wonder', None, None, None, 0), ("if it 's any worse than coffee in that way ,", None, None, None, 0), ("or if it 's just because its usually a hidden product .", None, None, None, 1), ('Also comfrey , I have definitely taken in things before ,', None, None, None, 0), ("it 's been in menstrual supplements ,", None, None, None, 0), ("I did n't know that .", None, None, None, 1), ("I feel like I 've seen green tea powder in something as well .", None, None, None, 1)]

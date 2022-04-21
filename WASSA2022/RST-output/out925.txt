@@ -1,0 +1,47 @@
+=====================> [[('Did you hear about the three people', None, None, None, 0), ('who died on Halloween night ?', None, None, None, 1), ('It happened in Mississippi on a highway .', None, None, None, 1), ('Someone hit a trailer', None, None, None, 0), ('that was pulling people on a highway .', None, None, None, 1), ('Several people were injured ,', None, None, None, 0), ('but three were killed .', None, None, None, 1), ('Authorities say', None, None, None, 0), ('that the three killed were related to one another .', None, None, None, 1), ('That is so sad and breaks my heart . It was most likely a family , a mother and her kids , or a father and his kids .', None, None, None, 1), ('It really makes me sad', None, None, None, 0), ('when I read about it', None, None, None, 0), ('because I can not help', None, None, None, 0), ('but imagine how much fun and excitement', None, None, None, 0), ('this family was experiencing', None, None, None, 0), ('before the accident happened . The article did not say', None, None, None, 0), ('if the driver', None, None, None, 0), ('who caused the accident', None, None, None, 0), ('was drunk or on drugs .', None, None, None, 1), ('I wish', None, None, None, 0), ('people were more alert while on the road .', None, None, None, 1), ('Accidents like this are completely preventable .', None, None, None, 1), ('And now three people are no longer with us .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about the three people
+Leaf:  S span who died on Halloween night ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate It happened in Mississippi on a highway .
+Leaf:  N Elaborate Someone hit a trailer
+Leaf:  S span that was pulling people on a highway .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Comparison Several people were injured ,
+Leaf:  N Comparison but three were killed .
+Inner:  S span None Comparison NN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Authorities say
+Leaf:  N Attribution that the three killed were related to one another .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span That is so sad and breaks my heart . It was most likely a family , a mother and her kids , or a father and his kids .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background It really makes me sad
+Leaf:  S span when I read about it
+Inner:  N Explanation None Background NS
+Leaf:  S span because I can not help
+Leaf:  N Elaborate but imagine how much fun and excitement
+Leaf:  S span this family was experiencing
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span before the accident happened . The article did not say
+Inner:  S span None Temporal NS
+Leaf:  N Elaborate if the driver
+Leaf:  S span who caused the accident
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was drunk or on drugs .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I wish
+Leaf:  N Attribution people were more alert while on the road .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Accidents like this are completely preventable .
+Inner:  S span None Explanation NS
+Leaf:  N Background And now three people are no longer with us .
+Inner:  S span None Background SN
+Inner:  Root None None Evaluation NS
+[('Did you hear about the three people', None, None, None, 0), ('who died on Halloween night ?', None, None, None, 1), ('It happened in Mississippi on a highway .', None, None, None, 1), ('Someone hit a trailer', None, None, None, 0), ('that was pulling people on a highway .', None, None, None, 1), ('Several people were injured ,', None, None, None, 0), ('but three were killed .', None, None, None, 1), ('Authorities say', None, None, None, 0), ('that the three killed were related to one another .', None, None, None, 1), ('That is so sad and breaks my heart . It was most likely a family , a mother and her kids , or a father and his kids .', None, None, None, 1), ('It really makes me sad', None, None, None, 0), ('when I read about it', None, None, None, 0), ('because I can not help', None, None, None, 0), ('but imagine how much fun and excitement', None, None, None, 0), ('this family was experiencing', None, None, None, 0), ('before the accident happened . The article did not say', None, None, None, 0), ('if the driver', None, None, None, 0), ('who caused the accident', None, None, None, 0), ('was drunk or on drugs .', None, None, None, 1), ('I wish', None, None, None, 0), ('people were more alert while on the road .', None, None, None, 1), ('Accidents like this are completely preventable .', None, None, None, 1), ('And now three people are no longer with us .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('Imagine the excitement', None, None, None, 0), ('of going to a concert', None, None, None, 0), ('and the buildup for days after buying tickets .', None, None, None, 1), ('Imagine that you finally get to see these bands play', None, None, None, 0), ('and all of the sudden you hear gunshots ring out .', None, None, None, 1), ('You see people', None, None, None, 0), ('falling down , dead .', None, None, None, 1), ('How are you supposed to cope with that ?', None, None, None, 1), ('How can you get up the next day', None, None, None, 0), ('and feel', None, None, None, 0), ('that this is a world', None, None, None, 0), ('worth living in ?', None, None, None, 1)]]
+Leaf:  N Elaborate Imagine the excitement
+Leaf:  S span of going to a concert
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and the buildup for days after buying tickets .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Temporal Imagine that you finally get to see these bands play
+Leaf:  N Joint and all of the sudden you hear gunshots ring out .
+Leaf:  N Elaborate You see people
+Leaf:  S span falling down , dead .
+Inner:  N Joint None Elaborate NS
+Inner:  N Temporal None Joint NN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Joint How are you supposed to cope with that ?
+Leaf:  N Joint How can you get up the next day
+Leaf:  S span and feel
+Leaf:  N Elaborate that this is a world
+Leaf:  S span worth living in ?
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Imagine the excitement', None, None, None, 0), ('of going to a concert', None, None, None, 0), ('and the buildup for days after buying tickets .', None, None, None, 1), ('Imagine that you finally get to see these bands play', None, None, None, 0), ('and all of the sudden you hear gunshots ring out .', None, None, None, 1), ('You see people', None, None, None, 0), ('falling down , dead .', None, None, None, 1), ('How are you supposed to cope with that ?', None, None, None, 1), ('How can you get up the next day', None, None, None, 0), ('and feel', None, None, None, 0), ('that this is a world', None, None, None, 0), ('worth living in ?', None, None, None, 1)]

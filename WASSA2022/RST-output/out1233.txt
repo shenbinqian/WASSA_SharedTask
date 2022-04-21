@@ -1,0 +1,37 @@
+=====================> [[('So , a man in china , put a chopstick into his penis .', None, None, None, 1), ('Yeah , you heard me .', None, None, None, 1), ('He wanted to see', None, None, None, 0), ('if he had an infection or something ,', None, None, None, 0), ('and instead of being a normal person ,', None, None, None, 0), ('and going to the doctor ,', None, None, None, 0), ('he decided to self examine', None, None, None, 0), ('and see what he could find . He ended up having to have surgery', None, None, None, 0), ('to remove the chopstick out of hiis penis .', None, None, None, 1), ('What would possess a man , to do such a thing ? ,', None, None, None, 0), ('The only thing', None, None, None, 0), ('I can think of after reading this story , ,', None, None, None, 0), ('is about how real mental ilness is . . There is no other excuse in my opinion on why someone so masochistic .', None, None, None, 1), ('I mean ,', None, None, None, 0), ('the doctors said', None, None, None, 0), (', any further ,', None, None, None, 0), ('and he would have killed himself .', None, None, None, 1), ('It hurst me just thinking about this .', None, None, None, 1)]]
+Leaf:  N Summary So , a man in china , put a chopstick into his penis .
+Leaf:  S span Yeah , you heard me .
+Inner:  S span None Summary NS
+Leaf:  S span He wanted to see
+Leaf:  N Attribution if he had an infection or something ,
+Inner:  N Temporal None Attribution SN
+Leaf:  N Temporal and instead of being a normal person ,
+Leaf:  N Temporal and going to the doctor ,
+Inner:  S span None Temporal NN
+Leaf:  N Enablement he decided to self examine
+Leaf:  S span and see what he could find . He ended up having to have surgery
+Inner:  N Enablement None Enablement NS
+Leaf:  S span to remove the chopstick out of hiis penis .
+Inner:  N Background None Enablement NS
+Inner:  N Temporal None Background SN
+Inner:  N Background None Temporal NN
+Inner:  N Evaluation None Background SN
+Leaf:  S span What would possess a man , to do such a thing ? ,
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Elaborate The only thing
+Leaf:  S span I can think of after reading this story , ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is about how real mental ilness is . . There is no other excuse in my opinion on why someone so masochistic .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate I mean ,
+Leaf:  S span the doctors said
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span , any further ,
+Leaf:  N Cause and he would have killed himself .
+Inner:  N Same-Unit None Cause SN
+Inner:  S span None Same-Unit NN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  S span It hurst me just thinking about this .
+Inner:  Root None None Evaluation NS
+[('So , a man in china , put a chopstick into his penis .', None, None, None, 1), ('Yeah , you heard me .', None, None, None, 1), ('He wanted to see', None, None, None, 0), ('if he had an infection or something ,', None, None, None, 0), ('and instead of being a normal person ,', None, None, None, 0), ('and going to the doctor ,', None, None, None, 0), ('he decided to self examine', None, None, None, 0), ('and see what he could find . He ended up having to have surgery', None, None, None, 0), ('to remove the chopstick out of hiis penis .', None, None, None, 1), ('What would possess a man , to do such a thing ? ,', None, None, None, 0), ('The only thing', None, None, None, 0), ('I can think of after reading this story , ,', None, None, None, 0), ('is about how real mental ilness is . . There is no other excuse in my opinion on why someone so masochistic .', None, None, None, 1), ('I mean ,', None, None, None, 0), ('the doctors said', None, None, None, 0), (', any further ,', None, None, None, 0), ('and he would have killed himself .', None, None, None, 1), ('It hurst me just thinking about this .', None, None, None, 1)]

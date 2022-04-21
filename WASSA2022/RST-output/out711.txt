@@ -1,0 +1,23 @@
+=====================> [[('Things are really bad in Afghanistan right now', None, None, None, 0), ('- I just read an article about the latest .', None, None, None, 1), ('Refugees from European countries are being sent home to Afghanistan ,', None, None, None, 0), ('only to see the turmoil first-hand .', None, None, None, 1), ('And there are problems with resources', None, None, None, 0), ('getting to the people', None, None, None, 0), ('who need them . So many displaced people in bad shape .', None, None, None, 1), ('I wish countries would get together', None, None, None, 0), ('and share resources and welcome immigration . If everyone had enough resources', None, None, None, 0), ('to live comfortably ,', None, None, None, 0), ('things would surely improve .', None, None, None, 1)]]
+Leaf:  N Explanation Things are really bad in Afghanistan right now
+Leaf:  S span - I just read an article about the latest .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Cause Refugees from European countries are being sent home to Afghanistan ,
+Leaf:  S span only to see the turmoil first-hand .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate And there are problems with resources
+Leaf:  N Elaborate getting to the people
+Leaf:  S span who need them . So many displaced people in bad shape .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I wish countries would get together
+Leaf:  N Enablement and share resources and welcome immigration . If everyone had enough resources
+Leaf:  S span to live comfortably ,
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Leaf:  N Condition things would surely improve .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Things are really bad in Afghanistan right now', None, None, None, 0), ('- I just read an article about the latest .', None, None, None, 1), ('Refugees from European countries are being sent home to Afghanistan ,', None, None, None, 0), ('only to see the turmoil first-hand .', None, None, None, 1), ('And there are problems with resources', None, None, None, 0), ('getting to the people', None, None, None, 0), ('who need them . So many displaced people in bad shape .', None, None, None, 1), ('I wish countries would get together', None, None, None, 0), ('and share resources and welcome immigration . If everyone had enough resources', None, None, None, 0), ('to live comfortably ,', None, None, None, 0), ('things would surely improve .', None, None, None, 1)]

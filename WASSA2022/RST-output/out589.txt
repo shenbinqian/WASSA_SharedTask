@@ -1,0 +1,21 @@
+=====================> [[('Gosh , who would do something as horrible as kill an innocent animal', None, None, None, 0), ('( and a baby at that ) ?', None, None, None, 1), ('However , I am glad', None, None, None, 0), ('that the Salt River Wild Horse Management Group and the American Wild Horse Preservation Campaign set up a reward', None, None, None, 0), ('to catch whoever did that .', None, None, None, 1), ('I was also happy to see', None, None, None, 0), ('that it was an immediate response , not a delayed one .', None, None, None, 1), ("It 's sad that people wo n't come forward on their own", None, None, None, 0), ('to bring justice', None, None, None, 0), ('and that there has to be a monetary incentive .', None, None, None, 1)]]
+Leaf:  N Elaborate Gosh , who would do something as horrible as kill an innocent animal
+Leaf:  S span ( and a baby at that ) ?
+Inner:  S span None Elaborate NS
+Leaf:  S span However , I am glad
+Leaf:  N Enablement that the Salt River Wild Horse Management Group and the American Wild Horse Preservation Campaign set up a reward
+Leaf:  S span to catch whoever did that .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I was also happy to see
+Leaf:  N Attribution that it was an immediate response , not a delayed one .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Enablement It 's sad that people wo n't come forward on their own
+Leaf:  N Joint to bring justice
+Leaf:  N Joint and that there has to be a monetary incentive .
+Inner:  S span None Joint NN
+Inner:  S span None Enablement NS
+Inner:  Root None None Evaluation NS
+[('Gosh , who would do something as horrible as kill an innocent animal', None, None, None, 0), ('( and a baby at that ) ?', None, None, None, 1), ('However , I am glad', None, None, None, 0), ('that the Salt River Wild Horse Management Group and the American Wild Horse Preservation Campaign set up a reward', None, None, None, 0), ('to catch whoever did that .', None, None, None, 1), ('I was also happy to see', None, None, None, 0), ('that it was an immediate response , not a delayed one .', None, None, None, 1), ("It 's sad that people wo n't come forward on their own", None, None, None, 0), ('to bring justice', None, None, None, 0), ('and that there has to be a monetary incentive .', None, None, None, 1)]

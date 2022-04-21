@@ -1,0 +1,23 @@
+=====================> [[('Was this really Neo-Nazi fucktards ?', None, None, None, 1), ('Or was this a left-wing attempt', None, None, None, 0), ('to incite minorities', None, None, None, 0), ('and drive them to the polls ?', None, None, None, 1), ('Why are we not past this crap ? Ridiculous .', None, None, None, 1), ('I love a lot of things', None, None, None, 0), ('about being Southern ,', None, None, None, 0), ('but this crap drives me nuts .', None, None, None, 1), ('Who does this ?', None, None, None, 1), ('Can we bring back the stockade ?', None, None, None, 1), ('Tar and feather ?', None, None, None, 1)]]
+Leaf:  N Joint Was this really Neo-Nazi fucktards ?
+Leaf:  N Elaborate Or was this a left-wing attempt
+Leaf:  N Joint to incite minorities
+Leaf:  N Joint and drive them to the polls ?
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Why are we not past this crap ? Ridiculous .
+Inner:  N Textual-Organization None Joint NN
+Leaf:  N Elaborate I love a lot of things
+Leaf:  S span about being Southern ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but this crap drives me nuts .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint Who does this ?
+Leaf:  N Joint Can we bring back the stockade ?
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Tar and feather ?
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Was this really Neo-Nazi fucktards ?', None, None, None, 1), ('Or was this a left-wing attempt', None, None, None, 0), ('to incite minorities', None, None, None, 0), ('and drive them to the polls ?', None, None, None, 1), ('Why are we not past this crap ? Ridiculous .', None, None, None, 1), ('I love a lot of things', None, None, None, 0), ('about being Southern ,', None, None, None, 0), ('but this crap drives me nuts .', None, None, None, 1), ('Who does this ?', None, None, None, 1), ('Can we bring back the stockade ?', None, None, None, 1), ('Tar and feather ?', None, None, None, 1)]

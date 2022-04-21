@@ -1,0 +1,25 @@
+=====================> [[('We should all try to do more', None, None, None, 0), ('to decrease global warming for the sake the polar bear population and for our own human population as well .', None, None, None, 1), ('Please read this article about the polar bears and the problems', None, None, None, 0), ('they face', None, None, None, 0), ('and issues', None, None, None, 0), ('that they must endure', None, None, None, 0), ('related to global warming .', None, None, None, 1), ('The article is very descriptive', None, None, None, 0), ('and explains the issues very well .', None, None, None, 1), ('It is worth reading', None, None, None, 0), ('and sharing with others', None, None, None, 0), ('to bring exposure to the plight of the polar bears .', None, None, None, 1)]]
+Leaf:  N Enablement We should all try to do more
+Leaf:  S span to decrease global warming for the sake the polar bear population and for our own human population as well .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate Please read this article about the polar bears and the problems
+Leaf:  S span they face
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and issues
+Leaf:  S span that they must endure
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span related to global warming .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint The article is very descriptive
+Leaf:  N Joint and explains the issues very well .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It is worth reading
+Leaf:  N Enablement and sharing with others
+Leaf:  S span to bring exposure to the plight of the polar bears .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('We should all try to do more', None, None, None, 0), ('to decrease global warming for the sake the polar bear population and for our own human population as well .', None, None, None, 1), ('Please read this article about the polar bears and the problems', None, None, None, 0), ('they face', None, None, None, 0), ('and issues', None, None, None, 0), ('that they must endure', None, None, None, 0), ('related to global warming .', None, None, None, 1), ('The article is very descriptive', None, None, None, 0), ('and explains the issues very well .', None, None, None, 1), ('It is worth reading', None, None, None, 0), ('and sharing with others', None, None, None, 0), ('to bring exposure to the plight of the polar bears .', None, None, None, 1)]

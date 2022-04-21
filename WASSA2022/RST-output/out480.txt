@@ -1,0 +1,11 @@
+=====================> [[('I think', None, None, None, 0), ("it 's well known what the CIA has been doing through it 's torture programs of suspected terrorists at Guantanamo Bay .", None, None, None, 1), ('Dr. Rosecrans a leading psychiatrist for the Navy was immersed in treating these patients .', None, None, None, 1), ('She worked there for almost fifteen years', None, None, None, 0), ('and had difficulty helping out these traumatized victims after their incarceration .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it 's well known what the CIA has been doing through it 's torture programs of suspected terrorists at Guantanamo Bay .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Dr. Rosecrans a leading psychiatrist for the Navy was immersed in treating these patients .
+Leaf:  N Joint She worked there for almost fifteen years
+Leaf:  N Joint and had difficulty helping out these traumatized victims after their incarceration .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ("it 's well known what the CIA has been doing through it 's torture programs of suspected terrorists at Guantanamo Bay .", None, None, None, 1), ('Dr. Rosecrans a leading psychiatrist for the Navy was immersed in treating these patients .', None, None, None, 1), ('She worked there for almost fifteen years', None, None, None, 0), ('and had difficulty helping out these traumatized victims after their incarceration .', None, None, None, 1)]

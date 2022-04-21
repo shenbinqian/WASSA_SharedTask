@@ -1,0 +1,25 @@
+=====================> [[('We are only given one life .', None, None, None, 1), ('I think', None, None, None, 0), ('that everyone wants to live a long and fruitful life .', None, None, None, 1), ('I know', None, None, None, 0), ('that sometimes we all have to do things', None, None, None, 0), ('that we do not want to do .', None, None, None, 1), ('There are certain procedures or policies', None, None, None, 0), ('that we need', None, None, None, 0), ('to follow', None, None, None, 0), ('to be able to maintain a certain life , and lifestyle .', None, None, None, 1), ('I know', None, None, None, 0), ("I do n't really enjoy going to the doctor .", None, None, None, 1)]]
+Leaf:  N Elaborate We are only given one life .
+Leaf:  S span I think
+Leaf:  N Attribution that everyone wants to live a long and fruitful life .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I know
+Leaf:  N Elaborate that sometimes we all have to do things
+Leaf:  S span that we do not want to do .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate There are certain procedures or policies
+Leaf:  N Enablement that we need
+Leaf:  S span to follow
+Inner:  N Enablement None Enablement NS
+Leaf:  S span to be able to maintain a certain life , and lifestyle .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Attribution I do n't really enjoy going to the doctor .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('We are only given one life .', None, None, None, 1), ('I think', None, None, None, 0), ('that everyone wants to live a long and fruitful life .', None, None, None, 1), ('I know', None, None, None, 0), ('that sometimes we all have to do things', None, None, None, 0), ('that we do not want to do .', None, None, None, 1), ('There are certain procedures or policies', None, None, None, 0), ('that we need', None, None, None, 0), ('to follow', None, None, None, 0), ('to be able to maintain a certain life , and lifestyle .', None, None, None, 1), ('I know', None, None, None, 0), ("I do n't really enjoy going to the doctor .", None, None, None, 1)]

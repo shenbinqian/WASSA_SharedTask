@@ -1,0 +1,17 @@
+=====================> [[("I do n't understand", None, None, None, 0), ('how people can look at stories like this', None, None, None, 0), ('and still claim', None, None, None, 0), ('that " guns do n\'t kill people ,', None, None, None, 0), ('people kill people " .', None, None, None, 1), ('If guns were less available and less prevalent in communities prone to violence ,', None, None, None, 0), ('then confrontations between people would be far less likely to be lethal .', None, None, None, 1), ('It needs to be more difficult to obtain a firearm in this country .', None, None, None, 1)]]
+Leaf:  S span I do n't understand
+Leaf:  N Temporal how people can look at stories like this
+Leaf:  S span and still claim
+Leaf:  N Joint that " guns do n't kill people ,
+Leaf:  N Joint people kill people " .
+Inner:  N Attribution None Joint NN
+Inner:  N Temporal None Attribution SN
+Inner:  N Attribution None Temporal NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If guns were less available and less prevalent in communities prone to violence ,
+Leaf:  N Condition then confrontations between people would be far less likely to be lethal .
+Inner:  N Elaborate None Condition SN
+Leaf:  S span It needs to be more difficult to obtain a firearm in this country .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I do n't understand", None, None, None, 0), ('how people can look at stories like this', None, None, None, 0), ('and still claim', None, None, None, 0), ('that " guns do n\'t kill people ,', None, None, None, 0), ('people kill people " .', None, None, None, 1), ('If guns were less available and less prevalent in communities prone to violence ,', None, None, None, 0), ('then confrontations between people would be far less likely to be lethal .', None, None, None, 1), ('It needs to be more difficult to obtain a firearm in this country .', None, None, None, 1)]

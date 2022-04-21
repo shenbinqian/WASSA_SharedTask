@@ -1,0 +1,35 @@
+=====================> [[('I feel', None, None, None, 0), ('that it is a common thing to have intentions misplaced .', None, None, None, 1), ('The article seems to discuss', None, None, None, 0), ('what the difference is between perception versus reality .', None, None, None, 1), ('I love to understand', None, None, None, 0), ('what part of reality', None, None, None, 0), ('I can dissect to understand how I can do better myself . For example if a family member tells', None, None, None, 0), ('me', None, None, None, 0), ('that something does not look right on my body', None, None, None, 0), ('I usually take it off . For example I had a bad weave on my head one time', None, None, None, 0), ('and I took it off after church and never wore it again . I love to always look my best', None, None, None, 0), ("and if I do n't I will usually correct the situation .", None, None, None, 1), ('The perception of fantasy is often when people get in trouble', None, None, None, 0), ('because they perceive it as reality .', None, None, None, 1), ('I have always received constructive criticism from my parents', None, None, None, 0), ('so that I can also distinguish the difference as well .', None, None, None, 1), ('Parents should often be the critic ok .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution that it is a common thing to have intentions misplaced .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The article seems to discuss
+Leaf:  N Attribution what the difference is between perception versus reality .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I love to understand
+Leaf:  N Enablement what part of reality
+Leaf:  S span I can dissect to understand how I can do better myself . For example if a family member tells
+Leaf:  S span me
+Leaf:  N Attribution that something does not look right on my body
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Leaf:  N Temporal I usually take it off . For example I had a bad weave on my head one time
+Leaf:  N Evaluation and I took it off after church and never wore it again . I love to always look my best
+Leaf:  N Evaluation and if I do n't I will usually correct the situation .
+Inner:  N Temporal None Evaluation NN
+Inner:  N Condition None Temporal NN
+Inner:  N Joint None Condition SN
+Leaf:  N Cause The perception of fantasy is often when people get in trouble
+Leaf:  S span because they perceive it as reality .
+Inner:  N Joint None Cause NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Enablement I have always received constructive criticism from my parents
+Leaf:  S span so that I can also distinguish the difference as well .
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span Parents should often be the critic ok .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('that it is a common thing to have intentions misplaced .', None, None, None, 1), ('The article seems to discuss', None, None, None, 0), ('what the difference is between perception versus reality .', None, None, None, 1), ('I love to understand', None, None, None, 0), ('what part of reality', None, None, None, 0), ('I can dissect to understand how I can do better myself . For example if a family member tells', None, None, None, 0), ('me', None, None, None, 0), ('that something does not look right on my body', None, None, None, 0), ('I usually take it off . For example I had a bad weave on my head one time', None, None, None, 0), ('and I took it off after church and never wore it again . I love to always look my best', None, None, None, 0), ("and if I do n't I will usually correct the situation .", None, None, None, 1), ('The perception of fantasy is often when people get in trouble', None, None, None, 0), ('because they perceive it as reality .', None, None, None, 1), ('I have always received constructive criticism from my parents', None, None, None, 0), ('so that I can also distinguish the difference as well .', None, None, None, 1), ('Parents should often be the critic ok .', None, None, None, 1)]

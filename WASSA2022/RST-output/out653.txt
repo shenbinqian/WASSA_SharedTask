@@ -1,0 +1,25 @@
+=====================> [[('I really hate ISIS .', None, None, None, 1), ('They are the scum of the earth .', None, None, None, 1), ('I just learned', None, None, None, 0), ('that they killed over 100 Iraqi police officers in Mosul .', None, None, None, 1), ('This is the kind of thing', None, None, None, 0), ('that happens', None, None, None, 0), ('when we pull our troops out of Iraq .', None, None, None, 1), ('Yeah we should not have been there in the first place', None, None, None, 0), ('but we made that mistake', None, None, None, 0), ('and we now have to take responsibilty for it .', None, None, None, 1), ('I feel so bad for all the Iraqi people', None, None, None, 0), ('who just want to live their lives in peace .', None, None, None, 1)]]
+Leaf:  N Elaborate I really hate ISIS .
+Leaf:  S span They are the scum of the earth .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I just learned
+Leaf:  N Attribution that they killed over 100 Iraqi police officers in Mosul .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate This is the kind of thing
+Leaf:  N Background that happens
+Leaf:  S span when we pull our troops out of Iraq .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Yeah we should not have been there in the first place
+Leaf:  N Cause but we made that mistake
+Leaf:  N Cause and we now have to take responsibilty for it .
+Inner:  N Contrast None Cause NN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I feel so bad for all the Iraqi people
+Leaf:  S span who just want to live their lives in peace .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I really hate ISIS .', None, None, None, 1), ('They are the scum of the earth .', None, None, None, 1), ('I just learned', None, None, None, 0), ('that they killed over 100 Iraqi police officers in Mosul .', None, None, None, 1), ('This is the kind of thing', None, None, None, 0), ('that happens', None, None, None, 0), ('when we pull our troops out of Iraq .', None, None, None, 1), ('Yeah we should not have been there in the first place', None, None, None, 0), ('but we made that mistake', None, None, None, 0), ('and we now have to take responsibilty for it .', None, None, None, 1), ('I feel so bad for all the Iraqi people', None, None, None, 0), ('who just want to live their lives in peace .', None, None, None, 1)]

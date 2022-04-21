@@ -1,0 +1,23 @@
+=====================> [[('What an awful tragedy no family should be subjected to this .', None, None, None, 1), ('This is really getting out of hand', None, None, None, 0), ('i cant believe', None, None, None, 0), ('the middle east still has so much turmoil .', None, None, None, 1), ('its really ridiculous .', None, None, None, 1), ('i hope', None, None, None, 0), ('our boys can help calm the situation', None, None, None, 0), ('and keep things safer', None, None, None, 0), ('than they are now .', None, None, None, 1), ('its just insane', None, None, None, 0), ('how much a person must be delusional to go through with these actions', None, None, None, 0)]]
+Leaf:  N Summary What an awful tragedy no family should be subjected to this .
+Leaf:  N Explanation This is really getting out of hand
+Leaf:  S span i cant believe
+Leaf:  N Attribution the middle east still has so much turmoil .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Evaluation its really ridiculous .
+Leaf:  S span i hope
+Leaf:  N Joint our boys can help calm the situation
+Leaf:  N Comparison and keep things safer
+Leaf:  S span than they are now .
+Inner:  N Joint None Comparison NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation its just insane
+Leaf:  S span how much a person must be delusional to go through with these actions
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('What an awful tragedy no family should be subjected to this .', None, None, None, 1), ('This is really getting out of hand', None, None, None, 0), ('i cant believe', None, None, None, 0), ('the middle east still has so much turmoil .', None, None, None, 1), ('its really ridiculous .', None, None, None, 1), ('i hope', None, None, None, 0), ('our boys can help calm the situation', None, None, None, 0), ('and keep things safer', None, None, None, 0), ('than they are now .', None, None, None, 1), ('its just insane', None, None, None, 0), ('how much a person must be delusional to go through with these actions', None, None, None, 0)]

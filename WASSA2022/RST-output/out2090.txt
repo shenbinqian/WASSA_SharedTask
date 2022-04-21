@@ -1,0 +1,27 @@
+=====================> [[('Read an article about another shooter in Washington .', None, None, None, 1), ('He walked into a mall', None, None, None, 0), ('and then killed five people', None, None, None, 0), ('before leaving .', None, None, None, 1), ('What a sad situation', None, None, None, 0), ('that we have', None, None, None, 0), ('to live in a society', None, None, None, 0), ('that has things like this happen regularly .', None, None, None, 1), ('I hope', None, None, None, 0), ('those families', None, None, None, 0), ('who are experiencing the loss', None, None, None, 0), ('of loved ones can find comfort', None, None, None, 0), ('and we can stop things like this from happening in the future .', None, None, None, 1)]]
+Leaf:  N Elaborate Read an article about another shooter in Washington .
+Leaf:  N Joint He walked into a mall
+Leaf:  N Joint and then killed five people
+Inner:  N Temporal None Joint NN
+Leaf:  S span before leaving .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate What a sad situation
+Leaf:  S span that we have
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate to live in a society
+Leaf:  S span that has things like this happen regularly .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate those families
+Leaf:  N Elaborate who are experiencing the loss
+Leaf:  N Joint of loved ones can find comfort
+Leaf:  N Joint and we can stop things like this from happening in the future .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Read an article about another shooter in Washington .', None, None, None, 1), ('He walked into a mall', None, None, None, 0), ('and then killed five people', None, None, None, 0), ('before leaving .', None, None, None, 1), ('What a sad situation', None, None, None, 0), ('that we have', None, None, None, 0), ('to live in a society', None, None, None, 0), ('that has things like this happen regularly .', None, None, None, 1), ('I hope', None, None, None, 0), ('those families', None, None, None, 0), ('who are experiencing the loss', None, None, None, 0), ('of loved ones can find comfort', None, None, None, 0), ('and we can stop things like this from happening in the future .', None, None, None, 1)]

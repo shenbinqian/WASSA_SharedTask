@@ -1,0 +1,21 @@
+=====================> [[('I hate the conflict', None, None, None, 0), ('that is happening here .', None, None, None, 1), ('I feel for the three soldiers', None, None, None, 0), ('that died and their families .', None, None, None, 1), ("I guess I 'm too much of a pacifist", None, None, None, 0), ('but I really wish', None, None, None, 0), ('that people could realize', None, None, None, 0), ('that this level of conflict is a waste of resources and lives .', None, None, None, 1), ('However , I also know', None, None, None, 0), ("that this is n't how the world works .", None, None, None, 1)]]
+Leaf:  N Elaborate I hate the conflict
+Leaf:  S span that is happening here .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate I feel for the three soldiers
+Leaf:  S span that died and their families .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I guess I 'm too much of a pacifist
+Leaf:  S span but I really wish
+Leaf:  S span that people could realize
+Leaf:  N Attribution that this level of conflict is a waste of resources and lives .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span However , I also know
+Leaf:  N Attribution that this is n't how the world works .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I hate the conflict', None, None, None, 0), ('that is happening here .', None, None, None, 1), ('I feel for the three soldiers', None, None, None, 0), ('that died and their families .', None, None, None, 1), ("I guess I 'm too much of a pacifist", None, None, None, 0), ('but I really wish', None, None, None, 0), ('that people could realize', None, None, None, 0), ('that this level of conflict is a waste of resources and lives .', None, None, None, 1), ('However , I also know', None, None, None, 0), ("that this is n't how the world works .", None, None, None, 1)]

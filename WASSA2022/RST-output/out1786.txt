@@ -1,0 +1,27 @@
+=====================> [[('hey i just wanted to let you know', None, None, None, 0), ('that this is a rough article .', None, None, None, 1), ('the guy took him out', None, None, None, 0), ('and then took his own life .', None, None, None, 1), ('its pretty sad . the guy knew the employees schedule too', None, None, None, 0), ('so he just could have done it whenever . why would he do it', None, None, None, 0), ('and take his own life though i dont understand .', None, None, None, 1), ('anyways wanted to let you know', None, None, None, 0), ('i did read it', None, None, None, 0), ('and its tragic .', None, None, None, 1), ('i feel bad for the family', None, None, None, 0), ('that it happened to them .', None, None, None, 1), ('hopefully this doesnt happen much more', None, None, None, 0)]]
+Leaf:  S span hey i just wanted to let you know
+Leaf:  N Attribution that this is a rough article .
+Inner:  N Cause None Attribution SN
+Leaf:  N Temporal the guy took him out
+Leaf:  N Temporal and then took his own life .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span its pretty sad . the guy knew the employees schedule too
+Leaf:  N Temporal so he just could have done it whenever . why would he do it
+Leaf:  N Temporal and take his own life though i dont understand .
+Inner:  N Condition None Temporal NN
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span anyways wanted to let you know
+Leaf:  N Attribution i did read it
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and its tragic .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate i feel bad for the family
+Leaf:  S span that it happened to them .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span hopefully this doesnt happen much more
+Inner:  Root None None Evaluation NS
+[('hey i just wanted to let you know', None, None, None, 0), ('that this is a rough article .', None, None, None, 1), ('the guy took him out', None, None, None, 0), ('and then took his own life .', None, None, None, 1), ('its pretty sad . the guy knew the employees schedule too', None, None, None, 0), ('so he just could have done it whenever . why would he do it', None, None, None, 0), ('and take his own life though i dont understand .', None, None, None, 1), ('anyways wanted to let you know', None, None, None, 0), ('i did read it', None, None, None, 0), ('and its tragic .', None, None, None, 1), ('i feel bad for the family', None, None, None, 0), ('that it happened to them .', None, None, None, 1), ('hopefully this doesnt happen much more', None, None, None, 0)]

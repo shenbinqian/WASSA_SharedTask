@@ -1,0 +1,25 @@
+=====================> [[('I think', None, None, None, 0), ('most people would be disturbed', None, None, None, 0), ('about how animals are treated', None, None, None, 0), ('before they are slaughtered', None, None, None, 0), ('and used for meat .', None, None, None, 1), ('I feel like aside from clearly inhumane treatment ,', None, None, None, 0), ('it should be expected', None, None, None, 0), ('that killing an animal', None, None, None, 0), ('for food', None, None, None, 0), ("is n't exactly going to be the most pleasant process for the creature .", None, None, None, 1), ("I 'm not particularly surprised", None, None, None, 0), ('that the method of stunning chickens has a failure rate .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  S span most people would be disturbed
+Leaf:  N Attribution about how animals are treated
+Inner:  N Attribution None Attribution SN
+Inner:  N Temporal None Attribution SN
+Leaf:  N Temporal before they are slaughtered
+Leaf:  N Temporal and used for meat .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span I feel like aside from clearly inhumane treatment ,
+Leaf:  N Elaborate it should be expected
+Leaf:  N Enablement that killing an animal
+Leaf:  S span for food
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit is n't exactly going to be the most pleasant process for the creature .
+Inner:  S span None Same-Unit NN
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I 'm not particularly surprised
+Leaf:  N Attribution that the method of stunning chickens has a failure rate .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('most people would be disturbed', None, None, None, 0), ('about how animals are treated', None, None, None, 0), ('before they are slaughtered', None, None, None, 0), ('and used for meat .', None, None, None, 1), ('I feel like aside from clearly inhumane treatment ,', None, None, None, 0), ('it should be expected', None, None, None, 0), ('that killing an animal', None, None, None, 0), ('for food', None, None, None, 0), ("is n't exactly going to be the most pleasant process for the creature .", None, None, None, 1), ("I 'm not particularly surprised", None, None, None, 0), ('that the method of stunning chickens has a failure rate .', None, None, None, 1)]

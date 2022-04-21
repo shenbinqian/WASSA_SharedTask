@@ -1,0 +1,23 @@
+=====================> [[('It saddens', None, None, None, 0), ('and scares me', None, None, None, 0), ("that people do n't see terrorists for what they are :", None, None, None, 0), ('radicalized individuals', None, None, None, 0), ('who have gone rogue .', None, None, None, 1), ('The vast majority of Muslims are peaceful people', None, None, None, 0), ('who just want to live their lives', None, None, None, 0), ('and practice their faith .', None, None, None, 1), ('This country needs to be educated on other cultures', None, None, None, 0), ('so we stop fearing the unknown .', None, None, None, 1), ("Building more walls and dividers between different groups of people wo n't help anything .", None, None, None, 1)]]
+Leaf:  N Joint It saddens
+Leaf:  S span and scares me
+Leaf:  N Elaborate that people do n't see terrorists for what they are :
+Leaf:  N Elaborate radicalized individuals
+Leaf:  S span who have gone rogue .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate The vast majority of Muslims are peaceful people
+Leaf:  N Joint who just want to live their lives
+Leaf:  N Joint and practice their faith .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This country needs to be educated on other cultures
+Leaf:  N Condition so we stop fearing the unknown .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Building more walls and dividers between different groups of people wo n't help anything .
+Inner:  Root None None Evaluation NS
+[('It saddens', None, None, None, 0), ('and scares me', None, None, None, 0), ("that people do n't see terrorists for what they are :", None, None, None, 0), ('radicalized individuals', None, None, None, 0), ('who have gone rogue .', None, None, None, 1), ('The vast majority of Muslims are peaceful people', None, None, None, 0), ('who just want to live their lives', None, None, None, 0), ('and practice their faith .', None, None, None, 1), ('This country needs to be educated on other cultures', None, None, None, 0), ('so we stop fearing the unknown .', None, None, None, 1), ("Building more walls and dividers between different groups of people wo n't help anything .", None, None, None, 1)]

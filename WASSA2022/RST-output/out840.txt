@@ -1,0 +1,25 @@
+=====================> [[('If this was a hate crime', None, None, None, 0), ('that really sucks .', None, None, None, 1), ('If this was just a bar brawl', None, None, None, 0), ('that ended very badly ...', None, None, None, 1), ('still sucks .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why the police are being so secretive about things .', None, None, None, 1), ("And this guy 's family is clear on the other side of the world", None, None, None, 0), ('probably feeling helpless .', None, None, None, 1), ('The other minorities in the area deserve to know', None, None, None, 0), ('if they need to be worried .', None, None, None, 1), ('Please , cops , release some info .', None, None, None, 1)]]
+Leaf:  N Elaborate If this was a hate crime
+Leaf:  S span that really sucks .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate If this was just a bar brawl
+Leaf:  S span that ended very badly ...
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit still sucks .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't understand
+Leaf:  N Attribution why the police are being so secretive about things .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate And this guy 's family is clear on the other side of the world
+Leaf:  S span probably feeling helpless .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The other minorities in the area deserve to know
+Leaf:  N Attribution if they need to be worried .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Condition None Elaborate NS
+Leaf:  S span Please , cops , release some info .
+Inner:  Root None None Condition NS
+[('If this was a hate crime', None, None, None, 0), ('that really sucks .', None, None, None, 1), ('If this was just a bar brawl', None, None, None, 0), ('that ended very badly ...', None, None, None, 1), ('still sucks .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why the police are being so secretive about things .', None, None, None, 1), ("And this guy 's family is clear on the other side of the world", None, None, None, 0), ('probably feeling helpless .', None, None, None, 1), ('The other minorities in the area deserve to know', None, None, None, 0), ('if they need to be worried .', None, None, None, 1), ('Please , cops , release some info .', None, None, None, 1)]

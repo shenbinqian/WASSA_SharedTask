@@ -1,0 +1,33 @@
+=====================> [[('I just finished reading an article on climate change .', None, None, None, 1), ('I have mixed feelings', None, None, None, 0), ('about whether it is man made or do to the environment .', None, None, None, 1), ('I believe', None, None, None, 0), ('that', None, None, None, 0), ('while humans have a contributing factor ,', None, None, None, 0), ('they are not the only ones .', None, None, None, 1), ('I think', None, None, None, 0), ('some of the admissions are naturally occurring .', None, None, None, 1), ('I also think', None, None, None, 0), ('that some of the naturally occurring emissions are accelerated but human and the disruption to the environment .', None, None, None, 1), ('I see everyday new developments', None, None, None, 0), ('going up', None, None, None, 0), ('and think wow', None, None, None, 0), ('we really should preserve more trees .', None, None, None, 1), ('This article made me affirmed that for me .', None, None, None, 1)]]
+Leaf:  S span I just finished reading an article on climate change .
+Leaf:  N Elaborate I have mixed feelings
+Leaf:  S span about whether it is man made or do to the environment .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I believe
+Leaf:  N Same-Unit that
+Leaf:  S span while humans have a contributing factor ,
+Leaf:  N Contrast they are not the only ones .
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution some of the admissions are naturally occurring .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I also think
+Leaf:  N Attribution that some of the naturally occurring emissions are accelerated but human and the disruption to the environment .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Explanation NS
+Inner:  N Explanation None Background SN
+Leaf:  N Elaborate I see everyday new developments
+Leaf:  S span going up
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and think wow
+Leaf:  N Attribution we really should preserve more trees .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This article made me affirmed that for me .
+Inner:  Root None None Evaluation NS
+[('I just finished reading an article on climate change .', None, None, None, 1), ('I have mixed feelings', None, None, None, 0), ('about whether it is man made or do to the environment .', None, None, None, 1), ('I believe', None, None, None, 0), ('that', None, None, None, 0), ('while humans have a contributing factor ,', None, None, None, 0), ('they are not the only ones .', None, None, None, 1), ('I think', None, None, None, 0), ('some of the admissions are naturally occurring .', None, None, None, 1), ('I also think', None, None, None, 0), ('that some of the naturally occurring emissions are accelerated but human and the disruption to the environment .', None, None, None, 1), ('I see everyday new developments', None, None, None, 0), ('going up', None, None, None, 0), ('and think wow', None, None, None, 0), ('we really should preserve more trees .', None, None, None, 1), ('This article made me affirmed that for me .', None, None, None, 1)]

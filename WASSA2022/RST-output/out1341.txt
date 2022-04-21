@@ -1,0 +1,35 @@
+=====================> [[('Hey !', None, None, None, 1), ('Did you hear about the elephant stuff in Africa ?', None, None, None, 1), ('I know', None, None, None, 0), ('you care a lot about the environment', None, None, None, 0), ('so I thought', None, None, None, 0), ('you should see this .', None, None, None, 1), ('There are some countries', None, None, None, 0), ('that are for the poaching of elephants', None, None, None, 0), ('if you can believe it .', None, None, None, 1), ('Some more rural communities say', None, None, None, 0), ('that the animals harm their crops .', None, None, None, 1), ("I 've never heard this side of the argument before !", None, None, None, 1), ("I 'm not saying", None, None, None, 0), ('I agree with it ,', None, None, None, 0), ("but we 're over here in America", None, None, None, 0), ('and have a way different perspective on the issues .', None, None, None, 1), ("It 's interesting to see how different things are over there .", None, None, None, 1)]]
+Leaf:  S span Hey !
+Leaf:  N Summary Did you hear about the elephant stuff in Africa ?
+Inner:  N Elaborate None Summary SN
+Leaf:  S span I know
+Leaf:  S span you care a lot about the environment
+Leaf:  S span so I thought
+Leaf:  N Attribution you should see this .
+Inner:  N Explanation None Attribution SN
+Inner:  N Attribution None Explanation SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate There are some countries
+Leaf:  S span that are for the poaching of elephants
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if you can believe it .
+Inner:  N Elaborate None Condition NS
+Leaf:  S span Some more rural communities say
+Leaf:  N Attribution that the animals harm their crops .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 've never heard this side of the argument before !
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I 'm not saying
+Leaf:  N Attribution I agree with it ,
+Inner:  S span None Attribution SN
+Leaf:  N Joint but we 're over here in America
+Leaf:  N Joint and have a way different perspective on the issues .
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span It 's interesting to see how different things are over there .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hey !', None, None, None, 1), ('Did you hear about the elephant stuff in Africa ?', None, None, None, 1), ('I know', None, None, None, 0), ('you care a lot about the environment', None, None, None, 0), ('so I thought', None, None, None, 0), ('you should see this .', None, None, None, 1), ('There are some countries', None, None, None, 0), ('that are for the poaching of elephants', None, None, None, 0), ('if you can believe it .', None, None, None, 1), ('Some more rural communities say', None, None, None, 0), ('that the animals harm their crops .', None, None, None, 1), ("I 've never heard this side of the argument before !", None, None, None, 1), ("I 'm not saying", None, None, None, 0), ('I agree with it ,', None, None, None, 0), ("but we 're over here in America", None, None, None, 0), ('and have a way different perspective on the issues .', None, None, None, 1), ("It 's interesting to see how different things are over there .", None, None, None, 1)]

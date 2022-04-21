@@ -1,0 +1,29 @@
+=====================> [[('Man it crazy I just read an article about a disaster', None, None, None, 0), ('that struck Colatina , Brazil .', None, None, None, 1), ('The disaster struck', None, None, None, 0), ('when a dam ruptured and polluted the most important river in Brazil', None, None, None, 0), ('where people were getting their foods', None, None, None, 0), ('and surviving from what the river had to offer . Now it it polluted with mining waste because of the rupture of the dam .', None, None, None, 1), ('I feel really bad', None, None, None, 0), ('that they are in a position', None, None, None, 0), ('where they cant even eat the fish in the river', None, None, None, 0), ('because the fish showed some kind of mutation', None, None, None, 0), ('because of the pollution .', None, None, None, 1), ('It really sucks', None, None, None, 0), ('that a company just pays a minimal amount', None, None, None, 0), ('after causing a huge disaster like this totally unfair', None, None, None, 0)]]
+Leaf:  N Elaborate Man it crazy I just read an article about a disaster
+Leaf:  S span that struck Colatina , Brazil .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background The disaster struck
+Leaf:  N Elaborate when a dam ruptured and polluted the most important river in Brazil
+Leaf:  N Joint where people were getting their foods
+Leaf:  N Joint and surviving from what the river had to offer . Now it it polluted with mining waste because of the rupture of the dam .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Background NS
+Leaf:  S span I feel really bad
+Leaf:  N Elaborate that they are in a position
+Leaf:  N Explanation where they cant even eat the fish in the river
+Leaf:  N Cause because the fish showed some kind of mutation
+Leaf:  S span because of the pollution .
+Inner:  S span None Cause NS
+Inner:  S span None Explanation NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It really sucks
+Leaf:  N Temporal that a company just pays a minimal amount
+Leaf:  S span after causing a huge disaster like this totally unfair
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Man it crazy I just read an article about a disaster', None, None, None, 0), ('that struck Colatina , Brazil .', None, None, None, 1), ('The disaster struck', None, None, None, 0), ('when a dam ruptured and polluted the most important river in Brazil', None, None, None, 0), ('where people were getting their foods', None, None, None, 0), ('and surviving from what the river had to offer . Now it it polluted with mining waste because of the rupture of the dam .', None, None, None, 1), ('I feel really bad', None, None, None, 0), ('that they are in a position', None, None, None, 0), ('where they cant even eat the fish in the river', None, None, None, 0), ('because the fish showed some kind of mutation', None, None, None, 0), ('because of the pollution .', None, None, None, 1), ('It really sucks', None, None, None, 0), ('that a company just pays a minimal amount', None, None, None, 0), ('after causing a huge disaster like this totally unfair', None, None, None, 0)]

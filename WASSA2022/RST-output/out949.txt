@@ -1,0 +1,17 @@
+=====================> [[('There is some killing in Indonesia', None, None, None, 0), ('most likely related to Muslims .', None, None, None, 1), ("Overall I 'm not surprised by this news ,", None, None, None, 0), ('the Islam religion holds many radicals', None, None, None, 0), ('and there are enough proof', None, None, None, 0), ('that the top leaders of these Islam groups support oppression .', None, None, None, 1), ('Just look at at all the hajibs in these muslim countries these are sad pathetic men', None, None, None, 0), ('that are afraid of women .', None, None, None, 1)]]
+Leaf:  N Elaborate There is some killing in Indonesia
+Leaf:  S span most likely related to Muslims .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation Overall I 'm not surprised by this news ,
+Leaf:  N Joint the Islam religion holds many radicals
+Leaf:  N Elaborate and there are enough proof
+Leaf:  S span that the top leaders of these Islam groups support oppression .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Just look at at all the hajibs in these muslim countries these are sad pathetic men
+Leaf:  S span that are afraid of women .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('There is some killing in Indonesia', None, None, None, 0), ('most likely related to Muslims .', None, None, None, 1), ("Overall I 'm not surprised by this news ,", None, None, None, 0), ('the Islam religion holds many radicals', None, None, None, 0), ('and there are enough proof', None, None, None, 0), ('that the top leaders of these Islam groups support oppression .', None, None, None, 1), ('Just look at at all the hajibs in these muslim countries these are sad pathetic men', None, None, None, 0), ('that are afraid of women .', None, None, None, 1)]

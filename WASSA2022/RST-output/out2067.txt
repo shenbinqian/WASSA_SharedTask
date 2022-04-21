@@ -1,0 +1,23 @@
+=====================> [[("Donald Trump 's anti-minority rhetoric has to stop .", None, None, None, 1), ('He has stirred up those', None, None, None, 0), ('who are Islamophobic', None, None, None, 0), ('and has put people in grave danger .', None, None, None, 1), ('That is not how a leader should act .', None, None, None, 1), ('And banning Muslims from entering the United States is very unfair .', None, None, None, 1), ('This situation makes me so mad . Many of the Muslims', None, None, None, 0), ('who wish to come to the US', None, None, None, 0), ('are doing so', None, None, None, 0), ('to keep their families safe ,', None, None, None, 0), ('but in fact , it is becoming less safe for them here .', None, None, None, 1)]]
+Leaf:  N Explanation Donald Trump 's anti-minority rhetoric has to stop .
+Leaf:  N Elaborate He has stirred up those
+Leaf:  S span who are Islamophobic
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and has put people in grave danger .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span That is not how a leader should act .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Evaluation And banning Muslims from entering the United States is very unfair .
+Leaf:  N Elaborate This situation makes me so mad . Many of the Muslims
+Leaf:  S span who wish to come to the US
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement are doing so
+Leaf:  S span to keep their families safe ,
+Inner:  N Same-Unit None Enablement NS
+Inner:  S span None Same-Unit NN
+Leaf:  N Contrast but in fact , it is becoming less safe for them here .
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("Donald Trump 's anti-minority rhetoric has to stop .", None, None, None, 1), ('He has stirred up those', None, None, None, 0), ('who are Islamophobic', None, None, None, 0), ('and has put people in grave danger .', None, None, None, 1), ('That is not how a leader should act .', None, None, None, 1), ('And banning Muslims from entering the United States is very unfair .', None, None, None, 1), ('This situation makes me so mad . Many of the Muslims', None, None, None, 0), ('who wish to come to the US', None, None, None, 0), ('are doing so', None, None, None, 0), ('to keep their families safe ,', None, None, None, 0), ('but in fact , it is becoming less safe for them here .', None, None, None, 1)]

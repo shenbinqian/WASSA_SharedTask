@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('they should both be charged with murder .', None, None, None, 1), ("It 's obvious at least one of them did it", None, None, None, 0), ("but I 'm assuming both .", None, None, None, 1), ("It 's crazy what this world has come to people", None, None, None, 0), ('just killing people all the time and usually for no reason .', None, None, None, 1), ("It 's crazy", None, None, None, 0), ('and people need to be punished harsher .', None, None, None, 1), ('If you kill someone on person for no reason', None, None, None, 0), ('you should automatically get the death sentence .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution they should both be charged with murder .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Contrast It 's obvious at least one of them did it
+Leaf:  S span but I 'm assuming both .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's crazy what this world has come to people
+Leaf:  S span just killing people all the time and usually for no reason .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's crazy
+Leaf:  N Joint and people need to be punished harsher .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span If you kill someone on person for no reason
+Leaf:  N Condition you should automatically get the death sentence .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('they should both be charged with murder .', None, None, None, 1), ("It 's obvious at least one of them did it", None, None, None, 0), ("but I 'm assuming both .", None, None, None, 1), ("It 's crazy what this world has come to people", None, None, None, 0), ('just killing people all the time and usually for no reason .', None, None, None, 1), ("It 's crazy", None, None, None, 0), ('and people need to be punished harsher .', None, None, None, 1), ('If you kill someone on person for no reason', None, None, None, 0), ('you should automatically get the death sentence .', None, None, None, 1)]

@@ -1,0 +1,41 @@
+=====================> [[("It sounds like she was n't cut out", None, None, None, 0), ('to be a cop .', None, None, None, 1), ('The way I see it , it was obvious that the guy was decompensating in some way ,', None, None, None, 0), ("but he did n't display anything", None, None, None, 0), ('that indicated', None, None, None, 0), ('he was violent', None, None, None, 0), ("- that had to all be in her head . Yes , when the cops order you to do something , it 's probably better to comply , especially if they have draw weapons", None, None, None, 0), ('including tasers .', None, None, None, 1), ('No one disputes', None, None, None, 0), ('that his hands were up ,', None, None, None, 0), ('and the other officer assessed the situation', None, None, None, 0), ('to require a taser , not a gun ,', None, None, None, 0), ('and apparently , this scenario goes against training , so the problem was in the officer , not the victim . People wonder', None, None, None, 0), ("why the police are n't trusted ,", None, None, None, 0), ("and this is it . They 're human too ,", None, None, None, 0), ('and they make mistakes ,', None, None, None, 0), ('but their mistakes kill people unjustly .', None, None, None, 1), ('I feel bad for the family of the victim', None, None, None, 0), ('and I hope', None, None, None, 0), ('they see justice done .', None, None, None, 1)]]
+Leaf:  N Enablement It sounds like she was n't cut out
+Leaf:  S span to be a cop .
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Contrast The way I see it , it was obvious that the guy was decompensating in some way ,
+Leaf:  N Elaborate but he did n't display anything
+Leaf:  S span that indicated
+Leaf:  N Attribution he was violent
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate - that had to all be in her head . Yes , when the cops order you to do something , it 's probably better to comply , especially if they have draw weapons
+Leaf:  S span including tasers .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Evaluation NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span No one disputes
+Leaf:  N Attribution that his hands were up ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Cause and the other officer assessed the situation
+Leaf:  S span to require a taser , not a gun ,
+Inner:  N Joint None Cause NS
+Inner:  N Joint None Joint NN
+Leaf:  S span and apparently , this scenario goes against training , so the problem was in the officer , not the victim . People wonder
+Leaf:  N Attribution why the police are n't trusted ,
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint and this is it . They 're human too ,
+Leaf:  N Contrast and they make mistakes ,
+Leaf:  N Contrast but their mistakes kill people unjustly .
+Inner:  N Joint None Contrast NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I feel bad for the family of the victim
+Leaf:  S span and I hope
+Leaf:  N Attribution they see justice done .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[("It sounds like she was n't cut out", None, None, None, 0), ('to be a cop .', None, None, None, 1), ('The way I see it , it was obvious that the guy was decompensating in some way ,', None, None, None, 0), ("but he did n't display anything", None, None, None, 0), ('that indicated', None, None, None, 0), ('he was violent', None, None, None, 0), ("- that had to all be in her head . Yes , when the cops order you to do something , it 's probably better to comply , especially if they have draw weapons", None, None, None, 0), ('including tasers .', None, None, None, 1), ('No one disputes', None, None, None, 0), ('that his hands were up ,', None, None, None, 0), ('and the other officer assessed the situation', None, None, None, 0), ('to require a taser , not a gun ,', None, None, None, 0), ('and apparently , this scenario goes against training , so the problem was in the officer , not the victim . People wonder', None, None, None, 0), ("why the police are n't trusted ,", None, None, None, 0), ("and this is it . They 're human too ,", None, None, None, 0), ('and they make mistakes ,', None, None, None, 0), ('but their mistakes kill people unjustly .', None, None, None, 1), ('I feel bad for the family of the victim', None, None, None, 0), ('and I hope', None, None, None, 0), ('they see justice done .', None, None, None, 1)]

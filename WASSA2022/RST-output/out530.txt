@@ -1,0 +1,19 @@
+=====================> [[('Oh my gosh this is so awful .', None, None, None, 1), ('I feel so bad for this man and his family , as well as the mother of the child .', None, None, None, 1), ('Could you imagine getting hurt ,', None, None, None, 0), ('nearly being rescued ,', None, None, None, 0), ('and then the helicopter failing too ? Talk about terrible luck .', None, None, None, 1), ('I hope', None, None, None, 0), ('they start a gofundme for this man and his family', None, None, None, 0), ('- we should all donate', None, None, None, 0), ('if they do .', None, None, None, 1)]]
+Leaf:  N Elaborate Oh my gosh this is so awful .
+Leaf:  N Explanation I feel so bad for this man and his family , as well as the mother of the child .
+Leaf:  N Joint Could you imagine getting hurt ,
+Leaf:  N Temporal nearly being rescued ,
+Leaf:  N Temporal and then the helicopter failing too ? Talk about terrible luck .
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Evaluation they start a gofundme for this man and his family
+Leaf:  S span - we should all donate
+Inner:  N Condition None Evaluation NS
+Leaf:  S span if they do .
+Inner:  N Attribution None Condition NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Oh my gosh this is so awful .', None, None, None, 1), ('I feel so bad for this man and his family , as well as the mother of the child .', None, None, None, 1), ('Could you imagine getting hurt ,', None, None, None, 0), ('nearly being rescued ,', None, None, None, 0), ('and then the helicopter failing too ? Talk about terrible luck .', None, None, None, 1), ('I hope', None, None, None, 0), ('they start a gofundme for this man and his family', None, None, None, 0), ('- we should all donate', None, None, None, 0), ('if they do .', None, None, None, 1)]

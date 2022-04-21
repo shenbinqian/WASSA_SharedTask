@@ -1,0 +1,25 @@
+=====================> [[("IT 's sad to hear about dead fish ,", None, None, None, 0), ("but that 's what happens sometimes .", None, None, None, 1), ("We can try to figure out what 's going on", None, None, None, 0), ('and make a plan', None, None, None, 0), ('to stop ,', None, None, None, 0), ('but nature is going to always come out ahead no matter what .', None, None, None, 1), ('nature always has its balance', None, None, None, 0), ("and you ca n't stop that from happening .", None, None, None, 1), ('If you do attempt ,', None, None, None, 0), ("you 're just going to cause more propblems", None, None, None, 0), ("than what it 's worth", None, None, None, 0), ('and nature will still rule in the end .', None, None, None, 1)]]
+Leaf:  N Topic-Comment IT 's sad to hear about dead fish ,
+Leaf:  N Topic-Comment but that 's what happens sometimes .
+Inner:  N Cause None Topic-Comment NN
+Leaf:  N Temporal We can try to figure out what 's going on
+Leaf:  N Elaborate and make a plan
+Leaf:  S span to stop ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but nature is going to always come out ahead no matter what .
+Inner:  N Temporal None Contrast SN
+Inner:  N Explanation None Temporal NN
+Leaf:  N Joint nature always has its balance
+Leaf:  N Joint and you ca n't stop that from happening .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span If you do attempt ,
+Leaf:  N Comparison you 're just going to cause more propblems
+Leaf:  S span than what it 's worth
+Inner:  N Evaluation None Comparison NS
+Leaf:  N Evaluation and nature will still rule in the end .
+Inner:  N Condition None Evaluation NN
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Cause NS
+[("IT 's sad to hear about dead fish ,", None, None, None, 0), ("but that 's what happens sometimes .", None, None, None, 1), ("We can try to figure out what 's going on", None, None, None, 0), ('and make a plan', None, None, None, 0), ('to stop ,', None, None, None, 0), ('but nature is going to always come out ahead no matter what .', None, None, None, 1), ('nature always has its balance', None, None, None, 0), ("and you ca n't stop that from happening .", None, None, None, 1), ('If you do attempt ,', None, None, None, 0), ("you 're just going to cause more propblems", None, None, None, 0), ("than what it 's worth", None, None, None, 0), ('and nature will still rule in the end .', None, None, None, 1)]

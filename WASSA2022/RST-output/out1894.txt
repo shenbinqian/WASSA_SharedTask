@@ -1,0 +1,21 @@
+=====================> [[('Susan Sarandon is supporting the pipeline now .', None, None, None, 1), ('When is the government going to listen ?', None, None, None, 1), ("I feel so bad for the people in the dakota 's", None, None, None, 0), ('and worry about their health .', None, None, None, 1), ("Luckily I do n't have any relatives there ,", None, None, None, 0), ('but I feel bad for people', None, None, None, 0), ('that live there', None, None, None, 0), ('or have family .', None, None, None, 1), ('Their health is at risk .', None, None, None, 1), ("What 's your opinion on it ?", None, None, None, 1)]]
+Leaf:  N Summary Susan Sarandon is supporting the pipeline now .
+Leaf:  S span When is the government going to listen ?
+Inner:  N Textual-Organization None Summary NS
+Leaf:  N Joint I feel so bad for the people in the dakota 's
+Leaf:  N Joint and worry about their health .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Contrast Luckily I do n't have any relatives there ,
+Leaf:  N Elaborate but I feel bad for people
+Leaf:  N Joint that live there
+Leaf:  N Joint or have family .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span Their health is at risk .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span What 's your opinion on it ?
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Susan Sarandon is supporting the pipeline now .', None, None, None, 1), ('When is the government going to listen ?', None, None, None, 1), ("I feel so bad for the people in the dakota 's", None, None, None, 0), ('and worry about their health .', None, None, None, 1), ("Luckily I do n't have any relatives there ,", None, None, None, 0), ('but I feel bad for people', None, None, None, 0), ('that live there', None, None, None, 0), ('or have family .', None, None, None, 1), ('Their health is at risk .', None, None, None, 1), ("What 's your opinion on it ?", None, None, None, 1)]

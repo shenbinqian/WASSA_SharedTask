@@ -1,0 +1,15 @@
+=====================> [[('You have to read this .', None, None, None, 1), ("It 's unbelievable that people could act so rash and wrong towards another human being ,", None, None, None, 0), ('no matter what happened .', None, None, None, 1), ('If I were in that situation', None, None, None, 0), (", I 'd be so angry", None, None, None, 0), ("and I would want to hurt someone back . It 's hard not to get caught up in the emotion of the situation", None, None, None, 0), ('since so many people got hurt .', None, None, None, 1)]]
+Leaf:  N Evaluation You have to read this .
+Leaf:  N Contrast It 's unbelievable that people could act so rash and wrong towards another human being ,
+Leaf:  S span no matter what happened .
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span If I were in that situation
+Leaf:  N Joint , I 'd be so angry
+Leaf:  N Joint and I would want to hurt someone back . It 's hard not to get caught up in the emotion of the situation
+Inner:  N Explanation None Joint NN
+Leaf:  S span since so many people got hurt .
+Inner:  N Condition None Explanation NS
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('You have to read this .', None, None, None, 1), ("It 's unbelievable that people could act so rash and wrong towards another human being ,", None, None, None, 0), ('no matter what happened .', None, None, None, 1), ('If I were in that situation', None, None, None, 0), (", I 'd be so angry", None, None, None, 0), ("and I would want to hurt someone back . It 's hard not to get caught up in the emotion of the situation", None, None, None, 0), ('since so many people got hurt .', None, None, None, 1)]

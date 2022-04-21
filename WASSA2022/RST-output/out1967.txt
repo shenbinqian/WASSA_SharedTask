@@ -1,0 +1,31 @@
+=====================> [[('I just read an article about a democrat', None, None, None, 0), ('running for office .', None, None, None, 1), ('It talked', None, None, None, 0), ('about " if Hillary won the election "', None, None, None, 0), ('How can people be so ignorant .', None, None, None, 1), ('If Hillary won the election', None, None, None, 0), ('America would be in a much worse situation', None, None, None, 0), ('than it is currently .', None, None, None, 1), ('It just amazes me what they focus their elections on .', None, None, None, 1), ('Ok , guns kill people ...', None, None, None, 1), ('whatever Democrats kill babies .', None, None, None, 1), ('Why has nobody been bright enough', None, None, None, 0), ('to realize that ?', None, None, None, 1), ('I think', None, None, None, 0), ('the country is slowly becoming retarded .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about a democrat
+Leaf:  S span running for office .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It talked
+Leaf:  N Attribution about " if Hillary won the election "
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span How can people be so ignorant .
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span If Hillary won the election
+Leaf:  N Comparison America would be in a much worse situation
+Leaf:  S span than it is currently .
+Inner:  N Condition None Comparison NS
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It just amazes me what they focus their elections on .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Summary Ok , guns kill people ...
+Leaf:  S span whatever Democrats kill babies .
+Inner:  N Evaluation None Summary NS
+Leaf:  S span Why has nobody been bright enough
+Leaf:  N Elaborate to realize that ?
+Inner:  S span None Elaborate SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution the country is slowly becoming retarded .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I just read an article about a democrat', None, None, None, 0), ('running for office .', None, None, None, 1), ('It talked', None, None, None, 0), ('about " if Hillary won the election "', None, None, None, 0), ('How can people be so ignorant .', None, None, None, 1), ('If Hillary won the election', None, None, None, 0), ('America would be in a much worse situation', None, None, None, 0), ('than it is currently .', None, None, None, 1), ('It just amazes me what they focus their elections on .', None, None, None, 1), ('Ok , guns kill people ...', None, None, None, 1), ('whatever Democrats kill babies .', None, None, None, 1), ('Why has nobody been bright enough', None, None, None, 0), ('to realize that ?', None, None, None, 1), ('I think', None, None, None, 0), ('the country is slowly becoming retarded .', None, None, None, 1)]

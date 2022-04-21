@@ -1,0 +1,51 @@
+=====================> [[('I said', None, None, None, 0), ('Trump would win .', None, None, None, 1), ("Polls said otherwise , I did n't care ,", None, None, None, 0), ('I knew', None, None, None, 0), ('the fucker would win .', None, None, None, 1), ('I think', None, None, None, 0), ('people are not willing to accept', None, None, None, 0), ('that others are really shitty', None, None, None, 0), ("and that someone like Trump would be voted in . They ca n't see past others . People have too much faith in others , too much trust . There are a lot of vile people out there ,", None, None, None, 0), ('just got ta encourage them a little bit', None, None, None, 0), ("and they 'll come out .", None, None, None, 1), ('Trump was their encouragement .', None, None, None, 1), ("What will the liberals do now ? I do n't know .", None, None, None, 1), ('Sometimes I think we will be okay ,', None, None, None, 0), ('sometimes I think', None, None, None, 0), ("we wo n't .", None, None, None, 1), ('I just know', None, None, None, 0), ('that going to one march is going to do shit .', None, None, None, 1), ('You need tens of marches , packed to the brim .', None, None, None, 1), ('You need them every weekend .', None, None, None, 1), ('For months .', None, None, None, 1), ('You need to call your officials , complain , elect them ,', None, None, None, 0), ('vote them out .', None, None, None, 1), ('Do more .', None, None, None, 1), ("But one march is n't going to do shit .", None, None, None, 1)]]
+Leaf:  S span I said
+Leaf:  N Attribution Trump would win .
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate Polls said otherwise , I did n't care ,
+Leaf:  S span I knew
+Leaf:  N Attribution the fucker would win .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Leaf:  S span I think
+Leaf:  S span people are not willing to accept
+Leaf:  N Joint that others are really shitty
+Leaf:  N Joint and that someone like Trump would be voted in . They ca n't see past others . People have too much faith in others , too much trust . There are a lot of vile people out there ,
+Inner:  N Attribution None Joint NN
+Inner:  N Enablement None Attribution SN
+Leaf:  S span just got ta encourage them a little bit
+Leaf:  N Condition and they 'll come out .
+Inner:  S span None Condition SN
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Trump was their encouragement .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Topic-Change None Contrast SN
+Leaf:  N Elaborate What will the liberals do now ? I do n't know .
+Leaf:  N Joint Sometimes I think we will be okay ,
+Leaf:  S span sometimes I think
+Leaf:  N Attribution we wo n't .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  S span I just know
+Leaf:  N Attribution that going to one march is going to do shit .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate You need tens of marches , packed to the brim .
+Leaf:  N Joint You need them every weekend .
+Leaf:  N Joint For months .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint You need to call your officials , complain , elect them ,
+Leaf:  N Joint vote them out .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Do more .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Leaf:  N Contrast But one march is n't going to do shit .
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Topic-Change NS
+[('I said', None, None, None, 0), ('Trump would win .', None, None, None, 1), ("Polls said otherwise , I did n't care ,", None, None, None, 0), ('I knew', None, None, None, 0), ('the fucker would win .', None, None, None, 1), ('I think', None, None, None, 0), ('people are not willing to accept', None, None, None, 0), ('that others are really shitty', None, None, None, 0), ("and that someone like Trump would be voted in . They ca n't see past others . People have too much faith in others , too much trust . There are a lot of vile people out there ,", None, None, None, 0), ('just got ta encourage them a little bit', None, None, None, 0), ("and they 'll come out .", None, None, None, 1), ('Trump was their encouragement .', None, None, None, 1), ("What will the liberals do now ? I do n't know .", None, None, None, 1), ('Sometimes I think we will be okay ,', None, None, None, 0), ('sometimes I think', None, None, None, 0), ("we wo n't .", None, None, None, 1), ('I just know', None, None, None, 0), ('that going to one march is going to do shit .', None, None, None, 1), ('You need tens of marches , packed to the brim .', None, None, None, 1), ('You need them every weekend .', None, None, None, 1), ('For months .', None, None, None, 1), ('You need to call your officials , complain , elect them ,', None, None, None, 0), ('vote them out .', None, None, None, 1), ('Do more .', None, None, None, 1), ("But one march is n't going to do shit .", None, None, None, 1)]

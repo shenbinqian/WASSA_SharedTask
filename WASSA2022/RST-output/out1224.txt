@@ -1,0 +1,23 @@
+=====================> [[('GBR The great barrier reef .', None, None, None, 1), ('I read an article', None, None, None, 0), ('that stated', None, None, None, 0), ('that it was on life support .', None, None, None, 1), ('That the beaching incident of two thousand sixteen amongst others things have left it close to death .', None, None, None, 1), ('The GBR covers 1400miles', None, None, None, 0), ('and has 70000 jobs', None, None, None, 0), ('hanging in the balance .', None, None, None, 1), ('Its crazy', None, None, None, 0), ('because this thing is 25 million yers old .', None, None, None, 1), ('We have to do something .', None, None, None, 1)]]
+Leaf:  N Elaborate GBR The great barrier reef .
+Leaf:  N Elaborate I read an article
+Leaf:  S span that stated
+Leaf:  N Attribution that it was on life support .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint That the beaching incident of two thousand sixteen amongst others things have left it close to death .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The GBR covers 1400miles
+Leaf:  N Elaborate and has 70000 jobs
+Leaf:  S span hanging in the balance .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation Its crazy
+Leaf:  S span because this thing is 25 million yers old .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span We have to do something .
+Inner:  Root None None Evaluation NS
+[('GBR The great barrier reef .', None, None, None, 1), ('I read an article', None, None, None, 0), ('that stated', None, None, None, 0), ('that it was on life support .', None, None, None, 1), ('That the beaching incident of two thousand sixteen amongst others things have left it close to death .', None, None, None, 1), ('The GBR covers 1400miles', None, None, None, 0), ('and has 70000 jobs', None, None, None, 0), ('hanging in the balance .', None, None, None, 1), ('Its crazy', None, None, None, 0), ('because this thing is 25 million yers old .', None, None, None, 1), ('We have to do something .', None, None, None, 1)]

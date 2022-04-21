@@ -1,0 +1,23 @@
+=====================> [[('Hey buddy .', None, None, None, 1), ('Did you hear about this weird disease', None, None, None, 0), ('that is spreading amongst the frog population ?', None, None, None, 1), ("Apparently it 's a disease", None, None, None, 0), ('that happens due to people', None, None, None, 0), ('having ponds in their house .', None, None, None, 1), ('I worry', None, None, None, 0), ('what this disease could do to the local population of frogs .', None, None, None, 1), ('Tell anyone', None, None, None, 0), ('who has a pond', None, None, None, 0), ('to becareful with what they are moving in and out of their ponds .', None, None, None, 1)]]
+Leaf:  S span Hey buddy .
+Leaf:  N Elaborate Did you hear about this weird disease
+Leaf:  S span that is spreading amongst the frog population ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Apparently it 's a disease
+Leaf:  N Elaborate that happens due to people
+Leaf:  S span having ponds in their house .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I worry
+Leaf:  N Attribution what this disease could do to the local population of frogs .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Elaborate NS
+Inner:  N Topic-Comment None Summary SN
+Leaf:  N Elaborate Tell anyone
+Leaf:  S span who has a pond
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to becareful with what they are moving in and out of their ponds .
+Inner:  N Topic-Comment None Enablement NS
+Inner:  Root None None Topic-Comment NN
+[('Hey buddy .', None, None, None, 1), ('Did you hear about this weird disease', None, None, None, 0), ('that is spreading amongst the frog population ?', None, None, None, 1), ("Apparently it 's a disease", None, None, None, 0), ('that happens due to people', None, None, None, 0), ('having ponds in their house .', None, None, None, 1), ('I worry', None, None, None, 0), ('what this disease could do to the local population of frogs .', None, None, None, 1), ('Tell anyone', None, None, None, 0), ('who has a pond', None, None, None, 0), ('to becareful with what they are moving in and out of their ponds .', None, None, None, 1)]

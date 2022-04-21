@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about elephants', None, None, None, 0), ('and how they are becoming extinct', None, None, None, 0), ('due to people', None, None, None, 0), ('being more concerned towards their need fr ivory', None, None, None, 0), ('than they are for the precious lives of elephants .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why people have such little regards for the well being of the elephant species ,', None, None, None, 0), ('knowing', None, None, None, 0), ('that they are on the verge of extinction', None, None, None, 0), ('and it upsets me severerly', None, None, None, 0), ('knowing', None, None, None, 0), ('that we are taking them for granted .', None, None, None, 1)]]
+Leaf:  N Same-Unit I just read an article about elephants
+Leaf:  N Cause and how they are becoming extinct
+Leaf:  N Elaborate due to people
+Leaf:  N Comparison being more concerned towards their need fr ivory
+Leaf:  N Comparison than they are for the precious lives of elephants .
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Cause NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't understand
+Leaf:  N Background why people have such little regards for the well being of the elephant species ,
+Leaf:  S span knowing
+Leaf:  N Attribution that they are on the verge of extinction
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background and it upsets me severerly
+Leaf:  S span knowing
+Leaf:  N Attribution that we are taking them for granted .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about elephants', None, None, None, 0), ('and how they are becoming extinct', None, None, None, 0), ('due to people', None, None, None, 0), ('being more concerned towards their need fr ivory', None, None, None, 0), ('than they are for the precious lives of elephants .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('why people have such little regards for the well being of the elephant species ,', None, None, None, 0), ('knowing', None, None, None, 0), ('that they are on the verge of extinction', None, None, None, 0), ('and it upsets me severerly', None, None, None, 0), ('knowing', None, None, None, 0), ('that we are taking them for granted .', None, None, None, 1)]

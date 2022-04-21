@@ -1,0 +1,25 @@
+=====================> [[('Kesha the singer opened up', None, None, None, 0), ('about how she was treated in the music industry ...', None, None, None, 1), ("it 's so crazy how time after time these pop stars , rappers an singers come out with these stories", None, None, None, 0), ('about how they got cheated ,', None, None, None, 0), ('or that they find out', None, None, None, 0), ('that their manager had been stealing from them for years ,', None, None, None, 0), ('or giving them advice', None, None, None, 0), ("that does n't actually serve the artist .", None, None, None, 1), ('The problem is that a lot of these artists go into the music industry naive and desperate', None, None, None, 0), ('and just take whatever hey can get ...', None, None, None, 1), ('whatever del , just to get their foot in the door', None, None, None, 0), ('but just end up getting screwed ,', None, None, None, 0)]]
+Leaf:  S span Kesha the singer opened up
+Leaf:  N Attribution about how she was treated in the music industry ...
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate it 's so crazy how time after time these pop stars , rappers an singers come out with these stories
+Leaf:  N Joint about how they got cheated ,
+Leaf:  S span or that they find out
+Leaf:  N Attribution that their manager had been stealing from them for years ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate or giving them advice
+Leaf:  S span that does n't actually serve the artist .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint The problem is that a lot of these artists go into the music industry naive and desperate
+Leaf:  N Summary and just take whatever hey can get ...
+Leaf:  S span whatever del , just to get their foot in the door
+Leaf:  N Contrast but just end up getting screwed ,
+Inner:  S span None Contrast SN
+Inner:  N Joint None Summary NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Kesha the singer opened up', None, None, None, 0), ('about how she was treated in the music industry ...', None, None, None, 1), ("it 's so crazy how time after time these pop stars , rappers an singers come out with these stories", None, None, None, 0), ('about how they got cheated ,', None, None, None, 0), ('or that they find out', None, None, None, 0), ('that their manager had been stealing from them for years ,', None, None, None, 0), ('or giving them advice', None, None, None, 0), ("that does n't actually serve the artist .", None, None, None, 1), ('The problem is that a lot of these artists go into the music industry naive and desperate', None, None, None, 0), ('and just take whatever hey can get ...', None, None, None, 1), ('whatever del , just to get their foot in the door', None, None, None, 0), ('but just end up getting screwed ,', None, None, None, 0)]

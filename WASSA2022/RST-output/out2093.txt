@@ -1,0 +1,17 @@
+=====================> [[('I think', None, None, None, 0), ('we should teach everybody how important life .', None, None, None, 1), ('For all we know , everybody only gets one chance at life for all of time .', None, None, None, 1), ('I feel bad for the 50 people and their families', None, None, None, 0), ('who lost their lives that night .', None, None, None, 1), ("I 'm confused about the FBI .", None, None, None, 1), ('I do not want to have too much power ,', None, None, None, 0), ('but I would like them to be able to keep things like this from happening .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution we should teach everybody how important life .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span For all we know , everybody only gets one chance at life for all of time .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I feel bad for the 50 people and their families
+Leaf:  S span who lost their lives that night .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I 'm confused about the FBI .
+Leaf:  N Contrast I do not want to have too much power ,
+Leaf:  N Contrast but I would like them to be able to keep things like this from happening .
+Inner:  S span None Contrast NN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('we should teach everybody how important life .', None, None, None, 1), ('For all we know , everybody only gets one chance at life for all of time .', None, None, None, 1), ('I feel bad for the 50 people and their families', None, None, None, 0), ('who lost their lives that night .', None, None, None, 1), ("I 'm confused about the FBI .", None, None, None, 1), ('I do not want to have too much power ,', None, None, None, 0), ('but I would like them to be able to keep things like this from happening .', None, None, None, 1)]

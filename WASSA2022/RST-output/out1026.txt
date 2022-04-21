@@ -1,0 +1,37 @@
+=====================> [[('I just read another article', None, None, None, 0), ('about clashes over in the middle east', None, None, None, 0), ('and I am sending it over to you .', None, None, None, 1), ('This kind of thing has been going on forever , , ,', None, None, None, 0), ('my whole life and I have to admit', None, None, None, 0), ('that I am becoming immune to these types of stories', None, None, None, 0), ('and lost all empathy for these people .', None, None, None, 1), ('Normally you would read a story such as this', None, None, None, 0), ('and be heartbroken for the women and children', None, None, None, 0), ('who lost their lives', None, None, None, 0), ('but there is a story ( or 2 or 3 or 10 ) like this every day and for decades and no end in sight . So just pile up the bodies of the woman', None, None, None, 0), ('and stack up the children murdered .', None, None, None, 1), ('Herd the maimed into a corner', None, None, None, 0), ('and block it all all of your concious . Too much insanity and too much gore', None, None, None, 0), ('to think about', None, None, None, 0), ('so the healthy thing for you do is just ignore these stories', None, None, None, 0), ('since there will a new one or two or ten tommorrow', None, None, None, 0), ('and forever', None, None, None, 0)]]
+Leaf:  N Elaborate I just read another article
+Leaf:  S span about clashes over in the middle east
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation and I am sending it over to you .
+Inner:  N Elaborate None Evaluation NN
+Leaf:  N Joint This kind of thing has been going on forever , , ,
+Leaf:  N Joint my whole life and I have to admit
+Inner:  S span None Joint NN
+Leaf:  N Joint that I am becoming immune to these types of stories
+Leaf:  N Joint and lost all empathy for these people .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Temporal Normally you would read a story such as this
+Leaf:  N Elaborate and be heartbroken for the women and children
+Leaf:  S span who lost their lives
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Leaf:  N Joint but there is a story ( or 2 or 3 or 10 ) like this every day and for decades and no end in sight . So just pile up the bodies of the woman
+Leaf:  N Joint and stack up the children murdered .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Herd the maimed into a corner
+Leaf:  N Joint and block it all all of your concious . Too much insanity and too much gore
+Inner:  N Elaborate None Joint NN
+Leaf:  S span to think about
+Inner:  S span None Elaborate NS
+Leaf:  N Background so the healthy thing for you do is just ignore these stories
+Inner:  N Explanation None Background SN
+Leaf:  N Joint since there will a new one or two or ten tommorrow
+Leaf:  N Joint and forever
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read another article', None, None, None, 0), ('about clashes over in the middle east', None, None, None, 0), ('and I am sending it over to you .', None, None, None, 1), ('This kind of thing has been going on forever , , ,', None, None, None, 0), ('my whole life and I have to admit', None, None, None, 0), ('that I am becoming immune to these types of stories', None, None, None, 0), ('and lost all empathy for these people .', None, None, None, 1), ('Normally you would read a story such as this', None, None, None, 0), ('and be heartbroken for the women and children', None, None, None, 0), ('who lost their lives', None, None, None, 0), ('but there is a story ( or 2 or 3 or 10 ) like this every day and for decades and no end in sight . So just pile up the bodies of the woman', None, None, None, 0), ('and stack up the children murdered .', None, None, None, 1), ('Herd the maimed into a corner', None, None, None, 0), ('and block it all all of your concious . Too much insanity and too much gore', None, None, None, 0), ('to think about', None, None, None, 0), ('so the healthy thing for you do is just ignore these stories', None, None, None, 0), ('since there will a new one or two or ten tommorrow', None, None, None, 0), ('and forever', None, None, None, 0)]

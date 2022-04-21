@@ -1,0 +1,35 @@
+=====================> [[('Human traffickers must be some of the most loathsome people on this planet .', None, None, None, 1), ('Some may think', None, None, None, 0), ('they are doing good things', None, None, None, 0), ('trying to get people to a better place ,', None, None, None, 0), ('but these traffickers do not see people', None, None, None, 0), ('and are wanting to help them .', None, None, None, 1), ('They see them as money , they take advantage of them', None, None, None, 0), ('and take every single thing', None, None, None, 0), ('they can from them', None, None, None, 0), ('while promising them a better life .', None, None, None, 1), ('They do not care about the safety of people', None, None, None, 0), ('and are just trying to maximize their profits .', None, None, None, 1), ('The only reason', None, None, None, 0), ("they would n't just get rid of the migrants", None, None, None, 0), ('out at sea', None, None, None, 0), ('after taking all their belongings', None, None, None, 0), ('is it may be bad for business .', None, None, None, 1)]]
+Leaf:  N Elaborate Human traffickers must be some of the most loathsome people on this planet .
+Leaf:  S span Some may think
+Leaf:  N Elaborate they are doing good things
+Leaf:  S span trying to get people to a better place ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Joint but these traffickers do not see people
+Leaf:  N Joint and are wanting to help them .
+Inner:  N Contrast None Joint NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint They see them as money , they take advantage of them
+Leaf:  N Elaborate and take every single thing
+Leaf:  S span they can from them
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span while promising them a better life .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint They do not care about the safety of people
+Leaf:  N Joint and are just trying to maximize their profits .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Topic-Comment The only reason
+Leaf:  N Elaborate they would n't just get rid of the migrants
+Leaf:  S span out at sea
+Inner:  N Background None Elaborate NS
+Leaf:  S span after taking all their belongings
+Inner:  N Evaluation None Background NS
+Leaf:  S span is it may be bad for business .
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Human traffickers must be some of the most loathsome people on this planet .', None, None, None, 1), ('Some may think', None, None, None, 0), ('they are doing good things', None, None, None, 0), ('trying to get people to a better place ,', None, None, None, 0), ('but these traffickers do not see people', None, None, None, 0), ('and are wanting to help them .', None, None, None, 1), ('They see them as money , they take advantage of them', None, None, None, 0), ('and take every single thing', None, None, None, 0), ('they can from them', None, None, None, 0), ('while promising them a better life .', None, None, None, 1), ('They do not care about the safety of people', None, None, None, 0), ('and are just trying to maximize their profits .', None, None, None, 1), ('The only reason', None, None, None, 0), ("they would n't just get rid of the migrants", None, None, None, 0), ('out at sea', None, None, None, 0), ('after taking all their belongings', None, None, None, 0), ('is it may be bad for business .', None, None, None, 1)]

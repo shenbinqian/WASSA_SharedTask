@@ -1,0 +1,25 @@
+=====================> [[('Looks like India and Pakistani relations are going straight to hell .', None, None, None, 1), ('It is unclear if it was really sanctioned by their government ,', None, None, None, 0), ('but Pakistan shelled across the border', None, None, None, 0), ('and killed 13 Indian civilians .', None, None, None, 1), ('Pakistan is saying', None, None, None, 0), ('India shelled them back', None, None, None, 0), ('and killed 6 of theirs . They are having some sort of dispute over their border', None, None, None, 0), ('and neither side really wishes to backdown . India claims they were destroying a terrorist encampment on the Pakistan side of the border ,', None, None, None, 0), ('and Pakistan claims', None, None, None, 0), ('they bombed one of their military bases .', None, None, None, 1), ('The whole thing is a big mess', None, None, None, 0), ("and ca n't help the stability of the region .", None, None, None, 1)]]
+Leaf:  N Summary Looks like India and Pakistani relations are going straight to hell .
+Leaf:  S span It is unclear if it was really sanctioned by their government ,
+Leaf:  N Temporal but Pakistan shelled across the border
+Leaf:  N Temporal and killed 13 Indian civilians .
+Inner:  N Temporal None Temporal NN
+Leaf:  S span Pakistan is saying
+Leaf:  N Temporal India shelled them back
+Leaf:  N Temporal and killed 6 of theirs . They are having some sort of dispute over their border
+Inner:  N Topic-Comment None Temporal NN
+Leaf:  N Topic-Comment and neither side really wishes to backdown . India claims they were destroying a terrorist encampment on the Pakistan side of the border ,
+Inner:  N Attribution None Topic-Comment NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span and Pakistan claims
+Leaf:  N Attribution they bombed one of their military bases .
+Inner:  N Joint None Attribution SN
+Inner:  N Temporal None Joint NN
+Inner:  N Contrast None Temporal NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint The whole thing is a big mess
+Leaf:  N Joint and ca n't help the stability of the region .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Looks like India and Pakistani relations are going straight to hell .', None, None, None, 1), ('It is unclear if it was really sanctioned by their government ,', None, None, None, 0), ('but Pakistan shelled across the border', None, None, None, 0), ('and killed 13 Indian civilians .', None, None, None, 1), ('Pakistan is saying', None, None, None, 0), ('India shelled them back', None, None, None, 0), ('and killed 6 of theirs . They are having some sort of dispute over their border', None, None, None, 0), ('and neither side really wishes to backdown . India claims they were destroying a terrorist encampment on the Pakistan side of the border ,', None, None, None, 0), ('and Pakistan claims', None, None, None, 0), ('they bombed one of their military bases .', None, None, None, 1), ('The whole thing is a big mess', None, None, None, 0), ("and ca n't help the stability of the region .", None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('What an unfortunate situation', None, None, None, 0), ("-- and a total shame that regulations on these conditions are n't more thorough .", None, None, None, 1), ('Of course the reputation of the kennel should be considered suspect now .', None, None, None, 1), ('The article says', None, None, None, 0), ('that the business will remain open ,', None, None, None, 0), ('but I think', None, None, None, 0), ("it would be best to close up shop . After a news piece like this , I do n't think", None, None, None, 0), ('many owners will be bringing their pets to stay .', None, None, None, 1)]]
+Leaf:  N Joint What an unfortunate situation
+Leaf:  N Joint -- and a total shame that regulations on these conditions are n't more thorough .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Of course the reputation of the kennel should be considered suspect now .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The article says
+Leaf:  N Attribution that the business will remain open ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I think
+Leaf:  S span it would be best to close up shop . After a news piece like this , I do n't think
+Leaf:  N Attribution many owners will be bringing their pets to stay .
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('What an unfortunate situation', None, None, None, 0), ("-- and a total shame that regulations on these conditions are n't more thorough .", None, None, None, 1), ('Of course the reputation of the kennel should be considered suspect now .', None, None, None, 1), ('The article says', None, None, None, 0), ('that the business will remain open ,', None, None, None, 0), ('but I think', None, None, None, 0), ("it would be best to close up shop . After a news piece like this , I do n't think", None, None, None, 0), ('many owners will be bringing their pets to stay .', None, None, None, 1)]

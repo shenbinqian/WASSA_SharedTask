@@ -1,0 +1,17 @@
+=====================> [[('I just read this article about the NODAPL protest movement', None, None, None, 0), ('that had a ridiculous headline .', None, None, None, 1), ('It is like they want people to have a negative opinion about this issue ,', None, None, None, 0), ('so they subtly frame it in a certain way . " Empty your bank account "', None, None, None, 0), ('to make a donation in support', None, None, None, 0), ('is a very negative way of putting things , almost like psychological priming .', None, None, None, 1), ('Anyway , I wonder', None, None, None, 0), ('how the pipeline protest movement is going to continue under Trump .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about the NODAPL protest movement
+Leaf:  S span that had a ridiculous headline .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause It is like they want people to have a negative opinion about this issue ,
+Leaf:  N Enablement so they subtly frame it in a certain way . " Empty your bank account "
+Leaf:  S span to make a donation in support
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit is a very negative way of putting things , almost like psychological priming .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Anyway , I wonder
+Leaf:  N Attribution how the pipeline protest movement is going to continue under Trump .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I just read this article about the NODAPL protest movement', None, None, None, 0), ('that had a ridiculous headline .', None, None, None, 1), ('It is like they want people to have a negative opinion about this issue ,', None, None, None, 0), ('so they subtly frame it in a certain way . " Empty your bank account "', None, None, None, 0), ('to make a donation in support', None, None, None, 0), ('is a very negative way of putting things , almost like psychological priming .', None, None, None, 1), ('Anyway , I wonder', None, None, None, 0), ('how the pipeline protest movement is going to continue under Trump .', None, None, None, 1)]

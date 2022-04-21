@@ -1,0 +1,31 @@
+=====================> [[("I 'm still on the fence", None, None, None, 0), ('regarding climate change .', None, None, None, 1), ('I understand', None, None, None, 0), ('that Obama supports', None, None, None, 0), ('that something needs to change ,', None, None, None, 0), ('but there is other evidence out there', None, None, None, 0), ('that shows', None, None, None, 0), ('that this is naturally occurring', None, None, None, 0), ('and something', None, None, None, 0), ('that will right itself in time .', None, None, None, 1), ('I do agree', None, None, None, 0), ('that we need to cut back on our excessive use of electricity .', None, None, None, 1), ('A little knowledge and everyday self-awareness would likely help us go in the right direction .', None, None, None, 1), ("I just do n't think", None, None, None, 0), ("it 's a big cause of concern right now personally .", None, None, None, 1)]]
+Leaf:  N Elaborate I 'm still on the fence
+Leaf:  S span regarding climate change .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I understand
+Leaf:  S span that Obama supports
+Leaf:  N Attribution that something needs to change ,
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but there is other evidence out there
+Leaf:  S span that shows
+Leaf:  N Joint that this is naturally occurring
+Leaf:  N Elaborate and something
+Leaf:  S span that will right itself in time .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I do agree
+Leaf:  N Attribution that we need to cut back on our excessive use of electricity .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast A little knowledge and everyday self-awareness would likely help us go in the right direction .
+Leaf:  S span I just do n't think
+Leaf:  N Attribution it 's a big cause of concern right now personally .
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Evaluation NS
+[("I 'm still on the fence", None, None, None, 0), ('regarding climate change .', None, None, None, 1), ('I understand', None, None, None, 0), ('that Obama supports', None, None, None, 0), ('that something needs to change ,', None, None, None, 0), ('but there is other evidence out there', None, None, None, 0), ('that shows', None, None, None, 0), ('that this is naturally occurring', None, None, None, 0), ('and something', None, None, None, 0), ('that will right itself in time .', None, None, None, 1), ('I do agree', None, None, None, 0), ('that we need to cut back on our excessive use of electricity .', None, None, None, 1), ('A little knowledge and everyday self-awareness would likely help us go in the right direction .', None, None, None, 1), ("I just do n't think", None, None, None, 0), ("it 's a big cause of concern right now personally .", None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('Hi mike , I hope', None, None, None, 0), ('you are .', None, None, None, 1), ("It 's been hard to have these days over there", None, None, None, 0), ('when you need me here , my friend . I hope that you are taking care of all the dangers', None, None, None, 0), ('that you are going through ,', None, None, None, 0), ('that you do it for us , for your people , your country', None, None, None, 0), ('but leaving aside all', None, None, None, 0), ('that', None, None, None, 0), ('you must', None, None, None, 0), ('teach in you and your family', None, None, None, 0), ('that are waiting for you here', None, None, None, 0), ('I hope', None, None, None, 0), ('you are well', None, None, None, 0), ('and can see', None, None, None, 0), ('you soon', None, None, None, 0), ('mike', None, None, None, 0)]]
+Leaf:  S span Hi mike , I hope
+Leaf:  N Attribution you are .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Background It 's been hard to have these days over there
+Leaf:  N Elaborate when you need me here , my friend . I hope that you are taking care of all the dangers
+Leaf:  S span that you are going through ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint that you do it for us , for your people , your country
+Inner:  S span None Joint NN
+Inner:  N Contrast None Background NS
+Leaf:  N Elaborate but leaving aside all
+Leaf:  N Attribution that
+Leaf:  S span you must
+Inner:  S span None Attribution NS
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Contrast NS
+Leaf:  N Elaborate teach in you and your family
+Leaf:  S span that are waiting for you here
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I hope
+Leaf:  N Joint you are well
+Leaf:  S span and can see
+Leaf:  N Attribution you soon
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span mike
+Inner:  S span None Attribution NS
+Inner:  Root None None Explanation NS
+[('Hi mike , I hope', None, None, None, 0), ('you are .', None, None, None, 1), ("It 's been hard to have these days over there", None, None, None, 0), ('when you need me here , my friend . I hope that you are taking care of all the dangers', None, None, None, 0), ('that you are going through ,', None, None, None, 0), ('that you do it for us , for your people , your country', None, None, None, 0), ('but leaving aside all', None, None, None, 0), ('that', None, None, None, 0), ('you must', None, None, None, 0), ('teach in you and your family', None, None, None, 0), ('that are waiting for you here', None, None, None, 0), ('I hope', None, None, None, 0), ('you are well', None, None, None, 0), ('and can see', None, None, None, 0), ('you soon', None, None, None, 0), ('mike', None, None, None, 0)]

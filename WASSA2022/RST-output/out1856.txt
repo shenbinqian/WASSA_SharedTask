@@ -1,0 +1,21 @@
+=====================> [[('These days , women are winning in sports .', None, None, None, 1), ('There has been so many instances', None, None, None, 0), ('of men prevailing in their sport', None, None, None, 0), ('that it is now time that women do the same .', None, None, None, 1), ("Sports have been men 's things for so long", None, None, None, 0), ('and I am happy to see', None, None, None, 0), ('that there are women joining the ranks of these top athletes .', None, None, None, 1), ('I am so proud of my species', None, None, None, 0), ('and how we have come so far in equality .', None, None, None, 1), ('I love that there are more even playing grounds now .', None, None, None, 1)]]
+Leaf:  N Elaborate These days , women are winning in sports .
+Leaf:  N Elaborate There has been so many instances
+Leaf:  S span of men prevailing in their sport
+Inner:  S span None Elaborate NS
+Leaf:  N Background that it is now time that women do the same .
+Inner:  S span None Background SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Sports have been men 's things for so long
+Leaf:  S span and I am happy to see
+Leaf:  N Attribution that there are women joining the ranks of these top athletes .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint I am so proud of my species
+Leaf:  N Joint and how we have come so far in equality .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint I love that there are more even playing grounds now .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('These days , women are winning in sports .', None, None, None, 1), ('There has been so many instances', None, None, None, 0), ('of men prevailing in their sport', None, None, None, 0), ('that it is now time that women do the same .', None, None, None, 1), ("Sports have been men 's things for so long", None, None, None, 0), ('and I am happy to see', None, None, None, 0), ('that there are women joining the ranks of these top athletes .', None, None, None, 1), ('I am so proud of my species', None, None, None, 0), ('and how we have come so far in equality .', None, None, None, 1), ('I love that there are more even playing grounds now .', None, None, None, 1)]

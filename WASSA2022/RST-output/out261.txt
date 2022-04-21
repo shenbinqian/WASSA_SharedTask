@@ -1,0 +1,19 @@
+=====================> [[('Dear friend , I have just read a horrific story', None, None, None, 0), ('coming out of Hong Kong .', None, None, None, 1), ('This man , a wealthy Hong Kong banker , murdered two young women in his apartment in a gruesome and sadistic fashion .', None, None, None, 1), ("He tortured them repeatedly inside of his luxurious downtown apartment near Hong Kong 's red light district .", None, None, None, 1), ('He planned to torture them with tools and sex toys', None, None, None, 0), ('but had to cut it short', None, None, None, 0), ('when one of the women started screaming loudly in his apartment .', None, None, None, 1), ('He slit her throat', None, None, None, 0), ('and stuffed her body into a suitcase .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just read a horrific story
+Leaf:  S span coming out of Hong Kong .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This man , a wealthy Hong Kong banker , murdered two young women in his apartment in a gruesome and sadistic fashion .
+Leaf:  S span He tortured them repeatedly inside of his luxurious downtown apartment near Hong Kong 's red light district .
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Contrast He planned to torture them with tools and sex toys
+Leaf:  N Background but had to cut it short
+Leaf:  S span when one of the women started screaming loudly in his apartment .
+Inner:  S span None Background NS
+Inner:  N Cause None Contrast NS
+Leaf:  N Joint He slit her throat
+Leaf:  N Joint and stuffed her body into a suitcase .
+Inner:  S span None Joint NN
+Inner:  N Temporal None Cause NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just read a horrific story', None, None, None, 0), ('coming out of Hong Kong .', None, None, None, 1), ('This man , a wealthy Hong Kong banker , murdered two young women in his apartment in a gruesome and sadistic fashion .', None, None, None, 1), ("He tortured them repeatedly inside of his luxurious downtown apartment near Hong Kong 's red light district .", None, None, None, 1), ('He planned to torture them with tools and sex toys', None, None, None, 0), ('but had to cut it short', None, None, None, 0), ('when one of the women started screaming loudly in his apartment .', None, None, None, 1), ('He slit her throat', None, None, None, 0), ('and stuffed her body into a suitcase .', None, None, None, 1)]

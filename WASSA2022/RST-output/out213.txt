@@ -1,0 +1,25 @@
+=====================> [[('Sleep is very important ,', None, None, None, 0), ('and I ’m quite sure you know that already . However , some aspects of life – like habits , even smartphones , and stress in work – affect our sleep cycles .', None, None, None, 1), ('A CDC-backed study', None, None, None, 0), ('published in February of this year', None, None, None, 0), ('has found', None, None, None, 0), ('that about a third of Americans are n’t getting enough sleep.Multiple factors affect the country ’s snooze patterns ,', None, None, None, 0), ('and one of which is routine .', None, None, None, 1), ('Many people , researchers at the CDC say , are not prioritizing sleep.So how can you force yourself to go early in bed ? Well , this new research', None, None, None, 0), ('that we ’ll discuss', None, None, None, 0), ('might convince you to review your priorities', None, None, None, 0), ('and put sleep above many ,', None, None, None, 0), ('because you still can .', None, None, None, 1)]]
+Leaf:  N Elaborate Sleep is very important ,
+Leaf:  S span and I ’m quite sure you know that already . However , some aspects of life – like habits , even smartphones , and stress in work – affect our sleep cycles .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate A CDC-backed study
+Leaf:  S span published in February of this year
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has found
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution that about a third of Americans are n’t getting enough sleep.Multiple factors affect the country ’s snooze patterns ,
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and one of which is routine .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Many people , researchers at the CDC say , are not prioritizing sleep.So how can you force yourself to go early in bed ? Well , this new research
+Leaf:  S span that we ’ll discuss
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint might convince you to review your priorities
+Leaf:  N Joint and put sleep above many ,
+Inner:  N Explanation None Joint NN
+Leaf:  S span because you still can .
+Inner:  N Same-Unit None Explanation NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Elaborate NS
+[('Sleep is very important ,', None, None, None, 0), ('and I ’m quite sure you know that already . However , some aspects of life – like habits , even smartphones , and stress in work – affect our sleep cycles .', None, None, None, 1), ('A CDC-backed study', None, None, None, 0), ('published in February of this year', None, None, None, 0), ('has found', None, None, None, 0), ('that about a third of Americans are n’t getting enough sleep.Multiple factors affect the country ’s snooze patterns ,', None, None, None, 0), ('and one of which is routine .', None, None, None, 1), ('Many people , researchers at the CDC say , are not prioritizing sleep.So how can you force yourself to go early in bed ? Well , this new research', None, None, None, 0), ('that we ’ll discuss', None, None, None, 0), ('might convince you to review your priorities', None, None, None, 0), ('and put sleep above many ,', None, None, None, 0), ('because you still can .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('This article held some very valid views', None, None, None, 0), ('that I have been trying to explain for years .', None, None, None, 1), ('The hypocrisy', None, None, None, 0), ('that America generates', None, None, None, 0), ('is overwhelming', None, None, None, 0), ('and others can see this too .', None, None, None, 1), ('We are holding ourselves so high up as a free country', None, None, None, 0), ('meanwhile a black man can not even get pulled over', None, None, None, 0), ('without having a white man', None, None, None, 0), ('pulling a gun', None, None, None, 0), ('on him .', None, None, None, 1)]]
+Leaf:  N Elaborate This article held some very valid views
+Leaf:  S span that I have been trying to explain for years .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The hypocrisy
+Leaf:  S span that America generates
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint is overwhelming
+Leaf:  N Joint and others can see this too .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span We are holding ourselves so high up as a free country
+Leaf:  N Condition meanwhile a black man can not even get pulled over
+Leaf:  N Elaborate without having a white man
+Leaf:  N Same-Unit pulling a gun
+Leaf:  N Same-Unit on him .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Condition NS
+Inner:  S span None Background SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('This article held some very valid views', None, None, None, 0), ('that I have been trying to explain for years .', None, None, None, 1), ('The hypocrisy', None, None, None, 0), ('that America generates', None, None, None, 0), ('is overwhelming', None, None, None, 0), ('and others can see this too .', None, None, None, 1), ('We are holding ourselves so high up as a free country', None, None, None, 0), ('meanwhile a black man can not even get pulled over', None, None, None, 0), ('without having a white man', None, None, None, 0), ('pulling a gun', None, None, None, 0), ('on him .', None, None, None, 1)]

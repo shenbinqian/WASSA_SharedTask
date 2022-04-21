@@ -1,0 +1,17 @@
+=====================> [[('It is very upsetting to hear about a family', None, None, None, 0), ('losing their children in such a freak accident way .', None, None, None, 1), ('As a parent myself I can only imagine the horrible feelings', None, None, None, 0), ('that this family is going through', None, None, None, 0), ('and how everyone must be feeling right now', None, None, None, 0), ('to lose these little girls as such a young age .', None, None, None, 1), ('No one should have to bury their own children ,', None, None, None, 0), ('it is just terrible .', None, None, None, 1)]]
+Leaf:  N Elaborate It is very upsetting to hear about a family
+Leaf:  S span losing their children in such a freak accident way .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate As a parent myself I can only imagine the horrible feelings
+Leaf:  S span that this family is going through
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and how everyone must be feeling right now
+Leaf:  S span to lose these little girls as such a young age .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Evaluation No one should have to bury their own children ,
+Leaf:  S span it is just terrible .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('It is very upsetting to hear about a family', None, None, None, 0), ('losing their children in such a freak accident way .', None, None, None, 1), ('As a parent myself I can only imagine the horrible feelings', None, None, None, 0), ('that this family is going through', None, None, None, 0), ('and how everyone must be feeling right now', None, None, None, 0), ('to lose these little girls as such a young age .', None, None, None, 1), ('No one should have to bury their own children ,', None, None, None, 0), ('it is just terrible .', None, None, None, 1)]

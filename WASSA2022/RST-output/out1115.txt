@@ -1,0 +1,25 @@
+=====================> [[('We need to make sure', None, None, None, 0), ('these brave people have more resources .', None, None, None, 1), ('Government needs to realize the value of animal tourism', None, None, None, 0), ('and do more', None, None, None, 0), ('to stop poaching .', None, None, None, 1), ('Once these precious animals are gone ,', None, None, None, 0), ('there will be no bringing them back .', None, None, None, 1), ('We need to do more', None, None, None, 0), ('to make sure', None, None, None, 0), ('this does not happen .', None, None, None, 1), ('Poaching is a huge problem in Africa', None, None, None, 0), ('and penalties need to be severe', None, None, None, 0)]]
+Leaf:  S span We need to make sure
+Leaf:  N Attribution these brave people have more resources .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint Government needs to realize the value of animal tourism
+Leaf:  N Enablement and do more
+Leaf:  S span to stop poaching .
+Inner:  N Joint None Enablement NS
+Inner:  N Explanation None Joint NN
+Leaf:  S span Once these precious animals are gone ,
+Leaf:  N Condition there will be no bringing them back .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Enablement We need to do more
+Leaf:  S span to make sure
+Leaf:  N Attribution this does not happen .
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Poaching is a huge problem in Africa
+Leaf:  N Joint and penalties need to be severe
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('We need to make sure', None, None, None, 0), ('these brave people have more resources .', None, None, None, 1), ('Government needs to realize the value of animal tourism', None, None, None, 0), ('and do more', None, None, None, 0), ('to stop poaching .', None, None, None, 1), ('Once these precious animals are gone ,', None, None, None, 0), ('there will be no bringing them back .', None, None, None, 1), ('We need to do more', None, None, None, 0), ('to make sure', None, None, None, 0), ('this does not happen .', None, None, None, 1), ('Poaching is a huge problem in Africa', None, None, None, 0), ('and penalties need to be severe', None, None, None, 0)]

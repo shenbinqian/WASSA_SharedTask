@@ -1,0 +1,25 @@
+=====================> [[('I just read about the Haitians', None, None, None, 0), ('who came here after the earthquake .', None, None, None, 1), ('While I wish we could help everyone', None, None, None, 0), ("we just ca n't .", None, None, None, 1), ('Only so many resources in this country', None, None, None, 0), ('and unless we want to become another 3rd world country', None, None, None, 0), ('we have to send them home . Make them wait in line just like any other legal immigrant . Why should they be given special privileges', None, None, None, 0), ('to be in this country .', None, None, None, 1), ('I hate to be mean', None, None, None, 0), ('but', None, None, None, 0), ("if you are n't here legally", None, None, None, 0), ('then you have to go home .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about the Haitians
+Leaf:  S span who came here after the earthquake .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span While I wish we could help everyone
+Leaf:  N Contrast we just ca n't .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Joint Only so many resources in this country
+Leaf:  S span and unless we want to become another 3rd world country
+Leaf:  N Elaborate we have to send them home . Make them wait in line just like any other legal immigrant . Why should they be given special privileges
+Leaf:  S span to be in this country .
+Inner:  N Condition None Elaborate NS
+Inner:  N Joint None Condition SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hate to be mean
+Leaf:  N Same-Unit but
+Leaf:  S span if you are n't here legally
+Leaf:  N Condition then you have to go home .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I just read about the Haitians', None, None, None, 0), ('who came here after the earthquake .', None, None, None, 1), ('While I wish we could help everyone', None, None, None, 0), ("we just ca n't .", None, None, None, 1), ('Only so many resources in this country', None, None, None, 0), ('and unless we want to become another 3rd world country', None, None, None, 0), ('we have to send them home . Make them wait in line just like any other legal immigrant . Why should they be given special privileges', None, None, None, 0), ('to be in this country .', None, None, None, 1), ('I hate to be mean', None, None, None, 0), ('but', None, None, None, 0), ("if you are n't here legally", None, None, None, 0), ('then you have to go home .', None, None, None, 1)]

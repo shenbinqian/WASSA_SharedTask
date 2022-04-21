@@ -1,0 +1,21 @@
+=====================> [[('These people are dumb', None, None, None, 0), ('for voting for him .', None, None, None, 1), ("They ca n't even tell", None, None, None, 0), ("that he 's exploiting their feelings", None, None, None, 0), ('and has no intentions to helping them .', None, None, None, 1), ("He 's just taking advantage of the situation for his own gain .", None, None, None, 1), ("They 'll find out soon", None, None, None, 0), ("and they 'll be the ones", None, None, None, 0), ('who end up suffering most from this .', None, None, None, 1), ("I do n't really have too much sympathy for them .", None, None, None, 1)]]
+Leaf:  N Explanation These people are dumb
+Leaf:  S span for voting for him .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span They ca n't even tell
+Leaf:  N Joint that he 's exploiting their feelings
+Leaf:  N Joint and has no intentions to helping them .
+Inner:  N Attribution None Joint NN
+Inner:  N Summary None Attribution SN
+Leaf:  S span He 's just taking advantage of the situation for his own gain .
+Inner:  N Cause None Summary NS
+Leaf:  N Joint They 'll find out soon
+Leaf:  N Elaborate and they 'll be the ones
+Leaf:  S span who end up suffering most from this .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I do n't really have too much sympathy for them .
+Inner:  Root None None Evaluation NS
+[('These people are dumb', None, None, None, 0), ('for voting for him .', None, None, None, 1), ("They ca n't even tell", None, None, None, 0), ("that he 's exploiting their feelings", None, None, None, 0), ('and has no intentions to helping them .', None, None, None, 1), ("He 's just taking advantage of the situation for his own gain .", None, None, None, 1), ("They 'll find out soon", None, None, None, 0), ("and they 'll be the ones", None, None, None, 0), ('who end up suffering most from this .', None, None, None, 1), ("I do n't really have too much sympathy for them .", None, None, None, 1)]

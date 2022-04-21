@@ -1,0 +1,21 @@
+=====================> [[('I find this article to be stupid .', None, None, None, 1), ('It talks about how Trump supporters are attacking actors from the show Silicon Valley .', None, None, None, 1), ("I 'm not a Silicon Valley fan", None, None, None, 0), ('and I do not know', None, None, None, 0), ('who those actors are ,', None, None, None, 0), ('but I believe', None, None, None, 0), ('that', None, None, None, 0), ('if there were ever to be a fight', None, None, None, 0), ('that escalates due to differing political opinion ,', None, None, None, 0), ('I would just walk up and leave .', None, None, None, 1)]]
+Leaf:  N Elaborate I find this article to be stupid .
+Leaf:  S span It talks about how Trump supporters are attacking actors from the show Silicon Valley .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint I 'm not a Silicon Valley fan
+Leaf:  S span and I do not know
+Leaf:  N Attribution who those actors are ,
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Leaf:  S span but I believe
+Leaf:  N Attribution that
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Elaborate if there were ever to be a fight
+Leaf:  S span that escalates due to differing political opinion ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition I would just walk up and leave .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Explanation NS
+[('I find this article to be stupid .', None, None, None, 1), ('It talks about how Trump supporters are attacking actors from the show Silicon Valley .', None, None, None, 1), ("I 'm not a Silicon Valley fan", None, None, None, 0), ('and I do not know', None, None, None, 0), ('who those actors are ,', None, None, None, 0), ('but I believe', None, None, None, 0), ('that', None, None, None, 0), ('if there were ever to be a fight', None, None, None, 0), ('that escalates due to differing political opinion ,', None, None, None, 0), ('I would just walk up and leave .', None, None, None, 1)]

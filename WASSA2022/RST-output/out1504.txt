@@ -1,0 +1,29 @@
+=====================> [[('Did you know', None, None, None, 0), ("that Saudi woman needs a man 's approval for like everything ?", None, None, None, 1), ('To work ,', None, None, None, 0), ('to rent a flat ,', None, None, None, 0), ('to get medical treatment .', None, None, None, 1), ('What is really sad is that', None, None, None, 0), ('even if she is widowed', None, None, None, 0), ('sometimes HER SON is asked for permission .', None, None, None, 1), ('There is a protest going on right now', None, None, None, 0), ('to get them to be able to be their own guardians after a certain age . I am very proud of these woman for fighting for their rights .', None, None, None, 1), ('I hope I get to read another article at a later date', None, None, None, 0), ('saying', None, None, None, 0), ('some kind of law was passed', None, None, None, 0), ('to let them have their own rights .', None, None, None, 1)]]
+Leaf:  S span Did you know
+Leaf:  N Attribution that Saudi woman needs a man 's approval for like everything ?
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint To work ,
+Leaf:  N Joint to rent a flat ,
+Leaf:  N Joint to get medical treatment .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Same-Unit What is really sad is that
+Leaf:  S span even if she is widowed
+Leaf:  N Contrast sometimes HER SON is asked for permission .
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Enablement There is a protest going on right now
+Leaf:  S span to get them to be able to be their own guardians after a certain age . I am very proud of these woman for fighting for their rights .
+Inner:  N Joint None Enablement NS
+Leaf:  N Elaborate I hope I get to read another article at a later date
+Leaf:  S span saying
+Leaf:  N Enablement some kind of law was passed
+Leaf:  S span to let them have their own rights .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Did you know', None, None, None, 0), ("that Saudi woman needs a man 's approval for like everything ?", None, None, None, 1), ('To work ,', None, None, None, 0), ('to rent a flat ,', None, None, None, 0), ('to get medical treatment .', None, None, None, 1), ('What is really sad is that', None, None, None, 0), ('even if she is widowed', None, None, None, 0), ('sometimes HER SON is asked for permission .', None, None, None, 1), ('There is a protest going on right now', None, None, None, 0), ('to get them to be able to be their own guardians after a certain age . I am very proud of these woman for fighting for their rights .', None, None, None, 1), ('I hope I get to read another article at a later date', None, None, None, 0), ('saying', None, None, None, 0), ('some kind of law was passed', None, None, None, 0), ('to let them have their own rights .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('It seems like the premises of this arguement is so shaky .', None, None, None, 1), ('Just because Russia and Poland may have had tensions for a while ,', None, None, None, 0), ('it does not justify that they assassinated the guy .', None, None, None, 1), ('I mean ,', None, None, None, 0), ('if everyone just assumex', None, None, None, 0), ('their enemy is the result of their misfortune ,', None, None, None, 0), ('they will just be creating false tension with no real purpose .', None, None, None, 1), ('I understand', None, None, None, 0), ('that he is upset for their lost ,', None, None, None, 0), ('and that this was avoidable from bad weather and pilot control , but still .', None, None, None, 1)]]
+Leaf:  N Explanation It seems like the premises of this arguement is so shaky .
+Leaf:  S span Just because Russia and Poland may have had tensions for a while ,
+Leaf:  N Contrast it does not justify that they assassinated the guy .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Same-Unit I mean ,
+Leaf:  S span if everyone just assumex
+Leaf:  N Attribution their enemy is the result of their misfortune ,
+Inner:  S span None Attribution SN
+Leaf:  N Condition they will just be creating false tension with no real purpose .
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I understand
+Leaf:  N Joint that he is upset for their lost ,
+Leaf:  N Joint and that this was avoidable from bad weather and pilot control , but still .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('It seems like the premises of this arguement is so shaky .', None, None, None, 1), ('Just because Russia and Poland may have had tensions for a while ,', None, None, None, 0), ('it does not justify that they assassinated the guy .', None, None, None, 1), ('I mean ,', None, None, None, 0), ('if everyone just assumex', None, None, None, 0), ('their enemy is the result of their misfortune ,', None, None, None, 0), ('they will just be creating false tension with no real purpose .', None, None, None, 1), ('I understand', None, None, None, 0), ('that he is upset for their lost ,', None, None, None, 0), ('and that this was avoidable from bad weather and pilot control , but still .', None, None, None, 1)]

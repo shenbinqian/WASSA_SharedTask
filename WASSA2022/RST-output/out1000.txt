@@ -1,0 +1,35 @@
+=====================> [[('Although this is bad ,', None, None, None, 0), ('I have to admit', None, None, None, 0), ("that it 's also rather funny .", None, None, None, 1), ('I do wonder', None, None, None, 0), ('what caused the squirrel to go on such a rampage .', None, None, None, 1), ('Perhaps it felt threatened ? Maybe it was abused ?', None, None, None, 1), ('Perhaps it got caught inside', None, None, None, 0), ("and out of fear did what animals do - bite and claw their way out . I 'm assuming", None, None, None, 0), ('it was the latter reason', None, None, None, 0), ('and this just happened to be an odd situation .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('it meant to hurt anyone ,', None, None, None, 0), ('I think', None, None, None, 0), ('it was just scared', None, None, None, 0), ('and people got bit because they got in its way .', None, None, None, 1), ("I ca n't imagine another reason than that .", None, None, None, 1), ('And the people were fine anyway .', None, None, None, 1)]]
+Leaf:  S span Although this is bad ,
+Leaf:  S span I have to admit
+Leaf:  N Attribution that it 's also rather funny .
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I do wonder
+Leaf:  N Joint what caused the squirrel to go on such a rampage .
+Leaf:  N Joint Perhaps it felt threatened ? Maybe it was abused ?
+Leaf:  N Temporal Perhaps it got caught inside
+Leaf:  N Temporal and out of fear did what animals do - bite and claw their way out . I 'm assuming
+Inner:  S span None Temporal NN
+Leaf:  N Attribution it was the latter reason
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate and this just happened to be an odd situation .
+Leaf:  S span I do n't think
+Leaf:  N Attribution it meant to hurt anyone ,
+Inner:  N Joint None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint it was just scared
+Leaf:  N Joint and people got bit because they got in its way .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I ca n't imagine another reason than that .
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span And the people were fine anyway .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Although this is bad ,', None, None, None, 0), ('I have to admit', None, None, None, 0), ("that it 's also rather funny .", None, None, None, 1), ('I do wonder', None, None, None, 0), ('what caused the squirrel to go on such a rampage .', None, None, None, 1), ('Perhaps it felt threatened ? Maybe it was abused ?', None, None, None, 1), ('Perhaps it got caught inside', None, None, None, 0), ("and out of fear did what animals do - bite and claw their way out . I 'm assuming", None, None, None, 0), ('it was the latter reason', None, None, None, 0), ('and this just happened to be an odd situation .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('it meant to hurt anyone ,', None, None, None, 0), ('I think', None, None, None, 0), ('it was just scared', None, None, None, 0), ('and people got bit because they got in its way .', None, None, None, 1), ("I ca n't imagine another reason than that .", None, None, None, 1), ('And the people were fine anyway .', None, None, None, 1)]

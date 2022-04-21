@@ -1,0 +1,25 @@
+=====================> [[("I do n't know", None, None, None, 0), ('why people need to have assault style weapons in their possession .', None, None, None, 1), ("I 'm all", None, None, None, 0), ('for having the right', None, None, None, 0), ('to bear arms', None, None, None, 0), ('to protect yourself of an intruder ,', None, None, None, 0), ('but is an assault rifle really necessary ?', None, None, None, 1), ('I think', None, None, None, 0), ('these kind of weapons really push the limit', None, None, None, 0), ('and how a citizen should be armed .', None, None, None, 1), ('A pistol or even a shotgun is enough in my opinion .', None, None, None, 1), ("But a high powered assault rifle ? That 's overkill and risky .", None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  N Attribution why people need to have assault style weapons in their possession .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I 'm all
+Leaf:  N Elaborate for having the right
+Leaf:  N Enablement to bear arms
+Leaf:  S span to protect yourself of an intruder ,
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but is an assault rifle really necessary ?
+Inner:  N Explanation None Contrast SN
+Leaf:  S span I think
+Leaf:  N Joint these kind of weapons really push the limit
+Leaf:  N Joint and how a citizen should be armed .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Leaf:  N Contrast A pistol or even a shotgun is enough in my opinion .
+Leaf:  S span But a high powered assault rifle ? That 's overkill and risky .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[("I do n't know", None, None, None, 0), ('why people need to have assault style weapons in their possession .', None, None, None, 1), ("I 'm all", None, None, None, 0), ('for having the right', None, None, None, 0), ('to bear arms', None, None, None, 0), ('to protect yourself of an intruder ,', None, None, None, 0), ('but is an assault rifle really necessary ?', None, None, None, 1), ('I think', None, None, None, 0), ('these kind of weapons really push the limit', None, None, None, 0), ('and how a citizen should be armed .', None, None, None, 1), ('A pistol or even a shotgun is enough in my opinion .', None, None, None, 1), ("But a high powered assault rifle ? That 's overkill and risky .", None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('I wonder', None, None, None, 0), ('who shot him and where .', None, None, None, 1), ('Did he get shot in the chest ?', None, None, None, 1), ('The arm ? The leg ? The back ?', None, None, None, 1), ('Where ????? And also , where was he', None, None, None, 0), ('when he got shot ? Was he inside or outside of the club ?', None, None, None, 1), ('Did he drive himself ? Was he alone ? Did anyone else get shot ?????? Sooooo many questions , so little answers .', None, None, None, 1), ('Has anyone been arrested yet ? Are there any suspects', None, None, None, 0), ('?????', None, None, None, 1)]]
+Leaf:  S span I wonder
+Leaf:  N Attribution who shot him and where .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint Did he get shot in the chest ?
+Leaf:  N Joint The arm ? The leg ? The back ?
+Leaf:  N Background Where ????? And also , where was he
+Leaf:  S span when he got shot ? Was he inside or outside of the club ?
+Inner:  N Joint None Background NS
+Leaf:  N Joint Did he drive himself ? Was he alone ? Did anyone else get shot ?????? Sooooo many questions , so little answers .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Has anyone been arrested yet ? Are there any suspects
+Leaf:  N Joint ?????
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I wonder', None, None, None, 0), ('who shot him and where .', None, None, None, 1), ('Did he get shot in the chest ?', None, None, None, 1), ('The arm ? The leg ? The back ?', None, None, None, 1), ('Where ????? And also , where was he', None, None, None, 0), ('when he got shot ? Was he inside or outside of the club ?', None, None, None, 1), ('Did he drive himself ? Was he alone ? Did anyone else get shot ?????? Sooooo many questions , so little answers .', None, None, None, 1), ('Has anyone been arrested yet ? Are there any suspects', None, None, None, 0), ('?????', None, None, None, 1)]

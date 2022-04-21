@@ -1,0 +1,29 @@
+=====================> [[('In Iraq , Islamic State militants are kidnapping thousands of people at gunpoint', None, None, None, 0), ('to use as shields against the U.S. takeover', None, None, None, 0), ('as the militants move to their last stronghold of Mosul .', None, None, None, 1), ('This is something', None, None, None, 0), ('that complicates the U.S. airstrikes', None, None, None, 0), ('because it is not certain how many civilians might be injured or killed', None, None, None, 0), ('since they are being used as shields by the militants .', None, None, None, 1), ('As the militants are squeezed tighter and tighter together in their last stronghold , more and more villages are suffering ,', None, None, None, 0), ('entire villages of people are being taken and used as these shields .', None, None, None, 1), ('It is a terrible situation', None, None, None, 0), ('and I can not imagine the suffering', None, None, None, 0), ('as people are missing', None, None, None, 0), ('and lost forever from families', None, None, None, 0), ('and leaving many children as orphans .', None, None, None, 1)]]
+Leaf:  N Enablement In Iraq , Islamic State militants are kidnapping thousands of people at gunpoint
+Leaf:  S span to use as shields against the U.S. takeover
+Inner:  N Background None Enablement NS
+Leaf:  S span as the militants move to their last stronghold of Mosul .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate This is something
+Leaf:  S span that complicates the U.S. airstrikes
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Background because it is not certain how many civilians might be injured or killed
+Leaf:  S span since they are being used as shields by the militants .
+Inner:  S span None Background NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate As the militants are squeezed tighter and tighter together in their last stronghold , more and more villages are suffering ,
+Leaf:  S span entire villages of people are being taken and used as these shields .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It is a terrible situation
+Leaf:  N Background and I can not imagine the suffering
+Leaf:  N Joint as people are missing
+Leaf:  N Joint and lost forever from families
+Leaf:  N Joint and leaving many children as orphans .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('In Iraq , Islamic State militants are kidnapping thousands of people at gunpoint', None, None, None, 0), ('to use as shields against the U.S. takeover', None, None, None, 0), ('as the militants move to their last stronghold of Mosul .', None, None, None, 1), ('This is something', None, None, None, 0), ('that complicates the U.S. airstrikes', None, None, None, 0), ('because it is not certain how many civilians might be injured or killed', None, None, None, 0), ('since they are being used as shields by the militants .', None, None, None, 1), ('As the militants are squeezed tighter and tighter together in their last stronghold , more and more villages are suffering ,', None, None, None, 0), ('entire villages of people are being taken and used as these shields .', None, None, None, 1), ('It is a terrible situation', None, None, None, 0), ('and I can not imagine the suffering', None, None, None, 0), ('as people are missing', None, None, None, 0), ('and lost forever from families', None, None, None, 0), ('and leaving many children as orphans .', None, None, None, 1)]

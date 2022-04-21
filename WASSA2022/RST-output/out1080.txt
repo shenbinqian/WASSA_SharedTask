@@ -1,0 +1,19 @@
+=====================> [[('I just read this article about a murder suicide .', None, None, None, 1), ('This couple , their three kids , and their dog were all dead from gunshot wounds .', None, None, None, 1), ('They even shot the dog .', None, None, None, 1), (':( The family seemed really normal .', None, None, None, 1), ('They had some issues with stress and the relationship ,', None, None, None, 0), ("but who does n't ?", None, None, None, 1), ("It 's really eerie", None, None, None, 0), ('that people can be like that', None, None, None, 0), ("and you wo n't even know it .", None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about a murder suicide .
+Leaf:  N Elaborate This couple , their three kids , and their dog were all dead from gunshot wounds .
+Leaf:  S span They even shot the dog .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast :( The family seemed really normal .
+Leaf:  N Contrast They had some issues with stress and the relationship ,
+Leaf:  N Contrast but who does n't ?
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span It 's really eerie
+Leaf:  N Temporal that people can be like that
+Leaf:  N Temporal and you wo n't even know it .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read this article about a murder suicide .', None, None, None, 1), ('This couple , their three kids , and their dog were all dead from gunshot wounds .', None, None, None, 1), ('They even shot the dog .', None, None, None, 1), (':( The family seemed really normal .', None, None, None, 1), ('They had some issues with stress and the relationship ,', None, None, None, 0), ("but who does n't ?", None, None, None, 1), ("It 's really eerie", None, None, None, 0), ('that people can be like that', None, None, None, 0), ("and you wo n't even know it .", None, None, None, 1)]

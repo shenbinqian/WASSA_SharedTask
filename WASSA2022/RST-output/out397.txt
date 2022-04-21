@@ -1,0 +1,27 @@
+=====================> [[('We definitely need to make sure we step up our efforts', None, None, None, 0), ('to vet who', None, None, None, 0), ('we let in this country ,', None, None, None, 0), ('especially as far as refugees go .', None, None, None, 1), ("Just like you would n't leave your door open", None, None, None, 0), ('and invite intruders ,', None, None, None, 0), ('we should not let refugees into our country', None, None, None, 0), ('without vetting them .', None, None, None, 1), ("We do n't know", None, None, None, 0), ("if they 're part of ISIS or not .", None, None, None, 1), ('It may seem like racial profiling ,', None, None, None, 0), ('but only Middle Easterners belong to ISIS ,', None, None, None, 0), ('so it is appropriate in this case .', None, None, None, 1)]]
+Leaf:  N Elaborate We definitely need to make sure we step up our efforts
+Leaf:  S span to vet who
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span we let in this country ,
+Inner:  N Background None Elaborate NS
+Leaf:  S span especially as far as refugees go .
+Inner:  N Explanation None Background NS
+Leaf:  N Joint Just like you would n't leave your door open
+Leaf:  N Joint and invite intruders ,
+Inner:  S span None Joint NN
+Leaf:  N Manner-Means we should not let refugees into our country
+Leaf:  S span without vetting them .
+Inner:  N Comparison None Manner-Means NS
+Inner:  N Elaborate None Comparison SN
+Leaf:  S span We do n't know
+Leaf:  N Attribution if they 're part of ISIS or not .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It may seem like racial profiling ,
+Leaf:  N Evaluation but only Middle Easterners belong to ISIS ,
+Leaf:  S span so it is appropriate in this case .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('We definitely need to make sure we step up our efforts', None, None, None, 0), ('to vet who', None, None, None, 0), ('we let in this country ,', None, None, None, 0), ('especially as far as refugees go .', None, None, None, 1), ("Just like you would n't leave your door open", None, None, None, 0), ('and invite intruders ,', None, None, None, 0), ('we should not let refugees into our country', None, None, None, 0), ('without vetting them .', None, None, None, 1), ("We do n't know", None, None, None, 0), ("if they 're part of ISIS or not .", None, None, None, 1), ('It may seem like racial profiling ,', None, None, None, 0), ('but only Middle Easterners belong to ISIS ,', None, None, None, 0), ('so it is appropriate in this case .', None, None, None, 1)]

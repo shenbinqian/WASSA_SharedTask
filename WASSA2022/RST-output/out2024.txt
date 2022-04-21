@@ -1,0 +1,25 @@
+=====================> [[('While i am sympathetic to the students of New Delh', None, None, None, 0), ('who are sick of breathing in the pollution ,', None, None, None, 0), ("i do n't see", None, None, None, 0), ('how they could possibly expect the government to " do something " in a manner and time frame', None, None, None, 0), ('that they seem to be looking for .', None, None, None, 1), ('just how fast do they think', None, None, None, 0), ('this problem can be fixed ?', None, None, None, 1), ('it will be a huge undertaking', None, None, None, 0), ('and the students need to understand', None, None, None, 0), ('this.they should do weekly protest in the long term', None, None, None, 0), ('instead of wasting time', None, None, None, 0), ('and doing one " long protest " .', None, None, None, 1)]]
+Leaf:  N Elaborate While i am sympathetic to the students of New Delh
+Leaf:  S span who are sick of breathing in the pollution ,
+Inner:  S span None Elaborate NS
+Leaf:  S span i do n't see
+Leaf:  N Elaborate how they could possibly expect the government to " do something " in a manner and time frame
+Leaf:  S span that they seem to be looking for .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Joint None Contrast SN
+Leaf:  S span just how fast do they think
+Leaf:  N Attribution this problem can be fixed ?
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint it will be a huge undertaking
+Leaf:  S span and the students need to understand
+Leaf:  N Contrast this.they should do weekly protest in the long term
+Leaf:  N Joint instead of wasting time
+Leaf:  N Joint and doing one " long protest " .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Contrast NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('While i am sympathetic to the students of New Delh', None, None, None, 0), ('who are sick of breathing in the pollution ,', None, None, None, 0), ("i do n't see", None, None, None, 0), ('how they could possibly expect the government to " do something " in a manner and time frame', None, None, None, 0), ('that they seem to be looking for .', None, None, None, 1), ('just how fast do they think', None, None, None, 0), ('this problem can be fixed ?', None, None, None, 1), ('it will be a huge undertaking', None, None, None, 0), ('and the students need to understand', None, None, None, 0), ('this.they should do weekly protest in the long term', None, None, None, 0), ('instead of wasting time', None, None, None, 0), ('and doing one " long protest " .', None, None, None, 1)]

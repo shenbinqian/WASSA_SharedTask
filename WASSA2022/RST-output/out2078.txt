@@ -1,0 +1,43 @@
+=====================> [[('I can not believe', None, None, None, 0), ('what I just read .', None, None, None, 1), ('On one hand , I want to say', None, None, None, 0), ('I can not imagine', None, None, None, 0), ('why anyone would do that', None, None, None, 0), ('but in a way', None, None, None, 0), ('I almost can ?? I can see', None, None, None, 0), ('how you would be too scared to go to a doctor sometimes', None, None, None, 0), ('and think', None, None, None, 0), ('you can handle things at home .', None, None, None, 1), ('But this was something serious !!!', None, None, None, 1), ('He was scared it was broken', None, None, None, 0), ("so I do n't know why he would put a steel chopstick in there ???? Was it supposed to fix it ?", None, None, None, 1), ('This guy must have been seriously scared to try to check things out at home . He must have been terrified . I feel so bad . He must have been so upset', None, None, None, 0), ("to realize he could n't get it out ,", None, None, None, 0), ('and knowing now he had to go to the doctor .', None, None, None, 1), ("Thank god he did n't push it in any further", None, None, None, 0), ('or they said', None, None, None, 0), ('he could have died ! Poor guy . At least he stopped before that point .', None, None, None, 1), ('He must be on his own', None, None, None, 0), ('because his wife would have nagged', None, None, None, 0)]]
+Leaf:  S span I can not believe
+Leaf:  N Attribution what I just read .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span On one hand , I want to say
+Leaf:  S span I can not imagine
+Leaf:  N Attribution why anyone would do that
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but in a way
+Leaf:  S span I almost can ?? I can see
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Leaf:  N Joint how you would be too scared to go to a doctor sometimes
+Leaf:  S span and think
+Leaf:  N Attribution you can handle things at home .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate But this was something serious !!!
+Leaf:  S span He was scared it was broken
+Leaf:  N Cause so I do n't know why he would put a steel chopstick in there ???? Was it supposed to fix it ?
+Inner:  N Evaluation None Cause SN
+Leaf:  N Cause This guy must have been seriously scared to try to check things out at home . He must have been terrified . I feel so bad . He must have been so upset
+Leaf:  S span to realize he could n't get it out ,
+Inner:  N Cause None Cause NS
+Leaf:  S span and knowing now he had to go to the doctor .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Thank god he did n't push it in any further
+Leaf:  S span or they said
+Leaf:  N Attribution he could have died ! Poor guy . At least he stopped before that point .
+Inner:  N Condition None Attribution SN
+Inner:  N Elaborate None Condition SN
+Leaf:  N Cause He must be on his own
+Leaf:  S span because his wife would have nagged
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I can not believe', None, None, None, 0), ('what I just read .', None, None, None, 1), ('On one hand , I want to say', None, None, None, 0), ('I can not imagine', None, None, None, 0), ('why anyone would do that', None, None, None, 0), ('but in a way', None, None, None, 0), ('I almost can ?? I can see', None, None, None, 0), ('how you would be too scared to go to a doctor sometimes', None, None, None, 0), ('and think', None, None, None, 0), ('you can handle things at home .', None, None, None, 1), ('But this was something serious !!!', None, None, None, 1), ('He was scared it was broken', None, None, None, 0), ("so I do n't know why he would put a steel chopstick in there ???? Was it supposed to fix it ?", None, None, None, 1), ('This guy must have been seriously scared to try to check things out at home . He must have been terrified . I feel so bad . He must have been so upset', None, None, None, 0), ("to realize he could n't get it out ,", None, None, None, 0), ('and knowing now he had to go to the doctor .', None, None, None, 1), ("Thank god he did n't push it in any further", None, None, None, 0), ('or they said', None, None, None, 0), ('he could have died ! Poor guy . At least he stopped before that point .', None, None, None, 1), ('He must be on his own', None, None, None, 0), ('because his wife would have nagged', None, None, None, 0)]

@@ -1,0 +1,35 @@
+=====================> [[('We all live in the same America .', None, None, None, 1), ('I believe', None, None, None, 0), ('that we all have the same hopes , dreams and goals .', None, None, None, 1), ('I can understand', None, None, None, 0), ('to some Trump represents the return of jobs and other industry ,', None, None, None, 0), ('but to others he is a symbol of hate .', None, None, None, 1), ('I know', None, None, None, 0), ('you voted for him', None, None, None, 0), ('and I know', None, None, None, 0), ('that you are not racist ,', None, None, None, 0), ('but can you see how much this has torn the country apart ?', None, None, None, 1), ('We both know', None, None, None, 0), ('that the country was not already united as one ,', None, None, None, 0), ('but this has made it worst . I do not see it getting any better anytime soon .', None, None, None, 1), ('I hope', None, None, None, 0), ('the country can heel', None, None, None, 0), ('and both sides can work it out .', None, None, None, 1)]]
+Leaf:  N Elaborate We all live in the same America .
+Leaf:  S span I believe
+Leaf:  N Attribution that we all have the same hopes , dreams and goals .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I can understand
+Leaf:  N Contrast to some Trump represents the return of jobs and other industry ,
+Leaf:  N Contrast but to others he is a symbol of hate .
+Inner:  N Attribution None Contrast NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Joint you voted for him
+Leaf:  S span and I know
+Leaf:  N Attribution that you are not racist ,
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but can you see how much this has torn the country apart ?
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span We both know
+Leaf:  N Attribution that the country was not already united as one ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but this has made it worst . I do not see it getting any better anytime soon .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I hope
+Leaf:  N Joint the country can heel
+Leaf:  N Joint and both sides can work it out .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('We all live in the same America .', None, None, None, 1), ('I believe', None, None, None, 0), ('that we all have the same hopes , dreams and goals .', None, None, None, 1), ('I can understand', None, None, None, 0), ('to some Trump represents the return of jobs and other industry ,', None, None, None, 0), ('but to others he is a symbol of hate .', None, None, None, 1), ('I know', None, None, None, 0), ('you voted for him', None, None, None, 0), ('and I know', None, None, None, 0), ('that you are not racist ,', None, None, None, 0), ('but can you see how much this has torn the country apart ?', None, None, None, 1), ('We both know', None, None, None, 0), ('that the country was not already united as one ,', None, None, None, 0), ('but this has made it worst . I do not see it getting any better anytime soon .', None, None, None, 1), ('I hope', None, None, None, 0), ('the country can heel', None, None, None, 0), ('and both sides can work it out .', None, None, None, 1)]

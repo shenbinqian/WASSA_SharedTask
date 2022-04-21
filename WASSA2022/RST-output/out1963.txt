@@ -1,0 +1,27 @@
+=====================> [[('I am not so sure', None, None, None, 0), ('as to what to think about this situation ,', None, None, None, 0), ('I know', None, None, None, 0), ('that the KKK pledges support to Trump', None, None, None, 0), ('and he denies any involvement with them', None, None, None, 0), ('but they still proclaim their support for him .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('it looks good that the president of the United States has ties to such a group .', None, None, None, 1), ('I know', None, None, None, 0), ('he says', None, None, None, 0), ("he do n't have anything", None, None, None, 0), ('to do with them', None, None, None, 0), ('but they sure do act like they do .', None, None, None, 1)]]
+Leaf:  S span I am not so sure
+Leaf:  N Attribution as to what to think about this situation ,
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I know
+Leaf:  N Joint that the KKK pledges support to Trump
+Leaf:  N Joint and he denies any involvement with them
+Inner:  S span None Joint NN
+Leaf:  N Contrast but they still proclaim their support for him .
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I do n't think
+Leaf:  N Attribution it looks good that the president of the United States has ties to such a group .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I know
+Leaf:  S span he says
+Leaf:  N Elaborate he do n't have anything
+Leaf:  S span to do with them
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but they sure do act like they do .
+Inner:  N Attribution None Contrast SN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('I am not so sure', None, None, None, 0), ('as to what to think about this situation ,', None, None, None, 0), ('I know', None, None, None, 0), ('that the KKK pledges support to Trump', None, None, None, 0), ('and he denies any involvement with them', None, None, None, 0), ('but they still proclaim their support for him .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('it looks good that the president of the United States has ties to such a group .', None, None, None, 1), ('I know', None, None, None, 0), ('he says', None, None, None, 0), ("he do n't have anything", None, None, None, 0), ('to do with them', None, None, None, 0), ('but they sure do act like they do .', None, None, None, 1)]

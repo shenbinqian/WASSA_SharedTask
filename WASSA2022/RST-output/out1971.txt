@@ -1,0 +1,37 @@
+=====================> [[('We need to get these Haitians some food', None, None, None, 0), ('and have to develop a plan', None, None, None, 0), ('to do so .', None, None, None, 1), ('More than 141,000 storm victims are in shelters ,', None, None, None, 0), ('and they need to go somewhere .', None, None, None, 1), ('We need to care about the kids first and the adults can come second .', None, None, None, 1), ('I say this', None, None, None, 0), ('because kids are the most needy', None, None, None, 0), ('and adults can get their own jobs in the future .', None, None, None, 1), ('This is how society tends to work .', None, None, None, 1), ('I think', None, None, None, 0), ('that is the best thing to do here overall .', None, None, None, 1), ('Kids asking for help just breaks my heart', None, None, None, 0), ('and makes me want to do something for them .', None, None, None, 1), ('I feel', None, None, None, 0), ('like that is the best thing', None, None, None, 0), ('to do in this whole situation', None, None, None, 0), ('going here at the moment .', None, None, None, 1)]]
+Leaf:  N Joint We need to get these Haitians some food
+Leaf:  N Elaborate and have to develop a plan
+Leaf:  S span to do so .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint More than 141,000 storm victims are in shelters ,
+Leaf:  N Joint and they need to go somewhere .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Explanation We need to care about the kids first and the adults can come second .
+Leaf:  N Explanation I say this
+Leaf:  N Joint because kids are the most needy
+Leaf:  N Joint and adults can get their own jobs in the future .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span This is how society tends to work .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I think
+Leaf:  N Attribution that is the best thing to do here overall .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint Kids asking for help just breaks my heart
+Leaf:  N Joint and makes me want to do something for them .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I feel
+Leaf:  N Elaborate like that is the best thing
+Leaf:  N Elaborate to do in this whole situation
+Leaf:  S span going here at the moment .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('We need to get these Haitians some food', None, None, None, 0), ('and have to develop a plan', None, None, None, 0), ('to do so .', None, None, None, 1), ('More than 141,000 storm victims are in shelters ,', None, None, None, 0), ('and they need to go somewhere .', None, None, None, 1), ('We need to care about the kids first and the adults can come second .', None, None, None, 1), ('I say this', None, None, None, 0), ('because kids are the most needy', None, None, None, 0), ('and adults can get their own jobs in the future .', None, None, None, 1), ('This is how society tends to work .', None, None, None, 1), ('I think', None, None, None, 0), ('that is the best thing to do here overall .', None, None, None, 1), ('Kids asking for help just breaks my heart', None, None, None, 0), ('and makes me want to do something for them .', None, None, None, 1), ('I feel', None, None, None, 0), ('like that is the best thing', None, None, None, 0), ('to do in this whole situation', None, None, None, 0), ('going here at the moment .', None, None, None, 1)]

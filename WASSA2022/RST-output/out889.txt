@@ -1,0 +1,33 @@
+=====================> [[('Better go stock up on coconut products .', None, None, None, 1), ('It seems coconuts are in danger', None, None, None, 0), ('due to some bacteria', None, None, None, 0), ('wiping out coconut trees in the Caribbean .', None, None, None, 1), ('Many fear', None, None, None, 0), ('it will spread to other coconut producing countries .', None, None, None, 1), ('The techno people are trying to breed some kind of cure .', None, None, None, 1), ('They are using gene banks', None, None, None, 0), ('to come up with a solution', None, None, None, 0), ('but costs are prohibitive .', None, None, None, 1), ('There ’s an International Coconut Genetic Resources Network or COGENT', None, None, None, 0), ('that ’s getting some funding', None, None, None, 0), ('but even it ’s in trouble financially .', None, None, None, 1), ('They are looking for coconut product users and big companies', None, None, None, 0), ('to help out .', None, None, None, 1), ('Have a heart , save the coconut trees !', None, None, None, 1)]]
+Leaf:  N Explanation Better go stock up on coconut products .
+Leaf:  N Cause It seems coconuts are in danger
+Leaf:  N Elaborate due to some bacteria
+Leaf:  S span wiping out coconut trees in the Caribbean .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Many fear
+Leaf:  N Attribution it will spread to other coconut producing countries .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate The techno people are trying to breed some kind of cure .
+Leaf:  N Enablement They are using gene banks
+Leaf:  S span to come up with a solution
+Inner:  N Contrast None Enablement NS
+Leaf:  S span but costs are prohibitive .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There ’s an International Coconut Genetic Resources Network or COGENT
+Leaf:  S span that ’s getting some funding
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but even it ’s in trouble financially .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate They are looking for coconut product users and big companies
+Leaf:  S span to help out .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Have a heart , save the coconut trees !
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Explanation NS
+[('Better go stock up on coconut products .', None, None, None, 1), ('It seems coconuts are in danger', None, None, None, 0), ('due to some bacteria', None, None, None, 0), ('wiping out coconut trees in the Caribbean .', None, None, None, 1), ('Many fear', None, None, None, 0), ('it will spread to other coconut producing countries .', None, None, None, 1), ('The techno people are trying to breed some kind of cure .', None, None, None, 1), ('They are using gene banks', None, None, None, 0), ('to come up with a solution', None, None, None, 0), ('but costs are prohibitive .', None, None, None, 1), ('There ’s an International Coconut Genetic Resources Network or COGENT', None, None, None, 0), ('that ’s getting some funding', None, None, None, 0), ('but even it ’s in trouble financially .', None, None, None, 1), ('They are looking for coconut product users and big companies', None, None, None, 0), ('to help out .', None, None, None, 1), ('Have a heart , save the coconut trees !', None, None, None, 1)]

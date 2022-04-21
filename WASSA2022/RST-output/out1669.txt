@@ -1,0 +1,25 @@
+=====================> [[('I hate to hear about officers getting shot', None, None, None, 0), ('but news spreads of officers doing illegal or corrupt things all the time', None, None, None, 0), ('and that will ultimately lead to extremists', None, None, None, 0), ('who want to take matters into their own hands in a revengeful way .', None, None, None, 1), ("I do n't like that part of our society", None, None, None, 0), ("but it is n't something that is easy to combat .", None, None, None, 1), ('As long as officers get blasted on news or the internet for illegal actions , people are going to look for ways to retaliate .', None, None, None, 1), ('Its an extremely volatile situation', None, None, None, 0), ('no matter how you look at it .', None, None, None, 1), ('I bleed for all those affected', None, None, None, 0), ("but really do n't see what we can do as a society", None, None, None, 0), ('to prevent it .', None, None, None, 1)]]
+Leaf:  N Contrast I hate to hear about officers getting shot
+Leaf:  N Cause but news spreads of officers doing illegal or corrupt things all the time
+Leaf:  N Elaborate and that will ultimately lead to extremists
+Leaf:  S span who want to take matters into their own hands in a revengeful way .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Cause NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Contrast I do n't like that part of our society
+Leaf:  N Contrast but it is n't something that is easy to combat .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation As long as officers get blasted on news or the internet for illegal actions , people are going to look for ways to retaliate .
+Leaf:  N Contrast Its an extremely volatile situation
+Leaf:  S span no matter how you look at it .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast I bleed for all those affected
+Leaf:  N Enablement but really do n't see what we can do as a society
+Leaf:  S span to prevent it .
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('I hate to hear about officers getting shot', None, None, None, 0), ('but news spreads of officers doing illegal or corrupt things all the time', None, None, None, 0), ('and that will ultimately lead to extremists', None, None, None, 0), ('who want to take matters into their own hands in a revengeful way .', None, None, None, 1), ("I do n't like that part of our society", None, None, None, 0), ("but it is n't something that is easy to combat .", None, None, None, 1), ('As long as officers get blasted on news or the internet for illegal actions , people are going to look for ways to retaliate .', None, None, None, 1), ('Its an extremely volatile situation', None, None, None, 0), ('no matter how you look at it .', None, None, None, 1), ('I bleed for all those affected', None, None, None, 0), ("but really do n't see what we can do as a society", None, None, None, 0), ('to prevent it .', None, None, None, 1)]

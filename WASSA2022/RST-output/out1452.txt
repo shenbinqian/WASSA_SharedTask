@@ -1,0 +1,17 @@
+=====================> [[("It 's interesting that so many people would have this reaction to the election .", None, None, None, 1), ("Sure , there 's a lot of negative stuff", None, None, None, 0), ('surrounding the election and the president ...', None, None, None, 1), ('but a lot of it is rhetoric and media .', None, None, None, 1), ("It does n't seem as relevant on a local level .", None, None, None, 1), ('I guess', None, None, None, 0), ('it would depend on where you live', None, None, None, 0), ("... maybe I 'm too isolated to understand .", None, None, None, 1)]]
+Leaf:  N Explanation It 's interesting that so many people would have this reaction to the election .
+Leaf:  N Elaborate Sure , there 's a lot of negative stuff
+Leaf:  S span surrounding the election and the president ...
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint but a lot of it is rhetoric and media .
+Leaf:  N Evaluation It does n't seem as relevant on a local level .
+Leaf:  S span I guess
+Leaf:  N Evaluation it would depend on where you live
+Leaf:  S span ... maybe I 'm too isolated to understand .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[("It 's interesting that so many people would have this reaction to the election .", None, None, None, 1), ("Sure , there 's a lot of negative stuff", None, None, None, 0), ('surrounding the election and the president ...', None, None, None, 1), ('but a lot of it is rhetoric and media .', None, None, None, 1), ("It does n't seem as relevant on a local level .", None, None, None, 1), ('I guess', None, None, None, 0), ('it would depend on where you live', None, None, None, 0), ("... maybe I 'm too isolated to understand .", None, None, None, 1)]

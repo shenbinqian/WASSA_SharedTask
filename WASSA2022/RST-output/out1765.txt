@@ -1,0 +1,31 @@
+=====================> [[('Man , car crashes happen all the time .', None, None, None, 1), ('There is no way', None, None, None, 0), ('they can be prevented .', None, None, None, 1), ('I would like to think', None, None, None, 0), ('that the smart cars of the future would help prevent this ,', None, None, None, 0), ('but I am not to sure .', None, None, None, 1), ('Somebody could probably hack those', None, None, None, 0), ('and cause massive car wrecks as well .', None, None, None, 1), ('People should also drive safer as well .', None, None, None, 1), ('There is definitely too much speeding .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if drunk driving was the cause of the wreck .', None, None, None, 1), ("That 's a huge problem", None, None, None, 0), ('that causes a bunch of wrecks .', None, None, None, 1), ("Do n't drink and drive people .", None, None, None, 1)]]
+Leaf:  N Summary Man , car crashes happen all the time .
+Leaf:  N Elaborate There is no way
+Leaf:  S span they can be prevented .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I would like to think
+Leaf:  N Attribution that the smart cars of the future would help prevent this ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I am not to sure .
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Temporal Somebody could probably hack those
+Leaf:  N Temporal and cause massive car wrecks as well .
+Inner:  N Joint None Temporal NN
+Leaf:  N Joint People should also drive safer as well .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span There is definitely too much speeding .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I wonder
+Leaf:  N Attribution if drunk driving was the cause of the wreck .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate That 's a huge problem
+Leaf:  S span that causes a bunch of wrecks .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Do n't drink and drive people .
+Inner:  Root None None Evaluation NS
+[('Man , car crashes happen all the time .', None, None, None, 1), ('There is no way', None, None, None, 0), ('they can be prevented .', None, None, None, 1), ('I would like to think', None, None, None, 0), ('that the smart cars of the future would help prevent this ,', None, None, None, 0), ('but I am not to sure .', None, None, None, 1), ('Somebody could probably hack those', None, None, None, 0), ('and cause massive car wrecks as well .', None, None, None, 1), ('People should also drive safer as well .', None, None, None, 1), ('There is definitely too much speeding .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if drunk driving was the cause of the wreck .', None, None, None, 1), ("That 's a huge problem", None, None, None, 0), ('that causes a bunch of wrecks .', None, None, None, 1), ("Do n't drink and drive people .", None, None, None, 1)]

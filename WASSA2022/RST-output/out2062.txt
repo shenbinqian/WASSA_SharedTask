@@ -1,0 +1,15 @@
+=====================> [[('I feel', None, None, None, 0), ('that the celebrities voluntarily gave away their info .', None, None, None, 1), ('They should have been smarter about protecting their photos .', None, None, None, 1), ('They could easily get in contact with someone', None, None, None, 0), ('to confirm the authenticity of the emails .', None, None, None, 1), ('Of course , celebrities are the last people', None, None, None, 0), ('who would understand the concept of authenticity .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution that the celebrities voluntarily gave away their info .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate They should have been smarter about protecting their photos .
+Leaf:  N Enablement They could easily get in contact with someone
+Leaf:  S span to confirm the authenticity of the emails .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Elaborate Of course , celebrities are the last people
+Leaf:  S span who would understand the concept of authenticity .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Contrast NS
+[('I feel', None, None, None, 0), ('that the celebrities voluntarily gave away their info .', None, None, None, 1), ('They should have been smarter about protecting their photos .', None, None, None, 1), ('They could easily get in contact with someone', None, None, None, 0), ('to confirm the authenticity of the emails .', None, None, None, 1), ('Of course , celebrities are the last people', None, None, None, 0), ('who would understand the concept of authenticity .', None, None, None, 1)]

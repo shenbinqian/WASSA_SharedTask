@@ -1,0 +1,15 @@
+=====================> [[('Being able to get out of contracts for timeshares sounds like quite a nightmare .', None, None, None, 1), ('Not being able to get out of such a contract ,', None, None, None, 0), ("ESPECIALLY if you 've fallen ill", None, None, None, 0), ('is quite possibly the worst case scenario .', None, None, None, 1), ('Furthermore , not being able to afford travel insurance', None, None, None, 0), ('because of it is a terrible time ,', None, None, None, 0), ('especially after they have been fighting their contract for a number of years now .', None, None, None, 1)]]
+Leaf:  N Summary Being able to get out of contracts for timeshares sounds like quite a nightmare .
+Leaf:  N Condition Not being able to get out of such a contract ,
+Leaf:  S span ESPECIALLY if you 've fallen ill
+Inner:  N Same-Unit None Condition NS
+Leaf:  N Same-Unit is quite possibly the worst case scenario .
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Explanation Furthermore , not being able to afford travel insurance
+Leaf:  S span because of it is a terrible time ,
+Inner:  N Background None Explanation NS
+Leaf:  S span especially after they have been fighting their contract for a number of years now .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('Being able to get out of contracts for timeshares sounds like quite a nightmare .', None, None, None, 1), ('Not being able to get out of such a contract ,', None, None, None, 0), ("ESPECIALLY if you 've fallen ill", None, None, None, 0), ('is quite possibly the worst case scenario .', None, None, None, 1), ('Furthermore , not being able to afford travel insurance', None, None, None, 0), ('because of it is a terrible time ,', None, None, None, 0), ('especially after they have been fighting their contract for a number of years now .', None, None, None, 1)]

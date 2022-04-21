@@ -1,0 +1,47 @@
+=====================> [[('Hey !', None, None, None, 1), ('So I just read this article about the internet in schools .', None, None, None, 1), ('I guess that several years ago , the government came up with this program', None, None, None, 0), ('to get internet and technology in to schools', None, None, None, 0), ('and make it possible for as many or all students to have access to computers and the internet .', None, None, None, 1), ('However ,', None, None, None, 0), ('according to this article ,', None, None, None, 0), ('this program is not working the way', None, None, None, 0), ('that it was set up', None, None, None, 0), ('to work', None, None, None, 0), ('and students are not actually benefiting from this program', None, None, None, 0), ('that costs A LOT of money !', None, None, None, 1), ('I was upset to read this ,', None, None, None, 0), ('as I feel', None, None, None, 0), ('that the internet can be such a valuable tool in education ,', None, None, None, 0), ("but then I really was n't surprised at all to learn", None, None, None, 0), ("that the government is n't doing what it has been set up", None, None, None, 0), ('to do', None, None, None, 0), ('or what it is promising us citizens', None, None, None, 0), ('it will do .', None, None, None, 1), ("Does n't the government just infuriate you", None, None, None, 0), ('and make you think', None, None, None, 0), ('you could do better ?', None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey !
+Leaf:  S span So I just read this article about the internet in schools .
+Leaf:  N Elaborate I guess that several years ago , the government came up with this program
+Leaf:  N Joint to get internet and technology in to schools
+Leaf:  N Joint and make it possible for as many or all students to have access to computers and the internet .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution However ,
+Leaf:  S span according to this article ,
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Elaborate this program is not working the way
+Leaf:  S span that it was set up
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span to work
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and students are not actually benefiting from this program
+Leaf:  S span that costs A LOT of money !
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Background None Contrast SN
+Inner:  N Textual-Organization None Background SN
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  N Background I was upset to read this ,
+Leaf:  S span as I feel
+Leaf:  N Attribution that the internet can be such a valuable tool in education ,
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Leaf:  S span but then I really was n't surprised at all to learn
+Leaf:  N Elaborate that the government is n't doing what it has been set up
+Leaf:  S span to do
+Inner:  N Joint None Elaborate NS
+Leaf:  S span or what it is promising us citizens
+Leaf:  N Attribution it will do .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint Does n't the government just infuriate you
+Leaf:  S span and make you think
+Leaf:  N Attribution you could do better ?
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('Hey !', None, None, None, 1), ('So I just read this article about the internet in schools .', None, None, None, 1), ('I guess that several years ago , the government came up with this program', None, None, None, 0), ('to get internet and technology in to schools', None, None, None, 0), ('and make it possible for as many or all students to have access to computers and the internet .', None, None, None, 1), ('However ,', None, None, None, 0), ('according to this article ,', None, None, None, 0), ('this program is not working the way', None, None, None, 0), ('that it was set up', None, None, None, 0), ('to work', None, None, None, 0), ('and students are not actually benefiting from this program', None, None, None, 0), ('that costs A LOT of money !', None, None, None, 1), ('I was upset to read this ,', None, None, None, 0), ('as I feel', None, None, None, 0), ('that the internet can be such a valuable tool in education ,', None, None, None, 0), ("but then I really was n't surprised at all to learn", None, None, None, 0), ("that the government is n't doing what it has been set up", None, None, None, 0), ('to do', None, None, None, 0), ('or what it is promising us citizens', None, None, None, 0), ('it will do .', None, None, None, 1), ("Does n't the government just infuriate you", None, None, None, 0), ('and make you think', None, None, None, 0), ('you could do better ?', None, None, None, 1)]

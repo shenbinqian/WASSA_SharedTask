@@ -1,0 +1,19 @@
+=====================> [[('From this article I learned about repression of gay rights in Uganda .', None, None, None, 1), ('Gay rights protesters were rounded up by police', None, None, None, 0), ('and taken away from the resort', None, None, None, 0), ('where they were protesting', None, None, None, 0), ('and of those', None, None, None, 0), ('that attempted to resume protesting at another spot ,', None, None, None, 0), ('police escorted them away .', None, None, None, 1), ('Gay rights have been struggling in Uganda ,', None, None, None, 0), ('where homosexuality is illegal and repressed .', None, None, None, 1)]]
+Leaf:  N Elaborate From this article I learned about repression of gay rights in Uganda .
+Leaf:  N Joint Gay rights protesters were rounded up by police
+Leaf:  N Elaborate and taken away from the resort
+Leaf:  S span where they were protesting
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate and of those
+Leaf:  S span that attempted to resume protesting at another spot ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background police escorted them away .
+Inner:  N Joint None Background SN
+Inner:  N Background None Joint NN
+Leaf:  N Elaborate Gay rights have been struggling in Uganda ,
+Leaf:  S span where homosexuality is illegal and repressed .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  Root None None Elaborate NS
+[('From this article I learned about repression of gay rights in Uganda .', None, None, None, 1), ('Gay rights protesters were rounded up by police', None, None, None, 0), ('and taken away from the resort', None, None, None, 0), ('where they were protesting', None, None, None, 0), ('and of those', None, None, None, 0), ('that attempted to resume protesting at another spot ,', None, None, None, 0), ('police escorted them away .', None, None, None, 1), ('Gay rights have been struggling in Uganda ,', None, None, None, 0), ('where homosexuality is illegal and repressed .', None, None, None, 1)]

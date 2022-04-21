@@ -1,0 +1,29 @@
+=====================> [[('Another article I read', None, None, None, 0), ('showing a death of African American driver by a police .', None, None, None, 1), ('I really upset me', None, None, None, 0), ('reading this article .', None, None, None, 1), ('That unnecessary force was used', None, None, None, 0), ('to handle the situation .', None, None, None, 1), ('Its crazy', None, None, None, 0), ('that the first thing on the police mind is to shoot to kill .', None, None, None, 1), ('I feel uneasy every time', None, None, None, 0), ('seeing and reading about situation like this', None, None, None, 0), ('where a situation could of been handled in a different way .', None, None, None, 1), ('Understandable', None, None, None, 0), ('that they work in a high intense environment', None, None, None, 0), ('but that why they train and follow protocol .', None, None, None, 1)]]
+Leaf:  N Elaborate Another article I read
+Leaf:  S span showing a death of African American driver by a police .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Manner-Means I really upset me
+Leaf:  S span reading this article .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Enablement That unnecessary force was used
+Leaf:  S span to handle the situation .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Its crazy
+Leaf:  S span that the first thing on the police mind is to shoot to kill .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background I feel uneasy every time
+Leaf:  N Elaborate seeing and reading about situation like this
+Leaf:  S span where a situation could of been handled in a different way .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate Understandable
+Leaf:  N Contrast that they work in a high intense environment
+Leaf:  N Contrast but that why they train and follow protocol .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Another article I read', None, None, None, 0), ('showing a death of African American driver by a police .', None, None, None, 1), ('I really upset me', None, None, None, 0), ('reading this article .', None, None, None, 1), ('That unnecessary force was used', None, None, None, 0), ('to handle the situation .', None, None, None, 1), ('Its crazy', None, None, None, 0), ('that the first thing on the police mind is to shoot to kill .', None, None, None, 1), ('I feel uneasy every time', None, None, None, 0), ('seeing and reading about situation like this', None, None, None, 0), ('where a situation could of been handled in a different way .', None, None, None, 1), ('Understandable', None, None, None, 0), ('that they work in a high intense environment', None, None, None, 0), ('but that why they train and follow protocol .', None, None, None, 1)]

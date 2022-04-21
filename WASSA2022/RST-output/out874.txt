@@ -1,0 +1,17 @@
+=====================> [[('A moron Arkansas cop left her police dog in the patrol car in the middle of summer', None, None, None, 0), ('and the poor thing died .', None, None, None, 1), ("She 's on administrative leave", None, None, None, 0), ('while the incident is being investigated .', None, None, None, 1), ("What 's to investigate ?", None, None, None, 1), ("The dog did n't lock itself in the car .", None, None, None, 1), ('She should at least be immediately fired for being too stupid', None, None, None, 0), ('to be a cop .', None, None, None, 1)]]
+Leaf:  N Cause A moron Arkansas cop left her police dog in the patrol car in the middle of summer
+Leaf:  S span and the poor thing died .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Temporal She 's on administrative leave
+Leaf:  N Temporal while the incident is being investigated .
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span What 's to investigate ?
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation The dog did n't lock itself in the car .
+Leaf:  N Cause She should at least be immediately fired for being too stupid
+Leaf:  S span to be a cop .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('A moron Arkansas cop left her police dog in the patrol car in the middle of summer', None, None, None, 0), ('and the poor thing died .', None, None, None, 1), ("She 's on administrative leave", None, None, None, 0), ('while the incident is being investigated .', None, None, None, 1), ("What 's to investigate ?", None, None, None, 1), ("The dog did n't lock itself in the car .", None, None, None, 1), ('She should at least be immediately fired for being too stupid', None, None, None, 0), ('to be a cop .', None, None, None, 1)]

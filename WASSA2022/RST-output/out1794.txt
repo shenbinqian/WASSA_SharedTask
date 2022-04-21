@@ -1,0 +1,21 @@
+=====================> [[('The fact', None, None, None, 0), ('that this article shows the global gender gap', None, None, None, 0), ('not being equal until 2196', None, None, None, 0), ('is particularly disturbing .', None, None, None, 1), ('And , I wonder', None, None, None, 0), ('why women have dropped out of the workforce globally ?', None, None, None, 1), ('I mean ,', None, None, None, 0), ('I did drop out but only after 30 years of employment .', None, None, None, 1), ("It seems as if , in this day and age , you 'd hear", None, None, None, 0), ("that women 's participation in the workforce had increased , not decreased .", None, None, None, 1)]]
+Leaf:  N Elaborate The fact
+Leaf:  N Elaborate that this article shows the global gender gap
+Leaf:  S span not being equal until 2196
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is particularly disturbing .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span And , I wonder
+Leaf:  N Attribution why women have dropped out of the workforce globally ?
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I mean ,
+Leaf:  N Elaborate I did drop out but only after 30 years of employment .
+Inner:  S span None Elaborate SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It seems as if , in this day and age , you 'd hear
+Leaf:  N Attribution that women 's participation in the workforce had increased , not decreased .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The fact', None, None, None, 0), ('that this article shows the global gender gap', None, None, None, 0), ('not being equal until 2196', None, None, None, 0), ('is particularly disturbing .', None, None, None, 1), ('And , I wonder', None, None, None, 0), ('why women have dropped out of the workforce globally ?', None, None, None, 1), ('I mean ,', None, None, None, 0), ('I did drop out but only after 30 years of employment .', None, None, None, 1), ("It seems as if , in this day and age , you 'd hear", None, None, None, 0), ("that women 's participation in the workforce had increased , not decreased .", None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('Well , there was another shooting .', None, None, None, 1), ('This one was in Washington .', None, None, None, 1), ('There is no real motive at this time ,', None, None, None, 0), ("but they do n't think", None, None, None, 0), ("it was terrorism . Maybe a broken heart ? Anyways , it 's getting ridiculous how many people are affected with these mass shootings .", None, None, None, 1), ('Just because someone has a grudge or a mental problem .', None, None, None, 1)]]
+Leaf:  N Elaborate Well , there was another shooting .
+Leaf:  S span This one was in Washington .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span There is no real motive at this time ,
+Leaf:  S span but they do n't think
+Leaf:  N Attribution it was terrorism . Maybe a broken heart ? Anyways , it 's getting ridiculous how many people are affected with these mass shootings .
+Inner:  N Contrast None Attribution SN
+Inner:  N Cause None Contrast SN
+Leaf:  S span Just because someone has a grudge or a mental problem .
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Well , there was another shooting .', None, None, None, 1), ('This one was in Washington .', None, None, None, 1), ('There is no real motive at this time ,', None, None, None, 0), ("but they do n't think", None, None, None, 0), ("it was terrorism . Maybe a broken heart ? Anyways , it 's getting ridiculous how many people are affected with these mass shootings .", None, None, None, 1), ('Just because someone has a grudge or a mental problem .', None, None, None, 1)]

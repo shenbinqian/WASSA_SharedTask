@@ -1,0 +1,27 @@
+=====================> [[('I never read up much on Thailand ,', None, None, None, 0), ('but it seems as if the place might change a lot in the near future .', None, None, None, 1), ('The king died ,', None, None, None, 0), ('and the queen is dying .', None, None, None, 1), ('There is some shady general', None, None, None, 0), ('who is taking over now .', None, None, None, 1), ('The people of Thailand , loved their king ,', None, None, None, 0), ('and he gave them a sense of stability , in a crazy political climate .', None, None, None, 1), ('They mourned the former king for a month , and now the queens death , may follow very soon .', None, None, None, 1), ('I am glad ,', None, None, None, 0), ('though I never think about it ,', None, None, None, 0), ('how lucky I am to be in a country with some " sense " of stability ,', None, None, None, 0), ('and not ruled in constant flux .', None, None, None, 1)]]
+Leaf:  S span I never read up much on Thailand ,
+Leaf:  N Contrast but it seems as if the place might change a lot in the near future .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint The king died ,
+Leaf:  N Joint and the queen is dying .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate There is some shady general
+Leaf:  S span who is taking over now .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The people of Thailand , loved their king ,
+Leaf:  N Joint and he gave them a sense of stability , in a crazy political climate .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They mourned the former king for a month , and now the queens death , may follow very soon .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Same-Unit I am glad ,
+Leaf:  S span though I never think about it ,
+Leaf:  N Joint how lucky I am to be in a country with some " sense " of stability ,
+Leaf:  N Joint and not ruled in constant flux .
+Inner:  N Contrast None Joint NN
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('I never read up much on Thailand ,', None, None, None, 0), ('but it seems as if the place might change a lot in the near future .', None, None, None, 1), ('The king died ,', None, None, None, 0), ('and the queen is dying .', None, None, None, 1), ('There is some shady general', None, None, None, 0), ('who is taking over now .', None, None, None, 1), ('The people of Thailand , loved their king ,', None, None, None, 0), ('and he gave them a sense of stability , in a crazy political climate .', None, None, None, 1), ('They mourned the former king for a month , and now the queens death , may follow very soon .', None, None, None, 1), ('I am glad ,', None, None, None, 0), ('though I never think about it ,', None, None, None, 0), ('how lucky I am to be in a country with some " sense " of stability ,', None, None, None, 0), ('and not ruled in constant flux .', None, None, None, 1)]

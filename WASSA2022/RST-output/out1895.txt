@@ -1,0 +1,27 @@
+=====================> [[('Okay seriously this is so dumb .', None, None, None, 1), ("If you do n't want your child", None, None, None, 0), ('eating " deadly junk "', None, None, None, 0), ("then do n't buy your kid deadly junk .", None, None, None, 1), ('Articles like this make it seem like parents have no control', None, None, None, 0), ('over what their children eat .', None, None, None, 1), ('If you teach your children about food', None, None, None, 0), ('being fuel', None, None, None, 0), ('and not being a source of simply pleasure ,', None, None, None, 0), ('they will make the right choices a majority of the time .', None, None, None, 1), ('Not saying', None, None, None, 0), ("a kid does n't deserve a treat ,", None, None, None, 0), ('but come on people .', None, None, None, 1)]]
+Leaf:  N Elaborate Okay seriously this is so dumb .
+Leaf:  N Elaborate If you do n't want your child
+Leaf:  S span eating " deadly junk "
+Inner:  S span None Elaborate NS
+Leaf:  N Condition then do n't buy your kid deadly junk .
+Inner:  S span None Condition SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Articles like this make it seem like parents have no control
+Leaf:  S span over what their children eat .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate If you teach your children about food
+Leaf:  N Joint being fuel
+Leaf:  N Joint and not being a source of simply pleasure ,
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Condition they will make the right choices a majority of the time .
+Inner:  N Elaborate None Condition SN
+Leaf:  S span Not saying
+Leaf:  N Attribution a kid does n't deserve a treat ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but come on people .
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Okay seriously this is so dumb .', None, None, None, 1), ("If you do n't want your child", None, None, None, 0), ('eating " deadly junk "', None, None, None, 0), ("then do n't buy your kid deadly junk .", None, None, None, 1), ('Articles like this make it seem like parents have no control', None, None, None, 0), ('over what their children eat .', None, None, None, 1), ('If you teach your children about food', None, None, None, 0), ('being fuel', None, None, None, 0), ('and not being a source of simply pleasure ,', None, None, None, 0), ('they will make the right choices a majority of the time .', None, None, None, 1), ('Not saying', None, None, None, 0), ("a kid does n't deserve a treat ,", None, None, None, 0), ('but come on people .', None, None, None, 1)]

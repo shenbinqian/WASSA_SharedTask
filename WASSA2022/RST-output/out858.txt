@@ -1,0 +1,25 @@
+=====================> [[('I had no earthly idea', None, None, None, 0), ('that Michael Douglas had battled oral cancer .', None, None, None, 1), ('I found out in an article', None, None, None, 0), ('talking about a remark', None, None, None, 0), ('he apparently made', None, None, None, 0), ('regarding Val Kilmer ,', None, None, None, 0), ('who ostensibly also may or may not be battling oral cancer .', None, None, None, 1), ('Setting aside the absurdity of the media', None, None, None, 0), ('relaying', None, None, None, 0), ('a he said-she said moment with no relevance to the greater world beyond the individuals', None, None, None, 0), ('to whom it applies ,', None, None, None, 0), ('it is terrifying to think how prevalent cancer is .', None, None, None, 1)]]
+Leaf:  S span I had no earthly idea
+Leaf:  N Attribution that Michael Douglas had battled oral cancer .
+Inner:  N Background None Attribution SN
+Leaf:  N Elaborate I found out in an article
+Leaf:  N Elaborate talking about a remark
+Leaf:  S span he apparently made
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate regarding Val Kilmer ,
+Leaf:  S span who ostensibly also may or may not be battling oral cancer .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate Setting aside the absurdity of the media
+Leaf:  S span relaying
+Leaf:  N Elaborate a he said-she said moment with no relevance to the greater world beyond the individuals
+Leaf:  S span to whom it applies ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast it is terrifying to think how prevalent cancer is .
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I had no earthly idea', None, None, None, 0), ('that Michael Douglas had battled oral cancer .', None, None, None, 1), ('I found out in an article', None, None, None, 0), ('talking about a remark', None, None, None, 0), ('he apparently made', None, None, None, 0), ('regarding Val Kilmer ,', None, None, None, 0), ('who ostensibly also may or may not be battling oral cancer .', None, None, None, 1), ('Setting aside the absurdity of the media', None, None, None, 0), ('relaying', None, None, None, 0), ('a he said-she said moment with no relevance to the greater world beyond the individuals', None, None, None, 0), ('to whom it applies ,', None, None, None, 0), ('it is terrifying to think how prevalent cancer is .', None, None, None, 1)]

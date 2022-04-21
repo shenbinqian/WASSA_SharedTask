@@ -1,0 +1,39 @@
+=====================> [[('It is very tragic to hear this news', None, None, None, 0), ('regarding the circumstances', None, None, None, 0), ('that many animals are facing in various zoos across the globe .', None, None, None, 1), ('It seems that human nature is causing these animals to be subjected to lives', None, None, None, 0), ("they should n't", None, None, None, 0), ('have to endure .', None, None, None, 1), ('If they were released into nature', None, None, None, 0), ('then maybe they would have a fighting chance but at the same time , most of them have been raised in the zoo', None, None, None, 0), ('perhaps so their " social skills " in nature may be quite the detriment as well . I just wish', None, None, None, 0), ('that some organization', None, None, None, 0), ('( s )', None, None, None, 0), ('could rescue them', None, None, None, 0), ('and take care of them the way', None, None, None, 0), ('they ought to be . No animal should really have to live in a zoo ,', None, None, None, 0), ('to begin with ,', None, None, None, 0), ('and now they are suffering from malnourishment and lack of care .', None, None, None, 1), ('It is tragic to read about this', None, None, None, 0), ('but it is the world', None, None, None, 0), ('in which we live .', None, None, None, 1)]]
+Leaf:  N Elaborate It is very tragic to hear this news
+Leaf:  N Elaborate regarding the circumstances
+Leaf:  S span that many animals are facing in various zoos across the globe .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate It seems that human nature is causing these animals to be subjected to lives
+Leaf:  S span they should n't
+Leaf:  N Elaborate have to endure .
+Inner:  S span None Elaborate SN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span If they were released into nature
+Leaf:  N Condition then maybe they would have a fighting chance but at the same time , most of them have been raised in the zoo
+Inner:  S span None Condition SN
+Leaf:  S span perhaps so their " social skills " in nature may be quite the detriment as well . I just wish
+Leaf:  N Elaborate that some organization
+Leaf:  S span ( s )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit could rescue them
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and take care of them the way
+Leaf:  N Elaborate they ought to be . No animal should really have to live in a zoo ,
+Leaf:  S span to begin with ,
+Inner:  S span None Elaborate NS
+Inner:  N Background None Elaborate NS
+Leaf:  S span and now they are suffering from malnourishment and lack of care .
+Inner:  N Joint None Background NS
+Inner:  N Attribution None Joint NN
+Inner:  N Cause None Attribution SN
+Inner:  S span None Cause SN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation It is tragic to read about this
+Leaf:  N Elaborate but it is the world
+Leaf:  S span in which we live .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('It is very tragic to hear this news', None, None, None, 0), ('regarding the circumstances', None, None, None, 0), ('that many animals are facing in various zoos across the globe .', None, None, None, 1), ('It seems that human nature is causing these animals to be subjected to lives', None, None, None, 0), ("they should n't", None, None, None, 0), ('have to endure .', None, None, None, 1), ('If they were released into nature', None, None, None, 0), ('then maybe they would have a fighting chance but at the same time , most of them have been raised in the zoo', None, None, None, 0), ('perhaps so their " social skills " in nature may be quite the detriment as well . I just wish', None, None, None, 0), ('that some organization', None, None, None, 0), ('( s )', None, None, None, 0), ('could rescue them', None, None, None, 0), ('and take care of them the way', None, None, None, 0), ('they ought to be . No animal should really have to live in a zoo ,', None, None, None, 0), ('to begin with ,', None, None, None, 0), ('and now they are suffering from malnourishment and lack of care .', None, None, None, 1), ('It is tragic to read about this', None, None, None, 0), ('but it is the world', None, None, None, 0), ('in which we live .', None, None, None, 1)]

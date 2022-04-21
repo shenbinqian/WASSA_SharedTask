@@ -1,0 +1,31 @@
+=====================> [[('The US has done some super shady things .', None, None, None, 1), ('How we treated these people is horrible ,', None, None, None, 0), ("and I 'm not sure", None, None, None, 0), ("whether I 'm more upset", None, None, None, 0), ('or just feel bad for the Americans', None, None, None, 0), ('who went along with it .', None, None, None, 1), ('It sort of reminds me of the SS officers during WWII', None, None, None, 0), ('- like at some point it seems like they all realized', None, None, None, 0), ("what they were doing was n't kosher and definitely crossing ethical boundaries . Yet they all continued because ... .", None, None, None, 1), ('why ?', None, None, None, 1), ('I know', None, None, None, 0), ('the whole thing about the military is going along', None, None, None, 0), ('and just obeying orders', None, None, None, 0), ('but what was going on there', None, None, None, 0), ('was seriously seriously messed up .', None, None, None, 1)]]
+Leaf:  N Elaborate The US has done some super shady things .
+Leaf:  N Evaluation How we treated these people is horrible ,
+Leaf:  S span and I 'm not sure
+Leaf:  N Joint whether I 'm more upset
+Leaf:  N Elaborate or just feel bad for the Americans
+Leaf:  S span who went along with it .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background It sort of reminds me of the SS officers during WWII
+Leaf:  S span - like at some point it seems like they all realized
+Leaf:  N Attribution what they were doing was n't kosher and definitely crossing ethical boundaries . Yet they all continued because ... .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span why ?
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate I know
+Leaf:  N Joint the whole thing about the military is going along
+Leaf:  N Joint and just obeying orders
+Inner:  S span None Joint NN
+Leaf:  N Contrast but what was going on there
+Inner:  N Same-Unit None Contrast SN
+Leaf:  N Same-Unit was seriously seriously messed up .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('The US has done some super shady things .', None, None, None, 1), ('How we treated these people is horrible ,', None, None, None, 0), ("and I 'm not sure", None, None, None, 0), ("whether I 'm more upset", None, None, None, 0), ('or just feel bad for the Americans', None, None, None, 0), ('who went along with it .', None, None, None, 1), ('It sort of reminds me of the SS officers during WWII', None, None, None, 0), ('- like at some point it seems like they all realized', None, None, None, 0), ("what they were doing was n't kosher and definitely crossing ethical boundaries . Yet they all continued because ... .", None, None, None, 1), ('why ?', None, None, None, 1), ('I know', None, None, None, 0), ('the whole thing about the military is going along', None, None, None, 0), ('and just obeying orders', None, None, None, 0), ('but what was going on there', None, None, None, 0), ('was seriously seriously messed up .', None, None, None, 1)]

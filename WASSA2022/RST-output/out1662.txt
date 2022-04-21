@@ -1,0 +1,37 @@
+=====================> [[("I do n't know about Bayh .", None, None, None, 1), ('I kind of wish', None, None, None, 0), ("he had n't run again ;", None, None, None, 0), ("I 'm glad he 's not trying again this time .", None, None, None, 1), ('After reading this story ,', None, None, None, 0), ("it 's hard to feel sympathetic , even in retrospect . But the story confuses me , too .", None, None, None, 1), ("Did n't Bayh used to work for Fox News", None, None, None, 0), ('after he quit the Senate ?', None, None, None, 1), ("The story does n't even mention that .", None, None, None, 1), ('And it talks', None, None, None, 0), ('about how he was working for the banks', None, None, None, 0), ("but also embraced Obama 's position on banks ,", None, None, None, 0), ("which seem like mutually exclusive things . He did n't do anything great in the Senate ,", None, None, None, 0), ('but', None, None, None, 0), ('when he was governor ,', None, None, None, 0), ("he saved that lady 's daughter 's college career .", None, None, None, 1), ("It 's all very confusing ,", None, None, None, 0), ("but overall , I 'm glad he 's staying gone .", None, None, None, 1)]]
+Leaf:  N Evaluation I do n't know about Bayh .
+Leaf:  S span I kind of wish
+Leaf:  N Attribution he had n't run again ;
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'm glad he 's not trying again this time .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span After reading this story ,
+Leaf:  N Temporal it 's hard to feel sympathetic , even in retrospect . But the story confuses me , too .
+Inner:  N Explanation None Temporal SN
+Leaf:  N Temporal Did n't Bayh used to work for Fox News
+Leaf:  S span after he quit the Senate ?
+Inner:  N Evaluation None Temporal NS
+Leaf:  N Joint The story does n't even mention that .
+Leaf:  S span And it talks
+Leaf:  N Joint about how he was working for the banks
+Leaf:  N Elaborate but also embraced Obama 's position on banks ,
+Leaf:  S span which seem like mutually exclusive things . He did n't do anything great in the Senate ,
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Same-Unit but
+Leaf:  S span when he was governor ,
+Leaf:  N Background he saved that lady 's daughter 's college career .
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation It 's all very confusing ,
+Leaf:  S span but overall , I 'm glad he 's staying gone .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("I do n't know about Bayh .", None, None, None, 1), ('I kind of wish', None, None, None, 0), ("he had n't run again ;", None, None, None, 0), ("I 'm glad he 's not trying again this time .", None, None, None, 1), ('After reading this story ,', None, None, None, 0), ("it 's hard to feel sympathetic , even in retrospect . But the story confuses me , too .", None, None, None, 1), ("Did n't Bayh used to work for Fox News", None, None, None, 0), ('after he quit the Senate ?', None, None, None, 1), ("The story does n't even mention that .", None, None, None, 1), ('And it talks', None, None, None, 0), ('about how he was working for the banks', None, None, None, 0), ("but also embraced Obama 's position on banks ,", None, None, None, 0), ("which seem like mutually exclusive things . He did n't do anything great in the Senate ,", None, None, None, 0), ('but', None, None, None, 0), ('when he was governor ,', None, None, None, 0), ("he saved that lady 's daughter 's college career .", None, None, None, 1), ("It 's all very confusing ,", None, None, None, 0), ("but overall , I 'm glad he 's staying gone .", None, None, None, 1)]

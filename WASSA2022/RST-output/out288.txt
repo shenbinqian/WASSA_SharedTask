@@ -1,0 +1,33 @@
+=====================> [[("I do n't really feel much of anything at all", None, None, None, 0), ('reading this ,', None, None, None, 0), ('I think', None, None, None, 0), ('celebrity deaths are so common in the news', None, None, None, 0), ('that it is really difficult to conjure up any emotion about them .', None, None, None, 1), ('I guess I feel mild interest ?', None, None, None, 1), ('I learned a few facts about the singer of a song', None, None, None, 0), ('I have heard fairly often over the years ,', None, None, None, 0), ('so it is interesting to have new information ,', None, None, None, 0), ('which always feels rewarding in a way .', None, None, None, 1), ('I guess I should feel sad', None, None, None, 0), ("but I just do n't think", None, None, None, 0), ("it 's possible for me to feel sadness every time", None, None, None, 0), ('I read about someone', None, None, None, 0), ('being dead .', None, None, None, 1), ('It makes me feel a bit tired I suppose .', None, None, None, 1)]]
+Leaf:  N Background I do n't really feel much of anything at all
+Leaf:  S span reading this ,
+Inner:  N Explanation None Background NS
+Leaf:  S span I think
+Leaf:  S span celebrity deaths are so common in the news
+Leaf:  N Cause that it is really difficult to conjure up any emotion about them .
+Inner:  N Attribution None Cause SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I guess I feel mild interest ?
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I learned a few facts about the singer of a song
+Leaf:  S span I have heard fairly often over the years ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation so it is interesting to have new information ,
+Leaf:  S span which always feels rewarding in a way .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast I guess I should feel sad
+Leaf:  S span but I just do n't think
+Leaf:  N Elaborate it 's possible for me to feel sadness every time
+Leaf:  N Elaborate I read about someone
+Leaf:  S span being dead .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span It makes me feel a bit tired I suppose .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("I do n't really feel much of anything at all", None, None, None, 0), ('reading this ,', None, None, None, 0), ('I think', None, None, None, 0), ('celebrity deaths are so common in the news', None, None, None, 0), ('that it is really difficult to conjure up any emotion about them .', None, None, None, 1), ('I guess I feel mild interest ?', None, None, None, 1), ('I learned a few facts about the singer of a song', None, None, None, 0), ('I have heard fairly often over the years ,', None, None, None, 0), ('so it is interesting to have new information ,', None, None, None, 0), ('which always feels rewarding in a way .', None, None, None, 1), ('I guess I should feel sad', None, None, None, 0), ("but I just do n't think", None, None, None, 0), ("it 's possible for me to feel sadness every time", None, None, None, 0), ('I read about someone', None, None, None, 0), ('being dead .', None, None, None, 1), ('It makes me feel a bit tired I suppose .', None, None, None, 1)]

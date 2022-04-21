@@ -1,0 +1,19 @@
+=====================> [[('This area has been devastated by natural disasters', None, None, None, 0), ('and it appears to only be getting worse .', None, None, None, 1), ("I ca n't believe the amount of disasters", None, None, None, 0), ('that appear to be concentrated in one place , and the resilience', None, None, None, 0), ('that the citizens have shown', None, None, None, 0), ('to survive .', None, None, None, 1), ("I also ca n't believe the looting and break-ins", None, None, None, 0), ('that have been reported in the area ,', None, None, None, 0), ('what kind of people steal from those in need ?', None, None, None, 1)]]
+Leaf:  S span This area has been devastated by natural disasters
+Leaf:  N Cause and it appears to only be getting worse .
+Inner:  N Summary None Cause SN
+Leaf:  N Elaborate I ca n't believe the amount of disasters
+Leaf:  N Elaborate that appear to be concentrated in one place , and the resilience
+Leaf:  N Elaborate that the citizens have shown
+Leaf:  S span to survive .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate I also ca n't believe the looting and break-ins
+Leaf:  S span that have been reported in the area ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span what kind of people steal from those in need ?
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Summary NS
+[('This area has been devastated by natural disasters', None, None, None, 0), ('and it appears to only be getting worse .', None, None, None, 1), ("I ca n't believe the amount of disasters", None, None, None, 0), ('that appear to be concentrated in one place , and the resilience', None, None, None, 0), ('that the citizens have shown', None, None, None, 0), ('to survive .', None, None, None, 1), ("I also ca n't believe the looting and break-ins", None, None, None, 0), ('that have been reported in the area ,', None, None, None, 0), ('what kind of people steal from those in need ?', None, None, None, 1)]

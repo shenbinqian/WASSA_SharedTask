@@ -1,0 +1,21 @@
+=====================> [[('I just read this article about the doom of bananas', None, None, None, 0), ('that made me feel like an idiot .', None, None, None, 1), ('I like to think', None, None, None, 0), ('i am smart enough', None, None, None, 0), ('to process this type of article', None, None, None, 0), ('but the words used just had me lost .', None, None, None, 1), ("I would n't bother reading it", None, None, None, 0), ('if you still planned on it .', None, None, None, 1), ('It was informative', None, None, None, 0), ('but i felt like i was reading a manual .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about the doom of bananas
+Leaf:  S span that made me feel like an idiot .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I like to think
+Leaf:  N Elaborate i am smart enough
+Leaf:  S span to process this type of article
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but the words used just had me lost .
+Inner:  N Attribution None Contrast SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition I would n't bother reading it
+Leaf:  S span if you still planned on it .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Contrast It was informative
+Leaf:  S span but i felt like i was reading a manual .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read this article about the doom of bananas', None, None, None, 0), ('that made me feel like an idiot .', None, None, None, 1), ('I like to think', None, None, None, 0), ('i am smart enough', None, None, None, 0), ('to process this type of article', None, None, None, 0), ('but the words used just had me lost .', None, None, None, 1), ("I would n't bother reading it", None, None, None, 0), ('if you still planned on it .', None, None, None, 1), ('It was informative', None, None, None, 0), ('but i felt like i was reading a manual .', None, None, None, 1)]

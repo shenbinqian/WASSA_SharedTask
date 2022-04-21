@@ -1,0 +1,21 @@
+=====================> [[('I just read about a car crash in Prince Georges County , near Clinton .', None, None, None, 1), ('It involved three vehicles', None, None, None, 0), ('and it happened at the tail end of rush hour .', None, None, None, 1), ('It said', None, None, None, 0), ('that one woman was critically injured ,', None, None, None, 0), ('but I wonder', None, None, None, 0), ('if the passengers in the other two vehicles were injured .', None, None, None, 1), ('Maryland drivers suck .', None, None, None, 1), ('I avoid anywhere near DC', None, None, None, 0), ('since the roads are not conducive to safe driving .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about a car crash in Prince Georges County , near Clinton .
+Leaf:  N Elaborate It involved three vehicles
+Leaf:  S span and it happened at the tail end of rush hour .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It said
+Leaf:  N Attribution that one woman was critically injured ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I wonder
+Leaf:  N Attribution if the passengers in the other two vehicles were injured .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Explanation Maryland drivers suck .
+Leaf:  N Cause I avoid anywhere near DC
+Leaf:  S span since the roads are not conducive to safe driving .
+Inner:  S span None Cause NS
+Inner:  N Textual-Organization None Explanation NS
+Inner:  Root None None Textual-Organization NN
+[('I just read about a car crash in Prince Georges County , near Clinton .', None, None, None, 1), ('It involved three vehicles', None, None, None, 0), ('and it happened at the tail end of rush hour .', None, None, None, 1), ('It said', None, None, None, 0), ('that one woman was critically injured ,', None, None, None, 0), ('but I wonder', None, None, None, 0), ('if the passengers in the other two vehicles were injured .', None, None, None, 1), ('Maryland drivers suck .', None, None, None, 1), ('I avoid anywhere near DC', None, None, None, 0), ('since the roads are not conducive to safe driving .', None, None, None, 1)]

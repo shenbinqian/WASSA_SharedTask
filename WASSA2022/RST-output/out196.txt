@@ -1,0 +1,21 @@
+=====================> [[('According to a new study ,', None, None, None, 0), ('the polar regions are continuing to melt .', None, None, None, 1), ('In a decade , a lot of the ice melted .', None, None, None, 1), ('This situation is really affecting polar bears', None, None, None, 0), ('because they live in that environment .', None, None, None, 1), ('I found out', None, None, None, 0), ('that they ambush seals', None, None, None, 0), ('as they come up out of the water .', None, None, None, 1), ('Whether we can change this trend or not , I am not sure', None, None, None, 0), ('about but we should try .', None, None, None, 1)]]
+Leaf:  S span According to a new study ,
+Leaf:  N Attribution the polar regions are continuing to melt .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span In a decade , a lot of the ice melted .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation This situation is really affecting polar bears
+Leaf:  S span because they live in that environment .
+Inner:  N Explanation None Explanation NS
+Leaf:  S span I found out
+Leaf:  N Temporal that they ambush seals
+Leaf:  N Temporal as they come up out of the water .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Whether we can change this trend or not , I am not sure
+Leaf:  N Attribution about but we should try .
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('According to a new study ,', None, None, None, 0), ('the polar regions are continuing to melt .', None, None, None, 1), ('In a decade , a lot of the ice melted .', None, None, None, 1), ('This situation is really affecting polar bears', None, None, None, 0), ('because they live in that environment .', None, None, None, 1), ('I found out', None, None, None, 0), ('that they ambush seals', None, None, None, 0), ('as they come up out of the water .', None, None, None, 1), ('Whether we can change this trend or not , I am not sure', None, None, None, 0), ('about but we should try .', None, None, None, 1)]

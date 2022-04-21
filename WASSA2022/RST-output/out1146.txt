@@ -1,0 +1,23 @@
+=====================> [[('Hey , I saw your post about people', None, None, None, 0), ('harming the environment', None, None, None, 0), ('and I definitely agree with you .', None, None, None, 1), ('Just take a look at this article', None, None, None, 0), ('- it talks about how foods are being wasted', None, None, None, 0), ('and it can potentially harm the environment .', None, None, None, 1), ('Since so many people do not care about the environment', None, None, None, 0), ('or do not know the effects', None, None, None, 0), ('of harming the environment ,', None, None, None, 0), ('how about you and see set up some program', None, None, None, 0), ('that would help improve the environment ?', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , I saw your post about people
+Leaf:  S span harming the environment
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and I definitely agree with you .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Just take a look at this article
+Leaf:  N Joint - it talks about how foods are being wasted
+Leaf:  N Joint and it can potentially harm the environment .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Since so many people do not care about the environment
+Leaf:  N Elaborate or do not know the effects
+Leaf:  S span of harming the environment ,
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Leaf:  N Elaborate how about you and see set up some program
+Leaf:  S span that would help improve the environment ?
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('Hey , I saw your post about people', None, None, None, 0), ('harming the environment', None, None, None, 0), ('and I definitely agree with you .', None, None, None, 1), ('Just take a look at this article', None, None, None, 0), ('- it talks about how foods are being wasted', None, None, None, 0), ('and it can potentially harm the environment .', None, None, None, 1), ('Since so many people do not care about the environment', None, None, None, 0), ('or do not know the effects', None, None, None, 0), ('of harming the environment ,', None, None, None, 0), ('how about you and see set up some program', None, None, None, 0), ('that would help improve the environment ?', None, None, None, 1)]

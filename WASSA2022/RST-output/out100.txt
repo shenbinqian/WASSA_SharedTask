@@ -1,0 +1,25 @@
+=====================> [[('As we all know', None, None, None, 0), (', there has been much media on police brutality .', None, None, None, 1), ('There are many police officers', None, None, None, 0), ('that believe', None, None, None, 0), ('they are above the law ,', None, None, None, 0), ("and the common citizens does n't have any rights", None, None, None, 0), ('when they are interacting with them .', None, None, None, 1), ("Unfortunately , it 's very sad to say , that even if a citizen is innocent ,", None, None, None, 0), ("if they do n't cooperate to the fullest ,", None, None, None, 0), ('the police can physically harm them , even possibly lead to being shot and killed . This is very scary ! So ,', None, None, None, 0), ("while I do n't believe all officers are like this ,", None, None, None, 0), ('one is too many !', None, None, None, 1)]]
+Leaf:  S span As we all know
+Leaf:  N Background , there has been much media on police brutality .
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate There are many police officers
+Leaf:  S span that believe
+Leaf:  N Attribution they are above the law ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Background and the common citizens does n't have any rights
+Leaf:  S span when they are interacting with them .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Same-Unit Unfortunately , it 's very sad to say , that even if a citizen is innocent ,
+Leaf:  S span if they do n't cooperate to the fullest ,
+Leaf:  N Condition the police can physically harm them , even possibly lead to being shot and killed . This is very scary ! So ,
+Inner:  N Same-Unit None Condition SN
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  S span while I do n't believe all officers are like this ,
+Leaf:  N Contrast one is too many !
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('As we all know', None, None, None, 0), (', there has been much media on police brutality .', None, None, None, 1), ('There are many police officers', None, None, None, 0), ('that believe', None, None, None, 0), ('they are above the law ,', None, None, None, 0), ("and the common citizens does n't have any rights", None, None, None, 0), ('when they are interacting with them .', None, None, None, 1), ("Unfortunately , it 's very sad to say , that even if a citizen is innocent ,", None, None, None, 0), ("if they do n't cooperate to the fullest ,", None, None, None, 0), ('the police can physically harm them , even possibly lead to being shot and killed . This is very scary ! So ,', None, None, None, 0), ("while I do n't believe all officers are like this ,", None, None, None, 0), ('one is too many !', None, None, None, 1)]

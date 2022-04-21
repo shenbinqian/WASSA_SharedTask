@@ -1,0 +1,35 @@
+=====================> [[('It is really sad the way', None, None, None, 0), ('that people only see one side of the story of the Afghan war .', None, None, None, 1), ('We only see things from our side of the pond ,', None, None, None, 0), ('and we see the good , but not all of the bad', None, None, None, 0), ('that we do , as a country .', None, None, None, 1), ('We tend to think of things , in generalities , and lump groups of people', None, None, None, 0), ('who live in a common area , into one pile of terrorists .', None, None, None, 1), ('There are plenty of people in Afghanistan', None, None, None, 0), ('who are against eh taliban ,', None, None, None, 0), ('and we dont see the damage', None, None, None, 0), ('that we are doing', None, None, None, 0), ('by hitting them with drone strikes . Most casualties in wars are civilians ,', None, None, None, 0), ('who had nothing to do with the conflict itself . There are always conflicting stories about the death tolls .', None, None, None, 1), ('I believe', None, None, None, 0), ('it is used to de-escalate our fears', None, None, None, 0), ('that , we , as a country , are doing something', None, None, None, 0), ('that could actually turn out to be very harmful instead of helpful', None, None, None, 0)]]
+Leaf:  N Elaborate It is really sad the way
+Leaf:  S span that people only see one side of the story of the Afghan war .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint We only see things from our side of the pond ,
+Leaf:  N Elaborate and we see the good , but not all of the bad
+Leaf:  S span that we do , as a country .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate We tend to think of things , in generalities , and lump groups of people
+Leaf:  S span who live in a common area , into one pile of terrorists .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There are plenty of people in Afghanistan
+Leaf:  S span who are against eh taliban ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and we dont see the damage
+Leaf:  S span that we are doing
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  N Elaborate by hitting them with drone strikes . Most casualties in wars are civilians ,
+Leaf:  S span who had nothing to do with the conflict itself . There are always conflicting stories about the death tolls .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Manner-Means NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I believe
+Leaf:  N Elaborate it is used to de-escalate our fears
+Leaf:  N Elaborate that , we , as a country , are doing something
+Leaf:  S span that could actually turn out to be very harmful instead of helpful
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('It is really sad the way', None, None, None, 0), ('that people only see one side of the story of the Afghan war .', None, None, None, 1), ('We only see things from our side of the pond ,', None, None, None, 0), ('and we see the good , but not all of the bad', None, None, None, 0), ('that we do , as a country .', None, None, None, 1), ('We tend to think of things , in generalities , and lump groups of people', None, None, None, 0), ('who live in a common area , into one pile of terrorists .', None, None, None, 1), ('There are plenty of people in Afghanistan', None, None, None, 0), ('who are against eh taliban ,', None, None, None, 0), ('and we dont see the damage', None, None, None, 0), ('that we are doing', None, None, None, 0), ('by hitting them with drone strikes . Most casualties in wars are civilians ,', None, None, None, 0), ('who had nothing to do with the conflict itself . There are always conflicting stories about the death tolls .', None, None, None, 1), ('I believe', None, None, None, 0), ('it is used to de-escalate our fears', None, None, None, 0), ('that , we , as a country , are doing something', None, None, None, 0), ('that could actually turn out to be very harmful instead of helpful', None, None, None, 0)]

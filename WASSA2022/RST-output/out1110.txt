@@ -1,0 +1,27 @@
+=====================> [[('People', None, None, None, 0), ('working in Financial institutions', None, None, None, 0), ('or banks should be honest', None, None, None, 0), ('and do what is morally right .', None, None, None, 1), ('Workers', None, None, None, 0), ('who opened fake accounts should be fired ,', None, None, None, 0), ('that is unethical .', None, None, None, 1), ('No one would be expecting such a huge scam at Wells Fargo .', None, None, None, 1), ('I am deeply saddened ,', None, None, None, 0), ('I have an account with Wells Fargo .', None, None, None, 1), ('I have to be paying close attention to my account ,', None, None, None, 0), ('one never knows', None, None, None, 0), ('when something will go wrong .', None, None, None, 1)]]
+Leaf:  N Elaborate People
+Leaf:  S span working in Financial institutions
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint or banks should be honest
+Leaf:  N Joint and do what is morally right .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate Workers
+Leaf:  S span who opened fake accounts should be fired ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span that is unethical .
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate No one would be expecting such a huge scam at Wells Fargo .
+Leaf:  N Elaborate I am deeply saddened ,
+Leaf:  S span I have an account with Wells Fargo .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I have to be paying close attention to my account ,
+Leaf:  S span one never knows
+Leaf:  N Attribution when something will go wrong .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('People', None, None, None, 0), ('working in Financial institutions', None, None, None, 0), ('or banks should be honest', None, None, None, 0), ('and do what is morally right .', None, None, None, 1), ('Workers', None, None, None, 0), ('who opened fake accounts should be fired ,', None, None, None, 0), ('that is unethical .', None, None, None, 1), ('No one would be expecting such a huge scam at Wells Fargo .', None, None, None, 1), ('I am deeply saddened ,', None, None, None, 0), ('I have an account with Wells Fargo .', None, None, None, 1), ('I have to be paying close attention to my account ,', None, None, None, 0), ('one never knows', None, None, None, 0), ('when something will go wrong .', None, None, None, 1)]

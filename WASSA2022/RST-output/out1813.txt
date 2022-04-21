@@ -1,0 +1,15 @@
+=====================> [[('I read an article about the Loud Music Shooter , not sure', None, None, None, 0), ("if you 've heard about this case in Florida .", None, None, None, 1), ("It seems like they 've upheld the murder conviction for the man", None, None, None, 0), ('who shot a black teen during an argument', None, None, None, 0), ('about loud music', None, None, None, 0), ('being played .', None, None, None, 1), ('It did seem more like murder and not so much like an actual self-defense situation .', None, None, None, 1)]]
+Leaf:  S span I read an article about the Loud Music Shooter , not sure
+Leaf:  N Attribution if you 've heard about this case in Florida .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It seems like they 've upheld the murder conviction for the man
+Leaf:  S span who shot a black teen during an argument
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate about loud music
+Leaf:  S span being played .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It did seem more like murder and not so much like an actual self-defense situation .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I read an article about the Loud Music Shooter , not sure', None, None, None, 0), ("if you 've heard about this case in Florida .", None, None, None, 1), ("It seems like they 've upheld the murder conviction for the man", None, None, None, 0), ('who shot a black teen during an argument', None, None, None, 0), ('about loud music', None, None, None, 0), ('being played .', None, None, None, 1), ('It did seem more like murder and not so much like an actual self-defense situation .', None, None, None, 1)]

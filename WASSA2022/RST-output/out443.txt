@@ -1,0 +1,17 @@
+=====================> [[('this is all about politics', None, None, None, 0), ('it talks about the like of Janet Reno , first female US attorney general', None, None, None, 0), ('who dies at 78 —', None, None, None, 0), ('anet Reno , former US attorney general under President Bill Clinton , died Monday morning', None, None, None, 0), ("following a long battle with Parkinson 's disease ,", None, None, None, 0), ('her sister Maggy Hurchalla said .', None, None, None, 1), ('She was 78 .', None, None, None, 1), ("Reno , the nation 's first-ever female attorney general , served in the Clinton White House from 1993 to 2001", None, None, None, 0)]]
+Leaf:  S span this is all about politics
+Leaf:  N Elaborate it talks about the like of Janet Reno , first female US attorney general
+Leaf:  S span who dies at 78 —
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Manner-Means anet Reno , former US attorney general under President Bill Clinton , died Monday morning
+Leaf:  S span following a long battle with Parkinson 's disease ,
+Inner:  N Attribution None Manner-Means NS
+Leaf:  S span her sister Maggy Hurchalla said .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span She was 78 .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Reno , the nation 's first-ever female attorney general , served in the Clinton White House from 1993 to 2001
+Inner:  Root None None Elaborate NS
+[('this is all about politics', None, None, None, 0), ('it talks about the like of Janet Reno , first female US attorney general', None, None, None, 0), ('who dies at 78 —', None, None, None, 0), ('anet Reno , former US attorney general under President Bill Clinton , died Monday morning', None, None, None, 0), ("following a long battle with Parkinson 's disease ,", None, None, None, 0), ('her sister Maggy Hurchalla said .', None, None, None, 1), ('She was 78 .', None, None, None, 1), ("Reno , the nation 's first-ever female attorney general , served in the Clinton White House from 1993 to 2001", None, None, None, 0)]

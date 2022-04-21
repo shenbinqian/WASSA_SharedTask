@@ -1,0 +1,33 @@
+=====================> [[('Dear god friend , Let me tell you ,', None, None, None, 0), ('this is just disgusting .', None, None, None, 1), ('Poor animals .', None, None, None, 1), ('We continue to damage the environment', None, None, None, 0), ('and this tug boat company just says oh my apologies and thanks for cleaning up my mess .', None, None, None, 1), ('After they destroyed ecological habitats', None, None, None, 0), ('and caused damage to almost extinct species .', None, None, None, 1), ('The company should be fined millions of dollars', None, None, None, 0), ('and be in some serious deep water', None, None, None, 0), ('no pun intended . I know you agree man .', None, None, None, 1), ('I hate to see animals hurt', None, None, None, 0), ('and just the negligence is enough', None, None, None, 0), ('to make me want to go out there myself .', None, None, None, 1), ('WE need to take care of this planet for once effectively', None, None, None, 0), ('and I know', None, None, None, 0), ('you agree with me .', None, None, None, 1)]]
+Leaf:  S span Dear god friend , Let me tell you ,
+Leaf:  N Attribution this is just disgusting .
+Inner:  N Summary None Attribution SN
+Leaf:  S span Poor animals .
+Inner:  N Elaborate None Summary NS
+Leaf:  S span We continue to damage the environment
+Leaf:  N Background and this tug boat company just says oh my apologies and thanks for cleaning up my mess .
+Leaf:  N Joint After they destroyed ecological habitats
+Leaf:  N Joint and caused damage to almost extinct species .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint The company should be fined millions of dollars
+Leaf:  N Joint and be in some serious deep water
+Inner:  N Attribution None Joint NN
+Leaf:  S span no pun intended . I know you agree man .
+Inner:  S span None Attribution NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint I hate to see animals hurt
+Leaf:  N Elaborate and just the negligence is enough
+Leaf:  S span to make me want to go out there myself .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Background None Evaluation NS
+Inner:  S span None Background SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint WE need to take care of this planet for once effectively
+Leaf:  S span and I know
+Leaf:  N Attribution you agree with me .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Dear god friend , Let me tell you ,', None, None, None, 0), ('this is just disgusting .', None, None, None, 1), ('Poor animals .', None, None, None, 1), ('We continue to damage the environment', None, None, None, 0), ('and this tug boat company just says oh my apologies and thanks for cleaning up my mess .', None, None, None, 1), ('After they destroyed ecological habitats', None, None, None, 0), ('and caused damage to almost extinct species .', None, None, None, 1), ('The company should be fined millions of dollars', None, None, None, 0), ('and be in some serious deep water', None, None, None, 0), ('no pun intended . I know you agree man .', None, None, None, 1), ('I hate to see animals hurt', None, None, None, 0), ('and just the negligence is enough', None, None, None, 0), ('to make me want to go out there myself .', None, None, None, 1), ('WE need to take care of this planet for once effectively', None, None, None, 0), ('and I know', None, None, None, 0), ('you agree with me .', None, None, None, 1)]

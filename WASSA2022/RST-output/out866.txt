@@ -1,0 +1,35 @@
+=====================> [[('This is just such a sad situation .', None, None, None, 1), ('I wish', None, None, None, 0), ('they had been able to find out more', None, None, None, 0), ('when they investigated ,', None, None, None, 0), ("but I guess they ca n't always get it right .", None, None, None, 1), ('I really feel for the father .', None, None, None, 1), ('He did what he could', None, None, None, 0), ('to stop his son', None, None, None, 0), ("and he was n't able to . It reminds me of a certain person", None, None, None, 0), ('I know', None, None, None, 0), ('whose family member was involved in a different kind of violent extremism .', None, None, None, 1), ('Sometimes people', None, None, None, 0), ('you love', None, None, None, 0), ('go on terrible paths', None, None, None, 0), ("and you do n't have enough information", None, None, None, 0), ('to do anything', None, None, None, 0), ("until it 's too late .", None, None, None, 1)]]
+Leaf:  N Evaluation This is just such a sad situation .
+Leaf:  S span I wish
+Leaf:  N Background they had been able to find out more
+Leaf:  S span when they investigated ,
+Inner:  N Attribution None Background NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I guess they ca n't always get it right .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate I really feel for the father .
+Leaf:  N Enablement He did what he could
+Leaf:  S span to stop his son
+Inner:  N Contrast None Enablement NS
+Leaf:  N Elaborate and he was n't able to . It reminds me of a certain person
+Leaf:  N Elaborate I know
+Leaf:  S span whose family member was involved in a different kind of violent extremism .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Sometimes people
+Leaf:  S span you love
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit go on terrible paths
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate and you do n't have enough information
+Leaf:  N Contrast to do anything
+Leaf:  S span until it 's too late .
+Inner:  S span None Contrast NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This is just such a sad situation .', None, None, None, 1), ('I wish', None, None, None, 0), ('they had been able to find out more', None, None, None, 0), ('when they investigated ,', None, None, None, 0), ("but I guess they ca n't always get it right .", None, None, None, 1), ('I really feel for the father .', None, None, None, 1), ('He did what he could', None, None, None, 0), ('to stop his son', None, None, None, 0), ("and he was n't able to . It reminds me of a certain person", None, None, None, 0), ('I know', None, None, None, 0), ('whose family member was involved in a different kind of violent extremism .', None, None, None, 1), ('Sometimes people', None, None, None, 0), ('you love', None, None, None, 0), ('go on terrible paths', None, None, None, 0), ("and you do n't have enough information", None, None, None, 0), ('to do anything', None, None, None, 0), ("until it 's too late .", None, None, None, 1)]

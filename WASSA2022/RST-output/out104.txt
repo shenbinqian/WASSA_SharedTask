@@ -1,0 +1,27 @@
+=====================> [[("Ugh have you seen what 's going on in New Delhi ?", None, None, None, 1), ('The air pollution over there is horrible', None, None, None, 0), ('and so many people are getting seriously sick !', None, None, None, 1), ('They are calling the city a gas chamber', None, None, None, 0), ('because the air quality is so bad .', None, None, None, 1), ("I 'm so glad", None, None, None, 0), ("we do n't have to deal with that around here", None, None, None, 0), ('but I really feel for all of the children', None, None, None, 0), ('who are being affected by all of this .', None, None, None, 1), ("I ca n't imagine how helpless parents feel", None, None, None, 0), ("when there 's nothing", None, None, None, 0), ('they can do', None, None, None, 0), ('to help their kids .', None, None, None, 1)]]
+Leaf:  N Elaborate Ugh have you seen what 's going on in New Delhi ?
+Leaf:  N Cause The air pollution over there is horrible
+Leaf:  S span and so many people are getting seriously sick !
+Inner:  N Cause None Cause NS
+Leaf:  N Cause They are calling the city a gas chamber
+Leaf:  S span because the air quality is so bad .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I 'm so glad
+Leaf:  N Attribution we do n't have to deal with that around here
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but I really feel for all of the children
+Leaf:  S span who are being affected by all of this .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Background I ca n't imagine how helpless parents feel
+Leaf:  N Elaborate when there 's nothing
+Leaf:  N Enablement they can do
+Leaf:  S span to help their kids .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("Ugh have you seen what 's going on in New Delhi ?", None, None, None, 1), ('The air pollution over there is horrible', None, None, None, 0), ('and so many people are getting seriously sick !', None, None, None, 1), ('They are calling the city a gas chamber', None, None, None, 0), ('because the air quality is so bad .', None, None, None, 1), ("I 'm so glad", None, None, None, 0), ("we do n't have to deal with that around here", None, None, None, 0), ('but I really feel for all of the children', None, None, None, 0), ('who are being affected by all of this .', None, None, None, 1), ("I ca n't imagine how helpless parents feel", None, None, None, 0), ("when there 's nothing", None, None, None, 0), ('they can do', None, None, None, 0), ('to help their kids .', None, None, None, 1)]

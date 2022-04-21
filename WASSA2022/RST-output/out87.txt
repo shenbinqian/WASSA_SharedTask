@@ -1,0 +1,29 @@
+=====================> [[('This article greatly disturbs me .', None, None, None, 1), ('The fact', None, None, None, 0), ('that we treat Muslims and people of their culture like dogs and terrorist is disgusting and wrong both morally and ethically .', None, None, None, 1), ('The way', None, None, None, 0), ('they are being shown on tv and media', None, None, None, 0), ('is wrong and horrible . Our president thinks', None, None, None, 0), ('that if we ban muslims from the country ,', None, None, None, 0), ('all of a sudden our nation is safe .', None, None, None, 1), ('When the fact of the matter is , most shootings', None, None, None, 0), ('that happen in this country ,', None, None, None, 0), ('are from Caucasians .', None, None, None, 1), ('Muslims are shown in bad light', None, None, None, 0), ('due to some extremist', None, None, None, 0), ('and they do not deserve this treatment .', None, None, None, 1)]]
+Leaf:  N Explanation This article greatly disturbs me .
+Leaf:  N Elaborate The fact
+Leaf:  S span that we treat Muslims and people of their culture like dogs and terrorist is disgusting and wrong both morally and ethically .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate The way
+Leaf:  S span they are being shown on tv and media
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is wrong and horrible . Our president thinks
+Inner:  S span None Same-Unit NN
+Leaf:  S span that if we ban muslims from the country ,
+Leaf:  N Condition all of a sudden our nation is safe .
+Inner:  N Attribution None Condition SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate When the fact of the matter is , most shootings
+Leaf:  S span that happen in this country ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are from Caucasians .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Contrast NS
+Inner:  N Joint None Joint NN
+Leaf:  N Cause Muslims are shown in bad light
+Leaf:  S span due to some extremist
+Inner:  N Evaluation None Cause NS
+Leaf:  S span and they do not deserve this treatment .
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('This article greatly disturbs me .', None, None, None, 1), ('The fact', None, None, None, 0), ('that we treat Muslims and people of their culture like dogs and terrorist is disgusting and wrong both morally and ethically .', None, None, None, 1), ('The way', None, None, None, 0), ('they are being shown on tv and media', None, None, None, 0), ('is wrong and horrible . Our president thinks', None, None, None, 0), ('that if we ban muslims from the country ,', None, None, None, 0), ('all of a sudden our nation is safe .', None, None, None, 1), ('When the fact of the matter is , most shootings', None, None, None, 0), ('that happen in this country ,', None, None, None, 0), ('are from Caucasians .', None, None, None, 1), ('Muslims are shown in bad light', None, None, None, 0), ('due to some extremist', None, None, None, 0), ('and they do not deserve this treatment .', None, None, None, 1)]

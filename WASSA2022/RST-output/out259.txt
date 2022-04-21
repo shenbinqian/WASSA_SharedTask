@@ -1,0 +1,19 @@
+=====================> [[('They should really figure out', None, None, None, 0), ('if these earthquakes are due to fracking wastewater ,', None, None, None, 0), ('and if so stop the practice .', None, None, None, 1), ('Politicians are n’t', None, None, None, 0), ('concerned about the plight of the ordinary people though .', None, None, None, 1), ('Fracking companies have lobbyists and money ,', None, None, None, 0), ('while the victims of the earthquakes have neither .', None, None, None, 1), ('Ultimately nothing will get addressed', None, None, None, 0), ('unless something catastrophic happens .', None, None, None, 1)]]
+Leaf:  S span They should really figure out
+Leaf:  N Temporal if these earthquakes are due to fracking wastewater ,
+Leaf:  N Temporal and if so stop the practice .
+Inner:  N Attribution None Temporal NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Politicians are n’t
+Leaf:  S span concerned about the plight of the ordinary people though .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Contrast Fracking companies have lobbyists and money ,
+Leaf:  N Contrast while the victims of the earthquakes have neither .
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Condition Ultimately nothing will get addressed
+Leaf:  S span unless something catastrophic happens .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('They should really figure out', None, None, None, 0), ('if these earthquakes are due to fracking wastewater ,', None, None, None, 0), ('and if so stop the practice .', None, None, None, 1), ('Politicians are n’t', None, None, None, 0), ('concerned about the plight of the ordinary people though .', None, None, None, 1), ('Fracking companies have lobbyists and money ,', None, None, None, 0), ('while the victims of the earthquakes have neither .', None, None, None, 1), ('Ultimately nothing will get addressed', None, None, None, 0), ('unless something catastrophic happens .', None, None, None, 1)]

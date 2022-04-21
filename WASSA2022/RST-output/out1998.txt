@@ -1,0 +1,25 @@
+=====================> [[('The first thing', None, None, None, 0), ('that stood out', None, None, None, 0), ('was the structure of the article .', None, None, None, 1), ('It is either poorly translated', None, None, None, 0), ('or someone just used Google Translations', None, None, None, 0), ('and left it at that .', None, None, None, 1), ('It is upsetting', None, None, None, 0), ('that overall the article keeps trying to find someone', None, None, None, 0), ('to blame for the incident .', None, None, None, 1), ('At least it mentions some efforts', None, None, None, 0), ("of what 's been done", None, None, None, 0), ('and what people need to be aware of .', None, None, None, 1)]]
+Leaf:  N Elaborate The first thing
+Leaf:  S span that stood out
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was the structure of the article .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint It is either poorly translated
+Leaf:  N Joint or someone just used Google Translations
+Leaf:  N Joint and left it at that .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is upsetting
+Leaf:  N Elaborate that overall the article keeps trying to find someone
+Leaf:  S span to blame for the incident .
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Elaborate At least it mentions some efforts
+Leaf:  N Joint of what 's been done
+Leaf:  N Joint and what people need to be aware of .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('The first thing', None, None, None, 0), ('that stood out', None, None, None, 0), ('was the structure of the article .', None, None, None, 1), ('It is either poorly translated', None, None, None, 0), ('or someone just used Google Translations', None, None, None, 0), ('and left it at that .', None, None, None, 1), ('It is upsetting', None, None, None, 0), ('that overall the article keeps trying to find someone', None, None, None, 0), ('to blame for the incident .', None, None, None, 1), ('At least it mentions some efforts', None, None, None, 0), ("of what 's been done", None, None, None, 0), ('and what people need to be aware of .', None, None, None, 1)]

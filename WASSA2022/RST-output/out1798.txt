@@ -1,0 +1,21 @@
+=====================> [[('Who cares about North Korea !', None, None, None, 1), ('I hope', None, None, None, 0), ('they all drowned .', None, None, None, 1), ('Waaah they are having a flood', None, None, None, 0), ('and hope the international community responds ? Please Billy . Maybe they should stop sending nuclear missiles over other countries .', None, None, None, 1), ('Maybe that fat butch head could eat less and send a couple dollars to the victims .', None, None, None, 1), ('I could care less about North Korea', None, None, None, 0), ('and am highly glad', None, None, None, 0), ('they are getting flooded .', None, None, None, 1), ('Serves them right .', None, None, None, 1)]]
+Leaf:  N Contrast Who cares about North Korea !
+Leaf:  S span I hope
+Leaf:  N Attribution they all drowned .
+Inner:  N Contrast None Attribution SN
+Inner:  N Textual-Organization None Contrast NN
+Leaf:  N Joint Waaah they are having a flood
+Leaf:  N Joint and hope the international community responds ? Please Billy . Maybe they should stop sending nuclear missiles over other countries .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Maybe that fat butch head could eat less and send a couple dollars to the victims .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint I could care less about North Korea
+Leaf:  S span and am highly glad
+Leaf:  N Attribution they are getting flooded .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Serves them right .
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Who cares about North Korea !', None, None, None, 1), ('I hope', None, None, None, 0), ('they all drowned .', None, None, None, 1), ('Waaah they are having a flood', None, None, None, 0), ('and hope the international community responds ? Please Billy . Maybe they should stop sending nuclear missiles over other countries .', None, None, None, 1), ('Maybe that fat butch head could eat less and send a couple dollars to the victims .', None, None, None, 1), ('I could care less about North Korea', None, None, None, 0), ('and am highly glad', None, None, None, 0), ('they are getting flooded .', None, None, None, 1), ('Serves them right .', None, None, None, 1)]

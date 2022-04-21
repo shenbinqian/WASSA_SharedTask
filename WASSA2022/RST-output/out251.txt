@@ -1,0 +1,25 @@
+=====================> [[('I just read the most terrible article about war and terrorism ,', None, None, None, 0), ("I could n't even imagine the fear", None, None, None, 0), ('these people are living .', None, None, None, 1), ('They are being forced from their homes by threats of death .', None, None, None, 1), ('The conditions in this area are terrible .', None, None, None, 1), ("They 're low on most supplies", None, None, None, 0), ('including food .', None, None, None, 1), ('So prices for everything are inflated to prices', None, None, None, 0), ("they ca n't even afford .", None, None, None, 1), ('I literally can not imagine at all living in a place like this .', None, None, None, 1), ('There are so many others senseless killings in that area already ,', None, None, None, 0), ('I would fear for the life of my family and myself !', None, None, None, 1)]]
+Leaf:  S span I just read the most terrible article about war and terrorism ,
+Leaf:  N Elaborate I could n't even imagine the fear
+Leaf:  S span these people are living .
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span They are being forced from their homes by threats of death .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The conditions in this area are terrible .
+Leaf:  N Elaborate They 're low on most supplies
+Leaf:  S span including food .
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate So prices for everything are inflated to prices
+Leaf:  S span they ca n't even afford .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I literally can not imagine at all living in a place like this .
+Leaf:  N Evaluation There are so many others senseless killings in that area already ,
+Leaf:  S span I would fear for the life of my family and myself !
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read the most terrible article about war and terrorism ,', None, None, None, 0), ("I could n't even imagine the fear", None, None, None, 0), ('these people are living .', None, None, None, 1), ('They are being forced from their homes by threats of death .', None, None, None, 1), ('The conditions in this area are terrible .', None, None, None, 1), ("They 're low on most supplies", None, None, None, 0), ('including food .', None, None, None, 1), ('So prices for everything are inflated to prices', None, None, None, 0), ("they ca n't even afford .", None, None, None, 1), ('I literally can not imagine at all living in a place like this .', None, None, None, 1), ('There are so many others senseless killings in that area already ,', None, None, None, 0), ('I would fear for the life of my family and myself !', None, None, None, 1)]

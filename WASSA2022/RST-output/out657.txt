@@ -1,0 +1,17 @@
+=====================> [[('I thought', None, None, None, 0), ('this was a pretty interesting article .', None, None, None, 1), ('I learned some things about music and lawsuits .', None, None, None, 1), ('It might be relevant to some of what you and I were talking about some time ago .', None, None, None, 1), ('In any case , it has some new facts', None, None, None, 0), ('that have come to light ,', None, None, None, 0), ('as it were , new information or opinions', None, None, None, 0), ('that I had not fully considered prior to reading this article .', None, None, None, 1)]]
+Leaf:  S span I thought
+Leaf:  N Attribution this was a pretty interesting article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Condition I learned some things about music and lawsuits .
+Leaf:  N Condition It might be relevant to some of what you and I were talking about some time ago .
+Leaf:  N Elaborate In any case , it has some new facts
+Leaf:  S span that have come to light ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate as it were , new information or opinions
+Leaf:  S span that I had not fully considered prior to reading this article .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Condition NS
+Inner:  Root None None Elaborate NS
+[('I thought', None, None, None, 0), ('this was a pretty interesting article .', None, None, None, 1), ('I learned some things about music and lawsuits .', None, None, None, 1), ('It might be relevant to some of what you and I were talking about some time ago .', None, None, None, 1), ('In any case , it has some new facts', None, None, None, 0), ('that have come to light ,', None, None, None, 0), ('as it were , new information or opinions', None, None, None, 0), ('that I had not fully considered prior to reading this article .', None, None, None, 1)]

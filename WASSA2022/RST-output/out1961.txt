@@ -1,0 +1,19 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('this guy just leaves his herd unattended', None, None, None, 0), ('and left in the desert .', None, None, None, 1), ('I think', None, None, None, 0), ('that the State should take control of them', None, None, None, 0), ('and he should have to pay for the treatment of them or forfeit them .', None, None, None, 1), ("I mean come on he 's just turning them loose", None, None, None, 0), ('and expecting to still own them', None, None, None, 0), ('after they become wild .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Joint this guy just leaves his herd unattended
+Leaf:  N Joint and left in the desert .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Joint that the State should take control of them
+Leaf:  N Joint and he should have to pay for the treatment of them or forfeit them .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint I mean come on he 's just turning them loose
+Leaf:  N Background and expecting to still own them
+Leaf:  S span after they become wild .
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("I ca n't believe", None, None, None, 0), ('this guy just leaves his herd unattended', None, None, None, 0), ('and left in the desert .', None, None, None, 1), ('I think', None, None, None, 0), ('that the State should take control of them', None, None, None, 0), ('and he should have to pay for the treatment of them or forfeit them .', None, None, None, 1), ("I mean come on he 's just turning them loose", None, None, None, 0), ('and expecting to still own them', None, None, None, 0), ('after they become wild .', None, None, None, 1)]

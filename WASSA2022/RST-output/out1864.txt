@@ -1,0 +1,25 @@
+=====================> [[('I am an affirmed believer', None, None, None, 0), ('that your punishment should fit the crime ,', None, None, None, 0), ('but the man is so old', None, None, None, 0), ("so I do n't see", None, None, None, 0), ('what the hold up has been for his sentence .', None, None, None, 1), ('I would understand', None, None, None, 0), ('if he was wrongly convicted ,', None, None, None, 0), ('but that does not seem to be the case .', None, None, None, 1), ('The judicial system needs reformation', None, None, None, 0), ('because some of the things', None, None, None, 0), ('that are happening now', None, None, None, 0), ('are appalling .', None, None, None, 1)]]
+Leaf:  N Elaborate I am an affirmed believer
+Leaf:  S span that your punishment should fit the crime ,
+Inner:  S span None Elaborate NS
+Leaf:  S span but the man is so old
+Leaf:  S span so I do n't see
+Leaf:  N Attribution what the hold up has been for his sentence .
+Inner:  N Cause None Attribution SN
+Inner:  N Contrast None Cause SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I would understand
+Leaf:  N Attribution if he was wrongly convicted ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but that does not seem to be the case .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation The judicial system needs reformation
+Leaf:  N Elaborate because some of the things
+Leaf:  S span that are happening now
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are appalling .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I am an affirmed believer', None, None, None, 0), ('that your punishment should fit the crime ,', None, None, None, 0), ('but the man is so old', None, None, None, 0), ("so I do n't see", None, None, None, 0), ('what the hold up has been for his sentence .', None, None, None, 1), ('I would understand', None, None, None, 0), ('if he was wrongly convicted ,', None, None, None, 0), ('but that does not seem to be the case .', None, None, None, 1), ('The judicial system needs reformation', None, None, None, 0), ('because some of the things', None, None, None, 0), ('that are happening now', None, None, None, 0), ('are appalling .', None, None, None, 1)]

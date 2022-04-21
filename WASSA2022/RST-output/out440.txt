@@ -1,0 +1,23 @@
+=====================> [[('President Donald Trumps actions during his election and so far during the presidency has been nothing short of childish .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('he has any idea', None, None, None, 0), ('of what a filter is ,', None, None, None, 0), ("and I do n't think", None, None, None, 0), ('he cares', None, None, None, 0), ('what anyone thinks about him .', None, None, None, 1), ('Him winning the president election was probable one of the worst things', None, None, None, 0), ('that could have happened to our country at this time and moment ,', None, None, None, 0), ('but things could be worse . Like the previous article , we could be comparing President Trump to Hitler ,', None, None, None, 0), ('which in my opinion is absolutely terrible .', None, None, None, 1)]]
+Leaf:  N Elaborate President Donald Trumps actions during his election and so far during the presidency has been nothing short of childish .
+Leaf:  S span I do n't think
+Leaf:  N Elaborate he has any idea
+Leaf:  S span of what a filter is ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I do n't think
+Leaf:  N Enablement he cares
+Leaf:  S span what anyone thinks about him .
+Inner:  N Attribution None Enablement NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Him winning the president election was probable one of the worst things
+Leaf:  S span that could have happened to our country at this time and moment ,
+Inner:  S span None Elaborate NS
+Leaf:  N Evaluation but things could be worse . Like the previous article , we could be comparing President Trump to Hitler ,
+Leaf:  S span which in my opinion is absolutely terrible .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('President Donald Trumps actions during his election and so far during the presidency has been nothing short of childish .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('he has any idea', None, None, None, 0), ('of what a filter is ,', None, None, None, 0), ("and I do n't think", None, None, None, 0), ('he cares', None, None, None, 0), ('what anyone thinks about him .', None, None, None, 1), ('Him winning the president election was probable one of the worst things', None, None, None, 0), ('that could have happened to our country at this time and moment ,', None, None, None, 0), ('but things could be worse . Like the previous article , we could be comparing President Trump to Hitler ,', None, None, None, 0), ('which in my opinion is absolutely terrible .', None, None, None, 1)]

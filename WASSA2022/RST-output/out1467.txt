@@ -1,0 +1,29 @@
+=====================> [[('i feel liek', None, None, None, 0), ('this is a very opinionated article .', None, None, None, 1), ('Im not sure who wrote this article', None, None, None, 0), ('but I truly feel', None, None, None, 0), ('like they have alot of raw mixed up emotional feelings', None, None, None, 0), ('that they cant get out .', None, None, None, 1), ('Although , we are all very aware of the constant changes', None, None, None, 0), ('going on int he world with equality', None, None, None, 0), ('and everyone', None, None, None, 0), ('going through the issues', None, None, None, 0), ('of being unjust and such . .', None, None, None, 1), ('its alot to handle', None, None, None, 0), ('and alot of people just dont know what to do .', None, None, None, 1), ('i feel lbad for the people in the story', None, None, None, 0)]]
+Leaf:  S span i feel liek
+Leaf:  N Attribution this is a very opinionated article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Im not sure who wrote this article
+Leaf:  S span but I truly feel
+Leaf:  N Elaborate like they have alot of raw mixed up emotional feelings
+Leaf:  S span that they cant get out .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Although , we are all very aware of the constant changes
+Leaf:  S span going on int he world with equality
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and everyone
+Leaf:  N Elaborate going through the issues
+Leaf:  S span of being unjust and such . .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint its alot to handle
+Leaf:  N Joint and alot of people just dont know what to do .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span i feel lbad for the people in the story
+Inner:  Root None None Evaluation NS
+[('i feel liek', None, None, None, 0), ('this is a very opinionated article .', None, None, None, 1), ('Im not sure who wrote this article', None, None, None, 0), ('but I truly feel', None, None, None, 0), ('like they have alot of raw mixed up emotional feelings', None, None, None, 0), ('that they cant get out .', None, None, None, 1), ('Although , we are all very aware of the constant changes', None, None, None, 0), ('going on int he world with equality', None, None, None, 0), ('and everyone', None, None, None, 0), ('going through the issues', None, None, None, 0), ('of being unjust and such . .', None, None, None, 1), ('its alot to handle', None, None, None, 0), ('and alot of people just dont know what to do .', None, None, None, 1), ('i feel lbad for the people in the story', None, None, None, 0)]

@@ -1,0 +1,21 @@
+=====================> [[('This article here was a bit confusing', None, None, None, 0), ("and I really could n't see the point .", None, None, None, 1), ('From what I gathered', None, None, None, 0), ("a Militia from Ohio is trying to defend its ' people from an overbearing federal government .", None, None, None, 1), ('I can completely understand', None, None, None, 0), ('why they would want to stand up to the federal government . Apparently , a protestor was shot by the government . I seen nothing in the article', None, None, None, 0), ('that explained', None, None, None, 0), ('the protestor was violent or a danger to the ones around him .', None, None, None, 1), ('Just shot for protesting .', None, None, None, 1), ('This is an outrage !', None, None, None, 1)]]
+Leaf:  N Joint This article here was a bit confusing
+Leaf:  N Joint and I really could n't see the point .
+Inner:  N Explanation None Joint NN
+Leaf:  S span From what I gathered
+Leaf:  N Attribution a Militia from Ohio is trying to defend its ' people from an overbearing federal government .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I can completely understand
+Leaf:  N Elaborate why they would want to stand up to the federal government . Apparently , a protestor was shot by the government . I seen nothing in the article
+Leaf:  S span that explained
+Leaf:  N Attribution the protestor was violent or a danger to the ones around him .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Just shot for protesting .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This is an outrage !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This article here was a bit confusing', None, None, None, 0), ("and I really could n't see the point .", None, None, None, 1), ('From what I gathered', None, None, None, 0), ("a Militia from Ohio is trying to defend its ' people from an overbearing federal government .", None, None, None, 1), ('I can completely understand', None, None, None, 0), ('why they would want to stand up to the federal government . Apparently , a protestor was shot by the government . I seen nothing in the article', None, None, None, 0), ('that explained', None, None, None, 0), ('the protestor was violent or a danger to the ones around him .', None, None, None, 1), ('Just shot for protesting .', None, None, None, 1), ('This is an outrage !', None, None, None, 1)]

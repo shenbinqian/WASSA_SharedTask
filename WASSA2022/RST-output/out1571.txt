@@ -1,0 +1,23 @@
+=====================> [[('I just read', None, None, None, 0), ("about a company is threatening one of the largest populations of Orangutan 's in Indonesia", None, None, None, 0), ('by chopping down a critical forest', None, None, None, 0), ('to convert it to a tree plantation .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's really disgusting", None, None, None, 0), ('that Indonesia knows', None, None, None, 0), ('they need', None, None, None, 0), ('to preserve their land', None, None, None, 0), ('and wild life', None, None, None, 0), ('but still allows things like this to happen .', None, None, None, 1)]]
+Leaf:  S span I just read
+Leaf:  N Manner-Means about a company is threatening one of the largest populations of Orangutan 's in Indonesia
+Leaf:  N Enablement by chopping down a critical forest
+Leaf:  S span to convert it to a tree plantation .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  S span it 's really disgusting
+Leaf:  S span that Indonesia knows
+Leaf:  N Enablement they need
+Leaf:  S span to preserve their land
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint and wild life
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but still allows things like this to happen .
+Inner:  N Attribution None Contrast SN
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I just read', None, None, None, 0), ("about a company is threatening one of the largest populations of Orangutan 's in Indonesia", None, None, None, 0), ('by chopping down a critical forest', None, None, None, 0), ('to convert it to a tree plantation .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's really disgusting", None, None, None, 0), ('that Indonesia knows', None, None, None, 0), ('they need', None, None, None, 0), ('to preserve their land', None, None, None, 0), ('and wild life', None, None, None, 0), ('but still allows things like this to happen .', None, None, None, 1)]

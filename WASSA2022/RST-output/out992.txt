@@ -1,0 +1,21 @@
+=====================> [[('Sadly this has become common in our society .', None, None, None, 1), ('Blacks are killed by police ,', None, None, None, 0), ('and nothing seems to make a difference or matter .', None, None, None, 1), ('I can guarantee', None, None, None, 0), ('that', None, None, None, 0), ('if it was a black cop killing a while person ,', None, None, None, 0), ('the outcomes would be entirely different . I dont blame the black community for their anger and dissapointment .', None, None, None, 1), ("I 'm angry and dissapointed", None, None, None, 0), ('I cant imagine', None, None, None, 0), ('how they must feel .', None, None, None, 1)]]
+Leaf:  N Summary Sadly this has become common in our society .
+Leaf:  N Temporal Blacks are killed by police ,
+Leaf:  N Temporal and nothing seems to make a difference or matter .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I can guarantee
+Leaf:  N Same-Unit that
+Leaf:  S span if it was a black cop killing a while person ,
+Leaf:  N Condition the outcomes would be entirely different . I dont blame the black community for their anger and dissapointment .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint I 'm angry and dissapointed
+Leaf:  S span I cant imagine
+Leaf:  N Attribution how they must feel .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Sadly this has become common in our society .', None, None, None, 1), ('Blacks are killed by police ,', None, None, None, 0), ('and nothing seems to make a difference or matter .', None, None, None, 1), ('I can guarantee', None, None, None, 0), ('that', None, None, None, 0), ('if it was a black cop killing a while person ,', None, None, None, 0), ('the outcomes would be entirely different . I dont blame the black community for their anger and dissapointment .', None, None, None, 1), ("I 'm angry and dissapointed", None, None, None, 0), ('I cant imagine', None, None, None, 0), ('how they must feel .', None, None, None, 1)]

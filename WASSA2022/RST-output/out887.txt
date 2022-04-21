@@ -1,0 +1,37 @@
+=====================> [[('It looks like chaos in Iraq .', None, None, None, 1), ('The Islamic State', None, None, None, 0), ('( IS )', None, None, None, 0), ('has taken over Mosul', None, None, None, 0), ('and people are getting the hell out of there .', None, None, None, 1), ('The problem is , there is nowhere to go .', None, None, None, 1), ('There are a few camps for refugees but not nearly enough space .', None, None, None, 1), ('People are even taking there sheep', None, None, None, 0), ('which ca n’t be helpful … The IS has had people under their rule for almost 3 years and the people are making a run from it .', None, None, None, 1), ('No doubt they have every reason – the young women and girls feel veil-less freedom !', None, None, None, 1), ('The IS leader Abu Bakr al-Baghdadi .', None, None, None, 1), ('The were right', None, None, None, 0), ('to leave', None, None, None, 0), ('as the city is now a war zone with Iraqi security forces retaking the city .', None, None, None, 1), ('It is a bitter fight with the usual “ blood will spill ” messages rampant .', None, None, None, 1), ('Many families are leaving', None, None, None, 0), ('and there are some really heart-wrenching tales .', None, None, None, 1), ('SO SAD … Many are in fear .', None, None, None, 1)]]
+Leaf:  N Summary It looks like chaos in Iraq .
+Leaf:  N Summary The Islamic State
+Leaf:  S span ( IS )
+Inner:  N Same-Unit None Summary NS
+Leaf:  N Same-Unit has taken over Mosul
+Inner:  S span None Same-Unit NN
+Leaf:  N Cause and people are getting the hell out of there .
+Inner:  N Explanation None Cause SN
+Leaf:  N Summary The problem is , there is nowhere to go .
+Leaf:  N Joint There are a few camps for refugees but not nearly enough space .
+Leaf:  N Elaborate People are even taking there sheep
+Leaf:  S span which ca n’t be helpful … The IS has had people under their rule for almost 3 years and the people are making a run from it .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span No doubt they have every reason – the young women and girls feel veil-less freedom !
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Textual-Organization The IS leader Abu Bakr al-Baghdadi .
+Leaf:  N Elaborate The were right
+Leaf:  S span to leave
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span as the city is now a war zone with Iraqi security forces retaking the city .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It is a bitter fight with the usual “ blood will spill ” messages rampant .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint Many families are leaving
+Leaf:  N Joint and there are some really heart-wrenching tales .
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  S span None Textual-Organization NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span SO SAD … Many are in fear .
+Inner:  Root None None Evaluation NS
+[('It looks like chaos in Iraq .', None, None, None, 1), ('The Islamic State', None, None, None, 0), ('( IS )', None, None, None, 0), ('has taken over Mosul', None, None, None, 0), ('and people are getting the hell out of there .', None, None, None, 1), ('The problem is , there is nowhere to go .', None, None, None, 1), ('There are a few camps for refugees but not nearly enough space .', None, None, None, 1), ('People are even taking there sheep', None, None, None, 0), ('which ca n’t be helpful … The IS has had people under their rule for almost 3 years and the people are making a run from it .', None, None, None, 1), ('No doubt they have every reason – the young women and girls feel veil-less freedom !', None, None, None, 1), ('The IS leader Abu Bakr al-Baghdadi .', None, None, None, 1), ('The were right', None, None, None, 0), ('to leave', None, None, None, 0), ('as the city is now a war zone with Iraqi security forces retaking the city .', None, None, None, 1), ('It is a bitter fight with the usual “ blood will spill ” messages rampant .', None, None, None, 1), ('Many families are leaving', None, None, None, 0), ('and there are some really heart-wrenching tales .', None, None, None, 1), ('SO SAD … Many are in fear .', None, None, None, 1)]

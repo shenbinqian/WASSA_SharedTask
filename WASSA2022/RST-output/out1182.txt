@@ -1,0 +1,13 @@
+=====================> [[('It is unfortunate', None, None, None, 0), ('that Venezuela seems to go through so much as a country due to politics .', None, None, None, 1), ('I do not know', None, None, None, 0), ('why the United States of America will not be more proactive in helping this less fortunate country .', None, None, None, 1), ('A lot of people complain about Chavez ,', None, None, None, 0), ('but that seems to be when the country was the most stable .', None, None, None, 1)]]
+Leaf:  S span It is unfortunate
+Leaf:  N Attribution that Venezuela seems to go through so much as a country due to politics .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do not know
+Leaf:  N Attribution why the United States of America will not be more proactive in helping this less fortunate country .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast A lot of people complain about Chavez ,
+Leaf:  S span but that seems to be when the country was the most stable .
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('It is unfortunate', None, None, None, 0), ('that Venezuela seems to go through so much as a country due to politics .', None, None, None, 1), ('I do not know', None, None, None, 0), ('why the United States of America will not be more proactive in helping this less fortunate country .', None, None, None, 1), ('A lot of people complain about Chavez ,', None, None, None, 0), ('but that seems to be when the country was the most stable .', None, None, None, 1)]

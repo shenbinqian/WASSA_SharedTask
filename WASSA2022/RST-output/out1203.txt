@@ -1,0 +1,25 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('people spend their money', None, None, None, 0), ('doing that kind of parties .', None, None, None, 1), ('I think', None, None, None, 0), ('its not correct to be extremist in how much we support a president .', None, None, None, 1), ('White supremacists are dangerous people with crazy ideology .', None, None, None, 1), ('They promote horrible values to their sons and to the society ,', None, None, None, 0), ('they are not respectful with other races', None, None, None, 0), ('and that hurt the society , specially here in United States', None, None, None, 0), ('that is a multi-cultural country .', None, None, None, 1), ('This groups should disappear from the map as soon as possible !', None, None, None, 1), ('Their ideology is useless in a country like this .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Manner-Means people spend their money
+Leaf:  S span doing that kind of parties .
+Inner:  N Attribution None Manner-Means NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution its not correct to be extremist in how much we support a president .
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate White supremacists are dangerous people with crazy ideology .
+Leaf:  N Joint They promote horrible values to their sons and to the society ,
+Leaf:  N Joint they are not respectful with other races
+Leaf:  N Elaborate and that hurt the society , specially here in United States
+Leaf:  S span that is a multi-cultural country .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This groups should disappear from the map as soon as possible !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Their ideology is useless in a country like this .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("I ca n't believe", None, None, None, 0), ('people spend their money', None, None, None, 0), ('doing that kind of parties .', None, None, None, 1), ('I think', None, None, None, 0), ('its not correct to be extremist in how much we support a president .', None, None, None, 1), ('White supremacists are dangerous people with crazy ideology .', None, None, None, 1), ('They promote horrible values to their sons and to the society ,', None, None, None, 0), ('they are not respectful with other races', None, None, None, 0), ('and that hurt the society , specially here in United States', None, None, None, 0), ('that is a multi-cultural country .', None, None, None, 1), ('This groups should disappear from the map as soon as possible !', None, None, None, 1), ('Their ideology is useless in a country like this .', None, None, None, 1)]

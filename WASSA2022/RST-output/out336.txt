@@ -1,0 +1,33 @@
+=====================> [[('You are not going to believe', None, None, None, 0), ('this article I just read about something akin to torture ,', None, None, None, 0), ('called conversion therapy .', None, None, None, 1), ("It 's something ,", None, None, None, 0), ('designed by quacks ,', None, None, None, 0), ('that is supposed to convert gay or queer people to heterosexual . Are you kidding me ?', None, None, None, 1), ('People are who they are in life', None, None, None, 0), ('and are not to be changed ,', None, None, None, 0), ('but embraced and supported .', None, None, None, 1), ('The regimen', None, None, None, 0), ('these poor people had', None, None, None, 0), ('to go through in this so called therapy', None, None, None, 0), ('was barbaric ,', None, None, None, 0), ('and would not be used in North Korea as a torture .', None, None, None, 1), ("It 's unbelievable what people do in the name", None, None, None, 0), ('of helping .', None, None, None, 1)]]
+Leaf:  S span You are not going to believe
+Leaf:  N Elaborate this article I just read about something akin to torture ,
+Leaf:  S span called conversion therapy .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate It 's something ,
+Leaf:  S span designed by quacks ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that is supposed to convert gay or queer people to heterosexual . Are you kidding me ?
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint People are who they are in life
+Leaf:  N Contrast and are not to be changed ,
+Leaf:  N Contrast but embraced and supported .
+Inner:  N Joint None Contrast NN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate The regimen
+Leaf:  N Elaborate these poor people had
+Leaf:  S span to go through in this so called therapy
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was barbaric ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and would not be used in North Korea as a torture .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It 's unbelievable what people do in the name
+Leaf:  S span of helping .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('You are not going to believe', None, None, None, 0), ('this article I just read about something akin to torture ,', None, None, None, 0), ('called conversion therapy .', None, None, None, 1), ("It 's something ,", None, None, None, 0), ('designed by quacks ,', None, None, None, 0), ('that is supposed to convert gay or queer people to heterosexual . Are you kidding me ?', None, None, None, 1), ('People are who they are in life', None, None, None, 0), ('and are not to be changed ,', None, None, None, 0), ('but embraced and supported .', None, None, None, 1), ('The regimen', None, None, None, 0), ('these poor people had', None, None, None, 0), ('to go through in this so called therapy', None, None, None, 0), ('was barbaric ,', None, None, None, 0), ('and would not be used in North Korea as a torture .', None, None, None, 1), ("It 's unbelievable what people do in the name", None, None, None, 0), ('of helping .', None, None, None, 1)]

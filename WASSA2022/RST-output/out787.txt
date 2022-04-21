@@ -1,0 +1,25 @@
+=====================> [[('I was reading', None, None, None, 0), ('where Chicago , Illinois has an incredible problem with lead in their public drinking fountains .', None, None, None, 1), ('This problem is all over in public buildings , parks and even in homes', None, None, None, 0), ('where lead pipes are still in existence .', None, None, None, 1), ('This is a problem', None, None, None, 0), ('that can have both immediate and long-range problems for adults and children in the city .', None, None, None, 1), ('Children growing up', None, None, None, 0), ('drinking this polluted water', None, None, None, 0), ('can have many health problems', None, None, None, 0), ('including learning disabilities , behavioral problems and a variety of diseases .', None, None, None, 1), ('The homeless are also prone to having problems', None, None, None, 0), ('because they rely on public drinking fountains every day .', None, None, None, 1)]]
+Leaf:  S span I was reading
+Leaf:  N Attribution where Chicago , Illinois has an incredible problem with lead in their public drinking fountains .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate This problem is all over in public buildings , parks and even in homes
+Leaf:  S span where lead pipes are still in existence .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is a problem
+Leaf:  S span that can have both immediate and long-range problems for adults and children in the city .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Children growing up
+Leaf:  S span drinking this polluted water
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate can have many health problems
+Leaf:  S span including learning disabilities , behavioral problems and a variety of diseases .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Cause The homeless are also prone to having problems
+Leaf:  S span because they rely on public drinking fountains every day .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I was reading', None, None, None, 0), ('where Chicago , Illinois has an incredible problem with lead in their public drinking fountains .', None, None, None, 1), ('This problem is all over in public buildings , parks and even in homes', None, None, None, 0), ('where lead pipes are still in existence .', None, None, None, 1), ('This is a problem', None, None, None, 0), ('that can have both immediate and long-range problems for adults and children in the city .', None, None, None, 1), ('Children growing up', None, None, None, 0), ('drinking this polluted water', None, None, None, 0), ('can have many health problems', None, None, None, 0), ('including learning disabilities , behavioral problems and a variety of diseases .', None, None, None, 1), ('The homeless are also prone to having problems', None, None, None, 0), ('because they rely on public drinking fountains every day .', None, None, None, 1)]

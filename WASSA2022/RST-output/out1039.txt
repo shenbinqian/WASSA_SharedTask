@@ -1,0 +1,25 @@
+=====================> [[("It 's one thing", None, None, None, 0), ('to kill another person with a motive .', None, None, None, 1), ('But who kills horses and animals ?!', None, None, None, 1), ('They are completely innocent creatures .', None, None, None, 1), ('God we have used and abused these animals for centuries .', None, None, None, 1), ('I have no idea', None, None, None, 0), ('what kind of motive', None, None, None, 0), ('this killer has .', None, None, None, 1), ('These horses deserve so much more .', None, None, None, 1), ("It 's almost worse than murder in my opinion .", None, None, None, 1), ('I really hope', None, None, None, 0), ('this guy gets caught .', None, None, None, 1)]]
+Leaf:  N Elaborate It 's one thing
+Leaf:  S span to kill another person with a motive .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate But who kills horses and animals ?!
+Leaf:  N Explanation They are completely innocent creatures .
+Leaf:  S span God we have used and abused these animals for centuries .
+Inner:  N Joint None Explanation NS
+Leaf:  S span I have no idea
+Leaf:  N Elaborate what kind of motive
+Leaf:  S span this killer has .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation These horses deserve so much more .
+Leaf:  S span It 's almost worse than murder in my opinion .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I really hope
+Leaf:  N Attribution this guy gets caught .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("It 's one thing", None, None, None, 0), ('to kill another person with a motive .', None, None, None, 1), ('But who kills horses and animals ?!', None, None, None, 1), ('They are completely innocent creatures .', None, None, None, 1), ('God we have used and abused these animals for centuries .', None, None, None, 1), ('I have no idea', None, None, None, 0), ('what kind of motive', None, None, None, 0), ('this killer has .', None, None, None, 1), ('These horses deserve so much more .', None, None, None, 1), ("It 's almost worse than murder in my opinion .", None, None, None, 1), ('I really hope', None, None, None, 0), ('this guy gets caught .', None, None, None, 1)]

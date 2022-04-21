@@ -1,0 +1,23 @@
+=====================> [[('I am so tired', None, None, None, 0), ('of hearing about this stuff ,', None, None, None, 0), ("it 's so fake .", None, None, None, 1), ('Trump is just a fake conservative , the same way', None, None, None, 0), ('that all of the liberals are fake liberals .', None, None, None, 1), ('Trump is far from a KKK icon ,', None, None, None, 0), ("he 's actually a Jew and a huge supporter of Zionism/Israel", None, None, None, 0), ('- this should make him a huge enemy of the KKK', None, None, None, 0), ("but instead it 's all fake , orchestrated BS", None, None, None, 0), ('to keep us totally distracted', None, None, None, 0), ("from what 's really up .", None, None, None, 1)]]
+Leaf:  N Cause I am so tired
+Leaf:  S span of hearing about this stuff ,
+Inner:  N Evaluation None Cause NS
+Leaf:  S span it 's so fake .
+Inner:  N Summary None Evaluation NS
+Leaf:  N Elaborate Trump is just a fake conservative , the same way
+Leaf:  S span that all of the liberals are fake liberals .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Trump is far from a KKK icon ,
+Leaf:  S span he 's actually a Jew and a huge supporter of Zionism/Israel
+Leaf:  N Cause - this should make him a huge enemy of the KKK
+Inner:  S span None Cause SN
+Leaf:  N Enablement but instead it 's all fake , orchestrated BS
+Leaf:  N Enablement to keep us totally distracted
+Leaf:  S span from what 's really up .
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Enablement NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('I am so tired', None, None, None, 0), ('of hearing about this stuff ,', None, None, None, 0), ("it 's so fake .", None, None, None, 1), ('Trump is just a fake conservative , the same way', None, None, None, 0), ('that all of the liberals are fake liberals .', None, None, None, 1), ('Trump is far from a KKK icon ,', None, None, None, 0), ("he 's actually a Jew and a huge supporter of Zionism/Israel", None, None, None, 0), ('- this should make him a huge enemy of the KKK', None, None, None, 0), ("but instead it 's all fake , orchestrated BS", None, None, None, 0), ('to keep us totally distracted', None, None, None, 0), ("from what 's really up .", None, None, None, 1)]

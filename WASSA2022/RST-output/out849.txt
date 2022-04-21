@@ -1,0 +1,39 @@
+=====================> [[('After reading', None, None, None, 0), ('how so many people think', None, None, None, 0), ('Trump will ruin this country', None, None, None, 0), ('I think', None, None, None, 0), ('its fair to say some of our most beloved Presidents acted the same', None, None, None, 0), ('why yet we keep them up on pedestals .', None, None, None, 1), ('Today with social media we just see the problems more out in front', None, None, None, 0), ('since nothing is private anymore .', None, None, None, 1), ("I 'm older 63", None, None, None, 0), ('as you know', None, None, None, 0), ("and my mom and granny taught me how to behave . Do n't go into a room with some man", None, None, None, 0), ("you do n't know .", None, None, None, 1), ('If he tries something tell someone .', None, None, None, 1), ('All these ladies', None, None, None, 0), ('who kept quiet', None, None, None, 0), ('or were paid off in some way', None, None, None, 0), ('are just as big a part of the problem as any man', None, None, None, 0), ('who abuses them .', None, None, None, 1), ('Ladies time for us to take responsible for what happens .', None, None, None, 1)]]
+Leaf:  S span After reading
+Leaf:  S span how so many people think
+Leaf:  N Attribution Trump will ruin this country
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Leaf:  N Background I think
+Inner:  S span None Background SN
+Leaf:  N Cause its fair to say some of our most beloved Presidents acted the same
+Leaf:  N Cause why yet we keep them up on pedestals .
+Inner:  N Attribution None Cause NN
+Inner:  N Topic-Change None Attribution SN
+Leaf:  N Cause Today with social media we just see the problems more out in front
+Leaf:  S span since nothing is private anymore .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Evaluation I 'm older 63
+Leaf:  S span as you know
+Inner:  N Joint None Evaluation NS
+Leaf:  N Attribution and my mom and granny taught me how to behave . Do n't go into a room with some man
+Leaf:  S span you do n't know .
+Inner:  N Joint None Attribution NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span If he tries something tell someone .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate All these ladies
+Leaf:  N Joint who kept quiet
+Leaf:  N Joint or were paid off in some way
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate are just as big a part of the problem as any man
+Leaf:  S span who abuses them .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Ladies time for us to take responsible for what happens .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('After reading', None, None, None, 0), ('how so many people think', None, None, None, 0), ('Trump will ruin this country', None, None, None, 0), ('I think', None, None, None, 0), ('its fair to say some of our most beloved Presidents acted the same', None, None, None, 0), ('why yet we keep them up on pedestals .', None, None, None, 1), ('Today with social media we just see the problems more out in front', None, None, None, 0), ('since nothing is private anymore .', None, None, None, 1), ("I 'm older 63", None, None, None, 0), ('as you know', None, None, None, 0), ("and my mom and granny taught me how to behave . Do n't go into a room with some man", None, None, None, 0), ("you do n't know .", None, None, None, 1), ('If he tries something tell someone .', None, None, None, 1), ('All these ladies', None, None, None, 0), ('who kept quiet', None, None, None, 0), ('or were paid off in some way', None, None, None, 0), ('are just as big a part of the problem as any man', None, None, None, 0), ('who abuses them .', None, None, None, 1), ('Ladies time for us to take responsible for what happens .', None, None, None, 1)]

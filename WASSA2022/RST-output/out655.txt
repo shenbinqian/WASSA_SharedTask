@@ -1,0 +1,29 @@
+=====================> [[('So they are trying to expand a runway at Heathrow airport in London', None, None, None, 0), ('which will destroy over 700 peoples homes .', None, None, None, 1), ('This is just crazy to me', None, None, None, 0), ('and I hope', None, None, None, 0), ('that it never actually happens', None, None, None, 0), ('and that the people', None, None, None, 0), ('who live there', None, None, None, 0), ('can fight it .', None, None, None, 1), ('It just seems to me', None, None, None, 0), ('that this is just another case of government over reach .', None, None, None, 1), ('These politicians are probably going to benefit financially somehow from this deal .', None, None, None, 1), ('It is the only explanation', None, None, None, 0), ('that makes any sense to me .', None, None, None, 1), ('Why else would you destroy a whole community ?', None, None, None, 1)]]
+Leaf:  N Cause So they are trying to expand a runway at Heathrow airport in London
+Leaf:  S span which will destroy over 700 peoples homes .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Joint This is just crazy to me
+Leaf:  S span and I hope
+Leaf:  N Joint that it never actually happens
+Leaf:  N Elaborate and that the people
+Leaf:  S span who live there
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can fight it .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span It just seems to me
+Leaf:  N Attribution that this is just another case of government over reach .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Explanation These politicians are probably going to benefit financially somehow from this deal .
+Leaf:  N Elaborate It is the only explanation
+Leaf:  S span that makes any sense to me .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Why else would you destroy a whole community ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('So they are trying to expand a runway at Heathrow airport in London', None, None, None, 0), ('which will destroy over 700 peoples homes .', None, None, None, 1), ('This is just crazy to me', None, None, None, 0), ('and I hope', None, None, None, 0), ('that it never actually happens', None, None, None, 0), ('and that the people', None, None, None, 0), ('who live there', None, None, None, 0), ('can fight it .', None, None, None, 1), ('It just seems to me', None, None, None, 0), ('that this is just another case of government over reach .', None, None, None, 1), ('These politicians are probably going to benefit financially somehow from this deal .', None, None, None, 1), ('It is the only explanation', None, None, None, 0), ('that makes any sense to me .', None, None, None, 1), ('Why else would you destroy a whole community ?', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('It seems that climate change is still a big threat to animals and wildlife , but not necessarily in the ways', None, None, None, 0), ('we would first think of .', None, None, None, 1), ('Climate change can affect the habitats of wild animals', None, None, None, 0), ('and cause them to die from things like lack of water ,', None, None, None, 0), ('which is still a big deal .', None, None, None, 1), ("It 's not the temperature change necessarily but what happens to things like the habitat .", None, None, None, 1)]]
+Leaf:  N Elaborate It seems that climate change is still a big threat to animals and wildlife , but not necessarily in the ways
+Leaf:  S span we would first think of .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Climate change can affect the habitats of wild animals
+Leaf:  N Joint and cause them to die from things like lack of water ,
+Inner:  N Elaborate None Joint NN
+Leaf:  S span which is still a big deal .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It 's not the temperature change necessarily but what happens to things like the habitat .
+Inner:  Root None None Elaborate NS
+[('It seems that climate change is still a big threat to animals and wildlife , but not necessarily in the ways', None, None, None, 0), ('we would first think of .', None, None, None, 1), ('Climate change can affect the habitats of wild animals', None, None, None, 0), ('and cause them to die from things like lack of water ,', None, None, None, 0), ('which is still a big deal .', None, None, None, 1), ("It 's not the temperature change necessarily but what happens to things like the habitat .", None, None, None, 1)]

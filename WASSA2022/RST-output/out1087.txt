@@ -1,0 +1,23 @@
+=====================> [[('This is really ridiculous .', None, None, None, 1), ('A lawyer with a history', None, None, None, 0), ('of being a nut job', None, None, None, 0), ('went crazy at the mall in Houston Texas', None, None, None, 0), ('and shot nine people ,', None, None, None, 0), ('and one of them was injured critically .', None, None, None, 1), ('And all this', None, None, None, 0), ('just because of some issues', None, None, None, 0), ('he was having', None, None, None, 0), ('where he worked ,', None, None, None, 0), ('like it is so hard for a lawyer to just move on to another firm instead of going crazy and shooting up innocent people .', None, None, None, 1)]]
+Leaf:  N Explanation This is really ridiculous .
+Leaf:  N Elaborate A lawyer with a history
+Leaf:  S span of being a nut job
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Temporal went crazy at the mall in Houston Texas
+Leaf:  N Elaborate and shot nine people ,
+Leaf:  S span and one of them was injured critically .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Same-Unit None Temporal NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Cause And all this
+Leaf:  N Elaborate just because of some issues
+Leaf:  N Elaborate he was having
+Leaf:  S span where he worked ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit like it is so hard for a lawyer to just move on to another firm instead of going crazy and shooting up innocent people .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This is really ridiculous .', None, None, None, 1), ('A lawyer with a history', None, None, None, 0), ('of being a nut job', None, None, None, 0), ('went crazy at the mall in Houston Texas', None, None, None, 0), ('and shot nine people ,', None, None, None, 0), ('and one of them was injured critically .', None, None, None, 1), ('And all this', None, None, None, 0), ('just because of some issues', None, None, None, 0), ('he was having', None, None, None, 0), ('where he worked ,', None, None, None, 0), ('like it is so hard for a lawyer to just move on to another firm instead of going crazy and shooting up innocent people .', None, None, None, 1)]

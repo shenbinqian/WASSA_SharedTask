@@ -1,0 +1,27 @@
+=====================> [[('Sally Brampton :', None, None, None, 0), ("Journalist killed herself after ' missed opportunities '", None, None, None, 0), ('— Sally Brampton , founding editor of Elle magazine in the UK , killed herself', None, None, None, 0), ('after health professionals " missed opportunities "', None, None, None, 0), ('to offer her help ,', None, None, None, 0), ('an inquest has heard .', None, None, None, 1), ('Ms Brampton , 60 ,', None, None, None, 0), ('who wrote a Daily Mail advice column ,', None, None, None, 0), ('drowned', None, None, None, 0), ('after walking into the sea near her home on 10 May .', None, None, None, 1), ("Hastings Coroners ' Court heard", None, None, None, 0), ('she was " in crisis " in March 2016', None, None, None, 0), ('and had sought help from a psychiatrist and GP .', None, None, None, 1)]]
+Leaf:  N Summary Sally Brampton :
+Leaf:  S span Journalist killed herself after ' missed opportunities '
+Inner:  N Textual-Organization None Summary NS
+Leaf:  N Background — Sally Brampton , founding editor of Elle magazine in the UK , killed herself
+Leaf:  N Elaborate after health professionals " missed opportunities "
+Leaf:  S span to offer her help ,
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Background NS
+Leaf:  S span an inquest has heard .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate Ms Brampton , 60 ,
+Leaf:  S span who wrote a Daily Mail advice column ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit drowned
+Inner:  N Temporal None Same-Unit NN
+Leaf:  S span after walking into the sea near her home on 10 May .
+Inner:  S span None Temporal NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Hastings Coroners ' Court heard
+Leaf:  N Joint she was " in crisis " in March 2016
+Leaf:  N Joint and had sought help from a psychiatrist and GP .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Sally Brampton :', None, None, None, 0), ("Journalist killed herself after ' missed opportunities '", None, None, None, 0), ('— Sally Brampton , founding editor of Elle magazine in the UK , killed herself', None, None, None, 0), ('after health professionals " missed opportunities "', None, None, None, 0), ('to offer her help ,', None, None, None, 0), ('an inquest has heard .', None, None, None, 1), ('Ms Brampton , 60 ,', None, None, None, 0), ('who wrote a Daily Mail advice column ,', None, None, None, 0), ('drowned', None, None, None, 0), ('after walking into the sea near her home on 10 May .', None, None, None, 1), ("Hastings Coroners ' Court heard", None, None, None, 0), ('she was " in crisis " in March 2016', None, None, None, 0), ('and had sought help from a psychiatrist and GP .', None, None, None, 1)]

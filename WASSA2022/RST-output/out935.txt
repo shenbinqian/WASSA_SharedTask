@@ -1,0 +1,27 @@
+=====================> [[('I remember this going on .', None, None, None, 1), ('I knew someone', None, None, None, 0), ('who considered this option .', None, None, None, 1), ("It 's a shame that women have to think like this , about birth control", None, None, None, 0), ('meant to outlast a political regime .', None, None, None, 1), ('Trump and Pence are reprehensible ,', None, None, None, 0), ("but at least it has n't come to pass", None, None, None, 0), ("- not that they would n't salivate at the opportunity", None, None, None, 0), ("to attack women 's health like this ,", None, None, None, 0), ("we 've just been lucky so far", None, None, None, 0), ("that they have n't got their way .", None, None, None, 1), ('It bothers me', None, None, None, 0), ('how these guys think .', None, None, None, 1)]]
+Leaf:  N Elaborate I remember this going on .
+Leaf:  N Elaborate I knew someone
+Leaf:  S span who considered this option .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's a shame that women have to think like this , about birth control
+Leaf:  S span meant to outlast a political regime .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Trump and Pence are reprehensible ,
+Leaf:  N Explanation but at least it has n't come to pass
+Leaf:  N Elaborate - not that they would n't salivate at the opportunity
+Leaf:  S span to attack women 's health like this ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate we 've just been lucky so far
+Leaf:  S span that they have n't got their way .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span It bothers me
+Leaf:  N Attribution how these guys think .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I remember this going on .', None, None, None, 1), ('I knew someone', None, None, None, 0), ('who considered this option .', None, None, None, 1), ("It 's a shame that women have to think like this , about birth control", None, None, None, 0), ('meant to outlast a political regime .', None, None, None, 1), ('Trump and Pence are reprehensible ,', None, None, None, 0), ("but at least it has n't come to pass", None, None, None, 0), ("- not that they would n't salivate at the opportunity", None, None, None, 0), ("to attack women 's health like this ,", None, None, None, 0), ("we 've just been lucky so far", None, None, None, 0), ("that they have n't got their way .", None, None, None, 1), ('It bothers me', None, None, None, 0), ('how these guys think .', None, None, None, 1)]

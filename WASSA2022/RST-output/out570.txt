@@ -1,0 +1,21 @@
+=====================> [[("I hate that tourism and economy end up hurting our animal 's habitats !", None, None, None, 1), ('People are so selfish', None, None, None, 0), ('while traveling ,', None, None, None, 0), ('and they do not think', None, None, None, 0), ('of how their actions will effect the wildlife in the area .', None, None, None, 1), ('Please remember to clean up your trash , do not litter ,', None, None, None, 0), ('and do not leave items out', None, None, None, 0), ('that will potentially hurt animals', None, None, None, 0), ('when you are visiting an area .', None, None, None, 1), ('Countries need to spend more time and effort on saving natural areas for wildlife .', None, None, None, 1)]]
+Leaf:  N Explanation I hate that tourism and economy end up hurting our animal 's habitats !
+Leaf:  N Temporal People are so selfish
+Leaf:  N Joint while traveling ,
+Leaf:  S span and they do not think
+Leaf:  N Attribution of how their actions will effect the wildlife in the area .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Temporal NS
+Leaf:  N Joint Please remember to clean up your trash , do not litter ,
+Leaf:  N Elaborate and do not leave items out
+Leaf:  N Background that will potentially hurt animals
+Leaf:  S span when you are visiting an area .
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Countries need to spend more time and effort on saving natural areas for wildlife .
+Inner:  Root None None Evaluation NS
+[("I hate that tourism and economy end up hurting our animal 's habitats !", None, None, None, 1), ('People are so selfish', None, None, None, 0), ('while traveling ,', None, None, None, 0), ('and they do not think', None, None, None, 0), ('of how their actions will effect the wildlife in the area .', None, None, None, 1), ('Please remember to clean up your trash , do not litter ,', None, None, None, 0), ('and do not leave items out', None, None, None, 0), ('that will potentially hurt animals', None, None, None, 0), ('when you are visiting an area .', None, None, None, 1), ('Countries need to spend more time and effort on saving natural areas for wildlife .', None, None, None, 1)]

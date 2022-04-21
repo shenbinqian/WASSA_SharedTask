@@ -1,0 +1,23 @@
+=====================> [[("It 's interesting that Hughes was denied entrance at first", None, None, None, 0), ('- he had claimed', None, None, None, 0), ('that Muslim guards worked with the terrorists ,', None, None, None, 0), ('but later retracted that', None, None, None, 0), ('and apologized .', None, None, None, 1), ('Might have been a bigoted knee jerk reaction .', None, None, None, 1), ('It is nice that these bands came back', None, None, None, 0), ('to honor those', None, None, None, 0), ('lost in the attack .', None, None, None, 1), ('I bet it was very emotional', None, None, None, 0), ('to be there .', None, None, None, 1)]]
+Leaf:  N Explanation It 's interesting that Hughes was denied entrance at first
+Leaf:  S span - he had claimed
+Leaf:  N Attribution that Muslim guards worked with the terrorists ,
+Inner:  S span None Attribution SN
+Leaf:  N Joint but later retracted that
+Leaf:  N Joint and apologized .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Might have been a bigoted knee jerk reaction .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement It is nice that these bands came back
+Leaf:  N Elaborate to honor those
+Leaf:  S span lost in the attack .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Elaborate I bet it was very emotional
+Leaf:  S span to be there .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("It 's interesting that Hughes was denied entrance at first", None, None, None, 0), ('- he had claimed', None, None, None, 0), ('that Muslim guards worked with the terrorists ,', None, None, None, 0), ('but later retracted that', None, None, None, 0), ('and apologized .', None, None, None, 1), ('Might have been a bigoted knee jerk reaction .', None, None, None, 1), ('It is nice that these bands came back', None, None, None, 0), ('to honor those', None, None, None, 0), ('lost in the attack .', None, None, None, 1), ('I bet it was very emotional', None, None, None, 0), ('to be there .', None, None, None, 1)]

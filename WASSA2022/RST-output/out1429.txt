@@ -1,0 +1,21 @@
+=====================> [[('there was this article about a subject', None, None, None, 0), ('I no nothing about and really could care less', None, None, None, 0), ('but here I am messaging you about it ..................', None, None, None, 1), ('hope', None, None, None, 0), ('you find this very very very very very very very very entertaining ............ .', None, None, None, 1), ('I know', None, None, None, 0), ('I have ,', None, None, None, 0), ('so what else have you been up to .............', None, None, None, 1), ('i hope', None, None, None, 0), ('you find this pleasant to read ......', None, None, None, 1)]]
+Leaf:  N Elaborate there was this article about a subject
+Leaf:  S span I no nothing about and really could care less
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Topic-Comment but here I am messaging you about it ..................
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span hope
+Leaf:  N Attribution you find this very very very very very very very very entertaining ............ .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I know
+Leaf:  S span I have ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint so what else have you been up to .............
+Inner:  N Elaborate None Joint NN
+Leaf:  S span i hope
+Leaf:  N Attribution you find this pleasant to read ......
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('there was this article about a subject', None, None, None, 0), ('I no nothing about and really could care less', None, None, None, 0), ('but here I am messaging you about it ..................', None, None, None, 1), ('hope', None, None, None, 0), ('you find this very very very very very very very very entertaining ............ .', None, None, None, 1), ('I know', None, None, None, 0), ('I have ,', None, None, None, 0), ('so what else have you been up to .............', None, None, None, 1), ('i hope', None, None, None, 0), ('you find this pleasant to read ......', None, None, None, 1)]

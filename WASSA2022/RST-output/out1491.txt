@@ -1,0 +1,13 @@
+=====================> [[('What I have learned from Aghanistan is that they are really the source of corruption in the middle east .', None, None, None, 1), ('Afghanistan went through bad conditions in the last three decades', None, None, None, 0), ('but in the new government of HAMID KARZAI', None, None, None, 0), ('from 2000', None, None, None, 0), ("it 's started developing again", None, None, None, 0), ("many reconstruction and other works can be seen.It 's going to take a lot of work though .", None, None, None, 1)]]
+Leaf:  N Summary What I have learned from Aghanistan is that they are really the source of corruption in the middle east .
+Leaf:  S span Afghanistan went through bad conditions in the last three decades
+Leaf:  N Same-Unit but in the new government of HAMID KARZAI
+Leaf:  N Same-Unit from 2000
+Leaf:  N Same-Unit it 's started developing again
+Inner:  N Cause None Same-Unit NN
+Leaf:  S span many reconstruction and other works can be seen.It 's going to take a lot of work though .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  Root None None Summary NS
+[('What I have learned from Aghanistan is that they are really the source of corruption in the middle east .', None, None, None, 1), ('Afghanistan went through bad conditions in the last three decades', None, None, None, 0), ('but in the new government of HAMID KARZAI', None, None, None, 0), ('from 2000', None, None, None, 0), ("it 's started developing again", None, None, None, 0), ("many reconstruction and other works can be seen.It 's going to take a lot of work though .", None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('As I read this article ,', None, None, None, 0), ('I felt disturbed', None, None, None, 0), ('knowing', None, None, None, 0), ('that a sexual abuser raped his daughter for many years', None, None, None, 0), ('and the man', None, None, None, 0), ('who murdered him', None, None, None, 0), ('is getting punished for finally ending the torture', None, None, None, 0), ("involved in the girl 's life .", None, None, None, 1), ('Of course , murder was wrong ,', None, None, None, 0), ("but what that girl 's father did to her was by far more unacceptable in my opinion .", None, None, None, 1)]]
+Leaf:  S span As I read this article ,
+Leaf:  N Background I felt disturbed
+Inner:  N Cause None Background SN
+Leaf:  S span knowing
+Leaf:  N Temporal that a sexual abuser raped his daughter for many years
+Leaf:  N Elaborate and the man
+Leaf:  S span who murdered him
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is getting punished for finally ending the torture
+Leaf:  S span involved in the girl 's life .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Temporal None Same-Unit NN
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Cause NS
+Leaf:  N Contrast Of course , murder was wrong ,
+Leaf:  N Contrast but what that girl 's father did to her was by far more unacceptable in my opinion .
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('As I read this article ,', None, None, None, 0), ('I felt disturbed', None, None, None, 0), ('knowing', None, None, None, 0), ('that a sexual abuser raped his daughter for many years', None, None, None, 0), ('and the man', None, None, None, 0), ('who murdered him', None, None, None, 0), ('is getting punished for finally ending the torture', None, None, None, 0), ("involved in the girl 's life .", None, None, None, 1), ('Of course , murder was wrong ,', None, None, None, 0), ("but what that girl 's father did to her was by far more unacceptable in my opinion .", None, None, None, 1)]

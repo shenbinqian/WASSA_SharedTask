@@ -1,0 +1,17 @@
+=====================> [[('New wildfires across Appalachia !', None, None, None, 1), ("Thought I 'd share this with you after our discussion about California wild fires .", None, None, None, 1), ('This one is huge in the Appalachian mountains', None, None, None, 0), ('and seems to be spreading .', None, None, None, 1), ('It can also be seen from space !', None, None, None, 1), ('Hopefully everyone gets out safe', None, None, None, 0), ('and the firefighters are all able to contain it safely .', None, None, None, 1), ('Thinking of you !', None, None, None, 1)]]
+Leaf:  N Textual-Organization New wildfires across Appalachia !
+Leaf:  N Elaborate Thought I 'd share this with you after our discussion about California wild fires .
+Leaf:  N Joint This one is huge in the Appalachian mountains
+Leaf:  N Joint and seems to be spreading .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint It can also be seen from space !
+Inner:  S span None Joint NN
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  N Joint Hopefully everyone gets out safe
+Leaf:  N Joint and the firefighters are all able to contain it safely .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Thinking of you !
+Inner:  Root None None Evaluation NS
+[('New wildfires across Appalachia !', None, None, None, 1), ("Thought I 'd share this with you after our discussion about California wild fires .", None, None, None, 1), ('This one is huge in the Appalachian mountains', None, None, None, 0), ('and seems to be spreading .', None, None, None, 1), ('It can also be seen from space !', None, None, None, 1), ('Hopefully everyone gets out safe', None, None, None, 0), ('and the firefighters are all able to contain it safely .', None, None, None, 1), ('Thinking of you !', None, None, None, 1)]

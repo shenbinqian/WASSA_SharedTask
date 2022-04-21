@@ -1,0 +1,17 @@
+=====================> [[('Its a shame to see the value', None, None, None, 0), ('these terrorists put on other human lives .', None, None, None, 1), ("Torturing and executing members of police force or members of the community for what ? Because their beliefs do n't align ?", None, None, None, 1), ('To say these people ,', None, None, None, 0), ('after being brutally murdered', None, None, None, 0), ('do not deserve a proper burial', None, None, None, 0), ('( at the very least )', None, None, None, 0), ('is just absurd .', None, None, None, 1)]]
+Leaf:  N Elaborate Its a shame to see the value
+Leaf:  S span these terrorists put on other human lives .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Evaluation Torturing and executing members of police force or members of the community for what ? Because their beliefs do n't align ?
+Leaf:  N Same-Unit To say these people ,
+Leaf:  N Same-Unit after being brutally murdered
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Evaluation do not deserve a proper burial
+Leaf:  S span ( at the very least )
+Inner:  N Same-Unit None Evaluation NS
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit is just absurd .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Its a shame to see the value', None, None, None, 0), ('these terrorists put on other human lives .', None, None, None, 1), ("Torturing and executing members of police force or members of the community for what ? Because their beliefs do n't align ?", None, None, None, 1), ('To say these people ,', None, None, None, 0), ('after being brutally murdered', None, None, None, 0), ('do not deserve a proper burial', None, None, None, 0), ('( at the very least )', None, None, None, 0), ('is just absurd .', None, None, None, 1)]

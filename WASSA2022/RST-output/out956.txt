@@ -1,0 +1,35 @@
+=====================> [[('I can not believe', None, None, None, 0), ('that their is still such hate in the world .', None, None, None, 1), ('When I read stories like this', None, None, None, 0), ('I think', None, None, None, 0), ('about how we really need to come together', None, None, None, 0), ('and rid the world of such hate .', None, None, None, 1), ('All those times we talked about things like this', None, None, None, 0), ('happening all over the world', None, None, None, 0), ('really make you think about your own life', None, None, None, 0), ('and what we are doing', None, None, None, 0), ('to make a change/positive impact on the world .', None, None, None, 1), ('I think', None, None, None, 0), ('it is very sad to see lives wasted in this manner such as careless deaths', None, None, None, 0), ('that will get no one anywhere .', None, None, None, 1), ('I know', None, None, None, 0), ('that you have told me a lot of the same things ,', None, None, None, 0), ('so I wanted to see how you felt about this too .', None, None, None, 1)]]
+Leaf:  S span I can not believe
+Leaf:  N Attribution that their is still such hate in the world .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span When I read stories like this
+Leaf:  N Temporal I think
+Inner:  S span None Temporal SN
+Leaf:  N Temporal about how we really need to come together
+Leaf:  N Temporal and rid the world of such hate .
+Inner:  N Attribution None Temporal NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate All those times we talked about things like this
+Leaf:  S span happening all over the world
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint really make you think about your own life
+Leaf:  N Enablement and what we are doing
+Leaf:  S span to make a change/positive impact on the world .
+Inner:  N Joint None Enablement NS
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Elaborate it is very sad to see lives wasted in this manner such as careless deaths
+Leaf:  S span that will get no one anywhere .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I know
+Leaf:  N Attribution that you have told me a lot of the same things ,
+Inner:  S span None Attribution SN
+Leaf:  N Explanation so I wanted to see how you felt about this too .
+Inner:  S span None Explanation SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('I can not believe', None, None, None, 0), ('that their is still such hate in the world .', None, None, None, 1), ('When I read stories like this', None, None, None, 0), ('I think', None, None, None, 0), ('about how we really need to come together', None, None, None, 0), ('and rid the world of such hate .', None, None, None, 1), ('All those times we talked about things like this', None, None, None, 0), ('happening all over the world', None, None, None, 0), ('really make you think about your own life', None, None, None, 0), ('and what we are doing', None, None, None, 0), ('to make a change/positive impact on the world .', None, None, None, 1), ('I think', None, None, None, 0), ('it is very sad to see lives wasted in this manner such as careless deaths', None, None, None, 0), ('that will get no one anywhere .', None, None, None, 1), ('I know', None, None, None, 0), ('that you have told me a lot of the same things ,', None, None, None, 0), ('so I wanted to see how you felt about this too .', None, None, None, 1)]

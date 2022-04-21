@@ -1,0 +1,23 @@
+=====================> [[('This is very sad .', None, None, None, 1), ('I can only imagine', None, None, None, 0), ('how stressful it must be for the people', None, None, None, 0), ('living in the areas', None, None, None, 0), ('threatened by these fires .', None, None, None, 1), ('It must be so stressful', None, None, None, 0), ('knowing', None, None, None, 0), ('that you have to be ready to evacuate any minute', None, None, None, 0), ('and leaving your home and all your belongings behind', None, None, None, 0), ('to possibly never seeing them again .', None, None, None, 1), ('I also feel bad for all the wildlife .', None, None, None, 1)]]
+Leaf:  N Explanation This is very sad .
+Leaf:  S span I can only imagine
+Leaf:  N Elaborate how stressful it must be for the people
+Leaf:  N Elaborate living in the areas
+Leaf:  S span threatened by these fires .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation It must be so stressful
+Leaf:  S span knowing
+Leaf:  N Attribution that you have to be ready to evacuate any minute
+Inner:  N Joint None Attribution SN
+Leaf:  N Enablement and leaving your home and all your belongings behind
+Leaf:  S span to possibly never seeing them again .
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I also feel bad for all the wildlife .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This is very sad .', None, None, None, 1), ('I can only imagine', None, None, None, 0), ('how stressful it must be for the people', None, None, None, 0), ('living in the areas', None, None, None, 0), ('threatened by these fires .', None, None, None, 1), ('It must be so stressful', None, None, None, 0), ('knowing', None, None, None, 0), ('that you have to be ready to evacuate any minute', None, None, None, 0), ('and leaving your home and all your belongings behind', None, None, None, 0), ('to possibly never seeing them again .', None, None, None, 1), ('I also feel bad for all the wildlife .', None, None, None, 1)]

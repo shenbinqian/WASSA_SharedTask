@@ -1,0 +1,21 @@
+=====================> [[('Oh , Yahoo .', None, None, None, 1), ('I wonder', None, None, None, 0), ("what country they 're talking about ? Probably Russia .", None, None, None, 1), ("It 's always Russia nowadays .", None, None, None, 1), ("I 'm glad I stopped using Yahoo years ago .", None, None, None, 1), ('I feel vindicated .', None, None, None, 1), ('Not that Google or any of the other services', None, None, None, 0), ('I give information to', None, None, None, 0), ('are immune .', None, None, None, 1), ("It 's just that Yahoo has such a bad , ugly , sad interface . And now this .", None, None, None, 1)]]
+Leaf:  N Elaborate Oh , Yahoo .
+Leaf:  S span I wonder
+Leaf:  N Attribution what country they 're talking about ? Probably Russia .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It 's always Russia nowadays .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation I 'm glad I stopped using Yahoo years ago .
+Leaf:  N Explanation I feel vindicated .
+Leaf:  N Elaborate Not that Google or any of the other services
+Leaf:  S span I give information to
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are immune .
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Contrast It 's just that Yahoo has such a bad , ugly , sad interface . And now this .
+Inner:  S span None Contrast NN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('Oh , Yahoo .', None, None, None, 1), ('I wonder', None, None, None, 0), ("what country they 're talking about ? Probably Russia .", None, None, None, 1), ("It 's always Russia nowadays .", None, None, None, 1), ("I 'm glad I stopped using Yahoo years ago .", None, None, None, 1), ('I feel vindicated .', None, None, None, 1), ('Not that Google or any of the other services', None, None, None, 0), ('I give information to', None, None, None, 0), ('are immune .', None, None, None, 1), ("It 's just that Yahoo has such a bad , ugly , sad interface . And now this .", None, None, None, 1)]

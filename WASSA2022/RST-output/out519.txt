@@ -1,0 +1,29 @@
+=====================> [[('Did you see all of that stuff', None, None, None, 0), ('going on over in Syria', None, None, None, 0), ('and how Donald Trump in working with the Russian president to missile strike the people over there ?', None, None, None, 1), ('Man , they really have it pretty bad with all of the stuff', None, None, None, 0), ('going on .', None, None, None, 1), ('I feel really bad for the people', None, None, None, 0), ('who are living there', None, None, None, 0), ("that really do n't want any part", None, None, None, 0), ('of what is going on .', None, None, None, 1), ('Could you imagine having dinner', None, None, None, 0), ('and a missile comes flying over your house ?', None, None, None, 1), ('I am definitely glad', None, None, None, 0), ('I live', None, None, None, 0), ('where I live .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you see all of that stuff
+Leaf:  S span going on over in Syria
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and how Donald Trump in working with the Russian president to missile strike the people over there ?
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate Man , they really have it pretty bad with all of the stuff
+Leaf:  S span going on .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I feel really bad for the people
+Leaf:  S span who are living there
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate that really do n't want any part
+Leaf:  S span of what is going on .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Temporal Could you imagine having dinner
+Leaf:  N Temporal and a missile comes flying over your house ?
+Inner:  S span None Temporal NN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I am definitely glad
+Leaf:  N Elaborate I live
+Leaf:  S span where I live .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Did you see all of that stuff', None, None, None, 0), ('going on over in Syria', None, None, None, 0), ('and how Donald Trump in working with the Russian president to missile strike the people over there ?', None, None, None, 1), ('Man , they really have it pretty bad with all of the stuff', None, None, None, 0), ('going on .', None, None, None, 1), ('I feel really bad for the people', None, None, None, 0), ('who are living there', None, None, None, 0), ("that really do n't want any part", None, None, None, 0), ('of what is going on .', None, None, None, 1), ('Could you imagine having dinner', None, None, None, 0), ('and a missile comes flying over your house ?', None, None, None, 1), ('I am definitely glad', None, None, None, 0), ('I live', None, None, None, 0), ('where I live .', None, None, None, 1)]

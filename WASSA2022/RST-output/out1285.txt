@@ -1,0 +1,23 @@
+=====================> [[('this article is about As part of its fight against childhood obesity ,', None, None, None, 0), ('the organization of nations has called on Member States to introduce restrictions on advertising of aforementioned products on all platforms', None, None, None, 0), ('including the internet .', None, None, None, 1), ('In 2012 in Europe ,', None, None, None, 0), ('said the WHO ,', None, None, None, 0), ('children use ‘ digital media ’ for nearly two hours daily on weekdays . And on weekends , they ’re online an extra half an hour longer .', None, None, None, 1), ('Internet use is increasing sharply ,', None, None, None, 0), ('the organization added ,', None, None, None, 0), ('and the trend covers all age groups . Hidden junk food ads online For starters , Google , Facebook and YouTube are the sites with most daily visits online .', None, None, None, 1), ('Meanwhile , Android and iPhone ( iOS ) are the top platforms on hand-held communication devices ,', None, None, None, 0), ('and they also have advertisements via applications .', None, None, None, 1)]]
+Leaf:  S span this article is about As part of its fight against childhood obesity ,
+Leaf:  N Elaborate the organization of nations has called on Member States to introduce restrictions on advertising of aforementioned products on all platforms
+Leaf:  S span including the internet .
+Inner:  N Enablement None Elaborate NS
+Inner:  N Elaborate None Enablement SN
+Leaf:  N Attribution In 2012 in Europe ,
+Leaf:  S span said the WHO ,
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit children use ‘ digital media ’ for nearly two hours daily on weekdays . And on weekends , they ’re online an extra half an hour longer .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Attribution Internet use is increasing sharply ,
+Leaf:  S span the organization added ,
+Inner:  N Joint None Attribution NS
+Leaf:  N Joint and the trend covers all age groups . Hidden junk food ads online For starters , Google , Facebook and YouTube are the sites with most daily visits online .
+Inner:  N Joint None Joint NN
+Leaf:  N Joint Meanwhile , Android and iPhone ( iOS ) are the top platforms on hand-held communication devices ,
+Leaf:  N Joint and they also have advertisements via applications .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('this article is about As part of its fight against childhood obesity ,', None, None, None, 0), ('the organization of nations has called on Member States to introduce restrictions on advertising of aforementioned products on all platforms', None, None, None, 0), ('including the internet .', None, None, None, 1), ('In 2012 in Europe ,', None, None, None, 0), ('said the WHO ,', None, None, None, 0), ('children use ‘ digital media ’ for nearly two hours daily on weekdays . And on weekends , they ’re online an extra half an hour longer .', None, None, None, 1), ('Internet use is increasing sharply ,', None, None, None, 0), ('the organization added ,', None, None, None, 0), ('and the trend covers all age groups . Hidden junk food ads online For starters , Google , Facebook and YouTube are the sites with most daily visits online .', None, None, None, 1), ('Meanwhile , Android and iPhone ( iOS ) are the top platforms on hand-held communication devices ,', None, None, None, 0), ('and they also have advertisements via applications .', None, None, None, 1)]

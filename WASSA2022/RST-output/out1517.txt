@@ -1,0 +1,31 @@
+=====================> [[('I just read', None, None, None, 0), ('that poaching of rhinos for ivory has gotten so bad in South Africa', None, None, None, 0), ("that they 've begun expanding", None, None, None, 0), ('and now have anti-poacher armies .', None, None, None, 1), ('I say good for them .', None, None, None, 1), ("The animals ca n't fight back ,", None, None, None, 0), ('but hopefully the army can deter poachers .', None, None, None, 1), ('I know', None, None, None, 0), ('the poachers do it', None, None, None, 0), ('because they can make a lot of money ,', None, None, None, 0), ("but I just do n't understand it . Big game hunters/trophy hunters and poachers are one in the same to me .", None, None, None, 1), ('I think', None, None, None, 0), ('they are both ridiculous reasons', None, None, None, 0), ('to harm or kill any animal .', None, None, None, 1), ('The anti-poaching armies have a scary , but , I think , extremely necessary job .', None, None, None, 1)]]
+Leaf:  S span I just read
+Leaf:  N Cause that poaching of rhinos for ivory has gotten so bad in South Africa
+Leaf:  S span that they 've begun expanding
+Leaf:  N Cause and now have anti-poacher armies .
+Inner:  S span None Cause SN
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I say good for them .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Contrast The animals ca n't fight back ,
+Leaf:  N Contrast but hopefully the army can deter poachers .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Explanation the poachers do it
+Leaf:  S span because they can make a lot of money ,
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but I just do n't understand it . Big game hunters/trophy hunters and poachers are one in the same to me .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I think
+Leaf:  N Elaborate they are both ridiculous reasons
+Leaf:  S span to harm or kill any animal .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The anti-poaching armies have a scary , but , I think , extremely necessary job .
+Inner:  Root None None Evaluation NS
+[('I just read', None, None, None, 0), ('that poaching of rhinos for ivory has gotten so bad in South Africa', None, None, None, 0), ("that they 've begun expanding", None, None, None, 0), ('and now have anti-poacher armies .', None, None, None, 1), ('I say good for them .', None, None, None, 1), ("The animals ca n't fight back ,", None, None, None, 0), ('but hopefully the army can deter poachers .', None, None, None, 1), ('I know', None, None, None, 0), ('the poachers do it', None, None, None, 0), ('because they can make a lot of money ,', None, None, None, 0), ("but I just do n't understand it . Big game hunters/trophy hunters and poachers are one in the same to me .", None, None, None, 1), ('I think', None, None, None, 0), ('they are both ridiculous reasons', None, None, None, 0), ('to harm or kill any animal .', None, None, None, 1), ('The anti-poaching armies have a scary , but , I think , extremely necessary job .', None, None, None, 1)]

@@ -1,0 +1,13 @@
+=====================> [[('Those native people really dont deserve that kind of treatment its unfair .', None, None, None, 1), ('how can you have people just not speak their own native language ?', None, None, None, 1), ('i dont get why they cant just let them live in both worlds', None, None, None, 0), ('and experience both cultures', None, None, None, 0), ('instead of forcing them to be a part of their specific culture .', None, None, None, 1), ('They really need to be spoken up against for this kind of injustice', None, None, None, 0)]]
+Leaf:  N Explanation Those native people really dont deserve that kind of treatment its unfair .
+Leaf:  S span how can you have people just not speak their own native language ?
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint i dont get why they cant just let them live in both worlds
+Leaf:  N Contrast and experience both cultures
+Leaf:  S span instead of forcing them to be a part of their specific culture .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span They really need to be spoken up against for this kind of injustice
+Inner:  Root None None Evaluation NS
+[('Those native people really dont deserve that kind of treatment its unfair .', None, None, None, 1), ('how can you have people just not speak their own native language ?', None, None, None, 1), ('i dont get why they cant just let them live in both worlds', None, None, None, 0), ('and experience both cultures', None, None, None, 0), ('instead of forcing them to be a part of their specific culture .', None, None, None, 1), ('They really need to be spoken up against for this kind of injustice', None, None, None, 0)]

@@ -1,0 +1,31 @@
+=====================> [[('This article highlights the fact', None, None, None, 0), ('that we might be going on about our lives , secure in the knowledge', None, None, None, 0), ('that everything is fine ,', None, None, None, 0), ('but then', None, None, None, 0), ('suddenly when you least expect it ,', None, None, None, 0), ('we are reminded of our own mortality .', None, None, None, 1), ('It makes me want to live each and every day as well as I can ,', None, None, None, 0), ('because I never know', None, None, None, 0), ('if it might be my last . Sometimes we think', None, None, None, 0), ('we have forever ,', None, None, None, 0), ('but this article is a reminder', None, None, None, 0), ('that each day', None, None, None, 0), ('we live on this Earth , imperfect', None, None, None, 0), ('though it may be ,', None, None, None, 0), ('is a gift .', None, None, None, 1)]]
+Leaf:  N Elaborate This article highlights the fact
+Leaf:  N Elaborate that we might be going on about our lives , secure in the knowledge
+Leaf:  S span that everything is fine ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Same-Unit but then
+Leaf:  N Same-Unit suddenly when you least expect it ,
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit we are reminded of our own mortality .
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Explanation It makes me want to live each and every day as well as I can ,
+Leaf:  S span because I never know
+Leaf:  S span if it might be my last . Sometimes we think
+Leaf:  N Attribution we have forever ,
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Explanation NS
+Leaf:  N Elaborate but this article is a reminder
+Leaf:  N Elaborate that each day
+Leaf:  N Contrast we live on this Earth , imperfect
+Leaf:  S span though it may be ,
+Inner:  S span None Contrast NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is a gift .
+Inner:  S span None Same-Unit NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('This article highlights the fact', None, None, None, 0), ('that we might be going on about our lives , secure in the knowledge', None, None, None, 0), ('that everything is fine ,', None, None, None, 0), ('but then', None, None, None, 0), ('suddenly when you least expect it ,', None, None, None, 0), ('we are reminded of our own mortality .', None, None, None, 1), ('It makes me want to live each and every day as well as I can ,', None, None, None, 0), ('because I never know', None, None, None, 0), ('if it might be my last . Sometimes we think', None, None, None, 0), ('we have forever ,', None, None, None, 0), ('but this article is a reminder', None, None, None, 0), ('that each day', None, None, None, 0), ('we live on this Earth , imperfect', None, None, None, 0), ('though it may be ,', None, None, None, 0), ('is a gift .', None, None, None, 1)]

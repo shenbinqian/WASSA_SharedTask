@@ -1,0 +1,25 @@
+=====================> [[('There was a fire last night in an apartment complex in Arizona .', None, None, None, 1), ('The article', None, None, None, 0), ('that I read', None, None, None, 0), ('does not say', None, None, None, 0), ('what exactly caused the fire .', None, None, None, 1), ('All in all 10 people were hurt .', None, None, None, 1), ("I 'm really glad", None, None, None, 0), ('that nobody died ,', None, None, None, 0), ('that would have been really bad', None, None, None, 0), ('if someone did .', None, None, None, 1), ('I can not imagine what must be going through peoples minds', None, None, None, 0), ('when something that crazy happens .', None, None, None, 1)]]
+Leaf:  N Elaborate There was a fire last night in an apartment complex in Arizona .
+Leaf:  N Elaborate The article
+Leaf:  S span that I read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span does not say
+Leaf:  N Attribution what exactly caused the fire .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span All in all 10 people were hurt .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I 'm really glad
+Leaf:  N Evaluation that nobody died ,
+Leaf:  N Condition that would have been really bad
+Leaf:  S span if someone did .
+Inner:  S span None Condition NS
+Inner:  N Attribution None Evaluation NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Background I can not imagine what must be going through peoples minds
+Leaf:  S span when something that crazy happens .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('There was a fire last night in an apartment complex in Arizona .', None, None, None, 1), ('The article', None, None, None, 0), ('that I read', None, None, None, 0), ('does not say', None, None, None, 0), ('what exactly caused the fire .', None, None, None, 1), ('All in all 10 people were hurt .', None, None, None, 1), ("I 'm really glad", None, None, None, 0), ('that nobody died ,', None, None, None, 0), ('that would have been really bad', None, None, None, 0), ('if someone did .', None, None, None, 1), ('I can not imagine what must be going through peoples minds', None, None, None, 0), ('when something that crazy happens .', None, None, None, 1)]

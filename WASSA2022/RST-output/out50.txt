@@ -1,0 +1,17 @@
+=====================> [[('This is terrible ,', None, None, None, 0), ('but what I find hard to believe is that there are still that many Yahoo accounts in the world', None, None, None, 0), ("that are n't spambots .", None, None, None, 1), ('Or some other kind of bots .', None, None, None, 1), ("Anyway , are n't you glad I got you on gmail ?", None, None, None, 1), ("I 'm glad I shut my yahoo account down a long time ago .", None, None, None, 1), ('You should probably do that ,', None, None, None, 0), ("if you have n't , just for safety 's sake .", None, None, None, 1)]]
+Leaf:  S span This is terrible ,
+Leaf:  N Elaborate but what I find hard to believe is that there are still that many Yahoo accounts in the world
+Leaf:  N Summary that are n't spambots .
+Leaf:  S span Or some other kind of bots .
+Inner:  S span None Summary NS
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Evaluation Anyway , are n't you glad I got you on gmail ?
+Leaf:  N Evaluation I 'm glad I shut my yahoo account down a long time ago .
+Leaf:  N Condition You should probably do that ,
+Leaf:  S span if you have n't , just for safety 's sake .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is terrible ,', None, None, None, 0), ('but what I find hard to believe is that there are still that many Yahoo accounts in the world', None, None, None, 0), ("that are n't spambots .", None, None, None, 1), ('Or some other kind of bots .', None, None, None, 1), ("Anyway , are n't you glad I got you on gmail ?", None, None, None, 1), ("I 'm glad I shut my yahoo account down a long time ago .", None, None, None, 1), ('You should probably do that ,', None, None, None, 0), ("if you have n't , just for safety 's sake .", None, None, None, 1)]

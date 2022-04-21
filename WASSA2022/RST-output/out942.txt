@@ -1,0 +1,29 @@
+=====================> [[('I was shocked at these statistics .', None, None, None, 1), ('temperatures are becoming dangerously high .', None, None, None, 1), ('the culprits is the fossil fuel industries .', None, None, None, 1), ('we need to hold them accountable ,', None, None, None, 0), ('the government has failed ,', None, None, None, 0), ('But how can we have faith in our governments', None, None, None, 0), ('to take this action', None, None, None, 0), ('when they continue to hand nearly hundreds of billions of dollars in government subsidies to the coal , gas , and oil industries ?', None, None, None, 1), ('Ending these subsidies would be a giant step', None, None, None, 0), ('towards solving the climate crisis', None, None, None, 0), ('saving giga onnes of carbon dioxide emissions ,', None, None, None, 0), ('and helping make clean energy cheaper than fossil fuels ,', None, None, None, 0), ('we need to do something', None, None, None, 0), ('and do it now', None, None, None, 0)]]
+Leaf:  N Elaborate I was shocked at these statistics .
+Leaf:  S span temperatures are becoming dangerously high .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span the culprits is the fossil fuel industries .
+Leaf:  N Evaluation we need to hold them accountable ,
+Leaf:  S span the government has failed ,
+Inner:  N Contrast None Evaluation NS
+Leaf:  N Elaborate But how can we have faith in our governments
+Leaf:  S span to take this action
+Inner:  N Background None Elaborate NS
+Leaf:  S span when they continue to hand nearly hundreds of billions of dollars in government subsidies to the coal , gas , and oil industries ?
+Inner:  N Contrast None Background NS
+Inner:  N Evaluation None Contrast NN
+Inner:  N Explanation None Evaluation SN
+Leaf:  N Elaborate Ending these subsidies would be a giant step
+Leaf:  S span towards solving the climate crisis
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint saving giga onnes of carbon dioxide emissions ,
+Leaf:  N Joint and helping make clean energy cheaper than fossil fuels ,
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Temporal we need to do something
+Leaf:  N Temporal and do it now
+Inner:  N Topic-Comment None Temporal NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I was shocked at these statistics .', None, None, None, 1), ('temperatures are becoming dangerously high .', None, None, None, 1), ('the culprits is the fossil fuel industries .', None, None, None, 1), ('we need to hold them accountable ,', None, None, None, 0), ('the government has failed ,', None, None, None, 0), ('But how can we have faith in our governments', None, None, None, 0), ('to take this action', None, None, None, 0), ('when they continue to hand nearly hundreds of billions of dollars in government subsidies to the coal , gas , and oil industries ?', None, None, None, 1), ('Ending these subsidies would be a giant step', None, None, None, 0), ('towards solving the climate crisis', None, None, None, 0), ('saving giga onnes of carbon dioxide emissions ,', None, None, None, 0), ('and helping make clean energy cheaper than fossil fuels ,', None, None, None, 0), ('we need to do something', None, None, None, 0), ('and do it now', None, None, None, 0)]

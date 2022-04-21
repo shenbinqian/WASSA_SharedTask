@@ -1,0 +1,25 @@
+=====================> [[('Really sad', None, None, None, 0), ("to hear Janet Reno passed away from Parkinson 's disease .", None, None, None, 1), ('I guess', None, None, None, 0), ('she battled it', None, None, None, 0), ('for 20 years I had no idea .', None, None, None, 1), ('She sure worked hard for the American people .', None, None, None, 1), ('I am glad', None, None, None, 0), ('she was at home with family and friends around at the end .', None, None, None, 1), ('She was a lot older than I thought .', None, None, None, 1), ('I hope', None, None, None, 0), ("we can find a cure for Parkinson 's some day .", None, None, None, 1), ("My husband 's grandfather had it terrible disease", None, None, None, 0)]]
+Leaf:  S span Really sad
+Leaf:  N Attribution to hear Janet Reno passed away from Parkinson 's disease .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I guess
+Leaf:  N Temporal she battled it
+Leaf:  S span for 20 years I had no idea .
+Inner:  N Attribution None Temporal NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate She sure worked hard for the American people .
+Leaf:  S span I am glad
+Leaf:  N Attribution she was at home with family and friends around at the end .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She was a lot older than I thought .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution we can find a cure for Parkinson 's some day .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span My husband 's grandfather had it terrible disease
+Inner:  Root None None Elaborate NS
+[('Really sad', None, None, None, 0), ("to hear Janet Reno passed away from Parkinson 's disease .", None, None, None, 1), ('I guess', None, None, None, 0), ('she battled it', None, None, None, 0), ('for 20 years I had no idea .', None, None, None, 1), ('She sure worked hard for the American people .', None, None, None, 1), ('I am glad', None, None, None, 0), ('she was at home with family and friends around at the end .', None, None, None, 1), ('She was a lot older than I thought .', None, None, None, 1), ('I hope', None, None, None, 0), ("we can find a cure for Parkinson 's some day .", None, None, None, 1), ("My husband 's grandfather had it terrible disease", None, None, None, 0)]

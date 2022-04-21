@@ -1,0 +1,19 @@
+=====================> [[('Have you ever heard of sudden oak death ?', None, None, None, 1), ('Over 66 million trees have just vanished since 2010 .', None, None, None, 1), ('bacteria is spread through the water .', None, None, None, 1), ('This is a scary thought', None, None, None, 0), ('where are we going to be at in the next 5 years ?', None, None, None, 1), ('I think', None, None, None, 0), ('that we need to take note', None, None, None, 0), ('and start worrying about our planet', None, None, None, 0), ('this is not a good sign at all .', None, None, None, 1)]]
+Leaf:  N Elaborate Have you ever heard of sudden oak death ?
+Leaf:  N Cause Over 66 million trees have just vanished since 2010 .
+Leaf:  S span bacteria is spread through the water .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation This is a scary thought
+Leaf:  S span where are we going to be at in the next 5 years ?
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Joint that we need to take note
+Leaf:  N Joint and start worrying about our planet
+Inner:  N Evaluation None Joint NN
+Leaf:  S span this is not a good sign at all .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Have you ever heard of sudden oak death ?', None, None, None, 1), ('Over 66 million trees have just vanished since 2010 .', None, None, None, 1), ('bacteria is spread through the water .', None, None, None, 1), ('This is a scary thought', None, None, None, 0), ('where are we going to be at in the next 5 years ?', None, None, None, 1), ('I think', None, None, None, 0), ('that we need to take note', None, None, None, 0), ('and start worrying about our planet', None, None, None, 0), ('this is not a good sign at all .', None, None, None, 1)]

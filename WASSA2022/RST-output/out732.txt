@@ -1,0 +1,29 @@
+=====================> [[('Can you believe', None, None, None, 0), ('how disturbed some people are ?', None, None, None, 1), ('I just read an article about a woman', None, None, None, 0), ('whose parents forced her to have sex with both of them', None, None, None, 0), ('when she was 11 .', None, None, None, 1), ('They did it for money .', None, None, None, 1), ('If you are a parent', None, None, None, 0), ('struggling for money ,', None, None, None, 0), ('how in the world does your mind turn to sexually abusing your child for money ?', None, None, None, 1), ('They are sick ,', None, None, None, 0), ('and 20 years is not enough time for them in prison . They are the people', None, None, None, 0), ('that are supposed to protect her ,', None, None, None, 0), ('and they violated her in the worst way .', None, None, None, 1), ('She is very brave for telling her story and for just being a survivor .', None, None, None, 1)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution how disturbed some people are ?
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate I just read an article about a woman
+Leaf:  N Temporal whose parents forced her to have sex with both of them
+Leaf:  S span when she was 11 .
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span They did it for money .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate If you are a parent
+Leaf:  S span struggling for money ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition how in the world does your mind turn to sexually abusing your child for money ?
+Inner:  N Explanation None Condition SN
+Leaf:  N Joint They are sick ,
+Leaf:  N Elaborate and 20 years is not enough time for them in prison . They are the people
+Leaf:  S span that are supposed to protect her ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast and they violated her in the worst way .
+Inner:  N Joint None Contrast SN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Explanation NS
+Inner:  S span None Topic-Comment NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span She is very brave for telling her story and for just being a survivor .
+Inner:  Root None None Evaluation NS
+[('Can you believe', None, None, None, 0), ('how disturbed some people are ?', None, None, None, 1), ('I just read an article about a woman', None, None, None, 0), ('whose parents forced her to have sex with both of them', None, None, None, 0), ('when she was 11 .', None, None, None, 1), ('They did it for money .', None, None, None, 1), ('If you are a parent', None, None, None, 0), ('struggling for money ,', None, None, None, 0), ('how in the world does your mind turn to sexually abusing your child for money ?', None, None, None, 1), ('They are sick ,', None, None, None, 0), ('and 20 years is not enough time for them in prison . They are the people', None, None, None, 0), ('that are supposed to protect her ,', None, None, None, 0), ('and they violated her in the worst way .', None, None, None, 1), ('She is very brave for telling her story and for just being a survivor .', None, None, None, 1)]

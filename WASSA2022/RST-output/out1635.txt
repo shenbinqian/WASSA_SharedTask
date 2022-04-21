@@ -1,0 +1,25 @@
+=====================> [[('Did you hear', None, None, None, 0), ('that some kids in another country are passing out in school', None, None, None, 0), ('because they do not have enough', None, None, None, 0), ('to eat ?', None, None, None, 1), ('The school can not do much or wont due to lack of funding .', None, None, None, 1), ('Over 35 % of kids do not even go to school', None, None, None, 0), ('because of lack of food', None, None, None, 0), ('causing some effect .', None, None, None, 1), ('That is so sad .', None, None, None, 1), ('I am glad', None, None, None, 0), ('that our government has different programs instilled', None, None, None, 0), ('to prevent that .', None, None, None, 1)]]
+Leaf:  S span Did you hear
+Leaf:  N Cause that some kids in another country are passing out in school
+Leaf:  N Elaborate because they do not have enough
+Leaf:  S span to eat ?
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The school can not do much or wont due to lack of funding .
+Leaf:  N Cause Over 35 % of kids do not even go to school
+Leaf:  S span because of lack of food
+Inner:  N Elaborate None Cause NS
+Leaf:  S span causing some effect .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation That is so sad .
+Leaf:  S span I am glad
+Leaf:  N Enablement that our government has different programs instilled
+Leaf:  S span to prevent that .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Did you hear', None, None, None, 0), ('that some kids in another country are passing out in school', None, None, None, 0), ('because they do not have enough', None, None, None, 0), ('to eat ?', None, None, None, 1), ('The school can not do much or wont due to lack of funding .', None, None, None, 1), ('Over 35 % of kids do not even go to school', None, None, None, 0), ('because of lack of food', None, None, None, 0), ('causing some effect .', None, None, None, 1), ('That is so sad .', None, None, None, 1), ('I am glad', None, None, None, 0), ('that our government has different programs instilled', None, None, None, 0), ('to prevent that .', None, None, None, 1)]

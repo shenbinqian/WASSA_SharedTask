@@ -1,0 +1,25 @@
+=====================> [[('This was heartbreaking to read .', None, None, None, 1), ("I ca n't imagine what it 's like to leave the house every day", None, None, None, 0), ('not knowing', None, None, None, 0), ('if you will come back , or of living in fear', None, None, None, 0), ('of letting your children leave the house', None, None, None, 0), ('to go to school', None, None, None, 0), ('because they might not make it home .', None, None, None, 1), ('Civilians should not have to fear for their lives', None, None, None, 0), ("when they 're just trying to get through the day .", None, None, None, 1), ('It sickens me', None, None, None, 0), ('that the US has participated in strikes', None, None, None, 0), ('that lead to such consequences .', None, None, None, 1)]]
+Leaf:  N Explanation This was heartbreaking to read .
+Leaf:  N Manner-Means I ca n't imagine what it 's like to leave the house every day
+Leaf:  S span not knowing
+Leaf:  N Attribution if you will come back , or of living in fear
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement of letting your children leave the house
+Leaf:  S span to go to school
+Inner:  N Cause None Enablement NS
+Leaf:  S span because they might not make it home .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Manner-Means NS
+Leaf:  N Background Civilians should not have to fear for their lives
+Leaf:  S span when they 're just trying to get through the day .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span It sickens me
+Leaf:  N Elaborate that the US has participated in strikes
+Leaf:  S span that lead to such consequences .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('This was heartbreaking to read .', None, None, None, 1), ("I ca n't imagine what it 's like to leave the house every day", None, None, None, 0), ('not knowing', None, None, None, 0), ('if you will come back , or of living in fear', None, None, None, 0), ('of letting your children leave the house', None, None, None, 0), ('to go to school', None, None, None, 0), ('because they might not make it home .', None, None, None, 1), ('Civilians should not have to fear for their lives', None, None, None, 0), ("when they 're just trying to get through the day .", None, None, None, 1), ('It sickens me', None, None, None, 0), ('that the US has participated in strikes', None, None, None, 0), ('that lead to such consequences .', None, None, None, 1)]

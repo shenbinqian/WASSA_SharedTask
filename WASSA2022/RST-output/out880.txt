@@ -1,0 +1,21 @@
+=====================> [[('Trump refuses to take a salary from the government', None, None, None, 0), ('for being president .', None, None, None, 1), ('Well he is rich', None, None, None, 0), ('so $ 400,000 is probably nothing to him .', None, None, None, 1), ('Its saving the government', None, None, None, 0), ('but that would probably be the only smart move', None, None, None, 0), ('hes made', None, None, None, 0), ('since hes been in the white house period . Im not a Trump supporter', None, None, None, 0), ('but I like the idea', None, None, None, 0), ('that he chose to save the government money .', None, None, None, 1)]]
+Leaf:  N Explanation Trump refuses to take a salary from the government
+Leaf:  S span for being president .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Well he is rich
+Leaf:  N Background so $ 400,000 is probably nothing to him .
+Inner:  S span None Background SN
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Contrast Its saving the government
+Leaf:  N Elaborate but that would probably be the only smart move
+Leaf:  N Background hes made
+Leaf:  S span since hes been in the white house period . Im not a Trump supporter
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but I like the idea
+Leaf:  S span that he chose to save the government money .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Topic-Comment None Contrast NS
+Inner:  Root None None Topic-Comment NN
+[('Trump refuses to take a salary from the government', None, None, None, 0), ('for being president .', None, None, None, 1), ('Well he is rich', None, None, None, 0), ('so $ 400,000 is probably nothing to him .', None, None, None, 1), ('Its saving the government', None, None, None, 0), ('but that would probably be the only smart move', None, None, None, 0), ('hes made', None, None, None, 0), ('since hes been in the white house period . Im not a Trump supporter', None, None, None, 0), ('but I like the idea', None, None, None, 0), ('that he chose to save the government money .', None, None, None, 1)]

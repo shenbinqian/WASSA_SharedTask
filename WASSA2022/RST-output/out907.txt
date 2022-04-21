@@ -1,0 +1,35 @@
+=====================> [[('Whos mother would wish their child dead', None, None, None, 0), ('over being blind .', None, None, None, 1), ('That has to be one of the worst things', None, None, None, 0), ('I have read in quite some time .', None, None, None, 1), ('I have a very hard time', None, None, None, 0), ("digesting that the mother could overcome her daughter 's death over her blindness , she clearly has some things", None, None, None, 0), ('that she needs', None, None, None, 0), ('to work out', None, None, None, 0), ('because while being blind is not ideal the girl can and will overcome her injury . It is truly unfortunate that they live n a place', None, None, None, 0), ('where the need', None, None, None, 0), ('to " own " land', None, None, None, 0), ('comes at the cost of this girls eyesight .', None, None, None, 1), ('It seems to me it was in an effort', None, None, None, 0), ('to reduce killing', None, None, None, 0), ('that these pellets were used', None, None, None, 0), ('and a horrible accident', None, None, None, 0), ('that injured her .', None, None, None, 1)]]
+Leaf:  N Cause Whos mother would wish their child dead
+Leaf:  S span over being blind .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate That has to be one of the worst things
+Leaf:  S span I have read in quite some time .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Manner-Means I have a very hard time
+Leaf:  N Elaborate digesting that the mother could overcome her daughter 's death over her blindness , she clearly has some things
+Leaf:  S span that she needs
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span to work out
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Manner-Means NS
+Leaf:  N Elaborate because while being blind is not ideal the girl can and will overcome her injury . It is truly unfortunate that they live n a place
+Leaf:  N Elaborate where the need
+Leaf:  S span to " own " land
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit comes at the cost of this girls eyesight .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  S span None Explanation NS
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Elaborate It seems to me it was in an effort
+Leaf:  N Elaborate to reduce killing
+Leaf:  S span that these pellets were used
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and a horrible accident
+Leaf:  S span that injured her .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Explanation NS
+[('Whos mother would wish their child dead', None, None, None, 0), ('over being blind .', None, None, None, 1), ('That has to be one of the worst things', None, None, None, 0), ('I have read in quite some time .', None, None, None, 1), ('I have a very hard time', None, None, None, 0), ("digesting that the mother could overcome her daughter 's death over her blindness , she clearly has some things", None, None, None, 0), ('that she needs', None, None, None, 0), ('to work out', None, None, None, 0), ('because while being blind is not ideal the girl can and will overcome her injury . It is truly unfortunate that they live n a place', None, None, None, 0), ('where the need', None, None, None, 0), ('to " own " land', None, None, None, 0), ('comes at the cost of this girls eyesight .', None, None, None, 1), ('It seems to me it was in an effort', None, None, None, 0), ('to reduce killing', None, None, None, 0), ('that these pellets were used', None, None, None, 0), ('and a horrible accident', None, None, None, 0), ('that injured her .', None, None, None, 1)]

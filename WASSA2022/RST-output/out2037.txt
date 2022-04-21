@@ -1,0 +1,37 @@
+=====================> [[('There are many species of grass worldwide', None, None, None, 0), ('that provide dietary needs of humans .', None, None, None, 1), ('Climate change', None, None, None, 0), ('affecting the most natural source of food for the world', None, None, None, 0), ('is disturbing .', None, None, None, 1), ('We need to protect the climate from changes', None, None, None, 0), ('that will affect the survival rate of grass species .', None, None, None, 1), ('Now that scientist have confirmed', None, None, None, 0), ('that change is need ,', None, None, None, 0), ('inform the world .', None, None, None, 1), ('I was unaware of the circumstances', None, None, None, 0), ('revolving around global change in relation to food', None, None, None, 0), ('until I read this article .', None, None, None, 1), ('We need to globally change our practices right away .', None, None, None, 1), ('Future generations face impact of our lack', None, None, None, 0), ('to take action immediately', None, None, None, 0), ('and that is an emergency problem .', None, None, None, 1), ('It needs to be alleviated just as much as scientist are trying to look into climate proof food crops and genetic variations of food crops .', None, None, None, 1)]]
+Leaf:  N Elaborate There are many species of grass worldwide
+Leaf:  S span that provide dietary needs of humans .
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate Climate change
+Leaf:  S span affecting the most natural source of food for the world
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is disturbing .
+Inner:  N Topic-Comment None Same-Unit NN
+Leaf:  N Elaborate We need to protect the climate from changes
+Leaf:  S span that will affect the survival rate of grass species .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Topic-Comment None Topic-Comment NN
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span Now that scientist have confirmed
+Leaf:  N Attribution that change is need ,
+Inner:  S span None Attribution SN
+Leaf:  N Background inform the world .
+Inner:  S span None Background SN
+Inner:  N Background None Elaborate NS
+Leaf:  N Elaborate I was unaware of the circumstances
+Leaf:  S span revolving around global change in relation to food
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit until I read this article .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Evaluation We need to globally change our practices right away .
+Leaf:  N Elaborate Future generations face impact of our lack
+Leaf:  S span to take action immediately
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and that is an emergency problem .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It needs to be alleviated just as much as scientist are trying to look into climate proof food crops and genetic variations of food crops .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Background NS
+[('There are many species of grass worldwide', None, None, None, 0), ('that provide dietary needs of humans .', None, None, None, 1), ('Climate change', None, None, None, 0), ('affecting the most natural source of food for the world', None, None, None, 0), ('is disturbing .', None, None, None, 1), ('We need to protect the climate from changes', None, None, None, 0), ('that will affect the survival rate of grass species .', None, None, None, 1), ('Now that scientist have confirmed', None, None, None, 0), ('that change is need ,', None, None, None, 0), ('inform the world .', None, None, None, 1), ('I was unaware of the circumstances', None, None, None, 0), ('revolving around global change in relation to food', None, None, None, 0), ('until I read this article .', None, None, None, 1), ('We need to globally change our practices right away .', None, None, None, 1), ('Future generations face impact of our lack', None, None, None, 0), ('to take action immediately', None, None, None, 0), ('and that is an emergency problem .', None, None, None, 1), ('It needs to be alleviated just as much as scientist are trying to look into climate proof food crops and genetic variations of food crops .', None, None, None, 1)]

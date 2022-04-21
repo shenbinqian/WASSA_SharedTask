@@ -1,0 +1,33 @@
+=====================> [[('I think', None, None, None, 0), ('timeshares are silly', None, None, None, 0), ('and this article just confirms it .', None, None, None, 1), ('In the article it talks', None, None, None, 0), ('about how hard it is for some people to get rid of timeshares', None, None, None, 0), ('after they have them .', None, None, None, 1), ('Timeshare salesmen are so pushy', None, None, None, 0), ('when you first sign up', None, None, None, 0), ('for one', None, None, None, 0), ("I ca n't imagine", None, None, None, 0), ('how hard it is to get out of one .', None, None, None, 1), ("I 'm just glad", None, None, None, 0), ("that I do n't have a timeshare", None, None, None, 0), ("and never will . I 'm sure", None, None, None, 0), ('they have some many tiny provisions in their contracts', None, None, None, 0), ('that make them really difficult to get out of successfully .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution timeshares are silly
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation and this article just confirms it .
+Inner:  N Elaborate None Evaluation NN
+Leaf:  S span In the article it talks
+Leaf:  N Temporal about how hard it is for some people to get rid of timeshares
+Leaf:  S span after they have them .
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Background Timeshare salesmen are so pushy
+Leaf:  N Enablement when you first sign up
+Leaf:  S span for one
+Inner:  S span None Enablement NS
+Inner:  S span None Background NS
+Leaf:  S span I ca n't imagine
+Leaf:  N Attribution how hard it is to get out of one .
+Inner:  N Enablement None Attribution SN
+Inner:  N Evaluation None Enablement SN
+Leaf:  S span I 'm just glad
+Leaf:  N Joint that I do n't have a timeshare
+Leaf:  S span and never will . I 'm sure
+Leaf:  N Elaborate they have some many tiny provisions in their contracts
+Leaf:  S span that make them really difficult to get out of successfully .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I think', None, None, None, 0), ('timeshares are silly', None, None, None, 0), ('and this article just confirms it .', None, None, None, 1), ('In the article it talks', None, None, None, 0), ('about how hard it is for some people to get rid of timeshares', None, None, None, 0), ('after they have them .', None, None, None, 1), ('Timeshare salesmen are so pushy', None, None, None, 0), ('when you first sign up', None, None, None, 0), ('for one', None, None, None, 0), ("I ca n't imagine", None, None, None, 0), ('how hard it is to get out of one .', None, None, None, 1), ("I 'm just glad", None, None, None, 0), ("that I do n't have a timeshare", None, None, None, 0), ("and never will . I 'm sure", None, None, None, 0), ('they have some many tiny provisions in their contracts', None, None, None, 0), ('that make them really difficult to get out of successfully .', None, None, None, 1)]

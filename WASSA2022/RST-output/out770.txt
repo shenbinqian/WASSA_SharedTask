@@ -1,0 +1,35 @@
+=====================> [[('An article', None, None, None, 0), ('that I just read', None, None, None, 0), ('is really pretty disturbing .', None, None, None, 1), ('It speaks of the tremendous droughts in the river areas of Bolivia .', None, None, None, 1), ("It 's bad enough", None, None, None, 0), ('because it is just a natural disaster situation ,', None, None, None, 0), ('but the fact', None, None, None, 0), ('that there was also mismanagement', None, None, None, 0), ('involved is particularly troubling .', None, None, None, 1), ('The government failed to properly care for the canals . The article also speaks of selling off many of its wild animals .', None, None, None, 1), ('This might become a very serious problem', None, None, None, 0), ('given the fact', None, None, None, 0), ('that some of the animals are endangered species such as the wild dog .', None, None, None, 1), ('They are also looking at selling off elephants , lions and pythons .', None, None, None, 1), ('Even if they do this ,', None, None, None, 0), ('how much of the money will ever actually reach its citizens', None, None, None, 0), ('to help them ?', None, None, None, 1)]]
+Leaf:  N Elaborate An article
+Leaf:  S span that I just read
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is really pretty disturbing .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Evaluation It speaks of the tremendous droughts in the river areas of Bolivia .
+Leaf:  N Explanation It 's bad enough
+Leaf:  S span because it is just a natural disaster situation ,
+Inner:  S span None Explanation NS
+Leaf:  N Elaborate but the fact
+Leaf:  S span that there was also mismanagement
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span involved is particularly troubling .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Evaluation The government failed to properly care for the canals . The article also speaks of selling off many of its wild animals .
+Leaf:  N Explanation This might become a very serious problem
+Leaf:  N Elaborate given the fact
+Leaf:  S span that some of the animals are endangered species such as the wild dog .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate They are also looking at selling off elephants , lions and pythons .
+Leaf:  S span Even if they do this ,
+Leaf:  N Enablement how much of the money will ever actually reach its citizens
+Leaf:  S span to help them ?
+Inner:  N Condition None Enablement NS
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('An article', None, None, None, 0), ('that I just read', None, None, None, 0), ('is really pretty disturbing .', None, None, None, 1), ('It speaks of the tremendous droughts in the river areas of Bolivia .', None, None, None, 1), ("It 's bad enough", None, None, None, 0), ('because it is just a natural disaster situation ,', None, None, None, 0), ('but the fact', None, None, None, 0), ('that there was also mismanagement', None, None, None, 0), ('involved is particularly troubling .', None, None, None, 1), ('The government failed to properly care for the canals . The article also speaks of selling off many of its wild animals .', None, None, None, 1), ('This might become a very serious problem', None, None, None, 0), ('given the fact', None, None, None, 0), ('that some of the animals are endangered species such as the wild dog .', None, None, None, 1), ('They are also looking at selling off elephants , lions and pythons .', None, None, None, 1), ('Even if they do this ,', None, None, None, 0), ('how much of the money will ever actually reach its citizens', None, None, None, 0), ('to help them ?', None, None, None, 1)]

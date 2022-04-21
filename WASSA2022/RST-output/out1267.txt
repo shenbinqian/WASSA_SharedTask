@@ -1,0 +1,31 @@
+=====================> [[('The story', None, None, None, 0), ('that was told in the article', None, None, None, 0), ('that I read', None, None, None, 0), ('was I thought', None, None, None, 0), ('was pretty sad', None, None, None, 0), ('considering it highlighted a better time in life', None, None, None, 0), ('where things were not so violent in the world .', None, None, None, 1), ('There are so many acts of terror these days', None, None, None, 0), ('that it is hard to keep track of and the incident described feels the same way .', None, None, None, 1), ('Unfortunately there are so many bad people in this world', None, None, None, 0), ('that feel', None, None, None, 0), ('like they should be able to do all these bad things to other people', None, None, None, 0), ('because of some message', None, None, None, 0), ('they are trying to spread', None, None, None, 0), ('but really just causing a lot of pain for everyone .', None, None, None, 1)]]
+Leaf:  N Elaborate The story
+Leaf:  N Elaborate that was told in the article
+Leaf:  S span that I read
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was I thought
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Background was pretty sad
+Leaf:  N Elaborate considering it highlighted a better time in life
+Leaf:  S span where things were not so violent in the world .
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Background NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Summary There are so many acts of terror these days
+Leaf:  S span that it is hard to keep track of and the incident described feels the same way .
+Inner:  S span None Summary NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Unfortunately there are so many bad people in this world
+Leaf:  S span that feel
+Leaf:  N Explanation like they should be able to do all these bad things to other people
+Leaf:  N Elaborate because of some message
+Leaf:  N Joint they are trying to spread
+Leaf:  N Joint but really just causing a lot of pain for everyone .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The story', None, None, None, 0), ('that was told in the article', None, None, None, 0), ('that I read', None, None, None, 0), ('was I thought', None, None, None, 0), ('was pretty sad', None, None, None, 0), ('considering it highlighted a better time in life', None, None, None, 0), ('where things were not so violent in the world .', None, None, None, 1), ('There are so many acts of terror these days', None, None, None, 0), ('that it is hard to keep track of and the incident described feels the same way .', None, None, None, 1), ('Unfortunately there are so many bad people in this world', None, None, None, 0), ('that feel', None, None, None, 0), ('like they should be able to do all these bad things to other people', None, None, None, 0), ('because of some message', None, None, None, 0), ('they are trying to spread', None, None, None, 0), ('but really just causing a lot of pain for everyone .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('It is not particularly concerning that a rhino died .', None, None, None, 1), ('It is the way of nature .', None, None, None, 1), ('Animals are in constant competition with each other', None, None, None, 0), ('and die all the time .', None, None, None, 1), ('They reproduce', None, None, None, 0), ('and then they die .', None, None, None, 1), ('A rhino is not even suitable as a companion like a dog or horse .', None, None, None, 1), ("It is perfectly reasonable to use a rhino 's horn and body", None, None, None, 0), ('when it dies .', None, None, None, 1)]]
+Leaf:  N Explanation It is not particularly concerning that a rhino died .
+Leaf:  S span It is the way of nature .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint Animals are in constant competition with each other
+Leaf:  N Joint and die all the time .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Temporal They reproduce
+Leaf:  N Temporal and then they die .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation A rhino is not even suitable as a companion like a dog or horse .
+Leaf:  N Background It is perfectly reasonable to use a rhino 's horn and body
+Leaf:  S span when it dies .
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is not particularly concerning that a rhino died .', None, None, None, 1), ('It is the way of nature .', None, None, None, 1), ('Animals are in constant competition with each other', None, None, None, 0), ('and die all the time .', None, None, None, 1), ('They reproduce', None, None, None, 0), ('and then they die .', None, None, None, 1), ('A rhino is not even suitable as a companion like a dog or horse .', None, None, None, 1), ("It is perfectly reasonable to use a rhino 's horn and body", None, None, None, 0), ('when it dies .', None, None, None, 1)]

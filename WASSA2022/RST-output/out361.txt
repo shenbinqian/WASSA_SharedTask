@@ -1,0 +1,31 @@
+=====================> [[('I just read about Arnold Palmer dying .', None, None, None, 1), ('He was a fixture on Sunday afternoons', None, None, None, 0), ('watching golf .', None, None, None, 1), ('I really wish', None, None, None, 0), ('that he was still around ,', None, None, None, 0), ('I will miss him out on the course .', None, None, None, 1), ('He has always been around', None, None, None, 0), ('since I was a kid ,', None, None, None, 0), ('even when he quit playing', None, None, None, 0), ('he would be out there for the major championships .', None, None, None, 1), ('I think', None, None, None, 0), ('it will be different', None, None, None, 0), ('watching them', None, None, None, 0), ('without him around .', None, None, None, 1), ('He was a genuinely nice man .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about Arnold Palmer dying .
+Leaf:  N Elaborate He was a fixture on Sunday afternoons
+Leaf:  S span watching golf .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I really wish
+Leaf:  N Attribution that he was still around ,
+Inner:  N Explanation None Attribution SN
+Leaf:  S span I will miss him out on the course .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal He has always been around
+Leaf:  S span since I was a kid ,
+Inner:  N Same-Unit None Temporal NS
+Leaf:  S span even when he quit playing
+Leaf:  N Contrast he would be out there for the major championships .
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I think
+Leaf:  N Comparison it will be different
+Leaf:  N Background watching them
+Leaf:  S span without him around .
+Inner:  S span None Background NS
+Inner:  N Attribution None Comparison NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He was a genuinely nice man .
+Inner:  Root None None Elaborate NS
+[('I just read about Arnold Palmer dying .', None, None, None, 1), ('He was a fixture on Sunday afternoons', None, None, None, 0), ('watching golf .', None, None, None, 1), ('I really wish', None, None, None, 0), ('that he was still around ,', None, None, None, 0), ('I will miss him out on the course .', None, None, None, 1), ('He has always been around', None, None, None, 0), ('since I was a kid ,', None, None, None, 0), ('even when he quit playing', None, None, None, 0), ('he would be out there for the major championships .', None, None, None, 1), ('I think', None, None, None, 0), ('it will be different', None, None, None, 0), ('watching them', None, None, None, 0), ('without him around .', None, None, None, 1), ('He was a genuinely nice man .', None, None, None, 1)]

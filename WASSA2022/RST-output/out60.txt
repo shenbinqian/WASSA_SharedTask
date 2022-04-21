@@ -1,0 +1,35 @@
+=====================> [[('Apparently there are now a lot of wildfires in the Appalachia area ,', None, None, None, 0), ('and it seems people are going to try to spin this into a " climate change " story .', None, None, None, 1), ('It seems that every single negative event can be attributed to climate change .', None, None, None, 1), ("The media does n't even try to make an argument ,", None, None, None, 0), ('it just inserts insinuations .', None, None, None, 1), ('I used to believe', None, None, None, 0), ('that global warming was a deadly threat to humanity ,', None, None, None, 0), ('but', None, None, None, 0), ('if you look into things ,', None, None, None, 0), ('there are many extremely dubious elements to the " official " story ,', None, None, None, 0), ("and now I do n't know what to think .", None, None, None, 1), ('Even if the official story is true ,', None, None, None, 0), ('it is obvious that the issue is being routinely used for political purposes .', None, None, None, 1), ("And I do n't know", None, None, None, 0), ('if it is true .', None, None, None, 1), ('Why has a vast swath of temperature readings been " corrected " ?', None, None, None, 1), ("Most people do n't even know about this issue .", None, None, None, 1)]]
+Leaf:  S span Apparently there are now a lot of wildfires in the Appalachia area ,
+Leaf:  N Cause and it seems people are going to try to spin this into a " climate change " story .
+Inner:  N Cause None Cause SN
+Leaf:  S span It seems that every single negative event can be attributed to climate change .
+Inner:  N Summary None Cause NS
+Leaf:  N Contrast The media does n't even try to make an argument ,
+Leaf:  N Contrast it just inserts insinuations .
+Inner:  S span None Contrast NN
+Inner:  N Textual-Organization None Summary NS
+Leaf:  S span I used to believe
+Leaf:  N Attribution that global warming was a deadly threat to humanity ,
+Inner:  S span None Attribution SN
+Leaf:  N Same-Unit but
+Leaf:  S span if you look into things ,
+Leaf:  N Condition there are many extremely dubious elements to the " official " story ,
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Leaf:  N Cause and now I do n't know what to think .
+Inner:  N Contrast None Cause SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Even if the official story is true ,
+Leaf:  N Contrast it is obvious that the issue is being routinely used for political purposes .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span And I do n't know
+Leaf:  N Attribution if it is true .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint Why has a vast swath of temperature readings been " corrected " ?
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  N Topic-Change None Textual-Organization NN
+Leaf:  N Topic-Change Most people do n't even know about this issue .
+Inner:  Root None None Topic-Change NN
+[('Apparently there are now a lot of wildfires in the Appalachia area ,', None, None, None, 0), ('and it seems people are going to try to spin this into a " climate change " story .', None, None, None, 1), ('It seems that every single negative event can be attributed to climate change .', None, None, None, 1), ("The media does n't even try to make an argument ,", None, None, None, 0), ('it just inserts insinuations .', None, None, None, 1), ('I used to believe', None, None, None, 0), ('that global warming was a deadly threat to humanity ,', None, None, None, 0), ('but', None, None, None, 0), ('if you look into things ,', None, None, None, 0), ('there are many extremely dubious elements to the " official " story ,', None, None, None, 0), ("and now I do n't know what to think .", None, None, None, 1), ('Even if the official story is true ,', None, None, None, 0), ('it is obvious that the issue is being routinely used for political purposes .', None, None, None, 1), ("And I do n't know", None, None, None, 0), ('if it is true .', None, None, None, 1), ('Why has a vast swath of temperature readings been " corrected " ?', None, None, None, 1), ("Most people do n't even know about this issue .", None, None, None, 1)]

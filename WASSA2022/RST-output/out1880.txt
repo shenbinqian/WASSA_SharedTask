@@ -1,0 +1,15 @@
+=====================> [[('Trump definitely has a republican view in climate change .', None, None, None, 1), ('He is more extreme then most', None, None, None, 0), ('in that he suggests', None, None, None, 0), ("human 's may not be responsible at all for climate change .", None, None, None, 1), ('It is clear that humans are at least somewhat responsible ,', None, None, None, 0), ('but scientists disagree', None, None, None, 0), ('just to what extent humans are responsible for the changing climate', None, None, None, 0)]]
+Leaf:  N Comparison Trump definitely has a republican view in climate change .
+Leaf:  N Elaborate He is more extreme then most
+Leaf:  S span in that he suggests
+Leaf:  N Attribution human 's may not be responsible at all for climate change .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Comparison NS
+Leaf:  N Contrast It is clear that humans are at least somewhat responsible ,
+Leaf:  S span but scientists disagree
+Leaf:  N Attribution just to what extent humans are responsible for the changing climate
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('Trump definitely has a republican view in climate change .', None, None, None, 1), ('He is more extreme then most', None, None, None, 0), ('in that he suggests', None, None, None, 0), ("human 's may not be responsible at all for climate change .", None, None, None, 1), ('It is clear that humans are at least somewhat responsible ,', None, None, None, 0), ('but scientists disagree', None, None, None, 0), ('just to what extent humans are responsible for the changing climate', None, None, None, 0)]

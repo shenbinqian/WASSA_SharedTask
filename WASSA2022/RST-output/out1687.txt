@@ -1,0 +1,31 @@
+=====================> [[('I just read a story', None, None, None, 0), ('about a black man', None, None, None, 0), ('named Terence Crutcher', None, None, None, 0), ('who was shot and killed by a white police officer', None, None, None, 0), ('named Betty Shelby in Tulsa Oklahoma .', None, None, None, 1), ('She was responding to another call', None, None, None, 0), ('when she noticed Terence Crutcher . The camera on her dashboard showed', None, None, None, 0), ('that Terence had his hands up .', None, None, None, 1), ('It was also video tapped by a helicopter .', None, None, None, 1), ('The officer claimed', None, None, None, 0), ('she felt like her life was in danger .', None, None, None, 1), ('Terence was a good man with a good heart .', None, None, None, 1), ('He was a churchgoer and a father of four children .', None, None, None, 1), ('Hundreds of people mourned his passing .', None, None, None, 1), ('If convicted Betty Shelby age 42 could face 4 years in prison for first degree manslaughter .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a story
+Leaf:  N Elaborate about a black man
+Leaf:  S span named Terence Crutcher
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate who was shot and killed by a white police officer
+Leaf:  S span named Betty Shelby in Tulsa Oklahoma .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She was responding to another call
+Leaf:  S span when she noticed Terence Crutcher . The camera on her dashboard showed
+Leaf:  N Attribution that Terence had his hands up .
+Inner:  N Background None Attribution SN
+Inner:  N Joint None Background SN
+Leaf:  N Joint It was also video tapped by a helicopter .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span The officer claimed
+Leaf:  N Attribution she felt like her life was in danger .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Terence was a good man with a good heart .
+Leaf:  N Joint He was a churchgoer and a father of four children .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Hundreds of people mourned his passing .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span If convicted Betty Shelby age 42 could face 4 years in prison for first degree manslaughter .
+Inner:  Root None None Elaborate NS
+[('I just read a story', None, None, None, 0), ('about a black man', None, None, None, 0), ('named Terence Crutcher', None, None, None, 0), ('who was shot and killed by a white police officer', None, None, None, 0), ('named Betty Shelby in Tulsa Oklahoma .', None, None, None, 1), ('She was responding to another call', None, None, None, 0), ('when she noticed Terence Crutcher . The camera on her dashboard showed', None, None, None, 0), ('that Terence had his hands up .', None, None, None, 1), ('It was also video tapped by a helicopter .', None, None, None, 1), ('The officer claimed', None, None, None, 0), ('she felt like her life was in danger .', None, None, None, 1), ('Terence was a good man with a good heart .', None, None, None, 1), ('He was a churchgoer and a father of four children .', None, None, None, 1), ('Hundreds of people mourned his passing .', None, None, None, 1), ('If convicted Betty Shelby age 42 could face 4 years in prison for first degree manslaughter .', None, None, None, 1)]

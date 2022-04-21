@@ -1,0 +1,23 @@
+=====================> [[('Do you hear about that teacher', None, None, None, 0), ('that body-slammed a student', None, None, None, 0), ('and now the student lost his leg ?', None, None, None, 1), ('Understand', None, None, None, 0), ('kids can be so wild and disrespectful', None, None, None, 0), ('why would you body slam a child ?', None, None, None, 1), ('That was my child', None, None, None, 0), ("I 'd be furious", None, None, None, 0), ('and that individual should be very fearful of his consequences', None, None, None, 0), ('for putting their hand so roughly on my child', None, None, None, 0), ('regardless of what the reason was .', None, None, None, 1)]]
+Leaf:  N Elaborate Do you hear about that teacher
+Leaf:  N Cause that body-slammed a student
+Leaf:  S span and now the student lost his leg ?
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Understand
+Leaf:  S span kids can be so wild and disrespectful
+Leaf:  N Explanation why would you body slam a child ?
+Inner:  N Evaluation None Explanation SN
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Evaluation That was my child
+Leaf:  N Joint I 'd be furious
+Leaf:  N Explanation and that individual should be very fearful of his consequences
+Leaf:  S span for putting their hand so roughly on my child
+Inner:  N Contrast None Explanation NS
+Leaf:  S span regardless of what the reason was .
+Inner:  N Joint None Contrast NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Do you hear about that teacher', None, None, None, 0), ('that body-slammed a student', None, None, None, 0), ('and now the student lost his leg ?', None, None, None, 1), ('Understand', None, None, None, 0), ('kids can be so wild and disrespectful', None, None, None, 0), ('why would you body slam a child ?', None, None, None, 1), ('That was my child', None, None, None, 0), ("I 'd be furious", None, None, None, 0), ('and that individual should be very fearful of his consequences', None, None, None, 0), ('for putting their hand so roughly on my child', None, None, None, 0), ('regardless of what the reason was .', None, None, None, 1)]

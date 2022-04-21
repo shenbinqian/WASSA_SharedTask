@@ -1,0 +1,25 @@
+=====================> [[('I just read the most disturbing article about Terry Jones', None, None, None, 0), ('-- that actor', None, None, None, 0), ('who used to be on Monty Python .', None, None, None, 1), ('Apparently he has a relatively serious form of dementia', None, None, None, 0), ('known as primary progressive aphasia', None, None, None, 0), ('which affects the ability', None, None, None, 0), ('to speak , recall words ,', None, None, None, 0), ("and generally be able to communicate with people . So terribly sad . I ca n't even imagine", None, None, None, 0), ('how his family must feel .', None, None, None, 1), ('It would be terrible to watch someone', None, None, None, 0), ('you love', None, None, None, 0), ('slowly deteriorate like that , .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read the most disturbing article about Terry Jones
+Leaf:  N Elaborate -- that actor
+Leaf:  S span who used to be on Monty Python .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Apparently he has a relatively serious form of dementia
+Leaf:  S span known as primary progressive aphasia
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate which affects the ability
+Leaf:  S span to speak , recall words ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and generally be able to communicate with people . So terribly sad . I ca n't even imagine
+Inner:  S span None Joint NN
+Leaf:  N Attribution how his family must feel .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It would be terrible to watch someone
+Leaf:  N Same-Unit you love
+Leaf:  N Same-Unit slowly deteriorate like that , .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read the most disturbing article about Terry Jones', None, None, None, 0), ('-- that actor', None, None, None, 0), ('who used to be on Monty Python .', None, None, None, 1), ('Apparently he has a relatively serious form of dementia', None, None, None, 0), ('known as primary progressive aphasia', None, None, None, 0), ('which affects the ability', None, None, None, 0), ('to speak , recall words ,', None, None, None, 0), ("and generally be able to communicate with people . So terribly sad . I ca n't even imagine", None, None, None, 0), ('how his family must feel .', None, None, None, 1), ('It would be terrible to watch someone', None, None, None, 0), ('you love', None, None, None, 0), ('slowly deteriorate like that , .', None, None, None, 1)]

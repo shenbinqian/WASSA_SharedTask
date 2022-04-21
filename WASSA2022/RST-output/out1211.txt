@@ -1,0 +1,29 @@
+=====================> [[('I just read an article about the awful treatment of animals of zoos in foreign countries from us .', None, None, None, 1), ('Feeling a little down thinking', None, None, None, 0), ('of how these people could treat the animals', None, None, None, 0), ('how they could continue to raise animals in zoos', None, None, None, 0), ('where people will come and view them', None, None, None, 0), ("while they 're ill hurt", None, None, None, 0), ('and some even dying . Even after receiving help', None, None, None, 0), ('to get these animals to a better location', None, None, None, 0), ('where they can be cared for properly other zoos are still continuing with bad treatment', None, None, None, 0), ('and allowing visitors to come witness it . Just like a child animals depend on us', None, None, None, 0), ('if we have them caged', None, None, None, 0), ('either let them out of the cage', None, None, None, 0), ('or take care of them', None, None, None, 0), ('why is that so hard for people to understand or do ?', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about the awful treatment of animals of zoos in foreign countries from us .
+Leaf:  N Elaborate Feeling a little down thinking
+Leaf:  S span of how these people could treat the animals
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate how they could continue to raise animals in zoos
+Leaf:  N Temporal where people will come and view them
+Leaf:  N Joint while they 're ill hurt
+Leaf:  N Joint and some even dying . Even after receiving help
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate to get these animals to a better location
+Leaf:  N Joint where they can be cared for properly other zoos are still continuing with bad treatment
+Leaf:  N Joint and allowing visitors to come witness it . Just like a child animals depend on us
+Inner:  S span None Joint NN
+Inner:  N Condition None Elaborate NS
+Leaf:  S span if we have them caged
+Leaf:  N Joint either let them out of the cage
+Leaf:  N Joint or take care of them
+Inner:  N Condition None Joint NN
+Inner:  S span None Condition SN
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span why is that so hard for people to understand or do ?
+Inner:  S span None Evaluation NS
+Inner:  S span None Temporal NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('I just read an article about the awful treatment of animals of zoos in foreign countries from us .', None, None, None, 1), ('Feeling a little down thinking', None, None, None, 0), ('of how these people could treat the animals', None, None, None, 0), ('how they could continue to raise animals in zoos', None, None, None, 0), ('where people will come and view them', None, None, None, 0), ("while they 're ill hurt", None, None, None, 0), ('and some even dying . Even after receiving help', None, None, None, 0), ('to get these animals to a better location', None, None, None, 0), ('where they can be cared for properly other zoos are still continuing with bad treatment', None, None, None, 0), ('and allowing visitors to come witness it . Just like a child animals depend on us', None, None, None, 0), ('if we have them caged', None, None, None, 0), ('either let them out of the cage', None, None, None, 0), ('or take care of them', None, None, None, 0), ('why is that so hard for people to understand or do ?', None, None, None, 1)]

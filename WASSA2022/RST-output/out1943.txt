@@ -1,0 +1,19 @@
+=====================> [[('So apparently Poland is exhuming bodies from a plane crash almost ten years ago', None, None, None, 0), ('that', None, None, None, 0), ('they think', None, None, None, 0), ('might have involved some foul play .', None, None, None, 1), ('I mean I guess you got ta get to the truth', None, None, None, 0), ('but I Find it weird', None, None, None, 0), ('when people start digging up bodies', None, None, None, 0), ("and not to mention it 's also a little disrespectful to the dead", None, None, None, 0), ('who have no say in the matter .', None, None, None, 1)]]
+Leaf:  N Elaborate So apparently Poland is exhuming bodies from a plane crash almost ten years ago
+Leaf:  N Attribution that
+Leaf:  S span they think
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit might have involved some foul play .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation I mean I guess you got ta get to the truth
+Leaf:  N Background but I Find it weird
+Leaf:  N Joint when people start digging up bodies
+Leaf:  N Elaborate and not to mention it 's also a little disrespectful to the dead
+Leaf:  S span who have no say in the matter .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('So apparently Poland is exhuming bodies from a plane crash almost ten years ago', None, None, None, 0), ('that', None, None, None, 0), ('they think', None, None, None, 0), ('might have involved some foul play .', None, None, None, 1), ('I mean I guess you got ta get to the truth', None, None, None, 0), ('but I Find it weird', None, None, None, 0), ('when people start digging up bodies', None, None, None, 0), ("and not to mention it 's also a little disrespectful to the dead", None, None, None, 0), ('who have no say in the matter .', None, None, None, 1)]

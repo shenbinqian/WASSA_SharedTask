@@ -1,0 +1,33 @@
+=====================> [[('Trump is president get over it snowflakes .', None, None, None, 1), ('People', None, None, None, 0), ('still complaining about him', None, None, None, 0), ('being president', None, None, None, 0), ('need to shut the fuck up', None, None, None, 0), ('and just accept it like a big boy or girl .', None, None, None, 1), ('Things happen', None, None, None, 0), ('and there isnt anything they can do about it .', None, None, None, 1), ('All i see are big ass babies', None, None, None, 0), ('that need something', None, None, None, 0), ('to whine about .', None, None, None, 1), ('Forming lines across roads', None, None, None, 0), ('interferring with peoples lives', None, None, None, 0), ('is just childish', None, None, None, 0), ('and people need to grow up', None, None, None, 0), ('and take off those damn diapers', None, None, None, 0)]]
+Leaf:  N Topic-Comment Trump is president get over it snowflakes .
+Leaf:  N Elaborate People
+Leaf:  S span still complaining about him
+Leaf:  N Attribution being president
+Inner:  S span None Attribution SN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint need to shut the fuck up
+Leaf:  N Joint and just accept it like a big boy or girl .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Joint Things happen
+Leaf:  N Joint and there isnt anything they can do about it .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate All i see are big ass babies
+Leaf:  N Elaborate that need something
+Leaf:  S span to whine about .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Summary None Topic-Comment NN
+Leaf:  N Elaborate Forming lines across roads
+Leaf:  S span interferring with peoples lives
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is just childish
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint and people need to grow up
+Leaf:  N Joint and take off those damn diapers
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('Trump is president get over it snowflakes .', None, None, None, 1), ('People', None, None, None, 0), ('still complaining about him', None, None, None, 0), ('being president', None, None, None, 0), ('need to shut the fuck up', None, None, None, 0), ('and just accept it like a big boy or girl .', None, None, None, 1), ('Things happen', None, None, None, 0), ('and there isnt anything they can do about it .', None, None, None, 1), ('All i see are big ass babies', None, None, None, 0), ('that need something', None, None, None, 0), ('to whine about .', None, None, None, 1), ('Forming lines across roads', None, None, None, 0), ('interferring with peoples lives', None, None, None, 0), ('is just childish', None, None, None, 0), ('and people need to grow up', None, None, None, 0), ('and take off those damn diapers', None, None, None, 0)]

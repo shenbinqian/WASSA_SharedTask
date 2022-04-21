@@ -1,0 +1,31 @@
+=====================> [[('Its becoming an alarming acadaemic of parents', None, None, None, 0), ('overdosing on drugs', None, None, None, 0), ('and not watching their kids', None, None, None, 0), ('its scary to know', None, None, None, 0), ('that the kids are with out eyes on them', None, None, None, 0), ('and the parents are dead with the children with them .', None, None, None, 1), ('In this instance the child was and infant', None, None, None, 0), ('and was likely fine .', None, None, None, 1), ('I hope', None, None, None, 0), ('in the future we can find a way', None, None, None, 0), ('for this to be handled', None, None, None, 0), ('without peopple', None, None, None, 0), ('getting hurt', None, None, None, 0), ('I want this to be done', None, None, None, 0), ('because this can lead to really bad things happening .', None, None, None, 1)]]
+Leaf:  N Elaborate Its becoming an alarming acadaemic of parents
+Leaf:  N Joint overdosing on drugs
+Leaf:  N Joint and not watching their kids
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span its scary to know
+Leaf:  N Joint that the kids are with out eyes on them
+Leaf:  N Joint and the parents are dead with the children with them .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint In this instance the child was and infant
+Leaf:  N Joint and was likely fine .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate in the future we can find a way
+Leaf:  N Manner-Means for this to be handled
+Leaf:  N Elaborate without peopple
+Leaf:  S span getting hurt
+Inner:  S span None Elaborate NS
+Inner:  S span None Manner-Means NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Explanation I want this to be done
+Leaf:  S span because this can lead to really bad things happening .
+Inner:  S span None Explanation NS
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Its becoming an alarming acadaemic of parents', None, None, None, 0), ('overdosing on drugs', None, None, None, 0), ('and not watching their kids', None, None, None, 0), ('its scary to know', None, None, None, 0), ('that the kids are with out eyes on them', None, None, None, 0), ('and the parents are dead with the children with them .', None, None, None, 1), ('In this instance the child was and infant', None, None, None, 0), ('and was likely fine .', None, None, None, 1), ('I hope', None, None, None, 0), ('in the future we can find a way', None, None, None, 0), ('for this to be handled', None, None, None, 0), ('without peopple', None, None, None, 0), ('getting hurt', None, None, None, 0), ('I want this to be done', None, None, None, 0), ('because this can lead to really bad things happening .', None, None, None, 1)]

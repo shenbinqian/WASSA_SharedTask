@@ -1,0 +1,23 @@
+=====================> [[('A perfect example of greed and selfishness-British government is willing to kill innocent creatures', None, None, None, 0), ('in order', None, None, None, 0), ('to drill for oil ,', None, None, None, 0), ('regardless of consequences !', None, None, None, 1), ('Instead of exploring other alternatives , such as natural energy sources ,', None, None, None, 0), ('they will go and march their way to Africa', None, None, None, 0), ('and claim innocent lives', None, None, None, 0), ('just to put money in their pockets .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if the majesty Queen , the mighty Queen of England , would appreciate of someone suddenly marched into her palace', None, None, None, 0), ('and started drilling for oil ?!!! Absolutely disturbing-total disregard for nature and living creatures , nothing but pure greed regardless of the cost !', None, None, None, 1)]]
+Leaf:  N Enablement A perfect example of greed and selfishness-British government is willing to kill innocent creatures
+Leaf:  N Enablement in order
+Leaf:  S span to drill for oil ,
+Inner:  S span None Enablement NS
+Inner:  N Contrast None Enablement NS
+Leaf:  S span regardless of consequences !
+Inner:  N Summary None Contrast NS
+Leaf:  S span Instead of exploring other alternatives , such as natural energy sources ,
+Leaf:  N Joint they will go and march their way to Africa
+Leaf:  N Joint and claim innocent lives
+Inner:  N Enablement None Joint NN
+Leaf:  S span just to put money in their pockets .
+Inner:  N Background None Enablement NS
+Inner:  S span None Background SN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I wonder
+Leaf:  N Joint if the majesty Queen , the mighty Queen of England , would appreciate of someone suddenly marched into her palace
+Leaf:  N Joint and started drilling for oil ?!!! Absolutely disturbing-total disregard for nature and living creatures , nothing but pure greed regardless of the cost !
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('A perfect example of greed and selfishness-British government is willing to kill innocent creatures', None, None, None, 0), ('in order', None, None, None, 0), ('to drill for oil ,', None, None, None, 0), ('regardless of consequences !', None, None, None, 1), ('Instead of exploring other alternatives , such as natural energy sources ,', None, None, None, 0), ('they will go and march their way to Africa', None, None, None, 0), ('and claim innocent lives', None, None, None, 0), ('just to put money in their pockets .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if the majesty Queen , the mighty Queen of England , would appreciate of someone suddenly marched into her palace', None, None, None, 0), ('and started drilling for oil ?!!! Absolutely disturbing-total disregard for nature and living creatures , nothing but pure greed regardless of the cost !', None, None, None, 1)]

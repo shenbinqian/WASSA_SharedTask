@@ -1,0 +1,29 @@
+=====================> [[('I just read about a young male wolf', None, None, None, 0), ('that was shot dead', None, None, None, 0), ('after walking 700 miles in search of a mate .', None, None, None, 1), ('That seems pretty awful .', None, None, None, 1), ('I am thinking about all of the different paths', None, None, None, 0), ('that wolf walked along on his journey ,', None, None, None, 0), ('only to see it end in disaster . Apparently it was a government sniper that killed him .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('why the government has snipers to kill wolves .', None, None, None, 1), ('If they are posing a direct threat ,', None, None, None, 0), ('then of course animals must be killed ,', None, None, None, 0), ("but I do n't see", None, None, None, 0), ('that this wolf was threatening anyway .', None, None, None, 1), ('It seems dishonorable .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about a young male wolf
+Leaf:  N Temporal that was shot dead
+Leaf:  S span after walking 700 miles in search of a mate .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation That seems pretty awful .
+Leaf:  N Elaborate I am thinking about all of the different paths
+Leaf:  S span that wolf walked along on his journey ,
+Inner:  N Cause None Elaborate NS
+Leaf:  S span only to see it end in disaster . Apparently it was a government sniper that killed him .
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution why the government has snipers to kill wolves .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If they are posing a direct threat ,
+Leaf:  N Condition then of course animals must be killed ,
+Inner:  S span None Condition SN
+Leaf:  S span but I do n't see
+Leaf:  N Attribution that this wolf was threatening anyway .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It seems dishonorable .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I just read about a young male wolf', None, None, None, 0), ('that was shot dead', None, None, None, 0), ('after walking 700 miles in search of a mate .', None, None, None, 1), ('That seems pretty awful .', None, None, None, 1), ('I am thinking about all of the different paths', None, None, None, 0), ('that wolf walked along on his journey ,', None, None, None, 0), ('only to see it end in disaster . Apparently it was a government sniper that killed him .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('why the government has snipers to kill wolves .', None, None, None, 1), ('If they are posing a direct threat ,', None, None, None, 0), ('then of course animals must be killed ,', None, None, None, 0), ("but I do n't see", None, None, None, 0), ('that this wolf was threatening anyway .', None, None, None, 1), ('It seems dishonorable .', None, None, None, 1)]

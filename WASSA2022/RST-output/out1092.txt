@@ -1,0 +1,21 @@
+=====================> [[('I think', None, None, None, 0), ('this is a bizarre article .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('if there are air pollution problems in Sweden .', None, None, None, 1), ('This seems to be like an incomplete study .', None, None, None, 1), ('I would be okay', None, None, None, 0), ('if they took the angle', None, None, None, 0), ('that more densely populated areas are likely to trigger mental health issues', None, None, None, 0), ('because that has somewhat been proven in studies in mice .', None, None, None, 1), ('Using air pollution as a reason for mental health issues is weird .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution this is a bizarre article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I am not sure
+Leaf:  N Attribution if there are air pollution problems in Sweden .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation This seems to be like an incomplete study .
+Leaf:  N Condition I would be okay
+Leaf:  N Elaborate if they took the angle
+Leaf:  N Explanation that more densely populated areas are likely to trigger mental health issues
+Leaf:  S span because that has somewhat been proven in studies in mice .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Using air pollution as a reason for mental health issues is weird .
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('this is a bizarre article .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('if there are air pollution problems in Sweden .', None, None, None, 1), ('This seems to be like an incomplete study .', None, None, None, 1), ('I would be okay', None, None, None, 0), ('if they took the angle', None, None, None, 0), ('that more densely populated areas are likely to trigger mental health issues', None, None, None, 0), ('because that has somewhat been proven in studies in mice .', None, None, None, 1), ('Using air pollution as a reason for mental health issues is weird .', None, None, None, 1)]

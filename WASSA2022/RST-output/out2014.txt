@@ -1,0 +1,21 @@
+=====================> [[('Some of the phrases in this article really made me fear for the state of our country .', None, None, None, 1), ('Some people really really want to degrade others', None, None, None, 0), ('and pinhole women ,', None, None, None, 0), ("and it 's becoming more and more socially acceptable .", None, None, None, 1), ('Look at our president and some of the things', None, None, None, 0), ('he has', None, None, None, 0), ('said !', None, None, None, 1), ("I do n't think", None, None, None, 0), ('people in authority especially should be given free passes anymore or the excuse', None, None, None, 0), ('to say " just words "', None, None, None, 0)]]
+Leaf:  N Explanation Some of the phrases in this article really made me fear for the state of our country .
+Leaf:  N Joint Some people really really want to degrade others
+Leaf:  N Joint and pinhole women ,
+Inner:  N Cause None Joint NN
+Leaf:  N Cause and it 's becoming more and more socially acceptable .
+Inner:  S span None Cause NN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate Look at our president and some of the things
+Leaf:  S span he has
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit said !
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I do n't think
+Leaf:  N Elaborate people in authority especially should be given free passes anymore or the excuse
+Leaf:  S span to say " just words "
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Some of the phrases in this article really made me fear for the state of our country .', None, None, None, 1), ('Some people really really want to degrade others', None, None, None, 0), ('and pinhole women ,', None, None, None, 0), ("and it 's becoming more and more socially acceptable .", None, None, None, 1), ('Look at our president and some of the things', None, None, None, 0), ('he has', None, None, None, 0), ('said !', None, None, None, 1), ("I do n't think", None, None, None, 0), ('people in authority especially should be given free passes anymore or the excuse', None, None, None, 0), ('to say " just words "', None, None, None, 0)]

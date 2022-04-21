@@ -1,0 +1,31 @@
+=====================> [[('I do not find', None, None, None, 0), ('is unbelievable', None, None, None, 0), ('that many veterans have sleep disorders', None, None, None, 0), ('or trouble sleeping at night .', None, None, None, 1), ('My grandfather was a Vietnam War veteran', None, None, None, 0), ('and he would wake in the middle of night', None, None, None, 0), ('screaming three or four days out of the week .', None, None, None, 1), ('PTSD and anxiety', None, None, None, 0), ('that stems', None, None, None, 0), ('from being overseas', None, None, None, 0), ('at war is something', None, None, None, 0), ('that should be taken very serious', None, None, None, 0), ('when it comes to Veterans', None, None, None, 0), ('who have issues later in life .', None, None, None, 1), ('Not getting enough sleep at night can also cause a whole new host of health issues .', None, None, None, 1)]]
+Leaf:  S span I do not find
+Leaf:  S span is unbelievable
+Leaf:  N Joint that many veterans have sleep disorders
+Leaf:  N Joint or trouble sleeping at night .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Leaf:  S span My grandfather was a Vietnam War veteran
+Leaf:  N Cause and he would wake in the middle of night
+Leaf:  S span screaming three or four days out of the week .
+Inner:  N Temporal None Cause NS
+Inner:  S span None Temporal SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate PTSD and anxiety
+Leaf:  N Manner-Means that stems
+Leaf:  N Joint from being overseas
+Leaf:  N Joint at war is something
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background that should be taken very serious
+Leaf:  N Elaborate when it comes to Veterans
+Leaf:  S span who have issues later in life .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Not getting enough sleep at night can also cause a whole new host of health issues .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I do not find', None, None, None, 0), ('is unbelievable', None, None, None, 0), ('that many veterans have sleep disorders', None, None, None, 0), ('or trouble sleeping at night .', None, None, None, 1), ('My grandfather was a Vietnam War veteran', None, None, None, 0), ('and he would wake in the middle of night', None, None, None, 0), ('screaming three or four days out of the week .', None, None, None, 1), ('PTSD and anxiety', None, None, None, 0), ('that stems', None, None, None, 0), ('from being overseas', None, None, None, 0), ('at war is something', None, None, None, 0), ('that should be taken very serious', None, None, None, 0), ('when it comes to Veterans', None, None, None, 0), ('who have issues later in life .', None, None, None, 1), ('Not getting enough sleep at night can also cause a whole new host of health issues .', None, None, None, 1)]

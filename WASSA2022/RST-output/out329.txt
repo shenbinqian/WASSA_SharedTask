@@ -1,0 +1,19 @@
+=====================> [[('I think', None, None, None, 0), ('that these types of tragic accidents are far and few .', None, None, None, 1), ('I might be wrong ,', None, None, None, 0), ("though I do n't hear of too many of them .", None, None, None, 1), ('I think', None, None, None, 0), ('that they may need to reevaluate some of their maintenance techniques', None, None, None, 0), ('to try and make this even more uncommon .', None, None, None, 1), ('It must of really devastated the family and friends of those', None, None, None, 0), ('who lost their lives .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution that these types of tragic accidents are far and few .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Contrast I might be wrong ,
+Leaf:  S span though I do n't hear of too many of them .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Enablement that they may need to reevaluate some of their maintenance techniques
+Leaf:  S span to try and make this even more uncommon .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate It must of really devastated the family and friends of those
+Leaf:  S span who lost their lives .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('that these types of tragic accidents are far and few .', None, None, None, 1), ('I might be wrong ,', None, None, None, 0), ("though I do n't hear of too many of them .", None, None, None, 1), ('I think', None, None, None, 0), ('that they may need to reevaluate some of their maintenance techniques', None, None, None, 0), ('to try and make this even more uncommon .', None, None, None, 1), ('It must of really devastated the family and friends of those', None, None, None, 0), ('who lost their lives .', None, None, None, 1)]

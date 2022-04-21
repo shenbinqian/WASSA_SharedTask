@@ -1,0 +1,27 @@
+=====================> [[('Hey , Measles is still killing kids around the world basically in the countries', None, None, None, 0), ("that do n't take care of their people .", None, None, None, 1), ("The governments and terrorist organizations like Boko Haram do n't care about kids .", None, None, None, 1), ('I got ta think', None, None, None, 0), ('this is just another example of pure evil ,', None, None, None, 0), ('killing kids', None, None, None, 0), ('all the', None, None, None, 0), ('while the government takes aid , money , food ,', None, None, None, 0), ('or whatever', None, None, None, 0), ('and keeps it for themselves', None, None, None, 0), ('or sells it to the people', None, None, None, 0), ('and puts them in servitude .', None, None, None, 1), ('God bless the USA !', None, None, None, 1)]]
+Leaf:  N Elaborate Hey , Measles is still killing kids around the world basically in the countries
+Leaf:  S span that do n't take care of their people .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The governments and terrorist organizations like Boko Haram do n't care about kids .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span I got ta think
+Leaf:  N Elaborate this is just another example of pure evil ,
+Leaf:  N Temporal killing kids
+Leaf:  N Temporal all the
+Inner:  N Temporal None Temporal NN
+Leaf:  N Joint while the government takes aid , money , food ,
+Leaf:  N Joint or whatever
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and keeps it for themselves
+Leaf:  N Joint or sells it to the people
+Leaf:  N Joint and puts them in servitude .
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Cause NS
+Leaf:  S span God bless the USA !
+Inner:  Root None None Evaluation NS
+[('Hey , Measles is still killing kids around the world basically in the countries', None, None, None, 0), ("that do n't take care of their people .", None, None, None, 1), ("The governments and terrorist organizations like Boko Haram do n't care about kids .", None, None, None, 1), ('I got ta think', None, None, None, 0), ('this is just another example of pure evil ,', None, None, None, 0), ('killing kids', None, None, None, 0), ('all the', None, None, None, 0), ('while the government takes aid , money , food ,', None, None, None, 0), ('or whatever', None, None, None, 0), ('and keeps it for themselves', None, None, None, 0), ('or sells it to the people', None, None, None, 0), ('and puts them in servitude .', None, None, None, 1), ('God bless the USA !', None, None, None, 1)]

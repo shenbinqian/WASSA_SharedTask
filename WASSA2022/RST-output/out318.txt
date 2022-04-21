@@ -1,0 +1,25 @@
+=====================> [[('Hello friend , This article cracks me up .', None, None, None, 1), ('As someone', None, None, None, 0), ('who hates Trump ,', None, None, None, 0), ('I think', None, None, None, 0), ("it 's hilarious .", None, None, None, 1), ("Realistically , the mother should 've just talked to her son about the reasons", None, None, None, 0), ('she dislikes Trump .', None, None, None, 1), ('Trying to convince him', None, None, None, 0), ('that Trump is a immoral person', None, None, None, 0), ("would 've been a better use of her time .", None, None, None, 1), ('What makes me mad though , is that people called CPS on her .', None, None, None, 1), ("People always trying to get involved in everybody 's business .", None, None, None, 1)]]
+Leaf:  N Summary Hello friend , This article cracks me up .
+Leaf:  N Elaborate As someone
+Leaf:  S span who hates Trump ,
+Inner:  S span None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution it 's hilarious .
+Inner:  N Background None Attribution SN
+Inner:  N Explanation None Background SN
+Leaf:  N Elaborate Realistically , the mother should 've just talked to her son about the reasons
+Leaf:  S span she dislikes Trump .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Trying to convince him
+Leaf:  N Attribution that Trump is a immoral person
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit would 've been a better use of her time .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Contrast None Summary NS
+Leaf:  N Contrast What makes me mad though , is that people called CPS on her .
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span People always trying to get involved in everybody 's business .
+Inner:  Root None None Evaluation NS
+[('Hello friend , This article cracks me up .', None, None, None, 1), ('As someone', None, None, None, 0), ('who hates Trump ,', None, None, None, 0), ('I think', None, None, None, 0), ("it 's hilarious .", None, None, None, 1), ("Realistically , the mother should 've just talked to her son about the reasons", None, None, None, 0), ('she dislikes Trump .', None, None, None, 1), ('Trying to convince him', None, None, None, 0), ('that Trump is a immoral person', None, None, None, 0), ("would 've been a better use of her time .", None, None, None, 1), ('What makes me mad though , is that people called CPS on her .', None, None, None, 1), ("People always trying to get involved in everybody 's business .", None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Reading about atrticles like this in a country', None, None, None, 0), ('i dont care about', None, None, None, 0), ('has no meaning to me .', None, None, None, 1), ('Im lower class worker in the USA .', None, None, None, 1), ('This kind of stuff makes no difference in my life', None, None, None, 0), ('because i struggle', None, None, None, 0), ('to even feed my kids .', None, None, None, 1), ('People facing hardship in other coutries is there problem not mine', None, None, None, 0), ('and i have no real feeling', None, None, None, 0), ('towrds those people', None, None, None, 0)]]
+Leaf:  N Elaborate Reading about atrticles like this in a country
+Leaf:  S span i dont care about
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit has no meaning to me .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Elaborate Im lower class worker in the USA .
+Leaf:  N Explanation This kind of stuff makes no difference in my life
+Leaf:  N Enablement because i struggle
+Leaf:  S span to even feed my kids .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Explanation NS
+Leaf:  N Joint People facing hardship in other coutries is there problem not mine
+Leaf:  N Elaborate and i have no real feeling
+Leaf:  S span towrds those people
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Reading about atrticles like this in a country', None, None, None, 0), ('i dont care about', None, None, None, 0), ('has no meaning to me .', None, None, None, 1), ('Im lower class worker in the USA .', None, None, None, 1), ('This kind of stuff makes no difference in my life', None, None, None, 0), ('because i struggle', None, None, None, 0), ('to even feed my kids .', None, None, None, 1), ('People facing hardship in other coutries is there problem not mine', None, None, None, 0), ('and i have no real feeling', None, None, None, 0), ('towrds those people', None, None, None, 0)]

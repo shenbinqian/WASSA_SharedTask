@@ -1,0 +1,43 @@
+=====================> [[("There 's something terrifying about being attacked by animals .", None, None, None, 1), ("It 's even more horrifying to find out the animals", None, None, None, 0), ('that are attacking you', None, None, None, 0), ('are the ones', None, None, None, 0), ('you think', None, None, None, 0), ('are so cute and adorable .', None, None, None, 1), ('I just read an article about squirrels', None, None, None, 0), ('attacking a retirement home', None, None, None, 0), ('and injuring three elderly .', None, None, None, 1), ('It must have been so terrifying for them to encounter this event . Imagine going out to feed the squirrels', None, None, None, 0), ('like you usually do and in turn get attacked by these rabid critters !', None, None, None, 1), ("It 's so shocking", None, None, None, 0), ("and I 'm still shaking", None, None, None, 0), ('after reading this .', None, None, None, 1), ('They had to call in the ambulances and animal control', None, None, None, 0), ('to help the situation out .', None, None, None, 1), ('This is tragic .', None, None, None, 1), ('The bites from the attack could lead to rabies and other diseases .', None, None, None, 1), ('I feel troubled', None, None, None, 0), ('thinking about this', None, None, None, 0), ("because these elderly ca n't really react quick enough in these situations .", None, None, None, 1)]]
+Leaf:  N Comparison There 's something terrifying about being attacked by animals .
+Leaf:  N Elaborate It 's even more horrifying to find out the animals
+Leaf:  S span that are attacking you
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are the ones
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Same-Unit you think
+Leaf:  N Same-Unit are so cute and adorable .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Comparison NS
+Leaf:  N Elaborate I just read an article about squirrels
+Leaf:  N Joint attacking a retirement home
+Leaf:  N Joint and injuring three elderly .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Comparison It must have been so terrifying for them to encounter this event . Imagine going out to feed the squirrels
+Leaf:  S span like you usually do and in turn get attacked by these rabid critters !
+Inner:  S span None Comparison NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It 's so shocking
+Leaf:  N Temporal and I 'm still shaking
+Leaf:  S span after reading this .
+Inner:  N Joint None Temporal NS
+Inner:  N Cause None Joint NN
+Leaf:  N Enablement They had to call in the ambulances and animal control
+Leaf:  S span to help the situation out .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate This is tragic .
+Leaf:  S span The bites from the attack could lead to rabies and other diseases .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Background I feel troubled
+Leaf:  S span thinking about this
+Inner:  N Cause None Background NS
+Leaf:  S span because these elderly ca n't really react quick enough in these situations .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("There 's something terrifying about being attacked by animals .", None, None, None, 1), ("It 's even more horrifying to find out the animals", None, None, None, 0), ('that are attacking you', None, None, None, 0), ('are the ones', None, None, None, 0), ('you think', None, None, None, 0), ('are so cute and adorable .', None, None, None, 1), ('I just read an article about squirrels', None, None, None, 0), ('attacking a retirement home', None, None, None, 0), ('and injuring three elderly .', None, None, None, 1), ('It must have been so terrifying for them to encounter this event . Imagine going out to feed the squirrels', None, None, None, 0), ('like you usually do and in turn get attacked by these rabid critters !', None, None, None, 1), ("It 's so shocking", None, None, None, 0), ("and I 'm still shaking", None, None, None, 0), ('after reading this .', None, None, None, 1), ('They had to call in the ambulances and animal control', None, None, None, 0), ('to help the situation out .', None, None, None, 1), ('This is tragic .', None, None, None, 1), ('The bites from the attack could lead to rabies and other diseases .', None, None, None, 1), ('I feel troubled', None, None, None, 0), ('thinking about this', None, None, None, 0), ("because these elderly ca n't really react quick enough in these situations .", None, None, None, 1)]

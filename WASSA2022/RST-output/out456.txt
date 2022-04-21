@@ -1,0 +1,23 @@
+=====================> [[('Did you hear about the horrible earthquake in New Zealand ?', None, None, None, 1), ('IT was devastating', None, None, None, 0), ("and I am so heartbroken and sad for all of those people.It 's going to be difficult to get aid to some places", None, None, None, 0), ('because the roads are severely damaged .', None, None, None, 1), ('Those people must be so terrified', None, None, None, 0), ('and worried .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("they 're hungry and in serious need of water and food", None, None, None, 0), ('and many are in need of shelter .', None, None, None, 1), ('I pray', None, None, None, 0), ('that God gives them all peace and comfort during this time .', None, None, None, 1)]]
+Leaf:  N Evaluation Did you hear about the horrible earthquake in New Zealand ?
+Leaf:  N Cause IT was devastating
+Leaf:  N Cause and I am so heartbroken and sad for all of those people.It 's going to be difficult to get aid to some places
+Leaf:  S span because the roads are severely damaged .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Joint Those people must be so terrified
+Leaf:  N Joint and worried .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I 'm sure
+Leaf:  N Joint they 're hungry and in serious need of water and food
+Leaf:  N Joint and many are in need of shelter .
+Inner:  N Attribution None Joint NN
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  S span I pray
+Leaf:  N Attribution that God gives them all peace and comfort during this time .
+Inner:  N Topic-Comment None Attribution SN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Did you hear about the horrible earthquake in New Zealand ?', None, None, None, 1), ('IT was devastating', None, None, None, 0), ("and I am so heartbroken and sad for all of those people.It 's going to be difficult to get aid to some places", None, None, None, 0), ('because the roads are severely damaged .', None, None, None, 1), ('Those people must be so terrified', None, None, None, 0), ('and worried .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ("they 're hungry and in serious need of water and food", None, None, None, 0), ('and many are in need of shelter .', None, None, None, 1), ('I pray', None, None, None, 0), ('that God gives them all peace and comfort during this time .', None, None, None, 1)]

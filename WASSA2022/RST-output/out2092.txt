@@ -1,0 +1,25 @@
+=====================> [[('I lost my brother a couple of months ago .', None, None, None, 1), ('My brother died from a disease', None, None, None, 0), ('and I know', None, None, None, 0), ('how I angry I was ,', None, None, None, 0), ('I can only imagine losing a brother', None, None, None, 0), ('because ISIS thinks', None, None, None, 0), ('his cell phone was being used', None, None, None, 0), ('to spy on them .', None, None, None, 1), ('I can only imagine being a parent or child', None, None, None, 0), ('having to grow up in a place like that .', None, None, None, 1), ('It makes me mad', None, None, None, 0), ('they would use people as human shields .', None, None, None, 1)]]
+Leaf:  N Elaborate I lost my brother a couple of months ago .
+Leaf:  N Elaborate My brother died from a disease
+Leaf:  S span and I know
+Leaf:  N Attribution how I angry I was ,
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Cause I can only imagine losing a brother
+Leaf:  S span because ISIS thinks
+Leaf:  N Enablement his cell phone was being used
+Leaf:  S span to spy on them .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Cause NS
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  N Elaborate I can only imagine being a parent or child
+Leaf:  S span having to grow up in a place like that .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It makes me mad
+Leaf:  N Attribution they would use people as human shields .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I lost my brother a couple of months ago .', None, None, None, 1), ('My brother died from a disease', None, None, None, 0), ('and I know', None, None, None, 0), ('how I angry I was ,', None, None, None, 0), ('I can only imagine losing a brother', None, None, None, 0), ('because ISIS thinks', None, None, None, 0), ('his cell phone was being used', None, None, None, 0), ('to spy on them .', None, None, None, 1), ('I can only imagine being a parent or child', None, None, None, 0), ('having to grow up in a place like that .', None, None, None, 1), ('It makes me mad', None, None, None, 0), ('they would use people as human shields .', None, None, None, 1)]

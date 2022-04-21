@@ -1,0 +1,37 @@
+=====================> [[('I am crushed', None, None, None, 0), ('after hearing about the conditions in Haiti', None, None, None, 0), ('after Hurricane Matthew hit the area .', None, None, None, 1), ('The people are literally starving to death', None, None, None, 0), ('and the injured and sick do not have access to enough , if any medical care .', None, None, None, 1), ('There are areas', None, None, None, 0), ('that are completely inaccessible to aid , either medically or food or water supplies .', None, None, None, 1), ('There is extensive looting in Haiti', None, None, None, 0), ('and the situation is extremely dangerous even for those', None, None, None, 0), ('that try to bring in supplies to the people living there .', None, None, None, 1), ('My heart is breaking', None, None, None, 0), ('as I think of all the people , children and adults in Haiti .', None, None, None, 1), ('It is a country', None, None, None, 0), ('that still has not recovered from the earthquake', None, None, None, 0), ('that happened there years before .', None, None, None, 1), ('I think', None, None, None, 0), ('that our country should continue to report on these terrible conditions', None, None, None, 0), ('and try to get aid to Haiti from every source available .', None, None, None, 1)]]
+Leaf:  N Background I am crushed
+Leaf:  N Background after hearing about the conditions in Haiti
+Leaf:  S span after Hurricane Matthew hit the area .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Background NS
+Leaf:  N Joint The people are literally starving to death
+Leaf:  N Joint and the injured and sick do not have access to enough , if any medical care .
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate There are areas
+Leaf:  S span that are completely inaccessible to aid , either medically or food or water supplies .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Leaf:  N Joint There is extensive looting in Haiti
+Leaf:  N Elaborate and the situation is extremely dangerous even for those
+Leaf:  S span that try to bring in supplies to the people living there .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background My heart is breaking
+Leaf:  S span as I think of all the people , children and adults in Haiti .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate It is a country
+Leaf:  N Elaborate that still has not recovered from the earthquake
+Leaf:  S span that happened there years before .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Joint that our country should continue to report on these terrible conditions
+Leaf:  N Joint and try to get aid to Haiti from every source available .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I am crushed', None, None, None, 0), ('after hearing about the conditions in Haiti', None, None, None, 0), ('after Hurricane Matthew hit the area .', None, None, None, 1), ('The people are literally starving to death', None, None, None, 0), ('and the injured and sick do not have access to enough , if any medical care .', None, None, None, 1), ('There are areas', None, None, None, 0), ('that are completely inaccessible to aid , either medically or food or water supplies .', None, None, None, 1), ('There is extensive looting in Haiti', None, None, None, 0), ('and the situation is extremely dangerous even for those', None, None, None, 0), ('that try to bring in supplies to the people living there .', None, None, None, 1), ('My heart is breaking', None, None, None, 0), ('as I think of all the people , children and adults in Haiti .', None, None, None, 1), ('It is a country', None, None, None, 0), ('that still has not recovered from the earthquake', None, None, None, 0), ('that happened there years before .', None, None, None, 1), ('I think', None, None, None, 0), ('that our country should continue to report on these terrible conditions', None, None, None, 0), ('and try to get aid to Haiti from every source available .', None, None, None, 1)]

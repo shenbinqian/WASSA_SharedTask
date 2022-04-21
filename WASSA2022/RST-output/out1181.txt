@@ -1,0 +1,25 @@
+=====================> [[('This guy', None, None, None, 0), ('that', None, None, None, 0), ('I just read', None, None, None, 0), ('about seriously can not be trusted .', None, None, None, 1), ('He was going around', None, None, None, 0), ('acting like an apartment belonged to him', None, None, None, 0), ('when it did not in actuality . I wonder', None, None, None, 0), ('will he be punished sufficiently .', None, None, None, 1), ('I doubt it .', None, None, None, 1), ('He will probable just strike a deal', None, None, None, 0), ('and that will be the end of it .', None, None, None, 1), ('He needs to be publicly shamed .', None, None, None, 1)]]
+Leaf:  N Elaborate This guy
+Leaf:  N Attribution that
+Leaf:  S span I just read
+Inner:  S span None Attribution NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit about seriously can not be trusted .
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Elaborate He was going around
+Leaf:  S span acting like an apartment belonged to him
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Contrast when it did not in actuality . I wonder
+Inner:  S span None Contrast NN
+Leaf:  N Attribution will he be punished sufficiently .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Cause I doubt it .
+Leaf:  N Temporal He will probable just strike a deal
+Leaf:  N Temporal and that will be the end of it .
+Inner:  S span None Temporal NN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span He needs to be publicly shamed .
+Inner:  Root None None Evaluation NS
+[('This guy', None, None, None, 0), ('that', None, None, None, 0), ('I just read', None, None, None, 0), ('about seriously can not be trusted .', None, None, None, 1), ('He was going around', None, None, None, 0), ('acting like an apartment belonged to him', None, None, None, 0), ('when it did not in actuality . I wonder', None, None, None, 0), ('will he be punished sufficiently .', None, None, None, 1), ('I doubt it .', None, None, None, 1), ('He will probable just strike a deal', None, None, None, 0), ('and that will be the end of it .', None, None, None, 1), ('He needs to be publicly shamed .', None, None, None, 1)]

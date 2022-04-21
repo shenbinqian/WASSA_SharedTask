@@ -1,0 +1,17 @@
+=====================> [[('This is sad that a company', None, None, None, 0), ('that is based here in the US', None, None, None, 0), ('and that actually manafucters its products in the US', None, None, None, 0), ('is in debt .', None, None, None, 1), ('More effort should have been placed', None, None, None, 0), ("to ensure company 's success .", None, None, None, 1), ('More companies should be encouraged to manufacture their products in our country', None, None, None, 0), ('while also making them affordable and appealing .', None, None, None, 1)]]
+Leaf:  N Elaborate This is sad that a company
+Leaf:  N Joint that is based here in the US
+Leaf:  N Joint and that actually manafucters its products in the US
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is in debt .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Enablement More effort should have been placed
+Leaf:  S span to ensure company 's success .
+Inner:  N Joint None Enablement NS
+Leaf:  N Temporal More companies should be encouraged to manufacture their products in our country
+Leaf:  N Temporal while also making them affordable and appealing .
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('This is sad that a company', None, None, None, 0), ('that is based here in the US', None, None, None, 0), ('and that actually manafucters its products in the US', None, None, None, 0), ('is in debt .', None, None, None, 1), ('More effort should have been placed', None, None, None, 0), ("to ensure company 's success .", None, None, None, 1), ('More companies should be encouraged to manufacture their products in our country', None, None, None, 0), ('while also making them affordable and appealing .', None, None, None, 1)]

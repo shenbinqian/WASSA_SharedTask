@@ -1,0 +1,19 @@
+=====================> [[('I really do not understand', None, None, None, 0), ('what has become of our society.Have you heard about the guy', None, None, None, 0), ('who shot several people at the shopping mall?Because of him ,', None, None, None, 0), ('six people were injured', None, None, None, 0), ('and three dead', None, None, None, 0), ('and some three people had eye injuries', None, None, None, 0), ('because of the broken glasses.The guy is only 20 from Turkey', None, None, None, 0), ('and guess what , he has been charged with murder', None, None, None, 0), ('because he confessed .', None, None, None, 1)]]
+Leaf:  S span I really do not understand
+Leaf:  N Elaborate what has become of our society.Have you heard about the guy
+Leaf:  S span who shot several people at the shopping mall?Because of him ,
+Inner:  N Cause None Elaborate NS
+Leaf:  N Joint six people were injured
+Leaf:  N Joint and three dead
+Inner:  N Joint None Joint NN
+Leaf:  N Cause and some three people had eye injuries
+Leaf:  S span because of the broken glasses.The guy is only 20 from Turkey
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Leaf:  N Explanation and guess what , he has been charged with murder
+Leaf:  S span because he confessed .
+Inner:  N Background None Explanation NS
+Inner:  Root None None Background SN
+[('I really do not understand', None, None, None, 0), ('what has become of our society.Have you heard about the guy', None, None, None, 0), ('who shot several people at the shopping mall?Because of him ,', None, None, None, 0), ('six people were injured', None, None, None, 0), ('and three dead', None, None, None, 0), ('and some three people had eye injuries', None, None, None, 0), ('because of the broken glasses.The guy is only 20 from Turkey', None, None, None, 0), ('and guess what , he has been charged with murder', None, None, None, 0), ('because he confessed .', None, None, None, 1)]

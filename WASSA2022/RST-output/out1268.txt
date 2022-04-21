@@ -1,0 +1,27 @@
+=====================> [[('There are so many instances of shootings and mass murdering', None, None, None, 0), ('happening around the world today', None, None, None, 0), ('and the example', None, None, None, 0), ('brought up in the article like the Orlando shooting', None, None, None, 0), ('just shows how there is a culture these days', None, None, None, 0), ("where people just do n't care anymore .", None, None, None, 1), ('More and more people find it okay to take the lives of innocent people for their own screwed up agenda ,', None, None, None, 0), ('whatever that is so that they can show', None, None, None, 0), ('that they have control over the situation .', None, None, None, 1), ('I think', None, None, None, 0), ('a huge problem here is gun laws', None, None, None, 0), ('and there should definitely be some sort of change', None, None, None, 0), ('that occurs .', None, None, None, 1)]]
+Leaf:  N Elaborate There are so many instances of shootings and mass murdering
+Leaf:  S span happening around the world today
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the example
+Leaf:  S span brought up in the article like the Orlando shooting
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate just shows how there is a culture these days
+Leaf:  S span where people just do n't care anymore .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Summary None Same-Unit NN
+Leaf:  N Elaborate More and more people find it okay to take the lives of innocent people for their own screwed up agenda ,
+Leaf:  S span whatever that is so that they can show
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution that they have control over the situation .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Summary NS
+Leaf:  S span I think
+Leaf:  N Joint a huge problem here is gun laws
+Leaf:  N Elaborate and there should definitely be some sort of change
+Leaf:  S span that occurs .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('There are so many instances of shootings and mass murdering', None, None, None, 0), ('happening around the world today', None, None, None, 0), ('and the example', None, None, None, 0), ('brought up in the article like the Orlando shooting', None, None, None, 0), ('just shows how there is a culture these days', None, None, None, 0), ("where people just do n't care anymore .", None, None, None, 1), ('More and more people find it okay to take the lives of innocent people for their own screwed up agenda ,', None, None, None, 0), ('whatever that is so that they can show', None, None, None, 0), ('that they have control over the situation .', None, None, None, 1), ('I think', None, None, None, 0), ('a huge problem here is gun laws', None, None, None, 0), ('and there should definitely be some sort of change', None, None, None, 0), ('that occurs .', None, None, None, 1)]

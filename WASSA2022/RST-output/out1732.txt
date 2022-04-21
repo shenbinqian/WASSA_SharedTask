@@ -1,0 +1,43 @@
+=====================> [[('Did you know', None, None, None, 0), ('that Climate Change Threatens the World ’s Coffee Supply ??', None, None, None, 1), ('A report', None, None, None, 0), ('I read about a report', None, None, None, 0), ('says thinking of the many ways climate change threatens coffee and coffee farmers has alarmed people', None, None, None, 0), ('who are now imagining', None, None, None, 0), ('what it would be like getting through the day', None, None, None, 0), ('without their caffeine fix !', None, None, None, 1), ('Well , it certainly is concerning to me !', None, None, None, 1), ('The report , released this month , was commissioned by Fairtrade Australia and New Zealand supposedly the hub of the global Fairtrade system .', None, None, None, 1), ('I guess it does n’t contain much new research ,', None, None, None, 0), ('but still it has made waves by collating an array of available literature', None, None, None, 0), ('suggesting', None, None, None, 0), ('that climate change will have a major effect on the world ’s coffee supply .', None, None, None, 1), ('Well ,', None, None, None, 0), ('knowing how you love your coffee', None, None, None, 0), ('just as much', None, None, None, 0), ('as I do ,', None, None, None, 0), ('I just knew', None, None, None, 0), ('this would fascinate you !', None, None, None, 1), ('Tell everyone !!', None, None, None, 1)]]
+Leaf:  S span Did you know
+Leaf:  N Attribution that Climate Change Threatens the World ’s Coffee Supply ??
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate A report
+Leaf:  S span I read about a report
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit says thinking of the many ways climate change threatens coffee and coffee farmers has alarmed people
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span who are now imagining
+Leaf:  N Background what it would be like getting through the day
+Leaf:  S span without their caffeine fix !
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Well , it certainly is concerning to me !
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The report , released this month , was commissioned by Fairtrade Australia and New Zealand supposedly the hub of the global Fairtrade system .
+Leaf:  S span I guess it does n’t contain much new research ,
+Leaf:  N Elaborate but still it has made waves by collating an array of available literature
+Leaf:  S span suggesting
+Leaf:  N Attribution that climate change will have a major effect on the world ’s coffee supply .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Same-Unit Well ,
+Leaf:  N Same-Unit knowing how you love your coffee
+Leaf:  N Comparison just as much
+Leaf:  N Comparison as I do ,
+Inner:  N Same-Unit None Comparison NN
+Inner:  S span None Same-Unit NN
+Leaf:  S span I just knew
+Leaf:  N Attribution this would fascinate you !
+Inner:  N Background None Attribution SN
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Cause None Evaluation NS
+Leaf:  S span Tell everyone !!
+Inner:  S span None Cause NS
+Inner:  Root None None Summary NS
+[('Did you know', None, None, None, 0), ('that Climate Change Threatens the World ’s Coffee Supply ??', None, None, None, 1), ('A report', None, None, None, 0), ('I read about a report', None, None, None, 0), ('says thinking of the many ways climate change threatens coffee and coffee farmers has alarmed people', None, None, None, 0), ('who are now imagining', None, None, None, 0), ('what it would be like getting through the day', None, None, None, 0), ('without their caffeine fix !', None, None, None, 1), ('Well , it certainly is concerning to me !', None, None, None, 1), ('The report , released this month , was commissioned by Fairtrade Australia and New Zealand supposedly the hub of the global Fairtrade system .', None, None, None, 1), ('I guess it does n’t contain much new research ,', None, None, None, 0), ('but still it has made waves by collating an array of available literature', None, None, None, 0), ('suggesting', None, None, None, 0), ('that climate change will have a major effect on the world ’s coffee supply .', None, None, None, 1), ('Well ,', None, None, None, 0), ('knowing how you love your coffee', None, None, None, 0), ('just as much', None, None, None, 0), ('as I do ,', None, None, None, 0), ('I just knew', None, None, None, 0), ('this would fascinate you !', None, None, None, 1), ('Tell everyone !!', None, None, None, 1)]

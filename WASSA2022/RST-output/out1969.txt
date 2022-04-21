@@ -1,0 +1,29 @@
+=====================> [[('I read a news article about a man', None, None, None, 0), ('who died in Yellowstone Hot springs .', None, None, None, 1), ('The article said', None, None, None, 0), ('that he fell into a boiling scidic spring in the park .', None, None, None, 1), ('Could you imagine that ? I wonder', None, None, None, 0), ('if he died right away', None, None, None, 0), ('or if he suffered a lot before dying . Rangers tried to recover the mans body', None, None, None, 0), ('after the mans sister called and reported the accident .', None, None, None, 1), ('They believe', None, None, None, 0), ('that the extreme heat and the acidic liquid completely disolved the body', None, None, None, 0), ('and there was nothing left .', None, None, None, 1), ('That is wild', None, None, None, 0), ('to even think about ,', None, None, None, 0), ('I have never heard of such an accident in my life .', None, None, None, 1)]]
+Leaf:  N Elaborate I read a news article about a man
+Leaf:  S span who died in Yellowstone Hot springs .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The article said
+Leaf:  N Attribution that he fell into a boiling scidic spring in the park .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Could you imagine that ? I wonder
+Leaf:  N Joint if he died right away
+Leaf:  N Temporal or if he suffered a lot before dying . Rangers tried to recover the mans body
+Leaf:  S span after the mans sister called and reported the accident .
+Inner:  N Joint None Temporal NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They believe
+Leaf:  N Cause that the extreme heat and the acidic liquid completely disolved the body
+Leaf:  N Cause and there was nothing left .
+Inner:  N Attribution None Cause NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation That is wild
+Leaf:  S span to even think about ,
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I have never heard of such an accident in my life .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I read a news article about a man', None, None, None, 0), ('who died in Yellowstone Hot springs .', None, None, None, 1), ('The article said', None, None, None, 0), ('that he fell into a boiling scidic spring in the park .', None, None, None, 1), ('Could you imagine that ? I wonder', None, None, None, 0), ('if he died right away', None, None, None, 0), ('or if he suffered a lot before dying . Rangers tried to recover the mans body', None, None, None, 0), ('after the mans sister called and reported the accident .', None, None, None, 1), ('They believe', None, None, None, 0), ('that the extreme heat and the acidic liquid completely disolved the body', None, None, None, 0), ('and there was nothing left .', None, None, None, 1), ('That is wild', None, None, None, 0), ('to even think about ,', None, None, None, 0), ('I have never heard of such an accident in my life .', None, None, None, 1)]

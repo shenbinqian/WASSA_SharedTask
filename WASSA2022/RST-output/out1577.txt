@@ -1,0 +1,15 @@
+=====================> [[("This really does n't seem that much different to me than capital punishment", None, None, None, 0), ('which is accepted in our country .', None, None, None, 1), ("Yes , it 's cruel", None, None, None, 0), ('and seems to be brutal', None, None, None, 0), ('but at the same time it could be a good way of discouraging people to commit such crimes .', None, None, None, 1), ("On the other hand a victim 's situation will not be improved or reversed", None, None, None, 0), ('because their perpetrator has been harmed in the same way .', None, None, None, 1)]]
+Leaf:  N Elaborate This really does n't seem that much different to me than capital punishment
+Leaf:  S span which is accepted in our country .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Yes , it 's cruel
+Leaf:  N Joint and seems to be brutal
+Inner:  N Contrast None Joint NN
+Leaf:  N Contrast but at the same time it could be a good way of discouraging people to commit such crimes .
+Inner:  N Contrast None Contrast NN
+Leaf:  N Cause On the other hand a victim 's situation will not be improved or reversed
+Leaf:  S span because their perpetrator has been harmed in the same way .
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[("This really does n't seem that much different to me than capital punishment", None, None, None, 0), ('which is accepted in our country .', None, None, None, 1), ("Yes , it 's cruel", None, None, None, 0), ('and seems to be brutal', None, None, None, 0), ('but at the same time it could be a good way of discouraging people to commit such crimes .', None, None, None, 1), ("On the other hand a victim 's situation will not be improved or reversed", None, None, None, 0), ('because their perpetrator has been harmed in the same way .', None, None, None, 1)]

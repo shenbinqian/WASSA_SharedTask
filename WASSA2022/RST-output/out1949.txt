@@ -1,0 +1,29 @@
+=====================> [[('Its amazing what our country does sometimes .', None, None, None, 1), ('We steal land from the natives over hundreds of years', None, None, None, 0), ('and their reservations get smaller and smaller', None, None, None, 0), ('as we want to industrialize every bit of America .', None, None, None, 1), ('Its silly to think', None, None, None, 0), ('that people', None, None, None, 0), ('that once lived on these lands', None, None, None, 0), ('have to live on " reservations "', None, None, None, 0), ('to begin with .', None, None, None, 1), ('What gives our government the right', None, None, None, 0), ('to completely control every bit of land', None, None, None, 0), ('and person', None, None, None, 0), ('that exists on it', None, None, None, 0), ('( before or after they were here ? )', None, None, None, 0)]]
+Leaf:  N Explanation Its amazing what our country does sometimes .
+Leaf:  N Joint We steal land from the natives over hundreds of years
+Leaf:  N Cause and their reservations get smaller and smaller
+Leaf:  S span as we want to industrialize every bit of America .
+Inner:  N Joint None Cause NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Its silly to think
+Leaf:  N Elaborate that people
+Leaf:  S span that once lived on these lands
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have to live on " reservations "
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span to begin with .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate What gives our government the right
+Leaf:  N Elaborate to completely control every bit of land
+Leaf:  N Elaborate and person
+Leaf:  N Temporal that exists on it
+Leaf:  S span ( before or after they were here ? )
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('Its amazing what our country does sometimes .', None, None, None, 1), ('We steal land from the natives over hundreds of years', None, None, None, 0), ('and their reservations get smaller and smaller', None, None, None, 0), ('as we want to industrialize every bit of America .', None, None, None, 1), ('Its silly to think', None, None, None, 0), ('that people', None, None, None, 0), ('that once lived on these lands', None, None, None, 0), ('have to live on " reservations "', None, None, None, 0), ('to begin with .', None, None, None, 1), ('What gives our government the right', None, None, None, 0), ('to completely control every bit of land', None, None, None, 0), ('and person', None, None, None, 0), ('that exists on it', None, None, None, 0), ('( before or after they were here ? )', None, None, None, 0)]

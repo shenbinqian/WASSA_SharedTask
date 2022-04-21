@@ -1,0 +1,19 @@
+=====================> [[('Did you hear about Jose Fernandez ?', None, None, None, 1), ('He just died in a boating accident .', None, None, None, 1), ('He was only 24 years old !', None, None, None, 1), ("It 's just so shocking and sad . What a waste !", None, None, None, 1), ('He was with two other men too , all in their twenties . Hose had overcome so much adversity .', None, None, None, 1), ('when he was a child in Cuba ,', None, None, None, 0), ('he would only make $ 4 a day', None, None, None, 0), ('selling tomatoes and onions .', None, None, None, 1), ("It 's such a shame to lose such a great man and great ball player .", None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about Jose Fernandez ?
+Leaf:  N Elaborate He just died in a boating accident .
+Leaf:  S span He was only 24 years old !
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's just so shocking and sad . What a waste !
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Temporal He was with two other men too , all in their twenties . Hose had overcome so much adversity .
+Leaf:  S span when he was a child in Cuba ,
+Leaf:  N Manner-Means he would only make $ 4 a day
+Leaf:  S span selling tomatoes and onions .
+Inner:  N Temporal None Manner-Means NS
+Inner:  S span None Temporal SN
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span It 's such a shame to lose such a great man and great ball player .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Did you hear about Jose Fernandez ?', None, None, None, 1), ('He just died in a boating accident .', None, None, None, 1), ('He was only 24 years old !', None, None, None, 1), ("It 's just so shocking and sad . What a waste !", None, None, None, 1), ('He was with two other men too , all in their twenties . Hose had overcome so much adversity .', None, None, None, 1), ('when he was a child in Cuba ,', None, None, None, 0), ('he would only make $ 4 a day', None, None, None, 0), ('selling tomatoes and onions .', None, None, None, 1), ("It 's such a shame to lose such a great man and great ball player .", None, None, None, 1)]

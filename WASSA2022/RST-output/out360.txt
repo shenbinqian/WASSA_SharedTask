@@ -1,0 +1,27 @@
+=====================> [[('This took place close to', None, None, None, 0), ('where I live', None, None, None, 0), ('so I can honestly say', None, None, None, 0), ('that it alarms me .', None, None, None, 1), ('Its a brutal world', None, None, None, 0), ('where this can happen', None, None, None, 0), ('and its always sad .', None, None, None, 1), ('I noticed', None, None, None, 0), ('the police and courts could have been more involved', None, None, None, 0), ('in preventing this', None, None, None, 0), ('but thats just how many of the violent stories', None, None, None, 0), ("I 've been hearing", None, None, None, 0), ('have gone recently .', None, None, None, 1)]]
+Leaf:  N Elaborate This took place close to
+Leaf:  S span where I live
+Inner:  S span None Elaborate NS
+Leaf:  S span so I can honestly say
+Leaf:  N Attribution that it alarms me .
+Inner:  N Cause None Attribution SN
+Inner:  N Explanation None Cause SN
+Leaf:  N Elaborate Its a brutal world
+Leaf:  S span where this can happen
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and its always sad .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I noticed
+Leaf:  N Elaborate the police and courts could have been more involved
+Leaf:  S span in preventing this
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but thats just how many of the violent stories
+Leaf:  S span I 've been hearing
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have gone recently .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('This took place close to', None, None, None, 0), ('where I live', None, None, None, 0), ('so I can honestly say', None, None, None, 0), ('that it alarms me .', None, None, None, 1), ('Its a brutal world', None, None, None, 0), ('where this can happen', None, None, None, 0), ('and its always sad .', None, None, None, 1), ('I noticed', None, None, None, 0), ('the police and courts could have been more involved', None, None, None, 0), ('in preventing this', None, None, None, 0), ('but thats just how many of the violent stories', None, None, None, 0), ("I 've been hearing", None, None, None, 0), ('have gone recently .', None, None, None, 1)]

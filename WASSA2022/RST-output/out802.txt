@@ -1,0 +1,35 @@
+=====================> [[('i was reading about the war in Iraq .', None, None, None, 1), ('not gon na lie , i couldnt read it all .', None, None, None, 1), ('logically you know', None, None, None, 0), ('" war is hell "', None, None, None, 0), ('but all the details of it were too much for me .', None, None, None, 1), ('i tried ,', None, None, None, 0), ("but reading of who 's got a head head injury ,", None, None, None, 0), ('who got gassed ,', None, None, None, 0), ('it was too much .', None, None, None, 1), ('I flinch', None, None, None, 0), ('when i hear the words " suicide bomber " on the news ,', None, None, None, 0), ('so reading about people', None, None, None, 0), ('being dragged into the city to be used as human sheilds', None, None, None, 0), ('was too much .', None, None, None, 1), ('I dont get it .', None, None, None, 1), ('how can people be so horrible to each other .', None, None, None, 1), ('bomb and attacks require calculated effort i just cant comprhend .', None, None, None, 1)]]
+Leaf:  N Elaborate i was reading about the war in Iraq .
+Leaf:  S span not gon na lie , i couldnt read it all .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span logically you know
+Leaf:  N Attribution " war is hell "
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but all the details of it were too much for me .
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span i tried ,
+Leaf:  N Joint but reading of who 's got a head head injury ,
+Leaf:  N Joint who got gassed ,
+Inner:  S span None Joint NN
+Leaf:  N Background it was too much .
+Inner:  N Contrast None Background SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Background I flinch
+Leaf:  S span when i hear the words " suicide bomber " on the news ,
+Inner:  N Evaluation None Background NS
+Leaf:  N Elaborate so reading about people
+Leaf:  S span being dragged into the city to be used as human sheilds
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was too much .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation I dont get it .
+Leaf:  N Joint how can people be so horrible to each other .
+Leaf:  N Joint bomb and attacks require calculated effort i just cant comprhend .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('i was reading about the war in Iraq .', None, None, None, 1), ('not gon na lie , i couldnt read it all .', None, None, None, 1), ('logically you know', None, None, None, 0), ('" war is hell "', None, None, None, 0), ('but all the details of it were too much for me .', None, None, None, 1), ('i tried ,', None, None, None, 0), ("but reading of who 's got a head head injury ,", None, None, None, 0), ('who got gassed ,', None, None, None, 0), ('it was too much .', None, None, None, 1), ('I flinch', None, None, None, 0), ('when i hear the words " suicide bomber " on the news ,', None, None, None, 0), ('so reading about people', None, None, None, 0), ('being dragged into the city to be used as human sheilds', None, None, None, 0), ('was too much .', None, None, None, 1), ('I dont get it .', None, None, None, 1), ('how can people be so horrible to each other .', None, None, None, 1), ('bomb and attacks require calculated effort i just cant comprhend .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[("I really ca n't believe the amount of smugness from BP .", None, None, None, 1), ('They say', None, None, None, 0), ("it wo n't cause a lot of problems ,", None, None, None, 0), ('but there are birds', None, None, None, 0), ('that are breeding in that area .', None, None, None, 1), ('What kind of oil was it ?', None, None, None, 1), ('How much EXACTLY was spilled ? Birds are sensitive', None, None, None, 0), ('( I own a parrot', None, None, None, 0), ('and the slightest disturbance in her environment can be harmful emotionally ,', None, None, None, 0), ('which means eventually it will lead to physical problems such as plucking and starvation ) .', None, None, None, 1), ('So what the hell , BP ?', None, None, None, 1), ('I hate', None, None, None, 0), ('that they act', None, None, None, 0), ('like this', None, None, None, 0), ('is " no big deal " .', None, None, None, 1), ('It is a big deal', None, None, None, 0), ('and companies like this are the reason', None, None, None, 0), ('we are in danger of so many different world disasters .', None, None, None, 1)]]
+Leaf:  N Elaborate I really ca n't believe the amount of smugness from BP .
+Leaf:  S span They say
+Leaf:  N Attribution it wo n't cause a lot of problems ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but there are birds
+Leaf:  S span that are breeding in that area .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint What kind of oil was it ?
+Leaf:  N Explanation How much EXACTLY was spilled ? Birds are sensitive
+Leaf:  S span ( I own a parrot
+Inner:  N Same-Unit None Explanation NS
+Leaf:  N Cause and the slightest disturbance in her environment can be harmful emotionally ,
+Leaf:  S span which means eventually it will lead to physical problems such as plucking and starvation ) .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span So what the hell , BP ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hate
+Leaf:  N Enablement that they act
+Leaf:  S span like this
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit is " no big deal " .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint It is a big deal
+Leaf:  N Cause and companies like this are the reason
+Leaf:  N Cause we are in danger of so many different world disasters .
+Inner:  N Joint None Cause NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("I really ca n't believe the amount of smugness from BP .", None, None, None, 1), ('They say', None, None, None, 0), ("it wo n't cause a lot of problems ,", None, None, None, 0), ('but there are birds', None, None, None, 0), ('that are breeding in that area .', None, None, None, 1), ('What kind of oil was it ?', None, None, None, 1), ('How much EXACTLY was spilled ? Birds are sensitive', None, None, None, 0), ('( I own a parrot', None, None, None, 0), ('and the slightest disturbance in her environment can be harmful emotionally ,', None, None, None, 0), ('which means eventually it will lead to physical problems such as plucking and starvation ) .', None, None, None, 1), ('So what the hell , BP ?', None, None, None, 1), ('I hate', None, None, None, 0), ('that they act', None, None, None, 0), ('like this', None, None, None, 0), ('is " no big deal " .', None, None, None, 1), ('It is a big deal', None, None, None, 0), ('and companies like this are the reason', None, None, None, 0), ('we are in danger of so many different world disasters .', None, None, None, 1)]

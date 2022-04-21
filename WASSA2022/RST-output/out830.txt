@@ -1,0 +1,27 @@
+=====================> [[('‘ Silicon Valley ’ stars recount being harassed by Donald Trump supporters —', None, None, None, 0), ('“ Silicon Valley ” stars Kumail Nanjiani and Thomas Middleditch both took to Twitter Saturday morning', None, None, None, 0), ('to recount their experience', None, None, None, 0), ('being harassed by two Donald Trump supporters in a Los Angeles bar .', None, None, None, 1), ('“ Was at a bar last night with @Middleditch .', None, None, None, 1), ('At the end of the night , 2 white dudes , 20 ’s , who ’d been there for hours came up to us , ” Nanjiani began ,', None, None, None, 0), ('adding', None, None, None, 0), ('that they said', None, None, None, 0), ('they were fans ,', None, None, None, 0), ('but thought', None, None, None, 0), ('they were “ wrong about Trump . ”', None, None, None, 0), ('“ I go ‘ Hey we do n’t wan na discuss politics right now . ’', None, None, None, 0), ('His friends goes ‘ oh they ’re cucks . ’', None, None, None, 0)]]
+Leaf:  N Summary ‘ Silicon Valley ’ stars recount being harassed by Donald Trump supporters —
+Leaf:  N Enablement “ Silicon Valley ” stars Kumail Nanjiani and Thomas Middleditch both took to Twitter Saturday morning
+Leaf:  N Elaborate to recount their experience
+Leaf:  S span being harassed by two Donald Trump supporters in a Los Angeles bar .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span “ Was at a bar last night with @Middleditch .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate At the end of the night , 2 white dudes , 20 ’s , who ’d been there for hours came up to us , ” Nanjiani began ,
+Leaf:  S span adding
+Leaf:  S span that they said
+Leaf:  N Attribution they were fans ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but thought
+Leaf:  N Attribution they were “ wrong about Trump . ”
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span “ I go ‘ Hey we do n’t wan na discuss politics right now . ’
+Inner:  N Attribution None Elaborate NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span His friends goes ‘ oh they ’re cucks . ’
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('‘ Silicon Valley ’ stars recount being harassed by Donald Trump supporters —', None, None, None, 0), ('“ Silicon Valley ” stars Kumail Nanjiani and Thomas Middleditch both took to Twitter Saturday morning', None, None, None, 0), ('to recount their experience', None, None, None, 0), ('being harassed by two Donald Trump supporters in a Los Angeles bar .', None, None, None, 1), ('“ Was at a bar last night with @Middleditch .', None, None, None, 1), ('At the end of the night , 2 white dudes , 20 ’s , who ’d been there for hours came up to us , ” Nanjiani began ,', None, None, None, 0), ('adding', None, None, None, 0), ('that they said', None, None, None, 0), ('they were fans ,', None, None, None, 0), ('but thought', None, None, None, 0), ('they were “ wrong about Trump . ”', None, None, None, 0), ('“ I go ‘ Hey we do n’t wan na discuss politics right now . ’', None, None, None, 0), ('His friends goes ‘ oh they ’re cucks . ’', None, None, None, 0)]

@@ -1,0 +1,37 @@
+=====================> [[('I always feel bad', None, None, None, 0), ('when women talk about their experiences with sexual assault', None, None, None, 0), ('because you know', None, None, None, 0), ('how I feel about that', None, None, None, 0), ('but I want to put it into words anyway .', None, None, None, 1), ("I feel like it 's always on the women to be the ones", None, None, None, 0), ('to hold men accountable', None, None, None, 0), ('and to report it', None, None, None, 0), ("and everything but I 'm so frustrated by the fact", None, None, None, 0), ("that men wo n't take a bigger stand .", None, None, None, 1), ('Men should hold each other accountable for sexual assault', None, None, None, 0), ('and encourage each other not to do it', None, None, None, 0), ("instead of making jokes about it all the time . I 'm just so frustrated by how there are so many stories of women", None, None, None, 0), ('that are suffering needlessly at the hands of these arrogant men', None, None, None, 0), ('and yet women have to endure a lifetime of trauma from it', None, None, None, 0), ('and men usually get away with a slap on the wrist ,', None, None, None, 0), ('it really just makes me so sick to my stomach ,', None, None, None, 0), ('I hate it so much .', None, None, None, 1)]]
+Leaf:  N Background I always feel bad
+Leaf:  N Explanation when women talk about their experiences with sexual assault
+Leaf:  N Enablement because you know
+Leaf:  S span how I feel about that
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  S span None Background NS
+Leaf:  N Contrast but I want to put it into words anyway .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate I feel like it 's always on the women to be the ones
+Leaf:  N Joint to hold men accountable
+Leaf:  N Joint and to report it
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and everything but I 'm so frustrated by the fact
+Leaf:  S span that men wo n't take a bigger stand .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Men should hold each other accountable for sexual assault
+Leaf:  N Joint and encourage each other not to do it
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate instead of making jokes about it all the time . I 'm just so frustrated by how there are so many stories of women
+Leaf:  N Temporal that are suffering needlessly at the hands of these arrogant men
+Leaf:  N Joint and yet women have to endure a lifetime of trauma from it
+Leaf:  N Joint and men usually get away with a slap on the wrist ,
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Evaluation it really just makes me so sick to my stomach ,
+Leaf:  S span I hate it so much .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Same-Unit None Evaluation NS
+Inner:  S span None Same-Unit NN
+Inner:  Root None None Evaluation NS
+[('I always feel bad', None, None, None, 0), ('when women talk about their experiences with sexual assault', None, None, None, 0), ('because you know', None, None, None, 0), ('how I feel about that', None, None, None, 0), ('but I want to put it into words anyway .', None, None, None, 1), ("I feel like it 's always on the women to be the ones", None, None, None, 0), ('to hold men accountable', None, None, None, 0), ('and to report it', None, None, None, 0), ("and everything but I 'm so frustrated by the fact", None, None, None, 0), ("that men wo n't take a bigger stand .", None, None, None, 1), ('Men should hold each other accountable for sexual assault', None, None, None, 0), ('and encourage each other not to do it', None, None, None, 0), ("instead of making jokes about it all the time . I 'm just so frustrated by how there are so many stories of women", None, None, None, 0), ('that are suffering needlessly at the hands of these arrogant men', None, None, None, 0), ('and yet women have to endure a lifetime of trauma from it', None, None, None, 0), ('and men usually get away with a slap on the wrist ,', None, None, None, 0), ('it really just makes me so sick to my stomach ,', None, None, None, 0), ('I hate it so much .', None, None, None, 1)]

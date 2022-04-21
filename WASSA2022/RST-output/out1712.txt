@@ -1,0 +1,33 @@
+=====================> [[('France plans to shut down the jungle', None, None, None, 0), ('as they call it .', None, None, None, 1), ('This was where they kept illegal immigrants', None, None, None, 0), ('trying to make their way to Britain .', None, None, None, 1), ('I certainly feel for anyone', None, None, None, 0), ('looking for a better life and at times wish all countries had open borders', None, None, None, 0), ("as this one is n't so great at times", None, None, None, 0), ('but we do have laws', None, None, None, 0), ('and many immigrants enter other countries legally', None, None, None, 0), ('and I think', None, None, None, 0), ('there needs to be some sort of controls', None, None, None, 0), ('that make the process fair to legal citizens .', None, None, None, 1), ('I feel for the immigrants', None, None, None, 0), ("but it 's hard to support their actions", None, None, None, 0), ('when they could also do so legally', None, None, None, 0), ('as opposed to sneaking in by way of hiding in trucks .', None, None, None, 1)]]
+Leaf:  N Elaborate France plans to shut down the jungle
+Leaf:  S span as they call it .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This was where they kept illegal immigrants
+Leaf:  S span trying to make their way to Britain .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I certainly feel for anyone
+Leaf:  N Explanation looking for a better life and at times wish all countries had open borders
+Leaf:  S span as this one is n't so great at times
+Inner:  S span None Explanation NS
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Joint but we do have laws
+Leaf:  N Joint and many immigrants enter other countries legally
+Inner:  N Joint None Joint NN
+Leaf:  S span and I think
+Leaf:  N Elaborate there needs to be some sort of controls
+Leaf:  S span that make the process fair to legal citizens .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Contrast I feel for the immigrants
+Leaf:  N Background but it 's hard to support their actions
+Leaf:  N Comparison when they could also do so legally
+Leaf:  S span as opposed to sneaking in by way of hiding in trucks .
+Inner:  S span None Comparison NS
+Inner:  S span None Background NS
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('France plans to shut down the jungle', None, None, None, 0), ('as they call it .', None, None, None, 1), ('This was where they kept illegal immigrants', None, None, None, 0), ('trying to make their way to Britain .', None, None, None, 1), ('I certainly feel for anyone', None, None, None, 0), ('looking for a better life and at times wish all countries had open borders', None, None, None, 0), ("as this one is n't so great at times", None, None, None, 0), ('but we do have laws', None, None, None, 0), ('and many immigrants enter other countries legally', None, None, None, 0), ('and I think', None, None, None, 0), ('there needs to be some sort of controls', None, None, None, 0), ('that make the process fair to legal citizens .', None, None, None, 1), ('I feel for the immigrants', None, None, None, 0), ("but it 's hard to support their actions", None, None, None, 0), ('when they could also do so legally', None, None, None, 0), ('as opposed to sneaking in by way of hiding in trucks .', None, None, None, 1)]

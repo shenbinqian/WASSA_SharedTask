@@ -1,0 +1,41 @@
+=====================> [[('The article is misguided in many ways ,', None, None, None, 0), ('and obviously only prevents one perspective on all of these very complicated issues .', None, None, None, 1), ("I do n't have time", None, None, None, 0), ('to discuss all issues , obviously ,', None, None, None, 0), ("but I 'll just say this .", None, None, None, 1), ('To all the people', None, None, None, 0), ('who feel like helping low-income citizens is the be-all-end-all of government and societal purpose ,', None, None, None, 0), ('I ask just one question :', None, None, None, 0), ('What have any of those people done', None, None, None, 0), ('to deserve better outcomes ?', None, None, None, 1), ('What have they done', None, None, None, 0), ('to deserve to share in the wealth of the wealthy ?', None, None, None, 1), ('What have they done', None, None, None, 0), ('to deserve free healthcare ?', None, None, None, 1), ('What have they done', None, None, None, 0), ('to deserve handouts ?', None, None, None, 1), ("Wealth does n't magically fall form the sky", None, None, None, 0), ('and some people are just more greedy than others .', None, None, None, 1), ("Entitlement does n't produce better outcomes ;", None, None, None, 0), ('it produces more entitlement .', None, None, None, 1)]]
+Leaf:  N Joint The article is misguided in many ways ,
+Leaf:  N Joint and obviously only prevents one perspective on all of these very complicated issues .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate I do n't have time
+Leaf:  S span to discuss all issues , obviously ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but I 'll just say this .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate To all the people
+Leaf:  S span who feel like helping low-income citizens is the be-all-end-all of government and societal purpose ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background I ask just one question :
+Inner:  N Elaborate None Background SN
+Leaf:  N Enablement What have any of those people done
+Leaf:  S span to deserve better outcomes ?
+Inner:  N Joint None Enablement NS
+Leaf:  N Enablement What have they done
+Leaf:  S span to deserve to share in the wealth of the wealthy ?
+Inner:  N Joint None Enablement NS
+Leaf:  N Enablement What have they done
+Leaf:  S span to deserve free healthcare ?
+Inner:  N Joint None Enablement NS
+Leaf:  N Enablement What have they done
+Leaf:  S span to deserve handouts ?
+Inner:  N Joint None Enablement NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Joint Wealth does n't magically fall form the sky
+Leaf:  N Joint and some people are just more greedy than others .
+Inner:  N Joint None Joint NN
+Leaf:  N Comparison Entitlement does n't produce better outcomes ;
+Leaf:  N Comparison it produces more entitlement .
+Inner:  N Joint None Comparison NN
+Inner:  N Topic-Change None Joint NN
+Inner:  S span None Topic-Change NN
+Inner:  Root None None Elaborate NS
+[('The article is misguided in many ways ,', None, None, None, 0), ('and obviously only prevents one perspective on all of these very complicated issues .', None, None, None, 1), ("I do n't have time", None, None, None, 0), ('to discuss all issues , obviously ,', None, None, None, 0), ("but I 'll just say this .", None, None, None, 1), ('To all the people', None, None, None, 0), ('who feel like helping low-income citizens is the be-all-end-all of government and societal purpose ,', None, None, None, 0), ('I ask just one question :', None, None, None, 0), ('What have any of those people done', None, None, None, 0), ('to deserve better outcomes ?', None, None, None, 1), ('What have they done', None, None, None, 0), ('to deserve to share in the wealth of the wealthy ?', None, None, None, 1), ('What have they done', None, None, None, 0), ('to deserve free healthcare ?', None, None, None, 1), ('What have they done', None, None, None, 0), ('to deserve handouts ?', None, None, None, 1), ("Wealth does n't magically fall form the sky", None, None, None, 0), ('and some people are just more greedy than others .', None, None, None, 1), ("Entitlement does n't produce better outcomes ;", None, None, None, 0), ('it produces more entitlement .', None, None, None, 1)]

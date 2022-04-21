@@ -1,0 +1,25 @@
+=====================> [[('Can you believe', None, None, None, 0), ('that these women have to endure this ??', None, None, None, 1), ('I am so thankful', None, None, None, 0), ('that they are standing up for themselves', None, None, None, 0), ('and trying to regain some of their rights .', None, None, None, 1), ('It is crazy', None, None, None, 0), ('that things', None, None, None, 0), ('like this', None, None, None, 0), ('still go on in this world .', None, None, None, 1), ('I stand in support of these brave ladies', None, None, None, 0), ('and I hope', None, None, None, 0), ('that no undue harm is caused to them .', None, None, None, 1)]]
+Leaf:  S span Can you believe
+Leaf:  N Attribution that these women have to endure this ??
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I am so thankful
+Leaf:  N Joint that they are standing up for themselves
+Leaf:  N Joint and trying to regain some of their rights .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It is crazy
+Leaf:  N Elaborate that things
+Leaf:  S span like this
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit still go on in this world .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint I stand in support of these brave ladies
+Leaf:  S span and I hope
+Leaf:  N Attribution that no undue harm is caused to them .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('Can you believe', None, None, None, 0), ('that these women have to endure this ??', None, None, None, 1), ('I am so thankful', None, None, None, 0), ('that they are standing up for themselves', None, None, None, 0), ('and trying to regain some of their rights .', None, None, None, 1), ('It is crazy', None, None, None, 0), ('that things', None, None, None, 0), ('like this', None, None, None, 0), ('still go on in this world .', None, None, None, 1), ('I stand in support of these brave ladies', None, None, None, 0), ('and I hope', None, None, None, 0), ('that no undue harm is caused to them .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('I am so bothered', None, None, None, 0), ('and upset about the elementary school teacher', None, None, None, 0), ('that was charged with child pornography .', None, None, None, 1), ('I can not believe', None, None, None, 0), ('a trusted individual would commit such a heinous crime', None, None, None, 0), ('involving children !', None, None, None, 1), ('This infuriates me to my core', None, None, None, 0), ('that someone could hurt innocent children this way !', None, None, None, 1), ('Does this make you just as mad ? I really feel for those parents of the children', None, None, None, 0), ('involved', None, None, None, 0), ('and hope', None, None, None, 0), ('that it does not do permanent damage to all those sweet babies !', None, None, None, 1)]]
+Leaf:  N Joint I am so bothered
+Leaf:  N Elaborate and upset about the elementary school teacher
+Leaf:  S span that was charged with child pornography .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  S span I can not believe
+Leaf:  N Elaborate a trusted individual would commit such a heinous crime
+Leaf:  S span involving children !
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate This infuriates me to my core
+Leaf:  S span that someone could hurt innocent children this way !
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Does this make you just as mad ? I really feel for those parents of the children
+Leaf:  S span involved
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and hope
+Leaf:  N Attribution that it does not do permanent damage to all those sweet babies !
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('I am so bothered', None, None, None, 0), ('and upset about the elementary school teacher', None, None, None, 0), ('that was charged with child pornography .', None, None, None, 1), ('I can not believe', None, None, None, 0), ('a trusted individual would commit such a heinous crime', None, None, None, 0), ('involving children !', None, None, None, 1), ('This infuriates me to my core', None, None, None, 0), ('that someone could hurt innocent children this way !', None, None, None, 1), ('Does this make you just as mad ? I really feel for those parents of the children', None, None, None, 0), ('involved', None, None, None, 0), ('and hope', None, None, None, 0), ('that it does not do permanent damage to all those sweet babies !', None, None, None, 1)]

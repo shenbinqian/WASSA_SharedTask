@@ -1,0 +1,29 @@
+=====================> [[("I 'm really confused", None, None, None, 0), ('at why multiple articles were mushed together like this .', None, None, None, 1), ('At first I was perturbed at the first article', None, None, None, 0), ('because I felt like the lady was being ridiculous .', None, None, None, 1), ('She weighs 500 pounds ,', None, None, None, 0), ('so obviously a 1200 calorie diet is going to cause her to lose weight ,', None, None, None, 0), ('the fact', None, None, None, 0), ("that she ca n't find a scale", None, None, None, 0), ('to weigh her', None, None, None, 0), ("does n't matter . You do n't need a scale", None, None, None, 0), ("to tell you 're losing weight . Measure your body with measuring tape . But then I got to the article about the Mexican students", None, None, None, 0), ('and found it really horrifying .', None, None, None, 1), ("I ca n't believe the terrible things people do to one another :", None, None, None, 0), ('(', None, None, None, 0)]]
+Leaf:  S span I 'm really confused
+Leaf:  N Attribution at why multiple articles were mushed together like this .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation At first I was perturbed at the first article
+Leaf:  S span because I felt like the lady was being ridiculous .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span She weighs 500 pounds ,
+Leaf:  N Cause so obviously a 1200 calorie diet is going to cause her to lose weight ,
+Inner:  N Topic-Comment None Cause SN
+Leaf:  N Elaborate the fact
+Leaf:  N Elaborate that she ca n't find a scale
+Leaf:  S span to weigh her
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement does n't matter . You do n't need a scale
+Leaf:  S span to tell you 're losing weight . Measure your body with measuring tape . But then I got to the article about the Mexican students
+Inner:  N Same-Unit None Enablement NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation and found it really horrifying .
+Inner:  N Topic-Comment None Evaluation NN
+Inner:  S span None Topic-Comment NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I ca n't believe the terrible things people do to one another :
+Leaf:  S span (
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I 'm really confused", None, None, None, 0), ('at why multiple articles were mushed together like this .', None, None, None, 1), ('At first I was perturbed at the first article', None, None, None, 0), ('because I felt like the lady was being ridiculous .', None, None, None, 1), ('She weighs 500 pounds ,', None, None, None, 0), ('so obviously a 1200 calorie diet is going to cause her to lose weight ,', None, None, None, 0), ('the fact', None, None, None, 0), ("that she ca n't find a scale", None, None, None, 0), ('to weigh her', None, None, None, 0), ("does n't matter . You do n't need a scale", None, None, None, 0), ("to tell you 're losing weight . Measure your body with measuring tape . But then I got to the article about the Mexican students", None, None, None, 0), ('and found it really horrifying .', None, None, None, 1), ("I ca n't believe the terrible things people do to one another :", None, None, None, 0), ('(', None, None, None, 0)]

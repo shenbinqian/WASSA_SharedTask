@@ -1,0 +1,21 @@
+=====================> [[('Sally Brampton should serve as an example to others .', None, None, None, 1), ('Talk about being forgotten .', None, None, None, 1), ('She demonstrated clear signs', None, None, None, 0), ('of needing help ,', None, None, None, 0), ('and the system failed her . What a terrible loss ! A successful , intelligent , conflicted woman', None, None, None, 0), ('who was lost way too soon .', None, None, None, 1), ('It is sad to see someone struggle with depression and other mental illnesses . Society needs to do better', None, None, None, 0), ('to help people in need ,', None, None, None, 0), ('especially when they are asking for it .', None, None, None, 1), ('IT is a shame what happened to her .', None, None, None, 1)]]
+Leaf:  N Evaluation Sally Brampton should serve as an example to others .
+Leaf:  N Elaborate Talk about being forgotten .
+Leaf:  N Elaborate She demonstrated clear signs
+Leaf:  S span of needing help ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and the system failed her . What a terrible loss ! A successful , intelligent , conflicted woman
+Leaf:  S span who was lost way too soon .
+Inner:  N Cause None Elaborate NS
+Inner:  S span None Cause SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It is sad to see someone struggle with depression and other mental illnesses . Society needs to do better
+Leaf:  N Background to help people in need ,
+Leaf:  S span especially when they are asking for it .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span IT is a shame what happened to her .
+Inner:  Root None None Evaluation NS
+[('Sally Brampton should serve as an example to others .', None, None, None, 1), ('Talk about being forgotten .', None, None, None, 1), ('She demonstrated clear signs', None, None, None, 0), ('of needing help ,', None, None, None, 0), ('and the system failed her . What a terrible loss ! A successful , intelligent , conflicted woman', None, None, None, 0), ('who was lost way too soon .', None, None, None, 1), ('It is sad to see someone struggle with depression and other mental illnesses . Society needs to do better', None, None, None, 0), ('to help people in need ,', None, None, None, 0), ('especially when they are asking for it .', None, None, None, 1), ('IT is a shame what happened to her .', None, None, None, 1)]

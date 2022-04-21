@@ -1,0 +1,17 @@
+=====================> [[('This article is quite disturbing in the way', None, None, None, 0), ('that Americans act towards one another .', None, None, None, 1), ('The display of the Confederate flag means different things for different Americans all over the country', None, None, None, 0), ('and it kind of makes me sad with the way', None, None, None, 0), ('people treat one another .', None, None, None, 1), ('Being an American means uniting as one ,', None, None, None, 0), ('not fighting over a flag or the real issue , legal citizens', None, None, None, 0), ('who may not be white .', None, None, None, 1)]]
+Leaf:  N Elaborate This article is quite disturbing in the way
+Leaf:  S span that Americans act towards one another .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The display of the Confederate flag means different things for different Americans all over the country
+Leaf:  N Elaborate and it kind of makes me sad with the way
+Leaf:  S span people treat one another .
+Inner:  N Joint None Elaborate NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint Being an American means uniting as one ,
+Leaf:  N Elaborate not fighting over a flag or the real issue , legal citizens
+Leaf:  S span who may not be white .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('This article is quite disturbing in the way', None, None, None, 0), ('that Americans act towards one another .', None, None, None, 1), ('The display of the Confederate flag means different things for different Americans all over the country', None, None, None, 0), ('and it kind of makes me sad with the way', None, None, None, 0), ('people treat one another .', None, None, None, 1), ('Being an American means uniting as one ,', None, None, None, 0), ('not fighting over a flag or the real issue , legal citizens', None, None, None, 0), ('who may not be white .', None, None, None, 1)]

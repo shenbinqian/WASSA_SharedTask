@@ -1,0 +1,27 @@
+=====================> [[('This story makes me sad', None, None, None, 0), ('that a hard-working family member can suffer in this way .', None, None, None, 1), ('Life can be pretty cruel . On the bright side , with advancing computer and health sciences , the future does have some light at the end of the tunnel .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's probably helpful to try to focus a bit on the positive .", None, None, None, 1), ('My political views are different from most .', None, None, None, 1), ('I find myself disagreeing with many Republican and Democrat stances .', None, None, None, 1), ("I 'm in favor of universal healthcare , basic income , and access to assisted suicide", None, None, None, 0), ('( rational suicide , access to drugs like Nembutal for anyone', None, None, None, 0), ('who thinks', None, None, None, 0), ('they might want to make the rational decision', None, None, None, 0), ('not to live ,', None, None, None, 0), ('and instead die in a humane way ) .', None, None, None, 1)]]
+Leaf:  N Elaborate This story makes me sad
+Leaf:  S span that a hard-working family member can suffer in this way .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Life can be pretty cruel . On the bright side , with advancing computer and health sciences , the future does have some light at the end of the tunnel .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Attribution it 's probably helpful to try to focus a bit on the positive .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate My political views are different from most .
+Leaf:  S span I find myself disagreeing with many Republican and Democrat stances .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I 'm in favor of universal healthcare , basic income , and access to assisted suicide
+Leaf:  S span ( rational suicide , access to drugs like Nembutal for anyone
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span who thinks
+Leaf:  N Elaborate they might want to make the rational decision
+Leaf:  N Temporal not to live ,
+Leaf:  N Temporal and instead die in a humane way ) .
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This story makes me sad', None, None, None, 0), ('that a hard-working family member can suffer in this way .', None, None, None, 1), ('Life can be pretty cruel . On the bright side , with advancing computer and health sciences , the future does have some light at the end of the tunnel .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's probably helpful to try to focus a bit on the positive .", None, None, None, 1), ('My political views are different from most .', None, None, None, 1), ('I find myself disagreeing with many Republican and Democrat stances .', None, None, None, 1), ("I 'm in favor of universal healthcare , basic income , and access to assisted suicide", None, None, None, 0), ('( rational suicide , access to drugs like Nembutal for anyone', None, None, None, 0), ('who thinks', None, None, None, 0), ('they might want to make the rational decision', None, None, None, 0), ('not to live ,', None, None, None, 0), ('and instead die in a humane way ) .', None, None, None, 1)]

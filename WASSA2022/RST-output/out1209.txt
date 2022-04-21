@@ -1,0 +1,25 @@
+=====================> [[('The disgust', None, None, None, 0), ('I have', None, None, None, 0), ('while reading this story .', None, None, None, 1), ('No one should send there child to school', None, None, None, 0), ('to learn', None, None, None, 0), ('and have to worry about sexual assault in any form .', None, None, None, 1), ('She makes other teachers look bad .', None, None, None, 1), ('Taking a plea deal was her best choice .', None, None, None, 1), ('There is never an acceptable reason for something like this to happen .', None, None, None, 1), ('The fact', None, None, None, 0), ('she had a young daughter too', None, None, None, 0), ('is scary .', None, None, None, 1)]]
+Leaf:  N Elaborate The disgust
+Leaf:  N Temporal I have
+Leaf:  S span while reading this story .
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement No one should send there child to school
+Leaf:  N Joint to learn
+Leaf:  N Joint and have to worry about sexual assault in any form .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Enablement NS
+Leaf:  S span She makes other teachers look bad .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Leaf:  N Explanation Taking a plea deal was her best choice .
+Leaf:  N Elaborate There is never an acceptable reason for something like this to happen .
+Leaf:  N Elaborate The fact
+Leaf:  S span she had a young daughter too
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is scary .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Background None Explanation NS
+Inner:  Root None None Background SN
+[('The disgust', None, None, None, 0), ('I have', None, None, None, 0), ('while reading this story .', None, None, None, 1), ('No one should send there child to school', None, None, None, 0), ('to learn', None, None, None, 0), ('and have to worry about sexual assault in any form .', None, None, None, 1), ('She makes other teachers look bad .', None, None, None, 1), ('Taking a plea deal was her best choice .', None, None, None, 1), ('There is never an acceptable reason for something like this to happen .', None, None, None, 1), ('The fact', None, None, None, 0), ('she had a young daughter too', None, None, None, 0), ('is scary .', None, None, None, 1)]

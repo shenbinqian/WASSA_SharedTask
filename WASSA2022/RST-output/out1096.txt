@@ -1,0 +1,39 @@
+=====================> [[('The story', None, None, None, 0), ('about what is going on currently in Venezuela', None, None, None, 0), ('is devastating .', None, None, None, 1), ('It is almost haunting and definitely disturbing .', None, None, None, 1), ('The economic crisis', None, None, None, 0), ('that is happening there', None, None, None, 0), ('is not only affecting people , but also the animals', None, None, None, 0), ('that live there . Especially in the zoos .', None, None, None, 1), ("We do n't often let how a crisis in countries can affect animals cross our minds ,", None, None, None, 0), ('we typically only think of the people . Not only is directly affecting the animals in the way', None, None, None, 0), ('that they are being fed diets', None, None, None, 0), ('that are drastically different', None, None, None, 0), ('from they should be consuming ,', None, None, None, 0), ('but the people there are having to hunt animals', None, None, None, 0), ('that we would not typically deem acceptable .', None, None, None, 1), ('Such as cats , and dogs , and even going as far as to steal horses from racetracks', None, None, None, 0), ('simply to eat them ,', None, None, None, 0), ('or to feed them to animals at the local zoos .', None, None, None, 1), ('Many animals have suffered for weeks .', None, None, None, 1)]]
+Leaf:  N Elaborate The story
+Leaf:  S span about what is going on currently in Venezuela
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is devastating .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span It is almost haunting and definitely disturbing .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The economic crisis
+Leaf:  S span that is happening there
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is not only affecting people , but also the animals
+Leaf:  S span that live there . Especially in the zoos .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span We do n't often let how a crisis in countries can affect animals cross our minds ,
+Leaf:  N Elaborate we typically only think of the people . Not only is directly affecting the animals in the way
+Leaf:  N Elaborate that they are being fed diets
+Leaf:  N Comparison that are drastically different
+Leaf:  S span from they should be consuming ,
+Inner:  S span None Comparison NS
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate but the people there are having to hunt animals
+Leaf:  S span that we would not typically deem acceptable .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement Such as cats , and dogs , and even going as far as to steal horses from racetracks
+Leaf:  S span simply to eat them ,
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint or to feed them to animals at the local zoos .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Comparison None Joint NN
+Inner:  N Elaborate None Comparison SN
+Leaf:  S span Many animals have suffered for weeks .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The story', None, None, None, 0), ('about what is going on currently in Venezuela', None, None, None, 0), ('is devastating .', None, None, None, 1), ('It is almost haunting and definitely disturbing .', None, None, None, 1), ('The economic crisis', None, None, None, 0), ('that is happening there', None, None, None, 0), ('is not only affecting people , but also the animals', None, None, None, 0), ('that live there . Especially in the zoos .', None, None, None, 1), ("We do n't often let how a crisis in countries can affect animals cross our minds ,", None, None, None, 0), ('we typically only think of the people . Not only is directly affecting the animals in the way', None, None, None, 0), ('that they are being fed diets', None, None, None, 0), ('that are drastically different', None, None, None, 0), ('from they should be consuming ,', None, None, None, 0), ('but the people there are having to hunt animals', None, None, None, 0), ('that we would not typically deem acceptable .', None, None, None, 1), ('Such as cats , and dogs , and even going as far as to steal horses from racetracks', None, None, None, 0), ('simply to eat them ,', None, None, None, 0), ('or to feed them to animals at the local zoos .', None, None, None, 1), ('Many animals have suffered for weeks .', None, None, None, 1)]

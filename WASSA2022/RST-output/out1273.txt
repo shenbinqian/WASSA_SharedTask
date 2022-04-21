@@ -1,0 +1,27 @@
+=====================> [[('I think', None, None, None, 0), ('parents', None, None, None, 0), ('complaining', None, None, None, 0), ('about their preteen children are overreacting .', None, None, None, 1), ('Just deal with it', None, None, None, 0), ('and everything will be okay .', None, None, None, 1), ("You ca n't place them in a toy box anymore", None, None, None, 0), ('or sit them in front of the TV', None, None, None, 0), ('and tell them to sit', None, None, None, 0), ('and watch it', None, None, None, 0), ("until it 's done . I 'm not worried about this", None, None, None, 0), ('because I have no kids of my own', None, None, None, 0), ('and I could care less .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate parents
+Leaf:  S span complaining
+Leaf:  N Attribution about their preteen children are overreacting .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  S span Just deal with it
+Leaf:  N Condition and everything will be okay .
+Inner:  N Topic-Comment None Condition SN
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  N Joint You ca n't place them in a toy box anymore
+Leaf:  N Joint or sit them in front of the TV
+Leaf:  N Joint and tell them to sit
+Leaf:  N Background and watch it
+Leaf:  S span until it 's done . I 'm not worried about this
+Inner:  N Joint None Background NS
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint because I have no kids of my own
+Leaf:  N Joint and I could care less .
+Inner:  S span None Joint NN
+Inner:  N Joint None Explanation NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('parents', None, None, None, 0), ('complaining', None, None, None, 0), ('about their preteen children are overreacting .', None, None, None, 1), ('Just deal with it', None, None, None, 0), ('and everything will be okay .', None, None, None, 1), ("You ca n't place them in a toy box anymore", None, None, None, 0), ('or sit them in front of the TV', None, None, None, 0), ('and tell them to sit', None, None, None, 0), ('and watch it', None, None, None, 0), ("until it 's done . I 'm not worried about this", None, None, None, 0), ('because I have no kids of my own', None, None, None, 0), ('and I could care less .', None, None, None, 1)]

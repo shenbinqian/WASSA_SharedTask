@@ -1,0 +1,33 @@
+=====================> [[('I guess', None, None, None, 0), ('the Indigenous people get screwed again .', None, None, None, 1), ('Technology and progress is always messing with them .', None, None, None, 1), ("I 'm kinda worried about the fishing", None, None, None, 0), ('I do .', None, None, None, 1), ('I fish a good bit', None, None, None, 0), ('and eat what I catch .', None, None, None, 1), ('I hope', None, None, None, 0), ("there is n't any methylmercury in the fish", None, None, None, 0), ('I eat .', None, None, None, 1), ('If there is ,', None, None, None, 0), ('I wonder', None, None, None, 0), ('if it has messed me up some .', None, None, None, 1), ('That could be where some of my health problems come from .', None, None, None, 1), ("Maybe it 's time to stop eating the fish", None, None, None, 0), ('I catch .', None, None, None, 1)]]
+Leaf:  S span I guess
+Leaf:  N Attribution the Indigenous people get screwed again .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Technology and progress is always messing with them .
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate I 'm kinda worried about the fishing
+Leaf:  S span I do .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint I fish a good bit
+Leaf:  N Joint and eat what I catch .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I hope
+Leaf:  N Elaborate there is n't any methylmercury in the fish
+Leaf:  S span I eat .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span If there is ,
+Leaf:  N Condition I wonder
+Inner:  S span None Condition SN
+Leaf:  N Attribution if it has messed me up some .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation That could be where some of my health problems come from .
+Leaf:  N Elaborate Maybe it 's time to stop eating the fish
+Leaf:  S span I catch .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I guess', None, None, None, 0), ('the Indigenous people get screwed again .', None, None, None, 1), ('Technology and progress is always messing with them .', None, None, None, 1), ("I 'm kinda worried about the fishing", None, None, None, 0), ('I do .', None, None, None, 1), ('I fish a good bit', None, None, None, 0), ('and eat what I catch .', None, None, None, 1), ('I hope', None, None, None, 0), ("there is n't any methylmercury in the fish", None, None, None, 0), ('I eat .', None, None, None, 1), ('If there is ,', None, None, None, 0), ('I wonder', None, None, None, 0), ('if it has messed me up some .', None, None, None, 1), ('That could be where some of my health problems come from .', None, None, None, 1), ("Maybe it 's time to stop eating the fish", None, None, None, 0), ('I catch .', None, None, None, 1)]

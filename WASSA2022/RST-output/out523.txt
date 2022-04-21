@@ -1,0 +1,17 @@
+=====================> [[('Hey , remember that eighties song " You Spin me Right Round "', None, None, None, 0), ('that people like to laugh about ?', None, None, None, 1), ('The guy responsible for that just dies recently ,', None, None, None, 0), ('he seemed like he was pretty interesting .', None, None, None, 1), ('I heard', None, None, None, 0), ('that he was on the UK version of Celebrity Big Brother ,', None, None, None, 0), ('but I bet that show is just as boring as the American version .', None, None, None, 1), ("It 's so interesting how the celebrity culture over there compares to over here .", None, None, None, 1)]]
+Leaf:  N Elaborate Hey , remember that eighties song " You Spin me Right Round "
+Leaf:  S span that people like to laugh about ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The guy responsible for that just dies recently ,
+Leaf:  N Elaborate he seemed like he was pretty interesting .
+Inner:  S span None Elaborate SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I heard
+Leaf:  N Attribution that he was on the UK version of Celebrity Big Brother ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I bet that show is just as boring as the American version .
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's so interesting how the celebrity culture over there compares to over here .
+Inner:  Root None None Evaluation NS
+[('Hey , remember that eighties song " You Spin me Right Round "', None, None, None, 0), ('that people like to laugh about ?', None, None, None, 1), ('The guy responsible for that just dies recently ,', None, None, None, 0), ('he seemed like he was pretty interesting .', None, None, None, 1), ('I heard', None, None, None, 0), ('that he was on the UK version of Celebrity Big Brother ,', None, None, None, 0), ('but I bet that show is just as boring as the American version .', None, None, None, 1), ("It 's so interesting how the celebrity culture over there compares to over here .", None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[("So many politicians do n't see", None, None, None, 0), ('how serious global warming is', None, None, None, 0), ('and refuse to do anything about it .', None, None, None, 1), ("I 'm not the biggest environmentalist", None, None, None, 0), ('and sometimes I ignore the whole climate change thing ,', None, None, None, 0), ('but I do believe', None, None, None, 0), ('it is happening', None, None, None, 0), ('and know', None, None, None, 0), ('that our government needs to do something about it .', None, None, None, 1), ('I have no faith in our current government to do anything ,', None, None, None, 0), ('but I hope', None, None, None, 0), ('others around the world will', None, None, None, 0), ('and we as individuals can do something , even little things .', None, None, None, 1), ('Maybe doing things collaboratively can help change things for the better .', None, None, None, 1)]]
+Leaf:  S span So many politicians do n't see
+Leaf:  N Attribution how serious global warming is
+Inner:  N Cause None Attribution SN
+Leaf:  N Cause and refuse to do anything about it .
+Inner:  N Elaborate None Cause NN
+Leaf:  N Joint I 'm not the biggest environmentalist
+Leaf:  N Joint and sometimes I ignore the whole climate change thing ,
+Inner:  S span None Joint NN
+Leaf:  S span but I do believe
+Leaf:  N Joint it is happening
+Leaf:  S span and know
+Leaf:  N Attribution that our government needs to do something about it .
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I have no faith in our current government to do anything ,
+Leaf:  S span but I hope
+Leaf:  N Joint others around the world will
+Leaf:  N Joint and we as individuals can do something , even little things .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span Maybe doing things collaboratively can help change things for the better .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("So many politicians do n't see", None, None, None, 0), ('how serious global warming is', None, None, None, 0), ('and refuse to do anything about it .', None, None, None, 1), ("I 'm not the biggest environmentalist", None, None, None, 0), ('and sometimes I ignore the whole climate change thing ,', None, None, None, 0), ('but I do believe', None, None, None, 0), ('it is happening', None, None, None, 0), ('and know', None, None, None, 0), ('that our government needs to do something about it .', None, None, None, 1), ('I have no faith in our current government to do anything ,', None, None, None, 0), ('but I hope', None, None, None, 0), ('others around the world will', None, None, None, 0), ('and we as individuals can do something , even little things .', None, None, None, 1), ('Maybe doing things collaboratively can help change things for the better .', None, None, None, 1)]

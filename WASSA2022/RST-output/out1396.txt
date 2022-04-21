@@ -1,0 +1,29 @@
+=====================> [[('I was just reading this article', None, None, None, 0), ('and thinking', None, None, None, 0), ('about how lucky we are', None, None, None, 0), ('to not have to experience such things .', None, None, None, 1), ('Even when major weather events or natural disasters are close by ,', None, None, None, 0), ('we have the ability evacuate and miss the real damage .', None, None, None, 1), ("I 've never had to deal with anything like this", None, None, None, 0), ('and I think', None, None, None, 0), ('it would be so difficult', None, None, None, 0), ('-- I wonder', None, None, None, 0), ('how the community will come together', None, None, None, 0), ('to support each other .', None, None, None, 1), ('It is so sad that so much destruction can happen so quickly', None, None, None, 0), ('and totally upend the lives of so many .', None, None, None, 1)]]
+Leaf:  N Joint I was just reading this article
+Leaf:  N Joint and thinking
+Inner:  S span None Joint NN
+Leaf:  N Elaborate about how lucky we are
+Leaf:  S span to not have to experience such things .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Even when major weather events or natural disasters are close by ,
+Leaf:  N Contrast we have the ability evacuate and miss the real damage .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I 've never had to deal with anything like this
+Leaf:  S span and I think
+Leaf:  N Attribution it would be so difficult
+Inner:  N Joint None Attribution SN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span -- I wonder
+Leaf:  N Enablement how the community will come together
+Leaf:  S span to support each other .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause It is so sad that so much destruction can happen so quickly
+Leaf:  S span and totally upend the lives of so many .
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[('I was just reading this article', None, None, None, 0), ('and thinking', None, None, None, 0), ('about how lucky we are', None, None, None, 0), ('to not have to experience such things .', None, None, None, 1), ('Even when major weather events or natural disasters are close by ,', None, None, None, 0), ('we have the ability evacuate and miss the real damage .', None, None, None, 1), ("I 've never had to deal with anything like this", None, None, None, 0), ('and I think', None, None, None, 0), ('it would be so difficult', None, None, None, 0), ('-- I wonder', None, None, None, 0), ('how the community will come together', None, None, None, 0), ('to support each other .', None, None, None, 1), ('It is so sad that so much destruction can happen so quickly', None, None, None, 0), ('and totally upend the lives of so many .', None, None, None, 1)]

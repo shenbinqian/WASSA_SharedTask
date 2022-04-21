@@ -1,0 +1,25 @@
+=====================> [[('The refugee migrant crisis is becoming more and more alarming', None, None, None, 0), ('as time passes .', None, None, None, 1), ('You would think', None, None, None, 0), ('things world be getting better', None, None, None, 0), ('as time progresses', None, None, None, 0), ('but it seems to be the opposite .', None, None, None, 1), ('The lack of Empathy and desire for nations , as well as individual people', None, None, None, 0), ('to help', None, None, None, 0), ('is very scary .', None, None, None, 1), ("It 's impossible to imagine how unaccepting and divisive people are", None, None, None, 0), ('when it comes to an issue as devastating', None, None, None, 0), ('as this one is for other families .', None, None, None, 1)]]
+Leaf:  N Temporal The refugee migrant crisis is becoming more and more alarming
+Leaf:  S span as time passes .
+Inner:  N Evaluation None Temporal NS
+Leaf:  S span You would think
+Leaf:  N Background things world be getting better
+Leaf:  S span as time progresses
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it seems to be the opposite .
+Inner:  N Explanation None Contrast SN
+Leaf:  N Elaborate The lack of Empathy and desire for nations , as well as individual people
+Leaf:  S span to help
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is very scary .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Background It 's impossible to imagine how unaccepting and divisive people are
+Leaf:  N Comparison when it comes to an issue as devastating
+Leaf:  S span as this one is for other families .
+Inner:  S span None Comparison NS
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('The refugee migrant crisis is becoming more and more alarming', None, None, None, 0), ('as time passes .', None, None, None, 1), ('You would think', None, None, None, 0), ('things world be getting better', None, None, None, 0), ('as time progresses', None, None, None, 0), ('but it seems to be the opposite .', None, None, None, 1), ('The lack of Empathy and desire for nations , as well as individual people', None, None, None, 0), ('to help', None, None, None, 0), ('is very scary .', None, None, None, 1), ("It 's impossible to imagine how unaccepting and divisive people are", None, None, None, 0), ('when it comes to an issue as devastating', None, None, None, 0), ('as this one is for other families .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('The artical also Trump campaign was unprecedented in its dishonesty ; the fact', None, None, None, 0), ('that the lies did n’t exact a political price ,', None, None, None, 0), ('that they even resonated with a large bloc of voters ,', None, None, None, 0), ('does n’t make them any less false .', None, None, None, 1), ('No , our inner cities are n’t war zones with record crime .', None, None, None, 1), ('No , we are n’t the highest-taxed nation in the world .', None, None, None, 1), ('No , climate change is n’t a hoax', None, None, None, 0), ('promoted by the Chinese .', None, None, None, 1), ('So', None, None, None, 0), ('if you ’re tempted to concede', None, None, None, 0), ('that the alt-right ’s vision of the world might have some truth to it , do n’t .', None, None, None, 1), ('Lies are lies ,', None, None, None, 0), ('no matter how much power backs them up .', None, None, None, 1), ('And once we ’re', None, None, None, 0), ('talking about intellectual honesty ,', None, None, None, 0)]]
+Leaf:  N Elaborate The artical also Trump campaign was unprecedented in its dishonesty ; the fact
+Leaf:  N Joint that the lies did n’t exact a political price ,
+Leaf:  N Joint that they even resonated with a large bloc of voters ,
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit does n’t make them any less false .
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint No , our inner cities are n’t war zones with record crime .
+Leaf:  N Joint No , we are n’t the highest-taxed nation in the world .
+Leaf:  N Elaborate No , climate change is n’t a hoax
+Leaf:  S span promoted by the Chinese .
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span So
+Leaf:  S span if you ’re tempted to concede
+Leaf:  N Attribution that the alt-right ’s vision of the world might have some truth to it , do n’t .
+Inner:  N Background None Attribution SN
+Inner:  N Explanation None Background SN
+Leaf:  N Contrast Lies are lies ,
+Leaf:  S span no matter how much power backs them up .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate And once we ’re
+Leaf:  S span talking about intellectual honesty ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('The artical also Trump campaign was unprecedented in its dishonesty ; the fact', None, None, None, 0), ('that the lies did n’t exact a political price ,', None, None, None, 0), ('that they even resonated with a large bloc of voters ,', None, None, None, 0), ('does n’t make them any less false .', None, None, None, 1), ('No , our inner cities are n’t war zones with record crime .', None, None, None, 1), ('No , we are n’t the highest-taxed nation in the world .', None, None, None, 1), ('No , climate change is n’t a hoax', None, None, None, 0), ('promoted by the Chinese .', None, None, None, 1), ('So', None, None, None, 0), ('if you ’re tempted to concede', None, None, None, 0), ('that the alt-right ’s vision of the world might have some truth to it , do n’t .', None, None, None, 1), ('Lies are lies ,', None, None, None, 0), ('no matter how much power backs them up .', None, None, None, 1), ('And once we ’re', None, None, None, 0), ('talking about intellectual honesty ,', None, None, None, 0)]

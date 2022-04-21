@@ -1,0 +1,21 @@
+=====================> [[('It deeply saddens me to think', None, None, None, 0), ('that a mother could leave her child on a porch', None, None, None, 0), ('and abandon it .', None, None, None, 1), ('I feel some anger towards the mother', None, None, None, 0), ('for abandoning her young , defenseless child .', None, None, None, 1), ('The child is very lucky to have been found by kind strangers', None, None, None, 0), ('who were able to deliver it to safety .', None, None, None, 1), ('I hope', None, None, None, 0), ('that the child will be adopted into a loving family', None, None, None, 0), ('and will be given a solid upbringing .', None, None, None, 1)]]
+Leaf:  S span It deeply saddens me to think
+Leaf:  N Joint that a mother could leave her child on a porch
+Leaf:  N Joint and abandon it .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Explanation I feel some anger towards the mother
+Leaf:  S span for abandoning her young , defenseless child .
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The child is very lucky to have been found by kind strangers
+Leaf:  S span who were able to deliver it to safety .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Joint that the child will be adopted into a loving family
+Leaf:  N Joint and will be given a solid upbringing .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('It deeply saddens me to think', None, None, None, 0), ('that a mother could leave her child on a porch', None, None, None, 0), ('and abandon it .', None, None, None, 1), ('I feel some anger towards the mother', None, None, None, 0), ('for abandoning her young , defenseless child .', None, None, None, 1), ('The child is very lucky to have been found by kind strangers', None, None, None, 0), ('who were able to deliver it to safety .', None, None, None, 1), ('I hope', None, None, None, 0), ('that the child will be adopted into a loving family', None, None, None, 0), ('and will be given a solid upbringing .', None, None, None, 1)]

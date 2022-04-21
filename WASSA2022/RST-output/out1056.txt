@@ -1,0 +1,19 @@
+=====================> [[('How awful .', None, None, None, 1), ('I have the feeling', None, None, None, 0), ('things like this are going to get more and more common', None, None, None, 0), ('- racists are going to feel more comfortable and much bolder', None, None, None, 0), ("if there 's someone in office", None, None, None, 0), ('that seems to approve of actions like these .', None, None, None, 1), ('We need a leader', None, None, None, 0), ('who takes a strong stance against racism and hate crimes like this ,', None, None, None, 0), ('or our country will continue to fracture .', None, None, None, 1)]]
+Leaf:  N Evaluation How awful .
+Leaf:  S span I have the feeling
+Leaf:  N Joint things like this are going to get more and more common
+Leaf:  N Condition - racists are going to feel more comfortable and much bolder
+Leaf:  N Elaborate if there 's someone in office
+Leaf:  S span that seems to approve of actions like these .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Condition NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate We need a leader
+Leaf:  S span who takes a strong stance against racism and hate crimes like this ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition or our country will continue to fracture .
+Inner:  S span None Condition SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('How awful .', None, None, None, 1), ('I have the feeling', None, None, None, 0), ('things like this are going to get more and more common', None, None, None, 0), ('- racists are going to feel more comfortable and much bolder', None, None, None, 0), ("if there 's someone in office", None, None, None, 0), ('that seems to approve of actions like these .', None, None, None, 1), ('We need a leader', None, None, None, 0), ('who takes a strong stance against racism and hate crimes like this ,', None, None, None, 0), ('or our country will continue to fracture .', None, None, None, 1)]

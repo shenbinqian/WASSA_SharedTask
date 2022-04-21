@@ -1,0 +1,49 @@
+=====================> [[('The first time', None, None, None, 0), ('I tried to commit suicide', None, None, None, 0), ('was the most painful .', None, None, None, 1), ('Two months', None, None, None, 0), ('after starting my first year of highschool ,', None, None, None, 0), ('boys started treating me like a prostitute .', None, None, None, 1), ('My “ friend ” at the time told everyone', None, None, None, 0), ('that I enjoyed the rape .', None, None, None, 1), ('That I wanted it . I was called a whore and a slut by my peers . Older boys attempted to have their way with me .', None, None, None, 1), ('I started acting like one . I sent nudes to anyone', None, None, None, 0), ('that would ask .', None, None, None, 1), ('I believed', None, None, None, 0), ('I was only needed for sex ,', None, None, None, 0), ('that I was n’t worth anything other than my sexual appeal . I was 13 .', None, None, None, 1), ('I was self harming any chance', None, None, None, 0), ('I could .', None, None, None, 1), ('My wrists , legs and chest were full of cuts .', None, None, None, 1), ('Eventually self harming did n’t help anymore .', None, None, None, 1), ('I did n’t want to live anymore .', None, None, None, 1), ('The thing', None, None, None, 0), ('that pushed me over the edge', None, None, None, 0), ('was when my “ friend ” invited me to a group chat with her minions .', None, None, None, 1), ('They talked about me', None, None, None, 0), ('like', None, None, None, 0)]]
+Leaf:  N Elaborate The first time
+Leaf:  S span I tried to commit suicide
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was the most painful .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Temporal Two months
+Leaf:  S span after starting my first year of highschool ,
+Inner:  N Same-Unit None Temporal NS
+Leaf:  N Same-Unit boys started treating me like a prostitute .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span My “ friend ” at the time told everyone
+Leaf:  N Summary that I enjoyed the rape .
+Leaf:  S span That I wanted it . I was called a whore and a slut by my peers . Older boys attempted to have their way with me .
+Inner:  N Attribution None Summary NS
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate I started acting like one . I sent nudes to anyone
+Leaf:  S span that would ask .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I believed
+Leaf:  N Joint I was only needed for sex ,
+Leaf:  N Joint that I was n’t worth anything other than my sexual appeal . I was 13 .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate I was self harming any chance
+Leaf:  S span I could .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span My wrists , legs and chest were full of cuts .
+Inner:  S span None Elaborate NS
+Leaf:  N Evaluation Eventually self harming did n’t help anymore .
+Leaf:  S span I did n’t want to live anymore .
+Inner:  N Background None Evaluation NS
+Inner:  N Background None Background SN
+Inner:  S span None Background SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The thing
+Leaf:  S span that pushed me over the edge
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was when my “ friend ” invited me to a group chat with her minions .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate They talked about me
+Leaf:  S span like
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The first time', None, None, None, 0), ('I tried to commit suicide', None, None, None, 0), ('was the most painful .', None, None, None, 1), ('Two months', None, None, None, 0), ('after starting my first year of highschool ,', None, None, None, 0), ('boys started treating me like a prostitute .', None, None, None, 1), ('My “ friend ” at the time told everyone', None, None, None, 0), ('that I enjoyed the rape .', None, None, None, 1), ('That I wanted it . I was called a whore and a slut by my peers . Older boys attempted to have their way with me .', None, None, None, 1), ('I started acting like one . I sent nudes to anyone', None, None, None, 0), ('that would ask .', None, None, None, 1), ('I believed', None, None, None, 0), ('I was only needed for sex ,', None, None, None, 0), ('that I was n’t worth anything other than my sexual appeal . I was 13 .', None, None, None, 1), ('I was self harming any chance', None, None, None, 0), ('I could .', None, None, None, 1), ('My wrists , legs and chest were full of cuts .', None, None, None, 1), ('Eventually self harming did n’t help anymore .', None, None, None, 1), ('I did n’t want to live anymore .', None, None, None, 1), ('The thing', None, None, None, 0), ('that pushed me over the edge', None, None, None, 0), ('was when my “ friend ” invited me to a group chat with her minions .', None, None, None, 1), ('They talked about me', None, None, None, 0), ('like', None, None, None, 0)]

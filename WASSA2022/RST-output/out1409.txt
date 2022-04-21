@@ -1,0 +1,21 @@
+=====================> [[('The article about sleep disorders really hits home ,', None, None, None, 0), ('because I know more than one person', None, None, None, 0), ('who would be diagnosed with a sleep disorder .', None, None, None, 1), ('All of these people just happen to be overnight workers , too .', None, None, None, 1), ('The fact', None, None, None, 0), ('that the lack of sleep and quality sleep can lead to a higher risk of stroke is very alarming .', None, None, None, 1), ('So many people need to seek help for sleep disorders ,', None, None, None, 0), ('because', None, None, None, 0), ('where the disorder itself may not cause major health issues ,', None, None, None, 0), ('it can lead to major health issues .', None, None, None, 1)]]
+Leaf:  N Explanation The article about sleep disorders really hits home ,
+Leaf:  N Elaborate because I know more than one person
+Leaf:  S span who would be diagnosed with a sleep disorder .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span All of these people just happen to be overnight workers , too .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The fact
+Leaf:  S span that the lack of sleep and quality sleep can lead to a higher risk of stroke is very alarming .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Explanation So many people need to seek help for sleep disorders ,
+Leaf:  N Same-Unit because
+Leaf:  S span where the disorder itself may not cause major health issues ,
+Leaf:  N Cause it can lead to major health issues .
+Inner:  N Same-Unit None Cause SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Cause NS
+[('The article about sleep disorders really hits home ,', None, None, None, 0), ('because I know more than one person', None, None, None, 0), ('who would be diagnosed with a sleep disorder .', None, None, None, 1), ('All of these people just happen to be overnight workers , too .', None, None, None, 1), ('The fact', None, None, None, 0), ('that the lack of sleep and quality sleep can lead to a higher risk of stroke is very alarming .', None, None, None, 1), ('So many people need to seek help for sleep disorders ,', None, None, None, 0), ('because', None, None, None, 0), ('where the disorder itself may not cause major health issues ,', None, None, None, 0), ('it can lead to major health issues .', None, None, None, 1)]

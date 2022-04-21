@@ -1,0 +1,27 @@
+=====================> [[('I canot believe', None, None, None, 0), ('that there are citizens in this county , particularly in Minnesota ,', None, None, None, 0), ('who are vulnerable enough', None, None, None, 0), ('to be manipulated by ISIS', None, None, None, 0), ('to kill individuals in their country .', None, None, None, 1), ('The Somali group in Minnesota has a history', None, None, None, 0), ('( several known cases )', None, None, None, 0), ('of people', None, None, None, 0), ('attempting to commit murder for the terrorist group .', None, None, None, 1), ('Tragically , an Somali man has just gone on a murder spree .', None, None, None, 1), ('He has not been linked to ISIS', None, None, None, 0), ('and his motivations are unclear ,', None, None, None, 0), ('but I am disturbed .', None, None, None, 1)]]
+Leaf:  S span I canot believe
+Leaf:  N Elaborate that there are citizens in this county , particularly in Minnesota ,
+Leaf:  N Enablement who are vulnerable enough
+Leaf:  N Enablement to be manipulated by ISIS
+Leaf:  S span to kill individuals in their country .
+Inner:  S span None Enablement NS
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The Somali group in Minnesota has a history
+Leaf:  S span ( several known cases )
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate of people
+Leaf:  S span attempting to commit murder for the terrorist group .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Tragically , an Somali man has just gone on a murder spree .
+Leaf:  N Joint He has not been linked to ISIS
+Leaf:  N Joint and his motivations are unclear ,
+Inner:  S span None Joint NN
+Leaf:  N Contrast but I am disturbed .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I canot believe', None, None, None, 0), ('that there are citizens in this county , particularly in Minnesota ,', None, None, None, 0), ('who are vulnerable enough', None, None, None, 0), ('to be manipulated by ISIS', None, None, None, 0), ('to kill individuals in their country .', None, None, None, 1), ('The Somali group in Minnesota has a history', None, None, None, 0), ('( several known cases )', None, None, None, 0), ('of people', None, None, None, 0), ('attempting to commit murder for the terrorist group .', None, None, None, 1), ('Tragically , an Somali man has just gone on a murder spree .', None, None, None, 1), ('He has not been linked to ISIS', None, None, None, 0), ('and his motivations are unclear ,', None, None, None, 0), ('but I am disturbed .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('I remember during a few hurricanes in the south', None, None, None, 0), ('when there was a line for gas stations .', None, None, None, 1), ("It 's pretty scary", None, None, None, 0), ('and I feel for the people', None, None, None, 0), ('that are affected by this .', None, None, None, 1), ('I remember one time ,', None, None, None, 0), ('we waited almost 20 minutes', None, None, None, 0), ('to get gasoline', None, None, None, 0), ('and it was terrifying .', None, None, None, 1), ('We ended up not having to evacuate ,', None, None, None, 0), ("but it 's still scary nonetheless .", None, None, None, 1)]]
+Leaf:  N Same-Unit I remember during a few hurricanes in the south
+Leaf:  N Same-Unit when there was a line for gas stations .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint It 's pretty scary
+Leaf:  N Elaborate and I feel for the people
+Leaf:  S span that are affected by this .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I remember one time ,
+Leaf:  N Enablement we waited almost 20 minutes
+Leaf:  S span to get gasoline
+Inner:  N Cause None Enablement NS
+Leaf:  S span and it was terrifying .
+Inner:  N Attribution None Cause NS
+Inner:  N Cause None Attribution SN
+Leaf:  S span We ended up not having to evacuate ,
+Leaf:  N Contrast but it 's still scary nonetheless .
+Inner:  S span None Contrast SN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I remember during a few hurricanes in the south', None, None, None, 0), ('when there was a line for gas stations .', None, None, None, 1), ("It 's pretty scary", None, None, None, 0), ('and I feel for the people', None, None, None, 0), ('that are affected by this .', None, None, None, 1), ('I remember one time ,', None, None, None, 0), ('we waited almost 20 minutes', None, None, None, 0), ('to get gasoline', None, None, None, 0), ('and it was terrifying .', None, None, None, 1), ('We ended up not having to evacuate ,', None, None, None, 0), ("but it 's still scary nonetheless .", None, None, None, 1)]

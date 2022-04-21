@@ -1,0 +1,17 @@
+=====================> [[('this article was very interesting', None, None, None, 0), ('because it talks', None, None, None, 0), ('on how climate change can have influenced the extinction of the melomys in theyre habitat .', None, None, None, 1), ('it talks alot about it', None, None, None, 0), ('and basically lets us know', None, None, None, 0), ('that climate change wasnt the cause of extinction', None, None, None, 0), ('and that us , humans could have prevented this from happenning', None, None, None, 0), ('but just decided not to .', None, None, None, 1)]]
+Leaf:  N Explanation this article was very interesting
+Leaf:  S span because it talks
+Leaf:  N Attribution on how climate change can have influenced the extinction of the melomys in theyre habitat .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Joint it talks alot about it
+Leaf:  S span and basically lets us know
+Leaf:  N Joint that climate change wasnt the cause of extinction
+Leaf:  N Contrast and that us , humans could have prevented this from happenning
+Leaf:  S span but just decided not to .
+Inner:  N Joint None Contrast NS
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('this article was very interesting', None, None, None, 0), ('because it talks', None, None, None, 0), ('on how climate change can have influenced the extinction of the melomys in theyre habitat .', None, None, None, 1), ('it talks alot about it', None, None, None, 0), ('and basically lets us know', None, None, None, 0), ('that climate change wasnt the cause of extinction', None, None, None, 0), ('and that us , humans could have prevented this from happenning', None, None, None, 0), ('but just decided not to .', None, None, None, 1)]

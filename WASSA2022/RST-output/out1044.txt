@@ -1,0 +1,19 @@
+=====================> [[('How could this guy been shot several times ,', None, None, None, 0), ('yet managed', None, None, None, 0), ('to make it to the hospital', None, None, None, 0), ('and tell what happened to him .', None, None, None, 1), ('It would seem like he would be in critical condition', None, None, None, 0), ("if that 's the case .", None, None, None, 1), ('Sounds very suspicious .', None, None, None, 1), ('And for what reason would a random person just be blindly shooting in a night club .', None, None, None, 1), ('The reporters need to get down to what really happened there .', None, None, None, 1)]]
+Leaf:  N Temporal How could this guy been shot several times ,
+Leaf:  S span yet managed
+Leaf:  N Temporal to make it to the hospital
+Leaf:  N Temporal and tell what happened to him .
+Inner:  N Attribution None Temporal NN
+Inner:  N Temporal None Attribution SN
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Condition It would seem like he would be in critical condition
+Leaf:  S span if that 's the case .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint Sounds very suspicious .
+Leaf:  N Joint And for what reason would a random person just be blindly shooting in a night club .
+Inner:  S span None Joint NN
+Inner:  N Cause None Evaluation NS
+Leaf:  S span The reporters need to get down to what really happened there .
+Inner:  Root None None Cause NS
+[('How could this guy been shot several times ,', None, None, None, 0), ('yet managed', None, None, None, 0), ('to make it to the hospital', None, None, None, 0), ('and tell what happened to him .', None, None, None, 1), ('It would seem like he would be in critical condition', None, None, None, 0), ("if that 's the case .", None, None, None, 1), ('Sounds very suspicious .', None, None, None, 1), ('And for what reason would a random person just be blindly shooting in a night club .', None, None, None, 1), ('The reporters need to get down to what really happened there .', None, None, None, 1)]

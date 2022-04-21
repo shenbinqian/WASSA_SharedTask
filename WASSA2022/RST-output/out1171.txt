@@ -1,0 +1,17 @@
+=====================> [[('I just read a very sad article on the elderly', None, None, None, 0), ('that are stuck in Aleppo , Syria', None, None, None, 0), ('due to the war there .', None, None, None, 1), ("Apparently , 200,000 people are unable to get out due to the government 's siege of the area .", None, None, None, 1), ('There is a decreased access to food and resources for long term medical conditions are scarce .', None, None, None, 1), ('The elderly are having to sacrifice their well-being for the well-being of their children and grandchildren .', None, None, None, 1), ('The war needs to come to an end soon ,', None, None, None, 0), ('before there is more suffering by the people of Syria .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read a very sad article on the elderly
+Leaf:  N Cause that are stuck in Aleppo , Syria
+Leaf:  S span due to the war there .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Apparently , 200,000 people are unable to get out due to the government 's siege of the area .
+Leaf:  N Joint There is a decreased access to food and resources for long term medical conditions are scarce .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The elderly are having to sacrifice their well-being for the well-being of their children and grandchildren .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The war needs to come to an end soon ,
+Leaf:  N Condition before there is more suffering by the people of Syria .
+Inner:  S span None Condition SN
+Inner:  Root None None Evaluation NS
+[('I just read a very sad article on the elderly', None, None, None, 0), ('that are stuck in Aleppo , Syria', None, None, None, 0), ('due to the war there .', None, None, None, 1), ("Apparently , 200,000 people are unable to get out due to the government 's siege of the area .", None, None, None, 1), ('There is a decreased access to food and resources for long term medical conditions are scarce .', None, None, None, 1), ('The elderly are having to sacrifice their well-being for the well-being of their children and grandchildren .', None, None, None, 1), ('The war needs to come to an end soon ,', None, None, None, 0), ('before there is more suffering by the people of Syria .', None, None, None, 1)]

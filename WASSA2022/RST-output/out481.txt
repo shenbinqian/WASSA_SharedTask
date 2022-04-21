@@ -1,0 +1,19 @@
+=====================> [[('I thought', None, None, None, 0), ('reading an article about iconic moments of women athletes would be quite a bit more interesting and moving', None, None, None, 0), ('than it was .', None, None, None, 1), ('Instead , it was mostly a rattling of championships and medal counts with very few anecdotal pieces of information .', None, None, None, 1), ('The only things', None, None, None, 0), ('that really stood out', None, None, None, 0), ('were the story of the marathon runner and the swimmer', None, None, None, 0), ('because there were interesting stories', None, None, None, 0), ('attached to them .', None, None, None, 1)]]
+Leaf:  S span I thought
+Leaf:  N Comparison reading an article about iconic moments of women athletes would be quite a bit more interesting and moving
+Leaf:  S span than it was .
+Inner:  N Attribution None Comparison NS
+Inner:  N Contrast None Attribution SN
+Leaf:  S span Instead , it was mostly a rattling of championships and medal counts with very few anecdotal pieces of information .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate The only things
+Leaf:  S span that really stood out
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit were the story of the marathon runner and the swimmer
+Inner:  N Explanation None Same-Unit NN
+Leaf:  N Elaborate because there were interesting stories
+Leaf:  S span attached to them .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('I thought', None, None, None, 0), ('reading an article about iconic moments of women athletes would be quite a bit more interesting and moving', None, None, None, 0), ('than it was .', None, None, None, 1), ('Instead , it was mostly a rattling of championships and medal counts with very few anecdotal pieces of information .', None, None, None, 1), ('The only things', None, None, None, 0), ('that really stood out', None, None, None, 0), ('were the story of the marathon runner and the swimmer', None, None, None, 0), ('because there were interesting stories', None, None, None, 0), ('attached to them .', None, None, None, 1)]

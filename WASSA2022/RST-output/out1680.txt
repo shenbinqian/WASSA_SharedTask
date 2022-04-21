@@ -1,0 +1,23 @@
+=====================> [[('This article brings back to mind the overall mass hysteria', None, None, None, 0), ('that the left , centrists , and neocons feel', None, None, None, 0), ('when they think about Trump .', None, None, None, 1), ("I 'm not a Trump supporter ,", None, None, None, 0), ('but I honestly believe', None, None, None, 0), ('people are truly delusional at this point .', None, None, None, 1), ('It has become vomit inducing .', None, None, None, 1), ('Liberals should be more pissed at the DNC', None, None, None, 0), ('for crapping on Bernie .', None, None, None, 1), ('Neocons should just admit to being big government centrists', None, None, None, 0), ('so we can all move on .', None, None, None, 1)]]
+Leaf:  N Elaborate This article brings back to mind the overall mass hysteria
+Leaf:  S span that the left , centrists , and neocons feel
+Inner:  N Background None Elaborate NS
+Leaf:  S span when they think about Trump .
+Inner:  N Elaborate None Background NS
+Leaf:  S span I 'm not a Trump supporter ,
+Leaf:  S span but I honestly believe
+Leaf:  N Attribution people are truly delusional at this point .
+Inner:  N Contrast None Attribution SN
+Inner:  N Cause None Contrast SN
+Leaf:  S span It has become vomit inducing .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation Liberals should be more pissed at the DNC
+Leaf:  S span for crapping on Bernie .
+Inner:  N Joint None Explanation NS
+Leaf:  S span Neocons should just admit to being big government centrists
+Leaf:  N Condition so we can all move on .
+Inner:  N Joint None Condition SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This article brings back to mind the overall mass hysteria', None, None, None, 0), ('that the left , centrists , and neocons feel', None, None, None, 0), ('when they think about Trump .', None, None, None, 1), ("I 'm not a Trump supporter ,", None, None, None, 0), ('but I honestly believe', None, None, None, 0), ('people are truly delusional at this point .', None, None, None, 1), ('It has become vomit inducing .', None, None, None, 1), ('Liberals should be more pissed at the DNC', None, None, None, 0), ('for crapping on Bernie .', None, None, None, 1), ('Neocons should just admit to being big government centrists', None, None, None, 0), ('so we can all move on .', None, None, None, 1)]

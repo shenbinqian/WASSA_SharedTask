@@ -1,0 +1,21 @@
+=====================> [[('KKK is filled with losers .', None, None, None, 1), ('Not sure why they get any attention .', None, None, None, 1), ('Actually , I know', None, None, None, 0), ('exactly why they get attention .', None, None, None, 1), ('It makes Trump look bad .', None, None, None, 1), ('Since that is the goal of the media , they will not pass this chance up .', None, None, None, 1), ('KKK has been irrelevant for decades .', None, None, None, 1), ('This is still the case .', None, None, None, 1), ('Media can make them look relevant ,', None, None, None, 0), ('but they are not .', None, None, None, 1)]]
+Leaf:  N Elaborate KKK is filled with losers .
+Leaf:  N Elaborate Not sure why they get any attention .
+Leaf:  S span Actually , I know
+Leaf:  N Attribution exactly why they get attention .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It makes Trump look bad .
+Leaf:  S span Since that is the goal of the media , they will not pass this chance up .
+Inner:  S span None Evaluation NS
+Inner:  N Background None Elaborate NS
+Leaf:  S span KKK has been irrelevant for decades .
+Leaf:  N Background This is still the case .
+Inner:  N Elaborate None Background SN
+Leaf:  N Contrast Media can make them look relevant ,
+Leaf:  N Contrast but they are not .
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Background NS
+[('KKK is filled with losers .', None, None, None, 1), ('Not sure why they get any attention .', None, None, None, 1), ('Actually , I know', None, None, None, 0), ('exactly why they get attention .', None, None, None, 1), ('It makes Trump look bad .', None, None, None, 1), ('Since that is the goal of the media , they will not pass this chance up .', None, None, None, 1), ('KKK has been irrelevant for decades .', None, None, None, 1), ('This is still the case .', None, None, None, 1), ('Media can make them look relevant ,', None, None, None, 0), ('but they are not .', None, None, None, 1)]

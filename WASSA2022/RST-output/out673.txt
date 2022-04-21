@@ -1,0 +1,21 @@
+=====================> [[('It seem like we have enters the day', None, None, None, 0), ('where people are more sensitive to political issues', None, None, None, 0), ('that ever before .', None, None, None, 1), ('Although people may not agree with the current administration under Trump', None, None, None, 0), ('they can not falt', None, None, None, 0), ('or blame other for their personal beliefs .', None, None, None, 1), ('It is especially a shame', None, None, None, 0), ('when a mom will kick out their own child', None, None, None, 0), ('for mock voting is a manner', None, None, None, 0), ('that she find unfitting .', None, None, None, 1)]]
+Leaf:  N Elaborate It seem like we have enters the day
+Leaf:  S span where people are more sensitive to political issues
+Inner:  N Comparison None Elaborate NS
+Leaf:  S span that ever before .
+Inner:  N Elaborate None Comparison NS
+Leaf:  S span Although people may not agree with the current administration under Trump
+Leaf:  N Joint they can not falt
+Leaf:  N Joint or blame other for their personal beliefs .
+Inner:  N Contrast None Joint NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Background It is especially a shame
+Leaf:  N Explanation when a mom will kick out their own child
+Leaf:  N Elaborate for mock voting is a manner
+Leaf:  S span that she find unfitting .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It seem like we have enters the day', None, None, None, 0), ('where people are more sensitive to political issues', None, None, None, 0), ('that ever before .', None, None, None, 1), ('Although people may not agree with the current administration under Trump', None, None, None, 0), ('they can not falt', None, None, None, 0), ('or blame other for their personal beliefs .', None, None, None, 1), ('It is especially a shame', None, None, None, 0), ('when a mom will kick out their own child', None, None, None, 0), ('for mock voting is a manner', None, None, None, 0), ('that she find unfitting .', None, None, None, 1)]

@@ -1,0 +1,47 @@
+=====================> [[('A bus driver ,', None, None, None, 0), ('going about doing his business ,', None, None, None, 0), ('supporting the community ,', None, None, None, 0), ('has had his life', None, None, None, 0), ('taken from him', None, None, None, 0), ('in what is a senseless and needless act . " Taxi driver Aguek Nyok helped passengers escape .', None, None, None, 1), ('He was in the area', None, None, None, 0), ('meaning to get a haircut', None, None, None, 0), ('and kicked the bus door three times', None, None, None, 0), ('before managing to break it open . " All the people were at the back', None, None, None, 0), ('trying to get out of the bus', None, None, None, 0), ("but they could n't get out the front", None, None, None, 0), ('because of the flames , "', None, None, None, 0), ('he told the Courier-Mail newspaper .', None, None, None, 1), ('" They could n\'t open the back door', None, None, None, 0), ('so I kicked it down', None, None, None, 0), ('and they all came running out . " It was one of the two : you get the people out', None, None, None, 0), ('or they \'re going to die . "', None, None, None, 0), ('Mr Nyok said', None, None, None, 0), ('there were three children among the passengers .', None, None, None, 1), ('Brisbane Lord Mayor Graham Quirk said', None, None, None, 0), ('it was " a very , very sad day for the council and the wider community " .', None, None, None, 1), ('Flags', None, None, None, 0)]]
+Leaf:  N Elaborate A bus driver ,
+Leaf:  N Joint going about doing his business ,
+Leaf:  N Joint supporting the community ,
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate has had his life
+Leaf:  N Manner-Means taken from him
+Leaf:  S span in what is a senseless and needless act . " Taxi driver Aguek Nyok helped passengers escape .
+Inner:  S span None Manner-Means NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate He was in the area
+Leaf:  S span meaning to get a haircut
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Temporal and kicked the bus door three times
+Leaf:  N Elaborate before managing to break it open . " All the people were at the back
+Leaf:  S span trying to get out of the bus
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Cause but they could n't get out the front
+Leaf:  S span because of the flames , "
+Inner:  N Contrast None Cause NS
+Inner:  S span None Contrast NN
+Inner:  N Same-Unit None Temporal NS
+Inner:  N Attribution None Same-Unit NN
+Leaf:  S span he told the Courier-Mail newspaper .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span " They could n't open the back door
+Leaf:  N Cause so I kicked it down
+Leaf:  N Condition and they all came running out . " It was one of the two : you get the people out
+Leaf:  N Condition or they 're going to die . "
+Inner:  S span None Condition NN
+Inner:  N Explanation None Cause NS
+Inner:  N Elaborate None Explanation SN
+Leaf:  S span Mr Nyok said
+Leaf:  N Attribution there were three children among the passengers .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Brisbane Lord Mayor Graham Quirk said
+Leaf:  N Attribution it was " a very , very sad day for the council and the wider community " .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Topic-Change Flags
+Inner:  Root None None Topic-Change NN
+[('A bus driver ,', None, None, None, 0), ('going about doing his business ,', None, None, None, 0), ('supporting the community ,', None, None, None, 0), ('has had his life', None, None, None, 0), ('taken from him', None, None, None, 0), ('in what is a senseless and needless act . " Taxi driver Aguek Nyok helped passengers escape .', None, None, None, 1), ('He was in the area', None, None, None, 0), ('meaning to get a haircut', None, None, None, 0), ('and kicked the bus door three times', None, None, None, 0), ('before managing to break it open . " All the people were at the back', None, None, None, 0), ('trying to get out of the bus', None, None, None, 0), ("but they could n't get out the front", None, None, None, 0), ('because of the flames , "', None, None, None, 0), ('he told the Courier-Mail newspaper .', None, None, None, 1), ('" They could n\'t open the back door', None, None, None, 0), ('so I kicked it down', None, None, None, 0), ('and they all came running out . " It was one of the two : you get the people out', None, None, None, 0), ('or they \'re going to die . "', None, None, None, 0), ('Mr Nyok said', None, None, None, 0), ('there were three children among the passengers .', None, None, None, 1), ('Brisbane Lord Mayor Graham Quirk said', None, None, None, 0), ('it was " a very , very sad day for the council and the wider community " .', None, None, None, 1), ('Flags', None, None, None, 0)]

@@ -1,0 +1,19 @@
+=====================> [[('I just read an article about a shooting in North Philly .', None, None, None, 1), ('Two men are in critical condition right now .', None, None, None, 1), ('I sure hope', None, None, None, 0), ('the victims survive the shooting .', None, None, None, 1), ('It is like the world is getting worse and worse everyday now .', None, None, None, 1), ('The most common theme on social media is death .', None, None, None, 1), ('What really bothers me is it is always good people', None, None, None, 0), ('who are killed .', None, None, None, 1), ('You never hear about a loser getting killed .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about a shooting in North Philly .
+Leaf:  S span Two men are in critical condition right now .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I sure hope
+Leaf:  N Attribution the victims survive the shooting .
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Elaborate It is like the world is getting worse and worse everyday now .
+Leaf:  N Elaborate The most common theme on social media is death .
+Leaf:  N Elaborate What really bothers me is it is always good people
+Leaf:  S span who are killed .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span You never hear about a loser getting killed .
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('I just read an article about a shooting in North Philly .', None, None, None, 1), ('Two men are in critical condition right now .', None, None, None, 1), ('I sure hope', None, None, None, 0), ('the victims survive the shooting .', None, None, None, 1), ('It is like the world is getting worse and worse everyday now .', None, None, None, 1), ('The most common theme on social media is death .', None, None, None, 1), ('What really bothers me is it is always good people', None, None, None, 0), ('who are killed .', None, None, None, 1), ('You never hear about a loser getting killed .', None, None, None, 1)]

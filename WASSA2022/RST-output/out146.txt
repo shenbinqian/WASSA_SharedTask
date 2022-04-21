@@ -1,0 +1,21 @@
+=====================> [[('My heart hurts for those affected .', None, None, None, 1), ('I will be praying for the soldiers attacked and their families .', None, None, None, 1), ('As we approach memorial day ,', None, None, None, 0), ('we need to reflect on what we have learned in past wars and one thing is clear , mustard gas is not a weapon', None, None, None, 0), ('that should be used ,', None, None, None, 0), ('I understand', None, None, None, 0), ('that many of the attacks', None, None, None, 0), ('going on right now', None, None, None, 0), ('include Guerrilla warfare', None, None, None, 0), ('but we can not fight back in the same ways .', None, None, None, 1)]]
+Leaf:  N Elaborate My heart hurts for those affected .
+Leaf:  S span I will be praying for the soldiers attacked and their families .
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  S span As we approach memorial day ,
+Leaf:  N Elaborate we need to reflect on what we have learned in past wars and one thing is clear , mustard gas is not a weapon
+Leaf:  S span that should be used ,
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  S span I understand
+Leaf:  N Elaborate that many of the attacks
+Leaf:  S span going on right now
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit include Guerrilla warfare
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Contrast but we can not fight back in the same ways .
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('My heart hurts for those affected .', None, None, None, 1), ('I will be praying for the soldiers attacked and their families .', None, None, None, 1), ('As we approach memorial day ,', None, None, None, 0), ('we need to reflect on what we have learned in past wars and one thing is clear , mustard gas is not a weapon', None, None, None, 0), ('that should be used ,', None, None, None, 0), ('I understand', None, None, None, 0), ('that many of the attacks', None, None, None, 0), ('going on right now', None, None, None, 0), ('include Guerrilla warfare', None, None, None, 0), ('but we can not fight back in the same ways .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('That idiot deserves a lot worse', None, None, None, 0), ('but hopefully we can erase all symbols of his existence soon .', None, None, None, 1), ('Starting with everything he did as President ,', None, None, None, 0), ('but then get rid of all his buildings and everything else with his name on it .', None, None, None, 1), ('Maybe', None, None, None, 0), ('when he pays for his crimes', None, None, None, 0), ('he will have to sell all those buildings off .', None, None, None, 1), ('It would be great to get a full accounting of everything', None, None, None, 0), ('he actually owns', None, None, None, 0), ('so that he can repay everyone', None, None, None, 0), ('he has', None, None, None, 0), ('ever ripped off over his lifetime of scamming people .', None, None, None, 1), ('The name " Trump " should forever be associated with crime , grifting , treason ,', None, None, None, 0), ('lying , cheating', None, None, None, 0), ('and just generally being a piece of human garbage .', None, None, None, 1), ('Let his stupid kids live with that brand .', None, None, None, 1)]]
+Leaf:  S span That idiot deserves a lot worse
+Leaf:  N Contrast but hopefully we can erase all symbols of his existence soon .
+Inner:  N Explanation None Contrast SN
+Leaf:  S span Starting with everything he did as President ,
+Leaf:  N Background but then get rid of all his buildings and everything else with his name on it .
+Inner:  N Evaluation None Background SN
+Leaf:  N Same-Unit Maybe
+Leaf:  S span when he pays for his crimes
+Leaf:  N Condition he will have to sell all those buildings off .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate It would be great to get a full accounting of everything
+Leaf:  S span he actually owns
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate so that he can repay everyone
+Leaf:  N Elaborate he has
+Leaf:  S span ever ripped off over his lifetime of scamming people .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint The name " Trump " should forever be associated with crime , grifting , treason ,
+Leaf:  N Joint lying , cheating
+Leaf:  N Joint and just generally being a piece of human garbage .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span Let his stupid kids live with that brand .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('That idiot deserves a lot worse', None, None, None, 0), ('but hopefully we can erase all symbols of his existence soon .', None, None, None, 1), ('Starting with everything he did as President ,', None, None, None, 0), ('but then get rid of all his buildings and everything else with his name on it .', None, None, None, 1), ('Maybe', None, None, None, 0), ('when he pays for his crimes', None, None, None, 0), ('he will have to sell all those buildings off .', None, None, None, 1), ('It would be great to get a full accounting of everything', None, None, None, 0), ('he actually owns', None, None, None, 0), ('so that he can repay everyone', None, None, None, 0), ('he has', None, None, None, 0), ('ever ripped off over his lifetime of scamming people .', None, None, None, 1), ('The name " Trump " should forever be associated with crime , grifting , treason ,', None, None, None, 0), ('lying , cheating', None, None, None, 0), ('and just generally being a piece of human garbage .', None, None, None, 1), ('Let his stupid kids live with that brand .', None, None, None, 1)]

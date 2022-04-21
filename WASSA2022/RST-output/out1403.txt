@@ -1,0 +1,27 @@
+=====================> [[('hey guys', None, None, None, 0), ('as you can see here', None, None, None, 0), ('an elderly woman has come up', None, None, None, 0), ('and was taken tot he hospital by the police and they are requesting asistance', None, None, None, 0), ('trying to identify her', None, None, None, 0), ('and see who knows her', None, None, None, 0), ('if any of you have seen this woman', None, None, None, 0), ('or know any of her relatives or her name', None, None, None, 0), ('that would really ebhelpful in helping the police get her back with her family', None, None, None, 0), ('and reunite with them', None, None, None, 0), ('if you have any tips', None, None, None, 0), ('o nay sort pleas ome forward', None, None, None, 0), ('and csll the police', None, None, None, 0)]]
+Leaf:  N Same-Unit hey guys
+Leaf:  N Same-Unit as you can see here
+Leaf:  N Joint an elderly woman has come up
+Leaf:  N Elaborate and was taken tot he hospital by the police and they are requesting asistance
+Leaf:  N Joint trying to identify her
+Leaf:  N Joint and see who knows her
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint if any of you have seen this woman
+Leaf:  N Joint or know any of her relatives or her name
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint that would really ebhelpful in helping the police get her back with her family
+Leaf:  N Joint and reunite with them
+Inner:  N Condition None Joint NN
+Leaf:  N Condition if you have any tips
+Inner:  N Elaborate None Condition NN
+Leaf:  S span o nay sort pleas ome forward
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and csll the police
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  Root None None Same-Unit NN
+[('hey guys', None, None, None, 0), ('as you can see here', None, None, None, 0), ('an elderly woman has come up', None, None, None, 0), ('and was taken tot he hospital by the police and they are requesting asistance', None, None, None, 0), ('trying to identify her', None, None, None, 0), ('and see who knows her', None, None, None, 0), ('if any of you have seen this woman', None, None, None, 0), ('or know any of her relatives or her name', None, None, None, 0), ('that would really ebhelpful in helping the police get her back with her family', None, None, None, 0), ('and reunite with them', None, None, None, 0), ('if you have any tips', None, None, None, 0), ('o nay sort pleas ome forward', None, None, None, 0), ('and csll the police', None, None, None, 0)]

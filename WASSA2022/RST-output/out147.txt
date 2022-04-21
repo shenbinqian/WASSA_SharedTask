@@ -1,0 +1,19 @@
+=====================> [[('While I think', None, None, None, 0), ('many of us are troubled with the recent relations with Russia and suspicion', None, None, None, 0), ('of rigging our US election , in cahoots with POTUS Trump and hacking ,', None, None, None, 0), ('we need to sort through the details', None, None, None, 0), ('and make sure', None, None, None, 0), ('we are using facts', None, None, None, 0), ('when they are available .', None, None, None, 1), ('Suspicions are sometimes unfounded ,', None, None, None, 0), ("my heart goes out to the agent 's family .", None, None, None, 1)]]
+Leaf:  S span While I think
+Leaf:  N Elaborate many of us are troubled with the recent relations with Russia and suspicion
+Leaf:  S span of rigging our US election , in cahoots with POTUS Trump and hacking ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  N Joint we need to sort through the details
+Leaf:  S span and make sure
+Leaf:  N Background we are using facts
+Leaf:  S span when they are available .
+Inner:  N Attribution None Background NS
+Inner:  N Joint None Attribution SN
+Inner:  N Background None Joint NN
+Inner:  N Evaluation None Background SN
+Leaf:  N Evaluation Suspicions are sometimes unfounded ,
+Leaf:  S span my heart goes out to the agent 's family .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('While I think', None, None, None, 0), ('many of us are troubled with the recent relations with Russia and suspicion', None, None, None, 0), ('of rigging our US election , in cahoots with POTUS Trump and hacking ,', None, None, None, 0), ('we need to sort through the details', None, None, None, 0), ('and make sure', None, None, None, 0), ('we are using facts', None, None, None, 0), ('when they are available .', None, None, None, 1), ('Suspicions are sometimes unfounded ,', None, None, None, 0), ("my heart goes out to the agent 's family .", None, None, None, 1)]

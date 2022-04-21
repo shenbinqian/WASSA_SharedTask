@@ -1,0 +1,23 @@
+=====================> [[('I am very concerned about our staple crops', None, None, None, 0), ('that we use', None, None, None, 0), ('to survive off of .', None, None, None, 1), ('The climate change is likely going to kill off our crops .', None, None, None, 1), ('We are already seeing signs ,', None, None, None, 0), ("and it does n't look good .", None, None, None, 1), ('The University in Arizona is already seeing this ,', None, None, None, 0), ('and no one is listening . Only a few news channels are spreading the news .', None, None, None, 1), ('This is going to affect those non technological countries first ,', None, None, None, 0), ('which is a shame', None, None, None, 0), ('since none of this is their fault .', None, None, None, 1)]]
+Leaf:  N Elaborate I am very concerned about our staple crops
+Leaf:  N Enablement that we use
+Leaf:  S span to survive off of .
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The climate change is likely going to kill off our crops .
+Leaf:  N Joint We are already seeing signs ,
+Leaf:  N Joint and it does n't look good .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint The University in Arizona is already seeing this ,
+Leaf:  N Joint and no one is listening . Only a few news channels are spreading the news .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation This is going to affect those non technological countries first ,
+Leaf:  N Explanation which is a shame
+Leaf:  S span since none of this is their fault .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I am very concerned about our staple crops', None, None, None, 0), ('that we use', None, None, None, 0), ('to survive off of .', None, None, None, 1), ('The climate change is likely going to kill off our crops .', None, None, None, 1), ('We are already seeing signs ,', None, None, None, 0), ("and it does n't look good .", None, None, None, 1), ('The University in Arizona is already seeing this ,', None, None, None, 0), ('and no one is listening . Only a few news channels are spreading the news .', None, None, None, 1), ('This is going to affect those non technological countries first ,', None, None, None, 0), ('which is a shame', None, None, None, 0), ('since none of this is their fault .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[("It 's about time somebody stood up to Mexico .", None, None, None, 1), ('We are being flooded with mexicans and immigrants flooding over the border .', None, None, None, 1), ("It 's an invasion", None, None, None, 0), ("as far as I 'm concerned .", None, None, None, 1), ('I could go into detail about all the negatives', None, None, None, 0), ('it causes . But what I am sick of', None, None, None, 0), ('is every time', None, None, None, 0), ('we want to do something about it ,', None, None, None, 0), ('all the naysayers and doomsdayers through NAFTA and Trade and economics in our face .', None, None, None, 1), ('I get it we made some dumb deals in the past', None, None, None, 0), ('that have lead to bad consequences ,', None, None, None, 0), ('but we elected Trump to take a new direction .', None, None, None, 1), ('Mexico will have to get their act together too ,', None, None, None, 0), ("I 'm sick of them", None, None, None, 0), ('acting like saints', None, None, None, 0), ('everytime we want to take an action .', None, None, None, 1)]]
+Leaf:  N Explanation It 's about time somebody stood up to Mexico .
+Leaf:  N Evaluation We are being flooded with mexicans and immigrants flooding over the border .
+Leaf:  N Evaluation It 's an invasion
+Leaf:  S span as far as I 'm concerned .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Condition None Explanation NS
+Leaf:  N Elaborate I could go into detail about all the negatives
+Leaf:  S span it causes . But what I am sick of
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is every time
+Leaf:  S span we want to do something about it ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit all the naysayers and doomsdayers through NAFTA and Trade and economics in our face .
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate I get it we made some dumb deals in the past
+Leaf:  S span that have lead to bad consequences ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but we elected Trump to take a new direction .
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation Mexico will have to get their act together too ,
+Leaf:  N Elaborate I 'm sick of them
+Leaf:  N Background acting like saints
+Leaf:  S span everytime we want to take an action .
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Condition NS
+[("It 's about time somebody stood up to Mexico .", None, None, None, 1), ('We are being flooded with mexicans and immigrants flooding over the border .', None, None, None, 1), ("It 's an invasion", None, None, None, 0), ("as far as I 'm concerned .", None, None, None, 1), ('I could go into detail about all the negatives', None, None, None, 0), ('it causes . But what I am sick of', None, None, None, 0), ('is every time', None, None, None, 0), ('we want to do something about it ,', None, None, None, 0), ('all the naysayers and doomsdayers through NAFTA and Trade and economics in our face .', None, None, None, 1), ('I get it we made some dumb deals in the past', None, None, None, 0), ('that have lead to bad consequences ,', None, None, None, 0), ('but we elected Trump to take a new direction .', None, None, None, 1), ('Mexico will have to get their act together too ,', None, None, None, 0), ("I 'm sick of them", None, None, None, 0), ('acting like saints', None, None, None, 0), ('everytime we want to take an action .', None, None, None, 1)]

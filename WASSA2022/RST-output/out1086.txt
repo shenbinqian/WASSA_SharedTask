@@ -1,0 +1,21 @@
+=====================> [[("This is really sick and disturbing do n't you think ?", None, None, None, 1), ('These soccer hooligans got all rowdy', None, None, None, 0), ('and worked up', None, None, None, 0), ('and', None, None, None, 0), ('when they were acting out', None, None, None, 0), ('like idiots they hit an eleven-year-old child in the head with a bottle .', None, None, None, 1), ('Poor kid had a big gash', None, None, None, 0), ('and had to go to the hospital and everything .', None, None, None, 1), ("That 's pretty sad and pathetic ,", None, None, None, 0), ("even though they probably did n't really mean to do it .", None, None, None, 1)]]
+Leaf:  N Explanation This is really sick and disturbing do n't you think ?
+Leaf:  N Joint These soccer hooligans got all rowdy
+Leaf:  N Joint and worked up
+Inner:  N Temporal None Joint NN
+Leaf:  N Same-Unit and
+Leaf:  N Manner-Means when they were acting out
+Leaf:  S span like idiots they hit an eleven-year-old child in the head with a bottle .
+Inner:  N Same-Unit None Manner-Means NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Cause Poor kid had a big gash
+Leaf:  N Cause and had to go to the hospital and everything .
+Inner:  S span None Cause NN
+Inner:  N Temporal None Elaborate NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Contrast That 's pretty sad and pathetic ,
+Leaf:  S span even though they probably did n't really mean to do it .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("This is really sick and disturbing do n't you think ?", None, None, None, 1), ('These soccer hooligans got all rowdy', None, None, None, 0), ('and worked up', None, None, None, 0), ('and', None, None, None, 0), ('when they were acting out', None, None, None, 0), ('like idiots they hit an eleven-year-old child in the head with a bottle .', None, None, None, 1), ('Poor kid had a big gash', None, None, None, 0), ('and had to go to the hospital and everything .', None, None, None, 1), ("That 's pretty sad and pathetic ,", None, None, None, 0), ("even though they probably did n't really mean to do it .", None, None, None, 1)]

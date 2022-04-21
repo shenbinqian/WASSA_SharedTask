@@ -1,0 +1,17 @@
+=====================> [[('What a rare occurrence', None, None, None, 0), ('to have that mutation come up for both parents .', None, None, None, 1), ('I feel very bad for Nicholas and his family .', None, None, None, 1), ('Thankfully they are able to afford the treatments', None, None, None, 0), ('that Nicholas would need almost his entire life .', None, None, None, 1), ('I feel bad for the family', None, None, None, 0), ("who are n't able", None, None, None, 0), ('to afford such treatments for their own kids .', None, None, None, 1)]]
+Leaf:  N Elaborate What a rare occurrence
+Leaf:  S span to have that mutation come up for both parents .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I feel very bad for Nicholas and his family .
+Leaf:  N Elaborate Thankfully they are able to afford the treatments
+Leaf:  S span that Nicholas would need almost his entire life .
+Inner:  N Comparison None Elaborate NS
+Leaf:  N Elaborate I feel bad for the family
+Leaf:  S span who are n't able
+Leaf:  N Attribution to afford such treatments for their own kids .
+Inner:  S span None Attribution SN
+Inner:  N Comparison None Elaborate NS
+Inner:  S span None Comparison NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('What a rare occurrence', None, None, None, 0), ('to have that mutation come up for both parents .', None, None, None, 1), ('I feel very bad for Nicholas and his family .', None, None, None, 1), ('Thankfully they are able to afford the treatments', None, None, None, 0), ('that Nicholas would need almost his entire life .', None, None, None, 1), ('I feel bad for the family', None, None, None, 0), ("who are n't able", None, None, None, 0), ('to afford such treatments for their own kids .', None, None, None, 1)]

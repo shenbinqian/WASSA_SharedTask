@@ -1,0 +1,25 @@
+=====================> [[('I cant believe', None, None, None, 0), ('how some countries treat criminals .', None, None, None, 1), ('I agree', None, None, None, 0), ('that they should be punished', None, None, None, 0), ('and face consequences', None, None, None, 0), ('but beating them to death is definitely excessive', None, None, None, 0), ('especially when the crime is not that bad .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('how that helps the crime rates', None, None, None, 0), ('and I definitely dont think', None, None, None, 0), ('we should consider that method', None, None, None, 0), ('where we come from .', None, None, None, 1)]]
+Leaf:  S span I cant believe
+Leaf:  N Attribution how some countries treat criminals .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I agree
+Leaf:  N Joint that they should be punished
+Leaf:  N Joint and face consequences
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Background but beating them to death is definitely excessive
+Leaf:  S span especially when the crime is not that bad .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Contrast NS
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution how that helps the crime rates
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I definitely dont think
+Leaf:  N Elaborate we should consider that method
+Leaf:  S span where we come from .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I cant believe', None, None, None, 0), ('how some countries treat criminals .', None, None, None, 1), ('I agree', None, None, None, 0), ('that they should be punished', None, None, None, 0), ('and face consequences', None, None, None, 0), ('but beating them to death is definitely excessive', None, None, None, 0), ('especially when the crime is not that bad .', None, None, None, 1), ("I 'm not sure", None, None, None, 0), ('how that helps the crime rates', None, None, None, 0), ('and I definitely dont think', None, None, None, 0), ('we should consider that method', None, None, None, 0), ('where we come from .', None, None, None, 1)]

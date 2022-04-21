@@ -1,0 +1,21 @@
+=====================> [[('Hello Jane , how have you been ,', None, None, None, 0), ('I want to vent out an article', None, None, None, 0), ('I read', None, None, None, 0), ('and is very heart breaking . A few families lost their loved one in a ride at the Dreamworld theme park in Queensland , Australia .', None, None, None, 1), ('They were thrown off the ride into the water .', None, None, None, 1), ('It is a very sad story', None, None, None, 0), ('and it will be investigated ,', None, None, None, 0), ('also the Dream world CEO has created a memorial at the park with 500 staff', None, None, None, 0), ('to attend ,', None, None, None, 0), ('which is very kind .', None, None, None, 1)]]
+Leaf:  S span Hello Jane , how have you been ,
+Leaf:  N Elaborate I want to vent out an article
+Leaf:  N Elaborate I read
+Leaf:  S span and is very heart breaking . A few families lost their loved one in a ride at the Dreamworld theme park in Queensland , Australia .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They were thrown off the ride into the water .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It is a very sad story
+Leaf:  S span and it will be investigated ,
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate also the Dream world CEO has created a memorial at the park with 500 staff
+Leaf:  S span to attend ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span which is very kind .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Inner:  Root None None Evaluation SN
+[('Hello Jane , how have you been ,', None, None, None, 0), ('I want to vent out an article', None, None, None, 0), ('I read', None, None, None, 0), ('and is very heart breaking . A few families lost their loved one in a ride at the Dreamworld theme park in Queensland , Australia .', None, None, None, 1), ('They were thrown off the ride into the water .', None, None, None, 1), ('It is a very sad story', None, None, None, 0), ('and it will be investigated ,', None, None, None, 0), ('also the Dream world CEO has created a memorial at the park with 500 staff', None, None, None, 0), ('to attend ,', None, None, None, 0), ('which is very kind .', None, None, None, 1)]

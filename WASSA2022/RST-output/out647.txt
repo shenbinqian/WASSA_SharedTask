@@ -1,0 +1,33 @@
+=====================> [[("I did n't realize", None, None, None, 0), ('that a dam could cause so much problem .', None, None, None, 1), ('It is a shame that the people', None, None, None, 0), ('who are going to be impacted the most', None, None, None, 0), ('are the indigenous people .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people feel', None, None, None, 0), ('it is okay to do this to them . Maybe there are many pros', None, None, None, 0), ("that I just do n't know about", None, None, None, 0), ('and this article is focusing only on the negative of the methylmercury .', None, None, None, 1), ('I guess', None, None, None, 0), ('this goes to show', None, None, None, 0), ('that we as a human race can affect the environment in maybe a not so good way .', None, None, None, 1), ('What do you think about this ?', None, None, None, 1), ('I am curious', None, None, None, 0), ('what you have to say about this .', None, None, None, 1)]]
+Leaf:  S span I did n't realize
+Leaf:  N Attribution that a dam could cause so much problem .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It is a shame that the people
+Leaf:  S span who are going to be impacted the most
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are the indigenous people .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I do n't understand
+Leaf:  S span how people feel
+Leaf:  N Elaborate it is okay to do this to them . Maybe there are many pros
+Leaf:  S span that I just do n't know about
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and this article is focusing only on the negative of the methylmercury .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I guess
+Leaf:  S span this goes to show
+Leaf:  N Attribution that we as a human race can affect the environment in maybe a not so good way .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint What do you think about this ?
+Leaf:  S span I am curious
+Leaf:  N Attribution what you have to say about this .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[("I did n't realize", None, None, None, 0), ('that a dam could cause so much problem .', None, None, None, 1), ('It is a shame that the people', None, None, None, 0), ('who are going to be impacted the most', None, None, None, 0), ('are the indigenous people .', None, None, None, 1), ("I do n't understand", None, None, None, 0), ('how people feel', None, None, None, 0), ('it is okay to do this to them . Maybe there are many pros', None, None, None, 0), ("that I just do n't know about", None, None, None, 0), ('and this article is focusing only on the negative of the methylmercury .', None, None, None, 1), ('I guess', None, None, None, 0), ('this goes to show', None, None, None, 0), ('that we as a human race can affect the environment in maybe a not so good way .', None, None, None, 1), ('What do you think about this ?', None, None, None, 1), ('I am curious', None, None, None, 0), ('what you have to say about this .', None, None, None, 1)]

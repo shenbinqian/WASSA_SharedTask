@@ -1,0 +1,25 @@
+=====================> [[('As I was reading our local newspaper last night ,', None, None, None, 0), ('my eyes came to rest on several reports of yet another handful of the farm attacks and - murders', None, None, None, 0), ('South Africa has become known for over the past years .', None, None, None, 1), ('Farm attacks and - murders', None, None, None, 0), ('which see journalists having to write these reports with words', None, None, None, 0), ('I can not even begin to imagine', None, None, None, 0), ('the sickening feeling of .', None, None, None, 1), ('Words like “ boiling water poured down 87-year-old farmer ’s throat for hours on end , ”', None, None, None, 0), ('and “ his wife and two teenage daughters were tied with barbed wire in the bathroom ,', None, None, None, 0), ('after which they were repeatedly raped ,', None, None, None, 0), ('burned with a hot iron ,', None, None, None, 0), ('and stabbed with a sharp object . ”', None, None, None, 0)]]
+Leaf:  S span As I was reading our local newspaper last night ,
+Leaf:  N Elaborate my eyes came to rest on several reports of yet another handful of the farm attacks and - murders
+Leaf:  S span South Africa has become known for over the past years .
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate Farm attacks and - murders
+Leaf:  S span which see journalists having to write these reports with words
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I can not even begin to imagine
+Leaf:  N Attribution the sickening feeling of .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Words like “ boiling water poured down 87-year-old farmer ’s throat for hours on end , ”
+Leaf:  N Temporal and “ his wife and two teenage daughters were tied with barbed wire in the bathroom ,
+Leaf:  N Joint after which they were repeatedly raped ,
+Leaf:  N Temporal burned with a hot iron ,
+Leaf:  N Temporal and stabbed with a sharp object . ”
+Inner:  N Joint None Temporal NN
+Inner:  S span None Joint NN
+Inner:  N Joint None Temporal NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('As I was reading our local newspaper last night ,', None, None, None, 0), ('my eyes came to rest on several reports of yet another handful of the farm attacks and - murders', None, None, None, 0), ('South Africa has become known for over the past years .', None, None, None, 1), ('Farm attacks and - murders', None, None, None, 0), ('which see journalists having to write these reports with words', None, None, None, 0), ('I can not even begin to imagine', None, None, None, 0), ('the sickening feeling of .', None, None, None, 1), ('Words like “ boiling water poured down 87-year-old farmer ’s throat for hours on end , ”', None, None, None, 0), ('and “ his wife and two teenage daughters were tied with barbed wire in the bathroom ,', None, None, None, 0), ('after which they were repeatedly raped ,', None, None, None, 0), ('burned with a hot iron ,', None, None, None, 0), ('and stabbed with a sharp object . ”', None, None, None, 0)]

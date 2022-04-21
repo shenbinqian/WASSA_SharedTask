@@ -1,0 +1,25 @@
+=====================> [[('It is clear that climate change is something', None, None, None, 0), ('that is not only affecting us , humans .', None, None, None, 1), ('We are not the only creatures', None, None, None, 0), ('that inhabit this world', None, None, None, 0), ('and we should respect all those animals', None, None, None, 0), ('that live on the earth . Especially those', None, None, None, 0), ('who have been here for millions of years .', None, None, None, 1), ('I find turtles interesting creatures', None, None, None, 0), ('and I feel', None, None, None, 0), ('like we should do all', None, None, None, 0), ('that we can', None, None, None, 0), ('to ensure the safety and growth of these ancient animals .', None, None, None, 1)]]
+Leaf:  N Elaborate It is clear that climate change is something
+Leaf:  S span that is not only affecting us , humans .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate We are not the only creatures
+Leaf:  S span that inhabit this world
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate and we should respect all those animals
+Leaf:  N Elaborate that live on the earth . Especially those
+Leaf:  S span who have been here for millions of years .
+Inner:  S span None Elaborate NS
+Inner:  N Comparison None Elaborate NS
+Inner:  N Evaluation None Comparison SN
+Leaf:  N Joint I find turtles interesting creatures
+Leaf:  S span and I feel
+Leaf:  N Elaborate like we should do all
+Leaf:  N Enablement that we can
+Leaf:  S span to ensure the safety and growth of these ancient animals .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('It is clear that climate change is something', None, None, None, 0), ('that is not only affecting us , humans .', None, None, None, 1), ('We are not the only creatures', None, None, None, 0), ('that inhabit this world', None, None, None, 0), ('and we should respect all those animals', None, None, None, 0), ('that live on the earth . Especially those', None, None, None, 0), ('who have been here for millions of years .', None, None, None, 1), ('I find turtles interesting creatures', None, None, None, 0), ('and I feel', None, None, None, 0), ('like we should do all', None, None, None, 0), ('that we can', None, None, None, 0), ('to ensure the safety and growth of these ancient animals .', None, None, None, 1)]

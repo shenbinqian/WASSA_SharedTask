@@ -1,0 +1,23 @@
+=====================> [[('Feelings are deemed appropriate', None, None, None, 0), ('if they fit the current situation .', None, None, None, 1), ('Since individuals want to fit in', None, None, None, 0), ('and be seen as normal ,', None, None, None, 0), ('they are constantly working on their feelings', None, None, None, 0), ('in order to fit the situation .', None, None, None, 1), ('Emotion work is more so', None, None, None, 0), ('how people want to feel', None, None, None, 0), ('or how they want other people to see them feel .', None, None, None, 1), ('Feelings are not permanent , but an ongoing thing', None, None, None, 0), ('because people constantly try to bring up , suppress , or manage feelings', None, None, None, 0)]]
+Leaf:  N Condition Feelings are deemed appropriate
+Leaf:  S span if they fit the current situation .
+Inner:  N Elaborate None Condition NS
+Leaf:  N Joint Since individuals want to fit in
+Leaf:  N Joint and be seen as normal ,
+Inner:  S span None Joint NN
+Leaf:  N Enablement they are constantly working on their feelings
+Leaf:  S span in order to fit the situation .
+Inner:  N Background None Enablement NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate Emotion work is more so
+Leaf:  N Joint how people want to feel
+Leaf:  N Joint or how they want other people to see them feel .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation Feelings are not permanent , but an ongoing thing
+Leaf:  S span because people constantly try to bring up , suppress , or manage feelings
+Inner:  S span None Explanation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Feelings are deemed appropriate', None, None, None, 0), ('if they fit the current situation .', None, None, None, 1), ('Since individuals want to fit in', None, None, None, 0), ('and be seen as normal ,', None, None, None, 0), ('they are constantly working on their feelings', None, None, None, 0), ('in order to fit the situation .', None, None, None, 1), ('Emotion work is more so', None, None, None, 0), ('how people want to feel', None, None, None, 0), ('or how they want other people to see them feel .', None, None, None, 1), ('Feelings are not permanent , but an ongoing thing', None, None, None, 0), ('because people constantly try to bring up , suppress , or manage feelings', None, None, None, 0)]

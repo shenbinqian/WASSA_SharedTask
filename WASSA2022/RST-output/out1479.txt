@@ -1,0 +1,29 @@
+=====================> [[('A well known journalist in the UK , editor for Elle magazine', None, None, None, 0), ('and was suffering from depression for long time', None, None, None, 0), ('and she was found dead and pulled ashore .', None, None, None, 1), ('She killed herself after a long suffering of depression .', None, None, None, 1), ('She repeatedly looked for for professional help', None, None, None, 0), ('and because " missed opportunities " she decided to kill herself . It is hard to imagine someone would be refused this kind of help after so many referrals . The professional mental health services have admitted the error', None, None, None, 0), ('and said', None, None, None, 0), ('lessons had been learned', None, None, None, 0), ('and changes have been made', None, None, None, 0), ('since the tragic loss of the journalist .', None, None, None, 1), ("It 's sad that there is such a price", None, None, None, 0), ('needed', None, None, None, 0), ('to pay for changes', None, None, None, 0), ('to be made .', None, None, None, 1)]]
+Leaf:  N Same-Unit A well known journalist in the UK , editor for Elle magazine
+Leaf:  N Cause and was suffering from depression for long time
+Leaf:  S span and she was found dead and pulled ashore .
+Inner:  N Same-Unit None Cause NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span She killed herself after a long suffering of depression .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause She repeatedly looked for for professional help
+Leaf:  N Cause and because " missed opportunities " she decided to kill herself . It is hard to imagine someone would be refused this kind of help after so many referrals . The professional mental health services have admitted the error
+Inner:  N Joint None Cause NN
+Leaf:  S span and said
+Leaf:  N Joint lessons had been learned
+Leaf:  N Background and changes have been made
+Leaf:  S span since the tragic loss of the journalist .
+Inner:  N Joint None Background NS
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's sad that there is such a price
+Leaf:  N Elaborate needed
+Leaf:  N Elaborate to pay for changes
+Leaf:  S span to be made .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('A well known journalist in the UK , editor for Elle magazine', None, None, None, 0), ('and was suffering from depression for long time', None, None, None, 0), ('and she was found dead and pulled ashore .', None, None, None, 1), ('She killed herself after a long suffering of depression .', None, None, None, 1), ('She repeatedly looked for for professional help', None, None, None, 0), ('and because " missed opportunities " she decided to kill herself . It is hard to imagine someone would be refused this kind of help after so many referrals . The professional mental health services have admitted the error', None, None, None, 0), ('and said', None, None, None, 0), ('lessons had been learned', None, None, None, 0), ('and changes have been made', None, None, None, 0), ('since the tragic loss of the journalist .', None, None, None, 1), ("It 's sad that there is such a price", None, None, None, 0), ('needed', None, None, None, 0), ('to pay for changes', None, None, None, 0), ('to be made .', None, None, None, 1)]

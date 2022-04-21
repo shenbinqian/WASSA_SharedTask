@@ -1,0 +1,33 @@
+=====================> [[('There are a lot of older people in Russia', None, None, None, 0), ('who survived the Second World War', None, None, None, 0), ('who are now trying their best to survive .', None, None, None, 1), ('Many estimates say', None, None, None, 0), ('that there are a lot of people in Russia', None, None, None, 0), ('who survived only on $ 4.50 a day .', None, None, None, 1), ('With this little money they do not have the luxury', None, None, None, 0), ('of going out', None, None, None, 0), ('to eat .', None, None, None, 1), ('Also when living on so little money it is dangerous because of Health Care problems .', None, None, None, 1), ('If one has to have surgery', None, None, None, 0), ('or even get expensive medication', None, None, None, 0), ('it can be a real setback to their life style .', None, None, None, 1), ('I hope', None, None, None, 0), ('the Russian economy becomes better enough', None, None, None, 0), ("to support it 's elderly and everyone else in the country .", None, None, None, 1)]]
+Leaf:  N Elaborate There are a lot of older people in Russia
+Leaf:  S span who survived the Second World War
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span who are now trying their best to survive .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Many estimates say
+Leaf:  N Elaborate that there are a lot of people in Russia
+Leaf:  S span who survived only on $ 4.50 a day .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate With this little money they do not have the luxury
+Leaf:  N Enablement of going out
+Leaf:  S span to eat .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint Also when living on so little money it is dangerous because of Health Care problems .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint If one has to have surgery
+Leaf:  N Joint or even get expensive medication
+Inner:  S span None Joint NN
+Leaf:  N Condition it can be a real setback to their life style .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Enablement the Russian economy becomes better enough
+Leaf:  S span to support it 's elderly and everyone else in the country .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('There are a lot of older people in Russia', None, None, None, 0), ('who survived the Second World War', None, None, None, 0), ('who are now trying their best to survive .', None, None, None, 1), ('Many estimates say', None, None, None, 0), ('that there are a lot of people in Russia', None, None, None, 0), ('who survived only on $ 4.50 a day .', None, None, None, 1), ('With this little money they do not have the luxury', None, None, None, 0), ('of going out', None, None, None, 0), ('to eat .', None, None, None, 1), ('Also when living on so little money it is dangerous because of Health Care problems .', None, None, None, 1), ('If one has to have surgery', None, None, None, 0), ('or even get expensive medication', None, None, None, 0), ('it can be a real setback to their life style .', None, None, None, 1), ('I hope', None, None, None, 0), ('the Russian economy becomes better enough', None, None, None, 0), ("to support it 's elderly and everyone else in the country .", None, None, None, 1)]

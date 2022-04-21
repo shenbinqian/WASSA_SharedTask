@@ -1,0 +1,19 @@
+=====================> [[('I am sorry for this teacher', None, None, None, 0), ('who is just trying to do his best in a heated political moment .', None, None, None, 1), ('I have no doubt', None, None, None, 0), ('that he was only attempting to teach to the best of his ability', None, None, None, 0), ('and represent facts', None, None, None, 0), ('as he always has .', None, None, None, 1), ('I wish people could approach each other with more compassion in the spirit of education rather than attack those', None, None, None, 0), ('who are trying to better our children .', None, None, None, 1), ('I am glad to see that he received some national support .', None, None, None, 1)]]
+Leaf:  N Elaborate I am sorry for this teacher
+Leaf:  S span who is just trying to do his best in a heated political moment .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I have no doubt
+Leaf:  N Joint that he was only attempting to teach to the best of his ability
+Leaf:  N Comparison and represent facts
+Leaf:  N Comparison as he always has .
+Inner:  N Joint None Comparison NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I wish people could approach each other with more compassion in the spirit of education rather than attack those
+Leaf:  S span who are trying to better our children .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I am glad to see that he received some national support .
+Inner:  Root None None Evaluation NS
+[('I am sorry for this teacher', None, None, None, 0), ('who is just trying to do his best in a heated political moment .', None, None, None, 1), ('I have no doubt', None, None, None, 0), ('that he was only attempting to teach to the best of his ability', None, None, None, 0), ('and represent facts', None, None, None, 0), ('as he always has .', None, None, None, 1), ('I wish people could approach each other with more compassion in the spirit of education rather than attack those', None, None, None, 0), ('who are trying to better our children .', None, None, None, 1), ('I am glad to see that he received some national support .', None, None, None, 1)]

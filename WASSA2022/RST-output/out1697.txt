@@ -1,0 +1,19 @@
+=====================> [[('When I read this article ,', None, None, None, 0), ('to be honest ,', None, None, None, 0), ('I do not have any feeling', None, None, None, 0), ('because I am not a fan of all these artists .', None, None, None, 1), ('I do listen to pop songs ,', None, None, None, 0), ('but I am not interested in this copyright issues .', None, None, None, 1), ('I would say', None, None, None, 0), ('that copy right is an important part for people to obey', None, None, None, 0), ('because it is a respect to the knowledge and author .', None, None, None, 1)]]
+Leaf:  N Same-Unit When I read this article ,
+Leaf:  N Same-Unit to be honest ,
+Leaf:  N Same-Unit I do not have any feeling
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span because I am not a fan of all these artists .
+Inner:  N Elaborate None Explanation NS
+Leaf:  S span I do listen to pop songs ,
+Leaf:  N Contrast but I am not interested in this copyright issues .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I would say
+Leaf:  N Explanation that copy right is an important part for people to obey
+Leaf:  S span because it is a respect to the knowledge and author .
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('When I read this article ,', None, None, None, 0), ('to be honest ,', None, None, None, 0), ('I do not have any feeling', None, None, None, 0), ('because I am not a fan of all these artists .', None, None, None, 1), ('I do listen to pop songs ,', None, None, None, 0), ('but I am not interested in this copyright issues .', None, None, None, 1), ('I would say', None, None, None, 0), ('that copy right is an important part for people to obey', None, None, None, 0), ('because it is a respect to the knowledge and author .', None, None, None, 1)]

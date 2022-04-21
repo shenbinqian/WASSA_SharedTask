@@ -1,0 +1,27 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('what a nuisance gold fish can be .', None, None, None, 1), ('The fact', None, None, None, 0), ('that they can cause so much damage to an environment', None, None, None, 0), ('and have no natural predators is crazy .', None, None, None, 1), ('It makes you second guess flushing the fish down the toilet', None, None, None, 0), ('as it may survive .', None, None, None, 1), ("It 's hard to believe", None, None, None, 0), ('that they get so big', None, None, None, 0), ('since they are usually just little fish in a small tank .', None, None, None, 1), ("Also it 's weird", None, None, None, 0), ('that they travel so far', None, None, None, 0), ('considering we usually just see them swimming in circles .', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution what a nuisance gold fish can be .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The fact
+Leaf:  N Joint that they can cause so much damage to an environment
+Leaf:  N Joint and have no natural predators is crazy .
+Inner:  S span None Joint NN
+Inner:  N Cause None Elaborate NS
+Leaf:  N Condition It makes you second guess flushing the fish down the toilet
+Leaf:  S span as it may survive .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Cause NS
+Leaf:  S span It 's hard to believe
+Leaf:  N Attribution that they get so big
+Inner:  N Explanation None Attribution SN
+Leaf:  S span since they are usually just little fish in a small tank .
+Inner:  N Joint None Explanation NS
+Leaf:  S span Also it 's weird
+Leaf:  N Attribution that they travel so far
+Inner:  N Explanation None Attribution SN
+Leaf:  S span considering we usually just see them swimming in circles .
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I ca n't believe", None, None, None, 0), ('what a nuisance gold fish can be .', None, None, None, 1), ('The fact', None, None, None, 0), ('that they can cause so much damage to an environment', None, None, None, 0), ('and have no natural predators is crazy .', None, None, None, 1), ('It makes you second guess flushing the fish down the toilet', None, None, None, 0), ('as it may survive .', None, None, None, 1), ("It 's hard to believe", None, None, None, 0), ('that they get so big', None, None, None, 0), ('since they are usually just little fish in a small tank .', None, None, None, 1), ("Also it 's weird", None, None, None, 0), ('that they travel so far', None, None, None, 0), ('considering we usually just see them swimming in circles .', None, None, None, 1)]

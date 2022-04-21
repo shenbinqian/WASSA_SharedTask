@@ -1,0 +1,23 @@
+=====================> [[('It is nice to see others doing things', None, None, None, 0), ('to help those', None, None, None, 0), ('that are in need', None, None, None, 0), ('or have gone through negative experiences .', None, None, None, 1), ('I think', None, None, None, 0), ('things like this show', None, None, None, 0), ('how the world can come together', None, None, None, 0), ('when it needs to', None, None, None, 0), ('and that other countries do care about their people .', None, None, None, 1), ('This is a fine example and a defining moment', None, None, None, 0), ('that many people should see .', None, None, None, 1)]]
+Leaf:  N Enablement It is nice to see others doing things
+Leaf:  N Elaborate to help those
+Leaf:  N Joint that are in need
+Leaf:  N Joint or have gone through negative experiences .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Enablement NS
+Leaf:  S span I think
+Leaf:  S span things like this show
+Leaf:  N Background how the world can come together
+Leaf:  S span when it needs to
+Inner:  N Joint None Background NS
+Leaf:  N Joint and that other countries do care about their people .
+Inner:  N Attribution None Joint NN
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate This is a fine example and a defining moment
+Leaf:  S span that many people should see .
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('It is nice to see others doing things', None, None, None, 0), ('to help those', None, None, None, 0), ('that are in need', None, None, None, 0), ('or have gone through negative experiences .', None, None, None, 1), ('I think', None, None, None, 0), ('things like this show', None, None, None, 0), ('how the world can come together', None, None, None, 0), ('when it needs to', None, None, None, 0), ('and that other countries do care about their people .', None, None, None, 1), ('This is a fine example and a defining moment', None, None, None, 0), ('that many people should see .', None, None, None, 1)]

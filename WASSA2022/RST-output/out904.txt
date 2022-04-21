@@ -1,0 +1,31 @@
+=====================> [[('It is very sad to know Robert died .', None, None, None, 1), ('He was a great actor .', None, None, None, 1), ('You never now when your time is going to come .', None, None, None, 1), ('I get very worried of my own health . There are so many sicknesses and diseases .', None, None, None, 1), ('I tried to get checked annually at the doctors .', None, None, None, 1), ('I hope they come out with a cure for these diseases and sicknesses .', None, None, None, 1), ('I feel', None, None, None, 0), ('like Robert did live kind of a long life . Robert has made good memories', None, None, None, 0), ('and I think', None, None, None, 0), ('that is very important', None, None, None, 0), ('when living .', None, None, None, 1), ('I want to make a lot of good memories', None, None, None, 0), ('now', None, None, None, 0), ("that I 'm alive .", None, None, None, 1), ("Everyones life should have meaning just like Robert 's .", None, None, None, 1)]]
+Leaf:  N Explanation It is very sad to know Robert died .
+Leaf:  S span He was a great actor .
+Inner:  N Topic-Change None Explanation NS
+Leaf:  N Joint You never now when your time is going to come .
+Leaf:  S span I get very worried of my own health . There are so many sicknesses and diseases .
+Leaf:  S span I tried to get checked annually at the doctors .
+Leaf:  N Elaborate I hope they come out with a cure for these diseases and sicknesses .
+Inner:  N Background None Elaborate SN
+Inner:  N Evaluation None Background SN
+Leaf:  S span I feel
+Leaf:  N Joint like Robert did live kind of a long life . Robert has made good memories
+Leaf:  S span and I think
+Leaf:  N Background that is very important
+Leaf:  S span when living .
+Inner:  N Attribution None Background NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Background I want to make a lot of good memories
+Leaf:  N Elaborate now
+Leaf:  S span that I 'm alive .
+Inner:  S span None Elaborate NS
+Inner:  S span None Background NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Everyones life should have meaning just like Robert 's .
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Evaluation NS
+Inner:  N Topic-Change None Joint NN
+Inner:  Root None None Topic-Change NN
+[('It is very sad to know Robert died .', None, None, None, 1), ('He was a great actor .', None, None, None, 1), ('You never now when your time is going to come .', None, None, None, 1), ('I get very worried of my own health . There are so many sicknesses and diseases .', None, None, None, 1), ('I tried to get checked annually at the doctors .', None, None, None, 1), ('I hope they come out with a cure for these diseases and sicknesses .', None, None, None, 1), ('I feel', None, None, None, 0), ('like Robert did live kind of a long life . Robert has made good memories', None, None, None, 0), ('and I think', None, None, None, 0), ('that is very important', None, None, None, 0), ('when living .', None, None, None, 1), ('I want to make a lot of good memories', None, None, None, 0), ('now', None, None, None, 0), ("that I 'm alive .", None, None, None, 1), ("Everyones life should have meaning just like Robert 's .", None, None, None, 1)]

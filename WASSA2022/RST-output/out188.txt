@@ -1,0 +1,27 @@
+=====================> [[('I am one', None, None, None, 0), ('for not giving your potential mate any reasonable doubt .', None, None, None, 1), ('For example', None, None, None, 0), ('if Tanaka', None, None, None, 0), ("( Mariah Carey 's backup dancer )", None, None, None, 0), ('made her fiance uncomfortable he should have been axed in the beginning of the relationship .', None, None, None, 1), ('I also do not think', None, None, None, 0), ('it supports security all the time either .', None, None, None, 1), ('I think', None, None, None, 0), ('that', None, None, None, 0), ('if you value that mate', None, None, None, 0), ('there should definitely be sacrifices', None, None, None, 0), ('made in regards with relationships .', None, None, None, 1)]]
+Leaf:  N Elaborate I am one
+Leaf:  S span for not giving your potential mate any reasonable doubt .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span For example
+Leaf:  N Elaborate if Tanaka
+Leaf:  S span ( Mariah Carey 's backup dancer )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit made her fiance uncomfortable he should have been axed in the beginning of the relationship .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Joint None Attribution SN
+Leaf:  S span I also do not think
+Leaf:  N Attribution it supports security all the time either .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Same-Unit that
+Leaf:  S span if you value that mate
+Leaf:  N Elaborate there should definitely be sacrifices
+Leaf:  S span made in regards with relationships .
+Inner:  N Condition None Elaborate NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Explanation NS
+[('I am one', None, None, None, 0), ('for not giving your potential mate any reasonable doubt .', None, None, None, 1), ('For example', None, None, None, 0), ('if Tanaka', None, None, None, 0), ("( Mariah Carey 's backup dancer )", None, None, None, 0), ('made her fiance uncomfortable he should have been axed in the beginning of the relationship .', None, None, None, 1), ('I also do not think', None, None, None, 0), ('it supports security all the time either .', None, None, None, 1), ('I think', None, None, None, 0), ('that', None, None, None, 0), ('if you value that mate', None, None, None, 0), ('there should definitely be sacrifices', None, None, None, 0), ('made in regards with relationships .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('This really sucks for the children and the families affected .', None, None, None, 1), ('They could sue the developers ,', None, None, None, 0), ('but no amount of money is going to compensate them for the health issues', None, None, None, 0), ('these kids are going to experience due to lead poisoning .', None, None, None, 1), ('The worst thing about this is ,', None, None, None, 0), ('if it were a wealthy white neighbourhood adjacent to the industrial site', None, None, None, 0), ('they wanted to demolish ,', None, None, None, 0), ('you know', None, None, None, 0), ('they would have taken every precaution', None, None, None, 0), ('to test', None, None, None, 0), ('to see', None, None, None, 0), ('if there was any chance', None, None, None, 0), ('of releasing toxic amounts of lead into the vicinity .', None, None, None, 1), ("But it 's a poor black neighbourhood ,", None, None, None, 0), ("so of course they are n't as careful .", None, None, None, 1)]]
+Leaf:  N Cause This really sucks for the children and the families affected .
+Leaf:  N Contrast They could sue the developers ,
+Leaf:  N Elaborate but no amount of money is going to compensate them for the health issues
+Leaf:  S span these kids are going to experience due to lead poisoning .
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Same-Unit The worst thing about this is ,
+Leaf:  N Elaborate if it were a wealthy white neighbourhood adjacent to the industrial site
+Leaf:  S span they wanted to demolish ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition you know
+Inner:  S span None Condition SN
+Leaf:  N Elaborate they would have taken every precaution
+Leaf:  N Enablement to test
+Leaf:  S span to see
+Leaf:  N Elaborate if there was any chance
+Leaf:  S span of releasing toxic amounts of lead into the vicinity .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span But it 's a poor black neighbourhood ,
+Leaf:  N Cause so of course they are n't as careful .
+Inner:  N Contrast None Cause SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('This really sucks for the children and the families affected .', None, None, None, 1), ('They could sue the developers ,', None, None, None, 0), ('but no amount of money is going to compensate them for the health issues', None, None, None, 0), ('these kids are going to experience due to lead poisoning .', None, None, None, 1), ('The worst thing about this is ,', None, None, None, 0), ('if it were a wealthy white neighbourhood adjacent to the industrial site', None, None, None, 0), ('they wanted to demolish ,', None, None, None, 0), ('you know', None, None, None, 0), ('they would have taken every precaution', None, None, None, 0), ('to test', None, None, None, 0), ('to see', None, None, None, 0), ('if there was any chance', None, None, None, 0), ('of releasing toxic amounts of lead into the vicinity .', None, None, None, 1), ("But it 's a poor black neighbourhood ,", None, None, None, 0), ("so of course they are n't as careful .", None, None, None, 1)]

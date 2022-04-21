@@ -1,0 +1,21 @@
+=====================> [[('I just read this article about contact lenses .', None, None, None, 1), ('It has some good information about the risks', None, None, None, 0), ('associated with improper wear of contacts .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('there are some people', None, None, None, 0), ('who store their lenses in tap water .', None, None, None, 1), ('Gross !', None, None, None, 1), ('I definitely make it a point', None, None, None, 0), ('to not wear my lenses over the 30 day limit', None, None, None, 0), ('and I try to never fall asleep in wearing them .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about contact lenses .
+Leaf:  N Elaborate It has some good information about the risks
+Leaf:  S span associated with improper wear of contacts .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I ca n't believe
+Leaf:  N Elaborate there are some people
+Leaf:  S span who store their lenses in tap water .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Gross !
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I definitely make it a point
+Leaf:  S span to not wear my lenses over the 30 day limit
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and I try to never fall asleep in wearing them .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I just read this article about contact lenses .', None, None, None, 1), ('It has some good information about the risks', None, None, None, 0), ('associated with improper wear of contacts .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('there are some people', None, None, None, 0), ('who store their lenses in tap water .', None, None, None, 1), ('Gross !', None, None, None, 1), ('I definitely make it a point', None, None, None, 0), ('to not wear my lenses over the 30 day limit', None, None, None, 0), ('and I try to never fall asleep in wearing them .', None, None, None, 1)]

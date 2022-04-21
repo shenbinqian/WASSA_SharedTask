@@ -1,0 +1,15 @@
+=====================> [[('I think', None, None, None, 0), ('people would have a field day over this in blogs and forums , especially the conspiracy theorist', None, None, None, 0), ('who thinks', None, None, None, 0), ('some cabal is somewhere controlling events and outcomes ,', None, None, None, 0), ('the good news is the pilot survived', None, None, None, 0), ('and was recovered safely', None, None, None, 0), ('and maybe Russia should be more focused on ensuring safety of its military .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Elaborate people would have a field day over this in blogs and forums , especially the conspiracy theorist
+Leaf:  S span who thinks
+Leaf:  N Attribution some cabal is somewhere controlling events and outcomes ,
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint the good news is the pilot survived
+Leaf:  N Joint and was recovered safely
+Inner:  N Evaluation None Joint NN
+Leaf:  S span and maybe Russia should be more focused on ensuring safety of its military .
+Inner:  S span None Evaluation NS
+Inner:  N Attribution None Elaborate NS
+Inner:  Root None None Attribution SN
+[('I think', None, None, None, 0), ('people would have a field day over this in blogs and forums , especially the conspiracy theorist', None, None, None, 0), ('who thinks', None, None, None, 0), ('some cabal is somewhere controlling events and outcomes ,', None, None, None, 0), ('the good news is the pilot survived', None, None, None, 0), ('and was recovered safely', None, None, None, 0), ('and maybe Russia should be more focused on ensuring safety of its military .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('I just read an article about Wells Fargo in particular ,', None, None, None, 0), ("but really it 's probably happening at many banks .", None, None, None, 1), ("I know you 've seen the people", None, None, None, 0), ("when you 're out in public", None, None, None, 0), ('who are trying to get you to open a new account', None, None, None, 0), ('and you know', None, None, None, 0), ("they 're just doing it to make some sort of commission . Well , come to find out Wells Fargo just discovered 80,000 phony accounts", None, None, None, 0), ("that must have been opened to fulfill branch quotas . Are n't these the institutions we'e supposed to trust with our money !", None, None, None, 1), ('I understand', None, None, None, 0), ("they do n't think", None, None, None, 0), ("it 's a big deal", None, None, None, 0), ('because out of millions it was only 80,000 ,', None, None, None, 0), ("but I find it extremely concerning that the higher ups down know what 's really happening in day to day operations .", None, None, None, 1), ('It took 5 years to discover this .', None, None, None, 1), ('What else could be happening', None, None, None, 0), ("that we do n't know about ?!", None, None, None, 1)]]
+Leaf:  N Contrast I just read an article about Wells Fargo in particular ,
+Leaf:  S span but really it 's probably happening at many banks .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Temporal I know you 've seen the people
+Leaf:  S span when you 're out in public
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span who are trying to get you to open a new account
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span and you know
+Leaf:  N Elaborate they 're just doing it to make some sort of commission . Well , come to find out Wells Fargo just discovered 80,000 phony accounts
+Leaf:  S span that must have been opened to fulfill branch quotas . Are n't these the institutions we'e supposed to trust with our money !
+Inner:  N Attribution None Elaborate NS
+Inner:  N Temporal None Attribution SN
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I understand
+Leaf:  S span they do n't think
+Leaf:  N Attribution it 's a big deal
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because out of millions it was only 80,000 ,
+Inner:  S span None Explanation NS
+Leaf:  N Contrast but I find it extremely concerning that the higher ups down know what 's really happening in day to day operations .
+Inner:  N Attribution None Contrast SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It took 5 years to discover this .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate What else could be happening
+Leaf:  S span that we do n't know about ?!
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I just read an article about Wells Fargo in particular ,', None, None, None, 0), ("but really it 's probably happening at many banks .", None, None, None, 1), ("I know you 've seen the people", None, None, None, 0), ("when you 're out in public", None, None, None, 0), ('who are trying to get you to open a new account', None, None, None, 0), ('and you know', None, None, None, 0), ("they 're just doing it to make some sort of commission . Well , come to find out Wells Fargo just discovered 80,000 phony accounts", None, None, None, 0), ("that must have been opened to fulfill branch quotas . Are n't these the institutions we'e supposed to trust with our money !", None, None, None, 1), ('I understand', None, None, None, 0), ("they do n't think", None, None, None, 0), ("it 's a big deal", None, None, None, 0), ('because out of millions it was only 80,000 ,', None, None, None, 0), ("but I find it extremely concerning that the higher ups down know what 's really happening in day to day operations .", None, None, None, 1), ('It took 5 years to discover this .', None, None, None, 1), ('What else could be happening', None, None, None, 0), ("that we do n't know about ?!", None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I read an article', None, None, None, 0), ('about using the Internet and computers in the classroom ,', None, None, None, 0), ('and how it affects kids .', None, None, None, 1), ('The article mainly talked about E-rate , a government program', None, None, None, 0), ('to subsidize the Internet and broadband access .', None, None, None, 1), ('It said', None, None, None, 0), ('that most classrooms are now connected ,', None, None, None, 0), ('but the millions of dollars are still being spent .', None, None, None, 1), ('The program seemed to be wasting a lot of money', None, None, None, 0), ("and was n't showing good results .", None, None, None, 1), ('I agree', None, None, None, 0), ("that just buying computers and being on the Internet does n't guarantee", None, None, None, 0), ('that kids are receiving a good education .', None, None, None, 1)]]
+Leaf:  N Elaborate I read an article
+Leaf:  S span about using the Internet and computers in the classroom ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and how it affects kids .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The article mainly talked about E-rate , a government program
+Leaf:  S span to subsidize the Internet and broadband access .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It said
+Leaf:  S span that most classrooms are now connected ,
+Leaf:  N Contrast but the millions of dollars are still being spent .
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The program seemed to be wasting a lot of money
+Leaf:  N Joint and was n't showing good results .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I agree
+Leaf:  S span that just buying computers and being on the Internet does n't guarantee
+Leaf:  N Attribution that kids are receiving a good education .
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I read an article', None, None, None, 0), ('about using the Internet and computers in the classroom ,', None, None, None, 0), ('and how it affects kids .', None, None, None, 1), ('The article mainly talked about E-rate , a government program', None, None, None, 0), ('to subsidize the Internet and broadband access .', None, None, None, 1), ('It said', None, None, None, 0), ('that most classrooms are now connected ,', None, None, None, 0), ('but the millions of dollars are still being spent .', None, None, None, 1), ('The program seemed to be wasting a lot of money', None, None, None, 0), ("and was n't showing good results .", None, None, None, 1), ('I agree', None, None, None, 0), ("that just buying computers and being on the Internet does n't guarantee", None, None, None, 0), ('that kids are receiving a good education .', None, None, None, 1)]

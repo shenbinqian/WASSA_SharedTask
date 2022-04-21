@@ -1,0 +1,27 @@
+=====================> [[('There has got to be a better solution', None, None, None, 0), ('that we can all come up with', None, None, None, 0), ('to make sure', None, None, None, 0), ('that these deaths are stopped or at least decreased .', None, None, None, 1), ('I understand', None, None, None, 0), ('making sure', None, None, None, 0), ('that the elephants are safe ,', None, None, None, 0), ('but people should take priority as well .', None, None, None, 1), ('There are people', None, None, None, 0), ('fearing for their lives .', None, None, None, 1), ('What can their country do about it ,', None, None, None, 0), ("and if their country ca n't , when will another country come in", None, None, None, 0), ('and offer their assistance ?', None, None, None, 1)]]
+Leaf:  N Elaborate There has got to be a better solution
+Leaf:  S span that we can all come up with
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to make sure
+Leaf:  N Attribution that these deaths are stopped or at least decreased .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate I understand
+Leaf:  S span making sure
+Leaf:  N Attribution that the elephants are safe ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but people should take priority as well .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There are people
+Leaf:  S span fearing for their lives .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Joint What can their country do about it ,
+Leaf:  N Joint and if their country ca n't , when will another country come in
+Leaf:  N Joint and offer their assistance ?
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There has got to be a better solution', None, None, None, 0), ('that we can all come up with', None, None, None, 0), ('to make sure', None, None, None, 0), ('that these deaths are stopped or at least decreased .', None, None, None, 1), ('I understand', None, None, None, 0), ('making sure', None, None, None, 0), ('that the elephants are safe ,', None, None, None, 0), ('but people should take priority as well .', None, None, None, 1), ('There are people', None, None, None, 0), ('fearing for their lives .', None, None, None, 1), ('What can their country do about it ,', None, None, None, 0), ("and if their country ca n't , when will another country come in", None, None, None, 0), ('and offer their assistance ?', None, None, None, 1)]

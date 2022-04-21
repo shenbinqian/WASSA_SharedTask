@@ -1,0 +1,27 @@
+=====================> [[('I feel like the shipwreck amongst other violence', None, None, None, 0), ('that occurred in this article is pretty sad .', None, None, None, 1), ('Like other articles', None, None, None, 0), ('that I have read ,', None, None, None, 0), ('it seems like there is just so much death occurring', None, None, None, 0), ('and there is not too much coverage over it .', None, None, None, 1), ('The amount', None, None, None, 0), ("that we do see do n't seem to even scratch the surface", None, None, None, 0), ('as there are many other acts of violence and events that occur', None, None, None, 0), ('that take the lives of many other people from places like third world countries', None, None, None, 0), ("that do n't even get broadcasted at all .", None, None, None, 1), ('Sad to see that our world is slowly spiraling into this chaos', None, None, None, 0), ('that just continues to grow .', None, None, None, 1)]]
+Leaf:  N Elaborate I feel like the shipwreck amongst other violence
+Leaf:  S span that occurred in this article is pretty sad .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate Like other articles
+Leaf:  S span that I have read ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint it seems like there is just so much death occurring
+Leaf:  N Joint and there is not too much coverage over it .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Elaborate The amount
+Leaf:  S span that we do see do n't seem to even scratch the surface
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate as there are many other acts of violence and events that occur
+Leaf:  S span that take the lives of many other people from places like third world countries
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that do n't even get broadcasted at all .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate Sad to see that our world is slowly spiraling into this chaos
+Leaf:  S span that just continues to grow .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I feel like the shipwreck amongst other violence', None, None, None, 0), ('that occurred in this article is pretty sad .', None, None, None, 1), ('Like other articles', None, None, None, 0), ('that I have read ,', None, None, None, 0), ('it seems like there is just so much death occurring', None, None, None, 0), ('and there is not too much coverage over it .', None, None, None, 1), ('The amount', None, None, None, 0), ("that we do see do n't seem to even scratch the surface", None, None, None, 0), ('as there are many other acts of violence and events that occur', None, None, None, 0), ('that take the lives of many other people from places like third world countries', None, None, None, 0), ("that do n't even get broadcasted at all .", None, None, None, 1), ('Sad to see that our world is slowly spiraling into this chaos', None, None, None, 0), ('that just continues to grow .', None, None, None, 1)]

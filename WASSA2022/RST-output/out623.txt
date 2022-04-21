@@ -1,0 +1,35 @@
+=====================> [[('Remembering those', None, None, None, 0), ('who have lost their lives', None, None, None, 0), ('due to violence', None, None, None, 0), ('is so important .', None, None, None, 1), ('Do you remember what happened in Paris in 2015 ?', None, None, None, 1), ('I am so grateful', None, None, None, 0), ('that the people there set aside a special time', None, None, None, 0), ('to remember all the victims and their families . Such a senseless loss . People', None, None, None, 0), ('just wanting to enjoy some entertainment', None, None, None, 0), ('were met with a horrific experience', None, None, None, 0), ('and families were forced to wait in pain', None, None, None, 0), ('to hear news of the outcome .', None, None, None, 1), ('I am sure', None, None, None, 0), ('they will never forget that day .', None, None, None, 1), ('I do hope', None, None, None, 0), ('each day gets easier for them', None, None, None, 0), ('and that they remember the good memories of their loved ones .', None, None, None, 1)]]
+Leaf:  N Elaborate Remembering those
+Leaf:  N Cause who have lost their lives
+Leaf:  S span due to violence
+Inner:  S span None Cause NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is so important .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Topic-Comment Do you remember what happened in Paris in 2015 ?
+Leaf:  S span I am so grateful
+Leaf:  N Enablement that the people there set aside a special time
+Leaf:  N Elaborate to remember all the victims and their families . Such a senseless loss . People
+Leaf:  S span just wanting to enjoy some entertainment
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Joint were met with a horrific experience
+Leaf:  N Enablement and families were forced to wait in pain
+Leaf:  S span to hear news of the outcome .
+Inner:  N Joint None Enablement NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I am sure
+Leaf:  N Attribution they will never forget that day .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I do hope
+Leaf:  N Joint each day gets easier for them
+Leaf:  N Joint and that they remember the good memories of their loved ones .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Elaborate NS
+[('Remembering those', None, None, None, 0), ('who have lost their lives', None, None, None, 0), ('due to violence', None, None, None, 0), ('is so important .', None, None, None, 1), ('Do you remember what happened in Paris in 2015 ?', None, None, None, 1), ('I am so grateful', None, None, None, 0), ('that the people there set aside a special time', None, None, None, 0), ('to remember all the victims and their families . Such a senseless loss . People', None, None, None, 0), ('just wanting to enjoy some entertainment', None, None, None, 0), ('were met with a horrific experience', None, None, None, 0), ('and families were forced to wait in pain', None, None, None, 0), ('to hear news of the outcome .', None, None, None, 1), ('I am sure', None, None, None, 0), ('they will never forget that day .', None, None, None, 1), ('I do hope', None, None, None, 0), ('each day gets easier for them', None, None, None, 0), ('and that they remember the good memories of their loved ones .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('It is sad what happened to him .', None, None, None, 1), ('I am glad', None, None, None, 0), ('that he survived', None, None, None, 0), ('and what able to make it out', None, None, None, 0), ('but to be tortured like that is heartbreaking . That there are some places in the world', None, None, None, 0), ('where it is dangerous for a priest', None, None, None, 0), ('makes me upset and down .', None, None, None, 1), ('They should not be tortured .', None, None, None, 1), ('It is a sad state of affairs', None, None, None, 0), ('that something like this has to happen in our modern world .', None, None, None, 1), ('The story will move you', None, None, None, 0), ('and make you think about the situation', None, None, None, 0), ('some people are in', None, None, None, 0), ('and how they go about in the world .', None, None, None, 1)]]
+Leaf:  N Explanation It is sad what happened to him .
+Leaf:  S span I am glad
+Leaf:  N Joint that he survived
+Leaf:  N Joint and what able to make it out
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but to be tortured like that is heartbreaking . That there are some places in the world
+Leaf:  S span where it is dangerous for a priest
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit makes me upset and down .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span They should not be tortured .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Elaborate It is a sad state of affairs
+Leaf:  S span that something like this has to happen in our modern world .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint The story will move you
+Leaf:  N Elaborate and make you think about the situation
+Leaf:  S span some people are in
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and how they go about in the world .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('It is sad what happened to him .', None, None, None, 1), ('I am glad', None, None, None, 0), ('that he survived', None, None, None, 0), ('and what able to make it out', None, None, None, 0), ('but to be tortured like that is heartbreaking . That there are some places in the world', None, None, None, 0), ('where it is dangerous for a priest', None, None, None, 0), ('makes me upset and down .', None, None, None, 1), ('They should not be tortured .', None, None, None, 1), ('It is a sad state of affairs', None, None, None, 0), ('that something like this has to happen in our modern world .', None, None, None, 1), ('The story will move you', None, None, None, 0), ('and make you think about the situation', None, None, None, 0), ('some people are in', None, None, None, 0), ('and how they go about in the world .', None, None, None, 1)]

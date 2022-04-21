@@ -1,0 +1,23 @@
+=====================> [[('Get too close to a skunk ,', None, None, None, 0), ('and it will spray you with a noxious mix of sulphuric thiols , the chemicals in raw onions', None, None, None, 0), ("that make you cry.The spray does n't just stink :", None, None, None, 0), ('it chokes your lungs', None, None, None, 0), ('and causes temporary blindness ,', None, None, None, 0), ('allowing the skunk to get away.The scent is produced in anal glands at the base of the tail ,', None, None, None, 0), ('and is fired through nipples', None, None, None, 0), ('attached to the glands .', None, None, None, 1), ("Impressive muscle control allows skunks to target their enemy 's face at a distance of over 2m .", None, None, None, 1), ('Without this deterrent ,', None, None, None, 0), ('the slow-moving skunks would be unable to escape from predators .', None, None, None, 1)]]
+Leaf:  S span Get too close to a skunk ,
+Leaf:  N Elaborate and it will spray you with a noxious mix of sulphuric thiols , the chemicals in raw onions
+Leaf:  S span that make you cry.The spray does n't just stink :
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Joint it chokes your lungs
+Leaf:  N Joint and causes temporary blindness ,
+Inner:  N Cause None Joint NN
+Leaf:  S span allowing the skunk to get away.The scent is produced in anal glands at the base of the tail ,
+Inner:  N Joint None Cause NS
+Leaf:  N Elaborate and is fired through nipples
+Leaf:  S span attached to the glands .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  N Condition None Topic-Comment NN
+Inner:  N Elaborate None Condition SN
+Leaf:  S span Impressive muscle control allows skunks to target their enemy 's face at a distance of over 2m .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Without this deterrent ,
+Leaf:  N Background the slow-moving skunks would be unable to escape from predators .
+Inner:  S span None Background SN
+Inner:  Root None None Elaborate NS
+[('Get too close to a skunk ,', None, None, None, 0), ('and it will spray you with a noxious mix of sulphuric thiols , the chemicals in raw onions', None, None, None, 0), ("that make you cry.The spray does n't just stink :", None, None, None, 0), ('it chokes your lungs', None, None, None, 0), ('and causes temporary blindness ,', None, None, None, 0), ('allowing the skunk to get away.The scent is produced in anal glands at the base of the tail ,', None, None, None, 0), ('and is fired through nipples', None, None, None, 0), ('attached to the glands .', None, None, None, 1), ("Impressive muscle control allows skunks to target their enemy 's face at a distance of over 2m .", None, None, None, 1), ('Without this deterrent ,', None, None, None, 0), ('the slow-moving skunks would be unable to escape from predators .', None, None, None, 1)]

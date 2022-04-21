@@ -1,0 +1,21 @@
+=====================> [[("I 've seen the Slager video ,", None, None, None, 0), ('he needs to be in prison .', None, None, None, 1), ("As far as Tensig goes , that 's a tough call .", None, None, None, 1), ("Moral of the story is , do n't give a man with a gun any reason", None, None, None, 0), ('to be afraid of you.The traffic stop went the direction', None, None, None, 0), ('it did', None, None, None, 0), ("because of DuBose 's actions.I have a hard time", None, None, None, 0), ('feeling sympathy for someone', None, None, None, 0), ('who makes horrible decisions', None, None, None, 0), ('that result in predictable outcomes .', None, None, None, 1)]]
+Leaf:  S span I 've seen the Slager video ,
+Leaf:  N Condition he needs to be in prison .
+Inner:  N Comparison None Condition SN
+Leaf:  N Comparison As far as Tensig goes , that 's a tough call .
+Inner:  N Evaluation None Comparison NN
+Leaf:  N Elaborate Moral of the story is , do n't give a man with a gun any reason
+Leaf:  N Elaborate to be afraid of you.The traffic stop went the direction
+Leaf:  S span it did
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Manner-Means because of DuBose 's actions.I have a hard time
+Leaf:  S span feeling sympathy for someone
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate who makes horrible decisions
+Leaf:  S span that result in predictable outcomes .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Evaluation NS
+[("I 've seen the Slager video ,", None, None, None, 0), ('he needs to be in prison .', None, None, None, 1), ("As far as Tensig goes , that 's a tough call .", None, None, None, 1), ("Moral of the story is , do n't give a man with a gun any reason", None, None, None, 0), ('to be afraid of you.The traffic stop went the direction', None, None, None, 0), ('it did', None, None, None, 0), ("because of DuBose 's actions.I have a hard time", None, None, None, 0), ('feeling sympathy for someone', None, None, None, 0), ('who makes horrible decisions', None, None, None, 0), ('that result in predictable outcomes .', None, None, None, 1)]

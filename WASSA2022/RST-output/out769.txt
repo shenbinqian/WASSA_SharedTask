@@ -1,0 +1,39 @@
+=====================> [[('Here we go again .', None, None, None, 1), ('Another news report of another earthquake in Chile .', None, None, None, 1), ("Fortunately this one apparently did n't cause any damage ,", None, None, None, 0), ('but it was no slouch either at a magnitude 6.4 .', None, None, None, 1), ('Had the earthquake struck in a little different location ,', None, None, None, 0), ('who know', None, None, None, 0), ('what might have happened .', None, None, None, 1), ('This is the same place', None, None, None, 0), ('that got hit with an 8.8 a couple years ago .', None, None, None, 1), ('Remember that one ? That was so sad .', None, None, None, 1), ('It triggered a tsunami', None, None, None, 0), ('and 500 people were killed .', None, None, None, 1), ('Not to mention the fact', None, None, None, 0), ('that there were 220,000 homes lost .', None, None, None, 1), ('One piece of good news at least , since the 8.8 earthquake , they have put in a warning system for earthquakes and tsunamis . Thank God for that .', None, None, None, 1), ("That certainly ca n't prevent any earthquakes from happening ,", None, None, None, 0), ('but at least maybe it will save some lives', None, None, None, 0), ('if , or should I say " when " ,', None, None, None, 0), ('the next earthquake occurs .', None, None, None, 1)]]
+Leaf:  N Summary Here we go again .
+Leaf:  N Elaborate Another news report of another earthquake in Chile .
+Leaf:  N Contrast Fortunately this one apparently did n't cause any damage ,
+Leaf:  N Contrast but it was no slouch either at a magnitude 6.4 .
+Inner:  N Condition None Contrast NN
+Leaf:  S span Had the earthquake struck in a little different location ,
+Leaf:  S span who know
+Leaf:  N Attribution what might have happened .
+Inner:  N Condition None Attribution SN
+Inner:  N Elaborate None Condition SN
+Leaf:  N Elaborate This is the same place
+Leaf:  S span that got hit with an 8.8 a couple years ago .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Remember that one ? That was so sad .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause It triggered a tsunami
+Leaf:  S span and 500 people were killed .
+Inner:  N Joint None Cause NS
+Leaf:  N Elaborate Not to mention the fact
+Leaf:  S span that there were 220,000 homes lost .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Condition NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation One piece of good news at least , since the 8.8 earthquake , they have put in a warning system for earthquakes and tsunamis . Thank God for that .
+Leaf:  S span That certainly ca n't prevent any earthquakes from happening ,
+Leaf:  N Condition but at least maybe it will save some lives
+Leaf:  S span if , or should I say " when " ,
+Leaf:  N Background the next earthquake occurs .
+Inner:  S span None Background SN
+Inner:  N Contrast None Condition NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Summary NS
+[('Here we go again .', None, None, None, 1), ('Another news report of another earthquake in Chile .', None, None, None, 1), ("Fortunately this one apparently did n't cause any damage ,", None, None, None, 0), ('but it was no slouch either at a magnitude 6.4 .', None, None, None, 1), ('Had the earthquake struck in a little different location ,', None, None, None, 0), ('who know', None, None, None, 0), ('what might have happened .', None, None, None, 1), ('This is the same place', None, None, None, 0), ('that got hit with an 8.8 a couple years ago .', None, None, None, 1), ('Remember that one ? That was so sad .', None, None, None, 1), ('It triggered a tsunami', None, None, None, 0), ('and 500 people were killed .', None, None, None, 1), ('Not to mention the fact', None, None, None, 0), ('that there were 220,000 homes lost .', None, None, None, 1), ('One piece of good news at least , since the 8.8 earthquake , they have put in a warning system for earthquakes and tsunamis . Thank God for that .', None, None, None, 1), ("That certainly ca n't prevent any earthquakes from happening ,", None, None, None, 0), ('but at least maybe it will save some lives', None, None, None, 0), ('if , or should I say " when " ,', None, None, None, 0), ('the next earthquake occurs .', None, None, None, 1)]

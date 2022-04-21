@@ -1,0 +1,25 @@
+=====================> [[('You know', None, None, None, 0), ('how you were having trouble sleeping ?', None, None, None, 1), ('Here , read about people', None, None, None, 0), ('who have tinnitus', None, None, None, 0), ("- it 'll put you to sleep .", None, None, None, 1), ('I feel like more should be done', None, None, None, 0), ('to help the seven percent', None, None, None, 0), ('who say', None, None, None, 0), ("their tinnitus is a big problem for them , though . That 's the same as any other psychiatric complaint , right ?", None, None, None, 1), ("If it 's affecting your life", None, None, None, 0), ("so that you ca n't function normally ,", None, None, None, 0), ('there should be some kind of help for you', None, None, None, 0)]]
+Leaf:  S span You know
+Leaf:  N Attribution how you were having trouble sleeping ?
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Elaborate Here , read about people
+Leaf:  S span who have tinnitus
+Inner:  S span None Elaborate NS
+Leaf:  N Enablement - it 'll put you to sleep .
+Inner:  N Topic-Comment None Enablement SN
+Inner:  N Evaluation None Topic-Comment NN
+Leaf:  N Enablement I feel like more should be done
+Leaf:  N Elaborate to help the seven percent
+Leaf:  S span who say
+Leaf:  N Attribution their tinnitus is a big problem for them , though . That 's the same as any other psychiatric complaint , right ?
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Cause If it 's affecting your life
+Leaf:  S span so that you ca n't function normally ,
+Inner:  S span None Cause NS
+Leaf:  N Condition there should be some kind of help for you
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('You know', None, None, None, 0), ('how you were having trouble sleeping ?', None, None, None, 1), ('Here , read about people', None, None, None, 0), ('who have tinnitus', None, None, None, 0), ("- it 'll put you to sleep .", None, None, None, 1), ('I feel like more should be done', None, None, None, 0), ('to help the seven percent', None, None, None, 0), ('who say', None, None, None, 0), ("their tinnitus is a big problem for them , though . That 's the same as any other psychiatric complaint , right ?", None, None, None, 1), ("If it 's affecting your life", None, None, None, 0), ("so that you ca n't function normally ,", None, None, None, 0), ('there should be some kind of help for you', None, None, None, 0)]

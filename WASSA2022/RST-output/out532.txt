@@ -1,0 +1,37 @@
+=====================> [[('Here is an article', None, None, None, 0), ('I just read about an accident at an amusement park in Australia .', None, None, None, 1), ("I 've never heard of Dreamworld , have you ?", None, None, None, 1), ('But the ride sounds like the old Shoot the Rapids', None, None, None, 0), ('we used to ride on at Cedar Point .', None, None, None, 1), ('In this case , the boat tipped over', None, None, None, 0), ('and people got trapped in the conveyor belt .', None, None, None, 1), ("I ca n't even imagine what the last moment of those people 's lives must have been like . As for the kids", None, None, None, 0), ('who saw it all happen', None, None, None, 0), ('-- there are no words !', None, None, None, 1), ('At least none of the children died in the accident .', None, None, None, 1), ('But now they have lost a parent .', None, None, None, 1), ('One of those kids was just a baby .', None, None, None, 1), ('Now she will never know her mother .', None, None, None, 1), ('I never thought about rides failing', None, None, None, 0), ('when we were kids', None, None, None, 0), ('and used to go to amusement parks ,', None, None, None, 0), ('but now I would probably not ride on any of that stuff .', None, None, None, 1)]]
+Leaf:  N Elaborate Here is an article
+Leaf:  S span I just read about an accident at an amusement park in Australia .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I 've never heard of Dreamworld , have you ?
+Leaf:  N Elaborate But the ride sounds like the old Shoot the Rapids
+Leaf:  S span we used to ride on at Cedar Point .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint In this case , the boat tipped over
+Leaf:  N Joint and people got trapped in the conveyor belt .
+Inner:  S span None Joint NN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate I ca n't even imagine what the last moment of those people 's lives must have been like . As for the kids
+Leaf:  S span who saw it all happen
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span -- there are no words !
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Summary NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span At least none of the children died in the accident .
+Leaf:  N Contrast But now they have lost a parent .
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span One of those kids was just a baby .
+Leaf:  N Background Now she will never know her mother .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Temporal I never thought about rides failing
+Leaf:  N Joint when we were kids
+Leaf:  N Joint and used to go to amusement parks ,
+Inner:  S span None Joint NN
+Inner:  S span None Temporal NS
+Leaf:  N Contrast but now I would probably not ride on any of that stuff .
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('Here is an article', None, None, None, 0), ('I just read about an accident at an amusement park in Australia .', None, None, None, 1), ("I 've never heard of Dreamworld , have you ?", None, None, None, 1), ('But the ride sounds like the old Shoot the Rapids', None, None, None, 0), ('we used to ride on at Cedar Point .', None, None, None, 1), ('In this case , the boat tipped over', None, None, None, 0), ('and people got trapped in the conveyor belt .', None, None, None, 1), ("I ca n't even imagine what the last moment of those people 's lives must have been like . As for the kids", None, None, None, 0), ('who saw it all happen', None, None, None, 0), ('-- there are no words !', None, None, None, 1), ('At least none of the children died in the accident .', None, None, None, 1), ('But now they have lost a parent .', None, None, None, 1), ('One of those kids was just a baby .', None, None, None, 1), ('Now she will never know her mother .', None, None, None, 1), ('I never thought about rides failing', None, None, None, 0), ('when we were kids', None, None, None, 0), ('and used to go to amusement parks ,', None, None, None, 0), ('but now I would probably not ride on any of that stuff .', None, None, None, 1)]

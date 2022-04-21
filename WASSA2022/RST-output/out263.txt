@@ -1,0 +1,19 @@
+=====================> [[('Dear friend , I have just finished reading the most heartbreaking article .', None, None, None, 1), ("I read the story of a man , Wesley O'Dell ,", None, None, None, 0), ('and his wife finding a tortured dead kitten on the side of the road .', None, None, None, 1), ('The kitten was wrapped in electrical cords', None, None, None, 0), ('and its jaw was ripped apart .', None, None, None, 1), ('The body was already stiff', None, None, None, 0), ("when they found it . Now O'Dell and his wide are asking people to share the story as an attempt", None, None, None, 0), ('to bring awareness to animal abuse', None, None, None, 0), ('and try to prevent it in the future .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just finished reading the most heartbreaking article .
+Leaf:  N Same-Unit I read the story of a man , Wesley O'Dell ,
+Leaf:  N Same-Unit and his wife finding a tortured dead kitten on the side of the road .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint The kitten was wrapped in electrical cords
+Leaf:  N Joint and its jaw was ripped apart .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The body was already stiff
+Leaf:  N Temporal when they found it . Now O'Dell and his wide are asking people to share the story as an attempt
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Joint to bring awareness to animal abuse
+Leaf:  N Joint and try to prevent it in the future .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just finished reading the most heartbreaking article .', None, None, None, 1), ("I read the story of a man , Wesley O'Dell ,", None, None, None, 0), ('and his wife finding a tortured dead kitten on the side of the road .', None, None, None, 1), ('The kitten was wrapped in electrical cords', None, None, None, 0), ('and its jaw was ripped apart .', None, None, None, 1), ('The body was already stiff', None, None, None, 0), ("when they found it . Now O'Dell and his wide are asking people to share the story as an attempt", None, None, None, 0), ('to bring awareness to animal abuse', None, None, None, 0), ('and try to prevent it in the future .', None, None, None, 1)]

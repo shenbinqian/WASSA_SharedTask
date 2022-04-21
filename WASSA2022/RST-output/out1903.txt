@@ -1,0 +1,27 @@
+=====================> [[('This is heartbreaking .', None, None, None, 1), ('That poor mother .', None, None, None, 1), ('I will never understand', None, None, None, 0), ('why people', None, None, None, 0), ('who plan', None, None, None, 0), ('to kill themselves', None, None, None, 0), ('feel the need', None, None, None, 0), ('to take the lives of others with them . And to kill your own children .', None, None, None, 1), ('The terror', None, None, None, 0), ('those children felt', None, None, None, 0), ('when they saw their own father pull out a gun', None, None, None, 0), ('and aim it at them .', None, None, None, 1), ('Why ? That kind of selfishness , the narcissism ... What a bastard .', None, None, None, 1)]]
+Leaf:  N Summary This is heartbreaking .
+Leaf:  N Elaborate That poor mother .
+Leaf:  S span I will never understand
+Leaf:  N Elaborate why people
+Leaf:  N Enablement who plan
+Leaf:  S span to kill themselves
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate feel the need
+Leaf:  S span to take the lives of others with them . And to kill your own children .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate The terror
+Leaf:  N Background those children felt
+Leaf:  N Temporal when they saw their own father pull out a gun
+Leaf:  N Temporal and aim it at them .
+Inner:  S span None Temporal NN
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Why ? That kind of selfishness , the narcissism ... What a bastard .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This is heartbreaking .', None, None, None, 1), ('That poor mother .', None, None, None, 1), ('I will never understand', None, None, None, 0), ('why people', None, None, None, 0), ('who plan', None, None, None, 0), ('to kill themselves', None, None, None, 0), ('feel the need', None, None, None, 0), ('to take the lives of others with them . And to kill your own children .', None, None, None, 1), ('The terror', None, None, None, 0), ('those children felt', None, None, None, 0), ('when they saw their own father pull out a gun', None, None, None, 0), ('and aim it at them .', None, None, None, 1), ('Why ? That kind of selfishness , the narcissism ... What a bastard .', None, None, None, 1)]

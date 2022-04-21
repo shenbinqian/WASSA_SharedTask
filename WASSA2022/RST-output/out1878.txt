@@ -1,0 +1,19 @@
+=====================> [[('What Kirk said', None, None, None, 0), ('was wrong', None, None, None, 0), ('and he should of apologized ,', None, None, None, 0), ('which he did .', None, None, None, 1), ('This partially rectifies the situation', None, None, None, 0), ('but it still reflects on him negatively .', None, None, None, 1), ("duckworth 's patritism should not of been questioned just because of her heritage .", None, None, None, 1), ('Just because she is Tai', None, None, None, 0), ('does not mean she is less likely to be devoted to the country .', None, None, None, 1)]]
+Leaf:  N Same-Unit What Kirk said
+Leaf:  N Same-Unit was wrong
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate and he should of apologized ,
+Leaf:  S span which he did .
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Cause None Evaluation NN
+Leaf:  S span This partially rectifies the situation
+Leaf:  N Contrast but it still reflects on him negatively .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation duckworth 's patritism should not of been questioned just because of her heritage .
+Leaf:  S span Just because she is Tai
+Leaf:  N Condition does not mean she is less likely to be devoted to the country .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('What Kirk said', None, None, None, 0), ('was wrong', None, None, None, 0), ('and he should of apologized ,', None, None, None, 0), ('which he did .', None, None, None, 1), ('This partially rectifies the situation', None, None, None, 0), ('but it still reflects on him negatively .', None, None, None, 1), ("duckworth 's patritism should not of been questioned just because of her heritage .", None, None, None, 1), ('Just because she is Tai', None, None, None, 0), ('does not mean she is less likely to be devoted to the country .', None, None, None, 1)]

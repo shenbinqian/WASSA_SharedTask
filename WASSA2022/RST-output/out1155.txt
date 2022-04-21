@@ -1,0 +1,17 @@
+=====================> [[('Wow , did you hear what happened to Mallika Sherawat in France ?', None, None, None, 1), ('She was gassed and beaten and robbed .', None, None, None, 1), ('That is unbelievable !', None, None, None, 1), ('So scary', None, None, None, 0), ('and it could happen to anyone everywhere .', None, None, None, 1), ('She is lucky to be alive .', None, None, None, 1), ('It is sad though that this story got mixed in with politics', None, None, None, 0), ("because it was n't even about Clinton , or Obama or Trump .", None, None, None, 1)]]
+Leaf:  N Elaborate Wow , did you hear what happened to Mallika Sherawat in France ?
+Leaf:  S span She was gassed and beaten and robbed .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate That is unbelievable !
+Leaf:  N Joint So scary
+Leaf:  N Joint and it could happen to anyone everywhere .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span She is lucky to be alive .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Explanation It is sad though that this story got mixed in with politics
+Leaf:  S span because it was n't even about Clinton , or Obama or Trump .
+Inner:  S span None Explanation NS
+Inner:  Root None None Topic-Change NS
+[('Wow , did you hear what happened to Mallika Sherawat in France ?', None, None, None, 1), ('She was gassed and beaten and robbed .', None, None, None, 1), ('That is unbelievable !', None, None, None, 1), ('So scary', None, None, None, 0), ('and it could happen to anyone everywhere .', None, None, None, 1), ('She is lucky to be alive .', None, None, None, 1), ('It is sad though that this story got mixed in with politics', None, None, None, 0), ("because it was n't even about Clinton , or Obama or Trump .", None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('I just read an article', None, None, None, 0), ('that the U.N. reports', None, None, None, 0), ('that ISIS has executed over 200 people near the Iraqi city of Mosul', None, None, None, 0), ('and is using thousands of people as human shields .', None, None, None, 1), ('The Iraqi forces are advancing against them', None, None, None, 0), ('and as a result , ISIS carried out mass killings ,', None, None, None, 0), ('punishing people', None, None, None, 0), ('who had defied its orders . They are even forcing women to wear gloves', None, None, None, 0), ('to completely cover themselves ,', None, None, None, 0), ('and accusing anyone', None, None, None, 0), ('who has even a cell phone', None, None, None, 0), ('of being a spy .', None, None, None, 1), ('It seems they are growing increasingly desperate', None, None, None, 0), ('and determined to take the lives and freedom of everyone in their path', None, None, None, 0), ('without regard to civility or even basic humanity . This scourge must be stopped ,', None, None, None, 0), ('it is so heartbreaking to read about these victims !', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  S span that the U.N. reports
+Leaf:  N Joint that ISIS has executed over 200 people near the Iraqi city of Mosul
+Leaf:  N Joint and is using thousands of people as human shields .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The Iraqi forces are advancing against them
+Leaf:  N Background and as a result , ISIS carried out mass killings ,
+Inner:  N Manner-Means None Background SN
+Leaf:  N Elaborate punishing people
+Leaf:  N Enablement who had defied its orders . They are even forcing women to wear gloves
+Leaf:  S span to completely cover themselves ,
+Inner:  S span None Enablement NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and accusing anyone
+Leaf:  S span who has even a cell phone
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit of being a spy .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint It seems they are growing increasingly desperate
+Leaf:  N Manner-Means and determined to take the lives and freedom of everyone in their path
+Leaf:  S span without regard to civility or even basic humanity . This scourge must be stopped ,
+Inner:  N Joint None Manner-Means NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span it is so heartbreaking to read about these victims !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read an article', None, None, None, 0), ('that the U.N. reports', None, None, None, 0), ('that ISIS has executed over 200 people near the Iraqi city of Mosul', None, None, None, 0), ('and is using thousands of people as human shields .', None, None, None, 1), ('The Iraqi forces are advancing against them', None, None, None, 0), ('and as a result , ISIS carried out mass killings ,', None, None, None, 0), ('punishing people', None, None, None, 0), ('who had defied its orders . They are even forcing women to wear gloves', None, None, None, 0), ('to completely cover themselves ,', None, None, None, 0), ('and accusing anyone', None, None, None, 0), ('who has even a cell phone', None, None, None, 0), ('of being a spy .', None, None, None, 1), ('It seems they are growing increasingly desperate', None, None, None, 0), ('and determined to take the lives and freedom of everyone in their path', None, None, None, 0), ('without regard to civility or even basic humanity . This scourge must be stopped ,', None, None, None, 0), ('it is so heartbreaking to read about these victims !', None, None, None, 1)]

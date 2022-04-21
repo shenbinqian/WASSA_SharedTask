@@ -1,0 +1,43 @@
+=====================> [[('I just read an article', None, None, None, 0), ('discussing the impact', None, None, None, 0), ('global warming is having on polar bears .', None, None, None, 1), ("It 's really troubling to read about just how much damage is being done ,", None, None, None, 0), ('and you KNOW', None, None, None, 0), ('that nobody is going to do anything about it for years here .', None, None, None, 1), ('We have a man-child president ,', None, None, None, 0), ('and', None, None, None, 0), ('while the majority of the biggest countries are trying to make policy changes', None, None, None, 0), ('to fight global warming ,', None, None, None, 0), ('our president is dismantling our E.P.A organization ,', None, None, None, 0), ('and putting idiots', None, None, None, 0), ("that do n't give two craps about the environment in charge . So when can we expect polar bears to go extinct ?", None, None, None, 1), ('Because you know', None, None, None, 0), ('by the time', None, None, None, 0), ('we get around to helping them ,', None, None, None, 0), ("it 'll be too late . The older , conservative generation just needs to go . Anyways , you should really read this article .", None, None, None, 1), ('I told you', None, None, None, 0), ('this was an issue', None, None, None, 0), ('that needed to be addressed ,', None, None, None, 0), ('so go read it .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article
+Leaf:  N Elaborate discussing the impact
+Leaf:  S span global warming is having on polar bears .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's really troubling to read about just how much damage is being done ,
+Leaf:  S span and you KNOW
+Leaf:  N Attribution that nobody is going to do anything about it for years here .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint We have a man-child president ,
+Leaf:  N Same-Unit and
+Leaf:  N Elaborate while the majority of the biggest countries are trying to make policy changes
+Leaf:  S span to fight global warming ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Leaf:  N Contrast our president is dismantling our E.P.A organization ,
+Inner:  N Joint None Contrast SN
+Leaf:  N Elaborate and putting idiots
+Leaf:  S span that do n't give two craps about the environment in charge . So when can we expect polar bears to go extinct ?
+Inner:  N Joint None Elaborate NS
+Inner:  N Joint None Joint NN
+Inner:  N Explanation None Joint NN
+Leaf:  S span Because you know
+Leaf:  N Elaborate by the time
+Leaf:  S span we get around to helping them ,
+Inner:  S span None Elaborate NS
+Leaf:  N Background it 'll be too late . The older , conservative generation just needs to go . Anyways , you should really read this article .
+Inner:  N Attribution None Background SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I told you
+Leaf:  N Elaborate this was an issue
+Leaf:  S span that needed to be addressed ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span so go read it .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('I just read an article', None, None, None, 0), ('discussing the impact', None, None, None, 0), ('global warming is having on polar bears .', None, None, None, 1), ("It 's really troubling to read about just how much damage is being done ,", None, None, None, 0), ('and you KNOW', None, None, None, 0), ('that nobody is going to do anything about it for years here .', None, None, None, 1), ('We have a man-child president ,', None, None, None, 0), ('and', None, None, None, 0), ('while the majority of the biggest countries are trying to make policy changes', None, None, None, 0), ('to fight global warming ,', None, None, None, 0), ('our president is dismantling our E.P.A organization ,', None, None, None, 0), ('and putting idiots', None, None, None, 0), ("that do n't give two craps about the environment in charge . So when can we expect polar bears to go extinct ?", None, None, None, 1), ('Because you know', None, None, None, 0), ('by the time', None, None, None, 0), ('we get around to helping them ,', None, None, None, 0), ("it 'll be too late . The older , conservative generation just needs to go . Anyways , you should really read this article .", None, None, None, 1), ('I told you', None, None, None, 0), ('this was an issue', None, None, None, 0), ('that needed to be addressed ,', None, None, None, 0), ('so go read it .', None, None, None, 1)]

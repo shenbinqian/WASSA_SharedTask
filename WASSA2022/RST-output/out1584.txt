@@ -1,0 +1,29 @@
+=====================> [[('There has been a lot of fires', None, None, None, 0), ('that are happening in the south .', None, None, None, 1), ('Many people are being told', None, None, None, 0), ('that they have to wear special masks', None, None, None, 0), ('if they want to go outside', None, None, None, 0), ('because of the smoke from the fires . People are also investigating', None, None, None, 0), ('to see what really caused the fire', None, None, None, 0), ('many people are suspecting', None, None, None, 0), ("that it 's arson", None, None, None, 0), ('that is causing a lot of these fires to happen . A lot of organizations are asking people to donate water and drinks for the firefighters', None, None, None, 0), ('to quench their thirst', None, None, None, 0), ('while fighting fires .', None, None, None, 1), ('It truly is a sad thing', None, None, None, 0), ('and hopefully this problem will be resolved sooner than later .', None, None, None, 1)]]
+Leaf:  N Elaborate There has been a lot of fires
+Leaf:  S span that are happening in the south .
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Many people are being told
+Leaf:  N Condition that they have to wear special masks
+Leaf:  S span if they want to go outside
+Inner:  N Cause None Condition NS
+Leaf:  N Enablement because of the smoke from the fires . People are also investigating
+Leaf:  S span to see what really caused the fire
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Cause NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span many people are suspecting
+Leaf:  N Elaborate that it 's arson
+Leaf:  S span that is causing a lot of these fires to happen . A lot of organizations are asking people to donate water and drinks for the firefighters
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Temporal to quench their thirst
+Leaf:  S span while fighting fires .
+Inner:  S span None Temporal NS
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Evaluation It truly is a sad thing
+Leaf:  S span and hopefully this problem will be resolved sooner than later .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('There has been a lot of fires', None, None, None, 0), ('that are happening in the south .', None, None, None, 1), ('Many people are being told', None, None, None, 0), ('that they have to wear special masks', None, None, None, 0), ('if they want to go outside', None, None, None, 0), ('because of the smoke from the fires . People are also investigating', None, None, None, 0), ('to see what really caused the fire', None, None, None, 0), ('many people are suspecting', None, None, None, 0), ("that it 's arson", None, None, None, 0), ('that is causing a lot of these fires to happen . A lot of organizations are asking people to donate water and drinks for the firefighters', None, None, None, 0), ('to quench their thirst', None, None, None, 0), ('while fighting fires .', None, None, None, 1), ('It truly is a sad thing', None, None, None, 0), ('and hopefully this problem will be resolved sooner than later .', None, None, None, 1)]

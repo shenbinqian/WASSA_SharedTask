@@ -1,0 +1,29 @@
+=====================> [[('I was bullied in school ,', None, None, None, 0), ('which led to self harm , and eventually a suicide attempt .', None, None, None, 1), ('This article reminded me so much of myself ,', None, None, None, 0), ('and I want to do something', None, None, None, 0), ('to put a stop this bullying .', None, None, None, 1), ('As I sit here', None, None, None, 0), ("with tears welling my eyes , now a mother , I ca n't imagine being in the shoes of these parents", None, None, None, 0), ('who lost their children', None, None, None, 0), ("all because other kids just ca n't be nice .", None, None, None, 1), ('I am so sad for these kids', None, None, None, 0), ('who saw no other way out of this mess', None, None, None, 0), ('than to just end their lives .', None, None, None, 1), ('Their pain is felt deeply in my soul ,', None, None, None, 0), ('and my wish is that somehow , someday , no one else will feel that kind of pain .', None, None, None, 1)]]
+Leaf:  N Cause I was bullied in school ,
+Leaf:  S span which led to self harm , and eventually a suicide attempt .
+Inner:  S span None Cause NS
+Leaf:  S span This article reminded me so much of myself ,
+Leaf:  N Enablement and I want to do something
+Leaf:  S span to put a stop this bullying .
+Inner:  N Cause None Enablement NS
+Inner:  N Evaluation None Cause SN
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Manner-Means As I sit here
+Leaf:  N Elaborate with tears welling my eyes , now a mother , I ca n't imagine being in the shoes of these parents
+Leaf:  N Cause who lost their children
+Leaf:  S span all because other kids just ca n't be nice .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate I am so sad for these kids
+Leaf:  N Same-Unit who saw no other way out of this mess
+Leaf:  N Same-Unit than to just end their lives .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint Their pain is felt deeply in my soul ,
+Leaf:  N Joint and my wish is that somehow , someday , no one else will feel that kind of pain .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I was bullied in school ,', None, None, None, 0), ('which led to self harm , and eventually a suicide attempt .', None, None, None, 1), ('This article reminded me so much of myself ,', None, None, None, 0), ('and I want to do something', None, None, None, 0), ('to put a stop this bullying .', None, None, None, 1), ('As I sit here', None, None, None, 0), ("with tears welling my eyes , now a mother , I ca n't imagine being in the shoes of these parents", None, None, None, 0), ('who lost their children', None, None, None, 0), ("all because other kids just ca n't be nice .", None, None, None, 1), ('I am so sad for these kids', None, None, None, 0), ('who saw no other way out of this mess', None, None, None, 0), ('than to just end their lives .', None, None, None, 1), ('Their pain is felt deeply in my soul ,', None, None, None, 0), ('and my wish is that somehow , someday , no one else will feel that kind of pain .', None, None, None, 1)]

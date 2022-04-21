@@ -1,0 +1,19 @@
+=====================> [[("If you hear a ringing in your occasionally , do n't be too alarmed .", None, None, None, 1), ('If you hear it persistently for quite some time ,', None, None, None, 0), ('I would be slightly worried and definitely more alarmed .', None, None, None, 1), ('This could mean that you eventually lose your hearing .', None, None, None, 1), ('Tinnitus is a common thing', None, None, None, 0), ('to experience and usually is nothing . But sometimes this can be an early sign', None, None, None, 0), ('that you could lose your hearing .', None, None, None, 1), ('I strongly encourage people to go and get this checked', None, None, None, 0), ('if they experience frequently and definitely educate yourself on it .', None, None, None, 1)]]
+Leaf:  N Explanation If you hear a ringing in your occasionally , do n't be too alarmed .
+Leaf:  S span If you hear it persistently for quite some time ,
+Leaf:  N Condition I would be slightly worried and definitely more alarmed .
+Inner:  S span None Condition SN
+Inner:  N Cause None Explanation NS
+Leaf:  S span This could mean that you eventually lose your hearing .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate Tinnitus is a common thing
+Leaf:  N Elaborate to experience and usually is nothing . But sometimes this can be an early sign
+Leaf:  S span that you could lose your hearing .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Condition I strongly encourage people to go and get this checked
+Leaf:  S span if they experience frequently and definitely educate yourself on it .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("If you hear a ringing in your occasionally , do n't be too alarmed .", None, None, None, 1), ('If you hear it persistently for quite some time ,', None, None, None, 0), ('I would be slightly worried and definitely more alarmed .', None, None, None, 1), ('This could mean that you eventually lose your hearing .', None, None, None, 1), ('Tinnitus is a common thing', None, None, None, 0), ('to experience and usually is nothing . But sometimes this can be an early sign', None, None, None, 0), ('that you could lose your hearing .', None, None, None, 1), ('I strongly encourage people to go and get this checked', None, None, None, 0), ('if they experience frequently and definitely educate yourself on it .', None, None, None, 1)]

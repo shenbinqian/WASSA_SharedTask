@@ -1,0 +1,23 @@
+=====================> [[('So one of Mariah Carey backup dancers got fired', None, None, None, 0), ('and banned from the Ceasers Palace .', None, None, None, 1), ('Her ex Packer got super jealous of the flirting between them', None, None, None, 0), ('and went all crazy on him .', None, None, None, 1), ('But I do not know', None, None, None, 0), ('why he cares', None, None, None, 0), ('since they broke up last month', None, None, None, 0), ('after something went on between him and her assistant .', None, None, None, 1), ('They say', None, None, None, 0), ('he did something bad to her', None, None, None, 0), ('but I bet he was trying to flirt with her as well .', None, None, None, 1)]]
+Leaf:  N Joint So one of Mariah Carey backup dancers got fired
+Leaf:  N Joint and banned from the Ceasers Palace .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Cause Her ex Packer got super jealous of the flirting between them
+Leaf:  N Cause and went all crazy on him .
+Inner:  N Elaborate None Cause NN
+Leaf:  S span But I do not know
+Leaf:  N Background why he cares
+Leaf:  N Background since they broke up last month
+Leaf:  S span after something went on between him and her assistant .
+Inner:  S span None Background NS
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They say
+Leaf:  N Contrast he did something bad to her
+Leaf:  N Contrast but I bet he was trying to flirt with her as well .
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('So one of Mariah Carey backup dancers got fired', None, None, None, 0), ('and banned from the Ceasers Palace .', None, None, None, 1), ('Her ex Packer got super jealous of the flirting between them', None, None, None, 0), ('and went all crazy on him .', None, None, None, 1), ('But I do not know', None, None, None, 0), ('why he cares', None, None, None, 0), ('since they broke up last month', None, None, None, 0), ('after something went on between him and her assistant .', None, None, None, 1), ('They say', None, None, None, 0), ('he did something bad to her', None, None, None, 0), ('but I bet he was trying to flirt with her as well .', None, None, None, 1)]

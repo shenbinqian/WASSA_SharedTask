@@ -1,0 +1,35 @@
+=====================> [[('Man , they are ruining the giraffe habitat of the Rothschild giraffe .', None, None, None, 1), ('It kind of sucks ,', None, None, None, 0), ('but what can you do ?', None, None, None, 1), ('All we do as humans is destroy nature anyway ,', None, None, None, 0), ('and', None, None, None, 0), ('when it comes right down to it ,', None, None, None, 0), ('I \'m sick of hearing about " This endangered species , That endangered species . "', None, None, None, 0), ('It is near nauseating to hear people continually express concern over things', None, None, None, 0), ('we can not even change . The habitats are going to be destroyed ,', None, None, None, 0), ('animals are going to die - so what ? As humans , we are a plague on the earth ,', None, None, None, 0), ('but pretending', None, None, None, 0), ('that is going to change any time soon', None, None, None, 0), ('is silly and fool-hearted .', None, None, None, 1), ('I wish', None, None, None, 0), ('people would stop pretending', None, None, None, 0), ('to be concerned over things', None, None, None, 0), ('that they ultimately have almost no influence on , anyway .', None, None, None, 1)]]
+Leaf:  N Evaluation Man , they are ruining the giraffe habitat of the Rothschild giraffe .
+Leaf:  S span It kind of sucks ,
+Leaf:  N Evaluation but what can you do ?
+Inner:  S span None Evaluation SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint All we do as humans is destroy nature anyway ,
+Leaf:  N Same-Unit and
+Leaf:  S span when it comes right down to it ,
+Leaf:  N Background I 'm sick of hearing about " This endangered species , That endangered species . "
+Inner:  N Same-Unit None Background SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate It is near nauseating to hear people continually express concern over things
+Leaf:  N Joint we can not even change . The habitats are going to be destroyed ,
+Leaf:  N Joint animals are going to die - so what ? As humans , we are a plague on the earth ,
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  S span but pretending
+Leaf:  N Attribution that is going to change any time soon
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit is silly and fool-hearted .
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span I wish
+Leaf:  S span people would stop pretending
+Leaf:  N Elaborate to be concerned over things
+Leaf:  S span that they ultimately have almost no influence on , anyway .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('Man , they are ruining the giraffe habitat of the Rothschild giraffe .', None, None, None, 1), ('It kind of sucks ,', None, None, None, 0), ('but what can you do ?', None, None, None, 1), ('All we do as humans is destroy nature anyway ,', None, None, None, 0), ('and', None, None, None, 0), ('when it comes right down to it ,', None, None, None, 0), ('I \'m sick of hearing about " This endangered species , That endangered species . "', None, None, None, 0), ('It is near nauseating to hear people continually express concern over things', None, None, None, 0), ('we can not even change . The habitats are going to be destroyed ,', None, None, None, 0), ('animals are going to die - so what ? As humans , we are a plague on the earth ,', None, None, None, 0), ('but pretending', None, None, None, 0), ('that is going to change any time soon', None, None, None, 0), ('is silly and fool-hearted .', None, None, None, 1), ('I wish', None, None, None, 0), ('people would stop pretending', None, None, None, 0), ('to be concerned over things', None, None, None, 0), ('that they ultimately have almost no influence on , anyway .', None, None, None, 1)]

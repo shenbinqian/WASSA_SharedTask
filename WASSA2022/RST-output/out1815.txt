@@ -1,0 +1,17 @@
+=====================> [[('I was reading about a few people', None, None, None, 0), ('that were killed', None, None, None, 0), ('as a result of Typhoon Meranti .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's fortunate that not too many people were killed during this storm .", None, None, None, 1), ('It seems like people have generally gotten better about heeding warnings about these powerful storms .', None, None, None, 1), ('However , it seems like infrastructure damage is something', None, None, None, 0), ('that needs to be analyzed .', None, None, None, 1)]]
+Leaf:  N Elaborate I was reading about a few people
+Leaf:  N Cause that were killed
+Leaf:  S span as a result of Typhoon Meranti .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution it 's fortunate that not too many people were killed during this storm .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span It seems like people have generally gotten better about heeding warnings about these powerful storms .
+Leaf:  N Elaborate However , it seems like infrastructure damage is something
+Leaf:  S span that needs to be analyzed .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('I was reading about a few people', None, None, None, 0), ('that were killed', None, None, None, 0), ('as a result of Typhoon Meranti .', None, None, None, 1), ('I think', None, None, None, 0), ("it 's fortunate that not too many people were killed during this storm .", None, None, None, 1), ('It seems like people have generally gotten better about heeding warnings about these powerful storms .', None, None, None, 1), ('However , it seems like infrastructure damage is something', None, None, None, 0), ('that needs to be analyzed .', None, None, None, 1)]

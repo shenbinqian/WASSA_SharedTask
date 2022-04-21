@@ -1,0 +1,27 @@
+=====================> [[('This is really interesting .', None, None, None, 1), ('Park ,', None, None, None, 0), ("who is n't the worst leader by any stretch of the imagination ,", None, None, None, 0), ('still is getting backlash for her behavior', None, None, None, 0), ('and the people and students are showing their distaste .', None, None, None, 1), ('The protesters are peaceful and well spoken', None, None, None, 0), ('and everything is clear ,', None, None, None, 0), ('they know', None, None, None, 0), ('what they want', None, None, None, 0), ('and are sharing it .', None, None, None, 1), ("Why ca n't we be more like this in America ? We have a liar for a president ,", None, None, None, 0), ('and nobody is remaining in the streets', None, None, None, 0), ("until it 's taken care of .", None, None, None, 1)]]
+Leaf:  N Elaborate This is really interesting .
+Leaf:  N Elaborate Park ,
+Leaf:  S span who is n't the worst leader by any stretch of the imagination ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit still is getting backlash for her behavior
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint and the people and students are showing their distaste .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint The protesters are peaceful and well spoken
+Leaf:  N Joint and everything is clear ,
+Inner:  N Joint None Joint NN
+Leaf:  S span they know
+Leaf:  N Attribution what they want
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and are sharing it .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint Why ca n't we be more like this in America ? We have a liar for a president ,
+Leaf:  N Condition and nobody is remaining in the streets
+Leaf:  S span until it 's taken care of .
+Inner:  N Joint None Condition NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is really interesting .', None, None, None, 1), ('Park ,', None, None, None, 0), ("who is n't the worst leader by any stretch of the imagination ,", None, None, None, 0), ('still is getting backlash for her behavior', None, None, None, 0), ('and the people and students are showing their distaste .', None, None, None, 1), ('The protesters are peaceful and well spoken', None, None, None, 0), ('and everything is clear ,', None, None, None, 0), ('they know', None, None, None, 0), ('what they want', None, None, None, 0), ('and are sharing it .', None, None, None, 1), ("Why ca n't we be more like this in America ? We have a liar for a president ,", None, None, None, 0), ('and nobody is remaining in the streets', None, None, None, 0), ("until it 's taken care of .", None, None, None, 1)]

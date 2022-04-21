@@ -1,0 +1,17 @@
+=====================> [[('i and my friend always remain together .', None, None, None, 1), ('he has done a lot of help for me .', None, None, None, 1), ('he has been very hard for some time', None, None, None, 0), ('to help me with money .', None, None, None, 1), ('but he did not expect me anything.he is one of my family .', None, None, None, 1), ('he has great affection', None, None, None, 0), ('for me.he and i have come together in the school season.from that day', None, None, None, 0), ('he and i were not separated .', None, None, None, 1)]]
+Leaf:  N Elaborate i and my friend always remain together .
+Leaf:  N Elaborate he has done a lot of help for me .
+Leaf:  N Enablement he has been very hard for some time
+Leaf:  S span to help me with money .
+Inner:  N Contrast None Enablement NS
+Leaf:  N Contrast but he did not expect me anything.he is one of my family .
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate he has great affection
+Leaf:  N Same-Unit for me.he and i have come together in the school season.from that day
+Leaf:  N Same-Unit he and i were not separated .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('i and my friend always remain together .', None, None, None, 1), ('he has done a lot of help for me .', None, None, None, 1), ('he has been very hard for some time', None, None, None, 0), ('to help me with money .', None, None, None, 1), ('but he did not expect me anything.he is one of my family .', None, None, None, 1), ('he has great affection', None, None, None, 0), ('for me.he and i have come together in the school season.from that day', None, None, None, 0), ('he and i were not separated .', None, None, None, 1)]

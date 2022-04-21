@@ -1,0 +1,25 @@
+=====================> [[('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem .', None, None, None, 1), ('So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem . So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem . So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem . So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem .', None, None, None, 1), ('So , this is must be injurious to the human body .', None, None, None, 1)]]
+Leaf:  S span The hydrogen is the poison gas .
+Leaf:  N Summary It may leads to severe health problem .
+Inner:  N Elaborate None Summary SN
+Leaf:  N Elaborate So , this is must be injurious to the human body .
+Leaf:  S span The hydrogen is the poison gas .
+Leaf:  N Background It may leads to severe health problem . So , this is must be injurious to the human body .
+Inner:  N Elaborate None Background SN
+Leaf:  S span The hydrogen is the poison gas .
+Leaf:  N Background It may leads to severe health problem . So , this is must be injurious to the human body .
+Inner:  N Elaborate None Background SN
+Leaf:  S span The hydrogen is the poison gas .
+Leaf:  N Background It may leads to severe health problem . So , this is must be injurious to the human body .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The hydrogen is the poison gas .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It may leads to severe health problem .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span So , this is must be injurious to the human body .
+Inner:  Root None None Elaborate NS
+[('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem .', None, None, None, 1), ('So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem . So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem . So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem . So , this is must be injurious to the human body .', None, None, None, 1), ('The hydrogen is the poison gas .', None, None, None, 1), ('It may leads to severe health problem .', None, None, None, 1), ('So , this is must be injurious to the human body .', None, None, None, 1)]

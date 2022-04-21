@@ -1,0 +1,19 @@
+=====================> [[('This is a terrible story ,', None, None, None, 0), ("but we ca n't go so far", None, None, None, 0), ('as to blame an entire religion for the actions of some .', None, None, None, 1), ('We hope', None, None, None, 0), ('what happened to Paris never happens again ,', None, None, None, 0), ('but we simply need a bit more security and people with their eyes open', None, None, None, 0), ('- not attitudes against an entire religion or people .', None, None, None, 1), ('Consider these unfortunate ways', None, None, None, 0), ('of rallying countries behind one cause of peace .', None, None, None, 1)]]
+Leaf:  N Contrast This is a terrible story ,
+Leaf:  N Cause but we ca n't go so far
+Leaf:  S span as to blame an entire religion for the actions of some .
+Inner:  N Contrast None Cause NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  S span We hope
+Leaf:  N Attribution what happened to Paris never happens again ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Joint but we simply need a bit more security and people with their eyes open
+Leaf:  N Joint - not attitudes against an entire religion or people .
+Inner:  S span None Joint NN
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Consider these unfortunate ways
+Leaf:  S span of rallying countries behind one cause of peace .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('This is a terrible story ,', None, None, None, 0), ("but we ca n't go so far", None, None, None, 0), ('as to blame an entire religion for the actions of some .', None, None, None, 1), ('We hope', None, None, None, 0), ('what happened to Paris never happens again ,', None, None, None, 0), ('but we simply need a bit more security and people with their eyes open', None, None, None, 0), ('- not attitudes against an entire religion or people .', None, None, None, 1), ('Consider these unfortunate ways', None, None, None, 0), ('of rallying countries behind one cause of peace .', None, None, None, 1)]

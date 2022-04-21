@@ -1,0 +1,21 @@
+=====================> [[('Rhinos are going extinct ,', None, None, None, 0), ('and it s a real shame', None, None, None, 0), ('since they do nothing', None, None, None, 0), ('to harm human life .', None, None, None, 1), ('They are a majestic creature', None, None, None, 0), ('with much to offer . However , they are being killed', None, None, None, 0), ('because of poachers and their horn .', None, None, None, 1), ('The black rhino is almost extinct .', None, None, None, 1), ('Only about five thousand still exist in the world today ,', None, None, None, 0), ('and this is a real shame .', None, None, None, 1)]]
+Leaf:  N Evaluation Rhinos are going extinct ,
+Leaf:  N Explanation and it s a real shame
+Leaf:  N Elaborate since they do nothing
+Leaf:  S span to harm human life .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate They are a majestic creature
+Leaf:  N Cause with much to offer . However , they are being killed
+Leaf:  S span because of poachers and their horn .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause The black rhino is almost extinct .
+Leaf:  N Evaluation Only about five thousand still exist in the world today ,
+Leaf:  S span and this is a real shame .
+Inner:  S span None Evaluation NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Rhinos are going extinct ,', None, None, None, 0), ('and it s a real shame', None, None, None, 0), ('since they do nothing', None, None, None, 0), ('to harm human life .', None, None, None, 1), ('They are a majestic creature', None, None, None, 0), ('with much to offer . However , they are being killed', None, None, None, 0), ('because of poachers and their horn .', None, None, None, 1), ('The black rhino is almost extinct .', None, None, None, 1), ('Only about five thousand still exist in the world today ,', None, None, None, 0), ('and this is a real shame .', None, None, None, 1)]

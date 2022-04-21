@@ -1,0 +1,25 @@
+=====================> [[("That 's really strange", None, None, None, 0), ('that people would make such a big deal', None, None, None, 0), ('about her', None, None, None, 0), ('being single and running for office .', None, None, None, 1), ('That seems really petty ,', None, None, None, 0), ('I wish', None, None, None, 0), ('people would focus all their attention on the real issues', None, None, None, 0), ('when it comes to politics .', None, None, None, 1), ("It seemed like the rules for Moldova did n't consider", None, None, None, 0), ('that a single person might run ,', None, None, None, 0), ('I think', None, None, None, 0), ('they should update it .', None, None, None, 1)]]
+Leaf:  S span That 's really strange
+Leaf:  N Elaborate that people would make such a big deal
+Leaf:  N Elaborate about her
+Leaf:  S span being single and running for office .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation That seems really petty ,
+Leaf:  S span I wish
+Leaf:  N Background people would focus all their attention on the real issues
+Leaf:  S span when it comes to politics .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span It seemed like the rules for Moldova did n't consider
+Leaf:  N Attribution that a single person might run ,
+Inner:  S span None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution they should update it .
+Inner:  N Evaluation None Attribution SN
+Inner:  S span None Evaluation SN
+Inner:  Root None None Elaborate NS
+[("That 's really strange", None, None, None, 0), ('that people would make such a big deal', None, None, None, 0), ('about her', None, None, None, 0), ('being single and running for office .', None, None, None, 1), ('That seems really petty ,', None, None, None, 0), ('I wish', None, None, None, 0), ('people would focus all their attention on the real issues', None, None, None, 0), ('when it comes to politics .', None, None, None, 1), ("It seemed like the rules for Moldova did n't consider", None, None, None, 0), ('that a single person might run ,', None, None, None, 0), ('I think', None, None, None, 0), ('they should update it .', None, None, None, 1)]

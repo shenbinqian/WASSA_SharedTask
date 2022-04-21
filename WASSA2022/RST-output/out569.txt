@@ -1,0 +1,15 @@
+=====================> [[('This poor family lost the father just a short time ago !', None, None, None, 1), ('Now she is sick and suffering .', None, None, None, 1), ('Please keep this family in your thoughts and prayers in the next few days', None, None, None, 0), ('as they treat her .', None, None, None, 1), ('I hope', None, None, None, 0), ('her family is able to be there with her during this hard time ,', None, None, None, 0), ('and that they are able to help her in her recovery .', None, None, None, 1)]]
+Leaf:  N Cause This poor family lost the father just a short time ago !
+Leaf:  S span Now she is sick and suffering .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Background Please keep this family in your thoughts and prayers in the next few days
+Leaf:  S span as they treat her .
+Inner:  N Elaborate None Background NS
+Leaf:  S span I hope
+Leaf:  N Joint her family is able to be there with her during this hard time ,
+Leaf:  N Joint and that they are able to help her in her recovery .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This poor family lost the father just a short time ago !', None, None, None, 1), ('Now she is sick and suffering .', None, None, None, 1), ('Please keep this family in your thoughts and prayers in the next few days', None, None, None, 0), ('as they treat her .', None, None, None, 1), ('I hope', None, None, None, 0), ('her family is able to be there with her during this hard time ,', None, None, None, 0), ('and that they are able to help her in her recovery .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('This is definitely an upsetting thing', None, None, None, 0), ('that has happened .', None, None, None, 1), ('We like to think', None, None, None, 0), ('that', None, None, None, 0), ('when we go to a theme park ,', None, None, None, 0), ('all the rides are completely safe and maintained well .', None, None, None, 1), ('But there is always a risk , however small ,', None, None, None, 0), ('that something tragic could happen . Even in a safe environment like a well-maintained park , we need to keep up our guard', None, None, None, 0), ('and use good judgment .', None, None, None, 1)]]
+Leaf:  N Elaborate This is definitely an upsetting thing
+Leaf:  S span that has happened .
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span We like to think
+Leaf:  N Same-Unit that
+Leaf:  S span when we go to a theme park ,
+Leaf:  N Background all the rides are completely safe and maintained well .
+Inner:  N Same-Unit None Background SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate But there is always a risk , however small ,
+Leaf:  N Joint that something tragic could happen . Even in a safe environment like a well-maintained park , we need to keep up our guard
+Leaf:  N Joint and use good judgment .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  Root None None Explanation NS
+[('This is definitely an upsetting thing', None, None, None, 0), ('that has happened .', None, None, None, 1), ('We like to think', None, None, None, 0), ('that', None, None, None, 0), ('when we go to a theme park ,', None, None, None, 0), ('all the rides are completely safe and maintained well .', None, None, None, 1), ('But there is always a risk , however small ,', None, None, None, 0), ('that something tragic could happen . Even in a safe environment like a well-maintained park , we need to keep up our guard', None, None, None, 0), ('and use good judgment .', None, None, None, 1)]

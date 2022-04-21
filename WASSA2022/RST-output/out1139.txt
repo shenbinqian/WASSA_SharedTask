@@ -1,0 +1,35 @@
+=====================> [[('I find', None, None, None, 0), ('that it is of a truth ,', None, None, None, 0), ('and am writing to you', None, None, None, 0), ('regarding this situation', None, None, None, 0), ('that is erupting in Yemen ,', None, None, None, 0), ('that after the peace talks collapsed security and safety for citizens in these areas has greatly decreased .', None, None, None, 1), ('I find', None, None, None, 0), ('that how America feels about it , and others around the world , is more correct , than in error .', None, None, None, 1), ('Whereby they are appalled by all the violence and blood shed .', None, None, None, 1), ('I feel personally', None, None, None, 0), ('that each party should consider the welfare of the people at large , than any self-aggrandizements , and personal power plays .', None, None, None, 1), ('It they can become more self-less , and less selfish ,', None, None, None, 0), ('they will make decisions', None, None, None, 0), ('that are in the best interest and safety of the people of Yemen ,', None, None, None, 0), ('aside and apart of whatever their political idealogies may be ,', None, None, None, 0), ('when they are saving lives ,', None, None, None, 0), ('and not just garnering votes , or political power', None, None, None, 0)]]
+Leaf:  S span I find
+Leaf:  N Attribution that it is of a truth ,
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and am writing to you
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Elaborate regarding this situation
+Leaf:  S span that is erupting in Yemen ,
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Same-Unit None Same-Unit NN
+Leaf:  N Same-Unit that after the peace talks collapsed security and safety for citizens in these areas has greatly decreased .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I find
+Leaf:  N Attribution that how America feels about it , and others around the world , is more correct , than in error .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Whereby they are appalled by all the violence and blood shed .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I feel personally
+Leaf:  N Attribution that each party should consider the welfare of the people at large , than any self-aggrandizements , and personal power plays .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It they can become more self-less , and less selfish ,
+Leaf:  N Elaborate they will make decisions
+Leaf:  S span that are in the best interest and safety of the people of Yemen ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Temporal aside and apart of whatever their political idealogies may be ,
+Leaf:  N Joint when they are saving lives ,
+Leaf:  N Joint and not just garnering votes , or political power
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Temporal NS
+Inner:  N Condition None Same-Unit NN
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I find', None, None, None, 0), ('that it is of a truth ,', None, None, None, 0), ('and am writing to you', None, None, None, 0), ('regarding this situation', None, None, None, 0), ('that is erupting in Yemen ,', None, None, None, 0), ('that after the peace talks collapsed security and safety for citizens in these areas has greatly decreased .', None, None, None, 1), ('I find', None, None, None, 0), ('that how America feels about it , and others around the world , is more correct , than in error .', None, None, None, 1), ('Whereby they are appalled by all the violence and blood shed .', None, None, None, 1), ('I feel personally', None, None, None, 0), ('that each party should consider the welfare of the people at large , than any self-aggrandizements , and personal power plays .', None, None, None, 1), ('It they can become more self-less , and less selfish ,', None, None, None, 0), ('they will make decisions', None, None, None, 0), ('that are in the best interest and safety of the people of Yemen ,', None, None, None, 0), ('aside and apart of whatever their political idealogies may be ,', None, None, None, 0), ('when they are saving lives ,', None, None, None, 0), ('and not just garnering votes , or political power', None, None, None, 0)]

@@ -1,0 +1,17 @@
+=====================> [[('A hurricane is about to hit Taiwan soon .', None, None, None, 1), ("It 's supposed to be really big , the biggest since 1969 .", None, None, None, 1), ('We just had some really awful hurricanes in the West too .', None, None, None, 1), ('The ones here were caused by global warming ,', None, None, None, 0), ('so I wonder', None, None, None, 0), ("if China 's are too ?", None, None, None, 1), ("It 's horrible that so many people will lose their homes or their lives", None, None, None, 0), ('just so rich executives can make a few bucks more .', None, None, None, 1)]]
+Leaf:  N Elaborate A hurricane is about to hit Taiwan soon .
+Leaf:  S span It 's supposed to be really big , the biggest since 1969 .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate We just had some really awful hurricanes in the West too .
+Leaf:  S span The ones here were caused by global warming ,
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span so I wonder
+Leaf:  N Attribution if China 's are too ?
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Enablement It 's horrible that so many people will lose their homes or their lives
+Leaf:  S span just so rich executives can make a few bucks more .
+Inner:  S span None Enablement NS
+Inner:  Root None None Evaluation NS
+[('A hurricane is about to hit Taiwan soon .', None, None, None, 1), ("It 's supposed to be really big , the biggest since 1969 .", None, None, None, 1), ('We just had some really awful hurricanes in the West too .', None, None, None, 1), ('The ones here were caused by global warming ,', None, None, None, 0), ('so I wonder', None, None, None, 0), ("if China 's are too ?", None, None, None, 1), ("It 's horrible that so many people will lose their homes or their lives", None, None, None, 0), ('just so rich executives can make a few bucks more .', None, None, None, 1)]

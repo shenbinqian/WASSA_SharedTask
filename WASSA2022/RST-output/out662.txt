@@ -1,0 +1,17 @@
+=====================> [[("This person 's actions were way over the top !", None, None, None, 1), ('While I may not necessarily like that Trump is in office', None, None, None, 0), ('but I still respect the fact', None, None, None, 0), ('that he is where he is .', None, None, None, 1), ("Just because I did n't get my way does n't mean that I would act like this !", None, None, None, 1), ('This person took away from others', None, None, None, 0), ('and should be punished', None, None, None, 0), ('for what they did .', None, None, None, 1)]]
+Leaf:  N Elaborate This person 's actions were way over the top !
+Leaf:  S span While I may not necessarily like that Trump is in office
+Leaf:  N Elaborate but I still respect the fact
+Leaf:  S span that he is where he is .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  S span Just because I did n't get my way does n't mean that I would act like this !
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint This person took away from others
+Leaf:  N Explanation and should be punished
+Leaf:  S span for what they did .
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[("This person 's actions were way over the top !", None, None, None, 1), ('While I may not necessarily like that Trump is in office', None, None, None, 0), ('but I still respect the fact', None, None, None, 0), ('that he is where he is .', None, None, None, 1), ("Just because I did n't get my way does n't mean that I would act like this !", None, None, None, 1), ('This person took away from others', None, None, None, 0), ('and should be punished', None, None, None, 0), ('for what they did .', None, None, None, 1)]

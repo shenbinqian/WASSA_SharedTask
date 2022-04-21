@@ -1,0 +1,17 @@
+=====================> [[('For all the married couples out there , please think twice', None, None, None, 0), ('before you cheat on your beloved spouse .', None, None, None, 1), ('Is it really worth to throw away years of experiences down the drain', None, None, None, 0), ('just to have fun with a random stranger for a night ?', None, None, None, 1), ('These celebrity scandals are such a joke ,', None, None, None, 0), ('all the times', None, None, None, 0), ('I look on the news', None, None, None, 0), ('and these relationships barely last .', None, None, None, 1)]]
+Leaf:  N Condition For all the married couples out there , please think twice
+Leaf:  S span before you cheat on your beloved spouse .
+Inner:  N Evaluation None Condition NS
+Leaf:  N Enablement Is it really worth to throw away years of experiences down the drain
+Leaf:  S span just to have fun with a random stranger for a night ?
+Inner:  S span None Enablement NS
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Explanation These celebrity scandals are such a joke ,
+Leaf:  N Elaborate all the times
+Leaf:  S span I look on the news
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and these relationships barely last .
+Inner:  S span None Same-Unit NN
+Inner:  N Topic-Change None Explanation NS
+Inner:  Root None None Topic-Change NN
+[('For all the married couples out there , please think twice', None, None, None, 0), ('before you cheat on your beloved spouse .', None, None, None, 1), ('Is it really worth to throw away years of experiences down the drain', None, None, None, 0), ('just to have fun with a random stranger for a night ?', None, None, None, 1), ('These celebrity scandals are such a joke ,', None, None, None, 0), ('all the times', None, None, None, 0), ('I look on the news', None, None, None, 0), ('and these relationships barely last .', None, None, None, 1)]

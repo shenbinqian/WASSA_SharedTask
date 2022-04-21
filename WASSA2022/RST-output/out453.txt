@@ -1,0 +1,25 @@
+=====================> [[('The Flint , Michigan water crisis is out of control .', None, None, None, 1), ("It seems like there is n't much being done", None, None, None, 0), ('to help them get cleaner water .', None, None, None, 1), ('We need to do everything', None, None, None, 0), ('we can', None, None, None, 0), ('to help them .', None, None, None, 1), ('Children are being hospitalized', None, None, None, 0), ('because of the cities incompetence .', None, None, None, 1), ('No one should have to go without clean water ,', None, None, None, 0), ('and', None, None, None, 0), ('because we live in the United States ,', None, None, None, 0), ("it 's especially true .", None, None, None, 1)]]
+Leaf:  N Summary The Flint , Michigan water crisis is out of control .
+Leaf:  N Enablement It seems like there is n't much being done
+Leaf:  S span to help them get cleaner water .
+Inner:  N Cause None Enablement NS
+Leaf:  N Elaborate We need to do everything
+Leaf:  S span we can
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to help them .
+Inner:  S span None Enablement NS
+Inner:  S span None Cause NS
+Inner:  N Cause None Summary NS
+Leaf:  N Cause Children are being hospitalized
+Leaf:  S span because of the cities incompetence .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Joint No one should have to go without clean water ,
+Leaf:  N Same-Unit and
+Leaf:  S span because we live in the United States ,
+Leaf:  N Background it 's especially true .
+Inner:  N Same-Unit None Background SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The Flint , Michigan water crisis is out of control .', None, None, None, 1), ("It seems like there is n't much being done", None, None, None, 0), ('to help them get cleaner water .', None, None, None, 1), ('We need to do everything', None, None, None, 0), ('we can', None, None, None, 0), ('to help them .', None, None, None, 1), ('Children are being hospitalized', None, None, None, 0), ('because of the cities incompetence .', None, None, None, 1), ('No one should have to go without clean water ,', None, None, None, 0), ('and', None, None, None, 0), ('because we live in the United States ,', None, None, None, 0), ("it 's especially true .", None, None, None, 1)]

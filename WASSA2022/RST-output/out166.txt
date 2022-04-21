@@ -1,0 +1,21 @@
+=====================> [[('This does not surprise me .', None, None, None, 1), ('The people on RHONY are kind of trashy .', None, None, None, 1), ('So , it is not hard to believe', None, None, None, 0), ('they were married to a person', None, None, None, 0), ('who would do something like this .', None, None, None, 1), ('It does not really sound like a big deal either .', None, None, None, 1), ('He could have done much worse .', None, None, None, 1), ('Did she even lose money', None, None, None, 0), ('because of this ?', None, None, None, 1), ('I would guess not .', None, None, None, 1)]]
+Leaf:  N Explanation This does not surprise me .
+Leaf:  N Cause The people on RHONY are kind of trashy .
+Leaf:  S span So , it is not hard to believe
+Leaf:  N Elaborate they were married to a person
+Leaf:  S span who would do something like this .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation It does not really sound like a big deal either .
+Leaf:  S span He could have done much worse .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause Did she even lose money
+Leaf:  S span because of this ?
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Cause NS
+Leaf:  S span I would guess not .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This does not surprise me .', None, None, None, 1), ('The people on RHONY are kind of trashy .', None, None, None, 1), ('So , it is not hard to believe', None, None, None, 0), ('they were married to a person', None, None, None, 0), ('who would do something like this .', None, None, None, 1), ('It does not really sound like a big deal either .', None, None, None, 1), ('He could have done much worse .', None, None, None, 1), ('Did she even lose money', None, None, None, 0), ('because of this ?', None, None, None, 1), ('I would guess not .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[("Did you hear about the polar bear name Pizza called the word 's saddest polar bear ?", None, None, None, 1), ('Apparently they are not treating it well in China', None, None, None, 0), ('by not giving it enough space', None, None, None, 0), ('and turning his life into a circus show .', None, None, None, 1), ('He started to inflict self harm', None, None, None, 0), ('because of his living condition . I really hope China comes up with better animal cruelty laws', None, None, None, 0), ('although I doubt', None, None, None, 0), ('this will happen', None, None, None, 0), ('because of our culture difference .', None, None, None, 1), ('It makes me furious knowing', None, None, None, 0), ('animals are being treated like this over there .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about the polar bear name Pizza called the word 's saddest polar bear ?
+Leaf:  N Manner-Means Apparently they are not treating it well in China
+Leaf:  N Joint by not giving it enough space
+Leaf:  N Joint and turning his life into a circus show .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Cause He started to inflict self harm
+Leaf:  S span because of his living condition . I really hope China comes up with better animal cruelty laws
+Inner:  N Contrast None Cause NS
+Leaf:  S span although I doubt
+Leaf:  N Cause this will happen
+Leaf:  S span because of our culture difference .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It makes me furious knowing
+Leaf:  N Attribution animals are being treated like this over there .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("Did you hear about the polar bear name Pizza called the word 's saddest polar bear ?", None, None, None, 1), ('Apparently they are not treating it well in China', None, None, None, 0), ('by not giving it enough space', None, None, None, 0), ('and turning his life into a circus show .', None, None, None, 1), ('He started to inflict self harm', None, None, None, 0), ('because of his living condition . I really hope China comes up with better animal cruelty laws', None, None, None, 0), ('although I doubt', None, None, None, 0), ('this will happen', None, None, None, 0), ('because of our culture difference .', None, None, None, 1), ('It makes me furious knowing', None, None, None, 0), ('animals are being treated like this over there .', None, None, None, 1)]

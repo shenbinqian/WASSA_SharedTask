@@ -1,0 +1,33 @@
+=====================> [[('Hey , I wonder', None, None, None, 0), ('if this crash is related to terrorism .', None, None, None, 1), ('I bet it was . Seems like big accidents nowadays has something to do with terrorism .', None, None, None, 1), ('You got any family from Delaware ?', None, None, None, 1), ("I do n't .", None, None, None, 1), ('There is one thing', None, None, None, 0), ('I know ,', None, None, None, 0), ("that I do n't want to die in a vehicle accident .", None, None, None, 1), ('That has to be terrible .', None, None, None, 1), ('I guess', None, None, None, 0), ("if it 's instant death", None, None, None, 0), ("then it 's okay . I just do n't want to suffer for a long time .", None, None, None, 1), ('I hope', None, None, None, 0), ('the people', None, None, None, 0), ('taken to the hospital', None, None, None, 0), ('are okay .', None, None, None, 1)]]
+Leaf:  S span Hey , I wonder
+Leaf:  N Attribution if this crash is related to terrorism .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I bet it was . Seems like big accidents nowadays has something to do with terrorism .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span You got any family from Delaware ?
+Inner:  S span None Elaborate NS
+Leaf:  N Evaluation I do n't .
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Elaborate There is one thing
+Leaf:  S span I know ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that I do n't want to die in a vehicle accident .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span That has to be terrible .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I guess
+Leaf:  S span if it 's instant death
+Leaf:  N Condition then it 's okay . I just do n't want to suffer for a long time .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Elaborate the people
+Leaf:  S span taken to the hospital
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are okay .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey , I wonder', None, None, None, 0), ('if this crash is related to terrorism .', None, None, None, 1), ('I bet it was . Seems like big accidents nowadays has something to do with terrorism .', None, None, None, 1), ('You got any family from Delaware ?', None, None, None, 1), ("I do n't .", None, None, None, 1), ('There is one thing', None, None, None, 0), ('I know ,', None, None, None, 0), ("that I do n't want to die in a vehicle accident .", None, None, None, 1), ('That has to be terrible .', None, None, None, 1), ('I guess', None, None, None, 0), ("if it 's instant death", None, None, None, 0), ("then it 's okay . I just do n't want to suffer for a long time .", None, None, None, 1), ('I hope', None, None, None, 0), ('the people', None, None, None, 0), ('taken to the hospital', None, None, None, 0), ('are okay .', None, None, None, 1)]

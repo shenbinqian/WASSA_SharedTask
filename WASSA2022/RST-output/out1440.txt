@@ -1,0 +1,17 @@
+=====================> [[('Trump and his administration are horrible people .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('( okay maybe I can )', None, None, None, 0), ('that they would behave like that .', None, None, None, 1), ('There is nothing wrong with LGBT individuals . We need more representation in this country', None, None, None, 0), ('and politicians need to stop pushing their backwards beliefs onto others .', None, None, None, 1), ('LGBT deserve to live just as much as everyone else ,', None, None, None, 0), ('and they deserve their freedom too .', None, None, None, 1)]]
+Leaf:  N Summary Trump and his administration are horrible people .
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution ( okay maybe I can )
+Inner:  S span None Attribution SN
+Leaf:  N Attribution that they would behave like that .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Summary NS
+Leaf:  N Joint There is nothing wrong with LGBT individuals . We need more representation in this country
+Leaf:  N Joint and politicians need to stop pushing their backwards beliefs onto others .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint LGBT deserve to live just as much as everyone else ,
+Leaf:  N Joint and they deserve their freedom too .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Trump and his administration are horrible people .', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('( okay maybe I can )', None, None, None, 0), ('that they would behave like that .', None, None, None, 1), ('There is nothing wrong with LGBT individuals . We need more representation in this country', None, None, None, 0), ('and politicians need to stop pushing their backwards beliefs onto others .', None, None, None, 1), ('LGBT deserve to live just as much as everyone else ,', None, None, None, 0), ('and they deserve their freedom too .', None, None, None, 1)]

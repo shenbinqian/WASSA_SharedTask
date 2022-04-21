@@ -1,0 +1,17 @@
+=====================> [[('Its crazy that really intense and sad situations are happening around the world', None, None, None, 0), ('but here in USA were worried more', None, None, None, 0), ('about who made it passed the first round of the Voice or whats the latest viral videos .', None, None, None, 1), ('The fact', None, None, None, 0), ('the extremists are using innocent civilians as human shields', None, None, None, 0), ('is so cowardly', None, None, None, 0), ('and shows', None, None, None, 0), ('they have no honor what so ever .', None, None, None, 1)]]
+Leaf:  N Contrast Its crazy that really intense and sad situations are happening around the world
+Leaf:  N Elaborate but here in USA were worried more
+Leaf:  S span about who made it passed the first round of the Voice or whats the latest viral videos .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Elaborate The fact
+Leaf:  S span the extremists are using innocent civilians as human shields
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is so cowardly
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span and shows
+Leaf:  N Attribution they have no honor what so ever .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Its crazy that really intense and sad situations are happening around the world', None, None, None, 0), ('but here in USA were worried more', None, None, None, 0), ('about who made it passed the first round of the Voice or whats the latest viral videos .', None, None, None, 1), ('The fact', None, None, None, 0), ('the extremists are using innocent civilians as human shields', None, None, None, 0), ('is so cowardly', None, None, None, 0), ('and shows', None, None, None, 0), ('they have no honor what so ever .', None, None, None, 1)]

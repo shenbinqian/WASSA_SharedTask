@@ -1,0 +1,39 @@
+=====================> [[('You know ,', None, None, None, 0), ('the world has progressed so far in the last few hundreds years ,', None, None, None, 0), ('that it is slight off kilter', None, None, None, 0), ('that we allow the disappearance of goods and services to ensue .', None, None, None, 1), ('Is it always the fault of big business and government', None, None, None, 0), ('to allow things to go wrong as the case with diseases coconut and the potential', None, None, None, 0), ('that they can not be saved .', None, None, None, 1), ('Are we not smart enough', None, None, None, 0), ('to ensure', None, None, None, 0), ('that', None, None, None, 0), ('before something disappears from the face of the earth ,', None, None, None, 0), ('that we find a way', None, None, None, 0), ('to correct it ,', None, None, None, 0), ('protect it , live with it .', None, None, None, 1), ('What happens', None, None, None, 0), ('when we run out of coconuts .', None, None, None, 1), ('Nothing bad will happen', None, None, None, 0), ('but we need not exploit things', None, None, None, 0), ('just cause we can .', None, None, None, 1)]]
+Leaf:  S span You know ,
+Leaf:  N Cause the world has progressed so far in the last few hundreds years ,
+Leaf:  N Cause that it is slight off kilter
+Leaf:  S span that we allow the disappearance of goods and services to ensue .
+Inner:  S span None Cause NS
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Is it always the fault of big business and government
+Leaf:  N Elaborate to allow things to go wrong as the case with diseases coconut and the potential
+Leaf:  S span that they can not be saved .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Are we not smart enough
+Leaf:  S span to ensure
+Leaf:  N Attribution that
+Inner:  N Same-Unit None Attribution SN
+Leaf:  S span before something disappears from the face of the earth ,
+Leaf:  N Elaborate that we find a way
+Leaf:  N Joint to correct it ,
+Leaf:  N Joint protect it , live with it .
+Inner:  S span None Joint NN
+Inner:  N Background None Elaborate NS
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Background What happens
+Leaf:  S span when we run out of coconuts .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Nothing bad will happen
+Leaf:  N Background but we need not exploit things
+Leaf:  S span just cause we can .
+Inner:  N Contrast None Background NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('You know ,', None, None, None, 0), ('the world has progressed so far in the last few hundreds years ,', None, None, None, 0), ('that it is slight off kilter', None, None, None, 0), ('that we allow the disappearance of goods and services to ensue .', None, None, None, 1), ('Is it always the fault of big business and government', None, None, None, 0), ('to allow things to go wrong as the case with diseases coconut and the potential', None, None, None, 0), ('that they can not be saved .', None, None, None, 1), ('Are we not smart enough', None, None, None, 0), ('to ensure', None, None, None, 0), ('that', None, None, None, 0), ('before something disappears from the face of the earth ,', None, None, None, 0), ('that we find a way', None, None, None, 0), ('to correct it ,', None, None, None, 0), ('protect it , live with it .', None, None, None, 1), ('What happens', None, None, None, 0), ('when we run out of coconuts .', None, None, None, 1), ('Nothing bad will happen', None, None, None, 0), ('but we need not exploit things', None, None, None, 0), ('just cause we can .', None, None, None, 1)]

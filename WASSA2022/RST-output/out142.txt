@@ -1,0 +1,27 @@
+=====================> [[('i feel', None, None, None, 0), ('that racism is still alive today', None, None, None, 0), ('and it is a big problem', None, None, None, 0), ('people need to realize', None, None, None, 0), ('that color doesnt matter', None, None, None, 0), ('and that we are all humans with feeling', None, None, None, 0), ('and no one person is better than the other reguardless of the color of there skin .', None, None, None, 1), ('there should be stronger laws', None, None, None, 0), ('helping fight racism', None, None, None, 0), ('also teaching kids', None, None, None, 0), ('that its not ok to call people names just cause of there skin color .', None, None, None, 1), ('we need to work as a nation', None, None, None, 0), ('to fix this problem', None, None, None, 0)]]
+Leaf:  S span i feel
+Leaf:  N Evaluation that racism is still alive today
+Leaf:  S span and it is a big problem
+Inner:  N Attribution None Evaluation NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span people need to realize
+Leaf:  N Joint that color doesnt matter
+Leaf:  N Joint and that we are all humans with feeling
+Leaf:  N Joint and no one person is better than the other reguardless of the color of there skin .
+Inner:  N Joint None Joint NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate there should be stronger laws
+Leaf:  S span helping fight racism
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span also teaching kids
+Leaf:  N Attribution that its not ok to call people names just cause of there skin color .
+Inner:  N Same-Unit None Attribution SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Leaf:  N Enablement we need to work as a nation
+Leaf:  S span to fix this problem
+Inner:  N Condition None Enablement NS
+Inner:  Root None None Condition SN
+[('i feel', None, None, None, 0), ('that racism is still alive today', None, None, None, 0), ('and it is a big problem', None, None, None, 0), ('people need to realize', None, None, None, 0), ('that color doesnt matter', None, None, None, 0), ('and that we are all humans with feeling', None, None, None, 0), ('and no one person is better than the other reguardless of the color of there skin .', None, None, None, 1), ('there should be stronger laws', None, None, None, 0), ('helping fight racism', None, None, None, 0), ('also teaching kids', None, None, None, 0), ('that its not ok to call people names just cause of there skin color .', None, None, None, 1), ('we need to work as a nation', None, None, None, 0), ('to fix this problem', None, None, None, 0)]

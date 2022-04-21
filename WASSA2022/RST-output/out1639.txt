@@ -1,0 +1,29 @@
+=====================> [[('Wow', None, None, None, 0), ('- what a lucky cop', None, None, None, 0), ("!! I ca n't believe", None, None, None, 0), ('he was able to stop that guy .', None, None, None, 1), ('The community is much better off', None, None, None, 0), ('without him .', None, None, None, 1), ('As fascinating', None, None, None, 0), ('as I find true crime ,', None, None, None, 0), ("I really do n't understand the impulse of some people", None, None, None, 0), ('to kill .', None, None, None, 1), ("It 's crazy .", None, None, None, 1), ("I ca n't believe the damage", None, None, None, 0), ('that guy caused .', None, None, None, 1), ('Luckily , he was stopped !!', None, None, None, 1)]]
+Leaf:  S span Wow
+Leaf:  N Elaborate - what a lucky cop
+Leaf:  S span !! I ca n't believe
+Leaf:  N Attribution he was able to stop that guy .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Background The community is much better off
+Leaf:  S span without him .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate As fascinating
+Leaf:  S span as I find true crime ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate I really do n't understand the impulse of some people
+Leaf:  S span to kill .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Evaluation It 's crazy .
+Leaf:  N Elaborate I ca n't believe the damage
+Leaf:  S span that guy caused .
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast Luckily , he was stopped !!
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Wow', None, None, None, 0), ('- what a lucky cop', None, None, None, 0), ("!! I ca n't believe", None, None, None, 0), ('he was able to stop that guy .', None, None, None, 1), ('The community is much better off', None, None, None, 0), ('without him .', None, None, None, 1), ('As fascinating', None, None, None, 0), ('as I find true crime ,', None, None, None, 0), ("I really do n't understand the impulse of some people", None, None, None, 0), ('to kill .', None, None, None, 1), ("It 's crazy .", None, None, None, 1), ("I ca n't believe the damage", None, None, None, 0), ('that guy caused .', None, None, None, 1), ('Luckily , he was stopped !!', None, None, None, 1)]

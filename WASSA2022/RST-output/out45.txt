@@ -1,0 +1,23 @@
+=====================> [[('Reading about issues', None, None, None, 0), ('happening across the world', None, None, None, 0), ('seems foreign ,', None, None, None, 0), ('but just think :', None, None, None, 0), ('any trouble anywhere in the world , the US is usually involved .', None, None, None, 1), ('I think', None, None, None, 0), ('any conflict and abuses of power in any nation in the world , especially in the middle east , can spell disaster for the people in the US .', None, None, None, 1), ("We ca n't really ignore issues", None, None, None, 0), ('that happen far away', None, None, None, 0), ('because ultimately as a nation , we will have to face the consequences ,', None, None, None, 0), ('either by sending our troops or any other effects .', None, None, None, 1)]]
+Leaf:  N Elaborate Reading about issues
+Leaf:  S span happening across the world
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit seems foreign ,
+Inner:  N Contrast None Same-Unit NN
+Leaf:  S span but just think :
+Leaf:  N Attribution any trouble anywhere in the world , the US is usually involved .
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span I think
+Leaf:  N Attribution any conflict and abuses of power in any nation in the world , especially in the middle east , can spell disaster for the people in the US .
+Inner:  N Joint None Attribution SN
+Leaf:  N Elaborate We ca n't really ignore issues
+Leaf:  S span that happen far away
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Manner-Means because ultimately as a nation , we will have to face the consequences ,
+Leaf:  S span either by sending our troops or any other effects .
+Inner:  S span None Manner-Means NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('Reading about issues', None, None, None, 0), ('happening across the world', None, None, None, 0), ('seems foreign ,', None, None, None, 0), ('but just think :', None, None, None, 0), ('any trouble anywhere in the world , the US is usually involved .', None, None, None, 1), ('I think', None, None, None, 0), ('any conflict and abuses of power in any nation in the world , especially in the middle east , can spell disaster for the people in the US .', None, None, None, 1), ("We ca n't really ignore issues", None, None, None, 0), ('that happen far away', None, None, None, 0), ('because ultimately as a nation , we will have to face the consequences ,', None, None, None, 0), ('either by sending our troops or any other effects .', None, None, None, 1)]

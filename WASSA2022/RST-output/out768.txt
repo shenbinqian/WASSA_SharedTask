@@ -1,0 +1,35 @@
+=====================> [[('I just read', None, None, None, 0), ('about all kinds of rioting going on in Ethiopia .', None, None, None, 1), ("It 's really a shame what is going on over there .", None, None, None, 1), ('This is an area', None, None, None, 0), ('which has hopes of dramatic infrastructure improvement and new jobs . Many people and organizations have invested a lot of money', None, None, None, 0), ('and now have to wonder', None, None, None, 0), ('whether they should continue to invest in an area', None, None, None, 0), ('which may be destroyed by rioters .', None, None, None, 1), ("It 's so sad to hear about these beautiful farms and nurseries", None, None, None, 0), ('just being gutted and destroyed .', None, None, None, 1), ('The farms now have all these workers and equipment with nothing to do .', None, None, None, 1), ('The farms are gone .', None, None, None, 1), ('It sounded as if some of the elders in the community tried to calm things down ,', None, None, None, 0), ('and it worked in some areas ,', None, None, None, 0), ('but other areas just raged on with riots and destruction .', None, None, None, 1), ("Ca n't these people see", None, None, None, 0), ('that they are ruining their own future ?', None, None, None, 1)]]
+Leaf:  S span I just read
+Leaf:  N Attribution about all kinds of rioting going on in Ethiopia .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It 's really a shame what is going on over there .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate This is an area
+Leaf:  S span which has hopes of dramatic infrastructure improvement and new jobs . Many people and organizations have invested a lot of money
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation and now have to wonder
+Inner:  S span None Evaluation NN
+Leaf:  N Elaborate whether they should continue to invest in an area
+Leaf:  S span which may be destroyed by rioters .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It 's so sad to hear about these beautiful farms and nurseries
+Leaf:  S span just being gutted and destroyed .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The farms now have all these workers and equipment with nothing to do .
+Leaf:  N Joint The farms are gone .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It sounded as if some of the elders in the community tried to calm things down ,
+Leaf:  N Contrast and it worked in some areas ,
+Leaf:  N Contrast but other areas just raged on with riots and destruction .
+Inner:  S span None Contrast NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span Ca n't these people see
+Leaf:  N Attribution that they are ruining their own future ?
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read', None, None, None, 0), ('about all kinds of rioting going on in Ethiopia .', None, None, None, 1), ("It 's really a shame what is going on over there .", None, None, None, 1), ('This is an area', None, None, None, 0), ('which has hopes of dramatic infrastructure improvement and new jobs . Many people and organizations have invested a lot of money', None, None, None, 0), ('and now have to wonder', None, None, None, 0), ('whether they should continue to invest in an area', None, None, None, 0), ('which may be destroyed by rioters .', None, None, None, 1), ("It 's so sad to hear about these beautiful farms and nurseries", None, None, None, 0), ('just being gutted and destroyed .', None, None, None, 1), ('The farms now have all these workers and equipment with nothing to do .', None, None, None, 1), ('The farms are gone .', None, None, None, 1), ('It sounded as if some of the elders in the community tried to calm things down ,', None, None, None, 0), ('and it worked in some areas ,', None, None, None, 0), ('but other areas just raged on with riots and destruction .', None, None, None, 1), ("Ca n't these people see", None, None, None, 0), ('that they are ruining their own future ?', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[("It 's hard to believe", None, None, None, 0), ('that they would go through with this ,', None, None, None, 0), ('but they probably want economic growth', None, None, None, 0), ('and that will need extra airport runways .', None, None, None, 1), ('The residents are understandably upset', None, None, None, 0), ('because they will lose their homes ,', None, None, None, 0), ('but will likely be compensated . I do think', None, None, None, 0), ('that politicians', None, None, None, 0), ('that said', None, None, None, 0), ('they would vote against expansion', None, None, None, 0), ('and then change their minds ,', None, None, None, 0), ('should be voted out .', None, None, None, 1)]]
+Leaf:  S span It 's hard to believe
+Leaf:  N Attribution that they would go through with this ,
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint but they probably want economic growth
+Leaf:  N Joint and that will need extra airport runways .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Cause The residents are understandably upset
+Leaf:  S span because they will lose their homes ,
+Inner:  N Contrast None Cause NS
+Leaf:  S span but will likely be compensated . I do think
+Leaf:  N Elaborate that politicians
+Leaf:  S span that said
+Leaf:  N Temporal they would vote against expansion
+Leaf:  N Temporal and then change their minds ,
+Inner:  N Attribution None Temporal NN
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit should be voted out .
+Inner:  S span None Same-Unit NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[("It 's hard to believe", None, None, None, 0), ('that they would go through with this ,', None, None, None, 0), ('but they probably want economic growth', None, None, None, 0), ('and that will need extra airport runways .', None, None, None, 1), ('The residents are understandably upset', None, None, None, 0), ('because they will lose their homes ,', None, None, None, 0), ('but will likely be compensated . I do think', None, None, None, 0), ('that politicians', None, None, None, 0), ('that said', None, None, None, 0), ('they would vote against expansion', None, None, None, 0), ('and then change their minds ,', None, None, None, 0), ('should be voted out .', None, None, None, 1)]

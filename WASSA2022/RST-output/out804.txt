@@ -1,0 +1,25 @@
+=====================> [[('so theres this push', None, None, None, 0), ('to remove your money from banks', None, None, None, 0), ('involved in the pipeline', None, None, None, 0), ('screwing over the souix .', None, None, None, 1), ('Im thinking about it .', None, None, None, 1), ('kick the banks', None, None, None, 0), ('that are kicking the native americans', None, None, None, 0), ('seems like a good way', None, None, None, 0), ('to make a point .', None, None, None, 1), ('all the understand is the bottom line ,', None, None, None, 0), ('and the pipeline company will lose their backers', None, None, None, 0), ('if they begin to lose too mkuch money', None, None, None, 0)]]
+Leaf:  N Elaborate so theres this push
+Leaf:  N Elaborate to remove your money from banks
+Leaf:  N Elaborate involved in the pipeline
+Leaf:  S span screwing over the souix .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Im thinking about it .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate kick the banks
+Leaf:  S span that are kicking the native americans
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate seems like a good way
+Leaf:  S span to make a point .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Same-Unit all the understand is the bottom line ,
+Leaf:  N Condition and the pipeline company will lose their backers
+Leaf:  S span if they begin to lose too mkuch money
+Inner:  N Same-Unit None Condition NS
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('so theres this push', None, None, None, 0), ('to remove your money from banks', None, None, None, 0), ('involved in the pipeline', None, None, None, 0), ('screwing over the souix .', None, None, None, 1), ('Im thinking about it .', None, None, None, 1), ('kick the banks', None, None, None, 0), ('that are kicking the native americans', None, None, None, 0), ('seems like a good way', None, None, None, 0), ('to make a point .', None, None, None, 1), ('all the understand is the bottom line ,', None, None, None, 0), ('and the pipeline company will lose their backers', None, None, None, 0), ('if they begin to lose too mkuch money', None, None, None, 0)]

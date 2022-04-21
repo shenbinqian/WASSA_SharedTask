@@ -1,0 +1,23 @@
+=====================> [[('When he was born ,', None, None, None, 0), ('my son tested for elevated lead levels in his blood ,', None, None, None, 0), ("and we do n't live near Chicago .", None, None, None, 1), ('We were more than a bit scared ,', None, None, None, 0), ('and tried to help him learn not to stick things in his mouth . Lead damage is not reversible ,', None, None, None, 0), ('and we lived in an old house .', None, None, None, 1), ('To think', None, None, None, 0), ('that every day people are drinking water with as much lead', None, None, None, 0), ('as indicated', None, None, None, 0), ('is a bit disturbing', None, None, None, 0), ("- and it 's not going to be cheap to fix .", None, None, None, 1)]]
+Leaf:  S span When he was born ,
+Leaf:  N Background my son tested for elevated lead levels in his blood ,
+Inner:  N Joint None Background SN
+Leaf:  N Joint and we do n't live near Chicago .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint We were more than a bit scared ,
+Leaf:  N Joint and tried to help him learn not to stick things in his mouth . Lead damage is not reversible ,
+Leaf:  N Joint and we lived in an old house .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span To think
+Leaf:  N Comparison that every day people are drinking water with as much lead
+Leaf:  S span as indicated
+Inner:  N Same-Unit None Comparison NS
+Leaf:  N Same-Unit is a bit disturbing
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Joint - and it 's not going to be cheap to fix .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('When he was born ,', None, None, None, 0), ('my son tested for elevated lead levels in his blood ,', None, None, None, 0), ("and we do n't live near Chicago .", None, None, None, 1), ('We were more than a bit scared ,', None, None, None, 0), ('and tried to help him learn not to stick things in his mouth . Lead damage is not reversible ,', None, None, None, 0), ('and we lived in an old house .', None, None, None, 1), ('To think', None, None, None, 0), ('that every day people are drinking water with as much lead', None, None, None, 0), ('as indicated', None, None, None, 0), ('is a bit disturbing', None, None, None, 0), ("- and it 's not going to be cheap to fix .", None, None, None, 1)]

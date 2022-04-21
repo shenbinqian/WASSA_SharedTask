@@ -1,0 +1,33 @@
+=====================> [[("I do n't like the fact", None, None, None, 0), ('that environmental concerns are still a large part of our world', None, None, None, 0), ('in which we live', None, None, None, 0), ('but I believe', None, None, None, 0), ('the higher power controls this', None, None, None, 0), ('and that will keep us from ever completely overcoming these issues .', None, None, None, 1), ('It makes me upset to know Native American tribes are being affected by drought to the point', None, None, None, 0), ('of possibly ceasing to exist . I have Native American heritage', None, None, None, 0), ('and feel', None, None, None, 0), ("that this population should be cared for by our government before segments of third world countries . I do n't like the fact", None, None, None, 0), ('that air pollution is a problem', None, None, None, 0), ('or a salty lake is drying up in Iran', None, None, None, 0), ('but I understand', None, None, None, 0), ('our environment is controlled by God .', None, None, None, 1), ('We , as a nation , choose our battles sometimes based on the wrong things .', None, None, None, 1), ('Taking care of the Native American tribesman should be a HUGE priority !', None, None, None, 1)]]
+Leaf:  N Elaborate I do n't like the fact
+Leaf:  N Elaborate that environmental concerns are still a large part of our world
+Leaf:  S span in which we live
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  S span but I believe
+Leaf:  N Joint the higher power controls this
+Leaf:  N Joint and that will keep us from ever completely overcoming these issues .
+Inner:  N Attribution None Joint NN
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Elaborate It makes me upset to know Native American tribes are being affected by drought to the point
+Leaf:  S span of possibly ceasing to exist . I have Native American heritage
+Inner:  N Joint None Elaborate NS
+Leaf:  S span and feel
+Leaf:  N Elaborate that this population should be cared for by our government before segments of third world countries . I do n't like the fact
+Leaf:  N Joint that air pollution is a problem
+Leaf:  N Joint or a salty lake is drying up in Iran
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span but I understand
+Leaf:  N Attribution our environment is controlled by God .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span We , as a nation , choose our battles sometimes based on the wrong things .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Taking care of the Native American tribesman should be a HUGE priority !
+Inner:  Root None None Evaluation NS
+[("I do n't like the fact", None, None, None, 0), ('that environmental concerns are still a large part of our world', None, None, None, 0), ('in which we live', None, None, None, 0), ('but I believe', None, None, None, 0), ('the higher power controls this', None, None, None, 0), ('and that will keep us from ever completely overcoming these issues .', None, None, None, 1), ('It makes me upset to know Native American tribes are being affected by drought to the point', None, None, None, 0), ('of possibly ceasing to exist . I have Native American heritage', None, None, None, 0), ('and feel', None, None, None, 0), ("that this population should be cared for by our government before segments of third world countries . I do n't like the fact", None, None, None, 0), ('that air pollution is a problem', None, None, None, 0), ('or a salty lake is drying up in Iran', None, None, None, 0), ('but I understand', None, None, None, 0), ('our environment is controlled by God .', None, None, None, 1), ('We , as a nation , choose our battles sometimes based on the wrong things .', None, None, None, 1), ('Taking care of the Native American tribesman should be a HUGE priority !', None, None, None, 1)]

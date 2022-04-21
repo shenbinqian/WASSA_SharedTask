@@ -1,0 +1,19 @@
+=====================> [[('Climate change is already evident in all the ecosystems of the earth .', None, None, None, 1), ('the genes of living beings are changing in response to climate changes ,', None, None, None, 0), ('affecting ecosystems around the world .', None, None, None, 1), ('the changes', None, None, None, 0), ('that by natural means should take a hundred of decades to occur ,', None, None, None, 0), ('takes very few years to complete .', None, None, None, 1), ('This disorder affects the whole relationship of the ecosystems ,', None, None, None, 0), ('discouraging them', None, None, None, 0), ('and causing their extinction .', None, None, None, 1)]]
+Leaf:  N Elaborate Climate change is already evident in all the ecosystems of the earth .
+Leaf:  N Cause the genes of living beings are changing in response to climate changes ,
+Leaf:  S span affecting ecosystems around the world .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate the changes
+Leaf:  S span that by natural means should take a hundred of decades to occur ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit takes very few years to complete .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause This disorder affects the whole relationship of the ecosystems ,
+Leaf:  N Joint discouraging them
+Leaf:  N Joint and causing their extinction .
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('Climate change is already evident in all the ecosystems of the earth .', None, None, None, 1), ('the genes of living beings are changing in response to climate changes ,', None, None, None, 0), ('affecting ecosystems around the world .', None, None, None, 1), ('the changes', None, None, None, 0), ('that by natural means should take a hundred of decades to occur ,', None, None, None, 0), ('takes very few years to complete .', None, None, None, 1), ('This disorder affects the whole relationship of the ecosystems ,', None, None, None, 0), ('discouraging them', None, None, None, 0), ('and causing their extinction .', None, None, None, 1)]

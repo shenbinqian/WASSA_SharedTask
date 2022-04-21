@@ -1,0 +1,15 @@
+=====================> [[('Hey can you believe the crazy weather', None, None, None, 0), ("we 've been having during the past few summers ?", None, None, None, 1), ("It 's getting really ridiculous and out of hand .", None, None, None, 1), ('They temperatures have been crazy', None, None, None, 0), ("and the flooding is really messing with people 's lives .", None, None, None, 1), ('We really should be paying more attention to it', None, None, None, 0), ('and need to come up with some solutions fast .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey can you believe the crazy weather
+Leaf:  S span we 've been having during the past few summers ?
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate It 's getting really ridiculous and out of hand .
+Leaf:  N Joint They temperatures have been crazy
+Leaf:  N Joint and the flooding is really messing with people 's lives .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Joint We really should be paying more attention to it
+Leaf:  N Joint and need to come up with some solutions fast .
+Inner:  N Background None Joint NN
+Inner:  S span None Background SN
+Inner:  Root None None Summary NS
+[('Hey can you believe the crazy weather', None, None, None, 0), ("we 've been having during the past few summers ?", None, None, None, 1), ("It 's getting really ridiculous and out of hand .", None, None, None, 1), ('They temperatures have been crazy', None, None, None, 0), ("and the flooding is really messing with people 's lives .", None, None, None, 1), ('We really should be paying more attention to it', None, None, None, 0), ('and need to come up with some solutions fast .', None, None, None, 1)]

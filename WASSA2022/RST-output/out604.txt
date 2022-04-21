@@ -1,0 +1,25 @@
+=====================> [[('Death to the police !', None, None, None, 1), ('There is no member of the police', None, None, None, 0), ('that is your friend ,', None, None, None, 0), ('even those', None, None, None, 0), ('who are no longer on the force .', None, None, None, 1), ('Only someone', None, None, None, 0), ('who fully recants their position as a police officer', None, None, None, 0), ('and demonstrates tangible remorse', None, None, None, 0), ('about their actions can be accepted .', None, None, None, 1), ('All police are evil ,', None, None, None, 0), ('because the police naturally attract people', None, None, None, 0), ('who would abuse their powers .', None, None, None, 1)]]
+Leaf:  N Summary Death to the police !
+Leaf:  N Elaborate There is no member of the police
+Leaf:  S span that is your friend ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate even those
+Leaf:  S span who are no longer on the force .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Elaborate Only someone
+Leaf:  N Joint who fully recants their position as a police officer
+Leaf:  N Elaborate and demonstrates tangible remorse
+Leaf:  S span about their actions can be accepted .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  N Explanation None Summary NS
+Leaf:  N Cause All police are evil ,
+Leaf:  N Elaborate because the police naturally attract people
+Leaf:  S span who would abuse their powers .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Explanation NS
+[('Death to the police !', None, None, None, 1), ('There is no member of the police', None, None, None, 0), ('that is your friend ,', None, None, None, 0), ('even those', None, None, None, 0), ('who are no longer on the force .', None, None, None, 1), ('Only someone', None, None, None, 0), ('who fully recants their position as a police officer', None, None, None, 0), ('and demonstrates tangible remorse', None, None, None, 0), ('about their actions can be accepted .', None, None, None, 1), ('All police are evil ,', None, None, None, 0), ('because the police naturally attract people', None, None, None, 0), ('who would abuse their powers .', None, None, None, 1)]

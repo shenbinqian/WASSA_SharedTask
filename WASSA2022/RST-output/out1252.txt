@@ -1,0 +1,19 @@
+=====================> [[('It does seem a little disrespectful', None, None, None, 0), ('when someone starts to deface any public property .', None, None, None, 1), ('It is a disgrace and a lack of moral character', None, None, None, 0), ('when something like this happens .', None, None, None, 1), ('No one in their right mind would think of doing this could it could land you in jail for starters . Secondly , you could get sued', None, None, None, 0), ("and in today 's litigious society you could go broke rather quick , even with a good lawyer .", None, None, None, 1), ("I guess that 's why we have laws . Not only to protect the public ,", None, None, None, 0), ('whether it be people or " spaces "', None, None, None, 0), ('because everyone is supposed to be allowed to enjoy the public domain .', None, None, None, 1)]]
+Leaf:  N Background It does seem a little disrespectful
+Leaf:  S span when someone starts to deface any public property .
+Inner:  N Evaluation None Background NS
+Leaf:  N Background It is a disgrace and a lack of moral character
+Leaf:  S span when something like this happens .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint No one in their right mind would think of doing this could it could land you in jail for starters . Secondly , you could get sued
+Leaf:  N Joint and in today 's litigious society you could go broke rather quick , even with a good lawyer .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I guess that 's why we have laws . Not only to protect the public ,
+Leaf:  S span whether it be people or " spaces "
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span because everyone is supposed to be allowed to enjoy the public domain .
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('It does seem a little disrespectful', None, None, None, 0), ('when someone starts to deface any public property .', None, None, None, 1), ('It is a disgrace and a lack of moral character', None, None, None, 0), ('when something like this happens .', None, None, None, 1), ('No one in their right mind would think of doing this could it could land you in jail for starters . Secondly , you could get sued', None, None, None, 0), ("and in today 's litigious society you could go broke rather quick , even with a good lawyer .", None, None, None, 1), ("I guess that 's why we have laws . Not only to protect the public ,", None, None, None, 0), ('whether it be people or " spaces "', None, None, None, 0), ('because everyone is supposed to be allowed to enjoy the public domain .', None, None, None, 1)]

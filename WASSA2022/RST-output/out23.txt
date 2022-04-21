@@ -1,0 +1,17 @@
+=====================> [[("It 's a shame", None, None, None, 0), ('how troubled the middle east is and has been for the longest time .', None, None, None, 1), ('I wish', None, None, None, 0), ('we could come to some agreement with the rest of the world', None, None, None, 0), ('on how to realistically handle the multiple situations in the middle east .', None, None, None, 1), ('I feel', None, None, None, 0), ('that we should pull out', None, None, None, 0), ('and let them handle their problems on their own with only some guidance from us .', None, None, None, 1)]]
+Leaf:  S span It 's a shame
+Leaf:  N Attribution how troubled the middle east is and has been for the longest time .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I wish
+Leaf:  N Elaborate we could come to some agreement with the rest of the world
+Leaf:  S span on how to realistically handle the multiple situations in the middle east .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I feel
+Leaf:  N Joint that we should pull out
+Leaf:  N Joint and let them handle their problems on their own with only some guidance from us .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[("It 's a shame", None, None, None, 0), ('how troubled the middle east is and has been for the longest time .', None, None, None, 1), ('I wish', None, None, None, 0), ('we could come to some agreement with the rest of the world', None, None, None, 0), ('on how to realistically handle the multiple situations in the middle east .', None, None, None, 1), ('I feel', None, None, None, 0), ('that we should pull out', None, None, None, 0), ('and let them handle their problems on their own with only some guidance from us .', None, None, None, 1)]

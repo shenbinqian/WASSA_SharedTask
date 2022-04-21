@@ -1,0 +1,23 @@
+=====================> [[('I reallly think', None, None, None, 0), ('this is quite sad . Poor people have the same sort of problems all over the world .', None, None, None, 1), ('I think', None, None, None, 0), ('this is because the rich are always keeping people down .', None, None, None, 1), ('I think', None, None, None, 0), ('that they pretend like everything is a racial struggle ,', None, None, None, 0), ('but I suspect', None, None, None, 0), ('that the problems', None, None, None, 0), ('we face', None, None, None, 0), ('are largely because the rich are filthy rich', None, None, None, 0), ('and they have no empathy for the rest of us .', None, None, None, 1)]]
+Leaf:  S span I reallly think
+Leaf:  N Attribution this is quite sad . Poor people have the same sort of problems all over the world .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution this is because the rich are always keeping people down .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I think
+Leaf:  N Attribution that they pretend like everything is a racial struggle ,
+Inner:  N Joint None Attribution SN
+Inner:  N Contrast None Joint NN
+Leaf:  S span but I suspect
+Leaf:  N Elaborate that the problems
+Leaf:  S span we face
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint are largely because the rich are filthy rich
+Leaf:  N Joint and they have no empathy for the rest of us .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  S span None Contrast NS
+Inner:  Root None None Elaborate NS
+[('I reallly think', None, None, None, 0), ('this is quite sad . Poor people have the same sort of problems all over the world .', None, None, None, 1), ('I think', None, None, None, 0), ('this is because the rich are always keeping people down .', None, None, None, 1), ('I think', None, None, None, 0), ('that they pretend like everything is a racial struggle ,', None, None, None, 0), ('but I suspect', None, None, None, 0), ('that the problems', None, None, None, 0), ('we face', None, None, None, 0), ('are largely because the rich are filthy rich', None, None, None, 0), ('and they have no empathy for the rest of us .', None, None, None, 1)]

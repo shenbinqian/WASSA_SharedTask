@@ -1,0 +1,35 @@
+=====================> [[('Here is another upsetting article', None, None, None, 0), ('I am sending you about a fire and a family .', None, None, None, 1), ('Funny how this bothers me more than the previous one .', None, None, None, 1), ('The parents and the children got out safe', None, None, None, 0), ("and they did n't die", None, None, None, 0), ("and they did n't get maimed", None, None, None, 0), ('or even scratced', None, None, None, 0), ('as far', None, None, None, 0), ('as I can tell', None, None, None, 0), ('but their two cats died and they lost their home . I am a cat owner', None, None, None, 0), ('and they are always " skitished "', None, None, None, 0), ('and afraid', None, None, None, 0), ('so my first thought is how terrified they must have been and then how awful the children must feel . The horror', None, None, None, 0), ('of imagining your pet burning', None, None, None, 0), ('( though they probably died from smoke ) .', None, None, None, 1), ('The children will not understand', None, None, None, 0), ('and it will take awhile to forget .', None, None, None, 1)]]
+Leaf:  N Elaborate Here is another upsetting article
+Leaf:  S span I am sending you about a fire and a family .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Funny how this bothers me more than the previous one .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The parents and the children got out safe
+Leaf:  N Joint and they did n't die
+Leaf:  N Joint and they did n't get maimed
+Leaf:  N Joint or even scratced
+Inner:  N Contrast None Joint NN
+Leaf:  N Elaborate as far
+Leaf:  S span as I can tell
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Contrast NS
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Leaf:  N Contrast but their two cats died and they lost their home . I am a cat owner
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint and they are always " skitished "
+Leaf:  N Joint and afraid
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Leaf:  N Elaborate so my first thought is how terrified they must have been and then how awful the children must feel . The horror
+Leaf:  N Contrast of imagining your pet burning
+Leaf:  S span ( though they probably died from smoke ) .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint The children will not understand
+Leaf:  N Joint and it will take awhile to forget .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Inner:  S span None Explanation SN
+Inner:  Root None None Elaborate NS
+[('Here is another upsetting article', None, None, None, 0), ('I am sending you about a fire and a family .', None, None, None, 1), ('Funny how this bothers me more than the previous one .', None, None, None, 1), ('The parents and the children got out safe', None, None, None, 0), ("and they did n't die", None, None, None, 0), ("and they did n't get maimed", None, None, None, 0), ('or even scratced', None, None, None, 0), ('as far', None, None, None, 0), ('as I can tell', None, None, None, 0), ('but their two cats died and they lost their home . I am a cat owner', None, None, None, 0), ('and they are always " skitished "', None, None, None, 0), ('and afraid', None, None, None, 0), ('so my first thought is how terrified they must have been and then how awful the children must feel . The horror', None, None, None, 0), ('of imagining your pet burning', None, None, None, 0), ('( though they probably died from smoke ) .', None, None, None, 1), ('The children will not understand', None, None, None, 0), ('and it will take awhile to forget .', None, None, None, 1)]

@@ -1,0 +1,25 @@
+=====================> [[('I always feel soft hearted', None, None, None, 0), ('when I read about the holocaust .', None, None, None, 1), ('To imagine going through that experience', None, None, None, 0), ('and just knowing', None, None, None, 0), ('that there are people', None, None, None, 0), ('that evil makes me angry and sad .', None, None, None, 1), ('But', None, None, None, 0), ('to see people try to make something positive out of something so negative makes me happy .', None, None, None, 1), ('Also I feel', None, None, None, 0), ("that it 's so great to remember those", None, None, None, 0), ('who died', None, None, None, 0), ('without ever living their lives .', None, None, None, 1)]]
+Leaf:  N Temporal I always feel soft hearted
+Leaf:  S span when I read about the holocaust .
+Inner:  N Explanation None Temporal NS
+Leaf:  N Temporal To imagine going through that experience
+Leaf:  S span and just knowing
+Leaf:  N Enablement that there are people
+Leaf:  S span that evil makes me angry and sad .
+Inner:  N Attribution None Enablement NS
+Inner:  N Temporal None Attribution SN
+Inner:  N Contrast None Temporal NN
+Leaf:  N Cause But
+Leaf:  S span to see people try to make something positive out of something so negative makes me happy .
+Inner:  N Contrast None Cause NS
+Inner:  N Joint None Contrast NN
+Leaf:  S span Also I feel
+Leaf:  N Elaborate that it 's so great to remember those
+Leaf:  N Manner-Means who died
+Leaf:  S span without ever living their lives .
+Inner:  S span None Manner-Means NS
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Explanation NS
+[('I always feel soft hearted', None, None, None, 0), ('when I read about the holocaust .', None, None, None, 1), ('To imagine going through that experience', None, None, None, 0), ('and just knowing', None, None, None, 0), ('that there are people', None, None, None, 0), ('that evil makes me angry and sad .', None, None, None, 1), ('But', None, None, None, 0), ('to see people try to make something positive out of something so negative makes me happy .', None, None, None, 1), ('Also I feel', None, None, None, 0), ("that it 's so great to remember those", None, None, None, 0), ('who died', None, None, None, 0), ('without ever living their lives .', None, None, None, 1)]

@@ -1,0 +1,45 @@
+=====================> [[('Did you see about this guy and his friends/family', None, None, None, 0), ('that had their tour boat capsize', None, None, None, 0), ('because the captain was an idiot ?', None, None, None, 1), ('Now they want to sue the company ,', None, None, None, 0), ("ca n't blame them for that", None, None, None, 0), ('since I would sue them too .', None, None, None, 1), ('How could you be so stupid as to park your boat above a reef during rough weather', None, None, None, 0), ("especially when it 's the USS TinyPOS .", None, None, None, 1), ("I 'd sue them into the ground too .", None, None, None, 1), ('Eitherway this article tells you all about it ,', None, None, None, 0), ("it 's pretty boring to read", None, None, None, 0), ("and there really is n't much to say about it", None, None, None, 0), ('other than everyone', None, None, None, 0), ('involved in this incident', None, None, None, 0), ('is a moron', None, None, None, 0), ('and most likely deserved everything', None, None, None, 0), ('that happened to them .', None, None, None, 1), ("They probably cheaped out on the tour and/or were n't wearing their lifevests during the tour .", None, None, None, 1), ('Boat captain deserved to lose his ship', None, None, None, 0), ("because he 's obviously an idiot", None, None, None, 0), ('for setting up the boat', None, None, None, 0), ('where he did .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you see about this guy and his friends/family
+Leaf:  N Cause that had their tour boat capsize
+Leaf:  S span because the captain was an idiot ?
+Inner:  S span None Cause NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Evaluation Now they want to sue the company ,
+Leaf:  N Explanation ca n't blame them for that
+Leaf:  S span since I would sue them too .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Explanation How could you be so stupid as to park your boat above a reef during rough weather
+Leaf:  S span especially when it 's the USS TinyPOS .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I 'd sue them into the ground too .
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Change None Evaluation NS
+Leaf:  N Evaluation Eitherway this article tells you all about it ,
+Leaf:  N Joint it 's pretty boring to read
+Leaf:  N Elaborate and there really is n't much to say about it
+Leaf:  N Elaborate other than everyone
+Leaf:  S span involved in this incident
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint is a moron
+Leaf:  N Elaborate and most likely deserved everything
+Leaf:  S span that happened to them .
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They probably cheaped out on the tour and/or were n't wearing their lifevests during the tour .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Explanation Boat captain deserved to lose his ship
+Leaf:  N Explanation because he 's obviously an idiot
+Leaf:  N Elaborate for setting up the boat
+Leaf:  S span where he did .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Joint None Explanation NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Topic-Change NS
+[('Did you see about this guy and his friends/family', None, None, None, 0), ('that had their tour boat capsize', None, None, None, 0), ('because the captain was an idiot ?', None, None, None, 1), ('Now they want to sue the company ,', None, None, None, 0), ("ca n't blame them for that", None, None, None, 0), ('since I would sue them too .', None, None, None, 1), ('How could you be so stupid as to park your boat above a reef during rough weather', None, None, None, 0), ("especially when it 's the USS TinyPOS .", None, None, None, 1), ("I 'd sue them into the ground too .", None, None, None, 1), ('Eitherway this article tells you all about it ,', None, None, None, 0), ("it 's pretty boring to read", None, None, None, 0), ("and there really is n't much to say about it", None, None, None, 0), ('other than everyone', None, None, None, 0), ('involved in this incident', None, None, None, 0), ('is a moron', None, None, None, 0), ('and most likely deserved everything', None, None, None, 0), ('that happened to them .', None, None, None, 1), ("They probably cheaped out on the tour and/or were n't wearing their lifevests during the tour .", None, None, None, 1), ('Boat captain deserved to lose his ship', None, None, None, 0), ("because he 's obviously an idiot", None, None, None, 0), ('for setting up the boat', None, None, None, 0), ('where he did .', None, None, None, 1)]

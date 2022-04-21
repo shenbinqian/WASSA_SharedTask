@@ -1,0 +1,25 @@
+=====================> [[('Did you hear about the airstrikes in Yementi ?', None, None, None, 1), ("I ca n't believe it .", None, None, None, 1), ('i would have been petrified !', None, None, None, 1), ('Forty three people were killed ,', None, None, None, 0), ('but could be up to sixty . .', None, None, None, 1), ('The bodies were just laying everywhere.and', None, None, None, 0), ('they were covering them with blankets .', None, None, None, 1), ('This is just one count of those that died .', None, None, None, 1), ('Since the battle has been going on', None, None, None, 0), ('they say', None, None, None, 0), ('over 10,000 people have died from this conflict , many just innocent civilians .', None, None, None, 1), ("I ca n't imagine being in that situation .", None, None, None, 1)]]
+Leaf:  N Textual-Organization Did you hear about the airstrikes in Yementi ?
+Leaf:  N Evaluation I ca n't believe it .
+Leaf:  S span i would have been petrified !
+Inner:  N Summary None Evaluation NS
+Leaf:  N Contrast Forty three people were killed ,
+Leaf:  S span but could be up to sixty . .
+Inner:  N Elaborate None Contrast NS
+Leaf:  N Elaborate The bodies were just laying everywhere.and
+Leaf:  S span they were covering them with blankets .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This is just one count of those that died .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Since the battle has been going on
+Leaf:  S span they say
+Leaf:  N Attribution over 10,000 people have died from this conflict , many just innocent civilians .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Summary NS
+Inner:  N Evaluation None Textual-Organization NN
+Leaf:  S span I ca n't imagine being in that situation .
+Inner:  Root None None Evaluation NS
+[('Did you hear about the airstrikes in Yementi ?', None, None, None, 1), ("I ca n't believe it .", None, None, None, 1), ('i would have been petrified !', None, None, None, 1), ('Forty three people were killed ,', None, None, None, 0), ('but could be up to sixty . .', None, None, None, 1), ('The bodies were just laying everywhere.and', None, None, None, 0), ('they were covering them with blankets .', None, None, None, 1), ('This is just one count of those that died .', None, None, None, 1), ('Since the battle has been going on', None, None, None, 0), ('they say', None, None, None, 0), ('over 10,000 people have died from this conflict , many just innocent civilians .', None, None, None, 1), ("I ca n't imagine being in that situation .", None, None, None, 1)]

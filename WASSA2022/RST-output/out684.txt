@@ -1,0 +1,25 @@
+=====================> [[('Wow , it is scary to think there are mice', None, None, None, 0), ('that are twice their normal size', None, None, None, 0), ('hunting down and killing birds !', None, None, None, 1), ('It must be one scary place there right now with all that carnage .', None, None, None, 1), ('I hope', None, None, None, 0), ('Keith can make his plan come alive', None, None, None, 0), ('and stop the invasion of the mice .', None, None, None, 1), ('My concern is if they start getting off the island', None, None, None, 0), ('and migrating to other places .', None, None, None, 1), ('I live far away in America ,', None, None, None, 0), ("but I sure do n't want to run across these giant bird-eating mice .", None, None, None, 1), ('No thanks !', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , it is scary to think there are mice
+Leaf:  N Elaborate that are twice their normal size
+Leaf:  S span hunting down and killing birds !
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It must be one scary place there right now with all that carnage .
+Inner:  N Condition None Evaluation NS
+Leaf:  S span I hope
+Leaf:  N Enablement Keith can make his plan come alive
+Leaf:  S span and stop the invasion of the mice .
+Inner:  N Attribution None Enablement NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint My concern is if they start getting off the island
+Leaf:  N Joint and migrating to other places .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I live far away in America ,
+Leaf:  N Contrast but I sure do n't want to run across these giant bird-eating mice .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span No thanks !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Condition NS
+[('Wow , it is scary to think there are mice', None, None, None, 0), ('that are twice their normal size', None, None, None, 0), ('hunting down and killing birds !', None, None, None, 1), ('It must be one scary place there right now with all that carnage .', None, None, None, 1), ('I hope', None, None, None, 0), ('Keith can make his plan come alive', None, None, None, 0), ('and stop the invasion of the mice .', None, None, None, 1), ('My concern is if they start getting off the island', None, None, None, 0), ('and migrating to other places .', None, None, None, 1), ('I live far away in America ,', None, None, None, 0), ("but I sure do n't want to run across these giant bird-eating mice .", None, None, None, 1), ('No thanks !', None, None, None, 1)]

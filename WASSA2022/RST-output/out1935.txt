@@ -1,0 +1,13 @@
+=====================> [[('This is a typical " sour grapes " approach to anything', None, None, None, 0), ('regarding the Trump presidency .', None, None, None, 1), ('Liberals feel', None, None, None, 0), ('that his mere existence will somehow ruin mankind .', None, None, None, 1), ("This approach to constantly blaming all of the country 's problems on him only further harms to future of the country .", None, None, None, 1), ('Acting like the previous president was some ideal is nothing more than revisionist history way of thinking .', None, None, None, 1)]]
+Leaf:  N Elaborate This is a typical " sour grapes " approach to anything
+Leaf:  S span regarding the Trump presidency .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Liberals feel
+Leaf:  N Attribution that his mere existence will somehow ruin mankind .
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint This approach to constantly blaming all of the country 's problems on him only further harms to future of the country .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Acting like the previous president was some ideal is nothing more than revisionist history way of thinking .
+Inner:  Root None None Evaluation NS
+[('This is a typical " sour grapes " approach to anything', None, None, None, 0), ('regarding the Trump presidency .', None, None, None, 1), ('Liberals feel', None, None, None, 0), ('that his mere existence will somehow ruin mankind .', None, None, None, 1), ("This approach to constantly blaming all of the country 's problems on him only further harms to future of the country .", None, None, None, 1), ('Acting like the previous president was some ideal is nothing more than revisionist history way of thinking .', None, None, None, 1)]

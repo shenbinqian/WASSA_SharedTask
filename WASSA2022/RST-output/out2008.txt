@@ -1,0 +1,23 @@
+=====================> [[('Hiro , both you and I know', None, None, None, 0), ('how much we both dislike Donald Trump , along with millions of others out there .', None, None, None, 1), ('This article has only reinforced my dislike for such a leadership', None, None, None, 0), ('we have got .', None, None, None, 1), ('He is quite the disgrace to our nation as Americans and I just want to show you this article', None, None, None, 0), ('saying', None, None, None, 0), ('that', None, None, None, 0), ('not only has he made our nation worse off', None, None, None, 0), ('than it was ,', None, None, None, 0), ('he is going to take it over', None, None, None, 0), ('and made it into a living hell for millions out there .', None, None, None, 1)]]
+Leaf:  S span Hiro , both you and I know
+Leaf:  N Attribution how much we both dislike Donald Trump , along with millions of others out there .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate This article has only reinforced my dislike for such a leadership
+Leaf:  S span we have got .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate He is quite the disgrace to our nation as Americans and I just want to show you this article
+Leaf:  S span saying
+Leaf:  N Attribution that
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Comparison not only has he made our nation worse off
+Leaf:  N Comparison than it was ,
+Inner:  N Same-Unit None Comparison NN
+Leaf:  N Joint he is going to take it over
+Leaf:  N Joint and made it into a living hell for millions out there .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Hiro , both you and I know', None, None, None, 0), ('how much we both dislike Donald Trump , along with millions of others out there .', None, None, None, 1), ('This article has only reinforced my dislike for such a leadership', None, None, None, 0), ('we have got .', None, None, None, 1), ('He is quite the disgrace to our nation as Americans and I just want to show you this article', None, None, None, 0), ('saying', None, None, None, 0), ('that', None, None, None, 0), ('not only has he made our nation worse off', None, None, None, 0), ('than it was ,', None, None, None, 0), ('he is going to take it over', None, None, None, 0), ('and made it into a living hell for millions out there .', None, None, None, 1)]

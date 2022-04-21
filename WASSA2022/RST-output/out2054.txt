@@ -1,0 +1,17 @@
+=====================> [[('I read about another gun issue in the media today .', None, None, None, 1), ('How surprising , right ? I mean I totally get that some people should not own guns', None, None, None, 0), ('or get be anywhere near guns', None, None, None, 0), ('( especially when they have a KNOWN psychological disorder . )', None, None, None, 0), ('At the same time , A LOT of people should also not own cars for this reason .', None, None, None, 1), ('Cars kill more people', None, None, None, 0), ('than guns do', None, None, None, 0), ('but no one is suggesting banning cars now are they ?', None, None, None, 1)]]
+Leaf:  N Evaluation I read about another gun issue in the media today .
+Leaf:  N Joint How surprising , right ? I mean I totally get that some people should not own guns
+Leaf:  N Contrast or get be anywhere near guns
+Leaf:  S span ( especially when they have a KNOWN psychological disorder . )
+Inner:  N Joint None Contrast NS
+Inner:  N Comparison None Joint NN
+Leaf:  N Comparison At the same time , A LOT of people should also not own cars for this reason .
+Inner:  N Explanation None Comparison NN
+Leaf:  N Comparison Cars kill more people
+Leaf:  N Comparison than guns do
+Inner:  S span None Comparison NN
+Leaf:  N Contrast but no one is suggesting banning cars now are they ?
+Inner:  S span None Contrast SN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('I read about another gun issue in the media today .', None, None, None, 1), ('How surprising , right ? I mean I totally get that some people should not own guns', None, None, None, 0), ('or get be anywhere near guns', None, None, None, 0), ('( especially when they have a KNOWN psychological disorder . )', None, None, None, 0), ('At the same time , A LOT of people should also not own cars for this reason .', None, None, None, 1), ('Cars kill more people', None, None, None, 0), ('than guns do', None, None, None, 0), ('but no one is suggesting banning cars now are they ?', None, None, None, 1)]

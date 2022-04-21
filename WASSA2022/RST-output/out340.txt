@@ -1,0 +1,15 @@
+=====================> [[('Those poor families in the Middle East . Near the city of Yemen .', None, None, None, 1), ('I guess', None, None, None, 0), ('so much fighting over there has led to really unhealthy living conditions .', None, None, None, 1), ('They are having new suspected cases of cholera all the time ,', None, None, None, 0), ('and most of those ill are young kids .', None, None, None, 1), ("I ca n't even imagine such bad living conditions .", None, None, None, 1), ('These kids deserve a better life . Not fear and illness .', None, None, None, 1)]]
+Leaf:  N Evaluation Those poor families in the Middle East . Near the city of Yemen .
+Leaf:  S span I guess
+Leaf:  N Attribution so much fighting over there has led to really unhealthy living conditions .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint They are having new suspected cases of cholera all the time ,
+Leaf:  N Joint and most of those ill are young kids .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I ca n't even imagine such bad living conditions .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span These kids deserve a better life . Not fear and illness .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Those poor families in the Middle East . Near the city of Yemen .', None, None, None, 1), ('I guess', None, None, None, 0), ('so much fighting over there has led to really unhealthy living conditions .', None, None, None, 1), ('They are having new suspected cases of cholera all the time ,', None, None, None, 0), ('and most of those ill are young kids .', None, None, None, 1), ("I ca n't even imagine such bad living conditions .", None, None, None, 1), ('These kids deserve a better life . Not fear and illness .', None, None, None, 1)]

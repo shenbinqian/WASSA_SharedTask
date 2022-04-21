@@ -1,0 +1,33 @@
+=====================> [[('This is so sad .', None, None, None, 1), ('Many of you know', None, None, None, 0), ('I use to have a lab .', None, None, None, 1), ('They are often the most sweetest , loving dogs around .', None, None, None, 1), ('I can not imagine', None, None, None, 0), ('why someone would take out a gun', None, None, None, 0), ('and shoot one .', None, None, None, 1), ('This is another example', None, None, None, 0), ('( there seem to be countless that happen everyday )', None, None, None, 0), ('of why people should not own guns .', None, None, None, 1), ('I know', None, None, None, 0), ('some people will say', None, None, None, 0), ('it is not a person ,', None, None, None, 0), ('but this is still another needless murder', None, None, None, 0), ('that occurred', None, None, None, 0), ('because of a gun .', None, None, None, 1)]]
+Leaf:  N Explanation This is so sad .
+Leaf:  S span Many of you know
+Leaf:  N Attribution I use to have a lab .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span They are often the most sweetest , loving dogs around .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I can not imagine
+Leaf:  N Temporal why someone would take out a gun
+Leaf:  N Temporal and shoot one .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is another example
+Leaf:  S span ( there seem to be countless that happen everyday )
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit of why people should not own guns .
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span I know
+Leaf:  S span some people will say
+Leaf:  N Attribution it is not a person ,
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but this is still another needless murder
+Leaf:  N Cause that occurred
+Leaf:  S span because of a gun .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Contrast NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('This is so sad .', None, None, None, 1), ('Many of you know', None, None, None, 0), ('I use to have a lab .', None, None, None, 1), ('They are often the most sweetest , loving dogs around .', None, None, None, 1), ('I can not imagine', None, None, None, 0), ('why someone would take out a gun', None, None, None, 0), ('and shoot one .', None, None, None, 1), ('This is another example', None, None, None, 0), ('( there seem to be countless that happen everyday )', None, None, None, 0), ('of why people should not own guns .', None, None, None, 1), ('I know', None, None, None, 0), ('some people will say', None, None, None, 0), ('it is not a person ,', None, None, None, 0), ('but this is still another needless murder', None, None, None, 0), ('that occurred', None, None, None, 0), ('because of a gun .', None, None, None, 1)]

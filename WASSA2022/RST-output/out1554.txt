@@ -1,0 +1,35 @@
+=====================> [[('Dear friend , How are you ?', None, None, None, 1), ('I heard', None, None, None, 0), ('that you fell down the stairs', None, None, None, 0), ('and broke your leg !!', None, None, None, 1), ('Are you ok ? Hope you are getting better .', None, None, None, 1), ('But seriously , what really happened ?', None, None, None, 1), ('Your mum told me', None, None, None, 0), ('that you were running and fell', None, None, None, 0), ('but I want to hear directly from you .', None, None, None, 1), ('I am coming to the hospital', None, None, None, 0), ('to visit you in an hour .', None, None, None, 1), ("That 's my final decision . No one can change it ,", None, None, None, 0), ('and yes', None, None, None, 0), ("because you did n't come to school today", None, None, None, 0), ('you missed a lot of work .', None, None, None, 1), ("Do n't be too happy ,", None, None, None, 0), ("you 'll have to complete the work later", None, None, None, 0)]]
+Leaf:  N Summary Dear friend , How are you ?
+Leaf:  S span I heard
+Leaf:  N Cause that you fell down the stairs
+Leaf:  N Cause and broke your leg !!
+Inner:  N Attribution None Cause NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation Are you ok ? Hope you are getting better .
+Leaf:  S span But seriously , what really happened ?
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  S span Your mum told me
+Leaf:  N Contrast that you were running and fell
+Leaf:  N Contrast but I want to hear directly from you .
+Inner:  N Attribution None Contrast NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement I am coming to the hospital
+Leaf:  S span to visit you in an hour .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint That 's my final decision . No one can change it ,
+Leaf:  N Same-Unit and yes
+Leaf:  S span because you did n't come to school today
+Leaf:  N Cause you missed a lot of work .
+Inner:  N Same-Unit None Cause SN
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Evaluation Do n't be too happy ,
+Leaf:  S span you 'll have to complete the work later
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Summary NS
+[('Dear friend , How are you ?', None, None, None, 1), ('I heard', None, None, None, 0), ('that you fell down the stairs', None, None, None, 0), ('and broke your leg !!', None, None, None, 1), ('Are you ok ? Hope you are getting better .', None, None, None, 1), ('But seriously , what really happened ?', None, None, None, 1), ('Your mum told me', None, None, None, 0), ('that you were running and fell', None, None, None, 0), ('but I want to hear directly from you .', None, None, None, 1), ('I am coming to the hospital', None, None, None, 0), ('to visit you in an hour .', None, None, None, 1), ("That 's my final decision . No one can change it ,", None, None, None, 0), ('and yes', None, None, None, 0), ("because you did n't come to school today", None, None, None, 0), ('you missed a lot of work .', None, None, None, 1), ("Do n't be too happy ,", None, None, None, 0), ("you 'll have to complete the work later", None, None, None, 0)]

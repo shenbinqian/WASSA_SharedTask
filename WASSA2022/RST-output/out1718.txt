@@ -1,0 +1,29 @@
+=====================> [[('So i just read this horrific article', None, None, None, 0), ('about women in nigeria', None, None, None, 0), ('being raped by the officials', None, None, None, 0), ('that rescued them from Boko Haram .', None, None, None, 1), ("If you do n't know about Boko Haram", None, None, None, 0), ('you should really look them up .', None, None, None, 1), ('These poor women have no one to trust .', None, None, None, 1), ('I am shocked', None, None, None, 0), ('by what i read', None, None, None, 0), ('and feel so sorry for these people .', None, None, None, 1), ('i wish there was something', None, None, None, 0), ('we could do', None, None, None, 0), ('that would have real impact on their lives .', None, None, None, 1), ('you must read this article .', None, None, None, 1)]]
+Leaf:  N Elaborate So i just read this horrific article
+Leaf:  S span about women in nigeria
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate being raped by the officials
+Leaf:  S span that rescued them from Boko Haram .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span If you do n't know about Boko Haram
+Leaf:  N Condition you should really look them up .
+Inner:  S span None Condition SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span These poor women have no one to trust .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I am shocked
+Leaf:  N Attribution by what i read
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and feel so sorry for these people .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate i wish there was something
+Leaf:  N Elaborate we could do
+Leaf:  S span that would have real impact on their lives .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Textual-Organization you must read this article .
+Inner:  Root None None Textual-Organization NN
+[('So i just read this horrific article', None, None, None, 0), ('about women in nigeria', None, None, None, 0), ('being raped by the officials', None, None, None, 0), ('that rescued them from Boko Haram .', None, None, None, 1), ("If you do n't know about Boko Haram", None, None, None, 0), ('you should really look them up .', None, None, None, 1), ('These poor women have no one to trust .', None, None, None, 1), ('I am shocked', None, None, None, 0), ('by what i read', None, None, None, 0), ('and feel so sorry for these people .', None, None, None, 1), ('i wish there was something', None, None, None, 0), ('we could do', None, None, None, 0), ('that would have real impact on their lives .', None, None, None, 1), ('you must read this article .', None, None, None, 1)]

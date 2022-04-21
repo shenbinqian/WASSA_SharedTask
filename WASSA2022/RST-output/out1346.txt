@@ -1,0 +1,43 @@
+=====================> [[('Hey .', None, None, None, 1), ('I just read an article about Somali refugees in America', None, None, None, 0), ('and I had many thoughts .', None, None, None, 1), ('I understand', None, None, None, 0), ('where these refugees are coming from .', None, None, None, 1), ('Having to leave their home', None, None, None, 0), ('and come to a foreign country', None, None, None, 0), ("where they do n't know many people and having others not want you there .", None, None, None, 1), ('I understand', None, None, None, 0), ('that they had to leave their home country', None, None, None, 0), ('because of whatever issues the country was having', None, None, None, 0), ('but I wonder', None, None, None, 0), ("if these refugees could try a bit harder . It 's hard to come here as an immigrant and I 'm sure way more harder to come as a refugee", None, None, None, 0), ('but taking initiatives', None, None, None, 0), ('to push forward', None, None, None, 0), ('and somehow make it work would be the best thing possible . It did make me feel sad for them .', None, None, None, 1), ('I wondered', None, None, None, 0), ("if it 's possible to give them more aid", None, None, None, 0), ('based on working or something', None, None, None, 0), ('to reward them', None, None, None, 0), ('for being a member of society .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Hey .
+Leaf:  S span I just read an article about Somali refugees in America
+Leaf:  N Cause and I had many thoughts .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Elaborate I understand
+Leaf:  S span where these refugees are coming from .
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Temporal Having to leave their home
+Leaf:  N Elaborate and come to a foreign country
+Leaf:  S span where they do n't know many people and having others not want you there .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span I understand
+Leaf:  N Explanation that they had to leave their home country
+Leaf:  S span because of whatever issues the country was having
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Leaf:  S span but I wonder
+Leaf:  N Attribution if these refugees could try a bit harder . It 's hard to come here as an immigrant and I 'm sure way more harder to come as a refugee
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate but taking initiatives
+Leaf:  N Joint to push forward
+Leaf:  N Joint and somehow make it work would be the best thing possible . It did make me feel sad for them .
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I wondered
+Leaf:  N Background if it 's possible to give them more aid
+Leaf:  S span based on working or something
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate to reward them
+Leaf:  S span for being a member of society .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Explanation NS
+Inner:  S span None Contrast SN
+Inner:  N Textual-Organization None Cause NS
+Inner:  Root None None Textual-Organization NN
+[('Hey .', None, None, None, 1), ('I just read an article about Somali refugees in America', None, None, None, 0), ('and I had many thoughts .', None, None, None, 1), ('I understand', None, None, None, 0), ('where these refugees are coming from .', None, None, None, 1), ('Having to leave their home', None, None, None, 0), ('and come to a foreign country', None, None, None, 0), ("where they do n't know many people and having others not want you there .", None, None, None, 1), ('I understand', None, None, None, 0), ('that they had to leave their home country', None, None, None, 0), ('because of whatever issues the country was having', None, None, None, 0), ('but I wonder', None, None, None, 0), ("if these refugees could try a bit harder . It 's hard to come here as an immigrant and I 'm sure way more harder to come as a refugee", None, None, None, 0), ('but taking initiatives', None, None, None, 0), ('to push forward', None, None, None, 0), ('and somehow make it work would be the best thing possible . It did make me feel sad for them .', None, None, None, 1), ('I wondered', None, None, None, 0), ("if it 's possible to give them more aid", None, None, None, 0), ('based on working or something', None, None, None, 0), ('to reward them', None, None, None, 0), ('for being a member of society .', None, None, None, 1)]

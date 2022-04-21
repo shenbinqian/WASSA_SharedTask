@@ -1,0 +1,19 @@
+=====================> [[('I was reading an article about the Zika virus .', None, None, None, 1), ('It was a fairly comprehensive article', None, None, None, 0), ('that went over', None, None, None, 0), ('what the virus was and how it affects humans .', None, None, None, 1), ("It 's scary how it can be transmitted through sexual intercourse .", None, None, None, 1), ("I still do n't think", None, None, None, 0), ('I have any serious chance', None, None, None, 0), ('of contracting the virus fortunately .', None, None, None, 1), ('Those that have are going to have a hard time in life .', None, None, None, 1)]]
+Leaf:  N Elaborate I was reading an article about the Zika virus .
+Leaf:  N Elaborate It was a fairly comprehensive article
+Leaf:  S span that went over
+Leaf:  N Attribution what the virus was and how it affects humans .
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's scary how it can be transmitted through sexual intercourse .
+Inner:  S span None Evaluation NS
+Leaf:  S span I still do n't think
+Leaf:  N Elaborate I have any serious chance
+Leaf:  S span of contracting the virus fortunately .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span Those that have are going to have a hard time in life .
+Inner:  Root None None Evaluation NS
+[('I was reading an article about the Zika virus .', None, None, None, 1), ('It was a fairly comprehensive article', None, None, None, 0), ('that went over', None, None, None, 0), ('what the virus was and how it affects humans .', None, None, None, 1), ("It 's scary how it can be transmitted through sexual intercourse .", None, None, None, 1), ("I still do n't think", None, None, None, 0), ('I have any serious chance', None, None, None, 0), ('of contracting the virus fortunately .', None, None, None, 1), ('Those that have are going to have a hard time in life .', None, None, None, 1)]

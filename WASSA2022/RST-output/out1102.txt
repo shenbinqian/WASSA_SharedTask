@@ -1,0 +1,39 @@
+=====================> [[("Dear C. , It 's so weird how little I know about the food", None, None, None, 0), ('I eat .', None, None, None, 1), ('Just read an article about bananas , the kind', None, None, None, 0), ('you buy in a supermarket ,', None, None, None, 0), ('which are apparently called Cavendish bananas', None, None, None, 0), ('and are expressly considered " commercial " . Apparently , commercial bananas are under threat due to their lack of genetic diversity ,', None, None, None, 0), ('making them prone to fungal diseases', None, None, None, 0), ('-- another variation , " Big Mike " , went the way of the buffalo in the 60s for the same reason .', None, None, None, 1), ('I am not certain about the suggestion', None, None, None, 0), ('that wild bananas be used', None, None, None, 0), ('to produce new variations ,', None, None, None, 0), ('tho .', None, None, None, 1), ('I have a hunch', None, None, None, 0), ('that this would drive the cost of bananas up ,', None, None, None, 0), ('which is concerning .', None, None, None, 1), ('It might be possible in someplace like the U.S. ,', None, None, None, 0), ('where we have money for R & D ,', None, None, None, 0), ('but I worry', None, None, None, 0), ('about how this would affect people in poorer countries .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear C. , It 's so weird how little I know about the food
+Leaf:  S span I eat .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Just read an article about bananas , the kind
+Leaf:  S span you buy in a supermarket ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span which are apparently called Cavendish bananas
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and are expressly considered " commercial " . Apparently , commercial bananas are under threat due to their lack of genetic diversity ,
+Inner:  N Cause None Joint NN
+Leaf:  N Elaborate making them prone to fungal diseases
+Leaf:  S span -- another variation , " Big Mike " , went the way of the buffalo in the 60s for the same reason .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate I am not certain about the suggestion
+Leaf:  N Enablement that wild bananas be used
+Leaf:  S span to produce new variations ,
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span tho .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I have a hunch
+Leaf:  N Attribution that this would drive the cost of bananas up ,
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span which is concerning .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It might be possible in someplace like the U.S. ,
+Leaf:  S span where we have money for R & D ,
+Inner:  S span None Elaborate NS
+Leaf:  S span but I worry
+Leaf:  N Attribution about how this would affect people in poorer countries .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("Dear C. , It 's so weird how little I know about the food", None, None, None, 0), ('I eat .', None, None, None, 1), ('Just read an article about bananas , the kind', None, None, None, 0), ('you buy in a supermarket ,', None, None, None, 0), ('which are apparently called Cavendish bananas', None, None, None, 0), ('and are expressly considered " commercial " . Apparently , commercial bananas are under threat due to their lack of genetic diversity ,', None, None, None, 0), ('making them prone to fungal diseases', None, None, None, 0), ('-- another variation , " Big Mike " , went the way of the buffalo in the 60s for the same reason .', None, None, None, 1), ('I am not certain about the suggestion', None, None, None, 0), ('that wild bananas be used', None, None, None, 0), ('to produce new variations ,', None, None, None, 0), ('tho .', None, None, None, 1), ('I have a hunch', None, None, None, 0), ('that this would drive the cost of bananas up ,', None, None, None, 0), ('which is concerning .', None, None, None, 1), ('It might be possible in someplace like the U.S. ,', None, None, None, 0), ('where we have money for R & D ,', None, None, None, 0), ('but I worry', None, None, None, 0), ('about how this would affect people in poorer countries .', None, None, None, 1)]

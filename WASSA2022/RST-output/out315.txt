@@ -1,0 +1,23 @@
+=====================> [[('Yet another reason', None, None, None, 0), ('to have more strict immigration rules .', None, None, None, 1), ('These people know the dangers', None, None, None, 0), ('that they face', None, None, None, 0), ('when they do this ,', None, None, None, 0), ('so it is hard to feel very sorry for them .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('giving them more information on these dangers will stop them ,', None, None, None, 0), ('but patrolling the waters', None, None, None, 0), ('and turning these human traffickers back will . If it is made difficult for these human traffickers to exploit these people ,', None, None, None, 0), ('it will happen less often .', None, None, None, 1)]]
+Leaf:  N Elaborate Yet another reason
+Leaf:  S span to have more strict immigration rules .
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate These people know the dangers
+Leaf:  N Background that they face
+Leaf:  S span when they do this ,
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Leaf:  N Cause so it is hard to feel very sorry for them .
+Inner:  N Elaborate None Cause SN
+Leaf:  S span I do n't think
+Leaf:  N Attribution giving them more information on these dangers will stop them ,
+Inner:  S span None Attribution SN
+Leaf:  N Joint but patrolling the waters
+Leaf:  N Joint and turning these human traffickers back will . If it is made difficult for these human traffickers to exploit these people ,
+Inner:  S span None Joint NN
+Leaf:  N Condition it will happen less often .
+Inner:  N Contrast None Condition SN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Yet another reason', None, None, None, 0), ('to have more strict immigration rules .', None, None, None, 1), ('These people know the dangers', None, None, None, 0), ('that they face', None, None, None, 0), ('when they do this ,', None, None, None, 0), ('so it is hard to feel very sorry for them .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('giving them more information on these dangers will stop them ,', None, None, None, 0), ('but patrolling the waters', None, None, None, 0), ('and turning these human traffickers back will . If it is made difficult for these human traffickers to exploit these people ,', None, None, None, 0), ('it will happen less often .', None, None, None, 1)]

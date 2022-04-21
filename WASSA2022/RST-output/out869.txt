@@ -1,0 +1,23 @@
+=====================> [[('Wow , this is tragic .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that China will improve their safety standards ,', None, None, None, 0), ('but I know', None, None, None, 0), ('this is a big problem all over in developing countries .', None, None, None, 1), ('Remember when that factory burned down in Bangladesh ?', None, None, None, 1), ("And we ca n't pretend this is n't our problem too ,", None, None, None, 0), ('when we support them economically .', None, None, None, 1), ('If we buy products', None, None, None, 0), ('created in unsafe working conditions ,', None, None, None, 0), ('we have a hand in those deaths too .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , this is tragic .
+Leaf:  S span I really hope
+Leaf:  N Attribution that China will improve their safety standards ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span but I know
+Leaf:  N Attribution this is a big problem all over in developing countries .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span Remember when that factory burned down in Bangladesh ?
+Inner:  S span None Explanation NS
+Inner:  N Summary None Contrast NS
+Leaf:  N Background And we ca n't pretend this is n't our problem too ,
+Leaf:  S span when we support them economically .
+Inner:  N Elaborate None Background NS
+Leaf:  N Elaborate If we buy products
+Leaf:  S span created in unsafe working conditions ,
+Inner:  S span None Elaborate NS
+Leaf:  N Condition we have a hand in those deaths too .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Summary NS
+Inner:  Root None None Elaborate NS
+[('Wow , this is tragic .', None, None, None, 1), ('I really hope', None, None, None, 0), ('that China will improve their safety standards ,', None, None, None, 0), ('but I know', None, None, None, 0), ('this is a big problem all over in developing countries .', None, None, None, 1), ('Remember when that factory burned down in Bangladesh ?', None, None, None, 1), ("And we ca n't pretend this is n't our problem too ,", None, None, None, 0), ('when we support them economically .', None, None, None, 1), ('If we buy products', None, None, None, 0), ('created in unsafe working conditions ,', None, None, None, 0), ('we have a hand in those deaths too .', None, None, None, 1)]

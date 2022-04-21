@@ -1,0 +1,29 @@
+=====================> [[('i was reading about a dad', None, None, None, 0), ('who lost his daughter in the Charlie Hedbo attacks in Paris .', None, None, None, 1), ('it was touching .', None, None, None, 1), ('i mean , it was dark ,', None, None, None, 0), ('him talking about losing her and those feeling , as well as those of other people', None, None, None, 0), ('who lived it .', None, None, None, 1), ('but his story touched me .', None, None, None, 1), ('he was talking about all the notes', None, None, None, 0), ('he recieved', None, None, None, 0), ('and how there was such an outpouring .', None, None, None, 1), ('he wrote a book ,', None, None, None, 0), ("and he 's healing .", None, None, None, 1), ('nice to see theres some form of recovery', None, None, None, 0), ('after something so awful', None, None, None, 0)]]
+Leaf:  N Elaborate i was reading about a dad
+Leaf:  S span who lost his daughter in the Charlie Hedbo attacks in Paris .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Explanation it was touching .
+Leaf:  N Elaborate i mean , it was dark ,
+Leaf:  N Elaborate him talking about losing her and those feeling , as well as those of other people
+Leaf:  S span who lived it .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Leaf:  N Elaborate but his story touched me .
+Leaf:  N Elaborate he was talking about all the notes
+Leaf:  S span he recieved
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and how there was such an outpouring .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint he wrote a book ,
+Leaf:  N Joint and he 's healing .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Temporal nice to see theres some form of recovery
+Leaf:  S span after something so awful
+Inner:  S span None Temporal NS
+Inner:  Root None None Elaborate NS
+[('i was reading about a dad', None, None, None, 0), ('who lost his daughter in the Charlie Hedbo attacks in Paris .', None, None, None, 1), ('it was touching .', None, None, None, 1), ('i mean , it was dark ,', None, None, None, 0), ('him talking about losing her and those feeling , as well as those of other people', None, None, None, 0), ('who lived it .', None, None, None, 1), ('but his story touched me .', None, None, None, 1), ('he was talking about all the notes', None, None, None, 0), ('he recieved', None, None, None, 0), ('and how there was such an outpouring .', None, None, None, 1), ('he wrote a book ,', None, None, None, 0), ("and he 's healing .", None, None, None, 1), ('nice to see theres some form of recovery', None, None, None, 0), ('after something so awful', None, None, None, 0)]

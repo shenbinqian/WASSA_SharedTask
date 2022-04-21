@@ -1,0 +1,29 @@
+=====================> [[('As a woman , it is very discouraging to see that we are being paid less in several countries', None, None, None, 0), ('just because of our gender .', None, None, None, 1), ('I am in awe of the women in Iceland', None, None, None, 0), ('that have the courage', None, None, None, 0), ('to leave work early on this day in a demonstration .', None, None, None, 1), ('Their perseverance', None, None, None, 0), ('to continue to protest peacefully', None, None, None, 0), ('is making a chance , albeit a small one', None, None, None, 0), ('based on the percentages .', None, None, None, 1), ("I 'm just saddened by the times", None, None, None, 0), ('shown in the article', None, None, None, 0), ('that women would need', None, None, None, 0), ('to leave in each country', None, None, None, 0), ("to be equal to a man 's pay still .", None, None, None, 1)]]
+Leaf:  N Cause As a woman , it is very discouraging to see that we are being paid less in several countries
+Leaf:  S span just because of our gender .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate I am in awe of the women in Iceland
+Leaf:  N Elaborate that have the courage
+Leaf:  S span to leave work early on this day in a demonstration .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Their perseverance
+Leaf:  S span to continue to protest peacefully
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Background is making a chance , albeit a small one
+Leaf:  S span based on the percentages .
+Inner:  N Same-Unit None Background NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I 'm just saddened by the times
+Leaf:  S span shown in the article
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate that women would need
+Leaf:  S span to leave in each country
+Inner:  N Enablement None Elaborate NS
+Leaf:  S span to be equal to a man 's pay still .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('As a woman , it is very discouraging to see that we are being paid less in several countries', None, None, None, 0), ('just because of our gender .', None, None, None, 1), ('I am in awe of the women in Iceland', None, None, None, 0), ('that have the courage', None, None, None, 0), ('to leave work early on this day in a demonstration .', None, None, None, 1), ('Their perseverance', None, None, None, 0), ('to continue to protest peacefully', None, None, None, 0), ('is making a chance , albeit a small one', None, None, None, 0), ('based on the percentages .', None, None, None, 1), ("I 'm just saddened by the times", None, None, None, 0), ('shown in the article', None, None, None, 0), ('that women would need', None, None, None, 0), ('to leave in each country', None, None, None, 0), ("to be equal to a man 's pay still .", None, None, None, 1)]

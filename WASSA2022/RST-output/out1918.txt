@@ -1,0 +1,23 @@
+=====================> [[("I 'm not sure", None, None, None, 0), ('why some people do the things', None, None, None, 0), ('they do .', None, None, None, 1), ("I 'm really not .", None, None, None, 1), ("Some people 's heads just are n't wired right .", None, None, None, 1), ("I ca n't figure out what triggers in someone 's head", None, None, None, 0), ('to act like this .', None, None, None, 1), ('It really is inexcusable .', None, None, None, 1), ('Things like this happen all the time', None, None, None, 0), ('and there is just no excuse for it .', None, None, None, 1), ("It 's shameful", None, None, None, 0)]]
+Leaf:  S span I 'm not sure
+Leaf:  N Elaborate why some people do the things
+Leaf:  S span they do .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I 'm really not .
+Inner:  N Explanation None Evaluation NS
+Leaf:  N Joint Some people 's heads just are n't wired right .
+Leaf:  N Elaborate I ca n't figure out what triggers in someone 's head
+Leaf:  S span to act like this .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It really is inexcusable .
+Leaf:  N Joint Things like this happen all the time
+Leaf:  N Joint and there is just no excuse for it .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It 's shameful
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[("I 'm not sure", None, None, None, 0), ('why some people do the things', None, None, None, 0), ('they do .', None, None, None, 1), ("I 'm really not .", None, None, None, 1), ("Some people 's heads just are n't wired right .", None, None, None, 1), ("I ca n't figure out what triggers in someone 's head", None, None, None, 0), ('to act like this .', None, None, None, 1), ('It really is inexcusable .', None, None, None, 1), ('Things like this happen all the time', None, None, None, 0), ('and there is just no excuse for it .', None, None, None, 1), ("It 's shameful", None, None, None, 0)]

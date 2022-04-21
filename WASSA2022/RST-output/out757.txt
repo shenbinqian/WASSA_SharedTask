@@ -1,0 +1,17 @@
+=====================> [[('This kind of stuff is definitely very political', None, None, None, 0), ('because it shows', None, None, None, 0), ('how corrupt the Venezuelan government is very corrupt .', None, None, None, 1), ('I get that every country has their own issues ,', None, None, None, 0), ('but what happened here is absolutely ridiculous !', None, None, None, 1), ("Would n't want to live here at all .", None, None, None, 1), ('You guys should check this out', None, None, None, 0), ('whenever you get a chance .', None, None, None, 1)]]
+Leaf:  N Explanation This kind of stuff is definitely very political
+Leaf:  S span because it shows
+Leaf:  N Attribution how corrupt the Venezuelan government is very corrupt .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I get that every country has their own issues ,
+Leaf:  N Contrast but what happened here is absolutely ridiculous !
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span Would n't want to live here at all .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Temporal You guys should check this out
+Leaf:  S span whenever you get a chance .
+Inner:  S span None Temporal NS
+Inner:  Root None None Evaluation NS
+[('This kind of stuff is definitely very political', None, None, None, 0), ('because it shows', None, None, None, 0), ('how corrupt the Venezuelan government is very corrupt .', None, None, None, 1), ('I get that every country has their own issues ,', None, None, None, 0), ('but what happened here is absolutely ridiculous !', None, None, None, 1), ("Would n't want to live here at all .", None, None, None, 1), ('You guys should check this out', None, None, None, 0), ('whenever you get a chance .', None, None, None, 1)]

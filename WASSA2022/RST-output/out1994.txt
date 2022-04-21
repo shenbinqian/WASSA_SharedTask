@@ -1,0 +1,21 @@
+=====================> [[('It is very sad', None, None, None, 0), ('when a child is being sexually abused by the people', None, None, None, 0), ('who are supposed to be loving', None, None, None, 0), ('and taking care of them .', None, None, None, 1), ('It is also very sad when teachers and administrators prey on young kids', None, None, None, 0), ('that they mentor or teach .', None, None, None, 1), ('They are robbing these kids of the ability', None, None, None, 0), ('to fully sexually develop in a healthy manner', None, None, None, 0), ('and in some cases they are emotionally scarring these children for life .', None, None, None, 1), ('Cases like these should carry very lengthy prison sentences in my opinion .', None, None, None, 1)]]
+Leaf:  N Condition It is very sad
+Leaf:  N Elaborate when a child is being sexually abused by the people
+Leaf:  N Joint who are supposed to be loving
+Leaf:  N Joint and taking care of them .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Condition NS
+Leaf:  N Elaborate It is also very sad when teachers and administrators prey on young kids
+Leaf:  S span that they mentor or teach .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate They are robbing these kids of the ability
+Leaf:  S span to fully sexually develop in a healthy manner
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and in some cases they are emotionally scarring these children for life .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Cases like these should carry very lengthy prison sentences in my opinion .
+Inner:  Root None None Elaborate NS
+[('It is very sad', None, None, None, 0), ('when a child is being sexually abused by the people', None, None, None, 0), ('who are supposed to be loving', None, None, None, 0), ('and taking care of them .', None, None, None, 1), ('It is also very sad when teachers and administrators prey on young kids', None, None, None, 0), ('that they mentor or teach .', None, None, None, 1), ('They are robbing these kids of the ability', None, None, None, 0), ('to fully sexually develop in a healthy manner', None, None, None, 0), ('and in some cases they are emotionally scarring these children for life .', None, None, None, 1), ('Cases like these should carry very lengthy prison sentences in my opinion .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[("It 's really unfortunate that North Korea does n't seem able to help their citizens during a natural disaster .", None, None, None, 1), ('Hopefully some other country is willing to step up', None, None, None, 0), ('and offer assistance ,', None, None, None, 0), ("although I do n't know", None, None, None, 0), ('how that works', None, None, None, 0), ("since they do n't really let people in .", None, None, None, 1), ('It must be pretty devastating', None, None, None, 0), ('if they are resorting to asking for outside help .', None, None, None, 1)]]
+Leaf:  N Topic-Comment It 's really unfortunate that North Korea does n't seem able to help their citizens during a natural disaster .
+Leaf:  N Joint Hopefully some other country is willing to step up
+Leaf:  N Joint and offer assistance ,
+Inner:  N Contrast None Joint NN
+Leaf:  S span although I do n't know
+Leaf:  N Attribution how that works
+Inner:  N Explanation None Attribution SN
+Leaf:  S span since they do n't really let people in .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Condition It must be pretty devastating
+Leaf:  S span if they are resorting to asking for outside help .
+Inner:  S span None Condition NS
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  Root None None Topic-Comment NN
+[("It 's really unfortunate that North Korea does n't seem able to help their citizens during a natural disaster .", None, None, None, 1), ('Hopefully some other country is willing to step up', None, None, None, 0), ('and offer assistance ,', None, None, None, 0), ("although I do n't know", None, None, None, 0), ('how that works', None, None, None, 0), ("since they do n't really let people in .", None, None, None, 1), ('It must be pretty devastating', None, None, None, 0), ('if they are resorting to asking for outside help .', None, None, None, 1)]

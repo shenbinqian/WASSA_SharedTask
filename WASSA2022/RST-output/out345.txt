@@ -1,0 +1,25 @@
+=====================> [[('I have a lot of sympathy for everyone', None, None, None, 0), ('worried about the Trump administration .', None, None, None, 1), ('I get it .', None, None, None, 1), ("They 're not wrong to be worried .", None, None, None, 1), ('I think', None, None, None, 0), ('the author of this article misidentifies the source of the problem , though .', None, None, None, 1), ("It 's not Trump .", None, None, None, 1), ("Trump himself is n't why we 're in this situation .", None, None, None, 1), ("It 's the people and institutions", None, None, None, 0), ('who supported him and the people and institutions', None, None, None, 0), ('who were ineffective at combating him', None, None, None, 0), ("that deserve the lion 's share of the blame .", None, None, None, 1)]]
+Leaf:  N Elaborate I have a lot of sympathy for everyone
+Leaf:  S span worried about the Trump administration .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation I get it .
+Leaf:  S span They 're not wrong to be worried .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Leaf:  S span I think
+Leaf:  N Attribution the author of this article misidentifies the source of the problem , though .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Joint It 's not Trump .
+Leaf:  N Contrast Trump himself is n't why we 're in this situation .
+Leaf:  N Elaborate It 's the people and institutions
+Leaf:  N Elaborate who supported him and the people and institutions
+Leaf:  S span who were ineffective at combating him
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit that deserve the lion 's share of the blame .
+Inner:  N Contrast None Same-Unit NN
+Inner:  N Joint None Contrast NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  Root None None Contrast SN
+[('I have a lot of sympathy for everyone', None, None, None, 0), ('worried about the Trump administration .', None, None, None, 1), ('I get it .', None, None, None, 1), ("They 're not wrong to be worried .", None, None, None, 1), ('I think', None, None, None, 0), ('the author of this article misidentifies the source of the problem , though .', None, None, None, 1), ("It 's not Trump .", None, None, None, 1), ("Trump himself is n't why we 're in this situation .", None, None, None, 1), ("It 's the people and institutions", None, None, None, 0), ('who supported him and the people and institutions', None, None, None, 0), ('who were ineffective at combating him', None, None, None, 0), ("that deserve the lion 's share of the blame .", None, None, None, 1)]

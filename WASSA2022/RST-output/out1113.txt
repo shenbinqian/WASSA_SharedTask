@@ -1,0 +1,19 @@
+=====================> [[('There should be a class action lawsuit against the company', None, None, None, 0), ('putting out dangerous products .', None, None, None, 1), ('They are liable for any injuries', None, None, None, 0), ('they have caused .', None, None, None, 1), ('People should be given restitution for the damages', None, None, None, 0), ('they have suffered .', None, None, None, 1), ('I am glad', None, None, None, 0), ('Kylie is speaking out against this', None, None, None, 0), ('and hopefully she can prevent further injuries to unsuspecting consumers .', None, None, None, 1)]]
+Leaf:  N Elaborate There should be a class action lawsuit against the company
+Leaf:  S span putting out dangerous products .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate They are liable for any injuries
+Leaf:  S span they have caused .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate People should be given restitution for the damages
+Leaf:  S span they have suffered .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I am glad
+Leaf:  N Joint Kylie is speaking out against this
+Leaf:  N Joint and hopefully she can prevent further injuries to unsuspecting consumers .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('There should be a class action lawsuit against the company', None, None, None, 0), ('putting out dangerous products .', None, None, None, 1), ('They are liable for any injuries', None, None, None, 0), ('they have caused .', None, None, None, 1), ('People should be given restitution for the damages', None, None, None, 0), ('they have suffered .', None, None, None, 1), ('I am glad', None, None, None, 0), ('Kylie is speaking out against this', None, None, None, 0), ('and hopefully she can prevent further injuries to unsuspecting consumers .', None, None, None, 1)]

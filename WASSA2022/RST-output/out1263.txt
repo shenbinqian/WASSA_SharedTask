@@ -1,0 +1,29 @@
+=====================> [[('So there were the guys', None, None, None, 0), ('who were basically mad', None, None, None, 0), ('the government made local land into a wildlife refuge .', None, None, None, 1), ('They went as far as getting a militia together .', None, None, None, 1), ('They had guns', None, None, None, 0), ('and were watching .', None, None, None, 1), ('They had a whole group of them involved .', None, None, None, 1), ('The problem is they shot and killed someone .', None, None, None, 1), ('Can you say it went to far ? I do .', None, None, None, 1), ('I think', None, None, None, 0), ('the whole thing was a bit much .', None, None, None, 1), ('I mean they just took over the federal land .', None, None, None, 1), ("You ca n't just do that", None, None, None, 0), ('no matter what you stand for .', None, None, None, 1)]]
+Leaf:  N Elaborate So there were the guys
+Leaf:  S span who were basically mad
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span the government made local land into a wildlife refuge .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate They went as far as getting a militia together .
+Leaf:  N Joint They had guns
+Leaf:  N Joint and were watching .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They had a whole group of them involved .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The problem is they shot and killed someone .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Can you say it went to far ? I do .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Attribution the whole thing was a bit much .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I mean they just took over the federal land .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Contrast You ca n't just do that
+Leaf:  S span no matter what you stand for .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('So there were the guys', None, None, None, 0), ('who were basically mad', None, None, None, 0), ('the government made local land into a wildlife refuge .', None, None, None, 1), ('They went as far as getting a militia together .', None, None, None, 1), ('They had guns', None, None, None, 0), ('and were watching .', None, None, None, 1), ('They had a whole group of them involved .', None, None, None, 1), ('The problem is they shot and killed someone .', None, None, None, 1), ('Can you say it went to far ? I do .', None, None, None, 1), ('I think', None, None, None, 0), ('the whole thing was a bit much .', None, None, None, 1), ('I mean they just took over the federal land .', None, None, None, 1), ("You ca n't just do that", None, None, None, 0), ('no matter what you stand for .', None, None, None, 1)]

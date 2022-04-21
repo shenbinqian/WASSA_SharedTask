@@ -1,0 +1,29 @@
+=====================> [[('Hey T , I found an article', None, None, None, 0), ('that I thought', None, None, None, 0), ('you would be interested in .', None, None, None, 1), ('It is about how Iraqis found evidence of torture by Islanic State in mass graves near the city Mosul .', None, None, None, 1), ('Can you believe that ,', None, None, None, 0), ('they literally just killed and dumped bodies there .', None, None, None, 1), ('From what the articles says in just one hours time they found 20 to 25 bodies .', None, None, None, 1), ('Some where hard to even tell', None, None, None, 0), ('if it were human or not .', None, None, None, 1), ("They still ca n't figure out how they died", None, None, None, 0), ('but they will soon enough . Though from the state of decomposition it has only been a few weeks', None, None, None, 0), ('that they have been there .', None, None, None, 1), ('All I can say', None, None, None, 0), ('is that were tortured point blank .', None, None, None, 1)]]
+Leaf:  N Elaborate Hey T , I found an article
+Leaf:  S span that I thought
+Leaf:  N Attribution you would be interested in .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation It is about how Iraqis found evidence of torture by Islanic State in mass graves near the city Mosul .
+Leaf:  N Manner-Means Can you believe that ,
+Leaf:  S span they literally just killed and dumped bodies there .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Joint From what the articles says in just one hours time they found 20 to 25 bodies .
+Leaf:  S span Some where hard to even tell
+Leaf:  N Attribution if it were human or not .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They still ca n't figure out how they died
+Leaf:  N Elaborate but they will soon enough . Though from the state of decomposition it has only been a few weeks
+Leaf:  S span that they have been there .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span All I can say
+Leaf:  N Attribution is that were tortured point blank .
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('Hey T , I found an article', None, None, None, 0), ('that I thought', None, None, None, 0), ('you would be interested in .', None, None, None, 1), ('It is about how Iraqis found evidence of torture by Islanic State in mass graves near the city Mosul .', None, None, None, 1), ('Can you believe that ,', None, None, None, 0), ('they literally just killed and dumped bodies there .', None, None, None, 1), ('From what the articles says in just one hours time they found 20 to 25 bodies .', None, None, None, 1), ('Some where hard to even tell', None, None, None, 0), ('if it were human or not .', None, None, None, 1), ("They still ca n't figure out how they died", None, None, None, 0), ('but they will soon enough . Though from the state of decomposition it has only been a few weeks', None, None, None, 0), ('that they have been there .', None, None, None, 1), ('All I can say', None, None, None, 0), ('is that were tortured point blank .', None, None, None, 1)]

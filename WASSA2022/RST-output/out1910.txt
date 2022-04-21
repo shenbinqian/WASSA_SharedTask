@@ -1,0 +1,37 @@
+=====================> [[('I read a short article about a father and son dying', None, None, None, 0), ('after falling from a cliff .', None, None, None, 1), ('That is so sad ,', None, None, None, 0), ('I wonder', None, None, None, 0), ('how the rest of the family is taking it .', None, None, None, 1), ('Could you imagine falling from a cliff ?', None, None, None, 1), ('I had a friend', None, None, None, 0), ('when I was young', None, None, None, 0), ('named Phillip', None, None, None, 0), ('who fell from a mountain and died . It took a few days for his body to be found .', None, None, None, 1), ('I think', None, None, None, 0), ('that is a horrible way to die .', None, None, None, 1), ('I mean they died', None, None, None, 0), ('doing what they loved', None, None, None, 0), ('I guess', None, None, None, 0), ('but still its never good to hear about a death .', None, None, None, 1), ('I want to see everybody', None, None, None, 0), ('living their best life .', None, None, None, 1)]]
+Leaf:  N Cause I read a short article about a father and son dying
+Leaf:  S span after falling from a cliff .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Cause That is so sad ,
+Leaf:  S span I wonder
+Leaf:  N Attribution how the rest of the family is taking it .
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Could you imagine falling from a cliff ?
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Comparison I had a friend
+Leaf:  N Elaborate when I was young
+Leaf:  N Elaborate named Phillip
+Leaf:  S span who fell from a mountain and died . It took a few days for his body to be found .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Comparison NS
+Leaf:  S span I think
+Leaf:  N Attribution that is a horrible way to die .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate I mean they died
+Leaf:  S span doing what they loved
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I guess
+Inner:  S span None Attribution NS
+Leaf:  N Contrast but still its never good to hear about a death .
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I want to see everybody
+Leaf:  S span living their best life .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I read a short article about a father and son dying', None, None, None, 0), ('after falling from a cliff .', None, None, None, 1), ('That is so sad ,', None, None, None, 0), ('I wonder', None, None, None, 0), ('how the rest of the family is taking it .', None, None, None, 1), ('Could you imagine falling from a cliff ?', None, None, None, 1), ('I had a friend', None, None, None, 0), ('when I was young', None, None, None, 0), ('named Phillip', None, None, None, 0), ('who fell from a mountain and died . It took a few days for his body to be found .', None, None, None, 1), ('I think', None, None, None, 0), ('that is a horrible way to die .', None, None, None, 1), ('I mean they died', None, None, None, 0), ('doing what they loved', None, None, None, 0), ('I guess', None, None, None, 0), ('but still its never good to hear about a death .', None, None, None, 1), ('I want to see everybody', None, None, None, 0), ('living their best life .', None, None, None, 1)]

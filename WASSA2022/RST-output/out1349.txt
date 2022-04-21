@@ -1,0 +1,29 @@
+=====================> [[('Thinking about air conditions in other countries I wonder', None, None, None, 0), ('if other countries', None, None, None, 0), ('who have the capability', None, None, None, 0), ('can help out .', None, None, None, 1), ('The article I read was about air quality', None, None, None, 0), ('and I wondered', None, None, None, 0), ("if it 's hard to teach Indian citizens the affects", None, None, None, 0), ('of what they are doing .', None, None, None, 1), ('Maybe teaching them in school would help .', None, None, None, 1), ('It seems many people are suffering', None, None, None, 0), ('and changing for the better would benefit a lot of people .', None, None, None, 1), ('I guess', None, None, None, 0), ('us caring about those would also be beneficial to us', None, None, None, 0), ('because we all share the same planet .', None, None, None, 1)]]
+Leaf:  S span Thinking about air conditions in other countries I wonder
+Leaf:  N Elaborate if other countries
+Leaf:  S span who have the capability
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can help out .
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation The article I read was about air quality
+Leaf:  S span and I wondered
+Leaf:  N Elaborate if it 's hard to teach Indian citizens the affects
+Leaf:  S span of what they are doing .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span Maybe teaching them in school would help .
+Inner:  N Evaluation None Evaluation NS
+Inner:  N Explanation None Evaluation NN
+Leaf:  N Joint It seems many people are suffering
+Leaf:  N Joint and changing for the better would benefit a lot of people .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I guess
+Leaf:  N Explanation us caring about those would also be beneficial to us
+Leaf:  S span because we all share the same planet .
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Elaborate NS
+[('Thinking about air conditions in other countries I wonder', None, None, None, 0), ('if other countries', None, None, None, 0), ('who have the capability', None, None, None, 0), ('can help out .', None, None, None, 1), ('The article I read was about air quality', None, None, None, 0), ('and I wondered', None, None, None, 0), ("if it 's hard to teach Indian citizens the affects", None, None, None, 0), ('of what they are doing .', None, None, None, 1), ('Maybe teaching them in school would help .', None, None, None, 1), ('It seems many people are suffering', None, None, None, 0), ('and changing for the better would benefit a lot of people .', None, None, None, 1), ('I guess', None, None, None, 0), ('us caring about those would also be beneficial to us', None, None, None, 0), ('because we all share the same planet .', None, None, None, 1)]

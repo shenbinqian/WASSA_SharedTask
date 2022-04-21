@@ -1,0 +1,23 @@
+=====================> [[('It is appalling that there are places', None, None, None, 0), ('that would actively want to get immunized', None, None, None, 0), ('and cant due to lack of resources .', None, None, None, 1), ('While at the same time in America there are parents', None, None, None, 0), ('who actively keep their children from getting them .', None, None, None, 1), ('Their should be social consequences in place the parents', None, None, None, 0), ('who intentionally endanger their children like this .', None, None, None, 1), ('I would think', None, None, None, 0), ('a hefty tax', None, None, None, 0), ('that goes to implementing vaccines in impoverished areas', None, None, None, 0), ('would be a great idea .', None, None, None, 1)]]
+Leaf:  N Elaborate It is appalling that there are places
+Leaf:  N Cause that would actively want to get immunized
+Leaf:  N Cause and cant due to lack of resources .
+Inner:  S span None Cause NN
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Elaborate While at the same time in America there are parents
+Leaf:  S span who actively keep their children from getting them .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate Their should be social consequences in place the parents
+Leaf:  S span who intentionally endanger their children like this .
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Evaluation NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span I would think
+Leaf:  N Elaborate a hefty tax
+Leaf:  S span that goes to implementing vaccines in impoverished areas
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit would be a great idea .
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('It is appalling that there are places', None, None, None, 0), ('that would actively want to get immunized', None, None, None, 0), ('and cant due to lack of resources .', None, None, None, 1), ('While at the same time in America there are parents', None, None, None, 0), ('who actively keep their children from getting them .', None, None, None, 1), ('Their should be social consequences in place the parents', None, None, None, 0), ('who intentionally endanger their children like this .', None, None, None, 1), ('I would think', None, None, None, 0), ('a hefty tax', None, None, None, 0), ('that goes to implementing vaccines in impoverished areas', None, None, None, 0), ('would be a great idea .', None, None, None, 1)]

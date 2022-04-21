@@ -1,0 +1,27 @@
+=====================> [[('These people argue', None, None, None, 0), ("about who 's fault it is , but in the end , we 're just moving down a highway together ,", None, None, None, 0), ('that we build together ,', None, None, None, 0), ('and all these dangerous curves are our own fault .', None, None, None, 1), ('The truth to me is ,', None, None, None, 0), ('all the Republican party did', None, None, None, 0), ('to win', None, None, None, 0), ('was take advantage of disenfranchised people', None, None, None, 0), ('who are tired of things', None, None, None, 0), ('that happened ten years ago and beyond ,', None, None, None, 0), ('so they looked to the only people', None, None, None, 0), ('who would listen to them ,', None, None, None, 0), ('even if they were wrong .', None, None, None, 1)]]
+Leaf:  S span These people argue
+Leaf:  N Elaborate about who 's fault it is , but in the end , we 're just moving down a highway together ,
+Leaf:  S span that we build together ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and all these dangerous curves are our own fault .
+Inner:  N Evaluation None Joint NN
+Leaf:  S span The truth to me is ,
+Leaf:  N Enablement all the Republican party did
+Leaf:  S span to win
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Elaborate was take advantage of disenfranchised people
+Leaf:  N Elaborate who are tired of things
+Leaf:  S span that happened ten years ago and beyond ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Leaf:  N Elaborate so they looked to the only people
+Leaf:  S span who would listen to them ,
+Inner:  N Contrast None Elaborate NS
+Leaf:  S span even if they were wrong .
+Inner:  N Explanation None Contrast NS
+Inner:  N Attribution None Explanation SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('These people argue', None, None, None, 0), ("about who 's fault it is , but in the end , we 're just moving down a highway together ,", None, None, None, 0), ('that we build together ,', None, None, None, 0), ('and all these dangerous curves are our own fault .', None, None, None, 1), ('The truth to me is ,', None, None, None, 0), ('all the Republican party did', None, None, None, 0), ('to win', None, None, None, 0), ('was take advantage of disenfranchised people', None, None, None, 0), ('who are tired of things', None, None, None, 0), ('that happened ten years ago and beyond ,', None, None, None, 0), ('so they looked to the only people', None, None, None, 0), ('who would listen to them ,', None, None, None, 0), ('even if they were wrong .', None, None, None, 1)]

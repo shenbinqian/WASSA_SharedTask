@@ -1,0 +1,23 @@
+=====================> [[('I feel', None, None, None, 0), ('like entraprenerurship is the future .', None, None, None, 1), ('Apparently they are making it', None, None, None, 0), ('so you can quit your job', None, None, None, 0), ('and get unemployment benefits .', None, None, None, 1), ("It 's pretty awesome .", None, None, None, 1), ('I guess', None, None, None, 0), ('they want to encourage people to start unique businesses on their own in an effort', None, None, None, 0), ('to diversify the workfroce in the country .', None, None, None, 1), ('Pretty cool', None, None, None, 0), ('if you ask me .', None, None, None, 1)]]
+Leaf:  S span I feel
+Leaf:  N Attribution like entraprenerurship is the future .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement Apparently they are making it
+Leaf:  N Temporal so you can quit your job
+Leaf:  N Temporal and get unemployment benefits .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Enablement NS
+Leaf:  S span It 's pretty awesome .
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I guess
+Leaf:  N Elaborate they want to encourage people to start unique businesses on their own in an effort
+Leaf:  S span to diversify the workfroce in the country .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Condition Pretty cool
+Leaf:  S span if you ask me .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I feel', None, None, None, 0), ('like entraprenerurship is the future .', None, None, None, 1), ('Apparently they are making it', None, None, None, 0), ('so you can quit your job', None, None, None, 0), ('and get unemployment benefits .', None, None, None, 1), ("It 's pretty awesome .", None, None, None, 1), ('I guess', None, None, None, 0), ('they want to encourage people to start unique businesses on their own in an effort', None, None, None, 0), ('to diversify the workfroce in the country .', None, None, None, 1), ('Pretty cool', None, None, None, 0), ('if you ask me .', None, None, None, 1)]

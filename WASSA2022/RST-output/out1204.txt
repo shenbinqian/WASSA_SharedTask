@@ -1,0 +1,21 @@
+=====================> [[("I do n't know", None, None, None, 0), ('why is that the people was injured .', None, None, None, 1), ('But what a horrible new , I know', None, None, None, 0), ('that this kind of incidents perturb a lot to the citizen of that country .', None, None, None, 1), ('Powerful nations need to create associations', None, None, None, 0), ('to defend those countries', None, None, None, 0), ('that suffer from the injustice .', None, None, None, 1), ('Some countries around have leaders', None, None, None, 0), ('that abuse from their people .', None, None, None, 1), ('This kind of situations must be investigated and punished by an international organism .', None, None, None, 1)]]
+Leaf:  S span I do n't know
+Leaf:  N Attribution why is that the people was injured .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span But what a horrible new , I know
+Leaf:  N Attribution that this kind of incidents perturb a lot to the citizen of that country .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Enablement Powerful nations need to create associations
+Leaf:  N Elaborate to defend those countries
+Leaf:  S span that suffer from the injustice .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Enablement NS
+Leaf:  N Elaborate Some countries around have leaders
+Leaf:  S span that abuse from their people .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This kind of situations must be investigated and punished by an international organism .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[("I do n't know", None, None, None, 0), ('why is that the people was injured .', None, None, None, 1), ('But what a horrible new , I know', None, None, None, 0), ('that this kind of incidents perturb a lot to the citizen of that country .', None, None, None, 1), ('Powerful nations need to create associations', None, None, None, 0), ('to defend those countries', None, None, None, 0), ('that suffer from the injustice .', None, None, None, 1), ('Some countries around have leaders', None, None, None, 0), ('that abuse from their people .', None, None, None, 1), ('This kind of situations must be investigated and punished by an international organism .', None, None, None, 1)]

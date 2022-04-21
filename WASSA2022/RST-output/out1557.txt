@@ -1,0 +1,31 @@
+=====================> [[('Expert from an article', None, None, None, 0), ('I just read on the climate talks :', None, None, None, 0), ('" Mediterranean region would see changes', None, None, None, 0), ('never experienced during recorded history .', None, None, None, 1), ('Morocco could see increased temperatures and drought', None, None, None, 0), ('that would drive the southern deserts further north ,', None, None, None, 0), ('displacing forests .', None, None, None, 1), ('Deserts would expand in the Middle East ,', None, None, None, 0), ('pushing temperate forests higher into the mountains . Average temperatures in the region have already risen by 1.3 °C since the late 19th century , well above the world average of 0.85 °C ,', None, None, None, 0), ('according to the study . " And we are still arguing over coal as a fuel source', None, None, None, 0), ('so that the billionaires can make more billions .', None, None, None, 1), ("Read the rest , it 's distrubing", None, None, None, 0), ('what will come to those', None, None, None, 0), ('who suffer', None, None, None, 0), ('through what has been created .', None, None, None, 1)]]
+Leaf:  N Elaborate Expert from an article
+Leaf:  S span I just read on the climate talks :
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate " Mediterranean region would see changes
+Leaf:  S span never experienced during recorded history .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Morocco could see increased temperatures and drought
+Leaf:  N Cause that would drive the southern deserts further north ,
+Leaf:  S span displacing forests .
+Inner:  S span None Cause NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause Deserts would expand in the Middle East ,
+Leaf:  S span pushing temperate forests higher into the mountains . Average temperatures in the region have already risen by 1.3 °C since the late 19th century , well above the world average of 0.85 °C ,
+Inner:  N Attribution None Cause NS
+Leaf:  N Enablement according to the study . " And we are still arguing over coal as a fuel source
+Leaf:  S span so that the billionaires can make more billions .
+Inner:  S span None Enablement NS
+Inner:  N Joint None Attribution NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Read the rest , it 's distrubing
+Leaf:  N Elaborate what will come to those
+Leaf:  N Manner-Means who suffer
+Leaf:  S span through what has been created .
+Inner:  S span None Manner-Means NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Expert from an article', None, None, None, 0), ('I just read on the climate talks :', None, None, None, 0), ('" Mediterranean region would see changes', None, None, None, 0), ('never experienced during recorded history .', None, None, None, 1), ('Morocco could see increased temperatures and drought', None, None, None, 0), ('that would drive the southern deserts further north ,', None, None, None, 0), ('displacing forests .', None, None, None, 1), ('Deserts would expand in the Middle East ,', None, None, None, 0), ('pushing temperate forests higher into the mountains . Average temperatures in the region have already risen by 1.3 °C since the late 19th century , well above the world average of 0.85 °C ,', None, None, None, 0), ('according to the study . " And we are still arguing over coal as a fuel source', None, None, None, 0), ('so that the billionaires can make more billions .', None, None, None, 1), ("Read the rest , it 's distrubing", None, None, None, 0), ('what will come to those', None, None, None, 0), ('who suffer', None, None, None, 0), ('through what has been created .', None, None, None, 1)]

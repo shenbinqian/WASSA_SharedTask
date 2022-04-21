@@ -1,0 +1,23 @@
+=====================> [[('I just read this article indirectly about climate change', None, None, None, 0), ('that I know', None, None, None, 0), ("you 'll find interesting .", None, None, None, 1), ('It talks about the extinction of three different species .', None, None, None, 1), ("It 's a sad situation ,", None, None, None, 0), ('but', None, None, None, 0), ('if you read it ,', None, None, None, 0), ('it was almost entirely the fault of man ,', None, None, None, 0), ('and climate change only played a small part .', None, None, None, 1), ('The worst part is that it could have been prevented', None, None, None, 0), ('if somebody had sounded the alarm in time .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article indirectly about climate change
+Leaf:  S span that I know
+Leaf:  N Attribution you 'll find interesting .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It talks about the extinction of three different species .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It 's a sad situation ,
+Leaf:  N Same-Unit but
+Leaf:  S span if you read it ,
+Leaf:  N Condition it was almost entirely the fault of man ,
+Inner:  N Joint None Condition SN
+Leaf:  N Joint and climate change only played a small part .
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Condition The worst part is that it could have been prevented
+Leaf:  S span if somebody had sounded the alarm in time .
+Inner:  S span None Condition NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read this article indirectly about climate change', None, None, None, 0), ('that I know', None, None, None, 0), ("you 'll find interesting .", None, None, None, 1), ('It talks about the extinction of three different species .', None, None, None, 1), ("It 's a sad situation ,", None, None, None, 0), ('but', None, None, None, 0), ('if you read it ,', None, None, None, 0), ('it was almost entirely the fault of man ,', None, None, None, 0), ('and climate change only played a small part .', None, None, None, 1), ('The worst part is that it could have been prevented', None, None, None, 0), ('if somebody had sounded the alarm in time .', None, None, None, 1)]

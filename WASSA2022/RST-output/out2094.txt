@@ -1,0 +1,21 @@
+=====================> [[('We I think of earthquakes ,', None, None, None, 0), ('I usually think of California not Oklahoma .', None, None, None, 1), ("I 'm glad there was not a major lost of life in the earthquake .", None, None, None, 1), ('I can see', None, None, None, 0), ('how scary it would be', None, None, None, 0), ('sitting inside your home', None, None, None, 0), ('watching television', None, None, None, 0), ('and your whole house starts to shake .', None, None, None, 1), ('I hope', None, None, None, 0), ('that this does not effect the oil fields and people jobs in the area in the long run .', None, None, None, 1)]]
+Leaf:  N Evaluation We I think of earthquakes ,
+Leaf:  N Evaluation I usually think of California not Oklahoma .
+Inner:  N Evaluation None Evaluation NN
+Leaf:  N Explanation I 'm glad there was not a major lost of life in the earthquake .
+Leaf:  S span I can see
+Leaf:  N Background how scary it would be
+Leaf:  N Elaborate sitting inside your home
+Leaf:  S span watching television
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal and your whole house starts to shake .
+Inner:  S span None Temporal NN
+Inner:  N Attribution None Background NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I hope
+Leaf:  N Attribution that this does not effect the oil fields and people jobs in the area in the long run .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('We I think of earthquakes ,', None, None, None, 0), ('I usually think of California not Oklahoma .', None, None, None, 1), ("I 'm glad there was not a major lost of life in the earthquake .", None, None, None, 1), ('I can see', None, None, None, 0), ('how scary it would be', None, None, None, 0), ('sitting inside your home', None, None, None, 0), ('watching television', None, None, None, 0), ('and your whole house starts to shake .', None, None, None, 1), ('I hope', None, None, None, 0), ('that this does not effect the oil fields and people jobs in the area in the long run .', None, None, None, 1)]

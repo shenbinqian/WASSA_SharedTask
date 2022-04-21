@@ -1,0 +1,27 @@
+=====================> [[('I just read on a news paper about a situation in the capital of Bangladesh , Dhaka about their water situations .', None, None, None, 1), ('They are confronted with a very complicated water problem', None, None, None, 0), ('that is quickly turning extremely serious .', None, None, None, 1), ('The capital city has a population of 15 million .', None, None, None, 1), ('They are pumping the water from the city from the underground', None, None, None, 0), ('and the water is dropping with 9 feet every year .', None, None, None, 1), ('My understanding is that the water is becoming less potable', None, None, None, 0), ('as the pumping is going deeper being contaminated with arsenic .', None, None, None, 1), ('The researchers are trying to locate the contaminated areas', None, None, None, 0), ('and in the meantime thinking of different sources of water such as the one with the help of monsoon .', None, None, None, 1), ('They do have serious problems over there', None, None, None, 0), ('and sounds pretty difficult to have it fixed .', None, None, None, 1), ('Many will have to suffer unfortunately in the meantime', None, None, None, 0)]]
+Leaf:  N Elaborate I just read on a news paper about a situation in the capital of Bangladesh , Dhaka about their water situations .
+Leaf:  N Elaborate They are confronted with a very complicated water problem
+Leaf:  S span that is quickly turning extremely serious .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The capital city has a population of 15 million .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal They are pumping the water from the city from the underground
+Leaf:  N Temporal and the water is dropping with 9 feet every year .
+Inner:  N Evaluation None Temporal NN
+Leaf:  N Cause My understanding is that the water is becoming less potable
+Leaf:  S span as the pumping is going deeper being contaminated with arsenic .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Leaf:  N Temporal The researchers are trying to locate the contaminated areas
+Leaf:  N Temporal and in the meantime thinking of different sources of water such as the one with the help of monsoon .
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Joint They do have serious problems over there
+Leaf:  N Joint and sounds pretty difficult to have it fixed .
+Inner:  S span None Joint NN
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Inner:  N Cause None Elaborate NS
+Leaf:  S span Many will have to suffer unfortunately in the meantime
+Inner:  Root None None Cause NS
+[('I just read on a news paper about a situation in the capital of Bangladesh , Dhaka about their water situations .', None, None, None, 1), ('They are confronted with a very complicated water problem', None, None, None, 0), ('that is quickly turning extremely serious .', None, None, None, 1), ('The capital city has a population of 15 million .', None, None, None, 1), ('They are pumping the water from the city from the underground', None, None, None, 0), ('and the water is dropping with 9 feet every year .', None, None, None, 1), ('My understanding is that the water is becoming less potable', None, None, None, 0), ('as the pumping is going deeper being contaminated with arsenic .', None, None, None, 1), ('The researchers are trying to locate the contaminated areas', None, None, None, 0), ('and in the meantime thinking of different sources of water such as the one with the help of monsoon .', None, None, None, 1), ('They do have serious problems over there', None, None, None, 0), ('and sounds pretty difficult to have it fixed .', None, None, None, 1), ('Many will have to suffer unfortunately in the meantime', None, None, None, 0)]

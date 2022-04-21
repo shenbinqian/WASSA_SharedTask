@@ -1,0 +1,17 @@
+=====================> [[('the phone lines from the suicide prevention line surged after the election .', None, None, None, 1), ('it also climbed', None, None, None, 0), ('when robin williams committed suciide .', None, None, None, 1), ('thankfully there is this prevention line', None, None, None, 0), ('to help those in need', None, None, None, 0), ('who have sucidal thoughts', None, None, None, 0), ('but we need to condition people', None, None, None, 0), ('that committing sucide is a permanent solution to a temporary problem', None, None, None, 0)]]
+Leaf:  N Cause the phone lines from the suicide prevention line surged after the election .
+Leaf:  N Background it also climbed
+Leaf:  S span when robin williams committed suciide .
+Inner:  S span None Background NS
+Inner:  N Evaluation None Cause NS
+Leaf:  N Enablement thankfully there is this prevention line
+Leaf:  N Elaborate to help those in need
+Leaf:  S span who have sucidal thoughts
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Leaf:  S span but we need to condition people
+Leaf:  N Attribution that committing sucide is a permanent solution to a temporary problem
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('the phone lines from the suicide prevention line surged after the election .', None, None, None, 1), ('it also climbed', None, None, None, 0), ('when robin williams committed suciide .', None, None, None, 1), ('thankfully there is this prevention line', None, None, None, 0), ('to help those in need', None, None, None, 0), ('who have sucidal thoughts', None, None, None, 0), ('but we need to condition people', None, None, None, 0), ('that committing sucide is a permanent solution to a temporary problem', None, None, None, 0)]

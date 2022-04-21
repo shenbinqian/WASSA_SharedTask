@@ -1,0 +1,23 @@
+=====================> [[('Wow , a teacher get pregnant', None, None, None, 0), ('after having sex numerous times', None, None, None, 0), ('with an 8th grader pleads guilty to a lesser charge of aggravated sexual assault of a child .', None, None, None, 1), ('This is unreal', None, None, None, 0), ('and aggravates me', None, None, None, 0), ('that teachers would do this', None, None, None, 0), ('and children would go along with it .', None, None, None, 1), ('The world needs to worry less about wants ,', None, None, None, 0), ('quit being emotionally and physically weak', None, None, None, 0), ('and focus on needs , not wants .', None, None, None, 1), ("This whole story iis pathetic and all involved have ruined their own lives and for what , pleasure ? They 're all weak .", None, None, None, 1)]]
+Leaf:  N Background Wow , a teacher get pregnant
+Leaf:  S span after having sex numerous times
+Inner:  N Same-Unit None Background NS
+Leaf:  N Same-Unit with an 8th grader pleads guilty to a lesser charge of aggravated sexual assault of a child .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint This is unreal
+Leaf:  S span and aggravates me
+Leaf:  N Joint that teachers would do this
+Leaf:  N Joint and children would go along with it .
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint The world needs to worry less about wants ,
+Leaf:  N Joint quit being emotionally and physically weak
+Leaf:  N Joint and focus on needs , not wants .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span This whole story iis pathetic and all involved have ruined their own lives and for what , pleasure ? They 're all weak .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Wow , a teacher get pregnant', None, None, None, 0), ('after having sex numerous times', None, None, None, 0), ('with an 8th grader pleads guilty to a lesser charge of aggravated sexual assault of a child .', None, None, None, 1), ('This is unreal', None, None, None, 0), ('and aggravates me', None, None, None, 0), ('that teachers would do this', None, None, None, 0), ('and children would go along with it .', None, None, None, 1), ('The world needs to worry less about wants ,', None, None, None, 0), ('quit being emotionally and physically weak', None, None, None, 0), ('and focus on needs , not wants .', None, None, None, 1), ("This whole story iis pathetic and all involved have ruined their own lives and for what , pleasure ? They 're all weak .", None, None, None, 1)]

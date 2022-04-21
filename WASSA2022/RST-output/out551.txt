@@ -1,0 +1,25 @@
+=====================> [[('So I just read an article', None, None, None, 0), ('where 2 friends went diving to a place', None, None, None, 0), ('they shouldnt have', None, None, None, 0), ('and ended up dying . While they were using brand new equipment ,', None, None, None, 0), ('I feel like idiots', None, None, None, 0), ('who take stupid risks', None, None, None, 0), ('and go to places', None, None, None, 0), ('where no humans should be ,', None, None, None, 0), ('kind of deserve what ends up happening to them .', None, None, None, 1), ('If you dont sky dive ,', None, None, None, 0), ('you never have to worry about going splat', None, None, None, 0), ('when your chute doesnt open', None, None, None, 0)]]
+Leaf:  N Elaborate So I just read an article
+Leaf:  N Elaborate where 2 friends went diving to a place
+Leaf:  S span they shouldnt have
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and ended up dying . While they were using brand new equipment ,
+Inner:  S span None Cause NS
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate I feel like idiots
+Leaf:  N Joint who take stupid risks
+Leaf:  N Elaborate and go to places
+Leaf:  S span where no humans should be ,
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Leaf:  N Same-Unit kind of deserve what ends up happening to them .
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span If you dont sky dive ,
+Leaf:  N Background you never have to worry about going splat
+Leaf:  S span when your chute doesnt open
+Inner:  N Condition None Background NS
+Inner:  S span None Condition SN
+Inner:  Root None None Elaborate NS
+[('So I just read an article', None, None, None, 0), ('where 2 friends went diving to a place', None, None, None, 0), ('they shouldnt have', None, None, None, 0), ('and ended up dying . While they were using brand new equipment ,', None, None, None, 0), ('I feel like idiots', None, None, None, 0), ('who take stupid risks', None, None, None, 0), ('and go to places', None, None, None, 0), ('where no humans should be ,', None, None, None, 0), ('kind of deserve what ends up happening to them .', None, None, None, 1), ('If you dont sky dive ,', None, None, None, 0), ('you never have to worry about going splat', None, None, None, 0), ('when your chute doesnt open', None, None, None, 0)]

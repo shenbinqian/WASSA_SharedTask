@@ -1,0 +1,25 @@
+=====================> [[('These are the headlines', None, None, None, 0), ('that I have to read these days !', None, None, None, 1), ("I just ca n't believe all of the horrid news", None, None, None, 0), ('that is taking over our lives lately .', None, None, None, 1), ('And now we have to worry', None, None, None, 0), ('about when our men and women go out to train ,', None, None, None, 0), ('that this kind of thing can end of happening at the drop of a hat .', None, None, None, 1), ('So , who is responsible after this ? Who helps the children now', None, None, None, 0), ('without parents ?', None, None, None, 1), ('Who pays for everything', None, None, None, 0), ('surrounding their funerals ,', None, None, None, 0), ('and all of the costs after that ?', None, None, None, 1)]]
+Leaf:  N Elaborate These are the headlines
+Leaf:  S span that I have to read these days !
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate I just ca n't believe all of the horrid news
+Leaf:  S span that is taking over our lives lately .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span And now we have to worry
+Leaf:  N Attribution about when our men and women go out to train ,
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit that this kind of thing can end of happening at the drop of a hat .
+Inner:  S span None Same-Unit NN
+Inner:  N Summary None Elaborate NS
+Leaf:  N Manner-Means So , who is responsible after this ? Who helps the children now
+Leaf:  S span without parents ?
+Inner:  N Joint None Manner-Means NS
+Leaf:  N Elaborate Who pays for everything
+Leaf:  S span surrounding their funerals ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and all of the costs after that ?
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Summary NS
+Inner:  Root None None Summary NS
+[('These are the headlines', None, None, None, 0), ('that I have to read these days !', None, None, None, 1), ("I just ca n't believe all of the horrid news", None, None, None, 0), ('that is taking over our lives lately .', None, None, None, 1), ('And now we have to worry', None, None, None, 0), ('about when our men and women go out to train ,', None, None, None, 0), ('that this kind of thing can end of happening at the drop of a hat .', None, None, None, 1), ('So , who is responsible after this ? Who helps the children now', None, None, None, 0), ('without parents ?', None, None, None, 1), ('Who pays for everything', None, None, None, 0), ('surrounding their funerals ,', None, None, None, 0), ('and all of the costs after that ?', None, None, None, 1)]

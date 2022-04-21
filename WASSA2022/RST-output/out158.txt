@@ -1,0 +1,21 @@
+=====================> [[('hello andrea I know', None, None, None, 0), ("it 's only been 2 weeks", None, None, None, 0), ('since you went to japan', None, None, None, 0), ("but I hope it 's good for you", None, None, None, 0), ("and that especially be very careful remember that it 's a different country with a different ethnicity things are very different there", None, None, None, 0), ('I hope', None, None, None, 0), ('you take care of everything', None, None, None, 0), ("since There 's a lot of prostitution away from the evils", None, None, None, 0), ("and you 'll be a good friend", None, None, None, 0), ('until later', None, None, None, 0)]]
+Leaf:  S span hello andrea I know
+Leaf:  N Temporal it 's only been 2 weeks
+Leaf:  S span since you went to japan
+Inner:  N Contrast None Temporal NS
+Leaf:  N Elaborate but I hope it 's good for you
+Leaf:  S span and that especially be very careful remember that it 's a different country with a different ethnicity things are very different there
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Background you take care of everything
+Leaf:  S span since There 's a lot of prostitution away from the evils
+Inner:  N Joint None Background NS
+Leaf:  N Temporal and you 'll be a good friend
+Leaf:  S span until later
+Inner:  N Joint None Temporal NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Contrast NS
+Inner:  Root None None Attribution SN
+[('hello andrea I know', None, None, None, 0), ("it 's only been 2 weeks", None, None, None, 0), ('since you went to japan', None, None, None, 0), ("but I hope it 's good for you", None, None, None, 0), ("and that especially be very careful remember that it 's a different country with a different ethnicity things are very different there", None, None, None, 0), ('I hope', None, None, None, 0), ('you take care of everything', None, None, None, 0), ("since There 's a lot of prostitution away from the evils", None, None, None, 0), ("and you 'll be a good friend", None, None, None, 0), ('until later', None, None, None, 0)]

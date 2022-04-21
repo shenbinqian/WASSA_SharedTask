@@ -1,0 +1,25 @@
+=====================> [[('Kylie Jenner', None, None, None, 0), ('pretending', None, None, None, 0), ('like she cares about other people .', None, None, None, 1), ('She makes a transparent marketing move', None, None, None, 0), ('to promote her own product', None, None, None, 0), ('by making up reasons other companies products are bad .', None, None, None, 1), ("It 's disingenuous faux concern", None, None, None, 0), ('and anyone', None, None, None, 0), ('who reads it', None, None, None, 0), ('should see through the crap .', None, None, None, 1), ('It is disgusting', None, None, None, 0), ('and she should just advertise like a decent human being would .', None, None, None, 1)]]
+Leaf:  N Elaborate Kylie Jenner
+Leaf:  S span pretending
+Leaf:  N Attribution like she cares about other people .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate She makes a transparent marketing move
+Leaf:  S span to promote her own product
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span by making up reasons other companies products are bad .
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint It 's disingenuous faux concern
+Leaf:  N Elaborate and anyone
+Leaf:  S span who reads it
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit should see through the crap .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint It is disgusting
+Leaf:  N Joint and she should just advertise like a decent human being would .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Kylie Jenner', None, None, None, 0), ('pretending', None, None, None, 0), ('like she cares about other people .', None, None, None, 1), ('She makes a transparent marketing move', None, None, None, 0), ('to promote her own product', None, None, None, 0), ('by making up reasons other companies products are bad .', None, None, None, 1), ("It 's disingenuous faux concern", None, None, None, 0), ('and anyone', None, None, None, 0), ('who reads it', None, None, None, 0), ('should see through the crap .', None, None, None, 1), ('It is disgusting', None, None, None, 0), ('and she should just advertise like a decent human being would .', None, None, None, 1)]

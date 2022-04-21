@@ -1,0 +1,29 @@
+=====================> [[('The article was about New Global Warming study.warns :', None, None, None, 0), ('desert in Southern Spain in the future —', None, None, None, 0), ('Climate scientists from France shared a study this week about the possible grim future', None, None, None, 0), ('awaiting the country of Spain , and the Earth as a whole .', None, None, None, 1), ('They warned', None, None, None, 0), ('that', None, None, None, 0), ('if climate change continues ,', None, None, None, 0), ('deserts in the Middle East will expand to the Mediterranean', None, None, None, 0), ('and even reach Southern Spain ,', None, None, None, 0), ('transforming today ’s deciduous forests into barren lands hostile for plants and animals , and of course including humans . Last year , hundreds of countries around the globe have signed a non-binding agreement .', None, None, None, 1), ('Known as the Paris Agreement ,', None, None, None, 0), ('its main goal is to stop global warning', None, None, None, 0), ('by implementing and keeping long-term solutions .', None, None, None, 1), ('The target is to keep temperature rising by more than 2 degrees Celsius or 3.6 degrees Fahrenheit', None, None, None, 0)]]
+Leaf:  N Elaborate The article was about New Global Warming study.warns :
+Leaf:  S span desert in Southern Spain in the future —
+Inner:  N Textual-Organization None Elaborate NS
+Leaf:  N Elaborate Climate scientists from France shared a study this week about the possible grim future
+Leaf:  S span awaiting the country of Spain , and the Earth as a whole .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span They warned
+Leaf:  N Same-Unit that
+Leaf:  S span if climate change continues ,
+Leaf:  N Joint deserts in the Middle East will expand to the Mediterranean
+Leaf:  N Joint and even reach Southern Spain ,
+Inner:  N Condition None Joint NN
+Inner:  N Cause None Condition SN
+Leaf:  N Elaborate transforming today ’s deciduous forests into barren lands hostile for plants and animals , and of course including humans . Last year , hundreds of countries around the globe have signed a non-binding agreement .
+Leaf:  S span Known as the Paris Agreement ,
+Inner:  S span None Elaborate NS
+Inner:  N Same-Unit None Cause NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Manner-Means its main goal is to stop global warning
+Leaf:  S span by implementing and keeping long-term solutions .
+Inner:  S span None Manner-Means NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The target is to keep temperature rising by more than 2 degrees Celsius or 3.6 degrees Fahrenheit
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('The article was about New Global Warming study.warns :', None, None, None, 0), ('desert in Southern Spain in the future —', None, None, None, 0), ('Climate scientists from France shared a study this week about the possible grim future', None, None, None, 0), ('awaiting the country of Spain , and the Earth as a whole .', None, None, None, 1), ('They warned', None, None, None, 0), ('that', None, None, None, 0), ('if climate change continues ,', None, None, None, 0), ('deserts in the Middle East will expand to the Mediterranean', None, None, None, 0), ('and even reach Southern Spain ,', None, None, None, 0), ('transforming today ’s deciduous forests into barren lands hostile for plants and animals , and of course including humans . Last year , hundreds of countries around the globe have signed a non-binding agreement .', None, None, None, 1), ('Known as the Paris Agreement ,', None, None, None, 0), ('its main goal is to stop global warning', None, None, None, 0), ('by implementing and keeping long-term solutions .', None, None, None, 1), ('The target is to keep temperature rising by more than 2 degrees Celsius or 3.6 degrees Fahrenheit', None, None, None, 0)]

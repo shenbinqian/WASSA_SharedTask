@@ -1,0 +1,29 @@
+=====================> [[('I had no idea', None, None, None, 0), ('Shannen Doherty was going through breast cancer .', None, None, None, 1), ('It is such a tough situation to experience .', None, None, None, 1), ('Cancer really does humble the soul into new places', None, None, None, 0), ('that one never thought possible to emerge stronger from feeling .', None, None, None, 1), ('It sounds like she faced it with a mask of strength at first .', None, None, None, 1), ('After time , the real emotions came through', None, None, None, 0), ('where she realized', None, None, None, 0), ('the strength was not in being stoic', None, None, None, 0), ('but admitting', None, None, None, 0), ('how tough', None, None, None, 0), ('it really is to experience .', None, None, None, 1), ('It is through supposed weakness', None, None, None, 0), ('that we become stronger .', None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Attribution Shannen Doherty was going through breast cancer .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation It is such a tough situation to experience .
+Leaf:  N Elaborate Cancer really does humble the soul into new places
+Leaf:  S span that one never thought possible to emerge stronger from feeling .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal It sounds like she faced it with a mask of strength at first .
+Leaf:  N Elaborate After time , the real emotions came through
+Leaf:  S span where she realized
+Leaf:  N Joint the strength was not in being stoic
+Leaf:  S span but admitting
+Leaf:  N Elaborate how tough
+Leaf:  S span it really is to experience .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Elaborate It is through supposed weakness
+Leaf:  S span that we become stronger .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I had no idea', None, None, None, 0), ('Shannen Doherty was going through breast cancer .', None, None, None, 1), ('It is such a tough situation to experience .', None, None, None, 1), ('Cancer really does humble the soul into new places', None, None, None, 0), ('that one never thought possible to emerge stronger from feeling .', None, None, None, 1), ('It sounds like she faced it with a mask of strength at first .', None, None, None, 1), ('After time , the real emotions came through', None, None, None, 0), ('where she realized', None, None, None, 0), ('the strength was not in being stoic', None, None, None, 0), ('but admitting', None, None, None, 0), ('how tough', None, None, None, 0), ('it really is to experience .', None, None, None, 1), ('It is through supposed weakness', None, None, None, 0), ('that we become stronger .', None, None, None, 1)]

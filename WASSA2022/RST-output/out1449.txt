@@ -1,0 +1,17 @@
+=====================> [[('Looks like a lot of muslim hate crimes are going on , especially in new york city .', None, None, None, 1), ('A lady had her clothes set on fire', None, None, None, 0), ('right in public .', None, None, None, 1), ('People yelling', None, None, None, 0), ('" get out of America " at them , etc .', None, None, None, 1), ("I can understand people 's animosity towards them", None, None, None, 0), ('as their religious people essentially declared war on us ,', None, None, None, 0), ('but not everyone is that extreme .', None, None, None, 1)]]
+Leaf:  N Elaborate Looks like a lot of muslim hate crimes are going on , especially in new york city .
+Leaf:  N Same-Unit A lady had her clothes set on fire
+Leaf:  N Same-Unit right in public .
+Inner:  N Joint None Same-Unit NN
+Leaf:  S span People yelling
+Leaf:  N Attribution " get out of America " at them , etc .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background I can understand people 's animosity towards them
+Leaf:  S span as their religious people essentially declared war on us ,
+Inner:  S span None Background NS
+Leaf:  N Contrast but not everyone is that extreme .
+Inner:  S span None Contrast SN
+Inner:  Root None None Evaluation NS
+[('Looks like a lot of muslim hate crimes are going on , especially in new york city .', None, None, None, 1), ('A lady had her clothes set on fire', None, None, None, 0), ('right in public .', None, None, None, 1), ('People yelling', None, None, None, 0), ('" get out of America " at them , etc .', None, None, None, 1), ("I can understand people 's animosity towards them", None, None, None, 0), ('as their religious people essentially declared war on us ,', None, None, None, 0), ('but not everyone is that extreme .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('Passing this article along to you !', None, None, None, 1), ('Remember how we were just discussing this ?', None, None, None, 1), ('I guess there is enough doubt now in the death of the Polish former president', None, None, None, 0), ('that died in that plane crash', None, None, None, 0), ('that they now are exhuming the body .', None, None, None, 1), ('Some people suspect', None, None, None, 0), ('that the Russians actually poisoned him', None, None, None, 0), ('and the crash is a cover up !', None, None, None, 1), ("Not everyone 's happy about this", None, None, None, 0), ('though as it might seem disrespectful .', None, None, None, 1)]]
+Leaf:  N Summary Passing this article along to you !
+Leaf:  S span Remember how we were just discussing this ?
+Inner:  N Textual-Organization None Summary NS
+Leaf:  N Elaborate I guess there is enough doubt now in the death of the Polish former president
+Leaf:  S span that died in that plane crash
+Inner:  N Cause None Elaborate NS
+Leaf:  S span that they now are exhuming the body .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Some people suspect
+Leaf:  N Joint that the Russians actually poisoned him
+Leaf:  N Joint and the crash is a cover up !
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Not everyone 's happy about this
+Leaf:  S span though as it might seem disrespectful .
+Inner:  S span None Evaluation NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Passing this article along to you !', None, None, None, 1), ('Remember how we were just discussing this ?', None, None, None, 1), ('I guess there is enough doubt now in the death of the Polish former president', None, None, None, 0), ('that died in that plane crash', None, None, None, 0), ('that they now are exhuming the body .', None, None, None, 1), ('Some people suspect', None, None, None, 0), ('that the Russians actually poisoned him', None, None, None, 0), ('and the crash is a cover up !', None, None, None, 1), ("Not everyone 's happy about this", None, None, None, 0), ('though as it might seem disrespectful .', None, None, None, 1)]

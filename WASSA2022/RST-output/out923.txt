@@ -1,0 +1,31 @@
+=====================> [[('So the FBI seems to fail at preventing serious terrorist attacks', None, None, None, 0), ('when they knowingly had a suspect .', None, None, None, 1), ('Their investigations obviously are not thorough enough', None, None, None, 0), ('to always prevent attacks', None, None, None, 0), ('even whey they are forewarned about a specific person . The nightclub attack in Orlando seems like it could have been prevented', None, None, None, 0), ('if the FBI did their job . They had warnings from the killers family and basically a warning from the terrorist himself . With extremist like this guy ,', None, None, None, 0), ('when they already had him once ,', None, None, None, 0), ('I think', None, None, None, 0), ('more severe tactics are necessary', None, None, None, 0), ('to protect the country and its citizens .', None, None, None, 1), ('I feel like the FBI is just making excuses', None, None, None, 0), ('because they were incompetent', None, None, None, 0), ('and do not seem to take everything as serious', None, None, None, 0), ('as they need too .', None, None, None, 1), ('Our country deserves that !', None, None, None, 1)]]
+Leaf:  N Background So the FBI seems to fail at preventing serious terrorist attacks
+Leaf:  S span when they knowingly had a suspect .
+Inner:  N Explanation None Background NS
+Leaf:  S span Their investigations obviously are not thorough enough
+Leaf:  N Manner-Means to always prevent attacks
+Inner:  N Condition None Manner-Means SN
+Leaf:  S span even whey they are forewarned about a specific person . The nightclub attack in Orlando seems like it could have been prevented
+Inner:  N Condition None Condition NS
+Leaf:  N Temporal if the FBI did their job . They had warnings from the killers family and basically a warning from the terrorist himself . With extremist like this guy ,
+Leaf:  S span when they already had him once ,
+Inner:  S span None Temporal NS
+Inner:  S span None Condition NS
+Leaf:  N Background I think
+Inner:  S span None Background SN
+Leaf:  N Enablement more severe tactics are necessary
+Leaf:  S span to protect the country and its citizens .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation I feel like the FBI is just making excuses
+Leaf:  N Joint because they were incompetent
+Leaf:  N Comparison and do not seem to take everything as serious
+Leaf:  S span as they need too .
+Inner:  N Joint None Comparison NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Our country deserves that !
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('So the FBI seems to fail at preventing serious terrorist attacks', None, None, None, 0), ('when they knowingly had a suspect .', None, None, None, 1), ('Their investigations obviously are not thorough enough', None, None, None, 0), ('to always prevent attacks', None, None, None, 0), ('even whey they are forewarned about a specific person . The nightclub attack in Orlando seems like it could have been prevented', None, None, None, 0), ('if the FBI did their job . They had warnings from the killers family and basically a warning from the terrorist himself . With extremist like this guy ,', None, None, None, 0), ('when they already had him once ,', None, None, None, 0), ('I think', None, None, None, 0), ('more severe tactics are necessary', None, None, None, 0), ('to protect the country and its citizens .', None, None, None, 1), ('I feel like the FBI is just making excuses', None, None, None, 0), ('because they were incompetent', None, None, None, 0), ('and do not seem to take everything as serious', None, None, None, 0), ('as they need too .', None, None, None, 1), ('Our country deserves that !', None, None, None, 1)]

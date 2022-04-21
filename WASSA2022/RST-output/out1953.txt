@@ -1,0 +1,43 @@
+=====================> [[('I know', None, None, None, 0), ('that not everyone agrees with Trump', None, None, None, 0), ('becoming president ,', None, None, None, 0), ('and I will admit', None, None, None, 0), ("that I 'm not certain of the path", None, None, None, 0), ('this country is going to take ,', None, None, None, 0), ('but there were many many many people', None, None, None, 0), ('that did not approve of Obama', None, None, None, 0), ('becoming president ,', None, None, None, 0), ('yet we all survived that ,', None, None, None, 0), ('as we will this .', None, None, None, 1), ('As a woman , and one', None, None, None, 0), ('who is married to a biracial man', None, None, None, 0), ('and has a biracial son ,', None, None, None, 0), ('I will say ,', None, None, None, 0), ('I do not fear my exsitance or my families .', None, None, None, 1), ('Even if trump is not the most respectful ,', None, None, None, 0), ('he is not out to get women , people of color , etc .', None, None, None, 1), ('He is trying to do what is best for this country ,', None, None, None, 0), ('and he was voted in ,', None, None, None, 0), ('so we need to just get on with our lives and hope for the best .', None, None, None, 1)]]
+Leaf:  S span I know
+Leaf:  N Elaborate that not everyone agrees with Trump
+Leaf:  S span becoming president ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Leaf:  S span and I will admit
+Leaf:  N Elaborate that I 'm not certain of the path
+Leaf:  S span this country is going to take ,
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate but there were many many many people
+Leaf:  N Elaborate that did not approve of Obama
+Leaf:  S span becoming president ,
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Leaf:  N Comparison yet we all survived that ,
+Leaf:  S span as we will this .
+Inner:  N Contrast None Comparison NS
+Inner:  S span None Contrast SN
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate As a woman , and one
+Leaf:  N Joint who is married to a biracial man
+Leaf:  N Joint and has a biracial son ,
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit I will say ,
+Inner:  S span None Same-Unit NN
+Leaf:  N Attribution I do not fear my exsitance or my families .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span Even if trump is not the most respectful ,
+Leaf:  N Contrast he is not out to get women , people of color , etc .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint He is trying to do what is best for this country ,
+Leaf:  S span and he was voted in ,
+Leaf:  N Cause so we need to just get on with our lives and hope for the best .
+Inner:  N Joint None Cause SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I know', None, None, None, 0), ('that not everyone agrees with Trump', None, None, None, 0), ('becoming president ,', None, None, None, 0), ('and I will admit', None, None, None, 0), ("that I 'm not certain of the path", None, None, None, 0), ('this country is going to take ,', None, None, None, 0), ('but there were many many many people', None, None, None, 0), ('that did not approve of Obama', None, None, None, 0), ('becoming president ,', None, None, None, 0), ('yet we all survived that ,', None, None, None, 0), ('as we will this .', None, None, None, 1), ('As a woman , and one', None, None, None, 0), ('who is married to a biracial man', None, None, None, 0), ('and has a biracial son ,', None, None, None, 0), ('I will say ,', None, None, None, 0), ('I do not fear my exsitance or my families .', None, None, None, 1), ('Even if trump is not the most respectful ,', None, None, None, 0), ('he is not out to get women , people of color , etc .', None, None, None, 1), ('He is trying to do what is best for this country ,', None, None, None, 0), ('and he was voted in ,', None, None, None, 0), ('so we need to just get on with our lives and hope for the best .', None, None, None, 1)]

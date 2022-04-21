@@ -1,0 +1,19 @@
+=====================> [[('Honestly it seems that the world is and has been providing a place for many refugees from all over for some time .', None, None, None, 1), ('I find it annoying', None, None, None, 0), ('that', None, None, None, 0), ('despite the people from africa and the middle east', None, None, None, 0), ('being evacuated from theyre previous worse situations', None, None, None, 0), ('they still feel the need', None, None, None, 0), ('to incite riot', None, None, None, 0), ('and cause chaos', None, None, None, 0), ('and show not only ungratefulness , but barbarity .', None, None, None, 1)]]
+Leaf:  N Evaluation Honestly it seems that the world is and has been providing a place for many refugees from all over for some time .
+Leaf:  S span I find it annoying
+Leaf:  N Same-Unit that
+Leaf:  N Elaborate despite the people from africa and the middle east
+Leaf:  S span being evacuated from theyre previous worse situations
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate they still feel the need
+Leaf:  N Joint to incite riot
+Leaf:  N Joint and cause chaos
+Leaf:  N Joint and show not only ungratefulness , but barbarity .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Honestly it seems that the world is and has been providing a place for many refugees from all over for some time .', None, None, None, 1), ('I find it annoying', None, None, None, 0), ('that', None, None, None, 0), ('despite the people from africa and the middle east', None, None, None, 0), ('being evacuated from theyre previous worse situations', None, None, None, 0), ('they still feel the need', None, None, None, 0), ('to incite riot', None, None, None, 0), ('and cause chaos', None, None, None, 0), ('and show not only ungratefulness , but barbarity .', None, None, None, 1)]

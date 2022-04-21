@@ -1,0 +1,23 @@
+=====================> [[('Wells Fargo bosses were trying to scam the system', None, None, None, 0), ('by opening fake accounts .', None, None, None, 1), ('This is something', None, None, None, 0), ('that led to a lot of people', None, None, None, 0), ('being forced by their bosses', None, None, None, 0), ('to take part in this scam .', None, None, None, 1), ('I read about one woman', None, None, None, 0), ('who lost her job', None, None, None, 0), ('just because she was following', None, None, None, 0), ('what her boss told her to do .', None, None, None, 1), ('This poor woman was effected all because people wanted to be scammers .', None, None, None, 1)]]
+Leaf:  N Manner-Means Wells Fargo bosses were trying to scam the system
+Leaf:  S span by opening fake accounts .
+Inner:  N Elaborate None Manner-Means NS
+Leaf:  N Elaborate This is something
+Leaf:  N Elaborate that led to a lot of people
+Leaf:  N Enablement being forced by their bosses
+Leaf:  S span to take part in this scam .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate I read about one woman
+Leaf:  N Explanation who lost her job
+Leaf:  S span just because she was following
+Leaf:  N Attribution what her boss told her to do .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span This poor woman was effected all because people wanted to be scammers .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Wells Fargo bosses were trying to scam the system', None, None, None, 0), ('by opening fake accounts .', None, None, None, 1), ('This is something', None, None, None, 0), ('that led to a lot of people', None, None, None, 0), ('being forced by their bosses', None, None, None, 0), ('to take part in this scam .', None, None, None, 1), ('I read about one woman', None, None, None, 0), ('who lost her job', None, None, None, 0), ('just because she was following', None, None, None, 0), ('what her boss told her to do .', None, None, None, 1), ('This poor woman was effected all because people wanted to be scammers .', None, None, None, 1)]

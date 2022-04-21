@@ -1,0 +1,23 @@
+=====================> [[('I think', None, None, None, 0), ('that this is really sad .', None, None, None, 1), ('It seems to be something', None, None, None, 0), ('that is ingrained in all humans .', None, None, None, 1), ('I am thankful', None, None, None, 0), ('that it mostly just effects children ,', None, None, None, 0), ('but it seems kind of hopeless that we will ever fully solve this problem .', None, None, None, 1), ('I think', None, None, None, 0), ('the only real way is for adults to be consistently vigilant', None, None, None, 0), ('and make sure that we are not ignoring the kids', None, None, None, 0), ('that this is effecting .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution that this is really sad .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate It seems to be something
+Leaf:  S span that is ingrained in all humans .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I am thankful
+Leaf:  N Attribution that it mostly just effects children ,
+Inner:  N Contrast None Attribution SN
+Leaf:  N Contrast but it seems kind of hopeless that we will ever fully solve this problem .
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I think
+Leaf:  N Joint the only real way is for adults to be consistently vigilant
+Leaf:  N Elaborate and make sure that we are not ignoring the kids
+Leaf:  S span that this is effecting .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('that this is really sad .', None, None, None, 1), ('It seems to be something', None, None, None, 0), ('that is ingrained in all humans .', None, None, None, 1), ('I am thankful', None, None, None, 0), ('that it mostly just effects children ,', None, None, None, 0), ('but it seems kind of hopeless that we will ever fully solve this problem .', None, None, None, 1), ('I think', None, None, None, 0), ('the only real way is for adults to be consistently vigilant', None, None, None, 0), ('and make sure that we are not ignoring the kids', None, None, None, 0), ('that this is effecting .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('Hello , how are you doing meN ?', None, None, None, 1), ('Remember that chat', None, None, None, 0), ('we had a week ago about Haiti ?', None, None, None, 1), ('I was just reading an article about it ,', None, None, None, 0), ('never thought things could have been so bad ,', None, None, None, 0), ('they are even worse', None, None, None, 0), ('than what I imagine worst than what we talked about .', None, None, None, 1), ('I find it funny how we are so enclosed in our small little world ,', None, None, None, 0), ('while in Chicago', None, None, None, 0), ('we are celebrating about CUBS victory in over 100 years , in Haiti ,', None, None, None, 0), ('they are suffering for water and food .', None, None, None, 1)]]
+Leaf:  N Summary Hello , how are you doing meN ?
+Leaf:  N Elaborate Remember that chat
+Leaf:  S span we had a week ago about Haiti ?
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit I was just reading an article about it ,
+Leaf:  S span never thought things could have been so bad ,
+Leaf:  N Comparison they are even worse
+Leaf:  S span than what I imagine worst than what we talked about .
+Inner:  N Elaborate None Comparison NS
+Inner:  N Same-Unit None Elaborate SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Temporal I find it funny how we are so enclosed in our small little world ,
+Leaf:  N Same-Unit while in Chicago
+Leaf:  N Same-Unit we are celebrating about CUBS victory in over 100 years , in Haiti ,
+Inner:  N Manner-Means None Same-Unit NN
+Leaf:  S span they are suffering for water and food .
+Inner:  N Temporal None Manner-Means NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Evaluation NS
+[('Hello , how are you doing meN ?', None, None, None, 1), ('Remember that chat', None, None, None, 0), ('we had a week ago about Haiti ?', None, None, None, 1), ('I was just reading an article about it ,', None, None, None, 0), ('never thought things could have been so bad ,', None, None, None, 0), ('they are even worse', None, None, None, 0), ('than what I imagine worst than what we talked about .', None, None, None, 1), ('I find it funny how we are so enclosed in our small little world ,', None, None, None, 0), ('while in Chicago', None, None, None, 0), ('we are celebrating about CUBS victory in over 100 years , in Haiti ,', None, None, None, 0), ('they are suffering for water and food .', None, None, None, 1)]

@@ -1,0 +1,37 @@
+=====================> [[('The wildlife park offers their help', None, None, None, 0), ('after over half a million supporters signed a petition', None, None, None, 0), ('made by the non-profit organization Animals Asia', None, None, None, 0), ('to demand the closure of the aquarium .', None, None, None, 1), ('If the current owners of the polar bear agree to this offer ,', None, None, None, 0), ('Pizza could be moved to a proper sanctuary', None, None, None, 0), ('and his life of misery would end . “ The good news now for Grandview is that they now have the chance', None, None, None, 0), ('to put their mistake right , ”', None, None, None, 0), ('Dave Neale , Animal Welfare Director for Animals Asia , said in a statement .', None, None, None, 1), ('“ Thanks to this incredible offer from Yorkshire Wildlife Park there can be a happy ending', None, None, None, 0), ('and the negative publicity', None, None, None, 0), ('they have suffered', None, None, None, 0), ('can yet be turned into a positive news story .', None, None, None, 1), ('From talking to them', None, None, None, 0), ('I know', None, None, None, 0), ('they know', None, None, None, 0), ('that mistakes have been made in terms of their animal facilities and on-going care . ”', None, None, None, 0), ('China ’s', None, None, None, 0)]]
+Leaf:  N Background The wildlife park offers their help
+Leaf:  N Elaborate after over half a million supporters signed a petition
+Leaf:  S span made by the non-profit organization Animals Asia
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit to demand the closure of the aquarium .
+Inner:  S span None Same-Unit NN
+Inner:  N Elaborate None Background NS
+Leaf:  S span If the current owners of the polar bear agree to this offer ,
+Leaf:  S span Pizza could be moved to a proper sanctuary
+Leaf:  N Elaborate and his life of misery would end . “ The good news now for Grandview is that they now have the chance
+Leaf:  S span to put their mistake right , ”
+Inner:  N Cause None Elaborate NS
+Inner:  N Condition None Cause SN
+Inner:  N Attribution None Condition SN
+Leaf:  S span Dave Neale , Animal Welfare Director for Animals Asia , said in a statement .
+Inner:  S span None Attribution NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint “ Thanks to this incredible offer from Yorkshire Wildlife Park there can be a happy ending
+Leaf:  N Elaborate and the negative publicity
+Leaf:  S span they have suffered
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can yet be turned into a positive news story .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Explanation None Joint NN
+Leaf:  S span From talking to them
+Leaf:  S span I know
+Leaf:  S span they know
+Leaf:  N Attribution that mistakes have been made in terms of their animal facilities and on-going care . ”
+Inner:  N Attribution None Attribution SN
+Inner:  N Manner-Means None Attribution SN
+Inner:  S span None Manner-Means SN
+Inner:  N Joint None Explanation NS
+Leaf:  N Joint China ’s
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('The wildlife park offers their help', None, None, None, 0), ('after over half a million supporters signed a petition', None, None, None, 0), ('made by the non-profit organization Animals Asia', None, None, None, 0), ('to demand the closure of the aquarium .', None, None, None, 1), ('If the current owners of the polar bear agree to this offer ,', None, None, None, 0), ('Pizza could be moved to a proper sanctuary', None, None, None, 0), ('and his life of misery would end . “ The good news now for Grandview is that they now have the chance', None, None, None, 0), ('to put their mistake right , ”', None, None, None, 0), ('Dave Neale , Animal Welfare Director for Animals Asia , said in a statement .', None, None, None, 1), ('“ Thanks to this incredible offer from Yorkshire Wildlife Park there can be a happy ending', None, None, None, 0), ('and the negative publicity', None, None, None, 0), ('they have suffered', None, None, None, 0), ('can yet be turned into a positive news story .', None, None, None, 1), ('From talking to them', None, None, None, 0), ('I know', None, None, None, 0), ('they know', None, None, None, 0), ('that mistakes have been made in terms of their animal facilities and on-going care . ”', None, None, None, 0), ('China ’s', None, None, None, 0)]

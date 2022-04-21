@@ -1,0 +1,17 @@
+=====================> [[('I just read an article about the attacks in a syrian town .', None, None, None, 1), ('It sounds horrible', None, None, None, 0), ('what they are going through .', None, None, None, 1), ('It talks about women and children dying .', None, None, None, 1), ('I tried to immagine what it would be like to live in such horror .', None, None, None, 1), ('It mentions many post on social media of pictures and videos .', None, None, None, 1), ('I would be interested in seeing some of the pictures and videos of this violence .', None, None, None, 1), ('Reading stuff like this really makes you appreciate being in America .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about the attacks in a syrian town .
+Leaf:  N Elaborate It sounds horrible
+Leaf:  S span what they are going through .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span It talks about women and children dying .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I tried to immagine what it would be like to live in such horror .
+Leaf:  S span It mentions many post on social media of pictures and videos .
+Inner:  N Condition None Elaborate NS
+Leaf:  S span I would be interested in seeing some of the pictures and videos of this violence .
+Inner:  S span None Condition NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Reading stuff like this really makes you appreciate being in America .
+Inner:  Root None None Evaluation NS
+[('I just read an article about the attacks in a syrian town .', None, None, None, 1), ('It sounds horrible', None, None, None, 0), ('what they are going through .', None, None, None, 1), ('It talks about women and children dying .', None, None, None, 1), ('I tried to immagine what it would be like to live in such horror .', None, None, None, 1), ('It mentions many post on social media of pictures and videos .', None, None, None, 1), ('I would be interested in seeing some of the pictures and videos of this violence .', None, None, None, 1), ('Reading stuff like this really makes you appreciate being in America .', None, None, None, 1)]

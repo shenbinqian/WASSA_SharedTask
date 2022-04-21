@@ -1,0 +1,35 @@
+=====================> [[('Take a look at this .', None, None, None, 1), ("It 's very dry ,", None, None, None, 0), ("and I do n't understand half the words ,", None, None, None, 0), ('but', None, None, None, 0), ('while I was reading it ,', None, None, None, 0), ('I was feeling sort of glad that apparently plant and animal species are adapting to the warming climate .', None, None, None, 1), ('It seemed like the planet is warming slowly enough for a lot of ecosystems to adapt .', None, None, None, 1), ('And then I read the last bit , about humans and agriculture ,', None, None, None, 0), ('and got cold all over again .', None, None, None, 1), ("Will we adapt , too ? I got ta say , at this point , I 'm hoping", None, None, None, 0), ('that volcano in Hawaii spews a gazillion tons of ash', None, None, None, 0), ("( after everyone 's been evacuated , of course )", None, None, None, 0), ('into the atmosphere', None, None, None, 0), ('to block the sun', None, None, None, 0), ('and cool things down .', None, None, None, 1), ('It may be our best shot .', None, None, None, 1), ('We could only be so lucky .', None, None, None, 1)]]
+Leaf:  N Elaborate Take a look at this .
+Leaf:  N Joint It 's very dry ,
+Leaf:  N Joint and I do n't understand half the words ,
+Inner:  S span None Joint NN
+Leaf:  N Same-Unit but
+Leaf:  S span while I was reading it ,
+Leaf:  N Temporal I was feeling sort of glad that apparently plant and animal species are adapting to the warming climate .
+Inner:  N Explanation None Temporal SN
+Leaf:  S span It seemed like the planet is warming slowly enough for a lot of ecosystems to adapt .
+Inner:  N Same-Unit None Explanation NS
+Inner:  N Temporal None Same-Unit NN
+Leaf:  N Temporal And then I read the last bit , about humans and agriculture ,
+Leaf:  N Temporal and got cold all over again .
+Inner:  N Temporal None Temporal NN
+Inner:  N Contrast None Temporal NN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span Will we adapt , too ? I got ta say , at this point , I 'm hoping
+Leaf:  N Contrast that volcano in Hawaii spews a gazillion tons of ash
+Leaf:  S span ( after everyone 's been evacuated , of course )
+Inner:  N Same-Unit None Contrast NS
+Leaf:  N Same-Unit into the atmosphere
+Inner:  N Enablement None Same-Unit NN
+Leaf:  N Joint to block the sun
+Leaf:  N Joint and cool things down .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It may be our best shot .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span We could only be so lucky .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Take a look at this .', None, None, None, 1), ("It 's very dry ,", None, None, None, 0), ("and I do n't understand half the words ,", None, None, None, 0), ('but', None, None, None, 0), ('while I was reading it ,', None, None, None, 0), ('I was feeling sort of glad that apparently plant and animal species are adapting to the warming climate .', None, None, None, 1), ('It seemed like the planet is warming slowly enough for a lot of ecosystems to adapt .', None, None, None, 1), ('And then I read the last bit , about humans and agriculture ,', None, None, None, 0), ('and got cold all over again .', None, None, None, 1), ("Will we adapt , too ? I got ta say , at this point , I 'm hoping", None, None, None, 0), ('that volcano in Hawaii spews a gazillion tons of ash', None, None, None, 0), ("( after everyone 's been evacuated , of course )", None, None, None, 0), ('into the atmosphere', None, None, None, 0), ('to block the sun', None, None, None, 0), ('and cool things down .', None, None, None, 1), ('It may be our best shot .', None, None, None, 1), ('We could only be so lucky .', None, None, None, 1)]

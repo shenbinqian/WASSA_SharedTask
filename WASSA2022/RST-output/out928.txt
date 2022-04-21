@@ -1,0 +1,19 @@
+=====================> [[('That Kirk guy seems like a real loser .', None, None, None, 1), ('How can you lie about your military history', None, None, None, 0), ('and still get to serve as a politician .', None, None, None, 1), ('Than to attack somebody', None, None, None, 0), ("that you do n't even know the facts about that person", None, None, None, 0), ('especially when they have made sacrifices for their country .', None, None, None, 1), ('So what if somebody was born somewhere else .', None, None, None, 1), ('If they have put their time and heart into a place', None, None, None, 0), ('that place is their home .', None, None, None, 1)]]
+Leaf:  N Explanation That Kirk guy seems like a real loser .
+Leaf:  S span How can you lie about your military history
+Leaf:  N Contrast and still get to serve as a politician .
+Inner:  S span None Contrast SN
+Inner:  N Topic-Change None Explanation NS
+Leaf:  N Elaborate Than to attack somebody
+Leaf:  N Background that you do n't even know the facts about that person
+Leaf:  S span especially when they have made sacrifices for their country .
+Inner:  S span None Background NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  N Elaborate So what if somebody was born somewhere else .
+Leaf:  N Elaborate If they have put their time and heart into a place
+Leaf:  S span that place is their home .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  N Topic-Change None Topic-Change NN
+Inner:  Root None None Topic-Change NN
+[('That Kirk guy seems like a real loser .', None, None, None, 1), ('How can you lie about your military history', None, None, None, 0), ('and still get to serve as a politician .', None, None, None, 1), ('Than to attack somebody', None, None, None, 0), ("that you do n't even know the facts about that person", None, None, None, 0), ('especially when they have made sacrifices for their country .', None, None, None, 1), ('So what if somebody was born somewhere else .', None, None, None, 1), ('If they have put their time and heart into a place', None, None, None, 0), ('that place is their home .', None, None, None, 1)]

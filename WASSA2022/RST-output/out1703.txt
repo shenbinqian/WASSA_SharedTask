@@ -1,0 +1,29 @@
+=====================> [[('Considering', None, None, None, 0), ('that', None, None, None, 0), ('since Donald Trump got elected ,', None, None, None, 0), ('there has been a rise in reported hate crimes', None, None, None, 0), ('that have turned out to be hoaxes ,', None, None, None, 0), ("I 'd say", None, None, None, 0), ("there 's at least a fifty percent chance", None, None, None, 0), ('this is a fake too .', None, None, None, 1), ("Even if it 's not , it did n't happen to me or anyone", None, None, None, 0), ('I care about ,', None, None, None, 0), ("and it did n't happen anywhere near where I live ,", None, None, None, 0), ("so it 's of absolute zero concern to me . Nothing more to say about that ,", None, None, None, 0), ('but I know', None, None, None, 0), ('I have to fill in a certain number of characters .', None, None, None, 1)]]
+Leaf:  S span Considering
+Leaf:  N Same-Unit that
+Leaf:  S span since Donald Trump got elected ,
+Leaf:  N Elaborate there has been a rise in reported hate crimes
+Leaf:  S span that have turned out to be hoaxes ,
+Inner:  N Background None Elaborate NS
+Inner:  N Same-Unit None Background SN
+Inner:  S span None Same-Unit NN
+Leaf:  S span I 'd say
+Leaf:  N Elaborate there 's at least a fifty percent chance
+Leaf:  S span this is a fake too .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Background None Attribution SN
+Inner:  N Attribution None Background SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate Even if it 's not , it did n't happen to me or anyone
+Leaf:  S span I care about ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and it did n't happen anywhere near where I live ,
+Inner:  S span None Joint NN
+Leaf:  N Cause so it 's of absolute zero concern to me . Nothing more to say about that ,
+Inner:  S span None Cause SN
+Leaf:  S span but I know
+Leaf:  N Attribution I have to fill in a certain number of characters .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  Root None None Elaborate NS
+[('Considering', None, None, None, 0), ('that', None, None, None, 0), ('since Donald Trump got elected ,', None, None, None, 0), ('there has been a rise in reported hate crimes', None, None, None, 0), ('that have turned out to be hoaxes ,', None, None, None, 0), ("I 'd say", None, None, None, 0), ("there 's at least a fifty percent chance", None, None, None, 0), ('this is a fake too .', None, None, None, 1), ("Even if it 's not , it did n't happen to me or anyone", None, None, None, 0), ('I care about ,', None, None, None, 0), ("and it did n't happen anywhere near where I live ,", None, None, None, 0), ("so it 's of absolute zero concern to me . Nothing more to say about that ,", None, None, None, 0), ('but I know', None, None, None, 0), ('I have to fill in a certain number of characters .', None, None, None, 1)]

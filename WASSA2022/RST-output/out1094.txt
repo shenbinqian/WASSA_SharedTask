@@ -1,0 +1,27 @@
+=====================> [[('This story makes me sick to my stomach .', None, None, None, 1), ('I hate reading things', None, None, None, 0), ('about where my food comes from .', None, None, None, 1), ("It 's bad enough", None, None, None, 0), ('to know that i am eating an animal', None, None, None, 0), ('but to know', None, None, None, 0), ('it suffered', None, None, None, 0), ('makes it worse .', None, None, None, 1), ("While the story is about the the suffering of an animal at the end of it 's life it seems to ignore the suffering", None, None, None, 0), ('that the chicken goes through', None, None, None, 0), ('99.9 % of the time', None, None, None, 0), ('it is alive .', None, None, None, 1), ('This kind of story makes me want to go vegan .', None, None, None, 1)]]
+Leaf:  N Explanation This story makes me sick to my stomach .
+Leaf:  N Elaborate I hate reading things
+Leaf:  S span about where my food comes from .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's bad enough
+Leaf:  S span to know that i am eating an animal
+Inner:  S span None Elaborate NS
+Leaf:  S span but to know
+Leaf:  N Attribution it suffered
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit makes it worse .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate While the story is about the the suffering of an animal at the end of it 's life it seems to ignore the suffering
+Leaf:  S span that the chicken goes through
+Leaf:  N Elaborate 99.9 % of the time
+Leaf:  S span it is alive .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span This kind of story makes me want to go vegan .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This story makes me sick to my stomach .', None, None, None, 1), ('I hate reading things', None, None, None, 0), ('about where my food comes from .', None, None, None, 1), ("It 's bad enough", None, None, None, 0), ('to know that i am eating an animal', None, None, None, 0), ('but to know', None, None, None, 0), ('it suffered', None, None, None, 0), ('makes it worse .', None, None, None, 1), ("While the story is about the the suffering of an animal at the end of it 's life it seems to ignore the suffering", None, None, None, 0), ('that the chicken goes through', None, None, None, 0), ('99.9 % of the time', None, None, None, 0), ('it is alive .', None, None, None, 1), ('This kind of story makes me want to go vegan .', None, None, None, 1)]

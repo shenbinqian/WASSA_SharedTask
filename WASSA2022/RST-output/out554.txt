@@ -1,0 +1,17 @@
+=====================> [[('You know powerbars and protein bars ?', None, None, None, 1), ('Well I just read about the next step', None, None, None, 0), ('called colon cleanse bars .', None, None, None, 1), ('No its not a diet food .', None, None, None, 1), ('Supposedly you eat it', None, None, None, 0), ('to " prep " your stomach for a colonoscopy .', None, None, None, 1), ('Well I bet you anything', None, None, None, 0), ('that in a week after production , every model and Hollywood actress starts popping these things as a diet pill', None, None, None, 0)]]
+Leaf:  N Textual-Organization You know powerbars and protein bars ?
+Leaf:  N Elaborate Well I just read about the next step
+Leaf:  S span called colon cleanse bars .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate No its not a diet food .
+Leaf:  N Enablement Supposedly you eat it
+Leaf:  S span to " prep " your stomach for a colonoscopy .
+Inner:  S span None Enablement NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Well I bet you anything
+Leaf:  N Attribution that in a week after production , every model and Hollywood actress starts popping these things as a diet pill
+Inner:  S span None Attribution SN
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('You know powerbars and protein bars ?', None, None, None, 1), ('Well I just read about the next step', None, None, None, 0), ('called colon cleanse bars .', None, None, None, 1), ('No its not a diet food .', None, None, None, 1), ('Supposedly you eat it', None, None, None, 0), ('to " prep " your stomach for a colonoscopy .', None, None, None, 1), ('Well I bet you anything', None, None, None, 0), ('that in a week after production , every model and Hollywood actress starts popping these things as a diet pill', None, None, None, 0)]

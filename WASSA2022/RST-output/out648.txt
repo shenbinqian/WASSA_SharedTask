@@ -1,0 +1,41 @@
+=====================> [[('I guess', None, None, None, 0), ("people do n't realize", None, None, None, 0), ('how much of an impact', None, None, None, 0), ('they can have .', None, None, None, 1), ('The article says', None, None, None, 0), ('if people would have done something', None, None, None, 0), ('they could have stopped the extinction of the animals .', None, None, None, 1), ("But at the same time , it is people 's action indirectly that caused the extinction ,", None, None, None, 0), ('through contributing to climate change .', None, None, None, 1), ('There is so much', None, None, None, 0), ('that can go out of balance in nature', None, None, None, 0), ('when people are involved .', None, None, None, 1), ('When one species dies off ,', None, None, None, 0), ('then everything in that ecosystem changes .', None, None, None, 1), ('I guess', None, None, None, 0), ('the article was kind of interesting .', None, None, None, 1), ('But what is the solution the problem', None, None, None, 0), ('they are', None, None, None, 0), ('talking about ?', None, None, None, 1), ('How should people intervene to save those animals ?', None, None, None, 1)]]
+Leaf:  S span I guess
+Leaf:  S span people do n't realize
+Leaf:  N Elaborate how much of an impact
+Leaf:  S span they can have .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The article says
+Leaf:  S span if people would have done something
+Leaf:  N Condition they could have stopped the extinction of the animals .
+Inner:  N Attribution None Condition SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Manner-Means But at the same time , it is people 's action indirectly that caused the extinction ,
+Leaf:  S span through contributing to climate change .
+Inner:  S span None Manner-Means NS
+Inner:  N Explanation None Contrast NS
+Leaf:  N Elaborate There is so much
+Leaf:  N Background that can go out of balance in nature
+Leaf:  S span when people are involved .
+Inner:  S span None Background NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span When one species dies off ,
+Leaf:  N Condition then everything in that ecosystem changes .
+Inner:  S span None Condition SN
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Attribution I guess
+Leaf:  S span the article was kind of interesting .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate But what is the solution the problem
+Leaf:  N Elaborate they are
+Leaf:  S span talking about ?
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span How should people intervene to save those animals ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I guess', None, None, None, 0), ("people do n't realize", None, None, None, 0), ('how much of an impact', None, None, None, 0), ('they can have .', None, None, None, 1), ('The article says', None, None, None, 0), ('if people would have done something', None, None, None, 0), ('they could have stopped the extinction of the animals .', None, None, None, 1), ("But at the same time , it is people 's action indirectly that caused the extinction ,", None, None, None, 0), ('through contributing to climate change .', None, None, None, 1), ('There is so much', None, None, None, 0), ('that can go out of balance in nature', None, None, None, 0), ('when people are involved .', None, None, None, 1), ('When one species dies off ,', None, None, None, 0), ('then everything in that ecosystem changes .', None, None, None, 1), ('I guess', None, None, None, 0), ('the article was kind of interesting .', None, None, None, 1), ('But what is the solution the problem', None, None, None, 0), ('they are', None, None, None, 0), ('talking about ?', None, None, None, 1), ('How should people intervene to save those animals ?', None, None, None, 1)]

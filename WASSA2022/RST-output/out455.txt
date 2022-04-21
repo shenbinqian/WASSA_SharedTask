@@ -1,0 +1,25 @@
+=====================> [[('I just read an article about kids', None, None, None, 0), ('being killed on Halloween night .', None, None, None, 1), ("It 's an awful tragedy", None, None, None, 0), ('that we need to try to prevent .', None, None, None, 1), ('Because someone was driving stupid ,', None, None, None, 0), ('kids were killed .', None, None, None, 1), ('Halloween is a time', None, None, None, 0), ('to have responsible fun', None, None, None, 0), ('and some guy took it to the extremes .', None, None, None, 1), ("It 's sad ,", None, None, None, 0), ('and I feel for those parents .', None, None, None, 1), ('No parent should have to bury their child .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read an article about kids
+Leaf:  S span being killed on Halloween night .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate It 's an awful tragedy
+Leaf:  S span that we need to try to prevent .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Because someone was driving stupid ,
+Leaf:  N Background kids were killed .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Halloween is a time
+Leaf:  S span to have responsible fun
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit and some guy took it to the extremes .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint It 's sad ,
+Leaf:  N Joint and I feel for those parents .
+Inner:  N Explanation None Joint NN
+Leaf:  S span No parent should have to bury their child .
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I just read an article about kids', None, None, None, 0), ('being killed on Halloween night .', None, None, None, 1), ("It 's an awful tragedy", None, None, None, 0), ('that we need to try to prevent .', None, None, None, 1), ('Because someone was driving stupid ,', None, None, None, 0), ('kids were killed .', None, None, None, 1), ('Halloween is a time', None, None, None, 0), ('to have responsible fun', None, None, None, 0), ('and some guy took it to the extremes .', None, None, None, 1), ("It 's sad ,", None, None, None, 0), ('and I feel for those parents .', None, None, None, 1), ('No parent should have to bury their child .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('The situation in Yemen with the Saudi-led coalition against the Houthi rebels is one with a lot of controversy , and for good reason .', None, None, None, 1), ('This conflict is rife with airstrikes and drone strikes', None, None, None, 0), ('that drop on civilians and militants alike .', None, None, None, 1), ('Qatar is culpable in the slaughter of citizens ,', None, None, None, 0), ('which puts them firmly against the Geneva Conventions .', None, None, None, 1), ("Of course , I do not celebrate the loss of their soldiers ' lives ,", None, None, None, 0), ('as their families back home are just regular citizens as well in all likelihood .', None, None, None, 1)]]
+Leaf:  N Explanation The situation in Yemen with the Saudi-led coalition against the Houthi rebels is one with a lot of controversy , and for good reason .
+Leaf:  N Elaborate This conflict is rife with airstrikes and drone strikes
+Leaf:  S span that drop on civilians and militants alike .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Evaluation Qatar is culpable in the slaughter of citizens ,
+Leaf:  S span which puts them firmly against the Geneva Conventions .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Contrast Of course , I do not celebrate the loss of their soldiers ' lives ,
+Leaf:  S span as their families back home are just regular citizens as well in all likelihood .
+Inner:  S span None Contrast NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('The situation in Yemen with the Saudi-led coalition against the Houthi rebels is one with a lot of controversy , and for good reason .', None, None, None, 1), ('This conflict is rife with airstrikes and drone strikes', None, None, None, 0), ('that drop on civilians and militants alike .', None, None, None, 1), ('Qatar is culpable in the slaughter of citizens ,', None, None, None, 0), ('which puts them firmly against the Geneva Conventions .', None, None, None, 1), ("Of course , I do not celebrate the loss of their soldiers ' lives ,", None, None, None, 0), ('as their families back home are just regular citizens as well in all likelihood .', None, None, None, 1)]

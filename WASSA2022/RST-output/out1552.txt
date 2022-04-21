@@ -1,0 +1,23 @@
+=====================> [[('To show', None, None, None, 0), ('with how it can be done', None, None, None, 0), ('and understanding with how others are making sure', None, None, None, 0), ("that I 'm not making sure ,", None, None, None, 0), ('which of these things are becoming worse', None, None, None, 0), ("and how it 's not being told with how the private message is n't being shown .", None, None, None, 1), ('I believe', None, None, None, 0), ("that it ca n't be how my friend is ,", None, None, None, 0), ("because it 's just not important", None, None, None, 0), ('and with it being bad ,', None, None, None, 0), ("it 's just not really good .", None, None, None, 1)]]
+Leaf:  S span To show
+Leaf:  N Attribution with how it can be done
+Inner:  N Joint None Attribution SN
+Leaf:  S span and understanding with how others are making sure
+Leaf:  S span that I 'm not making sure ,
+Leaf:  N Attribution which of these things are becoming worse
+Inner:  N Attribution None Attribution SN
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and how it 's not being told with how the private message is n't being shown .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I believe
+Leaf:  N Explanation that it ca n't be how my friend is ,
+Leaf:  N Joint because it 's just not important
+Leaf:  N Cause and with it being bad ,
+Leaf:  N Cause it 's just not really good .
+Inner:  N Joint None Cause NN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Explanation NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('To show', None, None, None, 0), ('with how it can be done', None, None, None, 0), ('and understanding with how others are making sure', None, None, None, 0), ("that I 'm not making sure ,", None, None, None, 0), ('which of these things are becoming worse', None, None, None, 0), ("and how it 's not being told with how the private message is n't being shown .", None, None, None, 1), ('I believe', None, None, None, 0), ("that it ca n't be how my friend is ,", None, None, None, 0), ("because it 's just not important", None, None, None, 0), ('and with it being bad ,', None, None, None, 0), ("it 's just not really good .", None, None, None, 1)]

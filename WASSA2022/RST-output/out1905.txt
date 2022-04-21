@@ -1,0 +1,23 @@
+=====================> [[('An excellent ( but horrible ) example', None, None, None, 0), ('of just how tricky conservation work can be .', None, None, None, 1), ('Of course we should be working', None, None, None, 0), ('to protect endangered species ,', None, None, None, 0), ("but you wo n't be successful", None, None, None, 0), ("if you do n't care for the humans involved , too .", None, None, None, 1), ('I had no idea elephants were the cause of so much misery .', None, None, None, 1), ('They should be saved ,', None, None, None, 0), ('but the people', None, None, None, 0), ('who live around them', None, None, None, 0), ('must be protected as well .', None, None, None, 1)]]
+Leaf:  N Elaborate An excellent ( but horrible ) example
+Leaf:  S span of just how tricky conservation work can be .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Enablement Of course we should be working
+Leaf:  S span to protect endangered species ,
+Inner:  N Contrast None Enablement NS
+Leaf:  N Condition but you wo n't be successful
+Leaf:  S span if you do n't care for the humans involved , too .
+Inner:  N Contrast None Condition NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Evaluation I had no idea elephants were the cause of so much misery .
+Leaf:  N Contrast They should be saved ,
+Leaf:  N Elaborate but the people
+Leaf:  S span who live around them
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit must be protected as well .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('An excellent ( but horrible ) example', None, None, None, 0), ('of just how tricky conservation work can be .', None, None, None, 1), ('Of course we should be working', None, None, None, 0), ('to protect endangered species ,', None, None, None, 0), ("but you wo n't be successful", None, None, None, 0), ("if you do n't care for the humans involved , too .", None, None, None, 1), ('I had no idea elephants were the cause of so much misery .', None, None, None, 1), ('They should be saved ,', None, None, None, 0), ('but the people', None, None, None, 0), ('who live around them', None, None, None, 0), ('must be protected as well .', None, None, None, 1)]

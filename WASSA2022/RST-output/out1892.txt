@@ -1,0 +1,23 @@
+=====================> [[('This article is such BS .', None, None, None, 1), ("There 's so freaking way", None, None, None, 0), ('that the kid was body slammed', None, None, None, 0), ('because he tried to leave the classroom .', None, None, None, 1), ("I 'm so sick and tired of the media portraying teachers and educators in a bad light .", None, None, None, 1), ('He probably threatened to kill the teacher ,', None, None, None, 0), ('probably came at him', None, None, None, 0), ('and the teacher felt fear for their life .', None, None, None, 1), ("The kid did n't deserve to get so hurt ,", None, None, None, 0), ("but i 'm sorry the media is portraying the teacher as a freaking monster", None, None, None, 0), ('and that is pure bs', None, None, None, 0)]]
+Leaf:  N Summary This article is such BS .
+Leaf:  N Elaborate There 's so freaking way
+Leaf:  N Explanation that the kid was body slammed
+Leaf:  S span because he tried to leave the classroom .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I 'm so sick and tired of the media portraying teachers and educators in a bad light .
+Leaf:  N Joint He probably threatened to kill the teacher ,
+Leaf:  N Joint probably came at him
+Leaf:  N Joint and the teacher felt fear for their life .
+Inner:  N Joint None Joint NN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span The kid did n't deserve to get so hurt ,
+Leaf:  N Evaluation but i 'm sorry the media is portraying the teacher as a freaking monster
+Leaf:  S span and that is pure bs
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This article is such BS .', None, None, None, 1), ("There 's so freaking way", None, None, None, 0), ('that the kid was body slammed', None, None, None, 0), ('because he tried to leave the classroom .', None, None, None, 1), ("I 'm so sick and tired of the media portraying teachers and educators in a bad light .", None, None, None, 1), ('He probably threatened to kill the teacher ,', None, None, None, 0), ('probably came at him', None, None, None, 0), ('and the teacher felt fear for their life .', None, None, None, 1), ("The kid did n't deserve to get so hurt ,", None, None, None, 0), ("but i 'm sorry the media is portraying the teacher as a freaking monster", None, None, None, 0), ('and that is pure bs', None, None, None, 0)]

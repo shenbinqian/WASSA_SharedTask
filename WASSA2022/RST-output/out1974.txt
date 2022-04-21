@@ -1,0 +1,17 @@
+=====================> [[('Timeshare owners have long needed to be dealt with in this manner .', None, None, None, 1), ('I feel', None, None, None, 0), ('like overall there are quite a bit of them', None, None, None, 0), ('that are just not good people overall', None, None, None, 0), ('that control these timeshare contracts .', None, None, None, 1), ('Trying to relinquish them is a pain in the butt', None, None, None, 0), ('and it should be nipped', None, None, None, 0), ('or we cant do things right in my honest opinion .', None, None, None, 1)]]
+Leaf:  N Explanation Timeshare owners have long needed to be dealt with in this manner .
+Leaf:  S span I feel
+Leaf:  N Elaborate like overall there are quite a bit of them
+Leaf:  S span that are just not good people overall
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span that control these timeshare contracts .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Evaluation Trying to relinquish them is a pain in the butt
+Leaf:  N Condition and it should be nipped
+Leaf:  N Condition or we cant do things right in my honest opinion .
+Inner:  S span None Condition NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('Timeshare owners have long needed to be dealt with in this manner .', None, None, None, 1), ('I feel', None, None, None, 0), ('like overall there are quite a bit of them', None, None, None, 0), ('that are just not good people overall', None, None, None, 0), ('that control these timeshare contracts .', None, None, None, 1), ('Trying to relinquish them is a pain in the butt', None, None, None, 0), ('and it should be nipped', None, None, None, 0), ('or we cant do things right in my honest opinion .', None, None, None, 1)]

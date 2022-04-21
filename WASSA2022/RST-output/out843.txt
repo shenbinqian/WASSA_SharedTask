@@ -1,0 +1,25 @@
+=====================> [[('Z did you hear ??', None, None, None, 1), ('Kate beckinsale', None, None, None, 0), ('and len wiseman broke up !!!!', None, None, None, 1), ("I ca n't believe it .", None, None, None, 1), ('What happened ?', None, None, None, 1), ("I 'm distraught .", None, None, None, 1), ("At least they do n't have any kids", None, None, None, 0), ("so they do n't have to put them through that whole thing about divorce .", None, None, None, 1), ('But I mean come on ,', None, None, None, 0), ('she can barely even wait', None, None, None, 0), ('to get back out there ,', None, None, None, 0), ('WITHOUT her wedding ring ??? Jeeze . Sad .', None, None, None, 1)]]
+Leaf:  N Joint Z did you hear ??
+Leaf:  N Joint Kate beckinsale
+Leaf:  N Joint and len wiseman broke up !!!!
+Inner:  N Summary None Joint NN
+Leaf:  N Summary I ca n't believe it .
+Leaf:  S span What happened ?
+Inner:  S span None Summary NS
+Inner:  N Joint None Summary NS
+Inner:  N Topic-Comment None Joint NN
+Leaf:  N Elaborate I 'm distraught .
+Leaf:  S span At least they do n't have any kids
+Leaf:  N Enablement so they do n't have to put them through that whole thing about divorce .
+Inner:  N Evaluation None Enablement SN
+Leaf:  S span But I mean come on ,
+Leaf:  N Enablement she can barely even wait
+Leaf:  S span to get back out there ,
+Inner:  N Same-Unit None Enablement NS
+Leaf:  N Same-Unit WITHOUT her wedding ring ??? Jeeze . Sad .
+Inner:  N Evaluation None Same-Unit NN
+Inner:  S span None Evaluation SN
+Inner:  S span None Evaluation NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('Z did you hear ??', None, None, None, 1), ('Kate beckinsale', None, None, None, 0), ('and len wiseman broke up !!!!', None, None, None, 1), ("I ca n't believe it .", None, None, None, 1), ('What happened ?', None, None, None, 1), ("I 'm distraught .", None, None, None, 1), ("At least they do n't have any kids", None, None, None, 0), ("so they do n't have to put them through that whole thing about divorce .", None, None, None, 1), ('But I mean come on ,', None, None, None, 0), ('she can barely even wait', None, None, None, 0), ('to get back out there ,', None, None, None, 0), ('WITHOUT her wedding ring ??? Jeeze . Sad .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('I can not stand Donald Trump and his fear mongering .', None, None, None, 1), ('Most Muslim people', None, None, None, 0), ('I know', None, None, None, 0), ('are very , very kind people .', None, None, None, 1), ('It is so unfortunate there are so many hate crimes', None, None, None, 0), ('because of the ignorance', None, None, None, 0), ('our President continues to blast on twitter .', None, None, None, 1), ("It 's not just Muslims . It 's everyone", None, None, None, 0), ('that is not part of the Alt-White movement . Jewish people , LBGTQ people . Black people . It is fueled by hate and ignorance .', None, None, None, 1), ('Trumps Muslim ban did more harm than good !', None, None, None, 1), ('He just caused fear ,', None, None, None, 0), ('creating a deeper divide in our country .', None, None, None, 1), ("It 's sad .", None, None, None, 1)]]
+Leaf:  N Evaluation I can not stand Donald Trump and his fear mongering .
+Leaf:  N Elaborate Most Muslim people
+Leaf:  S span I know
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit are very , very kind people .
+Inner:  N Contrast None Same-Unit NN
+Leaf:  N Cause It is so unfortunate there are so many hate crimes
+Leaf:  N Elaborate because of the ignorance
+Leaf:  S span our President continues to blast on twitter .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate It 's not just Muslims . It 's everyone
+Leaf:  S span that is not part of the Alt-White movement . Jewish people , LBGTQ people . Black people . It is fueled by hate and ignorance .
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast NN
+Leaf:  N Summary Trumps Muslim ban did more harm than good !
+Leaf:  N Cause He just caused fear ,
+Leaf:  S span creating a deeper divide in our country .
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Summary NS
+Leaf:  S span It 's sad .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('I can not stand Donald Trump and his fear mongering .', None, None, None, 1), ('Most Muslim people', None, None, None, 0), ('I know', None, None, None, 0), ('are very , very kind people .', None, None, None, 1), ('It is so unfortunate there are so many hate crimes', None, None, None, 0), ('because of the ignorance', None, None, None, 0), ('our President continues to blast on twitter .', None, None, None, 1), ("It 's not just Muslims . It 's everyone", None, None, None, 0), ('that is not part of the Alt-White movement . Jewish people , LBGTQ people . Black people . It is fueled by hate and ignorance .', None, None, None, 1), ('Trumps Muslim ban did more harm than good !', None, None, None, 1), ('He just caused fear ,', None, None, None, 0), ('creating a deeper divide in our country .', None, None, None, 1), ("It 's sad .", None, None, None, 1)]

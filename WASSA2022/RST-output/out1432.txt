@@ -1,0 +1,15 @@
+=====================> [[('As I read this article ,', None, None, None, 0), ("I felt a bit nervous and alarmed at India 's tiger population ,", None, None, None, 0), ('even though this is in India but still .', None, None, None, 1), ('Hopefully , the Tigers will be better protected in the future', None, None, None, 0), ('and people will stop trying to kill them', None, None, None, 0), ('or dial it down at least .', None, None, None, 1), ("I wish India 's tigers the best in their protection and survival .", None, None, None, 1)]]
+Leaf:  S span As I read this article ,
+Leaf:  N Background I felt a bit nervous and alarmed at India 's tiger population ,
+Inner:  N Contrast None Background SN
+Leaf:  S span even though this is in India but still .
+Inner:  N Evaluation None Contrast NS
+Leaf:  N Joint Hopefully , the Tigers will be better protected in the future
+Leaf:  N Summary and people will stop trying to kill them
+Leaf:  S span or dial it down at least .
+Inner:  N Joint None Summary NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I wish India 's tigers the best in their protection and survival .
+Inner:  Root None None Elaborate NS
+[('As I read this article ,', None, None, None, 0), ("I felt a bit nervous and alarmed at India 's tiger population ,", None, None, None, 0), ('even though this is in India but still .', None, None, None, 1), ('Hopefully , the Tigers will be better protected in the future', None, None, None, 0), ('and people will stop trying to kill them', None, None, None, 0), ('or dial it down at least .', None, None, None, 1), ("I wish India 's tigers the best in their protection and survival .", None, None, None, 1)]

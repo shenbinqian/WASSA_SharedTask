@@ -1,0 +1,23 @@
+=====================> [[('This always makes me mad guys ,', None, None, None, 0), ('that the cops think', None, None, None, 0), ('they can shoot', None, None, None, 0), ('because of color .', None, None, None, 1), ('Its absolutely ridiculous !', None, None, None, 1), ("Of course , the cop is n't being charged for murder ,", None, None, None, 0), ('and predijuce still stands in this country .', None, None, None, 1), ('It is extremely sad that the world has to come to this . .', None, None, None, 1), ('just killing off anybody', None, None, None, 0), ('because they think', None, None, None, 0), ("they 're above the law .", None, None, None, 1)]]
+Leaf:  N Elaborate This always makes me mad guys ,
+Leaf:  S span that the cops think
+Leaf:  N Cause they can shoot
+Leaf:  S span because of color .
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Its absolutely ridiculous !
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint Of course , the cop is n't being charged for murder ,
+Leaf:  N Joint and predijuce still stands in this country .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Explanation It is extremely sad that the world has to come to this . .
+Leaf:  N Background just killing off anybody
+Leaf:  S span because they think
+Leaf:  N Attribution they 're above the law .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This always makes me mad guys ,', None, None, None, 0), ('that the cops think', None, None, None, 0), ('they can shoot', None, None, None, 0), ('because of color .', None, None, None, 1), ('Its absolutely ridiculous !', None, None, None, 1), ("Of course , the cop is n't being charged for murder ,", None, None, None, 0), ('and predijuce still stands in this country .', None, None, None, 1), ('It is extremely sad that the world has to come to this . .', None, None, None, 1), ('just killing off anybody', None, None, None, 0), ('because they think', None, None, None, 0), ("they 're above the law .", None, None, None, 1)]

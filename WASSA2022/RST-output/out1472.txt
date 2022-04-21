@@ -1,0 +1,27 @@
+=====================> [[('I never knew', None, None, None, 0), ('that bananas were at risk of becoming extinct .', None, None, None, 1), ('Apparently we need to cultivate more varieties ,', None, None, None, 0), ('so we do not face another crisis like Cavendish and Big Mike bananas', None, None, None, 0), ('that have succumbed to a fungal disease', None, None, None, 0), ('and almost got wiped out . We are so used to seeing bananas as a common fruit at supermarkets', None, None, None, 0), ('that we never think of not ever eating another one again !', None, None, None, 1), ('I found this article very intriguing , there is so much work', None, None, None, 0), ('that goes', None, None, None, 0), ('into figuring out how to protect this yellow fruit from fungal illnesses', None, None, None, 0), ('and make it more resistant to various dangerous fungal strains.Apparently this presents a great challenge for the scientists', None, None, None, 0), ('but they are hoping to cultivate more banana plant varieties', None, None, None, 0), ('that will be more resistant to various illness .', None, None, None, 1)]]
+Leaf:  S span I never knew
+Leaf:  N Attribution that bananas were at risk of becoming extinct .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Enablement Apparently we need to cultivate more varieties ,
+Leaf:  N Elaborate so we do not face another crisis like Cavendish and Big Mike bananas
+Leaf:  N Cause that have succumbed to a fungal disease
+Leaf:  N Cause and almost got wiped out . We are so used to seeing bananas as a common fruit at supermarkets
+Inner:  S span None Cause NN
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation that we never think of not ever eating another one again !
+Inner:  S span None Explanation SN
+Inner:  N Evaluation None Enablement NS
+Leaf:  N Elaborate I found this article very intriguing , there is so much work
+Leaf:  N Elaborate that goes
+Leaf:  N Joint into figuring out how to protect this yellow fruit from fungal illnesses
+Leaf:  N Joint and make it more resistant to various dangerous fungal strains.Apparently this presents a great challenge for the scientists
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Elaborate but they are hoping to cultivate more banana plant varieties
+Leaf:  S span that will be more resistant to various illness .
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I never knew', None, None, None, 0), ('that bananas were at risk of becoming extinct .', None, None, None, 1), ('Apparently we need to cultivate more varieties ,', None, None, None, 0), ('so we do not face another crisis like Cavendish and Big Mike bananas', None, None, None, 0), ('that have succumbed to a fungal disease', None, None, None, 0), ('and almost got wiped out . We are so used to seeing bananas as a common fruit at supermarkets', None, None, None, 0), ('that we never think of not ever eating another one again !', None, None, None, 1), ('I found this article very intriguing , there is so much work', None, None, None, 0), ('that goes', None, None, None, 0), ('into figuring out how to protect this yellow fruit from fungal illnesses', None, None, None, 0), ('and make it more resistant to various dangerous fungal strains.Apparently this presents a great challenge for the scientists', None, None, None, 0), ('but they are hoping to cultivate more banana plant varieties', None, None, None, 0), ('that will be more resistant to various illness .', None, None, None, 1)]

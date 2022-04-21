@@ -1,0 +1,29 @@
+=====================> [[('A lot of us do what we can', None, None, None, 0), ('to lower our emissions and pollution ,', None, None, None, 0), ("even still , this study should n't be surprising to anyone .", None, None, None, 1), ('Of course the poor air is hurting people ,', None, None, None, 0), ("we 're poisoning the children", None, None, None, 0), ('and profit is all that really matters in the end ,', None, None, None, 0), ('nothing will change', None, None, None, 0), ('until you force it to .', None, None, None, 1), ('If everyone did the most', None, None, None, 0), ('they could do', None, None, None, 0), ('we might have a shot', None, None, None, 0), ('at reducing or reversing some of this damage ,', None, None, None, 0), ("but as it is it 's obviously not changing", None, None, None, 0), ("and it 's hurting people 's lives .", None, None, None, 1)]]
+Leaf:  N Enablement A lot of us do what we can
+Leaf:  S span to lower our emissions and pollution ,
+Inner:  S span None Enablement NS
+Leaf:  N Enablement even still , this study should n't be surprising to anyone .
+Inner:  N Elaborate None Enablement SN
+Leaf:  N Joint Of course the poor air is hurting people ,
+Leaf:  N Joint we 're poisoning the children
+Leaf:  N Joint and profit is all that really matters in the end ,
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  N Background nothing will change
+Leaf:  S span until you force it to .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate If everyone did the most
+Leaf:  S span they could do
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate we might have a shot
+Leaf:  S span at reducing or reversing some of this damage ,
+Inner:  N Condition None Elaborate NS
+Inner:  S span None Condition SN
+Leaf:  N Joint but as it is it 's obviously not changing
+Leaf:  N Joint and it 's hurting people 's lives .
+Inner:  N Contrast None Joint NN
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('A lot of us do what we can', None, None, None, 0), ('to lower our emissions and pollution ,', None, None, None, 0), ("even still , this study should n't be surprising to anyone .", None, None, None, 1), ('Of course the poor air is hurting people ,', None, None, None, 0), ("we 're poisoning the children", None, None, None, 0), ('and profit is all that really matters in the end ,', None, None, None, 0), ('nothing will change', None, None, None, 0), ('until you force it to .', None, None, None, 1), ('If everyone did the most', None, None, None, 0), ('they could do', None, None, None, 0), ('we might have a shot', None, None, None, 0), ('at reducing or reversing some of this damage ,', None, None, None, 0), ("but as it is it 's obviously not changing", None, None, None, 0), ("and it 's hurting people 's lives .", None, None, None, 1)]

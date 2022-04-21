@@ -1,0 +1,23 @@
+=====================> [[('i like We expect Turkey to safeguard its parliamentary democracy ,', None, None, None, 0), ('including respect for human rights and the rule of law ,', None, None, None, 0), ('and we are conveying these expectations directly to the Turkish authorities , ”', None, None, None, 0), ('Mogherini said in a statement with the EU ’s enlargement commissioner , Erdoğan has launched repeated personal attacks on Demirtaş ,', None, None, None, 0), ('who analysts have seen as the sole politician in Turkey', None, None, None, 0), ('who comes anywhere near to rivalling his charisma .', None, None, None, 1), ('Demirtaş has made it a personal crusade', None, None, None, 0), ('to oppose Erdoğan ’s plan for a presidential system in Turkey ,', None, None, None, 0), ('which', None, None, None, 0), ('the HDP says', None, None, None, 0), ('would lead to dictatorship .', None, None, None, 1)]]
+Leaf:  N Elaborate i like We expect Turkey to safeguard its parliamentary democracy ,
+Leaf:  S span including respect for human rights and the rule of law ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and we are conveying these expectations directly to the Turkish authorities , ”
+Inner:  N Attribution None Joint NN
+Leaf:  N Elaborate Mogherini said in a statement with the EU ’s enlargement commissioner , Erdoğan has launched repeated personal attacks on Demirtaş ,
+Leaf:  N Elaborate who analysts have seen as the sole politician in Turkey
+Leaf:  S span who comes anywhere near to rivalling his charisma .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Elaborate Demirtaş has made it a personal crusade
+Leaf:  S span to oppose Erdoğan ’s plan for a presidential system in Turkey ,
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Attribution which
+Leaf:  S span the HDP says
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Same-Unit would lead to dictatorship .
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('i like We expect Turkey to safeguard its parliamentary democracy ,', None, None, None, 0), ('including respect for human rights and the rule of law ,', None, None, None, 0), ('and we are conveying these expectations directly to the Turkish authorities , ”', None, None, None, 0), ('Mogherini said in a statement with the EU ’s enlargement commissioner , Erdoğan has launched repeated personal attacks on Demirtaş ,', None, None, None, 0), ('who analysts have seen as the sole politician in Turkey', None, None, None, 0), ('who comes anywhere near to rivalling his charisma .', None, None, None, 1), ('Demirtaş has made it a personal crusade', None, None, None, 0), ('to oppose Erdoğan ’s plan for a presidential system in Turkey ,', None, None, None, 0), ('which', None, None, None, 0), ('the HDP says', None, None, None, 0), ('would lead to dictatorship .', None, None, None, 1)]

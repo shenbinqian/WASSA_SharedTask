@@ -1,0 +1,15 @@
+=====================> [[('I think', None, None, None, 0), ('it is important to ensure safe drivers on our roads , for our family ’s sake .', None, None, None, 1), ('I believe', None, None, None, 0), ('that the rate of accidents on American roads is far higher than acceptable .', None, None, None, 1), ('I believe', None, None, None, 0), ('there should be more restrictive driving requirements and testing , as well as harsher punishments for drivers', None, None, None, 0), ('who do not respect the riles of the road .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution it is important to ensure safe drivers on our roads , for our family ’s sake .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I believe
+Leaf:  N Attribution that the rate of accidents on American roads is far higher than acceptable .
+Inner:  N Cause None Attribution SN
+Leaf:  S span I believe
+Leaf:  N Elaborate there should be more restrictive driving requirements and testing , as well as harsher punishments for drivers
+Leaf:  S span who do not respect the riles of the road .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I think', None, None, None, 0), ('it is important to ensure safe drivers on our roads , for our family ’s sake .', None, None, None, 1), ('I believe', None, None, None, 0), ('that the rate of accidents on American roads is far higher than acceptable .', None, None, None, 1), ('I believe', None, None, None, 0), ('there should be more restrictive driving requirements and testing , as well as harsher punishments for drivers', None, None, None, 0), ('who do not respect the riles of the road .', None, None, None, 1)]

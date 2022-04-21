@@ -1,0 +1,21 @@
+=====================> [[('This article talks about pouching in Africa .', None, None, None, 1), ("It 's really sad hearing about the rhinos .", None, None, None, 1), ('We need to protect these animals .', None, None, None, 1), ('These animals are more important that the people', None, None, None, 0), ('poaching them .', None, None, None, 1), ('Those poachers deserve to die ;', None, None, None, 0), ('they are horrible people', None, None, None, 0), ('and they are destroying a unique species .', None, None, None, 1), ('This is a terrible thing .', None, None, None, 1), ('They desperately need to protect these poor rhinoes from people .', None, None, None, 1)]]
+Leaf:  N Evaluation This article talks about pouching in Africa .
+Leaf:  N Evaluation It 's really sad hearing about the rhinos .
+Leaf:  N Evaluation We need to protect these animals .
+Leaf:  N Elaborate These animals are more important that the people
+Leaf:  S span poaching them .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation Those poachers deserve to die ;
+Leaf:  N Joint they are horrible people
+Leaf:  N Joint and they are destroying a unique species .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span This is a terrible thing .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span They desperately need to protect these poor rhinoes from people .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This article talks about pouching in Africa .', None, None, None, 1), ("It 's really sad hearing about the rhinos .", None, None, None, 1), ('We need to protect these animals .', None, None, None, 1), ('These animals are more important that the people', None, None, None, 0), ('poaching them .', None, None, None, 1), ('Those poachers deserve to die ;', None, None, None, 0), ('they are horrible people', None, None, None, 0), ('and they are destroying a unique species .', None, None, None, 1), ('This is a terrible thing .', None, None, None, 1), ('They desperately need to protect these poor rhinoes from people .', None, None, None, 1)]

@@ -1,0 +1,17 @@
+=====================> [[('I certainly feel bad for people', None, None, None, 0), ('having to live in such horrible conditions .', None, None, None, 1), ('However , I also feel bad for the regions', None, None, None, 0), ('that these refugees are going to .', None, None, None, 1), ('It has to be a huge strain on these countries to accept large numbers of homeless', None, None, None, 0), ('that will just depress their economy .', None, None, None, 1), ('It is a tough situation', None, None, None, 0), ('and I can see both sides of it .', None, None, None, 1)]]
+Leaf:  N Elaborate I certainly feel bad for people
+Leaf:  S span having to live in such horrible conditions .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate However , I also feel bad for the regions
+Leaf:  S span that these refugees are going to .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It has to be a huge strain on these countries to accept large numbers of homeless
+Leaf:  S span that will just depress their economy .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Joint It is a tough situation
+Leaf:  N Joint and I can see both sides of it .
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I certainly feel bad for people', None, None, None, 0), ('having to live in such horrible conditions .', None, None, None, 1), ('However , I also feel bad for the regions', None, None, None, 0), ('that these refugees are going to .', None, None, None, 1), ('It has to be a huge strain on these countries to accept large numbers of homeless', None, None, None, 0), ('that will just depress their economy .', None, None, None, 1), ('It is a tough situation', None, None, None, 0), ('and I can see both sides of it .', None, None, None, 1)]

@@ -1,0 +1,35 @@
+=====================> [[('As someone', None, None, None, 0), ('who graduated with a STEM degree', None, None, None, 0), ('I know firsthand', None, None, None, 0), ('just how few women there are in the field .', None, None, None, 1), ("It 's very sad ,", None, None, None, 0), ('and it does indeed rob us of talent .', None, None, None, 1), ('All you have to do is look around', None, None, None, 0), ('to see how America is still a man-run country . The number of women in power is small ,', None, None, None, 0), ('and women feel conflicted', None, None, None, 0), ('between what society says', None, None, None, 0), ('they should do', None, None, None, 0), ('and what they want to do . After all , many have aspirations besides raising kids .', None, None, None, 1), ('Who says', None, None, None, 0), ("that the ' house-mom ' idea is right ?", None, None, None, 1), ('The gender gap needs to close , and the wage gap .', None, None, None, 1), ('Women are not paid as much as men .', None, None, None, 1), ("That 's a fact .", None, None, None, 1)]]
+Leaf:  N Elaborate As someone
+Leaf:  S span who graduated with a STEM degree
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span I know firsthand
+Leaf:  N Attribution just how few women there are in the field .
+Inner:  N Same-Unit None Attribution SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Joint It 's very sad ,
+Leaf:  N Joint and it does indeed rob us of talent .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Enablement All you have to do is look around
+Leaf:  S span to see how America is still a man-run country . The number of women in power is small ,
+Inner:  N Joint None Enablement NS
+Leaf:  N Background and women feel conflicted
+Leaf:  S span between what society says
+Leaf:  N Attribution they should do
+Inner:  N Same-Unit None Attribution SN
+Leaf:  N Same-Unit and what they want to do . After all , many have aspirations besides raising kids .
+Inner:  S span None Same-Unit NN
+Inner:  N Joint None Background NS
+Inner:  N Elaborate None Joint NN
+Leaf:  S span Who says
+Leaf:  N Attribution that the ' house-mom ' idea is right ?
+Inner:  S span None Attribution SN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate The gender gap needs to close , and the wage gap .
+Leaf:  N Evaluation Women are not paid as much as men .
+Leaf:  S span That 's a fact .
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('As someone', None, None, None, 0), ('who graduated with a STEM degree', None, None, None, 0), ('I know firsthand', None, None, None, 0), ('just how few women there are in the field .', None, None, None, 1), ("It 's very sad ,", None, None, None, 0), ('and it does indeed rob us of talent .', None, None, None, 1), ('All you have to do is look around', None, None, None, 0), ('to see how America is still a man-run country . The number of women in power is small ,', None, None, None, 0), ('and women feel conflicted', None, None, None, 0), ('between what society says', None, None, None, 0), ('they should do', None, None, None, 0), ('and what they want to do . After all , many have aspirations besides raising kids .', None, None, None, 1), ('Who says', None, None, None, 0), ("that the ' house-mom ' idea is right ?", None, None, None, 1), ('The gender gap needs to close , and the wage gap .', None, None, None, 1), ('Women are not paid as much as men .', None, None, None, 1), ("That 's a fact .", None, None, None, 1)]

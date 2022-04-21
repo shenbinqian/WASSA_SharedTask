@@ -1,0 +1,15 @@
+=====================> [[('These mindless killings for misguided beliefs is really getting out of hands ,', None, None, None, 0), ("someone 's husband , father , mother , wife , son , daughter", None, None, None, 0), ('murdered violently in the streets makes you lose faith in humanity .', None, None, None, 1), ('Are we really beyond redemption ?', None, None, None, 1), ('Personally I feel', None, None, None, 0), ('ISIS especially is growing more fearless by the day .', None, None, None, 1), ('The world needs to do something', None, None, None, 0)]]
+Leaf:  N Explanation These mindless killings for misguided beliefs is really getting out of hands ,
+Leaf:  N Elaborate someone 's husband , father , mother , wife , son , daughter
+Leaf:  S span murdered violently in the streets makes you lose faith in humanity .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Are we really beyond redemption ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Personally I feel
+Leaf:  N Attribution ISIS especially is growing more fearless by the day .
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span The world needs to do something
+Inner:  Root None None Evaluation NS
+[('These mindless killings for misguided beliefs is really getting out of hands ,', None, None, None, 0), ("someone 's husband , father , mother , wife , son , daughter", None, None, None, 0), ('murdered violently in the streets makes you lose faith in humanity .', None, None, None, 1), ('Are we really beyond redemption ?', None, None, None, 1), ('Personally I feel', None, None, None, 0), ('ISIS especially is growing more fearless by the day .', None, None, None, 1), ('The world needs to do something', None, None, None, 0)]

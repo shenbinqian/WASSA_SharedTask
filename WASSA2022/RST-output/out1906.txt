@@ -1,0 +1,37 @@
+=====================> [[('I just read an interesting article .', None, None, None, 1), ('I hate to read about situations', None, None, None, 0), ('that I can not change .', None, None, None, 1), ('Seeing or hearing about other people in trouble really bothers me .', None, None, None, 1), ('I wish', None, None, None, 0), ('that I could help others more', None, None, None, 0), ('when I learn about a problem .', None, None, None, 1), ('When others are suffering', None, None, None, 0), ('I like to be able to help them get over it . I like to be known as a good friend to others who are in need .', None, None, None, 1), ('I have had situations in my life', None, None, None, 0), ('that I wish I had someone', None, None, None, 0), ('to turn to and I did not . That is the person I try to be for my friends . I like to understand why people do the things', None, None, None, 0), ('they do', None, None, None, 0), ('and make the choices', None, None, None, 0), ('they make .', None, None, None, 1), ('I think', None, None, None, 0), ('that the story could have turned out different', None, None, None, 0), ('if they had the help or input from others .', None, None, None, 1)]]
+Leaf:  N Textual-Organization I just read an interesting article .
+Leaf:  N Elaborate I hate to read about situations
+Leaf:  S span that I can not change .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Evaluation Seeing or hearing about other people in trouble really bothers me .
+Leaf:  S span I wish
+Leaf:  N Background that I could help others more
+Leaf:  S span when I learn about a problem .
+Inner:  N Attribution None Background NS
+Inner:  S span None Attribution SN
+Inner:  N Explanation None Evaluation NS
+Leaf:  S span When others are suffering
+Leaf:  N Background I like to be able to help them get over it . I like to be known as a good friend to others who are in need .
+Inner:  S span None Background SN
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate I have had situations in my life
+Leaf:  N Elaborate that I wish I had someone
+Leaf:  N Elaborate to turn to and I did not . That is the person I try to be for my friends . I like to understand why people do the things
+Leaf:  S span they do
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate and make the choices
+Leaf:  S span they make .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I think
+Leaf:  S span that the story could have turned out different
+Leaf:  N Condition if they had the help or input from others .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('I just read an interesting article .', None, None, None, 1), ('I hate to read about situations', None, None, None, 0), ('that I can not change .', None, None, None, 1), ('Seeing or hearing about other people in trouble really bothers me .', None, None, None, 1), ('I wish', None, None, None, 0), ('that I could help others more', None, None, None, 0), ('when I learn about a problem .', None, None, None, 1), ('When others are suffering', None, None, None, 0), ('I like to be able to help them get over it . I like to be known as a good friend to others who are in need .', None, None, None, 1), ('I have had situations in my life', None, None, None, 0), ('that I wish I had someone', None, None, None, 0), ('to turn to and I did not . That is the person I try to be for my friends . I like to understand why people do the things', None, None, None, 0), ('they do', None, None, None, 0), ('and make the choices', None, None, None, 0), ('they make .', None, None, None, 1), ('I think', None, None, None, 0), ('that the story could have turned out different', None, None, None, 0), ('if they had the help or input from others .', None, None, None, 1)]

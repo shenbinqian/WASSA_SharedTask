@@ -1,0 +1,31 @@
+=====================> [[('I just read this article about a forest land in Indonesia', None, None, None, 0), ('that could potentially be cut down', None, None, None, 0), ('and turned in to a tree plant .', None, None, None, 1), ('Normally an article like this might not attract my attention', None, None, None, 0), ('and cause me to read any further , but this particular forest land is home to the 3rd largest population of endangered orangutans', None, None, None, 0), ('and', None, None, None, 0), ('if the forest is cut down ,', None, None, None, 0), ('it is estimated that 1750 orangutans will die or have to be rescued and re-homed . This is so heartbreaking to me because these are innocent animals , endangered ones at that ,', None, None, None, 0), ('that are just living in their natural environment', None, None, None, 0), ('and have done nothing wrong . How can the government in Indonesia think', None, None, None, 0), ('that this idea is even a possibility ,', None, None, None, 0), ('never mind the fact', None, None, None, 0), ('it could not possibly be a positive thing', None, None, None, 0), ('because of the negative impact', None, None, None, 0), ('it has on this species !!', None, None, None, 1)]]
+Leaf:  N Elaborate I just read this article about a forest land in Indonesia
+Leaf:  N Temporal that could potentially be cut down
+Leaf:  N Temporal and turned in to a tree plant .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Normally an article like this might not attract my attention
+Leaf:  N Joint and cause me to read any further , but this particular forest land is home to the 3rd largest population of endangered orangutans
+Inner:  N Joint None Joint NN
+Leaf:  N Same-Unit and
+Leaf:  S span if the forest is cut down ,
+Leaf:  N Elaborate it is estimated that 1750 orangutans will die or have to be rescued and re-homed . This is so heartbreaking to me because these are innocent animals , endangered ones at that ,
+Leaf:  N Joint that are just living in their natural environment
+Leaf:  S span and have done nothing wrong . How can the government in Indonesia think
+Leaf:  N Attribution that this idea is even a possibility ,
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Condition None Elaborate NS
+Inner:  N Joint None Condition SN
+Leaf:  N Elaborate never mind the fact
+Leaf:  N Explanation it could not possibly be a positive thing
+Leaf:  N Elaborate because of the negative impact
+Leaf:  S span it has on this species !!
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  N Joint None Elaborate NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I just read this article about a forest land in Indonesia', None, None, None, 0), ('that could potentially be cut down', None, None, None, 0), ('and turned in to a tree plant .', None, None, None, 1), ('Normally an article like this might not attract my attention', None, None, None, 0), ('and cause me to read any further , but this particular forest land is home to the 3rd largest population of endangered orangutans', None, None, None, 0), ('and', None, None, None, 0), ('if the forest is cut down ,', None, None, None, 0), ('it is estimated that 1750 orangutans will die or have to be rescued and re-homed . This is so heartbreaking to me because these are innocent animals , endangered ones at that ,', None, None, None, 0), ('that are just living in their natural environment', None, None, None, 0), ('and have done nothing wrong . How can the government in Indonesia think', None, None, None, 0), ('that this idea is even a possibility ,', None, None, None, 0), ('never mind the fact', None, None, None, 0), ('it could not possibly be a positive thing', None, None, None, 0), ('because of the negative impact', None, None, None, 0), ('it has on this species !!', None, None, None, 1)]

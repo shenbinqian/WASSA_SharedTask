@@ -1,0 +1,17 @@
+=====================> [[('Even though fewer people are crossing this year', None, None, None, 0), ('than in 2015 , more people are dying', None, None, None, 0), ('as they try to make the journey.Bodies of migrants in a boat off the coast of Libya in October .', None, None, None, 1), ('At least 29 people died in the incident , all in their 20s .', None, None, None, 1), ('One person out of every 88 has been lost at sea', None, None, None, 0), ('trying to reach the shores of Greece , Italy or Spain .', None, None, None, 1), ("That means they 're 90 times more likely to die on the journey", None, None, None, 0), ('than an American is likely to die of gunshot wounds .', None, None, None, 1)]]
+Leaf:  N Comparison Even though fewer people are crossing this year
+Leaf:  N Background than in 2015 , more people are dying
+Leaf:  S span as they try to make the journey.Bodies of migrants in a boat off the coast of Libya in October .
+Inner:  S span None Background NS
+Inner:  N Elaborate None Comparison NS
+Leaf:  S span At least 29 people died in the incident , all in their 20s .
+Inner:  N Joint None Elaborate NS
+Leaf:  N Elaborate One person out of every 88 has been lost at sea
+Leaf:  S span trying to reach the shores of Greece , Italy or Spain .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Comparison That means they 're 90 times more likely to die on the journey
+Leaf:  S span than an American is likely to die of gunshot wounds .
+Inner:  S span None Comparison NS
+Inner:  Root None None Evaluation NS
+[('Even though fewer people are crossing this year', None, None, None, 0), ('than in 2015 , more people are dying', None, None, None, 0), ('as they try to make the journey.Bodies of migrants in a boat off the coast of Libya in October .', None, None, None, 1), ('At least 29 people died in the incident , all in their 20s .', None, None, None, 1), ('One person out of every 88 has been lost at sea', None, None, None, 0), ('trying to reach the shores of Greece , Italy or Spain .', None, None, None, 1), ("That means they 're 90 times more likely to die on the journey", None, None, None, 0), ('than an American is likely to die of gunshot wounds .', None, None, None, 1)]

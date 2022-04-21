@@ -1,0 +1,27 @@
+=====================> [[('There was a terrible bus crash near the town', None, None, None, 0), ('where I grew up .', None, None, None, 1), ('It looks like a black sedan hit the bus', None, None, None, 0), ('and people were hurt .', None, None, None, 1), ('Apparently the injured people were taken to a nearby hospital', None, None, None, 0), ('where I used to work . No word was released on the condition of the individuals', None, None, None, 0), ('but I sure hope', None, None, None, 0), ('it was no one', None, None, None, 0), ('we know', None, None, None, 0), ('or that no one is seriously hurt .', None, None, None, 1), ('Please say a prayer for all involved', None, None, None, 0), ('and be grateful', None, None, None, 0), ('that no lives were lost .', None, None, None, 1)]]
+Leaf:  N Elaborate There was a terrible bus crash near the town
+Leaf:  S span where I grew up .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal It looks like a black sedan hit the bus
+Leaf:  N Temporal and people were hurt .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Apparently the injured people were taken to a nearby hospital
+Leaf:  S span where I used to work . No word was released on the condition of the individuals
+Inner:  S span None Elaborate NS
+Leaf:  S span but I sure hope
+Leaf:  N Elaborate it was no one
+Leaf:  N Joint we know
+Leaf:  N Joint or that no one is seriously hurt .
+Inner:  S span None Joint NN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint Please say a prayer for all involved
+Leaf:  S span and be grateful
+Leaf:  N Attribution that no lives were lost .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('There was a terrible bus crash near the town', None, None, None, 0), ('where I grew up .', None, None, None, 1), ('It looks like a black sedan hit the bus', None, None, None, 0), ('and people were hurt .', None, None, None, 1), ('Apparently the injured people were taken to a nearby hospital', None, None, None, 0), ('where I used to work . No word was released on the condition of the individuals', None, None, None, 0), ('but I sure hope', None, None, None, 0), ('it was no one', None, None, None, 0), ('we know', None, None, None, 0), ('or that no one is seriously hurt .', None, None, None, 1), ('Please say a prayer for all involved', None, None, None, 0), ('and be grateful', None, None, None, 0), ('that no lives were lost .', None, None, None, 1)]

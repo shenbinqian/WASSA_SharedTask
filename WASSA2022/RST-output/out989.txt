@@ -1,0 +1,23 @@
+=====================> [[('This is just part of the troubling times', None, None, None, 0), ('we live in .', None, None, None, 1), ('There is a monster in the white House', None, None, None, 0), ('that a majority of the people did not elect', None, None, None, 0), ('and the Russian government had a hand', None, None, None, 0), ('in coming to power .', None, None, None, 1), ('He is breaking laws everyday', None, None, None, 0), ('and has the most corrupt cabinet in my lifetime . His agenda is simply to cause chaos and to profit off this as much as possible .', None, None, None, 1), ('The sooner this failed experiment is over the better of the nation will be .', None, None, None, 1), ('The only hope is that he doesnt start a nuclear war', None, None, None, 0), ('and that he will eventually be tried and brought to justice for his numerous crimes .', None, None, None, 1)]]
+Leaf:  N Elaborate This is just part of the troubling times
+Leaf:  S span we live in .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate There is a monster in the white House
+Leaf:  S span that a majority of the people did not elect
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the Russian government had a hand
+Leaf:  S span in coming to power .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Joint He is breaking laws everyday
+Leaf:  N Joint and has the most corrupt cabinet in my lifetime . His agenda is simply to cause chaos and to profit off this as much as possible .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate The sooner this failed experiment is over the better of the nation will be .
+Leaf:  N Joint The only hope is that he doesnt start a nuclear war
+Leaf:  N Joint and that he will eventually be tried and brought to justice for his numerous crimes .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This is just part of the troubling times', None, None, None, 0), ('we live in .', None, None, None, 1), ('There is a monster in the white House', None, None, None, 0), ('that a majority of the people did not elect', None, None, None, 0), ('and the Russian government had a hand', None, None, None, 0), ('in coming to power .', None, None, None, 1), ('He is breaking laws everyday', None, None, None, 0), ('and has the most corrupt cabinet in my lifetime . His agenda is simply to cause chaos and to profit off this as much as possible .', None, None, None, 1), ('The sooner this failed experiment is over the better of the nation will be .', None, None, None, 1), ('The only hope is that he doesnt start a nuclear war', None, None, None, 0), ('and that he will eventually be tried and brought to justice for his numerous crimes .', None, None, None, 1)]

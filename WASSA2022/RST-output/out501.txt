@@ -1,0 +1,33 @@
+=====================> [[('Since many of you guys are at the age', None, None, None, 0), ('of having children ,', None, None, None, 0), ('I thought', None, None, None, 0), ('this would be something', None, None, None, 0), ('that is important to share .', None, None, None, 1), ('There is a virus', None, None, None, 0), ('called CMV', None, None, None, 0), ('I just read about', None, None, None, 0), ('that is causing devastating consequences in newborns . These children are being born with brain problems ,', None, None, None, 0), ('hearing problems ,', None, None, None, 0), ('and learning problems', None, None, None, 0), ("because the mothers are n't being told how to prevent it .", None, None, None, 1), ('Make sure', None, None, None, 0), ('that you wash your hands', None, None, None, 0), ('after being around toddlers ,', None, None, None, 0), ("especially if you 're pregnant !", None, None, None, 1)]]
+Leaf:  N Elaborate Since many of you guys are at the age
+Leaf:  S span of having children ,
+Inner:  S span None Elaborate NS
+Leaf:  S span I thought
+Leaf:  N Elaborate this would be something
+Leaf:  S span that is important to share .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate There is a virus
+Leaf:  S span called CMV
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span I just read about
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Joint that is causing devastating consequences in newborns . These children are being born with brain problems ,
+Leaf:  N Joint hearing problems ,
+Leaf:  N Joint and learning problems
+Inner:  N Cause None Joint NN
+Leaf:  S span because the mothers are n't being told how to prevent it .
+Inner:  N Joint None Cause NS
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span Make sure
+Leaf:  N Temporal that you wash your hands
+Leaf:  N Temporal after being around toddlers ,
+Leaf:  S span especially if you 're pregnant !
+Inner:  S span None Temporal NS
+Inner:  N Attribution None Temporal NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Since many of you guys are at the age', None, None, None, 0), ('of having children ,', None, None, None, 0), ('I thought', None, None, None, 0), ('this would be something', None, None, None, 0), ('that is important to share .', None, None, None, 1), ('There is a virus', None, None, None, 0), ('called CMV', None, None, None, 0), ('I just read about', None, None, None, 0), ('that is causing devastating consequences in newborns . These children are being born with brain problems ,', None, None, None, 0), ('hearing problems ,', None, None, None, 0), ('and learning problems', None, None, None, 0), ("because the mothers are n't being told how to prevent it .", None, None, None, 1), ('Make sure', None, None, None, 0), ('that you wash your hands', None, None, None, 0), ('after being around toddlers ,', None, None, None, 0), ("especially if you 're pregnant !", None, None, None, 1)]

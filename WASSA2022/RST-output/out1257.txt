@@ -1,0 +1,41 @@
+=====================> [[("I 'm not sure", None, None, None, 0), ('what can be done', None, None, None, 0), ('but global warming is affecting us in many other areas then the ones', None, None, None, 0), ('we have seen', None, None, None, 0), ('and heard .', None, None, None, 1), ('Did you know our coffee crops are in danger', None, None, None, 0), ('of being wiped out ?', None, None, None, 1), ("That 's right , I just read this article", None, None, None, 0), ('detailing the struggles', None, None, None, 0), ('currently going on with coffee crop farmers .', None, None, None, 1), ('There is an intense struggle at the moment for them to maintain their crops', None, None, None, 0), ('and to keep them going .', None, None, None, 1), ('The warm temperatures have really threw a wrench into their day to day operations', None, None, None, 0), ('and maintaining the coffee crops has become quite a challenge .', None, None, None, 1), ('We are in danger', None, None, None, 0), ('of either paying really high prices on coffee or worse case scenario', None, None, None, 0), ('being without coffee period .', None, None, None, 1), ('This is very distressing for me . Can you imagine not having our cup of coffee daily', None, None, None, 0), ('to get us through the days ?', None, None, None, 1), ('This is truly tragic .', None, None, None, 1)]]
+Leaf:  S span I 'm not sure
+Leaf:  N Attribution what can be done
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but global warming is affecting us in many other areas then the ones
+Leaf:  N Joint we have seen
+Leaf:  N Joint and heard .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Did you know our coffee crops are in danger
+Leaf:  S span of being wiped out ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate That 's right , I just read this article
+Leaf:  N Elaborate detailing the struggles
+Leaf:  S span currently going on with coffee crop farmers .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Joint There is an intense struggle at the moment for them to maintain their crops
+Leaf:  N Joint and to keep them going .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The warm temperatures have really threw a wrench into their day to day operations
+Leaf:  N Cause and maintaining the coffee crops has become quite a challenge .
+Inner:  N Elaborate None Cause SN
+Leaf:  N Elaborate We are in danger
+Leaf:  N Elaborate of either paying really high prices on coffee or worse case scenario
+Leaf:  S span being without coffee period .
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Enablement This is very distressing for me . Can you imagine not having our cup of coffee daily
+Leaf:  S span to get us through the days ?
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span This is truly tragic .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[("I 'm not sure", None, None, None, 0), ('what can be done', None, None, None, 0), ('but global warming is affecting us in many other areas then the ones', None, None, None, 0), ('we have seen', None, None, None, 0), ('and heard .', None, None, None, 1), ('Did you know our coffee crops are in danger', None, None, None, 0), ('of being wiped out ?', None, None, None, 1), ("That 's right , I just read this article", None, None, None, 0), ('detailing the struggles', None, None, None, 0), ('currently going on with coffee crop farmers .', None, None, None, 1), ('There is an intense struggle at the moment for them to maintain their crops', None, None, None, 0), ('and to keep them going .', None, None, None, 1), ('The warm temperatures have really threw a wrench into their day to day operations', None, None, None, 0), ('and maintaining the coffee crops has become quite a challenge .', None, None, None, 1), ('We are in danger', None, None, None, 0), ('of either paying really high prices on coffee or worse case scenario', None, None, None, 0), ('being without coffee period .', None, None, None, 1), ('This is very distressing for me . Can you imagine not having our cup of coffee daily', None, None, None, 0), ('to get us through the days ?', None, None, None, 1), ('This is truly tragic .', None, None, None, 1)]

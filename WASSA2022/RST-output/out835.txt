@@ -1,0 +1,27 @@
+=====================> [[('Those poor people !', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('the government is seriously considering leveling 783 houses !', None, None, None, 1), ('And especially ones', None, None, None, 0), ('that have historical value !', None, None, None, 1), ('There are other ways', None, None, None, 0), ('to increase your air travel options', None, None, None, 0), ('and industry', None, None, None, 0), ("without doing damage to so many people 's lives !", None, None, None, 1), ('I feel awful for those people', None, None, None, 0), ('and ,', None, None, None, 0), ('if I were them ,', None, None, None, 0), ("I 'd fight back too !", None, None, None, 1)]]
+Leaf:  N Evaluation Those poor people !
+Leaf:  S span I ca n't believe
+Leaf:  N Attribution the government is seriously considering leveling 783 houses !
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate And especially ones
+Leaf:  S span that have historical value !
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate There are other ways
+Leaf:  N Joint to increase your air travel options
+Leaf:  N Cause and industry
+Leaf:  S span without doing damage to so many people 's lives !
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Evaluation I feel awful for those people
+Leaf:  N Same-Unit and ,
+Leaf:  S span if I were them ,
+Leaf:  N Condition I 'd fight back too !
+Inner:  N Same-Unit None Condition SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('Those poor people !', None, None, None, 1), ("I ca n't believe", None, None, None, 0), ('the government is seriously considering leveling 783 houses !', None, None, None, 1), ('And especially ones', None, None, None, 0), ('that have historical value !', None, None, None, 1), ('There are other ways', None, None, None, 0), ('to increase your air travel options', None, None, None, 0), ('and industry', None, None, None, 0), ("without doing damage to so many people 's lives !", None, None, None, 1), ('I feel awful for those people', None, None, None, 0), ('and ,', None, None, None, 0), ('if I were them ,', None, None, None, 0), ("I 'd fight back too !", None, None, None, 1)]

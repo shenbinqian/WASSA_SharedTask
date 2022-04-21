@@ -1,0 +1,25 @@
+=====================> [[('These poor people .', None, None, None, 1), ('I hope', None, None, None, 0), ('the researchers can find a way', None, None, None, 0), ('to help them .', None, None, None, 1), ('The thought', None, None, None, 0), ("that you ca n't even use the water", None, None, None, 0), ('that is deep in the ground', None, None, None, 0), ('due to arsenic contamination is horrible .', None, None, None, 1), ('This is a sign of the times , however ,', None, None, None, 0), ('and I believe', None, None, None, 0), ('as populations grow ,', None, None, None, 0), ('water is going to be a big commodity due to the scarcity of clean water .', None, None, None, 1)]]
+Leaf:  N Condition These poor people .
+Leaf:  S span I hope
+Leaf:  N Elaborate the researchers can find a way
+Leaf:  S span to help them .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Condition NS
+Leaf:  N Elaborate The thought
+Leaf:  N Elaborate that you ca n't even use the water
+Leaf:  S span that is deep in the ground
+Inner:  N Cause None Elaborate NS
+Leaf:  S span due to arsenic contamination is horrible .
+Inner:  S span None Cause NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint This is a sign of the times , however ,
+Leaf:  N Same-Unit and I believe
+Leaf:  S span as populations grow ,
+Leaf:  N Condition water is going to be a big commodity due to the scarcity of clean water .
+Inner:  N Same-Unit None Condition SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('These poor people .', None, None, None, 1), ('I hope', None, None, None, 0), ('the researchers can find a way', None, None, None, 0), ('to help them .', None, None, None, 1), ('The thought', None, None, None, 0), ("that you ca n't even use the water", None, None, None, 0), ('that is deep in the ground', None, None, None, 0), ('due to arsenic contamination is horrible .', None, None, None, 1), ('This is a sign of the times , however ,', None, None, None, 0), ('and I believe', None, None, None, 0), ('as populations grow ,', None, None, None, 0), ('water is going to be a big commodity due to the scarcity of clean water .', None, None, None, 1)]

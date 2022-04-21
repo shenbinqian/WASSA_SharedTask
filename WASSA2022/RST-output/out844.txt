@@ -1,0 +1,27 @@
+=====================> [[('Did you see the article about the attack in the mall in MI ?', None, None, None, 1), ('Can you imagine ,', None, None, None, 0), ('just minding your own business ,', None, None, None, 0), ('and then this guy', None, None, None, 0), ('dressed as a security guard', None, None, None, 0), ('starts stabbing people ,', None, None, None, 0), ('yelling something about Allah ???', None, None, None, 1), ('Thank GOD there was an off duty cop there', None, None, None, 0), ('to stop him ,', None, None, None, 0), ('or imagine how long he could have gone on for ? This is getting crazy .', None, None, None, 1), ("We 've got ta do something .", None, None, None, 1), ("I do n't want to be worried about my safety", None, None, None, 0), ('just going to the mall .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Did you see the article about the attack in the mall in MI ?
+Leaf:  N Same-Unit Can you imagine ,
+Leaf:  S span just minding your own business ,
+Leaf:  N Elaborate and then this guy
+Leaf:  S span dressed as a security guard
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit starts stabbing people ,
+Inner:  N Manner-Means None Same-Unit NN
+Leaf:  S span yelling something about Allah ???
+Inner:  N Background None Manner-Means NS
+Inner:  N Same-Unit None Background SN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Enablement Thank GOD there was an off duty cop there
+Leaf:  S span to stop him ,
+Inner:  N Joint None Enablement NS
+Leaf:  N Joint or imagine how long he could have gone on for ? This is getting crazy .
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Elaborate We 've got ta do something .
+Leaf:  N Background I do n't want to be worried about my safety
+Leaf:  S span just going to the mall .
+Inner:  S span None Background NS
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  N Textual-Organization None Topic-Comment NN
+Inner:  Root None None Textual-Organization NN
+[('Did you see the article about the attack in the mall in MI ?', None, None, None, 1), ('Can you imagine ,', None, None, None, 0), ('just minding your own business ,', None, None, None, 0), ('and then this guy', None, None, None, 0), ('dressed as a security guard', None, None, None, 0), ('starts stabbing people ,', None, None, None, 0), ('yelling something about Allah ???', None, None, None, 1), ('Thank GOD there was an off duty cop there', None, None, None, 0), ('to stop him ,', None, None, None, 0), ('or imagine how long he could have gone on for ? This is getting crazy .', None, None, None, 1), ("We 've got ta do something .", None, None, None, 1), ("I do n't want to be worried about my safety", None, None, None, 0), ('just going to the mall .', None, None, None, 1)]

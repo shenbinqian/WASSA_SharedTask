@@ -1,0 +1,23 @@
+=====================> [[('It seems like lost of police officers are dying .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('in which one died in a shootout', None, None, None, 0), ('and the swat team had to come in', None, None, None, 0), ('to help .', None, None, None, 1), ('It sucks for the families and whatnot ,', None, None, None, 0), ('but I have to say', None, None, None, 0), ('it comes with the job .', None, None, None, 1), ('Police know these risk', None, None, None, 0), ('when they sign up', None, None, None, 0), ('so it is a little tough to feel bad .', None, None, None, 1)]]
+Leaf:  N Explanation It seems like lost of police officers are dying .
+Leaf:  N Elaborate I just read an article
+Leaf:  N Cause in which one died in a shootout
+Leaf:  N Enablement and the swat team had to come in
+Leaf:  S span to help .
+Inner:  S span None Enablement NS
+Inner:  S span None Cause NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Evaluation It sucks for the families and whatnot ,
+Leaf:  S span but I have to say
+Leaf:  N Attribution it comes with the job .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Background Police know these risk
+Leaf:  S span when they sign up
+Inner:  N Cause None Background NS
+Leaf:  S span so it is a little tough to feel bad .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('It seems like lost of police officers are dying .', None, None, None, 1), ('I just read an article', None, None, None, 0), ('in which one died in a shootout', None, None, None, 0), ('and the swat team had to come in', None, None, None, 0), ('to help .', None, None, None, 1), ('It sucks for the families and whatnot ,', None, None, None, 0), ('but I have to say', None, None, None, 0), ('it comes with the job .', None, None, None, 1), ('Police know these risk', None, None, None, 0), ('when they sign up', None, None, None, 0), ('so it is a little tough to feel bad .', None, None, None, 1)]

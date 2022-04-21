@@ -1,0 +1,39 @@
+=====================> [[('ISIS is a group of deeply mentally ill serial killers .', None, None, None, 1), ("I simply do n't see them the way", None, None, None, 0), ('I see Al-Aqaeda . Now , Al-Aqaeda is also a group of mentally ill people', None, None, None, 0), ("and they 're also disgusting", None, None, None, 0), ("but they 're damn serious in their mission . ISIS feels like a group of guys", None, None, None, 0), ('who kill just for fun .', None, None, None, 1), ('I agree with Obama on ISIS being a jv team .', None, None, None, 1), ("I ca n't help but feel terrible for those", None, None, None, 0), ('who have to witness the bodies all over Mosul .', None, None, None, 1), ('What a horrible sight that must be . Can people heal', None, None, None, 0), ('once they see that ? Do those people have any hope or any way', None, None, None, 0), ('to continue', None, None, None, 0), ('after they witness such atrocities ?', None, None, None, 1), ('What about the children ?', None, None, None, 1), ('I feel so bad for them .', None, None, None, 1), ("It 's so crazy .", None, None, None, 1), ('I wish', None, None, None, 0), ('they would wipe out the Middle East', None, None, None, 0), ('and just start over . Enough with the political correct bullshit . Enough with the religious bullshit .', None, None, None, 1)]]
+Leaf:  N Summary ISIS is a group of deeply mentally ill serial killers .
+Leaf:  N Elaborate I simply do n't see them the way
+Leaf:  S span I see Al-Aqaeda . Now , Al-Aqaeda is also a group of mentally ill people
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span and they 're also disgusting
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate but they 're damn serious in their mission . ISIS feels like a group of guys
+Leaf:  S span who kill just for fun .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Summary NS
+Leaf:  N Contrast I agree with Obama on ISIS being a jv team .
+Leaf:  N Elaborate I ca n't help but feel terrible for those
+Leaf:  S span who have to witness the bodies all over Mosul .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background What a horrible sight that must be . Can people heal
+Leaf:  N Elaborate once they see that ? Do those people have any hope or any way
+Leaf:  S span to continue
+Inner:  N Background None Elaborate NS
+Leaf:  S span after they witness such atrocities ?
+Inner:  S span None Background NS
+Inner:  S span None Background NS
+Inner:  N Joint None Evaluation NS
+Leaf:  N Joint What about the children ?
+Inner:  N Elaborate None Joint NN
+Leaf:  N Evaluation I feel so bad for them .
+Leaf:  N Evaluation It 's so crazy .
+Leaf:  S span I wish
+Leaf:  N Temporal they would wipe out the Middle East
+Leaf:  N Temporal and just start over . Enough with the political correct bullshit . Enough with the religious bullshit .
+Inner:  N Attribution None Temporal NN
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast NN
+Inner:  Root None None Evaluation NS
+[('ISIS is a group of deeply mentally ill serial killers .', None, None, None, 1), ("I simply do n't see them the way", None, None, None, 0), ('I see Al-Aqaeda . Now , Al-Aqaeda is also a group of mentally ill people', None, None, None, 0), ("and they 're also disgusting", None, None, None, 0), ("but they 're damn serious in their mission . ISIS feels like a group of guys", None, None, None, 0), ('who kill just for fun .', None, None, None, 1), ('I agree with Obama on ISIS being a jv team .', None, None, None, 1), ("I ca n't help but feel terrible for those", None, None, None, 0), ('who have to witness the bodies all over Mosul .', None, None, None, 1), ('What a horrible sight that must be . Can people heal', None, None, None, 0), ('once they see that ? Do those people have any hope or any way', None, None, None, 0), ('to continue', None, None, None, 0), ('after they witness such atrocities ?', None, None, None, 1), ('What about the children ?', None, None, None, 1), ('I feel so bad for them .', None, None, None, 1), ("It 's so crazy .", None, None, None, 1), ('I wish', None, None, None, 0), ('they would wipe out the Middle East', None, None, None, 0), ('and just start over . Enough with the political correct bullshit . Enough with the religious bullshit .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('Hi !', None, None, None, 1), ('What do you think of this ?', None, None, None, 1), ('I know', None, None, None, 0), ('you hate the pipeline as much', None, None, None, 0), ('as I do .', None, None, None, 1), ('Wonder', None, None, None, 0), ('if this would have a chance', None, None, None, 0), ('of working ?', None, None, None, 1), ('We all know', None, None, None, 0), ('money is more important than human life , unfortunately .', None, None, None, 1), ("I 'm skeptical ,", None, None, None, 0), ('but then again , nothing has worked so far ,', None, None, None, 0), ('so why would this ?', None, None, None, 1), ("I do n't know what to think .", None, None, None, 1), ("I do n't have any actions", None, None, None, 0), ('I could take at this point , anyway .', None, None, None, 1)]]
+Leaf:  N Joint Hi !
+Leaf:  N Joint What do you think of this ?
+Inner:  N Elaborate None Joint NN
+Leaf:  S span I know
+Leaf:  N Comparison you hate the pipeline as much
+Leaf:  S span as I do .
+Inner:  N Attribution None Comparison NS
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  S span Wonder
+Leaf:  N Elaborate if this would have a chance
+Leaf:  S span of working ?
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span We all know
+Leaf:  N Attribution money is more important than human life , unfortunately .
+Inner:  S span None Attribution SN
+Leaf:  S span I 'm skeptical ,
+Leaf:  S span but then again , nothing has worked so far ,
+Leaf:  N Explanation so why would this ?
+Inner:  N Evaluation None Explanation SN
+Inner:  N Evaluation None Evaluation SN
+Inner:  S span None Evaluation SN
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Joint I do n't know what to think .
+Leaf:  N Elaborate I do n't have any actions
+Leaf:  S span I could take at this point , anyway .
+Inner:  N Joint None Elaborate NS
+Inner:  N Topic-Comment None Joint NN
+Inner:  S span None Topic-Comment NN
+Inner:  S span None Topic-Comment NS
+Inner:  Root None None Elaborate NS
+[('Hi !', None, None, None, 1), ('What do you think of this ?', None, None, None, 1), ('I know', None, None, None, 0), ('you hate the pipeline as much', None, None, None, 0), ('as I do .', None, None, None, 1), ('Wonder', None, None, None, 0), ('if this would have a chance', None, None, None, 0), ('of working ?', None, None, None, 1), ('We all know', None, None, None, 0), ('money is more important than human life , unfortunately .', None, None, None, 1), ("I 'm skeptical ,", None, None, None, 0), ('but then again , nothing has worked so far ,', None, None, None, 0), ('so why would this ?', None, None, None, 1), ("I do n't know what to think .", None, None, None, 1), ("I do n't have any actions", None, None, None, 0), ('I could take at this point , anyway .', None, None, None, 1)]

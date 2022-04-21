@@ -1,0 +1,27 @@
+=====================> [[('It really is too bad', None, None, None, 0), ('that this had to happen .', None, None, None, 1), ('The internet will never let them forget .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('the zookeepers feel awful', None, None, None, 0), ('about what has transpired . After all , They are probably all great lovers of animals', None, None, None, 0), ('and you and I know', None, None, None, 0), ('that it is never easy to see a poor animal die .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if there were things', None, None, None, 0), ('to be done', None, None, None, 0), ('that could have prevented this', None, None, None, 0), ('or if I am just thinking with insight .', None, None, None, 1)]]
+Leaf:  S span It really is too bad
+Leaf:  N Attribution that this had to happen .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span The internet will never let them forget .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I 'm sure
+Leaf:  N Cause the zookeepers feel awful
+Leaf:  N Joint about what has transpired . After all , They are probably all great lovers of animals
+Leaf:  S span and you and I know
+Leaf:  N Attribution that it is never easy to see a poor animal die .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Cause NS
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  S span I wonder
+Leaf:  N Elaborate if there were things
+Leaf:  N Elaborate to be done
+Leaf:  S span that could have prevented this
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint or if I am just thinking with insight .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Topic-Comment NS
+Inner:  Root None None Evaluation NS
+[('It really is too bad', None, None, None, 0), ('that this had to happen .', None, None, None, 1), ('The internet will never let them forget .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('the zookeepers feel awful', None, None, None, 0), ('about what has transpired . After all , They are probably all great lovers of animals', None, None, None, 0), ('and you and I know', None, None, None, 0), ('that it is never easy to see a poor animal die .', None, None, None, 1), ('I wonder', None, None, None, 0), ('if there were things', None, None, None, 0), ('to be done', None, None, None, 0), ('that could have prevented this', None, None, None, 0), ('or if I am just thinking with insight .', None, None, None, 1)]

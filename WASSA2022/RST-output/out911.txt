@@ -1,0 +1,27 @@
+=====================> [[('Hey friend , Can you believe', None, None, None, 0), ('just how crazy this is getting over in the middle east ?', None, None, None, 1), ('My heart weeps so much for the families and just the innocent bystanders', None, None, None, 0), ('that have to deal with this .', None, None, None, 1), ('Imagine if your home was getting bombed', None, None, None, 0), ('and who knew', None, None, None, 0), ('where you would get your food next .', None, None, None, 1), ("I ca n't imagine the pain", None, None, None, 0), ('that they go through on a daily basis', None, None, None, 0), ('meanwhile I can go get any kind of food', None, None, None, 0), ('I want or drinks or whatever . Not a worry in the world for me , meanwhile these people are being bombed', None, None, None, 0), ('and just all around treated like cattle .', None, None, None, 1), ('We need peace !', None, None, None, 1)]]
+Leaf:  S span Hey friend , Can you believe
+Leaf:  N Attribution just how crazy this is getting over in the middle east ?
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate My heart weeps so much for the families and just the innocent bystanders
+Leaf:  S span that have to deal with this .
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Cause NS
+Leaf:  N Joint Imagine if your home was getting bombed
+Leaf:  S span and who knew
+Leaf:  N Attribution where you would get your food next .
+Inner:  N Joint None Attribution SN
+Inner:  N Joint None Joint NN
+Leaf:  N Elaborate I ca n't imagine the pain
+Leaf:  S span that they go through on a daily basis
+Inner:  N Enablement None Elaborate NS
+Leaf:  N Elaborate meanwhile I can go get any kind of food
+Leaf:  N Joint I want or drinks or whatever . Not a worry in the world for me , meanwhile these people are being bombed
+Leaf:  N Joint and just all around treated like cattle .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span We need peace !
+Inner:  Root None None Evaluation NS
+[('Hey friend , Can you believe', None, None, None, 0), ('just how crazy this is getting over in the middle east ?', None, None, None, 1), ('My heart weeps so much for the families and just the innocent bystanders', None, None, None, 0), ('that have to deal with this .', None, None, None, 1), ('Imagine if your home was getting bombed', None, None, None, 0), ('and who knew', None, None, None, 0), ('where you would get your food next .', None, None, None, 1), ("I ca n't imagine the pain", None, None, None, 0), ('that they go through on a daily basis', None, None, None, 0), ('meanwhile I can go get any kind of food', None, None, None, 0), ('I want or drinks or whatever . Not a worry in the world for me , meanwhile these people are being bombed', None, None, None, 0), ('and just all around treated like cattle .', None, None, None, 1), ('We need peace !', None, None, None, 1)]

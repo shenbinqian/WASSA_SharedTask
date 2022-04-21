@@ -1,0 +1,25 @@
+=====================> [[("you ca n't sleep too much or too little .", None, None, None, 1), ('What else is new .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('there will be a high priced drug', None, None, None, 0), ('that can solve this issue .', None, None, None, 1), ("The scientists and government of America could n't care less about the average citizen .", None, None, None, 1), ('Look at the food supply ,', None, None, None, 0), ('look at all of the drugs', None, None, None, 0), ('they want us', None, None, None, 0), ('to take .', None, None, None, 1), ("it 's all about money", None, None, None, 0), ('and has nothing to do with concern for our well-being .', None, None, None, 1)]]
+Leaf:  N Summary you ca n't sleep too much or too little .
+Leaf:  S span What else is new .
+Leaf:  S span I 'm sure
+Leaf:  N Elaborate there will be a high priced drug
+Leaf:  S span that can solve this issue .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Evaluation None Attribution SN
+Inner:  N Evaluation None Evaluation SN
+Leaf:  N Explanation The scientists and government of America could n't care less about the average citizen .
+Leaf:  N Joint Look at the food supply ,
+Leaf:  N Elaborate look at all of the drugs
+Leaf:  S span they want us
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span to take .
+Inner:  N Joint None Elaborate NS
+Inner:  N Evaluation None Joint NN
+Leaf:  N Joint it 's all about money
+Leaf:  N Joint and has nothing to do with concern for our well-being .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("you ca n't sleep too much or too little .", None, None, None, 1), ('What else is new .', None, None, None, 1), ("I 'm sure", None, None, None, 0), ('there will be a high priced drug', None, None, None, 0), ('that can solve this issue .', None, None, None, 1), ("The scientists and government of America could n't care less about the average citizen .", None, None, None, 1), ('Look at the food supply ,', None, None, None, 0), ('look at all of the drugs', None, None, None, 0), ('they want us', None, None, None, 0), ('to take .', None, None, None, 1), ("it 's all about money", None, None, None, 0), ('and has nothing to do with concern for our well-being .', None, None, None, 1)]

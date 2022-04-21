@@ -1,0 +1,23 @@
+=====================> [[('Gosh , the emotions', None, None, None, 0), ('I felt', None, None, None, 0), ('while reading that .', None, None, None, 1), ('Being a nurse , I would be so scared of such a mass emergency', None, None, None, 0), ('and worrying', None, None, None, 0), ('about it people would make it or not .', None, None, None, 1), ('It disgusts me', None, None, None, 0), ('that innocent people would be used as human shields .', None, None, None, 1), ('How could someone do that to someone else ?', None, None, None, 1), ('And they purposely brought them into the center of the city with the intention', None, None, None, 0), ('of using them as human shields .', None, None, None, 1)]]
+Leaf:  N Elaborate Gosh , the emotions
+Leaf:  S span I felt
+Inner:  N Background None Elaborate NS
+Leaf:  S span while reading that .
+Inner:  N Elaborate None Background NS
+Leaf:  N Same-Unit Being a nurse , I would be so scared of such a mass emergency
+Leaf:  N Elaborate and worrying
+Leaf:  S span about it people would make it or not .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span It disgusts me
+Leaf:  N Attribution that innocent people would be used as human shields .
+Inner:  N Explanation None Attribution SN
+Leaf:  S span How could someone do that to someone else ?
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Elaborate And they purposely brought them into the center of the city with the intention
+Leaf:  S span of using them as human shields .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Gosh , the emotions', None, None, None, 0), ('I felt', None, None, None, 0), ('while reading that .', None, None, None, 1), ('Being a nurse , I would be so scared of such a mass emergency', None, None, None, 0), ('and worrying', None, None, None, 0), ('about it people would make it or not .', None, None, None, 1), ('It disgusts me', None, None, None, 0), ('that innocent people would be used as human shields .', None, None, None, 1), ('How could someone do that to someone else ?', None, None, None, 1), ('And they purposely brought them into the center of the city with the intention', None, None, None, 0), ('of using them as human shields .', None, None, None, 1)]

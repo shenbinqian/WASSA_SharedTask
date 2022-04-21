@@ -1,0 +1,19 @@
+=====================> [[('I have always thought', None, None, None, 0), ('that politics were a scam', None, None, None, 0), ('and this is another example of politics gone wrong .', None, None, None, 1), ('Every country runs into problems', None, None, None, 0), ('sometimes and in this case they would like her to step down from her position .', None, None, None, 1), ('Do you think', None, None, None, 0), ('she really has a say', None, None, None, 0), ('though or will they just force her to step down', None, None, None, 0), ('if she does not volunteer .', None, None, None, 1)]]
+Leaf:  S span I have always thought
+Leaf:  N Attribution that politics were a scam
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span and this is another example of politics gone wrong .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal Every country runs into problems
+Leaf:  N Temporal sometimes and in this case they would like her to step down from her position .
+Inner:  N Elaborate None Temporal NN
+Leaf:  S span Do you think
+Leaf:  N Contrast she really has a say
+Leaf:  N Condition though or will they just force her to step down
+Leaf:  S span if she does not volunteer .
+Inner:  N Contrast None Condition NS
+Inner:  N Attribution None Contrast NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I have always thought', None, None, None, 0), ('that politics were a scam', None, None, None, 0), ('and this is another example of politics gone wrong .', None, None, None, 1), ('Every country runs into problems', None, None, None, 0), ('sometimes and in this case they would like her to step down from her position .', None, None, None, 1), ('Do you think', None, None, None, 0), ('she really has a say', None, None, None, 0), ('though or will they just force her to step down', None, None, None, 0), ('if she does not volunteer .', None, None, None, 1)]

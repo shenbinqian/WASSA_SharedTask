@@ -1,0 +1,19 @@
+=====================> [[('The person was robbed the money at gun point', None, None, None, 0), ('and escaped from that place .', None, None, None, 1), ('The victim calls the 911', None, None, None, 0), ('and the police investigation the victim', None, None, None, 0), ('and gathered some information about the criminal .', None, None, None, 1), ('Then they are start to search', None, None, None, 0), ('the criminal.The victim calls the 911', None, None, None, 0), ('and the police investigation the victim', None, None, None, 0), ('and gathered some information about the robbery .', None, None, None, 1)]]
+Leaf:  N Joint The person was robbed the money at gun point
+Leaf:  N Joint and escaped from that place .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint The victim calls the 911
+Leaf:  N Joint and the police investigation the victim
+Leaf:  N Joint and gathered some information about the criminal .
+Inner:  N Joint None Joint NN
+Inner:  N Temporal None Joint NN
+Leaf:  S span Then they are start to search
+Leaf:  N Attribution the criminal.The victim calls the 911
+Inner:  N Joint None Attribution SN
+Leaf:  N Joint and the police investigation the victim
+Leaf:  N Joint and gathered some information about the robbery .
+Inner:  N Joint None Joint NN
+Inner:  N Temporal None Joint NN
+Inner:  S span None Temporal NN
+Inner:  Root None None Elaborate NS
+[('The person was robbed the money at gun point', None, None, None, 0), ('and escaped from that place .', None, None, None, 1), ('The victim calls the 911', None, None, None, 0), ('and the police investigation the victim', None, None, None, 0), ('and gathered some information about the criminal .', None, None, None, 1), ('Then they are start to search', None, None, None, 0), ('the criminal.The victim calls the 911', None, None, None, 0), ('and the police investigation the victim', None, None, None, 0), ('and gathered some information about the robbery .', None, None, None, 1)]

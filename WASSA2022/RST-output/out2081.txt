@@ -1,0 +1,29 @@
+=====================> [[('I find', None, None, None, 0), ('it crazy', None, None, None, 0), ('that there are still situations these days', None, None, None, 0), ('in which people can not receive donations and help during and emergency .', None, None, None, 1), ('We are supposed to be a civilized race', None, None, None, 0), ('and yet even during tragedies such as this hurricane the greed of man shines through .', None, None, None, 1), ('I hesitate to donate to a lot of organizations', None, None, None, 0), ('because I feel', None, None, None, 0), ('that a lot of it may be siphoned off', None, None, None, 0), ('or stolen', None, None, None, 0), ('and only a portion of my help reaches the destination .', None, None, None, 1), ('I wish', None, None, None, 0), ('there was a direct way', None, None, None, 0), ('to help .', None, None, None, 1)]]
+Leaf:  S span I find
+Leaf:  N Attribution it crazy
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate that there are still situations these days
+Leaf:  S span in which people can not receive donations and help during and emergency .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Explanation None Attribution SN
+Leaf:  S span We are supposed to be a civilized race
+Leaf:  N Contrast and yet even during tragedies such as this hurricane the greed of man shines through .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Explanation I hesitate to donate to a lot of organizations
+Leaf:  S span because I feel
+Leaf:  N Joint that a lot of it may be siphoned off
+Leaf:  N Joint or stolen
+Inner:  N Joint None Joint NN
+Leaf:  N Joint and only a portion of my help reaches the destination .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I wish
+Leaf:  N Elaborate there was a direct way
+Leaf:  S span to help .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I find', None, None, None, 0), ('it crazy', None, None, None, 0), ('that there are still situations these days', None, None, None, 0), ('in which people can not receive donations and help during and emergency .', None, None, None, 1), ('We are supposed to be a civilized race', None, None, None, 0), ('and yet even during tragedies such as this hurricane the greed of man shines through .', None, None, None, 1), ('I hesitate to donate to a lot of organizations', None, None, None, 0), ('because I feel', None, None, None, 0), ('that a lot of it may be siphoned off', None, None, None, 0), ('or stolen', None, None, None, 0), ('and only a portion of my help reaches the destination .', None, None, None, 1), ('I wish', None, None, None, 0), ('there was a direct way', None, None, None, 0), ('to help .', None, None, None, 1)]

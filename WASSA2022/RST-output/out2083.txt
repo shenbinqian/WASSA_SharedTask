@@ -1,0 +1,15 @@
+=====================> [[('There is so much pain and poverty in the world at large', None, None, None, 0), ('that sometimes the situations in our own country , the United States of America , get lost in the shuffle .', None, None, None, 1), ('I find it unacceptable that there are communities in the USA', None, None, None, 0), ('that do not have clean drinking water or other basic necessities .', None, None, None, 1), ('The situation in Jordan Downs and other places around the US show', None, None, None, 0), ('that we need to do more for our own citizens', None, None, None, 0), ('rather than look to help the rest of the world .', None, None, None, 1)]]
+Leaf:  N Cause There is so much pain and poverty in the world at large
+Leaf:  S span that sometimes the situations in our own country , the United States of America , get lost in the shuffle .
+Inner:  N Evaluation None Cause NS
+Leaf:  N Elaborate I find it unacceptable that there are communities in the USA
+Leaf:  S span that do not have clean drinking water or other basic necessities .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span The situation in Jordan Downs and other places around the US show
+Leaf:  N Comparison that we need to do more for our own citizens
+Leaf:  N Comparison rather than look to help the rest of the world .
+Inner:  N Attribution None Comparison NN
+Inner:  S span None Attribution SN
+Inner:  Root None None Elaborate NS
+[('There is so much pain and poverty in the world at large', None, None, None, 0), ('that sometimes the situations in our own country , the United States of America , get lost in the shuffle .', None, None, None, 1), ('I find it unacceptable that there are communities in the USA', None, None, None, 0), ('that do not have clean drinking water or other basic necessities .', None, None, None, 1), ('The situation in Jordan Downs and other places around the US show', None, None, None, 0), ('that we need to do more for our own citizens', None, None, None, 0), ('rather than look to help the rest of the world .', None, None, None, 1)]

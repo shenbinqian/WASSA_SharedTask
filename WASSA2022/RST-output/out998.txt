@@ -1,0 +1,27 @@
+=====================> [[('How can anyone , in this day and age , still believe', None, None, None, 0), ('that climate change is not real ?', None, None, None, 1), ("I imagine it 's the same people", None, None, None, 0), ('who believe', None, None, None, 0), ('the earth is flat .', None, None, None, 1), ('We should be working towards clean and renewable energy', None, None, None, 0), ('but of course there are fights all across the way', None, None, None, 0), ('because people want to make money .', None, None, None, 1), ('Also replacing infrastructure is hard .', None, None, None, 1), ("But , that 's not an excuse", None, None, None, 0), ('when you know', None, None, None, 0), ('that entire parts of the country might expand into a desert .', None, None, None, 1), ('This is especially true of North America .', None, None, None, 1)]]
+Leaf:  S span How can anyone , in this day and age , still believe
+Leaf:  N Attribution that climate change is not real ?
+Inner:  N Summary None Attribution SN
+Leaf:  N Elaborate I imagine it 's the same people
+Leaf:  S span who believe
+Leaf:  N Attribution the earth is flat .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span We should be working towards clean and renewable energy
+Leaf:  N Explanation but of course there are fights all across the way
+Leaf:  S span because people want to make money .
+Inner:  N Contrast None Explanation NS
+Inner:  N Joint None Contrast SN
+Leaf:  N Joint Also replacing infrastructure is hard .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Elaborate NS
+Leaf:  N Background But , that 's not an excuse
+Leaf:  S span when you know
+Leaf:  N Attribution that entire parts of the country might expand into a desert .
+Inner:  S span None Attribution SN
+Inner:  S span None Background NS
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Summary NS
+Leaf:  S span This is especially true of North America .
+Inner:  Root None None Elaborate NS
+[('How can anyone , in this day and age , still believe', None, None, None, 0), ('that climate change is not real ?', None, None, None, 1), ("I imagine it 's the same people", None, None, None, 0), ('who believe', None, None, None, 0), ('the earth is flat .', None, None, None, 1), ('We should be working towards clean and renewable energy', None, None, None, 0), ('but of course there are fights all across the way', None, None, None, 0), ('because people want to make money .', None, None, None, 1), ('Also replacing infrastructure is hard .', None, None, None, 1), ("But , that 's not an excuse", None, None, None, 0), ('when you know', None, None, None, 0), ('that entire parts of the country might expand into a desert .', None, None, None, 1), ('This is especially true of North America .', None, None, None, 1)]

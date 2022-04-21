@@ -1,0 +1,23 @@
+=====================> [[('I had no idea', None, None, None, 0), ('that this was going on in Burma .', None, None, None, 1), ('I did know', None, None, None, 0), ('that there was finally a democratically-elected government let by a woman', None, None, None, 0), ('who had been under house arrest for most of her life', None, None, None, 0), ('( and she won the Noble Peace Prize ) .', None, None, None, 1), ('I guess I assumed', None, None, None, 0), ('that any issues would have been addressed by that government .', None, None, None, 1), ('I had no clue', None, None, None, 0), ('that there was unrest and tension in regards to the Muslim population .', None, None, None, 1), ('What is going on in this world ?', None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Attribution that this was going on in Burma .
+Inner:  N Contrast None Attribution SN
+Leaf:  S span I did know
+Leaf:  N Elaborate that there was finally a democratically-elected government let by a woman
+Leaf:  S span who had been under house arrest for most of her life
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span ( and she won the Noble Peace Prize ) .
+Inner:  N Attribution None Evaluation NS
+Inner:  S span None Attribution SN
+Inner:  N Evaluation None Contrast NS
+Leaf:  S span I guess I assumed
+Leaf:  N Attribution that any issues would have been addressed by that government .
+Inner:  N Joint None Attribution SN
+Leaf:  S span I had no clue
+Leaf:  N Attribution that there was unrest and tension in regards to the Muslim population .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span What is going on in this world ?
+Inner:  Root None None Evaluation NS
+[('I had no idea', None, None, None, 0), ('that this was going on in Burma .', None, None, None, 1), ('I did know', None, None, None, 0), ('that there was finally a democratically-elected government let by a woman', None, None, None, 0), ('who had been under house arrest for most of her life', None, None, None, 0), ('( and she won the Noble Peace Prize ) .', None, None, None, 1), ('I guess I assumed', None, None, None, 0), ('that any issues would have been addressed by that government .', None, None, None, 1), ('I had no clue', None, None, None, 0), ('that there was unrest and tension in regards to the Muslim population .', None, None, None, 1), ('What is going on in this world ?', None, None, None, 1)]

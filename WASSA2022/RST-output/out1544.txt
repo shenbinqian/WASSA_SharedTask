@@ -1,0 +1,33 @@
+=====================> [[('You know', None, None, None, 0), ('I love animals , of all kinds ,', None, None, None, 0), ('so let me tell you about .', None, None, None, 1), ('This poor creature was found half dead ,', None, None, None, 0), ('mangled beyond belief', None, None, None, 0), ('because of poachers .', None, None, None, 1), ("Hope 's story really brings to light the horrible and illegal trade of rhino poaching .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('if you know ,', None, None, None, 0), ('but some people value rhino horns more than the beautiful creatures', None, None, None, 0), ('they come from .', None, None, None, 1), ("I do n't believe", None, None, None, 0), ('the initial attack on Hope was responsible for her death ,', None, None, None, 0), ('but it brought this beautiful creature into the spotlight ,', None, None, None, 0), ("and I 'm very glad for hearing of her story", None, None, None, 0), ('and saddened by her passing .', None, None, None, 1)]]
+Leaf:  S span You know
+Leaf:  N Attribution I love animals , of all kinds ,
+Inner:  S span None Attribution SN
+Leaf:  N Explanation so let me tell you about .
+Inner:  N Elaborate None Explanation SN
+Leaf:  N Elaborate This poor creature was found half dead ,
+Leaf:  N Cause mangled beyond belief
+Leaf:  S span because of poachers .
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Hope 's story really brings to light the horrible and illegal trade of rhino poaching .
+Leaf:  S span I do n't know
+Leaf:  N Attribution if you know ,
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but some people value rhino horns more than the beautiful creatures
+Leaf:  S span they come from .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span I do n't believe
+Leaf:  N Attribution the initial attack on Hope was responsible for her death ,
+Inner:  S span None Attribution SN
+Leaf:  N Contrast but it brought this beautiful creature into the spotlight ,
+Inner:  N Evaluation None Contrast SN
+Leaf:  N Joint and I 'm very glad for hearing of her story
+Leaf:  N Joint and saddened by her passing .
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('You know', None, None, None, 0), ('I love animals , of all kinds ,', None, None, None, 0), ('so let me tell you about .', None, None, None, 1), ('This poor creature was found half dead ,', None, None, None, 0), ('mangled beyond belief', None, None, None, 0), ('because of poachers .', None, None, None, 1), ("Hope 's story really brings to light the horrible and illegal trade of rhino poaching .", None, None, None, 1), ("I do n't know", None, None, None, 0), ('if you know ,', None, None, None, 0), ('but some people value rhino horns more than the beautiful creatures', None, None, None, 0), ('they come from .', None, None, None, 1), ("I do n't believe", None, None, None, 0), ('the initial attack on Hope was responsible for her death ,', None, None, None, 0), ('but it brought this beautiful creature into the spotlight ,', None, None, None, 0), ("and I 'm very glad for hearing of her story", None, None, None, 0), ('and saddened by her passing .', None, None, None, 1)]

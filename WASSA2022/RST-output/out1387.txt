@@ -1,0 +1,15 @@
+=====================> [[('This article is very tiring .', None, None, None, 1), ('I am tired of hearing about the corruption of politicians .', None, None, None, 1), ('There does not seem to be a single good moral politician .', None, None, None, 1), ('It would be impossible to win and position of public office without corruption . This is just another example of more corruption .', None, None, None, 1), ('Why do the biggest low lifes decide to be poloticians ?', None, None, None, 1), ('Maybe because they are the type of people', None, None, None, 0), ('that like to lie and cheat there way to money and power .', None, None, None, 1)]]
+Leaf:  N Explanation This article is very tiring .
+Leaf:  N Explanation I am tired of hearing about the corruption of politicians .
+Leaf:  N Evaluation There does not seem to be a single good moral politician .
+Leaf:  S span It would be impossible to win and position of public office without corruption . This is just another example of more corruption .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  N Explanation None Explanation NS
+Leaf:  N Explanation Why do the biggest low lifes decide to be poloticians ?
+Leaf:  N Elaborate Maybe because they are the type of people
+Leaf:  S span that like to lie and cheat there way to money and power .
+Inner:  S span None Elaborate NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Explanation NS
+[('This article is very tiring .', None, None, None, 1), ('I am tired of hearing about the corruption of politicians .', None, None, None, 1), ('There does not seem to be a single good moral politician .', None, None, None, 1), ('It would be impossible to win and position of public office without corruption . This is just another example of more corruption .', None, None, None, 1), ('Why do the biggest low lifes decide to be poloticians ?', None, None, None, 1), ('Maybe because they are the type of people', None, None, None, 0), ('that like to lie and cheat there way to money and power .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('This is just one of the negative consequences of long term war in a region .', None, None, None, 1), ('The hospitals in Yemen have been devastated by war', None, None, None, 0), ('and no diseases are starting to spread among the population', None, None, None, 0), ('with no way', None, None, None, 0), ('to control them', None, None, None, 0), ('without outside help .', None, None, None, 1), ('I hope', None, None, None, 0), ('the people of Yemen will be able to find humanitarian aid soon', None, None, None, 0), ('to help them control the spread of disease .', None, None, None, 1)]]
+Leaf:  N Elaborate This is just one of the negative consequences of long term war in a region .
+Leaf:  N Joint The hospitals in Yemen have been devastated by war
+Leaf:  N Manner-Means and no diseases are starting to spread among the population
+Leaf:  N Elaborate with no way
+Leaf:  S span to control them
+Inner:  N Manner-Means None Elaborate NS
+Leaf:  S span without outside help .
+Inner:  S span None Manner-Means NS
+Inner:  N Joint None Manner-Means NS
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I hope
+Leaf:  N Enablement the people of Yemen will be able to find humanitarian aid soon
+Leaf:  S span to help them control the spread of disease .
+Inner:  N Attribution None Enablement NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('This is just one of the negative consequences of long term war in a region .', None, None, None, 1), ('The hospitals in Yemen have been devastated by war', None, None, None, 0), ('and no diseases are starting to spread among the population', None, None, None, 0), ('with no way', None, None, None, 0), ('to control them', None, None, None, 0), ('without outside help .', None, None, None, 1), ('I hope', None, None, None, 0), ('the people of Yemen will be able to find humanitarian aid soon', None, None, None, 0), ('to help them control the spread of disease .', None, None, None, 1)]

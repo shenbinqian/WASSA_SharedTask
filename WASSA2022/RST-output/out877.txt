@@ -1,0 +1,21 @@
+=====================> [[('This article is so sad', None, None, None, 0), ('the hatred and anger', None, None, None, 0), ('we have towards one another in America', None, None, None, 0), ('needs to stop .', None, None, None, 1), ('Our children and grandchildren are going to grow up in a horrid place', None, None, None, 0), ('simply because we have people in our country', None, None, None, 0), ('who refuse to let go of the past .', None, None, None, 1), ('The past is in the past', None, None, None, 0), ('so let it stay in the past', None, None, None, 0), ('for crying out loud .', None, None, None, 1)]]
+Leaf:  N Elaborate This article is so sad
+Leaf:  N Elaborate the hatred and anger
+Leaf:  S span we have towards one another in America
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit needs to stop .
+Inner:  S span None Same-Unit NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Cause Our children and grandchildren are going to grow up in a horrid place
+Leaf:  N Elaborate simply because we have people in our country
+Leaf:  S span who refuse to let go of the past .
+Inner:  S span None Elaborate NS
+Inner:  N Summary None Cause NS
+Leaf:  S span The past is in the past
+Leaf:  N Explanation so let it stay in the past
+Inner:  N Attribution None Explanation SN
+Leaf:  S span for crying out loud .
+Inner:  S span None Attribution NS
+Inner:  S span None Summary NS
+Inner:  Root None None Explanation NS
+[('This article is so sad', None, None, None, 0), ('the hatred and anger', None, None, None, 0), ('we have towards one another in America', None, None, None, 0), ('needs to stop .', None, None, None, 1), ('Our children and grandchildren are going to grow up in a horrid place', None, None, None, 0), ('simply because we have people in our country', None, None, None, 0), ('who refuse to let go of the past .', None, None, None, 1), ('The past is in the past', None, None, None, 0), ('so let it stay in the past', None, None, None, 0), ('for crying out loud .', None, None, None, 1)]

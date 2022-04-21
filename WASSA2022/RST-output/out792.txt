@@ -1,0 +1,29 @@
+=====================> [[('Hey B , remember that conversation', None, None, None, 0), ('we had the other day ,', None, None, None, 0), ('well I found an article', None, None, None, 0), ('that talks about it .', None, None, None, 1), ("It basically says that humans have destroyed 10 percent of Earth 's wilderness in the last 25 years .", None, None, None, 1), ('The article said', None, None, None, 0), ('that the total land area is about half the size of the Amazon and twice the size of the whole state of Alaska .', None, None, None, 1), ('That is about 1.3 million square miles of wilderness , that just disappeared .', None, None, None, 1), ('The article also revealed', None, None, None, 0), ('that humanity has one to two decades more', None, None, None, 0), ('to turn it around', None, None, None, 0), ('before it is too late .', None, None, None, 1), ('I hope something is done soon', None, None, None, 0), ("and I 'll send you a link to the article .", None, None, None, 1)]]
+Leaf:  N Elaborate Hey B , remember that conversation
+Leaf:  S span we had the other day ,
+Inner:  S span None Elaborate NS
+Leaf:  N Elaborate well I found an article
+Leaf:  S span that talks about it .
+Inner:  N Evaluation None Elaborate NS
+Inner:  N Elaborate None Evaluation SN
+Leaf:  N Elaborate It basically says that humans have destroyed 10 percent of Earth 's wilderness in the last 25 years .
+Leaf:  S span The article said
+Leaf:  N Attribution that the total land area is about half the size of the Amazon and twice the size of the whole state of Alaska .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span That is about 1.3 million square miles of wilderness , that just disappeared .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The article also revealed
+Leaf:  N Elaborate that humanity has one to two decades more
+Leaf:  S span to turn it around
+Inner:  S span None Elaborate NS
+Leaf:  N Condition before it is too late .
+Inner:  N Attribution None Condition SN
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint I hope something is done soon
+Leaf:  N Joint and I 'll send you a link to the article .
+Inner:  S span None Joint NN
+Inner:  Root None None Elaborate NS
+[('Hey B , remember that conversation', None, None, None, 0), ('we had the other day ,', None, None, None, 0), ('well I found an article', None, None, None, 0), ('that talks about it .', None, None, None, 1), ("It basically says that humans have destroyed 10 percent of Earth 's wilderness in the last 25 years .", None, None, None, 1), ('The article said', None, None, None, 0), ('that the total land area is about half the size of the Amazon and twice the size of the whole state of Alaska .', None, None, None, 1), ('That is about 1.3 million square miles of wilderness , that just disappeared .', None, None, None, 1), ('The article also revealed', None, None, None, 0), ('that humanity has one to two decades more', None, None, None, 0), ('to turn it around', None, None, None, 0), ('before it is too late .', None, None, None, 1), ('I hope something is done soon', None, None, None, 0), ("and I 'll send you a link to the article .", None, None, None, 1)]

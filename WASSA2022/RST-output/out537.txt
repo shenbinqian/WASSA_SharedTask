@@ -1,0 +1,37 @@
+=====================> [[('The elections nowadays are just so unrelenting .', None, None, None, 1), ('You have to spend a lot of money on campaigns', None, None, None, 0), ('and trying to put down the other person .', None, None, None, 1), ("It 's a wonder that man does n't spend all his money", None, None, None, 0), ('that he has earned .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('he even got a chance', None, None, None, 0), ('to tell anyone', None, None, None, 0), ('what kind of person he is .', None, None, None, 1), ('He gets torn down', None, None, None, 0), ('before he has a chance', None, None, None, 0), ('to do anything .', None, None, None, 1), ("I 'm just so mad at the whole election system", None, None, None, 0), ('and the way things are done .', None, None, None, 1), ('Everything about your past and present gets brought up', None, None, None, 0), ('and nothing', None, None, None, 0), ('you do', None, None, None, 0), ('can go unnoticed .', None, None, None, 1)]]
+Leaf:  N Explanation The elections nowadays are just so unrelenting .
+Leaf:  N Joint You have to spend a lot of money on campaigns
+Leaf:  N Joint and trying to put down the other person .
+Inner:  N Evaluation None Joint NN
+Leaf:  N Elaborate It 's a wonder that man does n't spend all his money
+Leaf:  S span that he has earned .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Evaluation NS
+Leaf:  S span I do n't think
+Leaf:  N Elaborate he even got a chance
+Leaf:  S span to tell anyone
+Leaf:  N Attribution what kind of person he is .
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Explanation NS
+Leaf:  N Temporal He gets torn down
+Leaf:  N Elaborate before he has a chance
+Leaf:  S span to do anything .
+Inner:  S span None Elaborate NS
+Inner:  S span None Temporal NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint I 'm just so mad at the whole election system
+Leaf:  N Joint and the way things are done .
+Inner:  N Explanation None Joint NN
+Leaf:  N Joint Everything about your past and present gets brought up
+Leaf:  N Elaborate and nothing
+Leaf:  S span you do
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit can go unnoticed .
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('The elections nowadays are just so unrelenting .', None, None, None, 1), ('You have to spend a lot of money on campaigns', None, None, None, 0), ('and trying to put down the other person .', None, None, None, 1), ("It 's a wonder that man does n't spend all his money", None, None, None, 0), ('that he has earned .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('he even got a chance', None, None, None, 0), ('to tell anyone', None, None, None, 0), ('what kind of person he is .', None, None, None, 1), ('He gets torn down', None, None, None, 0), ('before he has a chance', None, None, None, 0), ('to do anything .', None, None, None, 1), ("I 'm just so mad at the whole election system", None, None, None, 0), ('and the way things are done .', None, None, None, 1), ('Everything about your past and present gets brought up', None, None, None, 0), ('and nothing', None, None, None, 0), ('you do', None, None, None, 0), ('can go unnoticed .', None, None, None, 1)]

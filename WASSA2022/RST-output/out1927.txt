@@ -1,0 +1,25 @@
+=====================> [[('The number of people', None, None, None, 0), ('still losing lives to cholera', None, None, None, 0), ('is quite sad .', None, None, None, 1), ('Vaccines can go a long way', None, None, None, 0), ('in combating this', None, None, None, 0), ('and I feel', None, None, None, 0), ('it should be given more attention .', None, None, None, 1), ('Also ,', None, None, None, 0), ('if communities can begin reporting evidence of the disease sooner to medical providers ,', None, None, None, 0), ('public health officials would have a head start', None, None, None, 0), ('in rushing resources', None, None, None, 0), ('to address emerging epidemics .', None, None, None, 1)]]
+Leaf:  N Elaborate The number of people
+Leaf:  S span still losing lives to cholera
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is quite sad .
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate Vaccines can go a long way
+Leaf:  S span in combating this
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and I feel
+Leaf:  N Attribution it should be given more attention .
+Inner:  S span None Attribution SN
+Inner:  N Joint None Evaluation NS
+Leaf:  N Same-Unit Also ,
+Leaf:  S span if communities can begin reporting evidence of the disease sooner to medical providers ,
+Leaf:  N Background public health officials would have a head start
+Leaf:  N Enablement in rushing resources
+Leaf:  S span to address emerging epidemics .
+Inner:  S span None Enablement NS
+Inner:  N Condition None Background NS
+Inner:  N Same-Unit None Condition SN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('The number of people', None, None, None, 0), ('still losing lives to cholera', None, None, None, 0), ('is quite sad .', None, None, None, 1), ('Vaccines can go a long way', None, None, None, 0), ('in combating this', None, None, None, 0), ('and I feel', None, None, None, 0), ('it should be given more attention .', None, None, None, 1), ('Also ,', None, None, None, 0), ('if communities can begin reporting evidence of the disease sooner to medical providers ,', None, None, None, 0), ('public health officials would have a head start', None, None, None, 0), ('in rushing resources', None, None, None, 0), ('to address emerging epidemics .', None, None, None, 1)]

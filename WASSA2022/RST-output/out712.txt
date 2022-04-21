@@ -1,0 +1,31 @@
+=====================> [[('Wow , I just read an article', None, None, None, 0), ('describing the problems', None, None, None, 0), ('Venezuela is having with its new leader .', None, None, None, 1), ('About 80 % of the people are dissatisfied with his leadership', None, None, None, 0), ('and want him out .', None, None, None, 1), ("But there is n't a smooth process put into place for that .", None, None, None, 1), ('Even the Vatican is trying to assist , but to no avail so far .', None, None, None, 1), ("I ca n't help but think of all the problems", None, None, None, 0), ('the US has lately ,', None, None, None, 0), ('but we do have a constitution and a system for change .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('how Venezuela will fix things peacefully ,', None, None, None, 0), ('and how its citizens will fare through all this .', None, None, None, 1), ('The article made comparisons with Cuba , and previous leadership ,', None, None, None, 0), ('but I did not fine a clear solution .', None, None, None, 1)]]
+Leaf:  N Elaborate Wow , I just read an article
+Leaf:  N Elaborate describing the problems
+Leaf:  S span Venezuela is having with its new leader .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Joint About 80 % of the people are dissatisfied with his leadership
+Leaf:  N Joint and want him out .
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast But there is n't a smooth process put into place for that .
+Leaf:  N Contrast Even the Vatican is trying to assist , but to no avail so far .
+Inner:  N Contrast None Contrast NN
+Inner:  N Topic-Change None Contrast SN
+Leaf:  N Elaborate I ca n't help but think of all the problems
+Leaf:  S span the US has lately ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but we do have a constitution and a system for change .
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span I am not sure
+Leaf:  N Joint how Venezuela will fix things peacefully ,
+Leaf:  N Joint and how its citizens will fare through all this .
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  N Topic-Change None Evaluation NS
+Inner:  N Elaborate None Topic-Change NN
+Leaf:  N Contrast The article made comparisons with Cuba , and previous leadership ,
+Leaf:  N Contrast but I did not fine a clear solution .
+Inner:  S span None Contrast NN
+Inner:  Root None None Elaborate NS
+[('Wow , I just read an article', None, None, None, 0), ('describing the problems', None, None, None, 0), ('Venezuela is having with its new leader .', None, None, None, 1), ('About 80 % of the people are dissatisfied with his leadership', None, None, None, 0), ('and want him out .', None, None, None, 1), ("But there is n't a smooth process put into place for that .", None, None, None, 1), ('Even the Vatican is trying to assist , but to no avail so far .', None, None, None, 1), ("I ca n't help but think of all the problems", None, None, None, 0), ('the US has lately ,', None, None, None, 0), ('but we do have a constitution and a system for change .', None, None, None, 1), ('I am not sure', None, None, None, 0), ('how Venezuela will fix things peacefully ,', None, None, None, 0), ('and how its citizens will fare through all this .', None, None, None, 1), ('The article made comparisons with Cuba , and previous leadership ,', None, None, None, 0), ('but I did not fine a clear solution .', None, None, None, 1)]

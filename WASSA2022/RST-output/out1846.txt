@@ -1,0 +1,21 @@
+=====================> [[('This really saddens me', None, None, None, 0), ('that people are so lost now a days .', None, None, None, 1), ('It never solves anything', None, None, None, 0), ('to hurt other people', None, None, None, 0), ('and this just shows a lack of judgement and remorse .', None, None, None, 1), ('It feels as though there had been a disconnect with humanity', None, None, None, 0), ('and we do not have the respect for each other', None, None, None, 0), ('that e once had .', None, None, None, 1), ('I hope', None, None, None, 0), ('that this person can find their way to a better path .', None, None, None, 1)]]
+Leaf:  N Elaborate This really saddens me
+Leaf:  S span that people are so lost now a days .
+Inner:  N Summary None Elaborate NS
+Leaf:  N Elaborate It never solves anything
+Leaf:  S span to hurt other people
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint and this just shows a lack of judgement and remorse .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Joint It feels as though there had been a disconnect with humanity
+Leaf:  N Elaborate and we do not have the respect for each other
+Leaf:  S span that e once had .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution that this person can find their way to a better path .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('This really saddens me', None, None, None, 0), ('that people are so lost now a days .', None, None, None, 1), ('It never solves anything', None, None, None, 0), ('to hurt other people', None, None, None, 0), ('and this just shows a lack of judgement and remorse .', None, None, None, 1), ('It feels as though there had been a disconnect with humanity', None, None, None, 0), ('and we do not have the respect for each other', None, None, None, 0), ('that e once had .', None, None, None, 1), ('I hope', None, None, None, 0), ('that this person can find their way to a better path .', None, None, None, 1)]

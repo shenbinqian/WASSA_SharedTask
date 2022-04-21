@@ -1,0 +1,25 @@
+=====================> [[('Hi .', None, None, None, 1), ('Just read an article', None, None, None, 0), ('about how Russia is moving some of their military ships near to Britain .', None, None, None, 1), ("What 's the deal there", None, None, None, 0), ('? I can really figure out', None, None, None, 0), ('what the Russian government is up to .', None, None, None, 1), ('The article says', None, None, None, 0), ('they are stating the want', None, None, None, 0), ('to keep major waterways safe ,', None, None, None, 0), ("but I did n't know", None, None, None, 0), ('there was a problem .', None, None, None, 1), ("Maybe they 're creating one .", None, None, None, 1)]]
+Leaf:  N Elaborate Hi .
+Leaf:  N Elaborate Just read an article
+Leaf:  S span about how Russia is moving some of their military ships near to Britain .
+Inner:  N Summary None Elaborate NS
+Leaf:  S span What 's the deal there
+Leaf:  S span ? I can really figure out
+Leaf:  N Attribution what the Russian government is up to .
+Inner:  N Background None Attribution SN
+Inner:  S span None Background SN
+Inner:  S span None Summary NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The article says
+Leaf:  N Elaborate they are stating the want
+Leaf:  S span to keep major waterways safe ,
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Leaf:  S span but I did n't know
+Leaf:  N Attribution there was a problem .
+Inner:  N Contrast None Attribution SN
+Inner:  N Evaluation None Contrast SN
+Leaf:  S span Maybe they 're creating one .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hi .', None, None, None, 1), ('Just read an article', None, None, None, 0), ('about how Russia is moving some of their military ships near to Britain .', None, None, None, 1), ("What 's the deal there", None, None, None, 0), ('? I can really figure out', None, None, None, 0), ('what the Russian government is up to .', None, None, None, 1), ('The article says', None, None, None, 0), ('they are stating the want', None, None, None, 0), ('to keep major waterways safe ,', None, None, None, 0), ("but I did n't know", None, None, None, 0), ('there was a problem .', None, None, None, 1), ("Maybe they 're creating one .", None, None, None, 1)]

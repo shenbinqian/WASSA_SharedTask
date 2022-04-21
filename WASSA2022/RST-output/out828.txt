@@ -1,0 +1,19 @@
+=====================> [[('New data shows', None, None, None, 0), ('airline discrimination complaints jumped 37 percent —', None, None, None, 0), ('The Transportation Department is making more data available about complaints of racial , ethnic and religious discrimination', None, None, None, 0), ('filed against the airlines ,', None, None, None, 0), ('the agency said Tuesday .', None, None, None, 1), ('The department said', None, None, None, 0), ('it was releasing the data to the public in an attempt', None, None, None, 0), ('to be more transparent about such complaints', None, None, None, 0), ('and how they are handled .', None, None, None, 1)]]
+Leaf:  S span New data shows
+Leaf:  N Attribution airline discrimination complaints jumped 37 percent —
+Inner:  N Topic-Comment None Attribution SN
+Leaf:  N Elaborate The Transportation Department is making more data available about complaints of racial , ethnic and religious discrimination
+Leaf:  S span filed against the airlines ,
+Inner:  N Attribution None Elaborate NS
+Leaf:  S span the agency said Tuesday .
+Inner:  N Elaborate None Attribution NS
+Leaf:  S span The department said
+Leaf:  N Elaborate it was releasing the data to the public in an attempt
+Leaf:  N Elaborate to be more transparent about such complaints
+Leaf:  S span and how they are handled .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Topic-Comment None Elaborate NS
+Inner:  Root None None Topic-Comment NN
+[('New data shows', None, None, None, 0), ('airline discrimination complaints jumped 37 percent —', None, None, None, 0), ('The Transportation Department is making more data available about complaints of racial , ethnic and religious discrimination', None, None, None, 0), ('filed against the airlines ,', None, None, None, 0), ('the agency said Tuesday .', None, None, None, 1), ('The department said', None, None, None, 0), ('it was releasing the data to the public in an attempt', None, None, None, 0), ('to be more transparent about such complaints', None, None, None, 0), ('and how they are handled .', None, None, None, 1)]

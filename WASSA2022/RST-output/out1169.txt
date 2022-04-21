@@ -1,0 +1,15 @@
+=====================> [[('The Russians are always being provocative', None, None, None, 0), ('and trying to show force especially against the United States .', None, None, None, 1), ('There dangerous ways almost cost one of there pilots his life .', None, None, None, 1), ('This is yet another attempt from Russia', None, None, None, 0), ('to yet further distance themselves from NATO', None, None, None, 0), ('and to show', None, None, None, 0), ('they fully support the murderous Assad regime .', None, None, None, 1)]]
+Leaf:  N Joint The Russians are always being provocative
+Leaf:  N Joint and trying to show force especially against the United States .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span There dangerous ways almost cost one of there pilots his life .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is yet another attempt from Russia
+Leaf:  N Joint to yet further distance themselves from NATO
+Leaf:  S span and to show
+Leaf:  N Attribution they fully support the murderous Assad regime .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('The Russians are always being provocative', None, None, None, 0), ('and trying to show force especially against the United States .', None, None, None, 1), ('There dangerous ways almost cost one of there pilots his life .', None, None, None, 1), ('This is yet another attempt from Russia', None, None, None, 0), ('to yet further distance themselves from NATO', None, None, None, 0), ('and to show', None, None, None, 0), ('they fully support the murderous Assad regime .', None, None, None, 1)]

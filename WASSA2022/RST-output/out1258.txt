@@ -1,0 +1,37 @@
+=====================> [[('I just read about a tragic 10 story building collapse in a town', None, None, None, 0), ('called Kisii .', None, None, None, 1), ("I 'm distressed about this news", None, None, None, 0), ("because they 're still searching for survivors .", None, None, None, 1), ("There 's been a report that 9 are still missing .", None, None, None, 1), ("I hope they 're able to find these unfortunate victims .", None, None, None, 1), ('It was horrifying reading about the accounts', None, None, None, 0), ('because people could be heard screaming and shouting for help .', None, None, None, 1), ("I 'm hopeful", None, None, None, 0), ('that they can help find any remaining survivors .', None, None, None, 1), ('This is such an unfortunate event . The cause was due to bad building construction as the developers have cowardly gone into hiding .', None, None, None, 1), ('Experts said', None, None, None, 0), ('a recent drilling underneath the building triggered the collapse .', None, None, None, 1), ('This is horrible to hear .', None, None, None, 1), ('Could you imagine if this happened to the office building', None, None, None, 0), ('we worked out ?', None, None, None, 1), ('Such awful and careless planning', None, None, None, 0), ('resulting in lost lives .', None, None, None, 1)]]
+Leaf:  N Elaborate I just read about a tragic 10 story building collapse in a town
+Leaf:  S span called Kisii .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Explanation I 'm distressed about this news
+Leaf:  N Elaborate because they 're still searching for survivors .
+Leaf:  S span There 's been a report that 9 are still missing .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Explanation I hope they 're able to find these unfortunate victims .
+Leaf:  N Explanation It was horrifying reading about the accounts
+Leaf:  S span because people could be heard screaming and shouting for help .
+Inner:  S span None Explanation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I 'm hopeful
+Leaf:  N Attribution that they can help find any remaining survivors .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate This is such an unfortunate event . The cause was due to bad building construction as the developers have cowardly gone into hiding .
+Leaf:  S span Experts said
+Leaf:  N Attribution a recent drilling underneath the building triggered the collapse .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span This is horrible to hear .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate Could you imagine if this happened to the office building
+Leaf:  S span we worked out ?
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Cause Such awful and careless planning
+Leaf:  S span resulting in lost lives .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I just read about a tragic 10 story building collapse in a town', None, None, None, 0), ('called Kisii .', None, None, None, 1), ("I 'm distressed about this news", None, None, None, 0), ("because they 're still searching for survivors .", None, None, None, 1), ("There 's been a report that 9 are still missing .", None, None, None, 1), ("I hope they 're able to find these unfortunate victims .", None, None, None, 1), ('It was horrifying reading about the accounts', None, None, None, 0), ('because people could be heard screaming and shouting for help .', None, None, None, 1), ("I 'm hopeful", None, None, None, 0), ('that they can help find any remaining survivors .', None, None, None, 1), ('This is such an unfortunate event . The cause was due to bad building construction as the developers have cowardly gone into hiding .', None, None, None, 1), ('Experts said', None, None, None, 0), ('a recent drilling underneath the building triggered the collapse .', None, None, None, 1), ('This is horrible to hear .', None, None, None, 1), ('Could you imagine if this happened to the office building', None, None, None, 0), ('we worked out ?', None, None, None, 1), ('Such awful and careless planning', None, None, None, 0), ('resulting in lost lives .', None, None, None, 1)]

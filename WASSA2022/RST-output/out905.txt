@@ -1,0 +1,37 @@
+=====================> [[('I think', None, None, None, 0), ('its sick having these kids working .', None, None, None, 1), ('These kids should be playing', None, None, None, 0), ('and having an education .', None, None, None, 1), ('Why are they doing this ?', None, None, None, 1), ('This just shows you', None, None, None, 0), ('how much people care about money . Its disgusting . Human beings are disgusting .', None, None, None, 1), ('I feel so ashamed .', None, None, None, 1), ('God will punish all of these people .', None, None, None, 1), ('We are just being controlled .', None, None, None, 1), ('Someone needs to put this to an end .', None, None, None, 1), ('I really hope', None, None, None, 0), ('these children get the life', None, None, None, 0), ('they deserve .', None, None, None, 1), ('This is why there is a lot of people', None, None, None, 0), ('suffering from depression', None, None, None, 0), ('because of these terrible things', None, None, None, 0), ('going on .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution its sick having these kids working .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Joint These kids should be playing
+Leaf:  N Joint and having an education .
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Why are they doing this ?
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span This just shows you
+Leaf:  N Attribution how much people care about money . Its disgusting . Human beings are disgusting .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span I feel so ashamed .
+Inner:  N Topic-Comment None Evaluation NS
+Leaf:  N Summary God will punish all of these people .
+Leaf:  S span We are just being controlled .
+Inner:  N Evaluation None Summary NS
+Leaf:  S span Someone needs to put this to an end .
+Inner:  N Topic-Comment None Evaluation NS
+Inner:  N Elaborate None Topic-Comment NN
+Leaf:  S span I really hope
+Leaf:  N Elaborate these children get the life
+Leaf:  S span they deserve .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate This is why there is a lot of people
+Leaf:  S span suffering from depression
+Inner:  N Cause None Elaborate NS
+Leaf:  N Elaborate because of these terrible things
+Leaf:  S span going on .
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Cause NS
+[('I think', None, None, None, 0), ('its sick having these kids working .', None, None, None, 1), ('These kids should be playing', None, None, None, 0), ('and having an education .', None, None, None, 1), ('Why are they doing this ?', None, None, None, 1), ('This just shows you', None, None, None, 0), ('how much people care about money . Its disgusting . Human beings are disgusting .', None, None, None, 1), ('I feel so ashamed .', None, None, None, 1), ('God will punish all of these people .', None, None, None, 1), ('We are just being controlled .', None, None, None, 1), ('Someone needs to put this to an end .', None, None, None, 1), ('I really hope', None, None, None, 0), ('these children get the life', None, None, None, 0), ('they deserve .', None, None, None, 1), ('This is why there is a lot of people', None, None, None, 0), ('suffering from depression', None, None, None, 0), ('because of these terrible things', None, None, None, 0), ('going on .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('I think', None, None, None, 0), ('the short of it really is that the racists won the election .', None, None, None, 1), ('It is incredibly sad that such a seemingly easy to win election against someone', None, None, None, 0), ('who is openly calling groups of racist things ,', None, None, None, 0), ('and actually encouraging hate and chaos ,', None, None, None, 0), ('was lost .', None, None, None, 1), ('The democrats are right to be taking a long look at how they do things ,', None, None, None, 0), ("they 've always been the party", None, None, None, 0), ('that is " we \'re like the republicans ,', None, None, None, 0), ('but you wo n\'t gag as much voting for us . "', None, None, None, 0), ('I think', None, None, None, 0), ('the average person', None, None, None, 0), ('who cares about politics , and is liberal ,', None, None, None, 0), ('got a shocking wake up call this time around ,', None, None, None, 0), ("and we 're going to see people turn out in incredible numbers", None, None, None, 0), ('to vote .', None, None, None, 1)]]
+Leaf:  S span I think
+Leaf:  N Attribution the short of it really is that the racists won the election .
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate It is incredibly sad that such a seemingly easy to win election against someone
+Leaf:  N Joint who is openly calling groups of racist things ,
+Leaf:  N Joint and actually encouraging hate and chaos ,
+Inner:  S span None Joint NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was lost .
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Explanation The democrats are right to be taking a long look at how they do things ,
+Leaf:  N Elaborate they 've always been the party
+Leaf:  S span that is " we 're like the republicans ,
+Leaf:  N Condition but you wo n't gag as much voting for us . "
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span I think
+Leaf:  N Elaborate the average person
+Leaf:  S span who cares about politics , and is liberal ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit got a shocking wake up call this time around ,
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Enablement and we 're going to see people turn out in incredible numbers
+Leaf:  S span to vote .
+Inner:  S span None Enablement NS
+Inner:  N Attribution None Cause NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I think', None, None, None, 0), ('the short of it really is that the racists won the election .', None, None, None, 1), ('It is incredibly sad that such a seemingly easy to win election against someone', None, None, None, 0), ('who is openly calling groups of racist things ,', None, None, None, 0), ('and actually encouraging hate and chaos ,', None, None, None, 0), ('was lost .', None, None, None, 1), ('The democrats are right to be taking a long look at how they do things ,', None, None, None, 0), ("they 've always been the party", None, None, None, 0), ('that is " we \'re like the republicans ,', None, None, None, 0), ('but you wo n\'t gag as much voting for us . "', None, None, None, 0), ('I think', None, None, None, 0), ('the average person', None, None, None, 0), ('who cares about politics , and is liberal ,', None, None, None, 0), ('got a shocking wake up call this time around ,', None, None, None, 0), ("and we 're going to see people turn out in incredible numbers", None, None, None, 0), ('to vote .', None, None, None, 1)]

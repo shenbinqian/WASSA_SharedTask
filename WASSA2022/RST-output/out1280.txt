@@ -1,0 +1,37 @@
+=====================> [[('Video Shows Cop Punching Woman In The Face ,', None, None, None, 0), ('But She ’s The One Arrested For ‘ Assault ’ —', None, None, None, 0), ('A uniformed Arizona police officer', None, None, None, 0), ('who was filmed', None, None, None, 0), ('punching a woman has been placed on administrative leave', None, None, None, 0), ('while the incident is investigated .', None, None, None, 1), ('“ Our agency is very concerned by what is depicted in this video , ” police in Flagstaff , Arizona , said in a Wednesday evening press release . The footage , shot and posted to Facebook on Wednesday , shows a woman struggling with two officers', None, None, None, 0), ('who apparently believe', None, None, None, 0), ('there is an outstanding warrant for her arrest . She can be heard on video', None, None, None, 0), ('saying', None, None, None, 0), ('the issue has already been resolved .', None, None, None, 1), ('“ You can not arrest me', None, None, None, 0), ('until I know', None, None, None, 0), ('I have a warrant , ”', None, None, None, 0), ('she tells the officers', None, None, None, 0), ('as she struggles with them .', None, None, None, 1), ('Suddenly , one of them strikes her in the face with a closed fist .', None, None, None, 1), ('Authorities have See .', None, None, None, 1)]]
+Leaf:  N Contrast Video Shows Cop Punching Woman In The Face ,
+Leaf:  N Contrast But She ’s The One Arrested For ‘ Assault ’ —
+Inner:  N Textual-Organization None Contrast NN
+Leaf:  N Elaborate A uniformed Arizona police officer
+Leaf:  N Elaborate who was filmed
+Leaf:  S span punching a woman has been placed on administrative leave
+Inner:  N Temporal None Elaborate NS
+Leaf:  S span while the incident is investigated .
+Inner:  S span None Temporal NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  N Elaborate None Textual-Organization NN
+Leaf:  N Elaborate “ Our agency is very concerned by what is depicted in this video , ” police in Flagstaff , Arizona , said in a Wednesday evening press release . The footage , shot and posted to Facebook on Wednesday , shows a woman struggling with two officers
+Leaf:  S span who apparently believe
+Leaf:  N Attribution there is an outstanding warrant for her arrest . She can be heard on video
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span saying
+Leaf:  N Attribution the issue has already been resolved .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Condition “ You can not arrest me
+Leaf:  S span until I know
+Leaf:  N Attribution I have a warrant , ”
+Inner:  S span None Attribution SN
+Inner:  N Attribution None Condition NS
+Leaf:  N Background she tells the officers
+Leaf:  S span as she struggles with them .
+Inner:  S span None Background NS
+Inner:  S span None Attribution NS
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal Suddenly , one of them strikes her in the face with a closed fist .
+Inner:  S span None Temporal NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Authorities have See .
+Inner:  Root None None Evaluation NS
+[('Video Shows Cop Punching Woman In The Face ,', None, None, None, 0), ('But She ’s The One Arrested For ‘ Assault ’ —', None, None, None, 0), ('A uniformed Arizona police officer', None, None, None, 0), ('who was filmed', None, None, None, 0), ('punching a woman has been placed on administrative leave', None, None, None, 0), ('while the incident is investigated .', None, None, None, 1), ('“ Our agency is very concerned by what is depicted in this video , ” police in Flagstaff , Arizona , said in a Wednesday evening press release . The footage , shot and posted to Facebook on Wednesday , shows a woman struggling with two officers', None, None, None, 0), ('who apparently believe', None, None, None, 0), ('there is an outstanding warrant for her arrest . She can be heard on video', None, None, None, 0), ('saying', None, None, None, 0), ('the issue has already been resolved .', None, None, None, 1), ('“ You can not arrest me', None, None, None, 0), ('until I know', None, None, None, 0), ('I have a warrant , ”', None, None, None, 0), ('she tells the officers', None, None, None, 0), ('as she struggles with them .', None, None, None, 1), ('Suddenly , one of them strikes her in the face with a closed fist .', None, None, None, 1), ('Authorities have See .', None, None, None, 1)]

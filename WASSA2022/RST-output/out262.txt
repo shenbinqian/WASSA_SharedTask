@@ -1,0 +1,27 @@
+=====================> [[('Dear friend , I have just finished reading a very upsetting and tragic article .', None, None, None, 1), ('It told the story of a young teenage girl in India', None, None, None, 0), ('named Insha Mushtaq .', None, None, None, 1), ('She lost her vision', None, None, None, 0), ('and 14 years old', None, None, None, 0), ('because she was shot repeatedly with pellets . She has been in and out of hospitals', None, None, None, 0), ('for months', None, None, None, 0), ('trying to regain her vision ,', None, None, None, 0), ('but so far it has not been successful . She is trying to stay positive now', None, None, None, 0), ('but she knows', None, None, None, 0), ('that she has a difficult road ahead of her .', None, None, None, 1), ('I hope', None, None, None, 0), ('that she regains her sight .', None, None, None, 1)]]
+Leaf:  N Elaborate Dear friend , I have just finished reading a very upsetting and tragic article .
+Leaf:  N Elaborate It told the story of a young teenage girl in India
+Leaf:  S span named Insha Mushtaq .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Same-Unit She lost her vision
+Leaf:  N Cause and 14 years old
+Leaf:  N Temporal because she was shot repeatedly with pellets . She has been in and out of hospitals
+Leaf:  N Enablement for months
+Leaf:  S span trying to regain her vision ,
+Inner:  S span None Enablement NS
+Inner:  S span None Temporal NS
+Inner:  S span None Cause NS
+Leaf:  N Contrast but so far it has not been successful . She is trying to stay positive now
+Inner:  S span None Contrast SN
+Leaf:  S span but she knows
+Leaf:  N Attribution that she has a difficult road ahead of her .
+Inner:  N Contrast None Attribution SN
+Inner:  N Same-Unit None Contrast SN
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Attribution that she regains her sight .
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Dear friend , I have just finished reading a very upsetting and tragic article .', None, None, None, 1), ('It told the story of a young teenage girl in India', None, None, None, 0), ('named Insha Mushtaq .', None, None, None, 1), ('She lost her vision', None, None, None, 0), ('and 14 years old', None, None, None, 0), ('because she was shot repeatedly with pellets . She has been in and out of hospitals', None, None, None, 0), ('for months', None, None, None, 0), ('trying to regain her vision ,', None, None, None, 0), ('but so far it has not been successful . She is trying to stay positive now', None, None, None, 0), ('but she knows', None, None, None, 0), ('that she has a difficult road ahead of her .', None, None, None, 1), ('I hope', None, None, None, 0), ('that she regains her sight .', None, None, None, 1)]

@@ -1,0 +1,19 @@
+=====================> [[('What I have learned from this is that obesity is a silent killer .', None, None, None, 1), ('In most of the cases , by the time', None, None, None, 0), ('one realizes', None, None, None, 0), ('that they under the clutch of Obesity', None, None, None, 0), ('and it ’s already too late for them .', None, None, None, 1), ('Some prominent signs of obesity are - lack of flexibility in body , high blood pressure , development of cardiac issues and respiratory disorder .', None, None, None, 1), ('But a question', None, None, None, 0), ('that continues to bother the patients', None, None, None, 0), ('is what caused Obesity in them .', None, None, None, 1)]]
+Leaf:  N Explanation What I have learned from this is that obesity is a silent killer .
+Leaf:  N Same-Unit In most of the cases , by the time
+Leaf:  S span one realizes
+Leaf:  N Attribution that they under the clutch of Obesity
+Inner:  N Temporal None Attribution SN
+Leaf:  N Temporal and it ’s already too late for them .
+Inner:  N Same-Unit None Temporal NN
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Contrast Some prominent signs of obesity are - lack of flexibility in body , high blood pressure , development of cardiac issues and respiratory disorder .
+Leaf:  N Elaborate But a question
+Leaf:  S span that continues to bother the patients
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is what caused Obesity in them .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[('What I have learned from this is that obesity is a silent killer .', None, None, None, 1), ('In most of the cases , by the time', None, None, None, 0), ('one realizes', None, None, None, 0), ('that they under the clutch of Obesity', None, None, None, 0), ('and it ’s already too late for them .', None, None, None, 1), ('Some prominent signs of obesity are - lack of flexibility in body , high blood pressure , development of cardiac issues and respiratory disorder .', None, None, None, 1), ('But a question', None, None, None, 0), ('that continues to bother the patients', None, None, None, 0), ('is what caused Obesity in them .', None, None, None, 1)]

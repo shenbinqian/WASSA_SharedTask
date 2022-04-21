@@ -1,0 +1,21 @@
+=====================> [[('What do you think about Guantanamo Bay ?', None, None, None, 1), ('Should they shut it down', None, None, None, 0), ('or continue to use it for interrogating supposed terrorist .', None, None, None, 1), ('I do have sympathy for some of the prisoners', None, None, None, 0), ('who may not particularly be terrorist . From an article I read', None, None, None, 0), ('some of these prisoners or most of them are mentally ill .', None, None, None, 1), ('One thing', None, None, None, 0), ('I learned from this article I read', None, None, None, 0), ('is that some of the psychologists may be assisting with torturing the prisoners . Some believe', None, None, None, 0), ('that some of these physicians and psychiatrist should bear the brunt of the blame for torture at Guantanamo Bay .', None, None, None, 1)]]
+Leaf:  N Evaluation What do you think about Guantanamo Bay ?
+Leaf:  N Joint Should they shut it down
+Leaf:  N Joint or continue to use it for interrogating supposed terrorist .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I do have sympathy for some of the prisoners
+Leaf:  S span who may not particularly be terrorist . From an article I read
+Inner:  S span None Elaborate NS
+Leaf:  N Attribution some of these prisoners or most of them are mentally ill .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution One thing
+Leaf:  S span I learned from this article I read
+Inner:  N Same-Unit None Attribution NS
+Leaf:  S span is that some of the psychologists may be assisting with torturing the prisoners . Some believe
+Leaf:  N Attribution that some of these physicians and psychiatrist should bear the brunt of the blame for torture at Guantanamo Bay .
+Inner:  N Same-Unit None Attribution SN
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('What do you think about Guantanamo Bay ?', None, None, None, 1), ('Should they shut it down', None, None, None, 0), ('or continue to use it for interrogating supposed terrorist .', None, None, None, 1), ('I do have sympathy for some of the prisoners', None, None, None, 0), ('who may not particularly be terrorist . From an article I read', None, None, None, 0), ('some of these prisoners or most of them are mentally ill .', None, None, None, 1), ('One thing', None, None, None, 0), ('I learned from this article I read', None, None, None, 0), ('is that some of the psychologists may be assisting with torturing the prisoners . Some believe', None, None, None, 0), ('that some of these physicians and psychiatrist should bear the brunt of the blame for torture at Guantanamo Bay .', None, None, None, 1)]

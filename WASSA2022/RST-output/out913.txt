@@ -1,0 +1,35 @@
+=====================> [[('What a legend , am I right friend .', None, None, None, 1), ('I have never really got into Lenoard Cohan much', None, None, None, 0), ('but I realize hard work', None, None, None, 0), ('when I see it .', None, None, None, 1), ('This man is a legend in his own rights . Books , poetry books while still an undergraduate .', None, None, None, 1), ('This man did it all .', None, None, None, 1), ('Did you know', None, None, None, 0), ('he was afraid to sing really', None, None, None, 0), ('and hated being in front of all the people at first', None, None, None, 0), ('but obviously he got over it eventually .', None, None, None, 1), ('That makes him so relatable towards me .', None, None, None, 1), ('I feel pretty sympathetic towards the family ,', None, None, None, 0), ('they lost a great man .', None, None, None, 1), ('I am glad he made so much music', None, None, None, 0), ('cause his stuff will live on forever .', None, None, None, 1), ('Thats why I wanted to be a rockstar ,', None, None, None, 0), ('to live on after I die .', None, None, None, 1)]]
+Leaf:  N Elaborate What a legend , am I right friend .
+Leaf:  S span I have never really got into Lenoard Cohan much
+Leaf:  N Background but I realize hard work
+Leaf:  S span when I see it .
+Inner:  N Contrast None Background NS
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate This man is a legend in his own rights . Books , poetry books while still an undergraduate .
+Leaf:  S span This man did it all .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Did you know
+Leaf:  N Joint he was afraid to sing really
+Leaf:  N Joint and hated being in front of all the people at first
+Inner:  S span None Joint NN
+Leaf:  N Contrast but obviously he got over it eventually .
+Inner:  N Attribution None Contrast SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint That makes him so relatable towards me .
+Leaf:  N Elaborate I feel pretty sympathetic towards the family ,
+Leaf:  S span they lost a great man .
+Inner:  N Joint None Elaborate NS
+Inner:  N Elaborate None Joint NN
+Leaf:  N Explanation I am glad he made so much music
+Leaf:  S span cause his stuff will live on forever .
+Inner:  S span None Explanation NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Enablement Thats why I wanted to be a rockstar ,
+Leaf:  S span to live on after I die .
+Inner:  S span None Enablement NS
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('What a legend , am I right friend .', None, None, None, 1), ('I have never really got into Lenoard Cohan much', None, None, None, 0), ('but I realize hard work', None, None, None, 0), ('when I see it .', None, None, None, 1), ('This man is a legend in his own rights . Books , poetry books while still an undergraduate .', None, None, None, 1), ('This man did it all .', None, None, None, 1), ('Did you know', None, None, None, 0), ('he was afraid to sing really', None, None, None, 0), ('and hated being in front of all the people at first', None, None, None, 0), ('but obviously he got over it eventually .', None, None, None, 1), ('That makes him so relatable towards me .', None, None, None, 1), ('I feel pretty sympathetic towards the family ,', None, None, None, 0), ('they lost a great man .', None, None, None, 1), ('I am glad he made so much music', None, None, None, 0), ('cause his stuff will live on forever .', None, None, None, 1), ('Thats why I wanted to be a rockstar ,', None, None, None, 0), ('to live on after I die .', None, None, None, 1)]

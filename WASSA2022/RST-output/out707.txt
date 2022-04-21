@@ -1,0 +1,25 @@
+=====================> [[("I honestly ca n't believe", None, None, None, 0), ('I just read that whole article about a frog .', None, None, None, 1), ('I absolutely despise them .', None, None, None, 1), ('They are some of the most vile creatures on this earth .', None, None, None, 1), ('Ew . But ... .', None, None, None, 1), ('there was something pretty interesting at the end of the article .', None, None, None, 1), ('One of the researchers claim', None, None, None, 0), ('that over half of all species will be extinct by the end of the century .', None, None, None, 1), ('That is insane !!!! Pretty sure', None, None, None, 0), ('most of that is due to climate change', None, None, None, 0), ('but we have Donald Asshat and Company', None, None, None, 0), ('who refuse to acknowledge it or its repercussions .', None, None, None, 1)]]
+Leaf:  S span I honestly ca n't believe
+Leaf:  N Attribution I just read that whole article about a frog .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Evaluation I absolutely despise them .
+Leaf:  S span They are some of the most vile creatures on this earth .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Ew . But ... .
+Leaf:  N Elaborate there was something pretty interesting at the end of the article .
+Leaf:  S span One of the researchers claim
+Leaf:  N Attribution that over half of all species will be extinct by the end of the century .
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span That is insane !!!! Pretty sure
+Leaf:  N Attribution most of that is due to climate change
+Inner:  S span None Attribution SN
+Leaf:  N Elaborate but we have Donald Asshat and Company
+Leaf:  S span who refuse to acknowledge it or its repercussions .
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Inner:  S span None Evaluation SN
+Inner:  Root None None Evaluation NS
+[("I honestly ca n't believe", None, None, None, 0), ('I just read that whole article about a frog .', None, None, None, 1), ('I absolutely despise them .', None, None, None, 1), ('They are some of the most vile creatures on this earth .', None, None, None, 1), ('Ew . But ... .', None, None, None, 1), ('there was something pretty interesting at the end of the article .', None, None, None, 1), ('One of the researchers claim', None, None, None, 0), ('that over half of all species will be extinct by the end of the century .', None, None, None, 1), ('That is insane !!!! Pretty sure', None, None, None, 0), ('most of that is due to climate change', None, None, None, 0), ('but we have Donald Asshat and Company', None, None, None, 0), ('who refuse to acknowledge it or its repercussions .', None, None, None, 1)]

@@ -1,0 +1,27 @@
+=====================> [[('This article highlights the fact', None, None, None, 0), ('that', None, None, None, 0), ('although we may have profound faith in the goodness of human nature ,', None, None, None, 0), ('we never know', None, None, None, 0), ('when a killer is walking among us .', None, None, None, 1), ('The recent spate of mass shootings at schools and other locations underline the presence of disturbed people in our midst .', None, None, None, 1), ('Besides defending ourselves ,', None, None, None, 0), ('we need to ask ourselves what in our society is provoking this disturbing behavior .', None, None, None, 1), ('Certainly the ubiquity and ease', None, None, None, 0), ('of acquiring guns', None, None, None, 0), ('is one cause ,', None, None, None, 0), ('but there may be others', None, None, None, 0), ('that need attention as well .', None, None, None, 1)]]
+Leaf:  N Elaborate This article highlights the fact
+Leaf:  S span that
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  S span although we may have profound faith in the goodness of human nature ,
+Leaf:  S span we never know
+Leaf:  N Attribution when a killer is walking among us .
+Inner:  N Contrast None Attribution SN
+Inner:  N Same-Unit None Contrast SN
+Inner:  N Explanation None Same-Unit NN
+Leaf:  S span The recent spate of mass shootings at schools and other locations underline the presence of disturbed people in our midst .
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Besides defending ourselves ,
+Leaf:  N Background we need to ask ourselves what in our society is provoking this disturbing behavior .
+Inner:  N Elaborate None Background SN
+Leaf:  N Elaborate Certainly the ubiquity and ease
+Leaf:  S span of acquiring guns
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is one cause ,
+Inner:  N Joint None Same-Unit NN
+Leaf:  N Elaborate but there may be others
+Leaf:  S span that need attention as well .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('This article highlights the fact', None, None, None, 0), ('that', None, None, None, 0), ('although we may have profound faith in the goodness of human nature ,', None, None, None, 0), ('we never know', None, None, None, 0), ('when a killer is walking among us .', None, None, None, 1), ('The recent spate of mass shootings at schools and other locations underline the presence of disturbed people in our midst .', None, None, None, 1), ('Besides defending ourselves ,', None, None, None, 0), ('we need to ask ourselves what in our society is provoking this disturbing behavior .', None, None, None, 1), ('Certainly the ubiquity and ease', None, None, None, 0), ('of acquiring guns', None, None, None, 0), ('is one cause ,', None, None, None, 0), ('but there may be others', None, None, None, 0), ('that need attention as well .', None, None, None, 1)]

@@ -1,0 +1,31 @@
+=====================> [[('Did you hear about the guy', None, None, None, 0), ('who was the father', None, None, None, 0), ('who works for the Swedish government ?', None, None, None, 1), ('This guy for some unknown reason contracted a flesh eating bacteria disease .', None, None, None, 1), ('It took them awhile', None, None, None, 0), ('to diagnose what really was wrong with him', None, None, None, 0), ('and he had to take certain surgeries in order to save his life .', None, None, None, 1), ('He talks', None, None, None, 0), ("about how he 's grateful to be alive", None, None, None, 0), ('but also wants to live in the moment', None, None, None, 0), ('to enjoy his life as well .', None, None, None, 1), ('It is touching news', None, None, None, 0), ("and I 'm happy", None, None, None, 0), ("that he 's able to overcome this adversity", None, None, None, 0), ('that came upon his life .', None, None, None, 1)]]
+Leaf:  N Elaborate Did you hear about the guy
+Leaf:  N Elaborate who was the father
+Leaf:  S span who works for the Swedish government ?
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause This guy for some unknown reason contracted a flesh eating bacteria disease .
+Leaf:  N Enablement It took them awhile
+Leaf:  S span to diagnose what really was wrong with him
+Inner:  N Cause None Enablement NS
+Leaf:  N Cause and he had to take certain surgeries in order to save his life .
+Inner:  S span None Cause NN
+Inner:  S span None Cause NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span He talks
+Leaf:  N Joint about how he 's grateful to be alive
+Leaf:  N Elaborate but also wants to live in the moment
+Leaf:  S span to enjoy his life as well .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It is touching news
+Leaf:  S span and I 'm happy
+Leaf:  N Elaborate that he 's able to overcome this adversity
+Leaf:  S span that came upon his life .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Did you hear about the guy', None, None, None, 0), ('who was the father', None, None, None, 0), ('who works for the Swedish government ?', None, None, None, 1), ('This guy for some unknown reason contracted a flesh eating bacteria disease .', None, None, None, 1), ('It took them awhile', None, None, None, 0), ('to diagnose what really was wrong with him', None, None, None, 0), ('and he had to take certain surgeries in order to save his life .', None, None, None, 1), ('He talks', None, None, None, 0), ("about how he 's grateful to be alive", None, None, None, 0), ('but also wants to live in the moment', None, None, None, 0), ('to enjoy his life as well .', None, None, None, 1), ('It is touching news', None, None, None, 0), ("and I 'm happy", None, None, None, 0), ("that he 's able to overcome this adversity", None, None, None, 0), ('that came upon his life .', None, None, None, 1)]

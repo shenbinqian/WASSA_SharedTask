@@ -1,0 +1,23 @@
+=====================> [[('When will this world learn', None, None, None, 0), ('that rape is wrong ,', None, None, None, 0), ('regardless of the context ?', None, None, None, 1), ('Too many women are treated as an object ,', None, None, None, 0), ('then punished by the system afterward .', None, None, None, 1), ('Some would say', None, None, None, 0), ('it is because of the religious beliefs in the area', None, None, None, 0), ('but America is no better . In our own backyard women can be raped', None, None, None, 0), ('and forced into carrying the baby to term', None, None, None, 0), ('as the father has " rights . " Something needs to be done ,', None, None, None, 0), ('and the British government needs to step in a help his woman .', None, None, None, 1)]]
+Leaf:  S span When will this world learn
+Leaf:  N Attribution that rape is wrong ,
+Inner:  N Contrast None Attribution SN
+Leaf:  S span regardless of the context ?
+Inner:  N Explanation None Contrast NS
+Leaf:  N Temporal Too many women are treated as an object ,
+Leaf:  N Temporal then punished by the system afterward .
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span Some would say
+Leaf:  N Attribution it is because of the religious beliefs in the area
+Inner:  S span None Attribution SN
+Leaf:  N Joint but America is no better . In our own backyard women can be raped
+Leaf:  N Joint and forced into carrying the baby to term
+Inner:  N Condition None Joint NN
+Leaf:  N Joint as the father has " rights . " Something needs to be done ,
+Leaf:  N Joint and the British government needs to step in a help his woman .
+Inner:  S span None Joint NN
+Inner:  N Contrast None Condition NS
+Inner:  S span None Contrast SN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('When will this world learn', None, None, None, 0), ('that rape is wrong ,', None, None, None, 0), ('regardless of the context ?', None, None, None, 1), ('Too many women are treated as an object ,', None, None, None, 0), ('then punished by the system afterward .', None, None, None, 1), ('Some would say', None, None, None, 0), ('it is because of the religious beliefs in the area', None, None, None, 0), ('but America is no better . In our own backyard women can be raped', None, None, None, 0), ('and forced into carrying the baby to term', None, None, None, 0), ('as the father has " rights . " Something needs to be done ,', None, None, None, 0), ('and the British government needs to step in a help his woman .', None, None, None, 1)]

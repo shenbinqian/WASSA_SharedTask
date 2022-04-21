@@ -1,0 +1,35 @@
+=====================> [[('I had no idea', None, None, None, 0), ('that Zika was discovered in 1947', None, None, None, 0), ('and that there was an outbreak in 2007 .', None, None, None, 1), ('As far', None, None, None, 0), ('as I knew ,', None, None, None, 0), ('it was only the very recent outbreak', None, None, None, 0), ('that Zika was discovered .', None, None, None, 1), ('How wrong I was . It was actually really heartening to read this ,', None, None, None, 0), ('because I want to start a family in the next few years', None, None, None, 0), ('and I was practically twitching with anxiety . I tend to get bitten by a ton of mosquitoes every summer', None, None, None, 0), ('no matter what I do', None, None, None, 0), ("while my husband does n't get bit at all . And what about global climate change pushing things like this further north ?", None, None, None, 1), ('It is good to know', None, None, None, 0), ('that it comes in and out of viral " fashion "', None, None, None, 0), ('and that there is a herd immunity aspect to it .', None, None, None, 1), ('Maybe I can put down the mosquito shotgun for now', None, None, None, 0), ('and aim for a slightly stronger spray for my clothing .', None, None, None, 1)]]
+Leaf:  S span I had no idea
+Leaf:  N Joint that Zika was discovered in 1947
+Leaf:  N Joint and that there was an outbreak in 2007 .
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Attribution As far
+Leaf:  S span as I knew ,
+Inner:  N Same-Unit None Attribution NS
+Leaf:  N Elaborate it was only the very recent outbreak
+Leaf:  S span that Zika was discovered .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Explanation How wrong I was . It was actually really heartening to read this ,
+Leaf:  S span because I want to start a family in the next few years
+Inner:  N Joint None Explanation NS
+Leaf:  N Contrast and I was practically twitching with anxiety . I tend to get bitten by a ton of mosquitoes every summer
+Leaf:  S span no matter what I do
+Inner:  N Contrast None Contrast NS
+Leaf:  N Contrast while my husband does n't get bit at all . And what about global climate change pushing things like this further north ?
+Inner:  N Joint None Contrast NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is good to know
+Leaf:  N Joint that it comes in and out of viral " fashion "
+Leaf:  N Joint and that there is a herd immunity aspect to it .
+Inner:  N Attribution None Joint NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Temporal Maybe I can put down the mosquito shotgun for now
+Leaf:  N Temporal and aim for a slightly stronger spray for my clothing .
+Inner:  S span None Temporal NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I had no idea', None, None, None, 0), ('that Zika was discovered in 1947', None, None, None, 0), ('and that there was an outbreak in 2007 .', None, None, None, 1), ('As far', None, None, None, 0), ('as I knew ,', None, None, None, 0), ('it was only the very recent outbreak', None, None, None, 0), ('that Zika was discovered .', None, None, None, 1), ('How wrong I was . It was actually really heartening to read this ,', None, None, None, 0), ('because I want to start a family in the next few years', None, None, None, 0), ('and I was practically twitching with anxiety . I tend to get bitten by a ton of mosquitoes every summer', None, None, None, 0), ('no matter what I do', None, None, None, 0), ("while my husband does n't get bit at all . And what about global climate change pushing things like this further north ?", None, None, None, 1), ('It is good to know', None, None, None, 0), ('that it comes in and out of viral " fashion "', None, None, None, 0), ('and that there is a herd immunity aspect to it .', None, None, None, 1), ('Maybe I can put down the mosquito shotgun for now', None, None, None, 0), ('and aim for a slightly stronger spray for my clothing .', None, None, None, 1)]

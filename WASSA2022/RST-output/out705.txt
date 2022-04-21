@@ -1,0 +1,23 @@
+=====================> [[('Josh , I just read about the Calais refugee camp', None, None, None, 0), ('that was set up in France', None, None, None, 0), ('to house the people from Syria', None, None, None, 0), ('that the maniac killing his own people drove away .', None, None, None, 1), ('The problem with all of this is the country of Syria must come to a place', None, None, None, 0), ('where they take back what has been taken from them .', None, None, None, 1), ('But you know', None, None, None, 0), ("why they ca n't ? The citizens were not allowed to be armed", None, None, None, 0), ('and any weapons', None, None, None, 0), ('they have now', None, None, None, 0), ('have been supplied by us and the allies . Perfect example as to why our founders wrote the second amendment .', None, None, None, 1)]]
+Leaf:  N Elaborate Josh , I just read about the Calais refugee camp
+Leaf:  N Enablement that was set up in France
+Leaf:  N Elaborate to house the people from Syria
+Leaf:  S span that the maniac killing his own people drove away .
+Inner:  S span None Elaborate NS
+Inner:  S span None Enablement NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate The problem with all of this is the country of Syria must come to a place
+Leaf:  S span where they take back what has been taken from them .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span But you know
+Leaf:  N Joint why they ca n't ? The citizens were not allowed to be armed
+Leaf:  N Elaborate and any weapons
+Leaf:  S span they have now
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit have been supplied by us and the allies . Perfect example as to why our founders wrote the second amendment .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('Josh , I just read about the Calais refugee camp', None, None, None, 0), ('that was set up in France', None, None, None, 0), ('to house the people from Syria', None, None, None, 0), ('that the maniac killing his own people drove away .', None, None, None, 1), ('The problem with all of this is the country of Syria must come to a place', None, None, None, 0), ('where they take back what has been taken from them .', None, None, None, 1), ('But you know', None, None, None, 0), ("why they ca n't ? The citizens were not allowed to be armed", None, None, None, 0), ('and any weapons', None, None, None, 0), ('they have now', None, None, None, 0), ('have been supplied by us and the allies . Perfect example as to why our founders wrote the second amendment .', None, None, None, 1)]

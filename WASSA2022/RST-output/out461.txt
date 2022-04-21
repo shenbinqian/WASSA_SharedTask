@@ -1,0 +1,47 @@
+=====================> [[('I just read the article', None, None, None, 0), ('and I am so surprised', None, None, None, 0), ('that this happened .', None, None, None, 1), ('I feel really embarrassed for her', None, None, None, 0), ("because it seems obvious that she 's the one", None, None, None, 0), ('starting trouble', None, None, None, 0), ('but I worry', None, None, None, 0), ("that she might have some sort of mental illness or disorder that she really did n't realize", None, None, None, 0), ('what she said', None, None, None, 0), ('and that makes me feel bad for her . I can understand her concerns about racism', None, None, None, 0), ('but I think', None, None, None, 0), ("that she 's just not very credible in this case .", None, None, None, 1), ('I just feel like we need to be really sensitive towards racism', None, None, None, 0), ('and keep an open mind', None, None, None, 0), ('when it happens ,', None, None, None, 0), ('but considering that there were other people there', None, None, None, 0), ('and absolutely no one is backing her up ,', None, None, None, 0), ("I do n't know", None, None, None, 0), ('if we can really take her seriously', None, None, None, 0), ("and that 's really sad .", None, None, None, 1), ("Crowe also does n't seem like the kind of person", None, None, None, 0), ('to be racist', None, None, None, 0), ('or to bully someone for absolutely no reason , either .', None, None, None, 1)]]
+Leaf:  N Temporal I just read the article
+Leaf:  S span and I am so surprised
+Leaf:  N Attribution that this happened .
+Inner:  N Temporal None Attribution SN
+Inner:  N Elaborate None Temporal NN
+Leaf:  N Explanation I feel really embarrassed for her
+Leaf:  N Elaborate because it seems obvious that she 's the one
+Leaf:  S span starting trouble
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Explanation NS
+Leaf:  S span but I worry
+Leaf:  S span that she might have some sort of mental illness or disorder that she really did n't realize
+Leaf:  N Attribution what she said
+Inner:  N Attribution None Attribution SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span and that makes me feel bad for her . I can understand her concerns about racism
+Leaf:  S span but I think
+Leaf:  N Attribution that she 's just not very credible in this case .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Joint I just feel like we need to be really sensitive towards racism
+Leaf:  N Background and keep an open mind
+Leaf:  S span when it happens ,
+Inner:  N Joint None Background NS
+Inner:  S span None Joint NN
+Leaf:  N Joint but considering that there were other people there
+Leaf:  N Joint and absolutely no one is backing her up ,
+Inner:  S span None Joint NN
+Leaf:  S span I do n't know
+Leaf:  N Attribution if we can really take her seriously
+Inner:  N Background None Attribution SN
+Inner:  N Evaluation None Background SN
+Leaf:  S span and that 's really sad .
+Inner:  N Contrast None Evaluation NS
+Inner:  S span None Contrast SN
+Inner:  N Joint None Evaluation NS
+Leaf:  N Elaborate Crowe also does n't seem like the kind of person
+Leaf:  N Joint to be racist
+Leaf:  N Joint or to bully someone for absolutely no reason , either .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Inner:  Root None None Joint NN
+[('I just read the article', None, None, None, 0), ('and I am so surprised', None, None, None, 0), ('that this happened .', None, None, None, 1), ('I feel really embarrassed for her', None, None, None, 0), ("because it seems obvious that she 's the one", None, None, None, 0), ('starting trouble', None, None, None, 0), ('but I worry', None, None, None, 0), ("that she might have some sort of mental illness or disorder that she really did n't realize", None, None, None, 0), ('what she said', None, None, None, 0), ('and that makes me feel bad for her . I can understand her concerns about racism', None, None, None, 0), ('but I think', None, None, None, 0), ("that she 's just not very credible in this case .", None, None, None, 1), ('I just feel like we need to be really sensitive towards racism', None, None, None, 0), ('and keep an open mind', None, None, None, 0), ('when it happens ,', None, None, None, 0), ('but considering that there were other people there', None, None, None, 0), ('and absolutely no one is backing her up ,', None, None, None, 0), ("I do n't know", None, None, None, 0), ('if we can really take her seriously', None, None, None, 0), ("and that 's really sad .", None, None, None, 1), ("Crowe also does n't seem like the kind of person", None, None, None, 0), ('to be racist', None, None, None, 0), ('or to bully someone for absolutely no reason , either .', None, None, None, 1)]

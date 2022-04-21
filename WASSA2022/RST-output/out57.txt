@@ -1,0 +1,41 @@
+=====================> [[('I had heard about the huge fires', None, None, None, 0), ('burning in the Indonesia area', None, None, None, 0), ('and the haze clouds', None, None, None, 0), ('they are producing', None, None, None, 0), ("but I did n't realize", None, None, None, 0), ('it was so bad .', None, None, None, 1), ('Apparently there is a statistical study', None, None, None, 0), ('that says', None, None, None, 0), ('100,000 people have been killed by this .', None, None, None, 1), ('The researchers tried to count " early deaths "', None, None, None, 0), ('and got that figure .', None, None, None, 1), ('I suspect', None, None, None, 0), ('the root problem is corruption . Some of the business owners in Indonesia and Malaysia are extremely rich', None, None, None, 0), ('and can act with impunity ,', None, None, None, 0), ('even though their actions cause great harm to the environment and to humans near and far .', None, None, None, 1), ('Maybe they should be charged with crimes for the deaths . On the other hand I dislike the idea', None, None, None, 0), ('of people', None, None, None, 0), ('being convicted of crimes', None, None, None, 0), ('via statistical analysis .', None, None, None, 1), ('It is too easy to manipulate .', None, None, None, 1)]]
+Leaf:  N Elaborate I had heard about the huge fires
+Leaf:  S span burning in the Indonesia area
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and the haze clouds
+Leaf:  S span they are producing
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Leaf:  S span but I did n't realize
+Leaf:  N Attribution it was so bad .
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Elaborate Apparently there is a statistical study
+Leaf:  S span that says
+Leaf:  N Attribution 100,000 people have been killed by this .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Temporal The researchers tried to count " early deaths "
+Leaf:  N Temporal and got that figure .
+Inner:  S span None Temporal NN
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I suspect
+Leaf:  N Joint the root problem is corruption . Some of the business owners in Indonesia and Malaysia are extremely rich
+Leaf:  N Joint and can act with impunity ,
+Inner:  N Contrast None Joint NN
+Leaf:  S span even though their actions cause great harm to the environment and to humans near and far .
+Inner:  N Attribution None Contrast NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Elaborate Maybe they should be charged with crimes for the deaths . On the other hand I dislike the idea
+Leaf:  N Elaborate of people
+Leaf:  N Manner-Means being convicted of crimes
+Leaf:  S span via statistical analysis .
+Inner:  S span None Manner-Means NS
+Inner:  S span None Elaborate NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span It is too easy to manipulate .
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I had heard about the huge fires', None, None, None, 0), ('burning in the Indonesia area', None, None, None, 0), ('and the haze clouds', None, None, None, 0), ('they are producing', None, None, None, 0), ("but I did n't realize", None, None, None, 0), ('it was so bad .', None, None, None, 1), ('Apparently there is a statistical study', None, None, None, 0), ('that says', None, None, None, 0), ('100,000 people have been killed by this .', None, None, None, 1), ('The researchers tried to count " early deaths "', None, None, None, 0), ('and got that figure .', None, None, None, 1), ('I suspect', None, None, None, 0), ('the root problem is corruption . Some of the business owners in Indonesia and Malaysia are extremely rich', None, None, None, 0), ('and can act with impunity ,', None, None, None, 0), ('even though their actions cause great harm to the environment and to humans near and far .', None, None, None, 1), ('Maybe they should be charged with crimes for the deaths . On the other hand I dislike the idea', None, None, None, 0), ('of people', None, None, None, 0), ('being convicted of crimes', None, None, None, 0), ('via statistical analysis .', None, None, None, 1), ('It is too easy to manipulate .', None, None, None, 1)]

@@ -1,0 +1,15 @@
+=====================> [[('I really think', None, None, None, 0), ('everyone should read this article .', None, None, None, 1), ('This story shows perfectly', None, None, None, 0), ('how damaging and dangerous guns can be to all people on both sides of the law .', None, None, None, 1), ('This is why this country needs to make it harder for everyone to be able to obtain a gun .', None, None, None, 1), ('This is especially true to those', None, None, None, 0), ('who have been involved in domestic and sexual abuse incidents .', None, None, None, 1)]]
+Leaf:  S span I really think
+Leaf:  N Attribution everyone should read this article .
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span This story shows perfectly
+Leaf:  N Attribution how damaging and dangerous guns can be to all people on both sides of the law .
+Inner:  N Cause None Attribution SN
+Leaf:  N Elaborate This is why this country needs to make it harder for everyone to be able to obtain a gun .
+Leaf:  N Elaborate This is especially true to those
+Leaf:  S span who have been involved in domestic and sexual abuse incidents .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Cause NS
+Inner:  Root None None Elaborate NS
+[('I really think', None, None, None, 0), ('everyone should read this article .', None, None, None, 1), ('This story shows perfectly', None, None, None, 0), ('how damaging and dangerous guns can be to all people on both sides of the law .', None, None, None, 1), ('This is why this country needs to make it harder for everyone to be able to obtain a gun .', None, None, None, 1), ('This is especially true to those', None, None, None, 0), ('who have been involved in domestic and sexual abuse incidents .', None, None, None, 1)]

@@ -1,0 +1,33 @@
+=====================> [[('So I just read an article about a new lawsuit', None, None, None, 0), ('that is happening .', None, None, None, 1), ('There is a group of women', None, None, None, 0), ("who are suing L'Oréal .", None, None, None, 1), ('Apparently after using one of their prosucts', None, None, None, 0), ('that was supposed to give them nice and thick hair', None, None, None, 0), ('it actually made them go bald', None, None, None, 0), ('and left them with blisters and stuff on their heads . How messed up is that ? Imagine using some hair product', None, None, None, 0), ('and then having it ruin your head .', None, None, None, 1), ('I hope', None, None, None, 0), ('they win the suit', None, None, None, 0), ('and get all of the 5 million', None, None, None, 0), ('that they are asking for .', None, None, None, 1), ('If you know anyone', None, None, None, 0), ("who uses L'Oréal", None, None, None, 0), ('you may want to advise them against it in the future .', None, None, None, 1)]]
+Leaf:  N Elaborate So I just read an article about a new lawsuit
+Leaf:  S span that is happening .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate There is a group of women
+Leaf:  S span who are suing L'Oréal .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate Apparently after using one of their prosucts
+Leaf:  S span that was supposed to give them nice and thick hair
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Joint it actually made them go bald
+Leaf:  N Temporal and left them with blisters and stuff on their heads . How messed up is that ? Imagine using some hair product
+Leaf:  N Temporal and then having it ruin your head .
+Inner:  N Joint None Temporal NN
+Inner:  N Same-Unit None Joint NN
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span I hope
+Leaf:  N Joint they win the suit
+Leaf:  N Elaborate and get all of the 5 million
+Leaf:  S span that they are asking for .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate If you know anyone
+Leaf:  S span who uses L'Oréal
+Inner:  S span None Elaborate NS
+Leaf:  N Condition you may want to advise them against it in the future .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('So I just read an article about a new lawsuit', None, None, None, 0), ('that is happening .', None, None, None, 1), ('There is a group of women', None, None, None, 0), ("who are suing L'Oréal .", None, None, None, 1), ('Apparently after using one of their prosucts', None, None, None, 0), ('that was supposed to give them nice and thick hair', None, None, None, 0), ('it actually made them go bald', None, None, None, 0), ('and left them with blisters and stuff on their heads . How messed up is that ? Imagine using some hair product', None, None, None, 0), ('and then having it ruin your head .', None, None, None, 1), ('I hope', None, None, None, 0), ('they win the suit', None, None, None, 0), ('and get all of the 5 million', None, None, None, 0), ('that they are asking for .', None, None, None, 1), ('If you know anyone', None, None, None, 0), ("who uses L'Oréal", None, None, None, 0), ('you may want to advise them against it in the future .', None, None, None, 1)]

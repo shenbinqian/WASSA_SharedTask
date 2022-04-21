@@ -1,0 +1,17 @@
+=====================> [[('I had no earthly idea', None, None, None, 0), ('wearing contact lenses required this amount of discipline', None, None, None, 0), ('in order to avoid potential problems .', None, None, None, 1), ('I would much prefer to stick with glasses .', None, None, None, 1), ("What particularly concerns me is the potential for scarring on the cornea and any possible loss of visual acuity . Frankly , I do n't like the idea", None, None, None, 0), ('of sticking something in my eye', None, None, None, 0), ('to begin with ,', None, None, None, 0), ('and this has turned me off from contact lenses forever .', None, None, None, 1)]]
+Leaf:  S span I had no earthly idea
+Leaf:  N Enablement wearing contact lenses required this amount of discipline
+Leaf:  S span in order to avoid potential problems .
+Inner:  N Attribution None Enablement NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Evaluation I would much prefer to stick with glasses .
+Leaf:  N Elaborate What particularly concerns me is the potential for scarring on the cornea and any possible loss of visual acuity . Frankly , I do n't like the idea
+Leaf:  N Elaborate of sticking something in my eye
+Leaf:  S span to begin with ,
+Inner:  S span None Elaborate NS
+Inner:  N Cause None Elaborate NS
+Leaf:  S span and this has turned me off from contact lenses forever .
+Inner:  S span None Cause NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Evaluation NS
+[('I had no earthly idea', None, None, None, 0), ('wearing contact lenses required this amount of discipline', None, None, None, 0), ('in order to avoid potential problems .', None, None, None, 1), ('I would much prefer to stick with glasses .', None, None, None, 1), ("What particularly concerns me is the potential for scarring on the cornea and any possible loss of visual acuity . Frankly , I do n't like the idea", None, None, None, 0), ('of sticking something in my eye', None, None, None, 0), ('to begin with ,', None, None, None, 0), ('and this has turned me off from contact lenses forever .', None, None, None, 1)]

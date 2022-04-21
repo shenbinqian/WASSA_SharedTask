@@ -1,0 +1,21 @@
+=====================> [[('I understand', None, None, None, 0), ('why this is a problem', None, None, None, 0), ("but I do n't see any reason", None, None, None, 0), ('to get upset over it .', None, None, None, 1), ('It seemed like they were writing about it with more emotion', None, None, None, 0), ('than the situation deserves .', None, None, None, 1), ('Trees die all the time .', None, None, None, 1), ("They 're replaced by something else .", None, None, None, 1), ("It 's extremely common .", None, None, None, 1), ("I get that it 's worth given current climate conditions but still .", None, None, None, 1)]]
+Leaf:  S span I understand
+Leaf:  N Attribution why this is a problem
+Inner:  N Contrast None Attribution SN
+Leaf:  N Elaborate but I do n't see any reason
+Leaf:  S span to get upset over it .
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  N Comparison It seemed like they were writing about it with more emotion
+Leaf:  S span than the situation deserves .
+Inner:  S span None Comparison NS
+Inner:  N Summary None Evaluation NS
+Leaf:  N Joint Trees die all the time .
+Leaf:  N Joint They 're replaced by something else .
+Inner:  N Elaborate None Joint NN
+Leaf:  S span It 's extremely common .
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I get that it 's worth given current climate conditions but still .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[('I understand', None, None, None, 0), ('why this is a problem', None, None, None, 0), ("but I do n't see any reason", None, None, None, 0), ('to get upset over it .', None, None, None, 1), ('It seemed like they were writing about it with more emotion', None, None, None, 0), ('than the situation deserves .', None, None, None, 1), ('Trees die all the time .', None, None, None, 1), ("They 're replaced by something else .", None, None, None, 1), ("It 's extremely common .", None, None, None, 1), ("I get that it 's worth given current climate conditions but still .", None, None, None, 1)]

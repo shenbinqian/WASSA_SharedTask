@@ -1,0 +1,25 @@
+=====================> [[('Its sad', None, None, None, 0), ('that', None, None, None, 0), ('now', None, None, None, 0), ('and', None, None, None, 0), ('moving forward', None, None, None, 0), ('in my lifetime we will see many older actors and actresses succumb to death in its many forms .', None, None, None, 1), ('It makes me feel for those people', None, None, None, 0), ('and gain a sense of time in a view', None, None, None, 0), ('that is not endless .', None, None, None, 1), ('I can put myself in the shoes of someone', None, None, None, 0), ('older and battling health problems', None, None, None, 0), ('and it saddens me to do so .', None, None, None, 1)]]
+Leaf:  S span Its sad
+Leaf:  N Same-Unit that
+Leaf:  N Joint now
+Leaf:  N Elaborate and
+Leaf:  S span moving forward
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit in my lifetime we will see many older actors and actresses succumb to death in its many forms .
+Inner:  N Joint None Same-Unit NN
+Inner:  N Same-Unit None Joint NN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Joint It makes me feel for those people
+Leaf:  N Elaborate and gain a sense of time in a view
+Leaf:  S span that is not endless .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate I can put myself in the shoes of someone
+Leaf:  S span older and battling health problems
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span and it saddens me to do so .
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Its sad', None, None, None, 0), ('that', None, None, None, 0), ('now', None, None, None, 0), ('and', None, None, None, 0), ('moving forward', None, None, None, 0), ('in my lifetime we will see many older actors and actresses succumb to death in its many forms .', None, None, None, 1), ('It makes me feel for those people', None, None, None, 0), ('and gain a sense of time in a view', None, None, None, 0), ('that is not endless .', None, None, None, 1), ('I can put myself in the shoes of someone', None, None, None, 0), ('older and battling health problems', None, None, None, 0), ('and it saddens me to do so .', None, None, None, 1)]

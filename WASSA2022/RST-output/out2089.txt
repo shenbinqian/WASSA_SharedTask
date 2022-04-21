@@ -1,0 +1,11 @@
+=====================> [[('Wow just read an article about tainted water in California .', None, None, None, 1), ('Seems like over a hundred thousand people have water', None, None, None, 0), ('that is unfit for drinking', None, None, None, 0), ("yet they have n't been able to get the problem fixed in years due to slow legislation and other roadblocks .", None, None, None, 1), ("Ca n't imagine not having access to clean water for me or my kids !", None, None, None, 1)]]
+Leaf:  N Elaborate Wow just read an article about tainted water in California .
+Leaf:  N Elaborate Seems like over a hundred thousand people have water
+Leaf:  S span that is unfit for drinking
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast yet they have n't been able to get the problem fixed in years due to slow legislation and other roadblocks .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span Ca n't imagine not having access to clean water for me or my kids !
+Inner:  Root None None Evaluation NS
+[('Wow just read an article about tainted water in California .', None, None, None, 1), ('Seems like over a hundred thousand people have water', None, None, None, 0), ('that is unfit for drinking', None, None, None, 0), ("yet they have n't been able to get the problem fixed in years due to slow legislation and other roadblocks .", None, None, None, 1), ("Ca n't imagine not having access to clean water for me or my kids !", None, None, None, 1)]

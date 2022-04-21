@@ -1,0 +1,19 @@
+=====================> [[("It 's too bad that we are still in the middle east .", None, None, None, 1), ('I wish', None, None, None, 0), ('Trump would just pull out of the middle east entirely', None, None, None, 0), ('so our soldiers will stop being targets for all the countries', None, None, None, 0), ('that hate us .', None, None, None, 1), ('The longer we are there', None, None, None, 0), ('the easier we make it for them', None, None, None, 0), ('to inflict damage to our troops .', None, None, None, 1), ('It must not be easy for them to be there away from their families .', None, None, None, 1)]]
+Leaf:  N Evaluation It 's too bad that we are still in the middle east .
+Leaf:  S span I wish
+Leaf:  N Enablement Trump would just pull out of the middle east entirely
+Leaf:  N Elaborate so our soldiers will stop being targets for all the countries
+Leaf:  S span that hate us .
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Enablement NS
+Inner:  N Explanation None Attribution SN
+Leaf:  N Temporal The longer we are there
+Leaf:  N Elaborate the easier we make it for them
+Leaf:  S span to inflict damage to our troops .
+Inner:  N Temporal None Elaborate NS
+Inner:  N Evaluation None Temporal NN
+Leaf:  S span It must not be easy for them to be there away from their families .
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[("It 's too bad that we are still in the middle east .", None, None, None, 1), ('I wish', None, None, None, 0), ('Trump would just pull out of the middle east entirely', None, None, None, 0), ('so our soldiers will stop being targets for all the countries', None, None, None, 0), ('that hate us .', None, None, None, 1), ('The longer we are there', None, None, None, 0), ('the easier we make it for them', None, None, None, 0), ('to inflict damage to our troops .', None, None, None, 1), ('It must not be easy for them to be there away from their families .', None, None, None, 1)]

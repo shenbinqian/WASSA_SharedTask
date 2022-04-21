@@ -1,0 +1,27 @@
+=====================> [[('A nineteen-year-old college student from Texas A&M ran into a police car', None, None, None, 0), ('while she was taking a topless photo of herself', None, None, None, 0), ('which she was sending to her boyfriend .', None, None, None, 1), ('The police said', None, None, None, 0), ('she also had an open bottle of wine her the cup holder of her car .', None, None, None, 1), ('She told the police', None, None, None, 0), ('she was taking a photo', None, None, None, 0), ('to send to her boyfriend', None, None, None, 0), ('while she was stopped at a stop light .', None, None, None, 1), ('She was arrested on the suspicion', None, None, None, 0), ('of driving while intoxicated', None, None, None, 0), ('and then released on a $ 2,000 bond .', None, None, None, 1), ('The accident happened about 100 miles north of Houston , Texas .', None, None, None, 1)]]
+Leaf:  N Temporal A nineteen-year-old college student from Texas A&M ran into a police car
+Leaf:  N Elaborate while she was taking a topless photo of herself
+Leaf:  S span which she was sending to her boyfriend .
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Temporal NS
+Leaf:  S span The police said
+Leaf:  N Attribution she also had an open bottle of wine her the cup holder of her car .
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span She told the police
+Leaf:  N Elaborate she was taking a photo
+Leaf:  N Temporal to send to her boyfriend
+Leaf:  S span while she was stopped at a stop light .
+Inner:  S span None Temporal NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate She was arrested on the suspicion
+Leaf:  S span of driving while intoxicated
+Inner:  N Temporal None Elaborate NS
+Leaf:  N Temporal and then released on a $ 2,000 bond .
+Inner:  S span None Temporal NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span The accident happened about 100 miles north of Houston , Texas .
+Inner:  Root None None Elaborate NS
+[('A nineteen-year-old college student from Texas A&M ran into a police car', None, None, None, 0), ('while she was taking a topless photo of herself', None, None, None, 0), ('which she was sending to her boyfriend .', None, None, None, 1), ('The police said', None, None, None, 0), ('she also had an open bottle of wine her the cup holder of her car .', None, None, None, 1), ('She told the police', None, None, None, 0), ('she was taking a photo', None, None, None, 0), ('to send to her boyfriend', None, None, None, 0), ('while she was stopped at a stop light .', None, None, None, 1), ('She was arrested on the suspicion', None, None, None, 0), ('of driving while intoxicated', None, None, None, 0), ('and then released on a $ 2,000 bond .', None, None, None, 1), ('The accident happened about 100 miles north of Houston , Texas .', None, None, None, 1)]

@@ -1,0 +1,29 @@
+=====================> [[('Here is another interesting story', None, None, None, 0), ('but this one is about squrriels and leprosy .', None, None, None, 1), ('In the UK they found', None, None, None, 0), ('that red squrriels are getting leprosy', None, None, None, 0), ('and that never happened before .', None, None, None, 1), ('The article also mentions', None, None, None, 0), ('that Armadillos get leprosy', None, None, None, 0), ("also which I did n't know .", None, None, None, 1), ('I always thought', None, None, None, 0), ('it was a disease', None, None, None, 0), ('that only affected humans and mostly in biblical times', None, None, None, 0), ('although I guess it is not an issue now', None, None, None, 0), ('just because we learned', None, None, None, 0), ('how to top it from spreading .', None, None, None, 1)]]
+Leaf:  N Elaborate Here is another interesting story
+Leaf:  S span but this one is about squrriels and leprosy .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span In the UK they found
+Leaf:  N Comparison that red squrriels are getting leprosy
+Leaf:  N Comparison and that never happened before .
+Inner:  N Attribution None Comparison NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span The article also mentions
+Leaf:  N Attribution that Armadillos get leprosy
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span also which I did n't know .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Explanation None Elaborate NS
+Leaf:  S span I always thought
+Leaf:  N Elaborate it was a disease
+Leaf:  S span that only affected humans and mostly in biblical times
+Inner:  S span None Elaborate NS
+Leaf:  N Explanation although I guess it is not an issue now
+Leaf:  S span just because we learned
+Leaf:  N Attribution how to top it from spreading .
+Inner:  S span None Attribution SN
+Inner:  N Contrast None Explanation NS
+Inner:  N Attribution None Contrast SN
+Inner:  S span None Attribution SN
+Inner:  Root None None Explanation NS
+[('Here is another interesting story', None, None, None, 0), ('but this one is about squrriels and leprosy .', None, None, None, 1), ('In the UK they found', None, None, None, 0), ('that red squrriels are getting leprosy', None, None, None, 0), ('and that never happened before .', None, None, None, 1), ('The article also mentions', None, None, None, 0), ('that Armadillos get leprosy', None, None, None, 0), ("also which I did n't know .", None, None, None, 1), ('I always thought', None, None, None, 0), ('it was a disease', None, None, None, 0), ('that only affected humans and mostly in biblical times', None, None, None, 0), ('although I guess it is not an issue now', None, None, None, 0), ('just because we learned', None, None, None, 0), ('how to top it from spreading .', None, None, None, 1)]

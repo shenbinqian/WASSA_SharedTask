@@ -1,0 +1,23 @@
+=====================> [[('Leonard Cohen just died .', None, None, None, 1), ('Knew little about him', None, None, None, 0), ('but now see Ill have to look into his songs and writing .', None, None, None, 1), ('He was the epitome of the starving writer ,', None, None, None, 0), ('it seems .', None, None, None, 1), ('His popularity continued to grow', None, None, None, 0), ('as he aged , and he was able to reap some rewards ,', None, None, None, 0), ("but it did n't really catch up with his needs until recent years .", None, None, None, 1), ('He was a Buddhist monk , too .', None, None, None, 1), ('Had no idea .', None, None, None, 1), ('He clearly raised the bar in song writing .', None, None, None, 1)]]
+Leaf:  N Textual-Organization Leonard Cohen just died .
+Leaf:  S span Knew little about him
+Leaf:  N Contrast but now see Ill have to look into his songs and writing .
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Attribution He was the epitome of the starving writer ,
+Leaf:  S span it seems .
+Inner:  N Elaborate None Attribution NS
+Leaf:  N Temporal His popularity continued to grow
+Leaf:  N Temporal as he aged , and he was able to reap some rewards ,
+Inner:  N Contrast None Temporal NN
+Leaf:  S span but it did n't really catch up with his needs until recent years .
+Inner:  S span None Contrast NS
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Elaborate He was a Buddhist monk , too .
+Leaf:  S span Had no idea .
+Inner:  S span None Elaborate NS
+Leaf:  N Background He clearly raised the bar in song writing .
+Inner:  S span None Background SN
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('Leonard Cohen just died .', None, None, None, 1), ('Knew little about him', None, None, None, 0), ('but now see Ill have to look into his songs and writing .', None, None, None, 1), ('He was the epitome of the starving writer ,', None, None, None, 0), ('it seems .', None, None, None, 1), ('His popularity continued to grow', None, None, None, 0), ('as he aged , and he was able to reap some rewards ,', None, None, None, 0), ("but it did n't really catch up with his needs until recent years .", None, None, None, 1), ('He was a Buddhist monk , too .', None, None, None, 1), ('Had no idea .', None, None, None, 1), ('He clearly raised the bar in song writing .', None, None, None, 1)]

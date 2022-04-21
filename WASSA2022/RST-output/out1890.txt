@@ -1,0 +1,17 @@
+=====================> [[('In a time', None, None, None, 0), ('where it is important for people to limit their carbon footprint an alarming culprit is gaining notoriety', None, None, None, 0), ('because of its farting .', None, None, None, 1), ('Cows produce a lot of methane from their backsides', None, None, None, 0), ('that eats away at the ozone', None, None, None, 0), ('and makes it dangerous down here on the earth surface .', None, None, None, 1), ('People feel its imporant that more people become vegetarian', None, None, None, 0), ('because it would limit the amount of cows and the level of methane in the air .', None, None, None, 1)]]
+Leaf:  N Elaborate In a time
+Leaf:  S span where it is important for people to limit their carbon footprint an alarming culprit is gaining notoriety
+Inner:  N Cause None Elaborate NS
+Leaf:  S span because of its farting .
+Inner:  N Elaborate None Cause NS
+Leaf:  N Elaborate Cows produce a lot of methane from their backsides
+Leaf:  N Joint that eats away at the ozone
+Leaf:  N Joint and makes it dangerous down here on the earth surface .
+Inner:  S span None Joint NN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  N Cause People feel its imporant that more people become vegetarian
+Leaf:  S span because it would limit the amount of cows and the level of methane in the air .
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('In a time', None, None, None, 0), ('where it is important for people to limit their carbon footprint an alarming culprit is gaining notoriety', None, None, None, 0), ('because of its farting .', None, None, None, 1), ('Cows produce a lot of methane from their backsides', None, None, None, 0), ('that eats away at the ozone', None, None, None, 0), ('and makes it dangerous down here on the earth surface .', None, None, None, 1), ('People feel its imporant that more people become vegetarian', None, None, None, 0), ('because it would limit the amount of cows and the level of methane in the air .', None, None, None, 1)]

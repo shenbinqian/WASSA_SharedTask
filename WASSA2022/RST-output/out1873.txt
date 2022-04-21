@@ -1,0 +1,21 @@
+=====================> [[('The band', None, None, None, 0), ('that was playing during the attack on the Bataclan', None, None, None, 0), ('in France returned there', None, None, None, 0), ('to honor the victims recently .', None, None, None, 1), ('It was very sad', None, None, None, 0), ('because it was such a large and brutal massacre .', None, None, None, 1), ('So many lives were lost', None, None, None, 0), ('that day', None, None, None, 0), ('and for no reason what so ever . It is just very depressing to think', None, None, None, 0), ('about what those people must have went through .', None, None, None, 1)]]
+Leaf:  N Elaborate The band
+Leaf:  S span that was playing during the attack on the Bataclan
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Enablement in France returned there
+Leaf:  S span to honor the victims recently .
+Inner:  N Same-Unit None Enablement NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Explanation It was very sad
+Leaf:  S span because it was such a large and brutal massacre .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Background So many lives were lost
+Leaf:  N Temporal that day
+Leaf:  S span and for no reason what so ever . It is just very depressing to think
+Leaf:  N Attribution about what those people must have went through .
+Inner:  N Temporal None Attribution SN
+Inner:  S span None Temporal NN
+Inner:  S span None Background NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Evaluation NS
+[('The band', None, None, None, 0), ('that was playing during the attack on the Bataclan', None, None, None, 0), ('in France returned there', None, None, None, 0), ('to honor the victims recently .', None, None, None, 1), ('It was very sad', None, None, None, 0), ('because it was such a large and brutal massacre .', None, None, None, 1), ('So many lives were lost', None, None, None, 0), ('that day', None, None, None, 0), ('and for no reason what so ever . It is just very depressing to think', None, None, None, 0), ('about what those people must have went through .', None, None, None, 1)]

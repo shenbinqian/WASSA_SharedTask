@@ -1,0 +1,35 @@
+=====================> [[("It 's good", None, None, None, 0), ("that they did n't have to hurt the emu .", None, None, None, 1), ('Every time', None, None, None, 0), ('I hear about one of these animal escapes', None, None, None, 0), ('I get the feeling', None, None, None, 0), ('that someone is going to end up killing the animal ;', None, None, None, 0), ('I expect either an officer with legal authority or some stupid maniac with a gun', None, None, None, 0), ('who wants to kill something', None, None, None, 0), ('exotic is going to end up shooting it .', None, None, None, 1), ('I thought', None, None, None, 0), ('I saw a wild bird like run across the road one morning', None, None, None, 0), ('when I was driving to work .', None, None, None, 1), ("It was n't big enough to be an emu", None, None, None, 0), ('but it was similar .', None, None, None, 1), ('I was worried', None, None, None, 0), ('that someone was going to kill it ,', None, None, None, 0), ('whatever it was .', None, None, None, 1)]]
+Leaf:  S span It 's good
+Leaf:  N Attribution that they did n't have to hurt the emu .
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate Every time
+Leaf:  S span I hear about one of these animal escapes
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate I get the feeling
+Leaf:  S span that someone is going to end up killing the animal ;
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  N Elaborate I expect either an officer with legal authority or some stupid maniac with a gun
+Leaf:  N Elaborate who wants to kill something
+Leaf:  S span exotic is going to end up shooting it .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span I thought
+Leaf:  N Temporal I saw a wild bird like run across the road one morning
+Leaf:  N Temporal when I was driving to work .
+Inner:  N Attribution None Temporal NN
+Inner:  N Elaborate None Attribution SN
+Leaf:  S span It was n't big enough to be an emu
+Leaf:  N Contrast but it was similar .
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I was worried
+Leaf:  N Elaborate that someone was going to kill it ,
+Leaf:  S span whatever it was .
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  Root None None Explanation NS
+[("It 's good", None, None, None, 0), ("that they did n't have to hurt the emu .", None, None, None, 1), ('Every time', None, None, None, 0), ('I hear about one of these animal escapes', None, None, None, 0), ('I get the feeling', None, None, None, 0), ('that someone is going to end up killing the animal ;', None, None, None, 0), ('I expect either an officer with legal authority or some stupid maniac with a gun', None, None, None, 0), ('who wants to kill something', None, None, None, 0), ('exotic is going to end up shooting it .', None, None, None, 1), ('I thought', None, None, None, 0), ('I saw a wild bird like run across the road one morning', None, None, None, 0), ('when I was driving to work .', None, None, None, 1), ("It was n't big enough to be an emu", None, None, None, 0), ('but it was similar .', None, None, None, 1), ('I was worried', None, None, None, 0), ('that someone was going to kill it ,', None, None, None, 0), ('whatever it was .', None, None, None, 1)]

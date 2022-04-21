@@ -1,0 +1,21 @@
+=====================> [[('I am so moved', None, None, None, 0), ('and jealous really of the people of south Korea .', None, None, None, 1), ('For them to protest there President ,', None, None, None, 0), ('who is totally wrong for all she did ,', None, None, None, 0), ('is somthing', None, None, None, 0), ('to be admired .', None, None, None, 1), ('I love the spirit of the people', None, None, None, 0), ('to not stop', None, None, None, 0), ('untill she leaves office .', None, None, None, 1), ('If only it was that easy for us AMericans to do the same with Trump .', None, None, None, 1)]]
+Leaf:  N Joint I am so moved
+Leaf:  N Joint and jealous really of the people of south Korea .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Elaborate For them to protest there President ,
+Leaf:  S span who is totally wrong for all she did ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate is somthing
+Leaf:  S span to be admired .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  S span None Same-Unit NN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Elaborate I love the spirit of the people
+Leaf:  N Temporal to not stop
+Leaf:  S span untill she leaves office .
+Inner:  S span None Temporal NS
+Inner:  S span None Elaborate NS
+Inner:  N Comparison None Evaluation NS
+Leaf:  S span If only it was that easy for us AMericans to do the same with Trump .
+Inner:  Root None None Comparison NS
+[('I am so moved', None, None, None, 0), ('and jealous really of the people of south Korea .', None, None, None, 1), ('For them to protest there President ,', None, None, None, 0), ('who is totally wrong for all she did ,', None, None, None, 0), ('is somthing', None, None, None, 0), ('to be admired .', None, None, None, 1), ('I love the spirit of the people', None, None, None, 0), ('to not stop', None, None, None, 0), ('untill she leaves office .', None, None, None, 1), ('If only it was that easy for us AMericans to do the same with Trump .', None, None, None, 1)]

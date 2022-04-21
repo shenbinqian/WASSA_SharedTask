@@ -1,0 +1,23 @@
+=====================> [[('I absolutely hate seeing this kind of violent racism in the world .', None, None, None, 1), ('Too many people think', None, None, None, 0), ('that', None, None, None, 0), ('just because someone is different', None, None, None, 0), ('they are less worthy of life than themselves .', None, None, None, 1), ('It is honestly just terrible . It feels like we are seeing more and more of this everyday .', None, None, None, 1), ('Humans really need to come together', None, None, None, 0), ('and realize', None, None, None, 0), ('that we are all the same ,', None, None, None, 0), ('and there is not reason', None, None, None, 0), ('to cause each other harm and pain such as this .', None, None, None, 1)]]
+Leaf:  N Explanation I absolutely hate seeing this kind of violent racism in the world .
+Leaf:  S span Too many people think
+Leaf:  N Same-Unit that
+Leaf:  S span just because someone is different
+Leaf:  N Elaborate they are less worthy of life than themselves .
+Inner:  N Same-Unit None Elaborate SN
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span It is honestly just terrible . It feels like we are seeing more and more of this everyday .
+Inner:  S span None Evaluation NS
+Inner:  N Evaluation None Explanation NS
+Leaf:  N Joint Humans really need to come together
+Leaf:  S span and realize
+Leaf:  N Joint that we are all the same ,
+Leaf:  N Elaborate and there is not reason
+Leaf:  S span to cause each other harm and pain such as this .
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  Root None None Evaluation NS
+[('I absolutely hate seeing this kind of violent racism in the world .', None, None, None, 1), ('Too many people think', None, None, None, 0), ('that', None, None, None, 0), ('just because someone is different', None, None, None, 0), ('they are less worthy of life than themselves .', None, None, None, 1), ('It is honestly just terrible . It feels like we are seeing more and more of this everyday .', None, None, None, 1), ('Humans really need to come together', None, None, None, 0), ('and realize', None, None, None, 0), ('that we are all the same ,', None, None, None, 0), ('and there is not reason', None, None, None, 0), ('to cause each other harm and pain such as this .', None, None, None, 1)]

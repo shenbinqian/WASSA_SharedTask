@@ -1,0 +1,25 @@
+=====================> [[('Hey just wanted to write you a note', None, None, None, 0), ('and see', None, None, None, 0), ('if you have been watching the news .', None, None, None, 1), ('They are reporting', None, None, None, 0), ('finding a mass grave near mosul of 100 dead bodies', None, None, None, 0), ('most of them decapitated', None, None, None, 0), ('and some thirty three thousand people', None, None, None, 0), ('that is displaced .', None, None, None, 1), ('that is terrible .', None, None, None, 1), ('We need to do something .', None, None, None, 1), ('The US is setting up service centers families', None, None, None, 0), ('which is a great idea .', None, None, None, 1)]]
+Leaf:  N Joint Hey just wanted to write you a note
+Leaf:  S span and see
+Leaf:  N Attribution if you have been watching the news .
+Inner:  N Joint None Attribution SN
+Inner:  N Elaborate None Joint NN
+Leaf:  S span They are reporting
+Leaf:  N Elaborate finding a mass grave near mosul of 100 dead bodies
+Leaf:  S span most of them decapitated
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate and some thirty three thousand people
+Leaf:  S span that is displaced .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Attribution None Same-Unit NN
+Inner:  N Evaluation None Attribution SN
+Leaf:  S span that is terrible .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Elaborate We need to do something .
+Leaf:  N Evaluation The US is setting up service centers families
+Leaf:  S span which is a great idea .
+Inner:  S span None Evaluation NS
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('Hey just wanted to write you a note', None, None, None, 0), ('and see', None, None, None, 0), ('if you have been watching the news .', None, None, None, 1), ('They are reporting', None, None, None, 0), ('finding a mass grave near mosul of 100 dead bodies', None, None, None, 0), ('most of them decapitated', None, None, None, 0), ('and some thirty three thousand people', None, None, None, 0), ('that is displaced .', None, None, None, 1), ('that is terrible .', None, None, None, 1), ('We need to do something .', None, None, None, 1), ('The US is setting up service centers families', None, None, None, 0), ('which is a great idea .', None, None, None, 1)]

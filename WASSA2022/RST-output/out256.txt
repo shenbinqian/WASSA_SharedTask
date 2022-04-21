@@ -1,0 +1,21 @@
+=====================> [[('This guy got fucked .', None, None, None, 1), ('It sucks for him ,', None, None, None, 0), ('but there ’s nothing', None, None, None, 0), ('you can really do about these things ,', None, None, None, 0), ('besides deal with it .', None, None, None, 1), ('There ’s always going to be inefficiency and points of failure in any bureaucratic system right ?', None, None, None, 1), ('Maybe the cops will get their shit together', None, None, None, 0), ('and sort it out for him ,', None, None, None, 0), ('before he has to jump through all the bureaucratic hoops', None, None, None, 0), ('because of their initial mistake .', None, None, None, 1)]]
+Leaf:  N Evaluation This guy got fucked .
+Leaf:  S span It sucks for him ,
+Leaf:  N Elaborate but there ’s nothing
+Leaf:  S span you can really do about these things ,
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit besides deal with it .
+Inner:  N Contrast None Same-Unit NN
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Topic-Comment There ’s always going to be inefficiency and points of failure in any bureaucratic system right ?
+Leaf:  N Joint Maybe the cops will get their shit together
+Leaf:  N Joint and sort it out for him ,
+Inner:  N Temporal None Joint NN
+Leaf:  N Cause before he has to jump through all the bureaucratic hoops
+Leaf:  S span because of their initial mistake .
+Inner:  S span None Cause NS
+Inner:  N Topic-Comment None Temporal NS
+Inner:  S span None Topic-Comment NN
+Inner:  Root None None Evaluation NS
+[('This guy got fucked .', None, None, None, 1), ('It sucks for him ,', None, None, None, 0), ('but there ’s nothing', None, None, None, 0), ('you can really do about these things ,', None, None, None, 0), ('besides deal with it .', None, None, None, 1), ('There ’s always going to be inefficiency and points of failure in any bureaucratic system right ?', None, None, None, 1), ('Maybe the cops will get their shit together', None, None, None, 0), ('and sort it out for him ,', None, None, None, 0), ('before he has to jump through all the bureaucratic hoops', None, None, None, 0), ('because of their initial mistake .', None, None, None, 1)]

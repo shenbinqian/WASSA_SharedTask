@@ -1,0 +1,21 @@
+=====================> [[("I feel sorry for this person 's family .", None, None, None, 1), ('His children now have no father .', None, None, None, 1), ('You just never know what makes people commit terrible acts of evil .', None, None, None, 1), ('Life can be taken in the blink of an eye .', None, None, None, 1), ('You need to make sure', None, None, None, 0), ('all your loved ones know how much you care ,', None, None, None, 0), ('do as much good in the world', None, None, None, 0), ('as you can ,', None, None, None, 0), ('because you never know', None, None, None, 0), ('when your last day on this earth is going to be .', None, None, None, 1)]]
+Leaf:  N Explanation I feel sorry for this person 's family .
+Leaf:  S span His children now have no father .
+Inner:  N Explanation None Explanation NS
+Leaf:  S span You just never know what makes people commit terrible acts of evil .
+Inner:  N Summary None Explanation NS
+Leaf:  N Evaluation Life can be taken in the blink of an eye .
+Leaf:  S span You need to make sure
+Leaf:  N Joint all your loved ones know how much you care ,
+Leaf:  N Temporal do as much good in the world
+Leaf:  S span as you can ,
+Inner:  N Joint None Temporal NS
+Inner:  N Attribution None Joint NN
+Inner:  N Explanation None Attribution SN
+Leaf:  S span because you never know
+Leaf:  N Attribution when your last day on this earth is going to be .
+Inner:  S span None Attribution SN
+Inner:  S span None Explanation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Summary NS
+[("I feel sorry for this person 's family .", None, None, None, 1), ('His children now have no father .', None, None, None, 1), ('You just never know what makes people commit terrible acts of evil .', None, None, None, 1), ('Life can be taken in the blink of an eye .', None, None, None, 1), ('You need to make sure', None, None, None, 0), ('all your loved ones know how much you care ,', None, None, None, 0), ('do as much good in the world', None, None, None, 0), ('as you can ,', None, None, None, 0), ('because you never know', None, None, None, 0), ('when your last day on this earth is going to be .', None, None, None, 1)]

@@ -1,0 +1,21 @@
+=====================> [[('I have think', None, None, None, 0), ('is very good article', None, None, None, 0), ('and nice.he has promised the to be the most vigilant interrogator of the Obama administration from his perch on an oversight committee ,', None, None, None, 0), ('which republican cheered .', None, None, None, 1), ('this sentence i am very like .', None, None, None, 1), ('Numerous ballot initiatives', None, None, None, 0), ('focused on progressive caused', None, None, None, 0), ('could also give republican few reasons', None, None, None, 0), ('to turn out .', None, None, None, 1), ('The reason must important for the areas .', None, None, None, 1)]]
+Leaf:  N Same-Unit I have think
+Leaf:  N Joint is very good article
+Leaf:  N Joint and nice.he has promised the to be the most vigilant interrogator of the Obama administration from his perch on an oversight committee ,
+Inner:  N Elaborate None Joint NN
+Leaf:  S span which republican cheered .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Evaluation None Same-Unit NN
+Leaf:  S span this sentence i am very like .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate Numerous ballot initiatives
+Leaf:  S span focused on progressive caused
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Elaborate could also give republican few reasons
+Leaf:  S span to turn out .
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  S span The reason must important for the areas .
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('I have think', None, None, None, 0), ('is very good article', None, None, None, 0), ('and nice.he has promised the to be the most vigilant interrogator of the Obama administration from his perch on an oversight committee ,', None, None, None, 0), ('which republican cheered .', None, None, None, 1), ('this sentence i am very like .', None, None, None, 1), ('Numerous ballot initiatives', None, None, None, 0), ('focused on progressive caused', None, None, None, 0), ('could also give republican few reasons', None, None, None, 0), ('to turn out .', None, None, None, 1), ('The reason must important for the areas .', None, None, None, 1)]

@@ -1,0 +1,23 @@
+=====================> [[('An animal center did not take care of animals properly .', None, None, None, 1), ('There was complaints by an employee about horrid conditions', None, None, None, 0), ('that the owner did not do anything about .', None, None, None, 1), ('Animal centers are not regulated', None, None, None, 0), ('so the owners do whatever', None, None, None, 0), ('they want', None, None, None, 0), ('without consequences .', None, None, None, 1), ('Dogs died of heat exhaustion', None, None, None, 0), ('because they were not supervised', None, None, None, 0), ('and did not have proper ventalation in a room', None, None, None, 0), ('known to get vey hot .', None, None, None, 1)]]
+Leaf:  N Elaborate An animal center did not take care of animals properly .
+Leaf:  N Elaborate There was complaints by an employee about horrid conditions
+Leaf:  S span that the owner did not do anything about .
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Change None Elaborate NS
+Leaf:  S span Animal centers are not regulated
+Leaf:  N Elaborate so the owners do whatever
+Leaf:  N Manner-Means they want
+Leaf:  S span without consequences .
+Inner:  S span None Manner-Means NS
+Inner:  N Background None Elaborate NS
+Inner:  N Elaborate None Background SN
+Leaf:  N Cause Dogs died of heat exhaustion
+Leaf:  N Joint because they were not supervised
+Leaf:  N Elaborate and did not have proper ventalation in a room
+Leaf:  S span known to get vey hot .
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  N Topic-Change None Elaborate NS
+Inner:  Root None None Topic-Change NN
+[('An animal center did not take care of animals properly .', None, None, None, 1), ('There was complaints by an employee about horrid conditions', None, None, None, 0), ('that the owner did not do anything about .', None, None, None, 1), ('Animal centers are not regulated', None, None, None, 0), ('so the owners do whatever', None, None, None, 0), ('they want', None, None, None, 0), ('without consequences .', None, None, None, 1), ('Dogs died of heat exhaustion', None, None, None, 0), ('because they were not supervised', None, None, None, 0), ('and did not have proper ventalation in a room', None, None, None, 0), ('known to get vey hot .', None, None, None, 1)]

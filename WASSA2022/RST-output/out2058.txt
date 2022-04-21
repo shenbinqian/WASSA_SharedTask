@@ -1,0 +1,21 @@
+=====================> [[('Read this story from Afghanistan recently .', None, None, None, 1), ('Same old , same old ,', None, None, None, 0), ("' we regret the loss of innocent life ' ,", None, None, None, 0), ("' finish important mission ' , etc .", None, None, None, 1), ("What mission ? We 've accomplished nothing", None, None, None, 0), ('since driving Osama out of Afghanistan 17 years ago .', None, None, None, 1), ("It 's gon na be generations of war and loss of innocent life for nothing .", None, None, None, 1), ('Well , I guess it creates more terrorists', None, None, None, 0), ('which gives the military something to do ,', None, None, None, 0), ("but that 's hardly a good result .", None, None, None, 1)]]
+Leaf:  N Elaborate Read this story from Afghanistan recently .
+Leaf:  N Joint Same old , same old ,
+Leaf:  N Joint ' we regret the loss of innocent life ' ,
+Leaf:  N Joint ' finish important mission ' , etc .
+Inner:  N Joint None Joint NN
+Inner:  N Elaborate None Joint NN
+Leaf:  N Background What mission ? We 've accomplished nothing
+Leaf:  S span since driving Osama out of Afghanistan 17 years ago .
+Inner:  S span None Background NS
+Leaf:  N Evaluation It 's gon na be generations of war and loss of innocent life for nothing .
+Inner:  S span None Evaluation SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Elaborate NS
+Leaf:  N Cause Well , I guess it creates more terrorists
+Leaf:  S span which gives the military something to do ,
+Inner:  N Contrast None Cause NS
+Leaf:  S span but that 's hardly a good result .
+Inner:  N Topic-Comment None Contrast NS
+Inner:  Root None None Topic-Comment NN
+[('Read this story from Afghanistan recently .', None, None, None, 1), ('Same old , same old ,', None, None, None, 0), ("' we regret the loss of innocent life ' ,", None, None, None, 0), ("' finish important mission ' , etc .", None, None, None, 1), ("What mission ? We 've accomplished nothing", None, None, None, 0), ('since driving Osama out of Afghanistan 17 years ago .', None, None, None, 1), ("It 's gon na be generations of war and loss of innocent life for nothing .", None, None, None, 1), ('Well , I guess it creates more terrorists', None, None, None, 0), ('which gives the military something to do ,', None, None, None, 0), ("but that 's hardly a good result .", None, None, None, 1)]

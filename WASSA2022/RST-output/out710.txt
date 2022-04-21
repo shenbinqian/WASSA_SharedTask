@@ -1,0 +1,27 @@
+=====================> [[('Wow .', None, None, None, 1), ('Here we go again ,', None, None, None, 0), ('I guess ????', None, None, None, 1), ('A couple of years ago that area in Tennessee was completely devastated by uncontrollable wildfires .', None, None, None, 1), ('Many people lost their lives and their homes .', None, None, None, 1), ('Many businesses were also destroyed .', None, None, None, 1), ('I hope', None, None, None, 0), ("this fire was n't like that one .", None, None, None, 1), ('A group of kids', None, None, None, 0), ('who were playing with matches in the woods', None, None, None, 0), ('set it on fire .', None, None, None, 1), ('They fled the area', None, None, None, 0), ('and told no one', None, None, None, 0)]]
+Leaf:  N Summary Wow .
+Leaf:  N Attribution Here we go again ,
+Leaf:  S span I guess ????
+Inner:  S span None Attribution NS
+Inner:  N Textual-Organization None Summary NS
+Leaf:  N Joint A couple of years ago that area in Tennessee was completely devastated by uncontrollable wildfires .
+Leaf:  N Joint Many people lost their lives and their homes .
+Leaf:  N Joint Many businesses were also destroyed .
+Inner:  N Joint None Joint NN
+Inner:  N Evaluation None Joint NN
+Leaf:  S span I hope
+Leaf:  N Attribution this fire was n't like that one .
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate A group of kids
+Leaf:  S span who were playing with matches in the woods
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit set it on fire .
+Inner:  N Cause None Same-Unit NN
+Leaf:  N Joint They fled the area
+Leaf:  N Joint and told no one
+Inner:  S span None Joint NN
+Inner:  S span None Cause NS
+Inner:  S span None Elaborate NS
+Inner:  N Textual-Organization None Evaluation NS
+Inner:  Root None None Textual-Organization NN
+[('Wow .', None, None, None, 1), ('Here we go again ,', None, None, None, 0), ('I guess ????', None, None, None, 1), ('A couple of years ago that area in Tennessee was completely devastated by uncontrollable wildfires .', None, None, None, 1), ('Many people lost their lives and their homes .', None, None, None, 1), ('Many businesses were also destroyed .', None, None, None, 1), ('I hope', None, None, None, 0), ("this fire was n't like that one .", None, None, None, 1), ('A group of kids', None, None, None, 0), ('who were playing with matches in the woods', None, None, None, 0), ('set it on fire .', None, None, None, 1), ('They fled the area', None, None, None, 0), ('and told no one', None, None, None, 0)]

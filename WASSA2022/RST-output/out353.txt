@@ -1,0 +1,23 @@
+=====================> [[('Yuck .', None, None, None, 1), ("Although I do n't think", None, None, None, 0), ('you can say', None, None, None, 0), ('it was particularly disturbing for women', None, None, None, 0), ('because a lot of women voted for the misogynistic ass .', None, None, None, 1), ("The real problem was reasonable people did n't bother to vote .", None, None, None, 1), ('I did .', None, None, None, 1), ('And after the election news I was so depressed ,', None, None, None, 0), ('I stayed home', None, None, None, 0), ('and drank wine that day .', None, None, None, 1), ("I did n't have to work .", None, None, None, 1)]]
+Leaf:  N Elaborate Yuck .
+Leaf:  S span Although I do n't think
+Leaf:  S span you can say
+Leaf:  N Explanation it was particularly disturbing for women
+Leaf:  S span because a lot of women voted for the misogynistic ass .
+Inner:  N Attribution None Explanation NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The real problem was reasonable people did n't bother to vote .
+Leaf:  S span I did .
+Inner:  S span None Elaborate NS
+Inner:  N Temporal None Explanation NS
+Leaf:  S span And after the election news I was so depressed ,
+Leaf:  N Joint I stayed home
+Leaf:  N Joint and drank wine that day .
+Inner:  N Temporal None Joint NN
+Inner:  N Elaborate None Temporal SN
+Leaf:  S span I did n't have to work .
+Inner:  N Temporal None Elaborate NS
+Inner:  S span None Temporal NN
+Inner:  Root None None Elaborate NS
+[('Yuck .', None, None, None, 1), ("Although I do n't think", None, None, None, 0), ('you can say', None, None, None, 0), ('it was particularly disturbing for women', None, None, None, 0), ('because a lot of women voted for the misogynistic ass .', None, None, None, 1), ("The real problem was reasonable people did n't bother to vote .", None, None, None, 1), ('I did .', None, None, None, 1), ('And after the election news I was so depressed ,', None, None, None, 0), ('I stayed home', None, None, None, 0), ('and drank wine that day .', None, None, None, 1), ("I did n't have to work .", None, None, None, 1)]

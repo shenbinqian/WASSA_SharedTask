@@ -1,0 +1,19 @@
+=====================> [[('This makes me feel nothing .', None, None, None, 1), ("I do n't care about this .", None, None, None, 1), ("I do n't see", None, None, None, 0), ('why I have to care about this .', None, None, None, 1), ('Bad things like this happen all the time', None, None, None, 0), ('and they have no affect on me .', None, None, None, 1), ('I have too many problems of my own', None, None, None, 0), ('to have to worry about more things like this .', None, None, None, 1), ('Thinking about this kind of stuff just adds to my stress .', None, None, None, 1)]]
+Leaf:  N Elaborate This makes me feel nothing .
+Leaf:  N Joint I do n't care about this .
+Leaf:  S span I do n't see
+Leaf:  N Attribution why I have to care about this .
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Explanation None Elaborate NS
+Leaf:  N Joint Bad things like this happen all the time
+Leaf:  N Joint and they have no affect on me .
+Inner:  N Joint None Joint NN
+Leaf:  N Cause I have too many problems of my own
+Leaf:  S span to have to worry about more things like this .
+Inner:  N Joint None Cause NS
+Inner:  S span None Joint NN
+Inner:  N Evaluation None Explanation NS
+Leaf:  S span Thinking about this kind of stuff just adds to my stress .
+Inner:  Root None None Evaluation NS
+[('This makes me feel nothing .', None, None, None, 1), ("I do n't care about this .", None, None, None, 1), ("I do n't see", None, None, None, 0), ('why I have to care about this .', None, None, None, 1), ('Bad things like this happen all the time', None, None, None, 0), ('and they have no affect on me .', None, None, None, 1), ('I have too many problems of my own', None, None, None, 0), ('to have to worry about more things like this .', None, None, None, 1), ('Thinking about this kind of stuff just adds to my stress .', None, None, None, 1)]

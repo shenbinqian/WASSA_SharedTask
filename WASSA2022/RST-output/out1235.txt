@@ -1,0 +1,29 @@
+=====================> [[('I blame reality TV ,', None, None, None, 0), ('for all of the crazy people', None, None, None, 0), ('doing anything', None, None, None, 0), ('to get attention these days .', None, None, None, 1), ('Apparently a man was bit by a snake ,', None, None, None, 0), ('after trying to take a selfie .', None, None, None, 1), ('People today are so interested in themselves , and selfies , and social media , that they often miss the real world around them .', None, None, None, 1), ('This man was literally bit by a snake ,', None, None, None, 0), ('and still posted the selfie ,', None, None, None, 0), ('and was more worried about how many " likes " he would get rather than his snake bite . It sets a bad example for kids , all of these " challenges " their doing .', None, None, None, 1), ('and ,', None, None, None, 0), ('walking down the street ,', None, None, None, 0), ('paying more attention to their phones ,', None, None, None, 0), ('than the road .', None, None, None, 1)]]
+Leaf:  N Same-Unit I blame reality TV ,
+Leaf:  N Elaborate for all of the crazy people
+Leaf:  N Enablement doing anything
+Leaf:  S span to get attention these days .
+Inner:  S span None Enablement NS
+Inner:  N Same-Unit None Elaborate NS
+Inner:  N Elaborate None Same-Unit NN
+Leaf:  N Temporal Apparently a man was bit by a snake ,
+Leaf:  S span after trying to take a selfie .
+Inner:  N Evaluation None Temporal NS
+Leaf:  N Elaborate People today are so interested in themselves , and selfies , and social media , that they often miss the real world around them .
+Leaf:  S span This man was literally bit by a snake ,
+Leaf:  N Temporal and still posted the selfie ,
+Inner:  N Joint None Temporal SN
+Leaf:  N Joint and was more worried about how many " likes " he would get rather than his snake bite . It sets a bad example for kids , all of these " challenges " their doing .
+Inner:  S span None Joint NN
+Inner:  N Joint None Elaborate NS
+Leaf:  N Same-Unit and ,
+Leaf:  N Same-Unit walking down the street ,
+Leaf:  N Comparison paying more attention to their phones ,
+Leaf:  N Comparison than the road .
+Inner:  N Same-Unit None Comparison NN
+Inner:  N Same-Unit None Same-Unit NN
+Inner:  N Joint None Same-Unit NN
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[('I blame reality TV ,', None, None, None, 0), ('for all of the crazy people', None, None, None, 0), ('doing anything', None, None, None, 0), ('to get attention these days .', None, None, None, 1), ('Apparently a man was bit by a snake ,', None, None, None, 0), ('after trying to take a selfie .', None, None, None, 1), ('People today are so interested in themselves , and selfies , and social media , that they often miss the real world around them .', None, None, None, 1), ('This man was literally bit by a snake ,', None, None, None, 0), ('and still posted the selfie ,', None, None, None, 0), ('and was more worried about how many " likes " he would get rather than his snake bite . It sets a bad example for kids , all of these " challenges " their doing .', None, None, None, 1), ('and ,', None, None, None, 0), ('walking down the street ,', None, None, None, 0), ('paying more attention to their phones ,', None, None, None, 0), ('than the road .', None, None, None, 1)]

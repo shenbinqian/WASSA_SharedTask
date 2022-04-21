@@ -1,0 +1,19 @@
+=====================> [[('I am moved to tears', None, None, None, 0), ('reading this .', None, None, None, 1), ('People are not having it easy in other parts of the world .', None, None, None, 1), ('It made me more grateful and thankful .', None, None, None, 1), ('I cant imagine losing my life in such a scary manner .', None, None, None, 1), ('It is a wake up call for us to preach more humanity and love .', None, None, None, 1), ('The number of Africans', None, None, None, 0), ('leaving their continent for greener grass', None, None, None, 0), ('is alarming .', None, None, None, 1)]]
+Leaf:  N Background I am moved to tears
+Leaf:  S span reading this .
+Inner:  N Textual-Organization None Background NS
+Leaf:  N Evaluation People are not having it easy in other parts of the world .
+Leaf:  S span It made me more grateful and thankful .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span I cant imagine losing my life in such a scary manner .
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span It is a wake up call for us to preach more humanity and love .
+Inner:  N Elaborate None Evaluation NS
+Leaf:  N Elaborate The number of Africans
+Leaf:  S span leaving their continent for greener grass
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit is alarming .
+Inner:  S span None Same-Unit NN
+Inner:  N Textual-Organization None Elaborate NS
+Inner:  Root None None Textual-Organization NN
+[('I am moved to tears', None, None, None, 0), ('reading this .', None, None, None, 1), ('People are not having it easy in other parts of the world .', None, None, None, 1), ('It made me more grateful and thankful .', None, None, None, 1), ('I cant imagine losing my life in such a scary manner .', None, None, None, 1), ('It is a wake up call for us to preach more humanity and love .', None, None, None, 1), ('The number of Africans', None, None, None, 0), ('leaving their continent for greener grass', None, None, None, 0), ('is alarming .', None, None, None, 1)]

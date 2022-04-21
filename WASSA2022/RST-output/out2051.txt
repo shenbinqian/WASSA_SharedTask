@@ -1,0 +1,39 @@
+=====================> [[('We watch prison shows and cops shows all the time .', None, None, None, 1), ("It 's always the good , the bad , and usually the ugly .", None, None, None, 1), ('We have watched ones', None, None, None, 0), ('where they are the toughest prisons and ones', None, None, None, 0), ('where they are treated like royalty .', None, None, None, 1), ('It \'s easy for a television show to show you just how " real " it gets inside a prison', None, None, None, 0), ('but even we know', None, None, None, 0), ("that that 's not always the whole truth . It 's TV after all , it 's meant to entertain . I read an article today about the treatment of some inmates . The worst case scenarios", None, None, None, 0), ('that are made', None, None, None, 0), ('to think', None, None, None, 0), ('that our prison system is broken', None, None, None, 0), ('but is that really the case ? I mean we know', None, None, None, 0), ('the justice system is broken', None, None, None, 0), ('and there are criminals', None, None, None, 0), ('walking around on the street', None, None, None, 0), ('so why would anyone think', None, None, None, 0), ("that our prison system is n't just as messed up as our justice system ?", None, None, None, 1), ("Do n't get me wrong ,", None, None, None, 0), ("it 's maddening .", None, None, None, 1)]]
+Leaf:  N Contrast We watch prison shows and cops shows all the time .
+Leaf:  N Elaborate It 's always the good , the bad , and usually the ugly .
+Leaf:  N Elaborate We have watched ones
+Leaf:  N Elaborate where they are the toughest prisons and ones
+Leaf:  S span where they are treated like royalty .
+Inner:  S span None Elaborate NS
+Inner:  S span None Elaborate NS
+Inner:  N Contrast None Elaborate NS
+Inner:  N Evaluation None Contrast NN
+Leaf:  S span It 's easy for a television show to show you just how " real " it gets inside a prison
+Leaf:  S span but even we know
+Leaf:  N Attribution that that 's not always the whole truth . It 's TV after all , it 's meant to entertain . I read an article today about the treatment of some inmates . The worst case scenarios
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Manner-Means that are made
+Leaf:  S span to think
+Leaf:  N Attribution that our prison system is broken
+Inner:  S span None Attribution SN
+Inner:  S span None Manner-Means NS
+Leaf:  S span but is that really the case ? I mean we know
+Leaf:  N Joint the justice system is broken
+Leaf:  N Elaborate and there are criminals
+Leaf:  S span walking around on the street
+Inner:  N Joint None Elaborate NS
+Inner:  N Attribution None Joint NN
+Inner:  S span None Attribution SN
+Leaf:  S span so why would anyone think
+Leaf:  N Attribution that our prison system is n't just as messed up as our justice system ?
+Inner:  N Explanation None Attribution SN
+Inner:  N Contrast None Explanation SN
+Inner:  S span None Contrast SN
+Inner:  N Contrast None Elaborate NS
+Inner:  S span None Contrast SN
+Inner:  N Evaluation None Evaluation NS
+Leaf:  S span Do n't get me wrong ,
+Leaf:  N Evaluation it 's maddening .
+Inner:  S span None Evaluation SN
+Inner:  Root None None Evaluation NS
+[('We watch prison shows and cops shows all the time .', None, None, None, 1), ("It 's always the good , the bad , and usually the ugly .", None, None, None, 1), ('We have watched ones', None, None, None, 0), ('where they are the toughest prisons and ones', None, None, None, 0), ('where they are treated like royalty .', None, None, None, 1), ('It \'s easy for a television show to show you just how " real " it gets inside a prison', None, None, None, 0), ('but even we know', None, None, None, 0), ("that that 's not always the whole truth . It 's TV after all , it 's meant to entertain . I read an article today about the treatment of some inmates . The worst case scenarios", None, None, None, 0), ('that are made', None, None, None, 0), ('to think', None, None, None, 0), ('that our prison system is broken', None, None, None, 0), ('but is that really the case ? I mean we know', None, None, None, 0), ('the justice system is broken', None, None, None, 0), ('and there are criminals', None, None, None, 0), ('walking around on the street', None, None, None, 0), ('so why would anyone think', None, None, None, 0), ("that our prison system is n't just as messed up as our justice system ?", None, None, None, 1), ("Do n't get me wrong ,", None, None, None, 0), ("it 's maddening .", None, None, None, 1)]

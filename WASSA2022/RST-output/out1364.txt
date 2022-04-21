@@ -1,0 +1,29 @@
+=====================> [[('Since you moved to Anchorage ,', None, None, None, 0), ('I ’m sure you ’ve been aware of all the unsolved homicides', None, None, None, 0), ('that have occurred .', None, None, None, 1), ('Just wanted to say', None, None, None, 0), ('“ stay safe ” . Hopefully , that guy', None, None, None, 0), ('that shot at the police officer the other day and whose gun they say', None, None, None, 0), ('was used in some of those unsolved cases ,', None, None, None, 0), ('was the killer . If so , his reign of terror is over . How sad that those people died for what appears to be just being in the wrong place at the wrong time . I just do n’t understand', None, None, None, 0), ('how someone can take the life of another', None, None, None, 0), ('unless their own life is being threatened . Who knows though ? The killer could be mentally ill', None, None, None, 0), ('and think', None, None, None, 0), ('that perfect strangers ARE threatening them !', None, None, None, 1), ('Anyway , keep your eyes open', None, None, None, 0), ('and be careful !', None, None, None, 1)]]
+Leaf:  S span Since you moved to Anchorage ,
+Leaf:  N Elaborate I ’m sure you ’ve been aware of all the unsolved homicides
+Leaf:  S span that have occurred .
+Inner:  N Background None Elaborate NS
+Inner:  S span None Background SN
+Leaf:  S span Just wanted to say
+Leaf:  N Elaborate “ stay safe ” . Hopefully , that guy
+Leaf:  N Same-Unit that shot at the police officer the other day and whose gun they say
+Leaf:  N Same-Unit was used in some of those unsolved cases ,
+Inner:  S span None Same-Unit NN
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit was the killer . If so , his reign of terror is over . How sad that those people died for what appears to be just being in the wrong place at the wrong time . I just do n’t understand
+Inner:  S span None Same-Unit NN
+Leaf:  N Background how someone can take the life of another
+Leaf:  N Joint unless their own life is being threatened . Who knows though ? The killer could be mentally ill
+Leaf:  S span and think
+Leaf:  N Attribution that perfect strangers ARE threatening them !
+Inner:  N Joint None Attribution SN
+Inner:  S span None Joint NN
+Inner:  N Attribution None Background NS
+Inner:  N Attribution None Attribution SN
+Inner:  N Contrast None Attribution SN
+Leaf:  N Joint Anyway , keep your eyes open
+Leaf:  N Joint and be careful !
+Inner:  N Contrast None Joint NN
+Inner:  N Background None Contrast NN
+Inner:  Root None None Background SN
+[('Since you moved to Anchorage ,', None, None, None, 0), ('I ’m sure you ’ve been aware of all the unsolved homicides', None, None, None, 0), ('that have occurred .', None, None, None, 1), ('Just wanted to say', None, None, None, 0), ('“ stay safe ” . Hopefully , that guy', None, None, None, 0), ('that shot at the police officer the other day and whose gun they say', None, None, None, 0), ('was used in some of those unsolved cases ,', None, None, None, 0), ('was the killer . If so , his reign of terror is over . How sad that those people died for what appears to be just being in the wrong place at the wrong time . I just do n’t understand', None, None, None, 0), ('how someone can take the life of another', None, None, None, 0), ('unless their own life is being threatened . Who knows though ? The killer could be mentally ill', None, None, None, 0), ('and think', None, None, None, 0), ('that perfect strangers ARE threatening them !', None, None, None, 1), ('Anyway , keep your eyes open', None, None, None, 0), ('and be careful !', None, None, None, 1)]

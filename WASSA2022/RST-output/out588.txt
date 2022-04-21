@@ -1,0 +1,23 @@
+=====================> [[('There are three sides to every story :', None, None, None, 0), ("the one individual 's side , the other party 's side , and the truth .", None, None, None, 1), ("I 'm not justifying", None, None, None, 0), ('that', None, None, None, 0), ('what the airlines did was right ,', None, None, None, 0), ('but I believe', None, None, None, 0), ('there is much more to the story', None, None, None, 0), ('than what was reported .', None, None, None, 1), ('Granted , privacy issues come into play', None, None, None, 0), ('and not everything can be revealed ;', None, None, None, 0), ('however , I take the complaints with a grain of salt .', None, None, None, 1)]]
+Leaf:  N Elaborate There are three sides to every story :
+Leaf:  S span the one individual 's side , the other party 's side , and the truth .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I 'm not justifying
+Leaf:  S span that
+Leaf:  N Attribution what the airlines did was right ,
+Inner:  N Attribution None Attribution SN
+Inner:  S span None Attribution SN
+Leaf:  S span but I believe
+Leaf:  N Comparison there is much more to the story
+Leaf:  S span than what was reported .
+Inner:  N Attribution None Comparison NS
+Inner:  N Contrast None Attribution SN
+Inner:  N Elaborate None Contrast SN
+Leaf:  N Joint Granted , privacy issues come into play
+Leaf:  N Joint and not everything can be revealed ;
+Inner:  S span None Joint NN
+Leaf:  N Contrast however , I take the complaints with a grain of salt .
+Inner:  S span None Contrast SN
+Inner:  S span None Elaborate NS
+Inner:  Root None None Elaborate NS
+[('There are three sides to every story :', None, None, None, 0), ("the one individual 's side , the other party 's side , and the truth .", None, None, None, 1), ("I 'm not justifying", None, None, None, 0), ('that', None, None, None, 0), ('what the airlines did was right ,', None, None, None, 0), ('but I believe', None, None, None, 0), ('there is much more to the story', None, None, None, 0), ('than what was reported .', None, None, None, 1), ('Granted , privacy issues come into play', None, None, None, 0), ('and not everything can be revealed ;', None, None, None, 0), ('however , I take the complaints with a grain of salt .', None, None, None, 1)]

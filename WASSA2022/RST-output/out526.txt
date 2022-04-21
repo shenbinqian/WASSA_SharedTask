@@ -1,0 +1,21 @@
+=====================> [[("I ca n't believe", None, None, None, 0), ('that this place was ever given a license', None, None, None, 0), ('to carry out their business in the first place .', None, None, None, 1), ('These poor dogs died a slow painful death', None, None, None, 0), ('because the owners of this kennel were so careless .', None, None, None, 1), ('Did they not see the dogs suffering ?', None, None, None, 1), ('How would they like to be locked up in a room in those temps ?', None, None, None, 1), ('Make sure you are taking your pets to a reputable kennel', None, None, None, 0), ('if you do need to board them', None, None, None, 0), ('- I would have to see something like this happen to anyone else !!', None, None, None, 1)]]
+Leaf:  S span I ca n't believe
+Leaf:  N Elaborate that this place was ever given a license
+Leaf:  S span to carry out their business in the first place .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Cause These poor dogs died a slow painful death
+Leaf:  S span because the owners of this kennel were so careless .
+Inner:  N Elaborate None Cause NS
+Leaf:  S span Did they not see the dogs suffering ?
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span How would they like to be locked up in a room in those temps ?
+Inner:  N Evaluation None Evaluation NS
+Leaf:  N Condition Make sure you are taking your pets to a reputable kennel
+Leaf:  S span if you do need to board them
+Inner:  N Evaluation None Condition NS
+Leaf:  S span - I would have to see something like this happen to anyone else !!
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  Root None None Elaborate NS
+[("I ca n't believe", None, None, None, 0), ('that this place was ever given a license', None, None, None, 0), ('to carry out their business in the first place .', None, None, None, 1), ('These poor dogs died a slow painful death', None, None, None, 0), ('because the owners of this kennel were so careless .', None, None, None, 1), ('Did they not see the dogs suffering ?', None, None, None, 1), ('How would they like to be locked up in a room in those temps ?', None, None, None, 1), ('Make sure you are taking your pets to a reputable kennel', None, None, None, 0), ('if you do need to board them', None, None, None, 0), ('- I would have to see something like this happen to anyone else !!', None, None, None, 1)]

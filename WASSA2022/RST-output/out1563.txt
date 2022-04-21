@@ -1,0 +1,33 @@
+=====================> [[('This article is interesting .', None, None, None, 1), ('I guess', None, None, None, 0), ('there is risk with everything', None, None, None, 0), ('and now men concieved through IVF may have trouble conceiving themselves .', None, None, None, 1), ("I 'm glad I did n't have to go the IVF route ,", None, None, None, 0), ("although I guess it 's not a sure thing", None, None, None, 0), ('that the men', None, None, None, 0), ('conceived through IVF', None, None, None, 0), ('will have a lower sperm count ,', None, None, None, 0), ('but I guess', None, None, None, 0), ('the risk is higher .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('there are too many people', None, None, None, 0), ('that know about this information .', None, None, None, 1), ("it 's the first time", None, None, None, 0), ("I 've ever heard of it .", None, None, None, 1)]]
+Leaf:  N Explanation This article is interesting .
+Leaf:  S span I guess
+Leaf:  N Cause there is risk with everything
+Leaf:  S span and now men concieved through IVF may have trouble conceiving themselves .
+Inner:  N Attribution None Cause NS
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Contrast I 'm glad I did n't have to go the IVF route ,
+Leaf:  N Elaborate although I guess it 's not a sure thing
+Leaf:  N Elaborate that the men
+Leaf:  S span conceived through IVF
+Inner:  N Same-Unit None Elaborate NS
+Leaf:  N Same-Unit will have a lower sperm count ,
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Leaf:  S span but I guess
+Leaf:  N Attribution the risk is higher .
+Inner:  N Contrast None Attribution SN
+Inner:  S span None Contrast SN
+Inner:  N Joint None Contrast NS
+Leaf:  S span I do n't think
+Leaf:  N Elaborate there are too many people
+Leaf:  S span that know about this information .
+Inner:  N Attribution None Elaborate NS
+Inner:  N Elaborate None Attribution SN
+Leaf:  N Elaborate it 's the first time
+Leaf:  S span I 've ever heard of it .
+Inner:  S span None Elaborate NS
+Inner:  N Joint None Elaborate NS
+Inner:  S span None Joint NN
+Inner:  S span None Evaluation NS
+Inner:  Root None None Explanation NS
+[('This article is interesting .', None, None, None, 1), ('I guess', None, None, None, 0), ('there is risk with everything', None, None, None, 0), ('and now men concieved through IVF may have trouble conceiving themselves .', None, None, None, 1), ("I 'm glad I did n't have to go the IVF route ,", None, None, None, 0), ("although I guess it 's not a sure thing", None, None, None, 0), ('that the men', None, None, None, 0), ('conceived through IVF', None, None, None, 0), ('will have a lower sperm count ,', None, None, None, 0), ('but I guess', None, None, None, 0), ('the risk is higher .', None, None, None, 1), ("I do n't think", None, None, None, 0), ('there are too many people', None, None, None, 0), ('that know about this information .', None, None, None, 1), ("it 's the first time", None, None, None, 0), ("I 've ever heard of it .", None, None, None, 1)]

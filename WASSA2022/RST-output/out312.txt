@@ -1,0 +1,19 @@
+=====================> [[('It is extremely upsetting', None, None, None, 0), ('that there is a cultural war going on', None, None, None, 0), ('and no one seems to care .', None, None, None, 1), ('The values of muslims in general are not compatible with western culture . Further more , it is an ideology', None, None, None, 0), ('that promotes violence and terrorism .', None, None, None, 1), ('Until people become less tolerant of this disgusting dogma ,', None, None, None, 0), ('things like this will continue to happen .', None, None, None, 1), ('If muslims want to be viewed in a better light in the west ,', None, None, None, 0), ('they need to work on reforming their religion from within .', None, None, None, 1)]]
+Leaf:  S span It is extremely upsetting
+Leaf:  N Temporal that there is a cultural war going on
+Leaf:  N Temporal and no one seems to care .
+Inner:  N Attribution None Temporal NN
+Inner:  N Explanation None Attribution SN
+Leaf:  N Elaborate The values of muslims in general are not compatible with western culture . Further more , it is an ideology
+Leaf:  S span that promotes violence and terrorism .
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span Until people become less tolerant of this disgusting dogma ,
+Leaf:  N Condition things like this will continue to happen .
+Inner:  S span None Condition SN
+Inner:  S span None Elaborate NS
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  S span If muslims want to be viewed in a better light in the west ,
+Leaf:  N Condition they need to work on reforming their religion from within .
+Inner:  N Topic-Comment None Condition SN
+Inner:  Root None None Topic-Comment NN
+[('It is extremely upsetting', None, None, None, 0), ('that there is a cultural war going on', None, None, None, 0), ('and no one seems to care .', None, None, None, 1), ('The values of muslims in general are not compatible with western culture . Further more , it is an ideology', None, None, None, 0), ('that promotes violence and terrorism .', None, None, None, 1), ('Until people become less tolerant of this disgusting dogma ,', None, None, None, 0), ('things like this will continue to happen .', None, None, None, 1), ('If muslims want to be viewed in a better light in the west ,', None, None, None, 0), ('they need to work on reforming their religion from within .', None, None, None, 1)]

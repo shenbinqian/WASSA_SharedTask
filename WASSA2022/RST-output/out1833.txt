@@ -1,0 +1,19 @@
+=====================> [[('This article is extremely sad for the State of Louisiana .', None, None, None, 1), ('Not only has the state been ravaged by floods', None, None, None, 0), ('leading to the damage of both homes and businesses ,', None, None, None, 0), ('but now the economy is being further devastated by the exodus of individuals and population erosion from pre-Katrina years .', None, None, None, 1), ('The state needs an injection of capital', None, None, None, 0), ('to help individuals and small businesses get their feet back underneath them ,', None, None, None, 0), ('and providing the foundation of the local economies', None, None, None, 0), ('to not only sustain themselves', None, None, None, 0), ('and thrive .', None, None, None, 1)]]
+Leaf:  N Explanation This article is extremely sad for the State of Louisiana .
+Leaf:  N Elaborate Not only has the state been ravaged by floods
+Leaf:  S span leading to the damage of both homes and businesses ,
+Inner:  N Joint None Elaborate NS
+Leaf:  N Joint but now the economy is being further devastated by the exodus of individuals and population erosion from pre-Katrina years .
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Explanation NS
+Leaf:  N Enablement The state needs an injection of capital
+Leaf:  N Joint to help individuals and small businesses get their feet back underneath them ,
+Leaf:  N Enablement and providing the foundation of the local economies
+Leaf:  N Joint to not only sustain themselves
+Leaf:  N Joint and thrive .
+Inner:  S span None Joint NN
+Inner:  N Joint None Enablement NS
+Inner:  S span None Joint NN
+Inner:  N Topic-Comment None Enablement NS
+Inner:  Root None None Topic-Comment NN
+[('This article is extremely sad for the State of Louisiana .', None, None, None, 1), ('Not only has the state been ravaged by floods', None, None, None, 0), ('leading to the damage of both homes and businesses ,', None, None, None, 0), ('but now the economy is being further devastated by the exodus of individuals and population erosion from pre-Katrina years .', None, None, None, 1), ('The state needs an injection of capital', None, None, None, 0), ('to help individuals and small businesses get their feet back underneath them ,', None, None, None, 0), ('and providing the foundation of the local economies', None, None, None, 0), ('to not only sustain themselves', None, None, None, 0), ('and thrive .', None, None, None, 1)]

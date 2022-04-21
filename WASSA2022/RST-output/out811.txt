@@ -1,0 +1,35 @@
+=====================> [[('You see this ?', None, None, None, 1), ('Mostly this just pisses me off .', None, None, None, 1), ('America takes ten thousand refugees .', None, None, None, 1), ('Woopee . People are dying ,', None, None, None, 0), ('and they need somewhere safe ,', None, None, None, 0), ('and all we do is take ten thousand .', None, None, None, 1), ("And let 's face it America 's hands are n't clean in the middle east , or Africa . America has learned nothing from past wars .", None, None, None, 1), ('We should be providing help', None, None, None, 0), ('to get people out and a safe place for them to stay ,', None, None, None, 0), ("but instead we just let them die , getting bombed in their cities and drowned at sea . So I 'm angry about this .", None, None, None, 1), ('What kind of society have we become', None, None, None, 0), ('when we let this happen ? America should be doing so much more ,', None, None, None, 0), ('to help these people .', None, None, None, 1), ("It 's callous to think ten thousand is somehow being responsible ,", None, None, None, 0), ('being moral .', None, None, None, 1), ("They 're just trying to find a safe place , away from the constant threat of death everyday ,", None, None, None, 0), ('for themselves and th', None, None, None, 0)]]
+Leaf:  N Evaluation You see this ?
+Leaf:  N Explanation Mostly this just pisses me off .
+Leaf:  N Evaluation America takes ten thousand refugees .
+Leaf:  N Joint Woopee . People are dying ,
+Leaf:  N Joint and they need somewhere safe ,
+Inner:  N Cause None Joint NN
+Leaf:  N Cause and all we do is take ten thousand .
+Inner:  S span None Cause NN
+Inner:  N Elaborate None Evaluation NS
+Leaf:  S span And let 's face it America 's hands are n't clean in the middle east , or Africa . America has learned nothing from past wars .
+Leaf:  N Elaborate We should be providing help
+Leaf:  S span to get people out and a safe place for them to stay ,
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but instead we just let them die , getting bombed in their cities and drowned at sea . So I 'm angry about this .
+Inner:  N Evaluation None Contrast SN
+Inner:  S span None Evaluation SN
+Inner:  N Evaluation None Elaborate NS
+Leaf:  N Background What kind of society have we become
+Leaf:  N Enablement when we let this happen ? America should be doing so much more ,
+Leaf:  S span to help these people .
+Inner:  S span None Enablement NS
+Inner:  N Evaluation None Background NS
+Leaf:  N Joint It 's callous to think ten thousand is somehow being responsible ,
+Leaf:  N Joint being moral .
+Inner:  N Elaborate None Joint NN
+Leaf:  N Same-Unit They 're just trying to find a safe place , away from the constant threat of death everyday ,
+Leaf:  N Same-Unit for themselves and th
+Inner:  S span None Same-Unit NN
+Inner:  S span None Elaborate NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Evaluation NS
+Inner:  S span None Explanation NS
+Inner:  Root None None Evaluation NS
+[('You see this ?', None, None, None, 1), ('Mostly this just pisses me off .', None, None, None, 1), ('America takes ten thousand refugees .', None, None, None, 1), ('Woopee . People are dying ,', None, None, None, 0), ('and they need somewhere safe ,', None, None, None, 0), ('and all we do is take ten thousand .', None, None, None, 1), ("And let 's face it America 's hands are n't clean in the middle east , or Africa . America has learned nothing from past wars .", None, None, None, 1), ('We should be providing help', None, None, None, 0), ('to get people out and a safe place for them to stay ,', None, None, None, 0), ("but instead we just let them die , getting bombed in their cities and drowned at sea . So I 'm angry about this .", None, None, None, 1), ('What kind of society have we become', None, None, None, 0), ('when we let this happen ? America should be doing so much more ,', None, None, None, 0), ('to help these people .', None, None, None, 1), ("It 's callous to think ten thousand is somehow being responsible ,", None, None, None, 0), ('being moral .', None, None, None, 1), ("They 're just trying to find a safe place , away from the constant threat of death everyday ,", None, None, None, 0), ('for themselves and th', None, None, None, 0)]

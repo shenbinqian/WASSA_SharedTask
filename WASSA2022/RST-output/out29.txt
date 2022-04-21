@@ -1,0 +1,19 @@
+=====================> [[('Felt bad reading the article', None, None, None, 0), ('because tons of people are losing basically their lives .', None, None, None, 1), ('The wild fires are destroying their farm , things , and even their animals .', None, None, None, 1), ('Without all of those things they cant have a proper living', None, None, None, 0), ('through buying and selling crops or animals .', None, None, None, 1), ('I hope', None, None, None, 0), ('we can donate to an organization', None, None, None, 0), ('nor something', None, None, None, 0), ('to help them', None, None, None, 0)]]
+Leaf:  N Explanation Felt bad reading the article
+Leaf:  S span because tons of people are losing basically their lives .
+Inner:  N Explanation None Explanation NS
+Leaf:  S span The wild fires are destroying their farm , things , and even their animals .
+Inner:  N Elaborate None Explanation NS
+Leaf:  N Manner-Means Without all of those things they cant have a proper living
+Leaf:  S span through buying and selling crops or animals .
+Inner:  S span None Manner-Means NS
+Inner:  N Evaluation None Elaborate NS
+Leaf:  S span I hope
+Leaf:  N Elaborate we can donate to an organization
+Leaf:  N Elaborate nor something
+Leaf:  S span to help them
+Inner:  S span None Elaborate NS
+Inner:  N Attribution None Elaborate NS
+Inner:  S span None Attribution SN
+Inner:  Root None None Evaluation NS
+[('Felt bad reading the article', None, None, None, 0), ('because tons of people are losing basically their lives .', None, None, None, 1), ('The wild fires are destroying their farm , things , and even their animals .', None, None, None, 1), ('Without all of those things they cant have a proper living', None, None, None, 0), ('through buying and selling crops or animals .', None, None, None, 1), ('I hope', None, None, None, 0), ('we can donate to an organization', None, None, None, 0), ('nor something', None, None, None, 0), ('to help them', None, None, None, 0)]

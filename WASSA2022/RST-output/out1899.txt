@@ -1,0 +1,27 @@
+=====================> [[('Another big earthquake in Chile , seems like they have them pretty regularly .', None, None, None, 1), ('I have only been in a couple of earthquakes', None, None, None, 0), ('and they sure are scary .', None, None, None, 1), ('I know', None, None, None, 0), ("this was n't the biggest earthquake", None, None, None, 0), ('they have had', None, None, None, 0), ('but any is scary .', None, None, None, 1), ('I would sure be worried about the kids', None, None, None, 0), ('they get scared', None, None, None, 0), ('when stuff like this happens', None, None, None, 0), ("because they ca n't understand it .", None, None, None, 1), ("Plus the building standards are n't as high as here in the US", None, None, None, 0), ('so a lot of buildings fall in these big earthquakes', None, None, None, 0)]]
+Leaf:  N Elaborate Another big earthquake in Chile , seems like they have them pretty regularly .
+Leaf:  S span I have only been in a couple of earthquakes
+Leaf:  N Background and they sure are scary .
+Inner:  S span None Background SN
+Inner:  N Elaborate None Elaborate NS
+Leaf:  S span I know
+Leaf:  N Elaborate this was n't the biggest earthquake
+Leaf:  S span they have had
+Inner:  S span None Elaborate NS
+Leaf:  N Contrast but any is scary .
+Inner:  N Attribution None Contrast SN
+Inner:  N Evaluation None Attribution SN
+Leaf:  N Background I would sure be worried about the kids
+Leaf:  N Background they get scared
+Leaf:  S span when stuff like this happens
+Inner:  N Cause None Background NS
+Leaf:  S span because they ca n't understand it .
+Inner:  S span None Cause NS
+Inner:  S span None Background NS
+Inner:  S span None Evaluation NS
+Inner:  N Joint None Elaborate NS
+Leaf:  N Cause Plus the building standards are n't as high as here in the US
+Leaf:  S span so a lot of buildings fall in these big earthquakes
+Inner:  N Joint None Cause NS
+Inner:  Root None None Joint NN
+[('Another big earthquake in Chile , seems like they have them pretty regularly .', None, None, None, 1), ('I have only been in a couple of earthquakes', None, None, None, 0), ('and they sure are scary .', None, None, None, 1), ('I know', None, None, None, 0), ("this was n't the biggest earthquake", None, None, None, 0), ('they have had', None, None, None, 0), ('but any is scary .', None, None, None, 1), ('I would sure be worried about the kids', None, None, None, 0), ('they get scared', None, None, None, 0), ('when stuff like this happens', None, None, None, 0), ("because they ca n't understand it .", None, None, None, 1), ("Plus the building standards are n't as high as here in the US", None, None, None, 0), ('so a lot of buildings fall in these big earthquakes', None, None, None, 0)]
