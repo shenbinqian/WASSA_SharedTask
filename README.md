@@ -1,6 +1,6 @@
-# WASSA_SharedTask
+# WASSA Shared Task 2022 for Empathy/Distress Prediction and Emotion Classification
 
-These are experiment codes for WASSA Shared Task 2022 for emotion classification and empathy/distress prediction. Details can be found at: https://codalab.lisn.upsaclay.fr/competitions/834#learn_the_details-overview.
+This the project code for our participation in the WASSA Shared Task 2022 for empathy/distress prediction and emotion classification. Details of this shared task can be found at: https://codalab.lisn.upsaclay.fr/competitions/834#learn_the_details-overview. Method description can be found in our in-coming paper *SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion*
 
 ## Data
 
