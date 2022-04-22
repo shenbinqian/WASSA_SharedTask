@@ -4,7 +4,7 @@ This is the project code for our participation in the WASSA Shared Task 2022 for
 
 ## Data
 
-The training, development and test datasets are contained in the directory './data', where GoEmotions datasets (Demszky et al., 2020) are also uploaded. RST parsing results (Zhang et al., 2021) of the training and test data are uploaded in './RST-output' and './test_RST respectively'.
+The training, development and test datasets are contained in the directory './data', where filtered GoEmotions datasets (Demszky et al., 2020) are also uploaded. RST parsing results (Zhang et al., 2021) of the training and test data are uploaded in './RST-output' and './test_RST respectively'.
 
 ## Models
 
@@ -12,7 +12,7 @@ Models can be saved and restored in './models', where 'save2.pt' is just an exam
 
 ## Results
 
-Validation and test results can be saved in './ref' and './res'. Predictions of test data can be obtained by './src/test.py' and saved in './res' for uploading to CodaLab. During validation processing, ground truth targets can be saved in './ref' for evaluation by './src/evaluation.py'.
+Validation and test results can be saved in './ref' and './res'. Predictions of test data can be obtained by './src/test.py' and saved in './res' for uploading to CodaLab. During the validation process, ground truth targets can be saved in './ref' for evaluation by './src/evaluation.py' provided by the organisers.
 
 ## Source Code
 
