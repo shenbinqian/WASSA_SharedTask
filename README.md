@@ -4,21 +4,21 @@ This the project code for our participation in the WASSA Shared Task 2022 for em
 
 ## Data
 
-CSV and TSV files contain all texts and other varibles for emotion classfication and empathy/distress prediction.
+The training, development and test datasets are contained in the directory './data', where GoEmotions datasets are also uploaded.
 
-Data_viz.py can be used to visualise the distribution of these data. Preprocessing.py and utils.py can be used to wrangle these data for training purposes.
+RST parsing results of the training and test data are uploaded in './RST-output' and './test_RST respectively'.
 
-## Statistical Learning -- sML.py and ensemble.py
+## Models
 
-sML.py can be used for running of statistical machine learning models for emotion classification and empathy/distress prediction. Ensemble.py can be used for ensemble statistical ML models.
+Models can be saved and restored in './models', where 'save2.pt' is just an example.
 
-## Deep Learning -- DL.py and DLrg.py
+## Results
 
-DL.py and DLrg.py can be used for finetuning deep learning models (Roberta) for emotion classification and empathy/distress prediction.
+Validation and test results can be saved in './ref' and './res'. Predictions of test data can be obtained by './src/test.py' and saved in './res' for uploading to CodaLab. During validation processing, ground truth targets can be saved in './ref' for evaluation by './src/evaluation.py'.
 
-## tabular.py
+## Source Code
 
-Tabular.py can be used for running experiments of combining essays, articles, numerical and categorical features for emotion classification and empathy/distress prediction.
+
 
 ## Environments
 
