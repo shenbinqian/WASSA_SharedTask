@@ -89,7 +89,8 @@ def test_DLrg(input_ids, input_mask, model):
 def test_Embeddings(embeddings, model, problem):
     model.eval()
     with torch.no_grad():
-        _, logits, _ = model(inputs_embeds=embeddings)
+        result = model(inputs_embeds=embeddings, return_dict=True)
+    logits = result.logits
 
     if problem == 'classification' or problem == 'emotion':
         preds = [p.item() for p in np.argmax(F.softmax(logits, dim=-1), axis=-1)]
@@ -121,7 +122,8 @@ def test_MTL(input_ids, input_mask, model, targets, problem):
 def test(input_ids, input_mask, model, problem):
     model.eval()
     with torch.no_grad():
-        _, logits, _ = model(input_ids=input_ids, attention_mask=input_mask)
+        result = model(input_ids=input_ids, attention_mask=input_mask)
+    logits = result.logits
 
     if problem == 'classification' or problem == 'emotion':
         preds = [p.item() for p in np.argmax(F.softmax(logits, dim=-1), axis=-1)]
